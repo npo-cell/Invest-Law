@@ -8,7 +8,7 @@ Trouver la dernière factsheet (reporting mensuel) de chacun des **482 fonds** d
 
 ## Déroulé (commits, heures UTC)
 1. **08:19 — Passe 1 (partielle)** : 97 fonds trouvés, 343 introuvables. Beaucoup de sites gestionnaires injoignables depuis l'environnement cloud (DNS bloqué).
-2. **08:31 — Liste des domaines** : 242 domaines de gestionnaires validés (`domaines_gestionnaires.xlsx`, `allowed_domains.txt`, 276 lignes) pour ouvrir l'accès réseau de l'environnement.
+2. **08:31 — Liste des domaines** : 242 validations de domaines de gestionnaires (site + PDF) (`domaines_gestionnaires.xlsx`, `allowed_domains.txt`, 276 lignes) pour ouvrir l'accès réseau de l'environnement.
 3. **09:30 — Passe 2** : PDF réellement ouverts et ISIN vérifiés → 408/482.
 4. **09:35 — Rattrapage** : 25 fonds supplémentaires via fundinfo et Morningstar.
 
