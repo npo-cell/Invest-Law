@@ -33,7 +33,7 @@ Lecture seule. Chaque rapport en ligne (730 fichiers, 488 fiches) a été télé
 
 ## ISIN non conformes sur les fiches
 
-- 387 R-CO GOLD MINING EUR C : « RCOG387 » → FR0007001581.
+- 387 R-CO GOLD MINING EUR C : « RCOG387 » → FR0007001581. **Corrigé le 12/10/2026** à la demande de l'utilisateur.
 - 165 Carmignac Pf Grandchildren A EUR Acc : « LU196663100 » (11 caractères, tronqué).
 - 373 : ISIN « LU373 » et nom « LU0128499588 » (champs inversés ?).
 - Mandats / fonds internes sans ISIN (normal) : 70, 10, 171, 172, 173, 178, 187, 191, 192, 193, 194, 195.

@@ -96,5 +96,5 @@ python3 tools/investlaw.py call GET /api/maisons            # tout autre appel d
 ```
 
 - **Upload de factsheets en masse** : suivre `INVESTLAW/LISEZMOI.md` (`plan`, puis `upload --limit 1` à valider, puis `upload`).
-- **Mise à jour d'une fiche depuis un PDF** : lire le PDF, préparer les champs, lancer `set` sans `--apply` et montrer le tableau ancien → nouveau à l'utilisateur, puis relancer avec `--apply`. L'outil relit la fiche après l'enregistrement et liste les écarts. Le premier `set --apply` n'a pas encore été testé sur une vraie fiche : vérifier la fiche après ce premier usage.
+- **Mise à jour d'une fiche depuis un PDF** : lire le PDF, préparer les champs, lancer `set` sans `--apply` et montrer le tableau ancien → nouveau à l'utilisateur, puis relancer avec `--apply`. L'outil relit la fiche après l'enregistrement et liste les écarts. `set --apply` est validé (fiche 387, 12/10/2026) : seul le champ visé change, allocations et rapports intacts. ⚠️ Le serveur remet `last_update` (« Mise à jour ») à la date du jour à chaque enregistrement, même si on ne le modifie pas.
 - **Prudence** : chaque écriture modifie la base de production, que voient tous les utilisateurs. Avant toute suppression, vérifier qu'il s'agit bien d'un doublon. Ne pas supprimer le travail d'autres personnes sans accord.
