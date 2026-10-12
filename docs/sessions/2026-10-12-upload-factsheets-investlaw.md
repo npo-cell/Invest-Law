@@ -20,3 +20,9 @@
 - Le classifieur du mode Auto de Claude Code bloque les écritures groupées en production tant que l'utilisateur ne les a pas confirmées explicitement dans le chat.
 - Bug corrigé dans `plan` : seuls les noms contenant « rapport » étaient comptés, si bien qu'une « Fiche mensuelle Août 2026 » n'était pas vue. Cela a causé un doublon sur la fiche 91 (LU1907595398, notre upload `LU1907595398__Factsheet_FR_2026-08-31.pdf`), à supprimer après confirmation. Doublon de la fiche 91 supprimé après confirmation (la « Fiche mensuelle Août 2026 » est conservée).
 - Doublons d'août antérieurs, à arbitrer : fiche 92 (LU0284393930) et fiche 468 (LU1515062674), qui ont chacune un « Rapport de gestion Août 2026 » et une « Fiche mensuelle Août 2026 ». 10 rapports s'appellent « Fiche mensuelle … » et 1 « Fiche produit … ».
+
+## Audit des fiches vs dernière factsheet (lecture seule)
+- Contrôle ISIN de tous les fichiers en ligne (730) : `docs/2026-10-12-controle-isin-fichiers.md`. Aucun fichier d'un autre fonds. ISIN de la fiche 387 corrigé en FR0007001581 à la demande de l'utilisateur.
+- Audit de 439 fiches (8 agents en parallèle, lecture des PDF) : 1 481 écarts (180 ERREUR, 574 MAJ, 727 MANQUANT), 133 fiches sans écart, 74 fiches quasi vides (devise « E »). Rien n'a été modifié sur le site.
+- Livrables : `docs/2026-10-12-audit-fiches-investlaw.xlsx` (onglets Synthèse, Écarts, Par fonds, Fiches à compléter, Contrôle ISIN) et la page de synthèse `docs/2026-10-12-audit-fiches-investlaw.html`, publiée en artefact : https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
+- Limites : SRI rarement lisible (image), certaines répartitions seulement en graphique, encours fonds vs part ; chaque correction sera montrée avant application.
