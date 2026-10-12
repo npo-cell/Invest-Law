@@ -27,11 +27,17 @@ Pré-requis : définir les variables `INVESTLAW_EMAIL` et `INVESTLAW_PASSWORD` d
 
 1. `python3 tools/investlaw_upload.py login` : le site envoie un code à 6 chiffres par email. Claude le lit via le connecteur Gmail.
 2. `python3 tools/investlaw_upload.py verify <code>`
-3. `python3 tools/investlaw_upload.py plan` : associe chaque ISIN à sa fiche et marque `A_UPLOADER`, `DEJA_PRESENT` (un rapport du même mois ou du même nom existe déjà), `FONDS_ABSENT` ou `ISIN_EN_DOUBLE`.
+3. `python3 tools/investlaw_upload.py plan` : associe chaque ISIN à sa fiche, puis compare la factsheet aux rapports déjà en ligne. Attention : sur le site, `report_date` est la **date d'upload**, pas le mois du rapport. Le mois est donc lu dans le **nom** du rapport (« Rapport de gestion Aout 2026 »), sans tenir compte des accents ni des majuscules. Les DIC sont ignorés. Résultats possibles :
+   - `DEJA_PRESENT` : un rapport du même mois (ou du même nom) existe ;
+   - `PLUS_RECENT_PRESENT` : le site a déjà un rapport plus récent, on n'envoie rien ;
+   - `A_VERIFIER` : un rapport sans mois dans son nom a été déposé après le mois de notre factsheet, ce qui peut faire doublon ;
+   - `A_UPLOADER` : notre factsheet est la plus récente ;
+   - `FONDS_ABSENT` / `ISIN_EN_DOUBLE`.
 4. `python3 tools/investlaw_upload.py upload --limit 1` : premier essai sur un seul fonds, à contrôler sur le site. Ensuite, `upload` sans limite.
-5. Les lignes « A contrôler » ne sont envoyées qu'avec `--include-flagged`, après validation.
+5. Les lignes « A contrôler » ne sont envoyées qu'avec `--include-flagged`. Consigne du 12/10/2026 : chaque fonds doit avoir la factsheet la plus récente trouvée, donc on les inclut.
+6. La session expire (erreur 401) : relancer `login` puis `verify` avec le **dernier** code reçu par email.
 
-Le script ne supprime jamais de rapport et ne modifie pas les champs des fiches.
+Le script ne supprime jamais de rapport et ne modifie pas les champs des fiches. Un doublon se supprime à la main sur le site, en cliquant sur la croix du rapport.
 
 ## Fonds sans document (non inclus)
 

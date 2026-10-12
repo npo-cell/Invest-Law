@@ -9,7 +9,7 @@ Identifiants lus dans l'environnement : INVESTLAW_EMAIL, INVESTLAW_PASSWORD.
   upload [--include-flagged] [--limit N]
                    envoie les PDF du plan marqués « A_UPLOADER » ; n'en supprime aucun
 """
-import base64, http.cookiejar, json, os, sys, urllib.error, urllib.request
+import base64, http.cookiejar, json, os, re, sys, unicodedata, urllib.error, urllib.request
 import openpyxl
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -40,6 +40,20 @@ def api(method, path, body=None):
         return status, json.loads(out or b'{}')
     except ValueError:
         return status, {'raw': out[:300].decode(errors='replace')}
+
+
+MOIS = ['janvier', 'fevrier', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout',
+        'septembre', 'octobre', 'novembre', 'decembre']
+
+
+def norm(s):
+    return unicodedata.normalize('NFKD', s or '').encode('ascii', 'ignore').decode().lower().strip()
+
+
+def name_ym(name):
+    """'Rapport de gestion Aout 2026' -> '2026-08' ; None si le nom ne contient pas de mois et d'année."""
+    m = re.search(r'(%s)\s+(\d{4})' % '|'.join(MOIS), norm(name))
+    return '%s-%02d' % (m.group(2), MOIS.index(m.group(1)) + 1) if m else None
 
 
 def rows():
@@ -92,9 +106,17 @@ def cmd_plan():
             reps = reps if isinstance(reps, list) else []
             d = r[H['Date (jj/mm/aaaa)']].value  # jj/mm/aaaa
             ym = d[6:10] + '-' + d[3:5]
-            same = [x for x in reps if str(x.get('report_date', ''))[:7] == ym or (x.get('report_name') or '').strip().lower() == r[H['Nom du rapport']].value.lower()]
-            plan = 'DEJA_PRESENT' if same else 'A_UPLOADER'
-            det = '; '.join('%s (%s)' % (x.get('report_name'), str(x.get('report_date'))[:10]) for x in same) or '%d rapport(s) existant(s)' % len(reps)
+            # report_date sur le site = date d'upload : on compare le mois/année lu dans le nom du rapport
+            raps = [x for x in reps if 'rapport' in norm(x.get('report_name'))]
+            months = [(x, name_ym(x.get('report_name'))) for x in raps]
+            same = [x for x, m in months if m == ym or norm(x.get('report_name')) == norm(r[H['Nom du rapport']].value)]
+            newer = [x for x, m in months if m and m > ym]
+            # nom sans mois : déposé au plus tard le mois de notre factsheet => forcément pas plus récent
+            vague = [x for x, m in months if not m and str(x.get('report_date'))[:7] > ym]
+            plan = ('DEJA_PRESENT' if same else 'PLUS_RECENT_PRESENT' if newer
+                    else 'A_VERIFIER' if vague else 'A_UPLOADER')
+            det = '; '.join('%s (%s)' % (x.get('report_name'), str(x.get('report_date'))[:10])
+                            for x in same or newer or vague) or '%d rapport(s) existant(s)' % len(reps)
         r[H['FundId']].value, r[H['Fiche (nom sur le site)']].value, r[H['Plan']].value, r[H['Détail']].value = fid, nom, plan, det
     wb.save(MANIFEST)
     from collections import Counter
