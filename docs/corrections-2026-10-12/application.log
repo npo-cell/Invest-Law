@@ -1,0 +1,100 @@
+2 | PUT 200 OK | écarts après relecture : aucun
+3 | PUT 200 OK | écarts après relecture : ['total_assets']
+5 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'assets', 'geographies']
+6 | PUT 200 OK | écarts après relecture : ['geographies']
+8 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'assets', 'geographies']
+9 | PUT 200 OK | écarts après relecture : aucun
+12 | PUT 200 OK | écarts après relecture : aucun
+14 | PUT 200 OK | écarts après relecture : aucun
+15 | PUT 200 OK | écarts après relecture : aucun
+16 | PUT 200 OK | écarts après relecture : ['total_assets']
+23 | PUT 200 OK | écarts après relecture : aucun
+26 | PUT 200 OK | écarts après relecture : aucun
+29 | PUT 200 OK | écarts après relecture : ['positions']
+34 | PUT 200 OK | écarts après relecture : aucun
+35 | PUT 200 OK | écarts après relecture : aucun
+38 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'assets']
+42 | PUT 200 OK | écarts après relecture : ['geographies']
+43 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'assets', 'geographies']
+45 | PUT 200 OK | écarts après relecture : ['geographies']
+46 | PUT 200 OK | écarts après relecture : aucun
+47 | PUT 200 OK | écarts après relecture : ['total_assets']
+49 | PUT 200 OK | écarts après relecture : ['total_assets']
+50 | PUT 200 OK | écarts après relecture : aucun
+52 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+53 | PUT 200 OK | écarts après relecture : ['total_assets']
+54 | PUT 200 OK | écarts après relecture : ['geographies']
+56 | PUT 200 OK | écarts après relecture : ['positions']
+57 | PUT 200 OK | écarts après relecture : ['total_assets']
+59 | PUT 200 OK | écarts après relecture : aucun
+60 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+63 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+67 | PUT 200 OK | écarts après relecture : aucun
+69 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors']
+71 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+72 | PUT 200 OK | écarts après relecture : aucun
+73 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+74 | PUT 200 OK | écarts après relecture : ['sectors']
+76 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+77 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+78 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+79 | PUT 200 OK | écarts après relecture : aucun
+80 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+81 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+82 | PUT 200 OK | écarts après relecture : aucun
+83 | PUT 200 OK | écarts après relecture : aucun
+84 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+85 | PUT 200 OK | écarts après relecture : ['sectors']
+86 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+87 | PUT 200 OK | écarts après relecture : ['geographies']
+88 | PUT 200 OK | écarts après relecture : aucun
+89 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'assets', 'geographies']
+90 | PUT 200 OK | écarts après relecture : ['total_assets']
+91 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+93 | PUT 200 OK | écarts après relecture : ['geographies']
+94 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors', 'assets', 'geographies']
+95 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+96 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+97 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+98 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+99 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+100 | PUT 200 OK | écarts après relecture : aucun
+101 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+102 | PUT 200 OK | écarts après relecture : ['positions']
+103 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+104 | PUT 200 OK | écarts après relecture : ['positions']
+105 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+106 | PUT 200 OK | écarts après relecture : aucun
+107 | PUT 200 OK | écarts après relecture : aucun
+109 | PUT 200 OK | écarts après relecture : ['total_assets']
+110 | PUT 200 OK | écarts après relecture : aucun
+111 | PUT 200 OK | écarts après relecture : ['total_assets']
+112 | PUT 200 OK | écarts après relecture : aucun
+113 | PUT 200 OK | écarts après relecture : aucun
+114 | PUT 200 OK | écarts après relecture : aucun
+115 | PUT 200 OK | écarts après relecture : ['positions']
+117 | PUT 200 OK | écarts après relecture : aucun
+120 | PUT 200 OK | écarts après relecture : ['assets']
+121 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'assets', 'geographies']
+122 | PUT 200 OK | écarts après relecture : aucun
+123 | PUT 200 OK | écarts après relecture : ['sectors']
+125 | PUT 200 OK | écarts après relecture : aucun
+126 | PUT 200 OK | écarts après relecture : aucun
+127 | PUT 200 OK | écarts après relecture : aucun
+129 | PUT 200 OK | écarts après relecture : aucun
+130 | PUT 200 OK | écarts après relecture : ['total_assets']
+131 | PUT 200 OK | écarts après relecture : aucun
+132 | PUT 200 OK | écarts après relecture : ['total_assets']
+133 | PUT 200 OK | écarts après relecture : ['total_assets']
+134 | PUT 200 OK | écarts après relecture : ['total_assets']
+137 | PUT 200 OK | écarts après relecture : ['total_assets']
+139 | PUT 200 OK | écarts après relecture : ['geographies']
+165 | PUT 200 OK | écarts après relecture : ['total_assets']
+196 | PUT 200 OK | écarts après relecture : aucun
+197 | PUT 200 OK | écarts après relecture : aucun
+208 | PUT 200 OK | écarts après relecture : aucun
+209 | PUT 200 OK | écarts après relecture : aucun
+211 | PUT 200 OK | écarts après relecture : ['total_assets']
+215 | PUT 200 OK | écarts après relecture : ['positions']
+218 | PUT 200 OK | écarts après relecture : ['positions']
+219 | PUT 200 OK | écarts après relecture : aucun
