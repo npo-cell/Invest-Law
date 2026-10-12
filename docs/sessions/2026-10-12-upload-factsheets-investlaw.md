@@ -11,5 +11,5 @@
 ## Suite : apprentissage complet du site
 - Le site a été cartographié (15 pages, environ 75 appels d'API, rôles) dans `docs/2026-10-12-guide-invest-law.md`. Une compétence `.claude/skills/invest-law/SKILL.md` est ajoutée au dépôt, et un outil `tools/investlaw.py` (fund / set / delete-report / call).
 - Le doublon créé par le test sur la fiche 206 a été supprimé (`DELETE /api/funds/206/reports`). Le rapport d'origine est conservé.
-- 7 doublons plus anciens existent sur des fonds ODDO BHF (fiches 129 à 134 et 137) : un « Rapport de gestion Août 2026 » déposé le 14/09 et un autre déposé le 05/10. Ils ne viennent pas de nous : il faut l'accord de l'utilisateur avant de supprimer.
+- 7 doublons ODDO BHF (fiches 129 à 134 et 137) : à la demande de l'utilisateur, les versions du 14/09 ont été supprimées ; la version « Factsheet_ODDO_BHF… » du 05/10 est conservée.
 - `set --apply` (PUT d'une fiche) n'a pas encore été testé sur une vraie fiche : le test a été refusé par le contrôle de sécurité automatique.
