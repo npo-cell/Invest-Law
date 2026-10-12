@@ -1,0 +1,68 @@
+[
+[
+519,
+"fees",
+"1.02",
+"None"
+],
+[
+519,
+"fund_manager",
+"Christine Cheung, Hui Lor",
+"None"
+],
+[
+519,
+"positions",
+"[{'name': 'CHINA GOVERNMENT BOND (CGB)', 'percentage': '10.30'}, {'name': 'SWIRE",
+"[]"
+],
+[
+246,
+"total_assets",
+"589.89",
+"356.37"
+],
+[
+246,
+"fund_manager",
+"Joël Reuland, Marc Erpelding",
+"Joël Reuland, Maxime Hoss (suppléant)"
+],
+[
+246,
+"positions",
+"[{'name': 'Deutschland ILB 15-04-30', 'percentage': '4.30'}, {'name': 'Bundesrep",
+"[{'name': 'Deutschland ILB 15-04-30', 'percentage': '4.10'}, {'name': 'Unilever'"
+],
+[
+246,
+"assets",
+"[{'name': 'Actions', 'percentage': '38.50'}, {'name': 'Obligations', 'percentage",
+"[{'name': 'Actions', 'percentage': '43.60'}, {'name': 'Métaux précieux', 'percen"
+],
+[
+245,
+"total_assets",
+"148.31",
+"104.10"
+],
+[
+245,
+"benchmark_id",
+"49",
+"None"
+],
+[
+245,
+"positions",
+"[{'name': 'Deutschland ILB 15-04-30', 'percentage': '6.70'}, {'name': 'Bundesobl",
+"[{'name': 'Deutschland 0,25% 15-02-27', 'percentage': '5.90'}, {'name': 'Bundesr"
+],
+[
+245,
+"assets",
+"[{'name': 'Obligations', 'percentage': '44.60'}, {'name': 'Actions', 'percentage",
+"[{'name': 'Obligations', 'percentage': '37.10'}, {'name': 'Actions', 'percentage"
+]
+]

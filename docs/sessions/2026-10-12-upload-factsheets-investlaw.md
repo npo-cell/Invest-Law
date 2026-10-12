@@ -26,3 +26,10 @@
 - Audit de 439 fiches (8 agents en parallèle, lecture des PDF) : 1 481 écarts (180 ERREUR, 574 MAJ, 727 MANQUANT), 133 fiches sans écart, 74 fiches quasi vides (devise « E »). Rien n'a été modifié sur le site.
 - Livrables : `docs/2026-10-12-audit-fiches-investlaw.xlsx` (onglets Synthèse, Écarts, Par fonds, Fiches à compléter, Contrôle ISIN) et la page de synthèse `docs/2026-10-12-audit-fiches-investlaw.html`, publiée en artefact : https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
 - Limites : SRI rarement lisible (image), certaines répartitions seulement en graphique, encours fonds vs part ; chaque correction sera montrée avant application.
+
+## Corrections des fiches (appliquées le 12/10/2026 après confirmation explicite de l'utilisateur)
+- Plan : `docs/corrections-2026-10-12/` (un JSON par fiche dans `plan/`, simulation dans `simulation-corrections.xlsx`, journal `application.log`, contrôle `verification.json`).
+- Résultat : 263 fiches sur 266 enregistrées. 1 202 champs vérifiés conformes après relecture (valeurs comparées sans tenir compte du format ni de l'ordre des lignes).
+- Refusées par le site (409 « Ce code ISIN est déjà enregistré », rien n'a été modifié) : 245 BL-Global 30 (LU0048292394), 246 BL-Global 50 (LU0048292808), 519 Gavekal China Fixed Income (IE00BYRGXY37). Aucune autre fiche visible n'a cet ISIN : le doublon est probablement un fonds masqué ou supprimé, à voir avec un administrateur du site.
+- Non faits : 64 benchmarks absents du référentiel (`Benchmarks à créer`), 242 valeurs incertaines (`Non corrigés`), 28 listes au total incohérent, ISIN de la fiche 165.
+- Le site a remis « Mise à jour » au 12/10/2026 sur les fiches corrigées.

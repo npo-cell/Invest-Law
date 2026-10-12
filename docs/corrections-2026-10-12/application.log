@@ -98,3 +98,169 @@
 215 | PUT 200 OK | écarts après relecture : ['positions']
 218 | PUT 200 OK | écarts après relecture : ['positions']
 219 | PUT 200 OK | écarts après relecture : aucun
+220 | PUT 200 OK | écarts après relecture : ['positions']
+221 | PUT 200 OK | écarts après relecture : aucun
+222 | PUT 200 OK | écarts après relecture : aucun
+230 | PUT 200 OK | écarts après relecture : ['total_assets']
+231 | PUT 200 OK | écarts après relecture : ['sectors']
+243 | PUT 200 OK | écarts après relecture : aucun
+244 | PUT 200 OK | écarts après relecture : ['positions']
+245 | PUT 409 Ce code ISIN est déjà enregistré. | écarts après relecture : ['total_assets', 'benchmark_id', 'positions', 'assets']
+246 | PUT 409 Ce code ISIN est déjà enregistré. | écarts après relecture : ['fund_manager', 'total_assets', 'positions', 'assets']
+247 | PUT 200 OK | écarts après relecture : ['positions']
+255 | PUT 200 OK | écarts après relecture : aucun
+261 | PUT 200 OK | écarts après relecture : ['total_assets']
+262 | PUT 200 OK | écarts après relecture : ['total_assets']
+263 | PUT 200 OK | écarts après relecture : ['positions']
+264 | PUT 200 OK | écarts après relecture : ['positions']
+265 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'assets']
+266 | PUT 200 OK | écarts après relecture : ['total_assets']
+267 | PUT 200 OK | écarts après relecture : aucun
+273 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+276 | PUT 200 OK | écarts après relecture : aucun
+277 | PUT 200 OK | écarts après relecture : aucun
+279 | PUT 200 OK | écarts après relecture : ['positions']
+280 | PUT 200 OK | écarts après relecture : ['sectors']
+281 | PUT 200 OK | écarts après relecture : ['sectors']
+282 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors']
+283 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors']
+285 | PUT 200 OK | écarts après relecture : ['total_assets']
+286 | PUT 200 OK | écarts après relecture : aucun
+289 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'geographies']
+290 | PUT 200 OK | écarts après relecture : ['total_assets']
+291 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'assets']
+293 | PUT 200 OK | écarts après relecture : ['total_assets']
+295 | PUT 200 OK | écarts après relecture : aucun
+296 | PUT 200 OK | écarts après relecture : ['geographies']
+299 | PUT 200 OK | écarts après relecture : aucun
+300 | PUT 200 OK | écarts après relecture : ['total_assets', 'assets', 'geographies']
+302 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors']
+304 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+311 | PUT 200 OK | écarts après relecture : ['total_assets']
+313 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+314 | PUT 200 OK | écarts après relecture : aucun
+315 | PUT 200 OK | écarts après relecture : aucun
+316 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+317 | PUT 200 OK | écarts après relecture : ['geographies']
+318 | PUT 200 OK | écarts après relecture : ['total_assets']
+319 | PUT 200 OK | écarts après relecture : ['total_assets']
+320 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+321 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors', 'geographies']
+322 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors']
+324 | PUT 200 OK | écarts après relecture : aucun
+326 | PUT 200 OK | écarts après relecture : aucun
+329 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+330 | PUT 200 OK | écarts après relecture : ['geographies']
+331 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+332 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+333 | PUT 200 OK | écarts après relecture : ['geographies']
+334 | PUT 200 OK | écarts après relecture : ['assets']
+336 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors', 'geographies']
+338 | PUT 200 OK | écarts après relecture : aucun
+339 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'geographies']
+340 | PUT 200 OK | écarts après relecture : aucun
+341 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'geographies']
+342 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'geographies']
+343 | PUT 200 OK | écarts après relecture : ['positions']
+345 | PUT 200 OK | écarts après relecture : aucun
+346 | PUT 200 OK | écarts après relecture : ['total_assets']
+347 | PUT 200 OK | écarts après relecture : aucun
+349 | PUT 200 OK | écarts après relecture : aucun
+350 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+358 | PUT 200 OK | écarts après relecture : ['total_assets']
+359 | PUT 200 OK | écarts après relecture : ['assets']
+361 | PUT 200 OK | écarts après relecture : aucun
+362 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors']
+363 | PUT 200 OK | écarts après relecture : ['positions']
+364 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+365 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'assets']
+366 | PUT 200 OK | écarts après relecture : ['geographies']
+368 | PUT 200 OK | écarts après relecture : ['geographies']
+369 | PUT 200 OK | écarts après relecture : ['geographies']
+370 | PUT 200 OK | écarts après relecture : aucun
+371 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+372 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+374 | PUT 200 OK | écarts après relecture : aucun
+380 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+381 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+383 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+385 | PUT 200 OK | écarts après relecture : aucun
+386 | PUT 200 OK | écarts après relecture : aucun
+388 | PUT 200 OK | écarts après relecture : aucun
+390 | PUT 200 OK | écarts après relecture : aucun
+391 | PUT 200 OK | écarts après relecture : ['positions']
+392 | PUT 200 OK | écarts après relecture : aucun
+393 | PUT 200 OK | écarts après relecture : ['positions']
+394 | PUT 200 OK | écarts après relecture : ['positions']
+395 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+397 | PUT 200 OK | écarts après relecture : ['geographies']
+399 | PUT 200 OK | écarts après relecture : ['geographies']
+400 | PUT 200 OK | écarts après relecture : aucun
+402 | PUT 200 OK | écarts après relecture : ['total_assets']
+403 | PUT 200 OK | écarts après relecture : ['total_assets']
+404 | PUT 200 OK | écarts après relecture : ['positions', 'sectors']
+405 | PUT 200 OK | écarts après relecture : ['positions', 'sectors']
+406 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+407 | PUT 200 OK | écarts après relecture : ['positions']
+408 | PUT 200 OK | écarts après relecture : ['positions', 'sectors']
+409 | PUT 200 OK | écarts après relecture : ['total_assets']
+410 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'geographies']
+414 | PUT 200 OK | écarts après relecture : aucun
+415 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+416 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+421 | PUT 200 OK | écarts après relecture : aucun
+422 | PUT 200 OK | écarts après relecture : ['positions']
+423 | PUT 200 OK | écarts après relecture : ['total_assets']
+424 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'geographies']
+428 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+429 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+433 | PUT 200 OK | écarts après relecture : ['total_assets']
+434 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+436 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+437 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+438 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+439 | PUT 200 OK | écarts après relecture : ['positions', 'geographies']
+440 | PUT 200 OK | écarts après relecture : aucun
+441 | PUT 200 OK | écarts après relecture : aucun
+442 | PUT 200 OK | écarts après relecture : aucun
+447 | PUT 200 OK | écarts après relecture : ['sectors', 'geographies']
+449 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+450 | PUT 200 OK | écarts après relecture : ['total_assets']
+451 | PUT 200 OK | écarts après relecture : ['total_assets']
+452 | PUT 200 OK | écarts après relecture : ['total_assets']
+453 | PUT 200 OK | écarts après relecture : ['total_assets']
+458 | PUT 200 OK | écarts après relecture : aucun
+460 | PUT 200 OK | écarts après relecture : ['geographies']
+461 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions']
+462 | PUT 200 OK | écarts après relecture : ['total_assets']
+463 | PUT 200 OK | écarts après relecture : ['total_assets']
+464 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'geographies']
+478 | PUT 200 OK | écarts après relecture : ['assets']
+486 | PUT 200 OK | écarts après relecture : ['total_assets']
+490 | PUT 200 OK | écarts après relecture : ['total_assets']
+491 | PUT 200 OK | écarts après relecture : aucun
+492 | PUT 200 OK | écarts après relecture : ['positions']
+493 | PUT 200 OK | écarts après relecture : ['total_assets']
+494 | PUT 200 OK | écarts après relecture : ['positions', 'assets']
+495 | PUT 200 OK | écarts après relecture : ['assets']
+497 | PUT 200 OK | écarts après relecture : ['positions', 'sectors', 'assets', 'geographies']
+498 | PUT 200 OK | écarts après relecture : ['total_assets']
+499 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+500 | PUT 200 OK | écarts après relecture : ['total_assets', 'geographies']
+502 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors', 'assets', 'geographies']
+503 | PUT 200 OK | écarts après relecture : ['total_assets']
+504 | PUT 200 OK | écarts après relecture : ['total_assets', 'assets']
+506 | PUT 200 OK | écarts après relecture : ['total_assets']
+507 | PUT 200 OK | écarts après relecture : aucun
+512 | PUT 200 OK | écarts après relecture : ['total_assets']
+513 | PUT 200 OK | écarts après relecture : ['sectors', 'assets', 'geographies']
+514 | PUT 200 OK | écarts après relecture : aucun
+515 | PUT 200 OK | écarts après relecture : aucun
+516 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors', 'geographies']
+517 | PUT 200 OK | écarts après relecture : ['sectors']
+518 | PUT 200 OK | écarts après relecture : aucun
+519 | PUT 409 Ce code ISIN est déjà enregistré. | écarts après relecture : ['fund_manager', 'fees', 'positions']
+520 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'geographies']
+521 | PUT 200 OK | écarts après relecture : ['total_assets', 'sectors', 'geographies']
+524 | PUT 200 OK | écarts après relecture : aucun
+529 | PUT 200 OK | écarts après relecture : ['geographies']
