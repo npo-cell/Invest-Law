@@ -4,7 +4,7 @@ Rapports intitulés « Rapport de gestion » (ou équivalent) sans mois. Le mois
 
 - 82 rapports : 78 renommés « Rapport de gestion <Mois> <Année> », datés de la factsheet ; 4 sont en fait des DIC, renommés « DIC (Document d'informations clés) ».
 - Aucun conflit : aucun fonds n'a déjà un rapport du même mois.
-- Fiche 129 traitée en test le 12/10/2026 (OK). Les autres attendent la validation de l'utilisateur.
+- Appliqué le 12/10/2026 après confirmation de l'utilisateur : 82/82 OK (fiche 129 en test, puis 81). Vérification globale : plus aucun rapport sans mois sur le site.
 
 | Fiche | ISIN (nouveau fichier) | Ancien nom | Ancien fichier | Nouveau nom | Date | Source de la date |
 |---|---|---|---|---|---|---|

@@ -107,7 +107,8 @@ def cmd_plan():
             d = r[H['Date (jj/mm/aaaa)']].value  # jj/mm/aaaa
             ym = d[6:10] + '-' + d[3:5]
             # report_date sur le site = date d'upload : on compare le mois/année lu dans le nom du rapport
-            raps = [x for x in reps if 'rapport' in norm(x.get('report_name'))]
+            # tout document sauf les DIC/KID (« Rapport de gestion », « Fiche mensuelle », « Fiche produit »…)
+            raps = [x for x in reps if not re.search(r'\b(dic|kid)\b|informations cles', norm(x.get('report_name')))]
             months = [(x, name_ym(x.get('report_name'))) for x in raps]
             same = [x for x, m in months if m == ym or norm(x.get('report_name')) == norm(r[H['Nom du rapport']].value)]
             newer = [x for x, m in months if m and m > ym]
