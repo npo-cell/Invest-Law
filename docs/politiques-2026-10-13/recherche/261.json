@@ -1,0 +1,11 @@
+{
+ "fund_id": 261,
+ "statut": "AUCUN",
+ "langue": "FR",
+ "paragraphes": [],
+ "note": "Factsheet émetteur (Syquant Capital) FR au 31/08/2026 trouvée, ISIN LU1112771503 vérifié, mais le seul texte descriptif est la phrase de gamme « Les fonds Helium ont pour objectif de réaliser une performance absolue faiblement corrélée au comportement des marchés actions. » (commune à la gamme Helium, déjà signalée) : pas de description propre au fonds. Version fundinfo FR/EN 31/07/2026 identique sur ce point.",
+ "source_url": "https://www.syquant-capital.fr/wp-content/themes/syquant/docs/factsheets/factsheet-fr-LU1112771503.pdf",
+ "fichier": "pdf/261__LU1112771503__FR_2026-08-31.pdf",
+ "date_factsheet": "2026-08-31",
+ "isin_verifie": true
+}
