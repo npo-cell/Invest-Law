@@ -99,8 +99,8 @@ ul.notes{margin:0;padding-left:18px;display:grid;gap:6px;color:var(--ink-2);max-
   <header>
     <span class="eyebrow">invest-law.eu · audit en lecture seule</span>
     <h1>Fiches fonds face à leur dernière factsheet</h1>
-    <p class="lede">Chaque fiche du site a été comparée, champ par champ, à la factsheet la plus récente mise en ligne sur sa page. Les corrections ont été appliquées le 12/10/2026 sur 263 fiches, après validation ; cette page montre ce qui est corrigé et ce qu'il reste à faire.</p>
-    <div class="meta"><span>Audit et corrections du 12/10/2026</span><span>Champs : encours, devise, frais, TER, SRI, gérant, date de création, benchmark, positions, allocations</span></div>
+    <p class="lede">Chaque fiche du site a été comparée, champ par champ, à la factsheet la plus récente mise en ligne sur sa page. Les corrections ont été appliquées le 12/10/2026 sur 263 fiches, puis le 13/10/2026 sur 9 fiches dont la factsheet manquait, après validation ; cette page montre ce qui est corrigé et ce qu'il reste à faire.</p>
+    <div class="meta"><span>Audit et corrections des 12 et 13/10/2026</span><span>Champs : encours, devise, frais, TER, SRI, gérant, date de création, benchmark, positions, allocations</span></div>
   </header>
 
   <div class="kpis" id="kpis"></div>
@@ -110,6 +110,7 @@ ul.notes{margin:0;padding-left:18px;display:grid;gap:6px;color:var(--ink-2);max-
     <div class="panel">
       <div class="kpis" id="skpis"></div>
       <div class="legend"><span><i style="background:var(--st-ok)"></i>Corrigé</span><span><i style="background:var(--st-todo)"></i>Reste à faire</span><span><i style="background:var(--s-err)"></i>Refusé par le site</span><span><i style="background:var(--s-man)"></i>Hors périmètre</span></div>
+      <p class="count">S'y ajoutent, le 13/10/2026, 46 champs remplis sur 9 fiches à partir des factsheets retrouvées (voir « Fonds sans factsheet »).</p>
       <h3>Par origine de l'écart</h3>
       <div id="sorig"></div>
       <h3>Par champ</h3>
@@ -237,12 +238,13 @@ setTimeout(() => {
 });
 
 // Research
+const FILL = {199:6,200:6,201:4,202:4,203:4,204:6,205:6,250:3,278:7};
 const RL = {TROUVE:['Trouvée','s-ok'], A_VALIDER:['À valider','s-todo'], NON_CONFORME:['Non conforme','s-ref'], INTROUVABLE:['Introuvable','s-out']};
 $('#nb-int').textContent = D.recherche.internes; $('#nb-ext').textContent = D.recherche.fonds.length;
 const rc = count(D.recherche.fonds,'statut');
 $('#rkpis').innerHTML = Object.entries(RL).map(([k,[l]]) => `<div class="kpi"><b>${rc[k]||0}</b><span>${l}${(rc[k]||0)>1?'s':''}</span></div>`).join('');
 const RO = {TROUVE:0,A_VALIDER:1,NON_CONFORME:2,INTROUVABLE:3};
-$('#rbody').innerHTML = [...D.recherche.fonds].sort((a,b)=>RO[a.statut]-RO[b.statut]||a.fund_id-b.fund_id).map(f => `<tr><td class="mono">${f.fund_id}<div class="sub">${esc(f.isin)}</div></td><td>${esc(f.nom)}</td><td><span class="chip ${RL[f.statut][1]}">${RL[f.statut][0]}</span>${f.date?`<div class="sub">au ${esc(f.date.split('-').reverse().join('/'))}</div>`:''}</td><td class="sub">${f.statut==='TROUVE'?'En ligne sur invest-law.eu depuis le 13/10/2026. ':''}${esc((f.remarque||'').slice(0,220))}${(f.remarque||'').length>220?'…':''}</td></tr>`).join('');
+$('#rbody').innerHTML = [...D.recherche.fonds].sort((a,b)=>RO[a.statut]-RO[b.statut]||a.fund_id-b.fund_id).map(f => `<tr><td class="mono">${f.fund_id}<div class="sub">${esc(f.isin)}</div></td><td>${esc(f.nom)}</td><td><span class="chip ${RL[f.statut][1]}">${RL[f.statut][0]}</span>${f.date?`<div class="sub">au ${esc(f.date.split('-').reverse().join('/'))}</div>`:''}</td><td class="sub">${f.statut==='TROUVE'?`<b>En ligne et fiche remplie le 13/10/2026</b> (${FILL[f.fund_id]||0} champs). `:''}${esc((f.remarque||'').slice(0,220))}${(f.remarque||'').length>220?'…':''}</td></tr>`).join('');
 
 // Origins
 const WHY = {
