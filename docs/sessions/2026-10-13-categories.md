@@ -6,3 +6,4 @@
 - **Modifications du site (13/10/2026 ~19h–19h30 UTC)** : 343 fiches, champ Catégorie. Relecture : 343/343 conformes (`docs/categories-2026-10-13/verification.json`).
 - **Fichiers** : `docs/2026-10-13-categories-avant-apres.xlsx` (avant / après), `docs/categories-2026-10-13/` (JSON par fiche, journal, vérification).
 - À noter : le site mélange désormais catégories anglaises (fichier OneLife) et anciennes catégories françaises sur les 145 autres fiches.
+- **Page d'audit recalculée** (13/10/2026 21h16 UTC) : 718 documents, 413 fiches à factsheet conforme, 48 à corriger ; lignes ajoutées (343 catégories OneLife, 2 doublons DNCA supprimés). https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
