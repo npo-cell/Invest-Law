@@ -8,6 +8,7 @@ Outils : `tools/investlaw_upload.py` (connexion, upload en masse des factsheets)
 - Identifiants : variables d'environnement `INVESTLAW_EMAIL` et `INVESTLAW_PASSWORD` (jamais dans le dépôt ni dans le chat).
 - `python3 tools/investlaw_upload.py login` envoie un code à 6 chiffres par email, venant de `info@invest-law.eu`. Claude le lit via Gmail (`from:info@invest-law.eu newer_than:15m`). Il faut prendre le **dernier** code reçu, qui expire au bout de 10 minutes.
 - `python3 tools/investlaw_upload.py verify <code>` enregistre les cookies dans `~/.investlaw/cookies.txt`, partagés par les deux scripts.
+- Une fois connecté, mettre à la corbeille le mail du code utilisé (consigne du 13/10/2026 : le code ne sert plus).
 - Si une commande renvoie 401, la session a expiré : refaire `login` puis `verify`. Une connexion depuis un autre poste peut aussi invalider la session.
 - `GET /api/session` renvoie l'utilisateur, son rôle et la date d'expiration de la session.
 
@@ -98,3 +99,14 @@ python3 tools/investlaw.py call GET /api/maisons            # tout autre appel d
 - **Upload de factsheets en masse** : suivre `INVESTLAW/LISEZMOI.md` (`plan`, puis `upload --limit 1` à valider, puis `upload`).
 - **Mise à jour d'une fiche depuis un PDF** : lire le PDF, préparer les champs, lancer `set` sans `--apply` et montrer le tableau ancien → nouveau à l'utilisateur, puis relancer avec `--apply`. L'outil relit la fiche après l'enregistrement et liste les écarts. `set --apply` est validé (fiche 387, 12/10/2026) : seul le champ visé change, allocations et rapports intacts. ⚠️ Le serveur remet `last_update` (« Mise à jour ») à la date du jour à chaque enregistrement, même si on ne le modifie pas.
 - **Prudence** : chaque écriture modifie la base de production, que voient tous les utilisateurs. Avant toute suppression, vérifier qu'il s'agit bien d'un doublon. Ne pas supprimer le travail d'autres personnes sans accord.
+
+## 6. Règles métier (consignes de l'équipe)
+
+- **Fonds internes et mandats sans document public** : fonds FID (FID=1), fonds internes d'assurance (ISIN `XFCS…`), mandats DNCA, Leleux Secu, Keren, Rothschild & Co FID, portefeuilles modèles Leleux FMP. Il est normal qu'ils n'aient pas de factsheet : ne pas les compter comme des manques dans les audits.
+- **Recherche d'une factsheet** : d'abord le site du gestionnaire (source d'origine), sinon Morningstar ou fundinfo. Contrôles obligatoires avant de retenir un PDF :
+  1. l'ISIN de la part figure dans le PDF ;
+  2. la date du document est la plus récente disponible ;
+  3. le PDF vient directement de l'émetteur ou d'une base reconnue, pas d'un site tiers qui le recopie ;
+  4. la part est exactement celle de la fiche, pas une autre classe du même fonds.
+- Les documents trouvés sont ajoutés dans `INVESTLAW/` avant tout upload ou remplissage des fiches.
+- Après chaque connexion, mettre à la corbeille le mail du code utilisé.

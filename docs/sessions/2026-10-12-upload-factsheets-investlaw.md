@@ -38,3 +38,6 @@
 - Constat : la branche par défaut du dépôt est `claude/kind-edison-2o3dsu` ; tout le travail était sur `claude/lucid-edison-kjhbfm`, donc invisible pour les collègues.
 - Demande de fusion mise à jour : https://github.com/npo-cell/Invest-Law/pull/1 (inclut aussi le contenu de la demande n°2, factsheets One Life).
 - Règle ajoutée dans `AGENTS.md` : en fin de tâche, fusionner vers la branche par défaut ; en début de tâche, consulter les demandes de fusion ouvertes.
+
+## Consigne (13/10/2026)
+- Après chaque connexion à invest-law.eu, mettre à la corbeille le mail du code de vérification utilisé. Ajouté à la compétence `invest-law` et au guide.
