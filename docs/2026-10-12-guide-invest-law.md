@@ -8,6 +8,7 @@ Outils : `tools/investlaw_upload.py` (connexion, upload en masse des factsheets)
 - Identifiants : variables d'environnement `INVESTLAW_EMAIL` et `INVESTLAW_PASSWORD` (jamais dans le dépôt ni dans le chat).
 - `python3 tools/investlaw_upload.py login` envoie un code à 6 chiffres par email, venant de `info@invest-law.eu`. Claude le lit via Gmail (`from:info@invest-law.eu newer_than:15m`). Il faut prendre le **dernier** code reçu, qui expire au bout de 10 minutes.
 - `python3 tools/investlaw_upload.py verify <code>` enregistre les cookies dans `~/.investlaw/cookies.txt`, partagés par les deux scripts.
+- Une fois connecté, mettre à la corbeille le mail du code utilisé (consigne du 13/10/2026 : le code ne sert plus).
 - Si une commande renvoie 401, la session a expiré : refaire `login` puis `verify`. Une connexion depuis un autre poste peut aussi invalider la session.
 - `GET /api/session` renvoie l'utilisateur, son rôle et la date d'expiration de la session.
 
