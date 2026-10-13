@@ -41,3 +41,9 @@
 
 ## Consigne (13/10/2026)
 - Après chaque connexion à invest-law.eu, mettre à la corbeille le mail du code de vérification utilisé. Ajouté à la compétence `invest-law` et au guide.
+
+## 13/10/2026 — Fonds sans factsheet, règles de l'équipe
+- Noa confirme la fusion automatique vers la branche par défaut (règle de `AGENTS.md`), demande n°3 fusionnée.
+- Règles notées dans le guide et la compétence : fonds internes/mandats exclus des manques ; 4 contrôles de recherche ; « mieux vaut incomplet que faux » ; mail du code de connexion mis à la corbeille après usage.
+- Recherche sur 30 fonds externes : 9 factsheets trouvées et rangées dans `INVESTLAW/` (FFG ×7, Candriam Robotic, IVO IG 2030), 2 à valider (Alken : factsheet multi-parts ; Waterloo : marquée « Internal use only »), 3 non conformes (factsheet d'une autre classe : Leleux P, SPM Y), 16 introuvables. Détail : `docs/2026-10-13-recherche-factsheets-manquantes.md`. Rien n'a été mis en ligne.
+- Page d'audit mise à jour (section « Fonds sans factsheet ») : https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
