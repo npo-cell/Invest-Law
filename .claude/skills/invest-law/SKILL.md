@@ -6,7 +6,7 @@ description: Toute tâche sur le site invest-law.eu (fiches fonds, rapports de g
 # invest-law.eu
 
 1. Lire `docs/2026-10-12-guide-invest-law.md`, qui contient la carte complète des pages, des rôles et de l'API, avec les recettes.
-2. Connexion : `python3 tools/investlaw_upload.py login`, lire le **dernier** code envoyé par `info@invest-law.eu` via Gmail, puis `python3 tools/investlaw_upload.py verify <code>`. En cas de 401, recommencer.
+2. Connexion : `python3 tools/investlaw_upload.py login`, lire le **dernier** code envoyé par `info@invest-law.eu` via Gmail, puis `python3 tools/investlaw_upload.py verify <code>`. En cas de 401, recommencer. **Une fois connecté (verify OK), mettre à la corbeille le mail du code utilisé** (Gmail `trash_thread`) : consigne de l'utilisatrice, le code ne sert plus.
 3. Outils :
    - `tools/investlaw.py` : `fund`, `set` (simulation par défaut, `--apply` pour enregistrer), `delete-report`, `call METHODE chemin [corps.json]` ;
    - `tools/investlaw_upload.py` : upload en masse des factsheets, procédure dans `INVESTLAW/LISEZMOI.md`.
