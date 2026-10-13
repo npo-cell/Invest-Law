@@ -1,0 +1,463 @@
+{
+ "creer": [
+  {
+   "code": "ICEBOFA-UST3M",
+   "nom": "ICE BofA US 3-Month Treasury Bill Index",
+   "fiches": [
+    3
+   ],
+   "benchmark_id": 176
+  },
+  {
+   "code": "MSCIW15-OATFR2028",
+   "nom": "15% MSCI World + 85% obligations de l'État français échéance 2028 en EUR",
+   "fiches": [
+    6
+   ],
+   "benchmark_id": 177
+  },
+  {
+   "code": "ACWI60-GLAGG40",
+   "nom": "60% MSCI AC World Index (dividendes nets réinvestis) / 40% Bloomberg Global Aggregate Bond Total Return",
+   "fiches": [
+    11
+   ],
+   "benchmark_id": 178
+  },
+  {
+   "code": "LIPPER-GMA-EUR-FLEX",
+   "nom": "Lipper Global Mixed Asset EUR Flexible - Global",
+   "fiches": [
+    12
+   ],
+   "benchmark_id": 179
+  },
+  {
+   "code": "ODDO-POLARIS-FLEX",
+   "nom": "35% MSCI Europe (Net Return) + 20% MSCI USA NET in EUR + 5% MSCI Emerging Markets Daily Net TR EUR + 20% JPM Cash Index Euro Currency 1M + 20% Bloomberg Euro Aggregate TR Unhedged 1-10",
+   "fiches": [
+    20
+   ],
+   "benchmark_id": 180
+  },
+  {
+   "code": "BGF-GA-COMPOSITE",
+   "nom": "36% S&P 500, 24% FTSE World ex-US, 24% 5 Yr US Treasury Note, 16% FTSE Non-USD World Government Bond Index",
+   "fiches": [
+    28,
+    232
+   ],
+   "benchmark_id": 181
+  },
+  {
+   "code": "ESTR-OIS+3",
+   "nom": "100% ESTR capitalisé (OIS) + 3% p.a.",
+   "fiches": [
+    36
+   ],
+   "benchmark_id": 182
+  },
+  {
+   "code": "CG-GHI-COMPOSITE",
+   "nom": "50% Bloomberg US Corporate High Yield 2% Issuer Capped TR, 20% JPM EMBI TR, 20% JPM GBI-EM Global Diversified TR, 10% JPM CEMBI Broad Diversified TR",
+   "fiches": [
+    39
+   ],
+   "benchmark_id": 183
+  },
+  {
+   "code": "BBG-GLAGG-USDH",
+   "nom": "Bloomberg Global Aggregate Index (USD Hedged)",
+   "fiches": [
+    40
+   ],
+   "benchmark_id": 184
+  },
+  {
+   "code": "JPM-EM-THIRDS",
+   "nom": "1/3 JPM EMBI Global Diversified, 1/3 JPM CEMBI Broad Diversified, 1/3 JPM GBI-EM Global Diversified",
+   "fiches": [
+    43
+   ],
+   "benchmark_id": 185
+  },
+  {
+   "code": "ESTR+1.40",
+   "nom": "€STR + 1,40 %",
+   "fiches": [
+    44
+   ],
+   "benchmark_id": 186
+  },
+  {
+   "code": "MSCIW-HC-NR-EUR",
+   "nom": "MSCI World Health Care Index Net Return (EUR)",
+   "fiches": [
+    64
+   ],
+   "benchmark_id": 187
+  },
+  {
+   "code": "FTSE-EPRA-DEV",
+   "nom": "FTSE EPRA Nareit Developed Index",
+   "fiches": [
+    67
+   ],
+   "benchmark_id": 188
+  },
+  {
+   "code": "ALIENOR-ALTER",
+   "nom": "15% Euro Stoxx 50 NR (SX5T) + 10% MSCI World NR (MSDEWIN) + 35% Solactive Eurozone Government Bond TR (SOLEUSOV) + 40% €STR capitalisé (OISESTR)",
+   "fiches": [
+    209
+   ],
+   "benchmark_id": 189
+  },
+  {
+   "code": "MSCI-CHINA-A-USD",
+   "nom": "MSCI China A Onshore Total Return Net (USD)",
+   "fiches": [
+    212
+   ],
+   "benchmark_id": 190
+  },
+  {
+   "code": "BBG-US-AGG",
+   "nom": "Bloomberg US Aggregate",
+   "fiches": [
+    215
+   ],
+   "benchmark_id": 191
+  },
+  {
+   "code": "ATHENA-GDBO",
+   "nom": "30% €STR capitalisé + 50% Solactive Eurozone Government Bond Index TR + 20% Solactive Euro HY Corp Index",
+   "fiches": [
+    219
+   ],
+   "benchmark_id": 192
+  },
+  {
+   "code": "AURIS-AXELIA",
+   "nom": "20% EURO STOXX 50 NR EUR + 10% MSCI Daily Net TR World Euro + 60% Bloomberg Global-Aggregate TR Hedged EUR + 10% Bloomberg Global High Yield TR Hedged EUR",
+   "fiches": [
+    221
+   ],
+   "benchmark_id": 193
+  },
+  {
+   "code": "AURIS-EXPERTISE",
+   "nom": "50% Euro Stoxx 50 (EUR - Net Return) + 30% Bloomberg Euro Aggregate Treasury 3-5 Year + 20% S&P 500 (EUR - Net Return)",
+   "fiches": [
+    222
+   ],
+   "benchmark_id": 194
+  },
+  {
+   "code": "ESTR+8.5BP-CAP+200",
+   "nom": "100% (€STR + 8,5 bps) capitalisé + 200 bps",
+   "fiches": [
+    225
+   ],
+   "benchmark_id": 195
+  },
+  {
+   "code": "SPI-MID60-LARGE40",
+   "nom": "60% SPI Middle Caps Total Return Gross + 40% SPI Large Caps Total Return Gross",
+   "fiches": [
+    227
+   ],
+   "benchmark_id": 196
+  },
+  {
+   "code": "ICEBOFA-GHY-USDH",
+   "nom": "ICE BofA Global High Yield Constrained (HW0C) 100% USD Hedged Index",
+   "fiches": [
+    233
+   ],
+   "benchmark_id": 197
+  },
+  {
+   "code": "BBG-WGILB-1-20-USDH",
+   "nom": "BBG WGILB All Markets 1-20 Yrs 100% Hedged to USD Index (USD)",
+   "fiches": [
+    234
+   ],
+   "benchmark_id": 198
+  },
+  {
+   "code": "MSCI-EMLATAM-1040",
+   "nom": "MSCI EM Latin America 10/40 Index (USD)",
+   "fiches": [
+    235
+   ],
+   "benchmark_id": 199
+  },
+  {
+   "code": "MSCIW-ENERGY-1040",
+   "nom": "MSCI World Energy 30% Buffer 10/40 NET Index (USD)",
+   "fiches": [
+    237
+   ],
+   "benchmark_id": 200
+  },
+  {
+   "code": "FTSE-GOLDMINES-PR",
+   "nom": "FTSE Gold Mines Index (Price Return) (USD)",
+   "fiches": [
+    238,
+    239
+   ],
+   "benchmark_id": 201
+  },
+  {
+   "code": "MSCI-ACWI-MM-1040",
+   "nom": "MSCI ACWI Metals & Mining 30% Buffer 10/40 (1994) (USD)",
+   "fiches": [
+    240,
+    241
+   ],
+   "benchmark_id": 202
+  },
+  {
+   "code": "MSCI-ACWI-IT1040-EUR",
+   "nom": "MSCI ACWI Information Technology 10/40 Index (EUR)",
+   "fiches": [
+    242
+   ],
+   "benchmark_id": 203
+  },
+  {
+   "code": "SP60-USAGG40",
+   "nom": "60% S&P 500 / 40% Bloomberg US Aggregate Bond",
+   "fiches": [
+    280
+   ],
+   "benchmark_id": 204
+  },
+  {
+   "code": "OMRX-TBILL",
+   "nom": "OMRX Treasury Bill",
+   "fiches": [
+    318
+   ],
+   "benchmark_id": 205
+  },
+  {
+   "code": "SIXPRX50-SEKIG50",
+   "nom": "50% SIX Portfolio Return Index + 50% Solactive SEK IG Credit Index",
+   "fiches": [
+    320
+   ],
+   "benchmark_id": 206
+  },
+  {
+   "code": "CARNEGIE-SC-SWE",
+   "nom": "Carnegie Small Cap Sweden Return Index",
+   "fiches": [
+    321,
+    492
+   ],
+   "benchmark_id": 207
+  },
+  {
+   "code": "SIX-PRX",
+   "nom": "SIX Portfolio Return Index",
+   "fiches": [
+    322
+   ],
+   "benchmark_id": 208
+  },
+  {
+   "code": "LIONTRUST-SF-MAG",
+   "nom": "Liontrust SF Multi-Asset Global Index",
+   "fiches": [
+    329
+   ],
+   "benchmark_id": 209
+  },
+  {
+   "code": "MSCI-ASIAXJ-EURH",
+   "nom": "MSCI ACF Asia ex-Japan USD ND (EUR Cross Hdg.)",
+   "fiches": [
+    330
+   ],
+   "benchmark_id": 210
+  },
+  {
+   "code": "FTSE-GF-CB-MIX",
+   "nom": "2/3 FTSE Russell Global Focus couvert + 1/3 FTSE Russell Global Focus IG couvert",
+   "fiches": [
+    331
+   ],
+   "benchmark_id": 211
+  },
+  {
+   "code": "ACWI60-GLAGG40-USD",
+   "nom": "60% MSCI ACWI NET TR USD + 40% Bloomberg Global-Aggregate TR Unhedged USD",
+   "fiches": [
+    334
+   ],
+   "benchmark_id": 212
+  },
+  {
+   "code": "MSCIW-MICRO-NR-EUR",
+   "nom": "MSCI World Microcap NR EUR",
+   "fiches": [
+    341
+   ],
+   "benchmark_id": 213
+  },
+  {
+   "code": "STOXX600-40-ESTR60",
+   "nom": "40% Stoxx Europe 600 NR + 60% €STR",
+   "fiches": [
+    346
+   ],
+   "benchmark_id": 214
+  },
+  {
+   "code": "OFI-MULTITRACK",
+   "nom": "25% Bloomberg Euro Aggregate Corporate + 25% Bloomberg US Corporate Bond Euro Hedged + 50% MSCI World 100% Hedged to EUR",
+   "fiches": [
+    359
+   ],
+   "benchmark_id": 215
+  },
+  {
+   "code": "OSLO-OSEFX",
+   "nom": "Oslo Børs Mutual Fund Index",
+   "fiches": [
+    362
+   ],
+   "benchmark_id": 216
+  },
+  {
+   "code": "MSCI-EMASIA-NR",
+   "nom": "MSCI EM Asia NR",
+   "fiches": [
+    404
+   ],
+   "benchmark_id": 217
+  },
+  {
+   "code": "SCHRODER-GMAI",
+   "nom": "30% MSCI AC World Index (USD) + 40% Barclays Global Aggregate Corporate Bond Index (USD) + 30% Barclays Global High Yield excl CMBS & EMG 2% Index (USD)",
+   "fiches": [
+    405
+   ],
+   "benchmark_id": 218
+  },
+  {
+   "code": "MSCI-GOLDDRAGON-NR",
+   "nom": "MSCI Golden Dragon NR",
+   "fiches": [
+    408
+   ],
+   "benchmark_id": 219
+  },
+  {
+   "code": "ESTR70-FRN30",
+   "nom": "70% €STR capitalisé + 30% Bloomberg EUR FRN Index Unhedged EUR",
+   "fiches": [
+    421
+   ],
+   "benchmark_id": 220
+  },
+  {
+   "code": "ESTR-CAP+200",
+   "nom": "€STR capitalisé + 200 bps",
+   "fiches": [
+    441
+   ],
+   "benchmark_id": 221
+  },
+  {
+   "code": "MSCI-INDIA-NR-USD",
+   "nom": "MSCI India NR USD",
+   "fiches": [
+    442
+   ],
+   "benchmark_id": 222
+  },
+  {
+   "code": "MSCI-ACWI-NR-USD",
+   "nom": "MSCI ACWI NR USD",
+   "fiches": [
+    447
+   ],
+   "benchmark_id": 223
+  },
+  {
+   "code": "RUSSELL-2500",
+   "nom": "Russell 2500",
+   "fiches": [
+    461
+   ],
+   "benchmark_id": 224
+  },
+  {
+   "code": "REFINITIV-EUFOCUS-CB",
+   "nom": "Refinitiv Europe Focus Hedged Convertible Bond Index EUR",
+   "fiches": [
+    490
+   ],
+   "benchmark_id": 225
+  },
+  {
+   "code": "SONIA",
+   "nom": "SONIA (Sterling Overnight Index Average)",
+   "fiches": [
+    505
+   ],
+   "benchmark_id": 226
+  },
+  {
+   "code": "MSCIW-IT-USD",
+   "nom": "MSCI World Information Technology Index (USD)",
+   "fiches": [
+    516
+   ],
+   "benchmark_id": 227
+  },
+  {
+   "code": "CAC40NR50-ESTR50",
+   "nom": "50% CAC 40 NR + 50% €STR capitalisé",
+   "fiches": [
+    517
+   ],
+   "benchmark_id": 228
+  },
+  {
+   "code": "MSCI-ASIAXJ-NR",
+   "nom": "MSCI Asie hors Japon (dividendes nets réinvestis)",
+   "fiches": [
+    520
+   ],
+   "benchmark_id": 229
+  },
+  {
+   "code": "SOFR-EURH",
+   "nom": "SOFR (couvert en EUR)",
+   "fiches": [
+    528
+   ],
+   "benchmark_id": 230
+  }
+ ],
+ "renommer": [
+  {
+   "benchmark_id": 39,
+   "nom": "10% €STR + 8,5 bp + 90% MSCI France Smid Cap Loc Net",
+   "fiches": [
+    132
+   ]
+  }
+ ],
+ "ecartes": {
+  "236": "deux indices de référence cités",
+  "332": "trois indices différents selon les usages",
+  "406": "devise de l'indice non précisée",
+  "434": "objectif de gestion, pas un indice de référence"
+ }
+}
