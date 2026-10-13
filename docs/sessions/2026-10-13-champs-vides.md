@@ -9,3 +9,4 @@
 - Rien n'a été modifié sur le site.
 - **Appliqué sur le site (13/10/2026 ~10h08 UTC, accord de l'utilisatrice)** : 519 frais de gestion 1.02, gérants « Christine Cheung, Hui Lor » ; 410 date de création 2025-12-13 ; 448 devise E → EUR, frais de gestion 1.80, gérants « G. Brisset, N. Descoqs, M. Goueffon ». Relecture : aucun écart (`docs/champs-vides-2026-10-13/appliques/`).
 - **Page d'audit recalculée** (10h09 UTC) : 228 complètes, 200 presque, 21 incomplètes, 12 quasi vides ; 402 champs vides : 63 à vérifier, 307 à demander, 32 sans objet. Fichier xlsx mis à jour. La page est désormais partagée par lien.
+- **Page d'audit réécrite pour la direction** (13/10, à la demande de l'utilisatrice) : mêmes chiffres (calcul 10h09 UTC), avec « En bref » (93 % complètes ou presque), ce qui reste et qui doit agir, tableau des maisons, prochaines étapes, détail en fin de page. Partagée par lien. Consigne ajoutée au guide.
