@@ -1,0 +1,9 @@
+# 2026-10-13 — Champs vides : remplissables ou à demander aux gestionnaires
+
+- **Objectif** (demande de l'utilisatrice) : savoir, pour chaque champ vide, si on peut encore le remplir nous-mêmes ou s'il faut le demander au gestionnaire. Un champ vide n'est pas grave ; il faut seulement savoir où ils sont.
+- **Méthode** : 408 champs vides des 461 fiches externes (calcul sur le site 13/10 09h40 UTC). Dernière factsheet en ligne (+ DIC éventuel) de chaque fiche relue (4 agents, citations). Benchmarks : analyse de `benchmarks-2026-10-13-complement/`. Valeurs « trouvées » revérifiées sur le PDF.
+- **Résultat** : 6 remplissables, 63 à vérifier, 307 à demander (179 fiches, 66 maisons), 32 sans objet (fonds déclarant ne pas avoir d'indice).
+- **Remplissables (non appliqués, en attente d'accord)** : 519 Gavekal China FI C EUR : frais de gestion 1,02 %, gérants Christine Cheung, Hui Lor ; 410 Sextant Regatta 2031 A : date de création 13/12/2025 (part) ; 448 Clartan Valeurs C : devise EUR, frais de gestion 1,80 %, gérants G. Brisset, N. Descoqs, M. Goueffon (PDF à police codée, lu sur l'image).
+- **À vérifier, cas fréquents** : « frais de gestion et autres coûts administratifs » (agrégat PRIIPs) au lieu de la commission de gestion ; encours du fonds dans une autre devise ; date du fonds au lieu de la part ; document d'une autre part (127, 444, 445, 458, 468).
+- **Livrables** : `docs/2026-10-13-champs-vides-a-demander.xlsx` (onglets : à demander par maison, tous les champs vides) ; détail brut `docs/champs-vides-2026-10-13/` ; page d'audit complétée (section « Champs vides : que peut-on faire ? », couleur des champs dans la liste) : https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
+- Rien n'a été modifié sur le site.
