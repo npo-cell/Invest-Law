@@ -1,0 +1,11 @@
+{
+ "fund_id": 383,
+ "statut": "AUCUN",
+ "langue": null,
+ "paragraphes": [],
+ "note": "Recherché : site du gestionnaire wealtheon.eu (pages /protea-fund en NL/FR/EN et pages des autres fonds) : seuls KID classe A (FR/EN/NL) et prospectus publiés, aucune factsheet mensuelle. wealtheon.com est un domaine parqué. Recherches web (ISIN, nom + factsheet/monthly report) : uniquement des pages de données tierces (finanzen.ch, scopeexplorer, wealins, citywire classe C, bloomberg) et un PRP allfunds de 2025 pour la classe B (LU1554377074), rejetés (sites tiers / autre part / pas une factsheet). Morningstar.be renvoie 403 ; fundinfo est une application JS non interrogeable. Aucune factsheet FR/EN de LU1554376936 trouvée.",
+ "source_url": null,
+ "fichier": null,
+ "date_factsheet": null,
+ "isin_verifie": false
+}

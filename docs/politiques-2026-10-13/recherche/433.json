@@ -1,0 +1,11 @@
+{
+ "fund_id": 433,
+ "statut": "AUCUN",
+ "langue": "EN",
+ "paragraphes": [],
+ "note": "Recherche via l'API documentaire du site Columbia Threadneedle (Kurtosys, searchDocuments). Seule factsheet dont la part de référence est LU0640488994 (AEH) : LU0640488994_IT_IT_RETAILFFS (italien, refusé). Factsheets FR/EN existantes (LU1102542534_FR_CH / _EN_CH, LU1298174530_FR_FR, LU1297908904_FR_LU/EN_LU, datées 09-2026) = autres parts (AEC, AE, AUP) : AEH n'y figure que dans le tableau des parts disponibles, donc refusées (part non exacte).",
+ "source_url": null,
+ "fichier": null,
+ "date_factsheet": null,
+ "isin_verifie": false
+}

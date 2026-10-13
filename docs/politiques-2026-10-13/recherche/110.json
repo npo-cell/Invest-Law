@@ -1,0 +1,11 @@
+{
+ "fund_id": 110,
+ "statut": "AUCUN",
+ "langue": "EN",
+ "paragraphes": [],
+ "note": "Aucune factsheet FR/EN pour Dividend - RT (LU2473801830). Site émetteur (flossbachvonstorch.lu, fonds-api portrait en/LU, en/DE, en/AT, en/CH) : pas de factsheet mensuelle listée pour cette part ; URLs fsl11 /documents/LU2473801830/fr|en/<lu,ch,be,fr,li,de,at,it,es,pt>/mr/ = 404 ; seule existe la version allemande (/de/de/mr/, rejetée : langue). Recherche web ISIN : aucun résultat ; fundinfo non exploitable (page JS). Ne pas utiliser la factsheet EN d'une autre part.",
+ "source_url": null,
+ "fichier": null,
+ "date_factsheet": null,
+ "isin_verifie": false
+}

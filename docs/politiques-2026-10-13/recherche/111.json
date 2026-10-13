@@ -1,0 +1,11 @@
+{
+ "fund_id": 111,
+ "statut": "AUCUN",
+ "langue": "EN",
+ "paragraphes": [],
+ "note": "Aucune factsheet FR/EN pour Global Quality - RT (LU2673417882). Site émetteur (flossbachvonstorch.lu, fonds-api portrait en/LU, en/DE, en/AT, en/CH) : pas de factsheet mensuelle listée pour cette part ; URLs fsl11 /documents/LU2673417882/fr|en/<lu,ch,be,fr,li,de,at,it,es,pt>/mr/ = 404 ; seule existe la version allemande (/de/de/mr/, rejetée : langue). Recherche web ISIN : aucun résultat ; fundinfo non exploitable (page JS). Ne pas utiliser la factsheet EN d'une autre part.",
+ "source_url": null,
+ "fichier": null,
+ "date_factsheet": null,
+ "isin_verifie": false
+}

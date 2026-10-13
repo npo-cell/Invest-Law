@@ -1,0 +1,11 @@
+{
+ "fund_id": 444,
+ "statut": "AUCUN",
+ "langue": null,
+ "paragraphes": [],
+ "note": "Recherché : vector.lu page du fonds Flexible (y compris en sélectionnant la classe C3, classid=6) et page Documents (338 factsheets listées) : seules des factsheets Flexible C1 (dernière : factsheet-flexible-202609.pdf, 30/09/2026, EN) ; elle ne mentionne que LU0558384458 (C1), LU1030155458 (P) et LU1013276123 (I1), pas LU0558384706 (C3). Pour C3 seuls des KID existent. Recherche web sur l'ISIN : aucun résultat. Morningstar.be 403 ; fundinfo non interrogeable. Rejet : autre part. Note : le texte de la factsheet C1 a en outre des ligatures illisibles (fi/rt).",
+ "source_url": "https://www.vector.lu/en/documents/",
+ "fichier": null,
+ "date_factsheet": null,
+ "isin_verifie": false
+}
