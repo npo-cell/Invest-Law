@@ -16,3 +16,10 @@
   - pas de factsheet publiée : 383 Protea, 384 Quest Cleantech, 417 Smart Value, 279 Carmignac Court Terme (seul un reporting hebdo sans texte), 127 MainFirst Megatrends Asia (fusionné le 01/10/2026 dans LAIQON SICAV, devenue part R USD) ;
   - factsheet conforme mais sans texte descriptif : 24 Lazard Patrimoine Croissance, 520 GemAsia, 521 GemEquity, 261 Helium Selection (phrase de gamme) ;
   - site inaccessible depuis l'environnement : 360 Omega (lazardfreresgestion.fr), et Morningstar (403) pour tous.
+
+## Upload des factsheets conformes retrouvées (13/10/2026 ~15h30 UTC, demande de l'utilisatrice)
+- Ajoutées : 357 Norden « Rapport de Gestion Août 2026 » (EN ; la fiche n'avait qu'un rapport annuel) ; 261 Helium Selection « Rapport de Gestion Août 2026 » (FR, plus récente que juillet EN).
+- Remplacées (même mois, un seul rapport par mois) : septembre 2026 en espagnol/allemand/suédois remplacé par la version FR (3, 23, 109, 492) ou EN (16) ; 366 Pictet : le « Monthly Fund Insights » de septembre remplacé par la fiche technique mensuelle FR de septembre. Anciens fichiers supprimés après vérification que le nouveau était en ligne.
+- Non envoyées : 24 (identique au rapport d'août déjà en ligne), 520 et 521 (août EN, plus ancien que le septembre FR déjà en ligne).
+- Contrôle : les 8 PDF téléchargés depuis le site sont identiques aux fichiers source (md5). Journal : `docs/politiques-2026-10-13/upload-factsheets.log`.
+- Morningstar : le site refuse les accès depuis l'environnement cloud (403 de sa protection anti-robots CloudFront/AWS WAF, y compris avec un vrai navigateur) ; la recherche Morningstar doit se faire à la main.
