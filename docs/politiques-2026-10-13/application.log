@@ -1,0 +1,409 @@
+1 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+2 | PUT 200 OK | écarts après relecture : aucun
+4 | PUT 200 OK | écarts après relecture : aucun
+5 | PUT 200 OK | écarts après relecture : aucun
+6 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+8 | PUT 200 OK | écarts après relecture : aucun
+9 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+11 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+12 | PUT 200 OK | écarts après relecture : aucun
+13 | aucun changement
+14 | PUT 200 OK | écarts après relecture : aucun
+15 | PUT 200 OK | écarts après relecture : aucun
+17 | PUT 200 OK | écarts après relecture : aucun
+19 | PUT 200 OK | écarts après relecture : aucun
+20 | PUT 200 OK | écarts après relecture : aucun
+22 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+25 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+26 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+27 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+28 | PUT 200 OK | écarts après relecture : aucun
+29 | PUT 200 OK | écarts après relecture : aucun
+30 | PUT 200 OK | écarts après relecture : aucun
+31 | PUT 200 OK | écarts après relecture : aucun
+33 | PUT 200 OK | écarts après relecture : aucun
+34 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+35 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+36 | PUT 200 OK | écarts après relecture : aucun
+37 | PUT 200 OK | écarts après relecture : aucun
+38 | PUT 200 OK | écarts après relecture : aucun
+39 | PUT 200 OK | écarts après relecture : aucun
+40 | PUT 200 OK | écarts après relecture : aucun
+42 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+43 | PUT 200 OK | écarts après relecture : aucun
+44 | PUT 200 OK | écarts après relecture : aucun
+45 | PUT 200 OK | écarts après relecture : aucun
+46 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+47 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+48 | PUT 200 OK | écarts après relecture : aucun
+49 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+50 | PUT 200 OK | écarts après relecture : aucun
+51 | PUT 200 OK | écarts après relecture : aucun
+52 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+53 | PUT 200 OK | écarts après relecture : aucun
+55 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+56 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+57 | PUT 200 OK | écarts après relecture : aucun
+58 | PUT 200 OK | écarts après relecture : aucun
+59 | PUT 200 OK | écarts après relecture : aucun
+60 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+61 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+62 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+63 | PUT 200 OK | écarts après relecture : aucun
+64 | PUT 200 OK | écarts après relecture : aucun
+66 | PUT 200 OK | écarts après relecture : aucun
+67 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+68 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+69 | PUT 200 OK | écarts après relecture : aucun
+71 | PUT 200 OK | écarts après relecture : aucun
+72 | PUT 200 OK | écarts après relecture : aucun
+73 | PUT 200 OK | écarts après relecture : aucun
+74 | PUT 200 OK | écarts après relecture : aucun
+76 | PUT 200 OK | écarts après relecture : aucun
+77 | PUT 200 OK | écarts après relecture : aucun
+78 | PUT 200 OK | écarts après relecture : aucun
+79 | PUT 200 OK | écarts après relecture : aucun
+80 | PUT 200 OK | écarts après relecture : aucun
+81 | PUT 200 OK | écarts après relecture : aucun
+82 | PUT 200 OK | écarts après relecture : aucun
+83 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+84 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+85 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+86 | PUT 200 OK | écarts après relecture : aucun
+87 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+88 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+89 | PUT 200 OK | écarts après relecture : aucun
+90 | PUT 200 OK | écarts après relecture : aucun
+91 | PUT 200 OK | écarts après relecture : aucun
+92 | PUT 200 OK | écarts après relecture : aucun
+93 | PUT 200 OK | écarts après relecture : aucun
+94 | PUT 200 OK | écarts après relecture : aucun
+95 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+96 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+97 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+98 | PUT 200 OK | écarts après relecture : aucun
+99 | PUT 200 OK | écarts après relecture : aucun
+100 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+101 | PUT 200 OK | écarts après relecture : aucun
+102 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+103 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+104 | PUT 200 OK | écarts après relecture : aucun
+105 | PUT 200 OK | écarts après relecture : aucun
+106 | PUT 200 OK | écarts après relecture : aucun
+107 | PUT 200 OK | écarts après relecture : aucun
+117 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+120 | PUT 200 OK | écarts après relecture : aucun
+121 | PUT 200 OK | écarts après relecture : aucun
+122 | PUT 200 OK | écarts après relecture : aucun
+123 | PUT 200 OK | écarts après relecture : aucun
+124 | PUT 200 OK | écarts après relecture : aucun
+125 | PUT 200 OK | écarts après relecture : aucun
+126 | PUT 200 OK | écarts après relecture : aucun
+128 | PUT 200 OK | écarts après relecture : aucun
+129 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+130 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+131 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+132 | PUT 200 OK | écarts après relecture : aucun
+133 | PUT 200 OK | écarts après relecture : aucun
+134 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+135 | PUT 200 OK | écarts après relecture : aucun
+136 | PUT 200 OK | écarts après relecture : aucun
+137 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+138 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+139 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+165 | PUT 200 OK | écarts après relecture : aucun
+196 | PUT 200 OK | écarts après relecture : aucun
+197 | PUT 200 OK | écarts après relecture : aucun
+198 | PUT 200 OK | écarts après relecture : aucun
+199 | PUT 200 OK | écarts après relecture : aucun
+200 | PUT 200 OK | écarts après relecture : aucun
+201 | PUT 200 OK | écarts après relecture : aucun
+202 | PUT 200 OK | écarts après relecture : aucun
+203 | PUT 200 OK | écarts après relecture : aucun
+204 | PUT 200 OK | écarts après relecture : aucun
+205 | PUT 200 OK | écarts après relecture : aucun
+206 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+207 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+208 | PUT 200 OK | écarts après relecture : aucun
+209 | PUT 200 OK | écarts après relecture : aucun
+210 | PUT 200 OK | écarts après relecture : aucun
+211 | PUT 200 OK | écarts après relecture : aucun
+212 | PUT 200 OK | écarts après relecture : aucun
+213 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+214 | PUT 200 OK | écarts après relecture : aucun
+215 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+218 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+219 | PUT 200 OK | écarts après relecture : aucun
+220 | PUT 200 OK | écarts après relecture : aucun
+221 | PUT 200 OK | écarts après relecture : aucun
+222 | PUT 200 OK | écarts après relecture : aucun
+223 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+224 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+225 | PUT 200 OK | écarts après relecture : aucun
+226 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+227 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+228 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+229 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+230 | PUT 200 OK | écarts après relecture : aucun
+231 | PUT 200 OK | écarts après relecture : aucun
+232 | PUT 200 OK | écarts après relecture : aucun
+233 | PUT 200 OK | écarts après relecture : aucun
+234 | PUT 200 OK | écarts après relecture : aucun
+235 | PUT 200 OK | écarts après relecture : aucun
+236 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+237 | PUT 200 OK | écarts après relecture : aucun
+238 | PUT 200 OK | écarts après relecture : aucun
+239 | PUT 200 OK | écarts après relecture : aucun
+240 | PUT 200 OK | écarts après relecture : aucun
+241 | PUT 200 OK | écarts après relecture : aucun
+242 | PUT 200 OK | écarts après relecture : aucun
+243 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+244 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+245 | PUT 200 OK | écarts après relecture : aucun
+246 | PUT 200 OK | écarts après relecture : aucun
+247 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+248 | PUT 200 OK | écarts après relecture : aucun
+249 | PUT 200 OK | écarts après relecture : aucun
+250 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+251 | PUT 200 OK | écarts après relecture : aucun
+252 | PUT 200 OK | écarts après relecture : aucun
+253 | PUT 200 OK | écarts après relecture : aucun
+254 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+255 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+256 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+257 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+258 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+260 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+262 | PUT 200 OK | écarts après relecture : aucun
+263 | PUT 200 OK | écarts après relecture : aucun
+264 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+265 | PUT 200 OK | écarts après relecture : aucun
+266 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+267 | PUT 200 OK | écarts après relecture : aucun
+268 | PUT 200 OK | écarts après relecture : aucun
+269 | PUT 200 OK | écarts après relecture : aucun
+270 | PUT 200 OK | écarts après relecture : aucun
+271 | PUT 200 OK | écarts après relecture : aucun
+272 | PUT 200 OK | écarts après relecture : aucun
+273 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+274 | PUT 200 OK | écarts après relecture : aucun
+275 | PUT 200 OK | écarts après relecture : aucun
+276 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+277 | PUT 200 OK | écarts après relecture : aucun
+278 | PUT 200 OK | écarts après relecture : aucun
+280 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+281 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+282 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+283 | PUT 200 OK | écarts après relecture : aucun
+284 | PUT 200 OK | écarts après relecture : aucun
+285 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+286 | PUT 200 OK | écarts après relecture : aucun
+287 | PUT 200 OK | écarts après relecture : aucun
+288 | PUT 200 OK | écarts après relecture : aucun
+289 | PUT 200 OK | écarts après relecture : aucun
+290 | PUT 200 OK | écarts après relecture : aucun
+291 | PUT 200 OK | écarts après relecture : aucun
+292 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+293 | PUT 200 OK | écarts après relecture : aucun
+294 | PUT 200 OK | écarts après relecture : aucun
+295 | PUT 200 OK | écarts après relecture : aucun
+296 | PUT 200 OK | écarts après relecture : aucun
+297 | PUT 200 OK | écarts après relecture : aucun
+298 | PUT 200 OK | écarts après relecture : aucun
+299 | PUT 200 OK | écarts après relecture : aucun
+300 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+301 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+302 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+303 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+304 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+305 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+306 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+307 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+308 | PUT 200 OK | écarts après relecture : aucun
+309 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+310 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+311 | PUT 200 OK | écarts après relecture : aucun
+312 | PUT 200 OK | écarts après relecture : aucun
+313 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+316 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+317 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+319 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+323 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+324 | PUT 200 OK | écarts après relecture : aucun
+325 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+326 | PUT 200 OK | écarts après relecture : aucun
+327 | PUT 200 OK | écarts après relecture : aucun
+328 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+329 | PUT 200 OK | écarts après relecture : aucun
+330 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+331 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+332 | PUT 200 OK | écarts après relecture : aucun
+333 | PUT 200 OK | écarts après relecture : aucun
+334 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+336 | PUT 200 OK | écarts après relecture : aucun
+337 | PUT 200 OK | écarts après relecture : aucun
+338 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+339 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+340 | PUT 200 OK | écarts après relecture : aucun
+341 | PUT 200 OK | écarts après relecture : aucun
+342 | PUT 200 OK | écarts après relecture : aucun
+343 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+345 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+346 | PUT 200 OK | écarts après relecture : aucun
+347 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+348 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+349 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+350 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+351 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+352 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+353 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+354 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+355 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+356 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+358 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+359 | PUT 200 OK | écarts après relecture : aucun
+361 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+362 | PUT 200 OK | écarts après relecture : aucun
+363 | PUT 200 OK | écarts après relecture : aucun
+364 | PUT 200 OK | écarts après relecture : aucun
+365 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+367 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+368 | PUT 200 OK | écarts après relecture : aucun
+369 | PUT 200 OK | écarts après relecture : aucun
+370 | PUT 200 OK | écarts après relecture : aucun
+371 | PUT 200 OK | écarts après relecture : aucun
+372 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+374 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+375 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+376 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+377 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+378 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+379 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+380 | PUT 200 OK | écarts après relecture : aucun
+381 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+382 | PUT 200 OK | écarts après relecture : aucun
+385 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+386 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+388 | PUT 200 OK | écarts après relecture : aucun
+389 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+390 | PUT 200 OK | écarts après relecture : aucun
+391 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+392 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+393 | PUT 200 OK | écarts après relecture : aucun
+394 | PUT 200 OK | écarts après relecture : aucun
+395 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+396 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+397 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+398 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+399 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+400 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+402 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+403 | PUT 200 OK | écarts après relecture : aucun
+404 | PUT 200 OK | écarts après relecture : aucun
+405 | PUT 200 OK | écarts après relecture : aucun
+406 | PUT 200 OK | écarts après relecture : aucun
+407 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+408 | PUT 200 OK | écarts après relecture : aucun
+409 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+410 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+414 | PUT 200 OK | écarts après relecture : aucun
+415 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+416 | PUT 200 OK | écarts après relecture : aucun
+421 | PUT 200 OK | écarts après relecture : aucun
+422 | PUT 200 OK | écarts après relecture : aucun
+423 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+424 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+426 | PUT 200 OK | écarts après relecture : aucun
+427 | PUT 200 OK | écarts après relecture : aucun
+428 | PUT 200 OK | écarts après relecture : aucun
+429 | PUT 200 OK | écarts après relecture : aucun
+430 | PUT 200 OK | écarts après relecture : aucun
+431 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+432 | PUT 200 OK | écarts après relecture : aucun
+434 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+435 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+436 | PUT 200 OK | écarts après relecture : aucun
+437 | PUT 200 OK | écarts après relecture : aucun
+438 | PUT 200 OK | écarts après relecture : aucun
+439 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+440 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+441 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+442 | PUT 200 OK | écarts après relecture : aucun
+443 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+447 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+448 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+449 | PUT 200 OK | écarts après relecture : aucun
+450 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+451 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+452 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+453 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+455 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+456 | PUT 200 OK | écarts après relecture : aucun
+457 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+459 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+460 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+461 | PUT 200 OK | écarts après relecture : aucun
+462 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+463 | PUT 200 OK | écarts après relecture : aucun
+464 | PUT 200 OK | écarts après relecture : aucun
+465 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+466 | PUT 200 OK | écarts après relecture : aucun
+467 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+468 | PUT 200 OK | écarts après relecture : aucun
+469 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+470 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+471 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+472 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+473 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+474 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+475 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+476 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+477 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+478 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+480 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+481 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+482 | PUT 200 OK | écarts après relecture : aucun
+483 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+484 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+485 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+486 | PUT 200 OK | écarts après relecture : aucun
+487 | PUT 200 OK | écarts après relecture : aucun
+488 | PUT 200 OK | écarts après relecture : aucun
+489 | PUT 200 OK | écarts après relecture : aucun
+490 | PUT 200 OK | écarts après relecture : aucun
+491 | PUT 200 OK | écarts après relecture : aucun
+493 | PUT 200 OK | écarts après relecture : aucun
+494 | PUT 200 OK | écarts après relecture : aucun
+495 | PUT 200 OK | écarts après relecture : aucun
+497 | PUT 200 OK | écarts après relecture : aucun
+498 | PUT 200 OK | écarts après relecture : aucun
+499 | PUT 200 OK | écarts après relecture : aucun
+500 | PUT 200 OK | écarts après relecture : aucun
+501 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+502 | PUT 200 OK | écarts après relecture : aucun
+503 | PUT 200 OK | écarts après relecture : aucun
+504 | PUT 200 OK | écarts après relecture : aucun
+505 | PUT 200 OK | écarts après relecture : aucun
+506 | PUT 200 OK | écarts après relecture : aucun
+507 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+508 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+509 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+510 | PUT 200 OK | écarts après relecture : aucun
+511 | PUT 200 OK | écarts après relecture : aucun
+512 | PUT 200 OK | écarts après relecture : aucun
+513 | PUT 200 OK | écarts après relecture : aucun
+514 | PUT 200 OK | écarts après relecture : aucun
+515 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+516 | PUT 200 OK | écarts après relecture : aucun
+517 | PUT 200 OK | écarts après relecture : aucun
+518 | PUT 200 OK | écarts après relecture : ['investment_policy_en']
+519 | PUT 200 OK | écarts après relecture : aucun
+522 | PUT 200 OK | écarts après relecture : aucun
+523 | PUT 200 OK | écarts après relecture : aucun
+524 | PUT 200 OK | écarts après relecture : aucun
+525 | PUT 200 OK | écarts après relecture : aucun
+526 | PUT 200 OK | écarts après relecture : aucun
+527 | PUT 200 OK | écarts après relecture : aucun
+528 | PUT 200 OK | écarts après relecture : aucun
+529 | PUT 200 OK | écarts après relecture : aucun
+536 | PUT 200 OK | écarts après relecture : aucun
