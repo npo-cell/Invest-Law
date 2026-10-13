@@ -109,4 +109,5 @@ python3 tools/investlaw.py call GET /api/maisons            # tout autre appel d
   3. le PDF vient directement de l'émetteur ou d'une base reconnue, pas d'un site tiers qui le recopie ;
   4. la part est exactement celle de la fiche, pas une autre classe du même fonds.
 - Les documents trouvés sont ajoutés dans `INVESTLAW/` avant tout upload ou remplissage des fiches.
+- **Priorité absolue à l'exactitude** (consigne du 13/10/2026) : si aucun document original et conforme n'est trouvé, on laisse le fonds sans factsheet, tant pis. Jamais de document d'une autre part, recopié par un site tiers ou douteux : mieux vaut une fiche incomplète qu'une information fausse sur invest-law.eu. Même règle pour les champs des fiches : en cas de doute, on ne remplit pas.
 - Après chaque connexion, mettre à la corbeille le mail du code utilisé.
