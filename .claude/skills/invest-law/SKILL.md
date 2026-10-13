@@ -16,3 +16,4 @@ description: Toute tâche sur le site invest-law.eu (fiches fonds, rapports de g
    - le mois couvert par un rapport se lit dans son nom, pas dans `report_date` ;
    - ne jamais supprimer le travail d'autres personnes sans accord.
    - priorité absolue à l'exactitude : pas de document original et conforme, ou valeur douteuse → on ne met rien sur le site (mieux vaut incomplet que faux).
+   - valeur ambiguë (ex. indice cité seulement « à titre de comparaison », pour la gestion du risque, dans la partie ESG, ou document contradictoire) → ne pas la mettre, ou demander à l'utilisatrice avant (consigne du 13/10/2026).
