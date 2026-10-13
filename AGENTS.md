@@ -32,3 +32,12 @@ Keep prose terse and code minimal — every token you write is billed as output.
 - **Full prose where terseness could mislead:** security/data-loss warnings, irreversible-action confirmations, multi-step sequences.
 - Applies to the subagents you spawn.
 <!-- /tokenade-scaffold -->
+
+## Partage du travail avec l'équipe
+Plusieurs personnes travaillent sur ce dépôt avec Claude ; leurs conversations ne sont pas visibles entre elles. Le dépôt est l'espace commun :
+- Enregistrer tout document, note, analyse ou livrable produit dans `docs/` (voir `docs/README.md`), au format Markdown, nommé `AAAA-MM-JJ-sujet-court.md`.
+- Quand un artéfact ou un Claude Doc est publié, ajouter son lien dans le fichier de session correspondant.
+- En fin de tâche, écrire un résumé dans `docs/sessions/` (objectif, décisions, fichiers modifiés, liens), puis commit et push.
+- Le travail n'est visible par l'équipe qu'une fois dans la branche par défaut du dépôt : en fin de tâche, ouvrir (ou mettre à jour) une demande de fusion de sa branche vers la branche par défaut, pour qu'elle soit validée et fusionnée.
+- Avant de commencer, partir de la branche par défaut à jour, et consulter aussi les demandes de fusion encore ouvertes : elles contiennent le travail des collègues pas encore fusionné.
+- Avant de commencer, lire les derniers fichiers de `docs/sessions/` pour connaître le travail des collègues.
