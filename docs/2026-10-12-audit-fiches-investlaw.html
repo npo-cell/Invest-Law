@@ -217,7 +217,7 @@ $('#kpis').innerHTML = [
   [funds.length, 'fiches auditées', `+ ${D.sans_factsheet} sans factsheet datée`],
   [rows.length, 'écarts relevés', `${fmt(count(rows,'gravite').ERREUR||0)} erreurs`],
   [ok, 'fiches sans écart', `${Math.round(ok/funds.length*100)} % des fiches`],
-  [ofundsCount, 'fiches quasi vides', 'à remplir depuis la factsheet'],
+  [13, 'fiches encore quasi vides', `${ofundsCount} avant les corrections ; les 13 restantes n\'ont aucune factsheet fiable (état du site au 13/10)`],
 ].map(([v,l,s]) => `<div class="kpi"><b>${fmt(v)}</b><span>${l}</span><span style="color:var(--ink-3);font-size:12px">${s}</span></div>`).join('');
 
 // Correction status
