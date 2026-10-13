@@ -47,3 +47,4 @@
 - Règles notées dans le guide et la compétence : fonds internes/mandats exclus des manques ; 4 contrôles de recherche ; « mieux vaut incomplet que faux » ; mail du code de connexion mis à la corbeille après usage.
 - Recherche sur 30 fonds externes : 9 factsheets trouvées et rangées dans `INVESTLAW/` (FFG ×7, Candriam Robotic, IVO IG 2030), 2 à valider (Alken : factsheet multi-parts ; Waterloo : marquée « Internal use only »), 3 non conformes (factsheet d'une autre classe : Leleux P, SPM Y), 16 introuvables. Détail : `docs/2026-10-13-recherche-factsheets-manquantes.md`. Rien n'a été mis en ligne.
 - Page d'audit mise à jour (section « Fonds sans factsheet ») : https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
+- Upload des 9 factsheets trouvées (FundId 199-205, 250, 278) à la demande de Noa : toutes en ligne, PDF vérifiés. Alken (65) et Waterloo (446) laissés de côté sur décision de Noa. Remplissage des champs de ces fiches : pas encore fait.

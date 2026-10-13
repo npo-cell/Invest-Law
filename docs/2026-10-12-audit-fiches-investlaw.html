@@ -242,7 +242,7 @@ $('#nb-int').textContent = D.recherche.internes; $('#nb-ext').textContent = D.re
 const rc = count(D.recherche.fonds,'statut');
 $('#rkpis').innerHTML = Object.entries(RL).map(([k,[l]]) => `<div class="kpi"><b>${rc[k]||0}</b><span>${l}${(rc[k]||0)>1?'s':''}</span></div>`).join('');
 const RO = {TROUVE:0,A_VALIDER:1,NON_CONFORME:2,INTROUVABLE:3};
-$('#rbody').innerHTML = [...D.recherche.fonds].sort((a,b)=>RO[a.statut]-RO[b.statut]||a.fund_id-b.fund_id).map(f => `<tr><td class="mono">${f.fund_id}<div class="sub">${esc(f.isin)}</div></td><td>${esc(f.nom)}</td><td><span class="chip ${RL[f.statut][1]}">${RL[f.statut][0]}</span>${f.date?`<div class="sub">au ${esc(f.date.split('-').reverse().join('/'))}</div>`:''}</td><td class="sub">${f.statut==='TROUVE'?'Rangée dans INVESTLAW/, en attente d\'upload. ':''}${esc((f.remarque||'').slice(0,220))}${(f.remarque||'').length>220?'…':''}</td></tr>`).join('');
+$('#rbody').innerHTML = [...D.recherche.fonds].sort((a,b)=>RO[a.statut]-RO[b.statut]||a.fund_id-b.fund_id).map(f => `<tr><td class="mono">${f.fund_id}<div class="sub">${esc(f.isin)}</div></td><td>${esc(f.nom)}</td><td><span class="chip ${RL[f.statut][1]}">${RL[f.statut][0]}</span>${f.date?`<div class="sub">au ${esc(f.date.split('-').reverse().join('/'))}</div>`:''}</td><td class="sub">${f.statut==='TROUVE'?'En ligne sur invest-law.eu depuis le 13/10/2026. ':''}${esc((f.remarque||'').slice(0,220))}${(f.remarque||'').length>220?'…':''}</td></tr>`).join('');
 
 // Origins
 const WHY = {
