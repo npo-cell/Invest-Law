@@ -6,3 +6,4 @@
 - **Modifications du site (13/10/2026 ~09h40 UTC)** : benchmark 231 créé (`BGF-ESGMA-COMPOSITE`) ; fiche 13 → 231 ; fiche 245 → 49. Relecture : aucun écart. 103 fiches restent sans benchmark.
 - **Non appliqué, à trancher** : 26 et 515 (First Eagle, « Indice de référence : Aucun » mais comparatif SOFR + 430 bp), 273 et 319 (Carmignac, composite cité seulement en ESG), 402, 267 ; 236/332/406/434 laissés comme décidé par Noa.
 - **Fichiers** : `docs/benchmarks-2026-10-13-complement/` (analyse par fiche, JSON appliqués).
+- **Retour arrière (~10h UTC)** : sur consigne de l'utilisatrice (« si c'est ambigu, ne mets pas, ou demande »), fiches 13 et 245 remises à vide (relecture : aucun écart). Benchmark 231 inutilisé, non supprimable par l'API. 105 fiches sans benchmark. Consigne ajoutée au skill `invest-law`.
