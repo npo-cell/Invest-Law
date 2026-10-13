@@ -8,3 +8,4 @@
 - **Politique d'investissement** : FR 417, EN seulement 25, vide 19.
 - **Livrables** : `docs/2026-10-13-audit-documents.xlsx` (synthèse, fiches à corriger, tous les documents) ; page d'audit complétée (section « Les factsheets en ligne », problèmes de documents dans la liste des fiches) : https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J
 - Rien n'a été modifié sur le site.
+- **Suite (13/10 ~18h50 UTC, demande de l'utilisatrice)** : doublons d'août supprimés sur les fiches DNCA. 92 Credit Conviction A : version EN « monthly-reporting_…lu0284393930_lu.pdf » supprimée, la fiche mensuelle FR d'août conservée. 468 Value Europe IG : « Fiche_mensuelle_DNCA_Invest_Value_Europe_A_2026-08.pdf » (part A, autre part) supprimée, la factsheet IG d'août conservée. Reste signalé : 93 SRI Europe Growth IG garde un rapport de juillet de la part A.
