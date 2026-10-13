@@ -2,7 +2,7 @@
 
 105 fiches sans benchmark (`GET /api/funds`, 13/10/2026 ~09h20 UTC). Texte lu : factsheet locale (`INVESTLAW/`) ou rapport publié sur la fiche. Décision de l'utilisatrice : fonds sans indice → champ laissé vide (pas de rattachement à « n/a », id 51).
 
-## Appliqué puis retiré (13/10/2026 ~10h, décision de l'utilisatrice : ambigu → on ne met pas)
+## Appliqué puis retiré (13/10/2026 ~09h35 UTC, décision de l'utilisatrice : ambigu → on ne met pas)
 - 245 BL-Global 30 → 49 « Lipper Global Mixed Asset EUR Balanced - Global » (« Reference Index » de la factsheet).
 - 13 BGF ESG Multi-Asset → 231 (créé, code `BGF-ESGMA-COMPOSITE`) « 25% MSCI World Index hedged to EUR, 25% MSCI World Index, 50% Bloomberg Global Aggregate Bond Index hedged to EUR » (« indice di riferimento composito », factsheet IT 31/08/2026) — indice « ai fini della gestione del rischio ».
 - 245 : Lipper cité « for comparison purposes only », fonds « not managed by reference to a benchmark index ».
