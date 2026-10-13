@@ -56,18 +56,40 @@ td .sub{color:var(--ink-3);font-size:12.5px}
 .chip.ok{background:var(--ok);color:#fff}.chip.ver{background:var(--mid);color:#14191d}.chip.na{text-decoration:line-through;opacity:.7}
 input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 @media (max-width:640px){.legend{grid-template-columns:repeat(2,minmax(0,1fr))}.brow{grid-template-columns:110px minmax(0,1fr) 40px}ul.done li{grid-template-columns:56px minmax(0,1fr)}}
+.brief{gap:18px}
+.headline{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+.headline b{font-family:var(--f-display);font-size:clamp(44px,9vw,64px);font-weight:700;line-height:1;color:var(--ok);font-variant-numeric:tabular-nums}
+.headline span{font-size:18px;color:var(--ink);max-width:32ch}
+ul.keys{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 24px}
+ul.keys li{display:grid;gap:3px;padding-top:12px;border-top:1px solid var(--line);min-width:0}
+ul.keys b{font-weight:600}
+ul.keys span{color:var(--ink-2);font-size:14.5px}
+ol.steps{margin:0;padding-left:22px;display:grid;gap:10px}
+ol.steps li::marker{font-family:var(--f-display);font-weight:600;color:var(--accent)}
+th.num,td.num{text-align:right;font-variant-numeric:tabular-nums}
+.btn{justify-self:start;font:inherit;font-size:14px;padding:7px 12px;border:1px solid var(--axis);border-radius:6px;background:var(--surface);color:var(--accent);cursor:pointer}
+.btn:hover{border-color:var(--accent)} .btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:640px){ul.keys{grid-template-columns:minmax(0,1fr)}}
 </style>
 
 <div class="wrap">
   <header>
-    <span class="eyebrow">invest-law.eu</span>
+    <span class="eyebrow">invest-law.eu · point d'étape</span>
     <h1>Où en sont les fiches fonds</h1>
-    <p class="muted">Chaque fiche a été comparée à la factsheet la plus récente de son fonds, puis corrigée quand la factsheet donnait une valeur sûre. Règle suivie : mieux vaut un champ vide qu'une information fausse.</p>
+    <p class="muted">Le site présente 461 fiches de fonds externes. L'objectif est que chacune reprenne exactement la dernière factsheet publiée par le gestionnaire du fonds. Règle suivie : mieux vaut un champ vide qu'une information fausse.</p>
     <p class="small" id="maj"></p>
   </header>
 
-  <section>
-    <h2>État des fiches</h2>
+  <section aria-labelledby="h-bref">
+    <h2 id="h-bref">En bref</h2>
+    <div class="panel brief">
+      <div class="headline"><b id="pct"></b><span id="pct-txt"></span></div>
+      <ul class="keys" id="keys"></ul>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-etat">
+    <h2 id="h-etat">État des fiches</h2>
     <div class="panel">
       <div class="stack" id="stack" role="img" aria-label="Répartition des fiches par niveau de complétude"></div>
       <div class="legend" id="legend"></div>
@@ -75,53 +97,60 @@ input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline
     </div>
   </section>
 
-  <section>
-    <h2>Ce qui a été fait</h2>
+  <section aria-labelledby="h-fait">
+    <h2 id="h-fait">Ce qui a été fait</h2>
     <div class="panel">
       <ul class="done">
         <li><b>263</b><span>fiches corrigées le 12/10 à partir de leur dernière factsheet : 1 202 champs, chacun relu sur le site après enregistrement.</span></li>
+        <li><b>55</b><span>indices de référence créés le 13/10 dans la liste du site et rattachés à 59 fiches ; 1 libellé tronqué corrigé.</span></li>
         <li><b>9</b><span>factsheets retrouvées le 13/10 pour des fonds qui n'en avaient pas, mises en ligne, et leurs fiches remplies (46 champs).</span></li>
-        <li><b>55</b><span>indices de référence créés le 13/10 dans la liste du site et rattachés à 59 fiches ; 1 libellé tronqué corrigé (ODDO BHF Avenir).</span></li>
-        <li><b>6</b><span>champs vides retrouvés le 13/10 dans les factsheets en ligne et remplis (fiches 410, 448, 519).</span></li>
-        <li><b>105</b><span>fiches sans indice de référence relues le 13/10 : aucune factsheet ne donne un indice sans ambiguïté, elles restent vides (détail : <span class="mono">benchmarks-2026-10-13-complement/</span>).</span></li>
-        <li><b>82</b><span>rapports intitulés « Rapport de gestion » sans mois, renommés avec leur mois (« Rapport de gestion Mai 2026 »).</span></li>
-        <li><b>9</b><span>rapports en double supprimés (un seul rapport par mois et par fiche).</span></li>
+        <li><b>105</b><span>fiches sans indice de référence relues le 13/10 : aucune factsheet ne donne un indice sans ambiguïté, elles restent vides.</span></li>
+        <li><b>6</b><span>derniers champs vides retrouvés dans les factsheets en ligne et remplis le 13/10 (fiches 410, 448, 519).</span></li>
+        <li><b>82</b><span>rapports « Rapport de gestion » sans mois renommés avec leur mois ; 9 rapports en double supprimés.</span></li>
         <li><b>730</b><span>fichiers en ligne contrôlés : aucun n'appartient à un autre fonds.</span></li>
       </ul>
     </div>
   </section>
 
-  <section>
-    <h2>Ce qui reste vide</h2>
+  <section aria-labelledby="h-reste">
+    <h2 id="h-reste">Ce qui reste, et qui doit agir</h2>
     <div class="panel">
-      <p class="muted">Nombre de fiches où chaque champ est encore vide. Un champ reste vide quand la factsheet ne donne pas la valeur de façon sûre : frais non détaillés, gérant non nommé, encours publié dans une autre devise, indice de référence ambigu.</p>
-      <div class="bars" id="champs"></div>
-    </div>
-  </section>
-
-  <section>
-    <h2>Champs vides : que peut-on faire ?</h2>
-    <div class="panel">
-      <p class="muted">Chaque champ vide a été cherché dans la factsheet en ligne de sa fiche (13/10/2026). Ce qui n'y figure pas est à demander aux gestionnaires.</p>
+      <p class="muted" id="reste-txt"></p>
       <div class="legend" id="statuts"></div>
-      <p class="small">Fichier à transmettre, maison par maison : <span class="mono">docs/2026-10-13-champs-vides-a-demander.xlsx</span>.</p>
-      <div class="tablebox"><table><thead><tr><th>Maison</th><th>Fiches</th><th>Champs à demander</th></tr></thead><tbody id="maisons"></tbody></table></div>
+      <div class="bars" id="champs" aria-label="Champs vides par type"></div>
     </div>
   </section>
 
-  <section>
-    <h2>Fiches à compléter</h2>
+  <section aria-labelledby="h-maisons">
+    <h2 id="h-maisons">Informations à demander, par maison de gestion</h2>
+    <div class="panel">
+      <p class="muted">Champs absents de la factsheet, que seul le gestionnaire peut fournir. La liste détaillée, fonds par fonds, est prête à être envoyée : <span class="mono">docs/2026-10-13-champs-vides-a-demander.xlsx</span>.</p>
+      <div class="tablebox"><table><thead><tr><th>Maison de gestion</th><th class="num">Fiches</th><th class="num">Champs à demander</th></tr></thead><tbody id="maisons"></tbody></table></div>
+      <button type="button" id="more" class="btn"></button>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-next">
+    <h2 id="h-next">Prochaines étapes</h2>
+    <div class="panel">
+      <ol class="steps" id="steps"></ol>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-liste">
+    <h2 id="h-liste">Détail : fiches à compléter</h2>
     <div class="panel">
       <div class="filters">
         <select id="niv" aria-label="Niveau"><option value="vide">Quasi vides (5 champs vides ou plus)</option><option value="mid">3 ou 4 champs vides</option><option value="near">1 ou 2 champs vides</option></select>
         <input id="q" type="search" placeholder="Rechercher un fonds, un ISIN, une maison…" aria-label="Rechercher">
       </div>
+      <p class="small">Couleur d'un champ vide : orange = valeur douteuse à vérifier ; gris = à demander au gestionnaire ; barré = sans objet (le fonds n'a pas d'indice).</p>
       <div class="tablebox"><table><thead><tr><th>Fiche</th><th>Fonds</th><th>Champs vides</th><th>Dernière factsheet</th></tr></thead><tbody id="rows"></tbody></table></div>
       <p class="small" id="count"></p>
     </div>
   </section>
 
-  <p class="small">Détail complet (chaque écart, chaque correction, chaque source) : <span class="mono">docs/</span> du dépôt GitHub Invest-Law, notamment <span class="mono">2026-10-12-audit-fiches-investlaw.xlsx</span> et <span class="mono">corrections-2026-10-12/</span>.</p>
+  <p class="small">Détail complet (chaque écart, chaque correction, chaque source) : dossier <span class="mono">docs/</span> du dépôt GitHub Invest-Law.</p>
 </div>
 
 <script>
@@ -129,17 +158,42 @@ const D = {"maj":"13/10/2026 à 10h09 UTC","internes":27,"externes":461,"complet
 const $ = s => document.querySelector(s);
 const fmt = n => n.toLocaleString('fr-FR');
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-$('#maj').textContent = `Chiffres calculés sur le site le ${D.maj}. Dans la liste des fiches, la couleur d'un champ vide donne son statut : vert remplissable, orange à vérifier, gris à demander, barré sans objet.`;
+const pct = (a,b) => Math.round(a/b*100);
+const S = D.statuts, aDem = D.maisons.reduce((n,m)=>n+m[2],0), vides = D.champs.reduce((n,c)=>n+c[1],0);
+const sansFs = D.funds.filter(f=>!f.fs);
+$('#maj').textContent = `Chiffres calculés directement sur le site le ${D.maj}.`;
+$('#pct').textContent = `${pct(D.complete+D.presque, D.externes)} %`;
+$('#pct-txt').textContent = `des fiches sont complètes ou presque (${fmt(D.complete+D.presque)} sur ${fmt(D.externes)}).`;
+$('#keys').innerHTML = [
+  [`${fmt(D.complete)} fiches sont complètes`, `Le 13/10 à 08h01, elles étaient 198. ${fmt(D.presque)} autres n'ont qu'un ou deux champs vides.`],
+  [`Les fiches ont été remises au propre`, `263 fiches corrigées et 1 202 champs relus, 55 indices de référence créés, 730 fichiers vérifiés.`],
+  [`Le reste ne peut plus venir de nous`, `Sur ${fmt(vides)} champs encore vides, ${fmt(S['À demander'])} ne figurent pas dans la factsheet du fonds : seuls les gestionnaires peuvent les fournir (${fmt(D.maisons.length)} maisons).`],
+  [`Prochaine étape : écrire aux maisons`, `La liste des informations à demander, fonds par fonds, est prête.`]
+].map(([t,d]) => `<li><b>${t}</b><span>${d}</span></li>`).join('');
 const lv = [['complete','Complètes','var(--ok)','les 7 champs clés remplis'],['presque','Presque complètes','var(--near)','1 ou 2 champs vides'],['incomplete','Incomplètes','var(--mid)','3 ou 4 champs vides'],['vides','Quasi vides','var(--empty)','5 champs vides ou plus']];
 $('#stack').innerHTML = lv.map(([k,,c]) => `<span style="flex:${D[k]} 0 0;background:${c}" title="${D[k]}"></span>`).join('');
 $('#legend').innerHTML = lv.map(([k,l,c,s]) => `<div class="leg"><b>${fmt(D[k])}</b><span><i style="background:${c}"></i>${l}</span><span class="small">${s}</span></div>`).join('');
-$('#perim').textContent = `${fmt(D.externes)} fiches de fonds externes. Les ${D.internes} fonds internes et mandats (FID, XFCS, mandats DNCA, Leleux Secu, Keren, Rothschild) n'ont pas de document public et ne sont pas comptés. Champs clés : devise, encours, frais de gestion, TER, gérant, date de création, benchmark.`;
+$('#perim').textContent = `Champs clés : devise, encours, frais de gestion, TER, gérant, date de création, indice de référence. Les ${D.internes} fonds internes et mandats (sans document public) ne sont pas comptés.`;
+$('#reste-txt').textContent = `${fmt(vides)} champs restent vides. Chacun a été cherché dans la factsheet en ligne du fonds : aucun ne peut plus être rempli à partir des documents dont nous disposons.`;
+const ST = [['À demander','var(--chip)',"absent de la factsheet : à demander au gestionnaire"],['À vérifier','var(--mid)',"une valeur approche mais n'est pas sûre (autre part, autre devise…)"],['Sans objet','var(--axis)',"le fonds déclare ne pas avoir d'indice de référence"]];
+$('#statuts').innerHTML = ST.map(([k,c,t]) => `<div class="leg"><b>${fmt(S[k])}</b><span><i style="background:${c}"></i>${k}</span><span class="small">${t}</span></div>`).join('');
 const max = Math.max(...D.champs.map(c => c[1]));
 $('#champs').innerHTML = D.champs.map(([n,v]) => `<div class="brow"><span>${esc(n)}</span><div class="btrack"><div class="bfill" style="width:${v/max*100}%"></div></div><span class="n">${fmt(v)}</span></div>`).join('');
+let all = false;
+function maisons(){
+  const L = all ? D.maisons : D.maisons.slice(0,10);
+  $('#maisons').innerHTML = L.map(([n,f,c]) => `<tr><td>${esc(n)}</td><td class="num">${f}</td><td class="num">${c}</td></tr>`).join('');
+  $('#more').textContent = all ? 'Afficher les 10 premières' : `Afficher les ${D.maisons.length} maisons`;
+}
+$('#more').addEventListener('click', () => { all = !all; maisons(); }); maisons();
+const intr = sansFs.filter(f=>f.note==='INTROUVABLE').length;
+$('#steps').innerHTML = [
+  [`Écrire aux ${fmt(D.maisons.length)} maisons de gestion`, `leur demander les ${fmt(S['À demander'])} informations manquantes (fichier par maison prêt).`],
+  [`Trancher les ${fmt(S['À vérifier'])} valeurs douteuses`, `souvent des frais présentés en total plutôt qu'en commission de gestion, ou un encours en dollars pour une part en euros.`],
+  [`Obtenir une factsheet pour ${fmt(sansFs.length)} fonds`, `${intr} introuvables en ligne, les autres seulement disponibles pour une autre part du fonds.`],
+  [`Chaque mois`, `mettre en ligne les nouvelles factsheets et mettre les fiches à jour.`]
+].map(([t,d]) => `<li><b>${t}</b> : ${d}</li>`).join('');
 const CL = {'Remplissable':'ok','À vérifier':'ver','Sans objet':'na'};
-const ST = [['Remplissable','var(--ok)',"valeur présente dans la factsheet, à valider"],['À vérifier','var(--mid)',"valeur approchante, douteuse"],['À demander','var(--chip)',"absent de la factsheet : à demander au gestionnaire"],['Sans objet','var(--axis)',"le fonds déclare ne pas avoir d'indice"]];
-$('#statuts').innerHTML = ST.map(([k,c,t]) => `<div class="leg"><b>${fmt(D.statuts[k])}</b><span><i style="background:${c}"></i>${k}</span><span class="small">${t}</span></div>`).join('');
-$('#maisons').innerHTML = D.maisons.map(([n,f,c]) => `<tr><td>${esc(n)}</td><td class="mono">${f}</td><td class="mono">${c}</td></tr>`).join('');
 const NOTE = {INTROUVABLE:'Aucune trouvée', NON_CONFORME:'Seulement pour une autre part', A_VALIDER:'Écartée (décision)'};
 const MOIS = ['janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
 const fsTxt = f => f.fs ? `${MOIS[+f.fs.slice(5)-1]} ${f.fs.slice(0,4)}` : `<span class="sub">${esc(NOTE[f.note] || 'Aucune trouvée')}</span>`;
