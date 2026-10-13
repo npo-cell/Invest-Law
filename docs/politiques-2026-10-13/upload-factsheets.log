@@ -20,3 +20,9 @@
 366 + Rapport de Gestion Septembre 2026 LU0280435388__Factsheet-mensuelle_FR_2026-09-30.pdf | remplace : [('Rapport de Gestion Septembre 2026', 'LU0280435388__Factsheet_FR_2026-09-30.pdf')]
   POST 200 présent
   DELETE 200 ancien absent
+110 + Rapport de Gestion Septembre 2026 LU2473801830__Factsheet_FR_2026-09-30.pdf | remplace : [('Rapport de Gestion Septembre 2026', 'LU2473801830__Factsheet_DE_2026-09-30.pdf')]
+  POST 200 présent
+  DELETE 200 ancien absent
+111 + Rapport de Gestion Septembre 2026 LU2673417882__Factsheet_FR_2026-09-30.pdf | remplace : [('Rapport de Gestion Septembre 2026', 'LU2673417882__Factsheet_DE_2026-09-30.pdf')]
+  POST 200 présent
+  DELETE 200 ancien absent

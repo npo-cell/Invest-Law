@@ -23,3 +23,7 @@
 - Non envoyées : 24 (identique au rapport d'août déjà en ligne), 520 et 521 (août EN, plus ancien que le septembre FR déjà en ligne).
 - Contrôle : les 8 PDF téléchargés depuis le site sont identiques aux fichiers source (md5). Journal : `docs/politiques-2026-10-13/upload-factsheets.log`.
 - Morningstar : le site refuse les accès depuis l'environnement cloud (403 de sa protection anti-robots CloudFront/AWS WAF, y compris avec un vrai navigateur) ; la recherche Morningstar doit se faire à la main.
+
+## Factsheets FR fournies par l'utilisatrice (Morningstar / Chrome)
+- 110 FvS Dividend RT (LU2473801830) et 111 FvS Global Quality RT (LU2673417882) : factsheets FR du 30/09/2026 (générées par FactsheetsLIVE pour Flossbach von Storch), ISIN et part RT vérifiés. Mises en ligne en remplacement du septembre en allemand, politique d'investissement FR reprise telle quelle (phrases prospectus, distribution, SFDR exclues comme pour 109). Vérifié : PDF identique en ligne, politique conforme.
+- Les autres fonds de la liste (360, 458, 433, Lannebo 318/320/321/322) : rien trouvé par l'utilisatrice non plus.

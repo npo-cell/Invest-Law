@@ -5,3 +5,5 @@
 357 | PUT 200 OK | écarts après relecture : aucun
 366 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
 492 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+110 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
+111 | PUT 200 OK | écarts après relecture : ['investment_policy_fr', 'investment_policy']
