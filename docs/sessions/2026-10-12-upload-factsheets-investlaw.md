@@ -33,3 +33,8 @@
 - Refusées par le site (409 « Ce code ISIN est déjà enregistré », rien n'a été modifié) : 245 BL-Global 30 (LU0048292394), 246 BL-Global 50 (LU0048292808), 519 Gavekal China Fixed Income (IE00BYRGXY37). Aucune autre fiche visible n'a cet ISIN : le doublon est probablement un fonds masqué ou supprimé, à voir avec un administrateur du site.
 - Non faits : 64 benchmarks absents du référentiel (`Benchmarks à créer`), 242 valeurs incertaines (`Non corrigés`), 28 listes au total incohérent, ISIN de la fiche 165.
 - Le site a remis « Mise à jour » au 12/10/2026 sur les fiches corrigées.
+
+## Partage avec l'équipe (13/10/2026)
+- Constat : la branche par défaut du dépôt est `claude/kind-edison-2o3dsu` ; tout le travail était sur `claude/lucid-edison-kjhbfm`, donc invisible pour les collègues.
+- Demande de fusion mise à jour : https://github.com/npo-cell/Invest-Law/pull/1 (inclut aussi le contenu de la demande n°2, factsheets One Life).
+- Règle ajoutée dans `AGENTS.md` : en fin de tâche, fusionner vers la branche par défaut ; en début de tâche, consulter les demandes de fusion ouvertes.
