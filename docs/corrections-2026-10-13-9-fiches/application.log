@@ -1,0 +1,9 @@
+199 | PUT 200 OK | écarts après relecture : aucun
+200 | PUT 200 OK | écarts après relecture : aucun
+201 | PUT 200 OK | écarts après relecture : aucun
+202 | PUT 200 OK | écarts après relecture : aucun
+203 | PUT 200 OK | écarts après relecture : aucun
+204 | PUT 200 OK | écarts après relecture : aucun
+205 | PUT 200 OK | écarts après relecture : aucun
+250 | PUT 200 OK | écarts après relecture : aucun
+278 | PUT 200 OK | écarts après relecture : ['total_assets', 'positions', 'sectors']
