@@ -12,3 +12,10 @@
 - **Contrôlé sans erreur** : ISIN des factsheets, langues, doublons, devises, dates de création, TER de 139 (5,54 %, conforme à la factsheet).
 - **Fichiers** : page `docs/2026-10-12-audit-fiches-investlaw.html` (https://claude.ai/artifact/GfTSsC7oUyEeoruciDXX3J), `docs/2026-10-13-audit-documents.xlsx` et `docs/2026-10-13-champs-vides-a-demander.xlsx` régénérés, scripts dans `docs/audit-fiches-2026-10-14/`, règle ajoutée au guide.
 - Rien n'a été modifié sur invest-law.eu.
+
+## Suite : renommage des 11 factsheets (14/10/2026 ~09h40 UTC, accord de l'utilisatrice)
+- **Modification du site invest-law.eu** : 11 rapports redéposés sous le bon mois puis l'ancien supprimé (`tools/investlaw.py rename-report`, commandes dans `docs/audit-fiches-2026-10-14/renommage-2026-10-14.sh`) :
+  - « Rapport de gestion Juillet 2026 » (31/07/2026) : 236, 44, 79, 122, 5, 94 ;
+  - « Rapport de gestion Septembre 2026 » (30/09/2026) : 495, 338, 339, 341, 342.
+- Contrôle : nombre de rapports inchangé sur chaque fiche ; les 19 PDF de ces fiches retéléchargés sont identiques (md5) à ceux d'avant.
+- Page d'audit recalculée (09h41 UTC) : factsheet de septembre 186, août 239, plus ancienne 12 (dont les 4 de juillet), fiches à corriger 52, conformes 409.
