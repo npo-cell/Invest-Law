@@ -27,6 +27,7 @@ for i,L in idx.items():
 LANGN={'FR':'français','EN':'anglais','SV':'suédois','NL':'néerlandais','IT':'italien','DE':'allemand','ES':'espagnol'}
 for f in D['funds']:
   i=str(f['id']); z=F[i]
+  f['maison']=z.get('MaisonName') or None
   f['manque']=[n for n,k in CH if vide(z.get(k)) or (k=='BenchmarkId' and str(z.get(k))=='51')]; f['st']={c:v for c,v in f.get('st',{}).items() if c in f['manque']}
   if str(z.get('BenchmarkId'))=='51': f['st']['Benchmark']='Sans objet' if f['id'] in NA_SANS else 'À demander'
   for c in f['manque']: f['st'].setdefault(c,'À demander')

@@ -19,3 +19,9 @@
   - « Rapport de gestion Septembre 2026 » (30/09/2026) : 495, 338, 339, 341, 342.
 - Contrôle : nombre de rapports inchangé sur chaque fiche ; les 19 PDF de ces fiches retéléchargés sont identiques (md5) à ceux d'avant.
 - Page d'audit recalculée (09h41 UTC) : factsheet de septembre 186, août 239, plus ancienne 12 (dont les 4 de juillet), fiches à corriger 52, conformes 409.
+
+## Suite : maisons de gestion et benchmark 34 (14/10/2026 ~09h50 UTC, demande de l'utilisatrice)
+- **Modification du site invest-law.eu** : maison de gestion renseignée sur 11 fiches d'après le Google Sheet « GAMME ONE LIFE CAMELEA » (onglet FundsRange2026-09-22, colonne Fund company, rapprochement par ISIN), rattachée à la maison déjà présente sur le site : 46 → Aphilion (53) ; 60, 47 → COMGEST ASSET MANAGEMENT (108) ; 52 → Guardcap (24) ; 67 → Janus Henderson Investors (39) ; 6 → La Française (45) ; 45 → LBP AM (89, celle déjà utilisée par Tocqueville ; une autre « LBP AM » id 44 existe en double) ; 53 → Morgan Stanley (59) ; 35, 34 → Ofi Asset Management (61) ; 18 → Conventum (75). Relu après enregistrement : aucun écart.
+- Fiche 34 Ofi Strategic Metals : indice S&P 500 retiré (champ vide), la factsheet n'affiche aucun indice.
+- Non fait : fiche 65 Alken Small Cap Europe, absente du sheet (le seul fonds Alken du sheet, LU0572586591, est géré par AFFM S.A.) → à confirmer par l'utilisatrice.
+- Page d'audit recalculée (09h51 UTC) : 208 complètes, 220 presque ; 422 champs vides (310 à demander, 63 à vérifier, 49 sans objet) ; 68 maisons à contacter. Excel liés mis à jour.
