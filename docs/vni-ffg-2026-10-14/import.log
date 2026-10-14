@@ -1,0 +1,12 @@
+POST 200 {'success': True, 'imported': 5366, 'skipped': 1}
+106 LU0945616984 attendues 82 conformes 82 | total site 3283
+205 LU0945617289 attendues 493 conformes 493 | total site 493
+200 LU2736456752 attendues 640 conformes 640 | total site 640
+59 LU2736456596 attendues 601 conformes 601 | total site 601
+196 LU2612532759 attendues 650 conformes 650 | total site 650
+201 LU2612532833 attendues 650 conformes 650 | total site 650
+199 LU2059537956 attendues 208 conformes 208 | total site 208
+107 LU2059537873 attendues 82 conformes 82 | total site 4642
+15 LU1697917083 attendues 82 conformes 82 | total site 2189
+204 LU1697917166 attendues 1878 conformes 1878 | total site 1878
+conformes 5366 / 5366
