@@ -5,3 +5,5 @@
 - **Résultat** : 122 fiches touchées (~532 000 VNI) — 76 « décalé d'un jour », 6 « en grande partie », 29 « décalé + doublons », 11 « dates de week-end » ; 44 fiches correctes. Le décalage concerne l'historique chargé jusqu'à début juin 2026 ; les VNI ajoutées depuis (y compris l'import du 14/10) sont à la bonne date.
 - **Livrables** : `docs/2026-10-14-diagnostic-dates-vni.xlsx` (onglets « À lire », « Par fiche », « Preuve ») ; sauvegarde complète des VNI avant toute correction : `docs/vni-diagnostic-2026-10-14/sauvegarde_vni_2026-10-14.csv.gz`.
 - Rien modifié sur le site.
+- **Suppression / modification d'une VNI impossible** : l'écran Historique VNI (bouton X) enregistre le mois via `PUT /api/funds/{id}/vl?month=AAAA-MM`, qui renvoie toujours 500 « Erreur lors de la mise à jour des VNI », même sans changement (testé le 14/10 sur la fiche 205, mois 2026-09 ; aucune donnée modifiée). Pas d'autre moyen de supprimer. Bug à corriger par le développeur.
+- **Note pour le développeur** (artefact) : https://claude.ai/artifact/T4AHThSwawfbGs4M4ZRDTp (fichier `docs/2026-10-14-vni-decalees.html`).

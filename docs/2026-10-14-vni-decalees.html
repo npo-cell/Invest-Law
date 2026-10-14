@@ -1,0 +1,125 @@
+<title>VNI décalées d'un jour</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Note d'incident : une colonne, le constat d'abord, la preuve, l'impact, les corrections attendues, le détail en dernier. */
+:root{--bg:#f6f7f8;--surface:#fdfdfc;--ink:#14191d;--ink-2:#4a5560;--ink-3:#77818a;--line:#e0e3e6;--axis:#c4c9ce;--accent:#1d5c6e;--bad:#c8372d;--bad-bg:#fbe9e7;--ok:#1f8a3b;--ok-bg:#e6f3ea;--warn:#a06400;--warn-bg:#fff3d6;--bar:#8a96a0;
+--f-d:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;--f-b:"IBM Plex Sans",system-ui,sans-serif;--f-m:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121518;--surface:#1a1e22;--ink:#eef1f3;--ink-2:#b7c0c7;--ink-3:#8b959d;--line:#2a3036;--axis:#3a424a;--accent:#7cc0d2;--bad:#ff7a6e;--bad-bg:#3a1c19;--ok:#4cc06a;--ok-bg:#16301f;--warn:#e8b04a;--warn-bg:#33270f;--bar:#6b7781;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121518;--surface:#1a1e22;--ink:#eef1f3;--ink-2:#b7c0c7;--ink-3:#8b959d;--line:#2a3036;--axis:#3a424a;--accent:#7cc0d2;--bad:#ff7a6e;--bad-bg:#3a1c19;--ok:#4cc06a;--ok-bg:#16301f;--warn:#e8b04a;--warn-bg:#33270f;--bar:#6b7781;color-scheme:dark}
+*{box-sizing:border-box} body{background:var(--bg);color:var(--ink);font:15.5px/1.6 var(--f-b)}
+.wrap{max-width:860px;margin:0 auto;padding-inline:18px;padding-block:30px 64px;display:grid;gap:34px}
+h1,h2,h3{font-family:var(--f-d);margin:0;line-height:1.15;text-wrap:balance} h1{font-size:clamp(30px,5.5vw,42px)} h2{font-size:23px} h3{font-size:17px}
+p{margin:0;max-width:68ch} .muted{color:var(--ink-2)} .small{font-size:13px;color:var(--ink-3)} .mono{font-family:var(--f-m);font-variant-numeric:tabular-nums}
+.eyebrow{font:600 12px var(--f-d);letter-spacing:.08em;text-transform:uppercase;color:var(--bad)}
+section,header{display:grid;gap:14px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:20px;display:grid;gap:16px;min-width:0}
+.kpis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:2px}
+.kpi b{font:700 clamp(28px,6vw,40px)/1.05 var(--f-d);color:var(--bad);font-variant-numeric:tabular-nums} .kpi span{color:var(--ink-2);font-size:14px}
+.week{display:grid;grid-template-columns:110px repeat(7,minmax(0,1fr));gap:4px;font-size:13.5px;min-width:560px}
+.week div{padding:8px 6px;border-radius:6px;text-align:center}
+.week .h{font:600 12px var(--f-d);text-transform:uppercase;letter-spacing:.05em;color:var(--ink-3)} .week .lab{text-align:left;font-weight:600;color:var(--ink-2)}
+.week .v{background:var(--bg);border:1px solid var(--line)} .week .good{background:var(--ok-bg);border:1px solid var(--ok);color:var(--ok)} .week .badc{background:var(--bad-bg);border:1px solid var(--bad);color:var(--bad)} .week .empty{border:1px dashed var(--line);color:var(--ink-3)}
+.scroll{overflow-x:auto}
+.bars{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px;align-items:end;height:200px;padding-top:8px}
+.bc{display:grid;gap:4px;align-items:end;height:100%;grid-template-rows:1fr auto auto;text-align:center}
+.bc .b{background:var(--bar);border-radius:4px 4px 0 0;align-self:end} .bc.hi .b{background:var(--bad)} .bc.lo .b{background:var(--warn)}
+.bc .n{font:500 12px var(--f-m);color:var(--ink-2)} .bc .d{font:600 13px var(--f-d);text-transform:uppercase;color:var(--ink-2)}
+ul.list{margin:0;padding-left:20px;display:grid;gap:8px} ol.list{margin:0;padding-left:22px;display:grid;gap:10px}
+.alert{border-left:4px solid var(--bad);background:var(--bad-bg);border-radius:6px;padding:14px 16px;display:grid;gap:8px}
+code{font-family:var(--f-m);font-size:13px;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:1px 5px;overflow-wrap:anywhere}
+.filters input{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--axis);border-radius:6px;background:var(--surface);color:var(--ink);width:100%;max-width:360px}
+.filters input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tablebox{overflow-x:auto;border:1px solid var(--line);border-radius:8px;max-height:460px}
+table{border-collapse:collapse;width:100%;font-size:14px} th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line)} th{position:sticky;top:0;background:var(--surface);font:600 12px var(--f-d);text-transform:uppercase;letter-spacing:.04em;color:var(--ink-3)}
+td.num{text-align:right;font-family:var(--f-m)}
+.tag{font-size:12px;padding:1px 8px;border-radius:999px;white-space:nowrap} .t-r{background:var(--bad-bg);color:var(--bad)} .t-o{background:var(--warn-bg);color:var(--warn)}
+@media (max-width:620px){.kpis{grid-template-columns:minmax(0,1fr)}}
+</style>
+<div class="wrap">
+<header>
+  <span class="eyebrow">Invest-Law · incident données · 14/10/2026</span>
+  <h1>Les VNI de 122 fonds sont datées un jour trop tôt</h1>
+  <p class="muted">Sur Invest-Law, la valeur liquidative d'un lundi est enregistrée au dimanche, celle d'un vendredi au jeudi. Toutes les performances, comparaisons et simulations qui s'appuient sur l'historique sont donc décalées. Et aujourd'hui, on ne peut pas corriger ou supprimer une VNI depuis le site.</p>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><b class="mono">85 %</b><span>des VNI du site sont concernées (532 423 sur 622 583)</span></div>
+  <div class="kpi"><b class="mono">122</b><span>fiches touchées sur les 166 qui ont des VNI</span></div>
+  <div class="kpi"><b class="mono">0</b><span>moyen de corriger depuis le site : l'enregistrement d'une VNI échoue (erreur 500)</span></div>
+</div>
+
+<section>
+  <h2>La preuve, sur une semaine</h2>
+  <div class="panel">
+    <p class="muted">FFG Global Flexible Convictions R (LU1697917083). Valeurs officielles envoyées par Funds For Good, comparées à ce qu'affiche Invest-Law.</p>
+    <div class="scroll"><div class="week">
+      <div></div><div class="h">dim 17</div><div class="h">lun 18</div><div class="h">mar 19</div><div class="h">mer 20</div><div class="h">jeu 21</div><div class="h">ven 22</div><div class="h">sam 23</div>
+      <div class="lab">Officiel (FFG)</div><div class="empty">—</div><div class="good mono">134,68</div><div class="good mono">135,00</div><div class="good mono">134,85</div><div class="good mono">134,77</div><div class="good mono">135,88</div><div class="empty">—</div>
+      <div class="lab">Invest-Law</div><div class="badc mono">134,68</div><div class="badc mono">135,00</div><div class="badc mono">134,85</div><div class="badc mono">134,77</div><div class="badc mono">135,88</div><div class="empty">—</div><div class="empty">—</div>
+    </div></div>
+    <p>Même suite de chiffres, mais un jour plus tôt : le site affiche une VNI un dimanche et n'en a pas le vendredi. Vérifié sur toutes les dates communes : 1 608 sur 1 608 pour ce fonds, 314 sur 314 et 93 sur 93 pour deux autres fonds Funds For Good.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Le même signe sur tout le site</h2>
+  <div class="panel">
+    <p class="muted">Nombre de VNI enregistrées par jour de la semaine, toutes fiches confondues. Un fonds publie normalement du lundi au vendredi.</p>
+    <div class="bars" id="bars" role="img" aria-label="Répartition des VNI par jour de la semaine"></div>
+    <p>Trois fois moins de VNI le vendredi que les autres jours ouvrés, et près de 95 000 VNI un dimanche : la signature d'un décalage d'un jour. Les VNI ajoutées depuis juillet 2026 tombent, elles, toutes du lundi au vendredi.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Pourquoi c'est grave</h2>
+  <div class="panel"><ul class="list">
+    <li><strong>Performances fausses en fin de période</strong> : la VNI du dernier jour ouvré du mois ou de l'année est rangée la veille ; quand le mois commence un lundi, elle bascule dans le mauvais mois.</li>
+    <li><strong>Comparaisons faussées</strong> entre fonds, avec les indices de référence et dans le comparateur, qui alignent des dates différentes.</li>
+    <li><strong>Rupture dans les historiques</strong> : les nouvelles VNI sont à la bonne date, les anciennes non. Pour Funds For Good, l'historique passe d'une convention à l'autre début juin 2026.</li>
+    <li><strong>Doublons</strong> sur 29 fiches : la même VNI apparaît le dimanche et le lundi.</li>
+    <li><strong>Crédibilité</strong> : un gérant qui compare ses chiffres officiels au site voit immédiatement l'écart.</li>
+  </ul></div>
+</section>
+
+<section>
+  <h2>Deuxième problème : on ne peut ni corriger ni supprimer une VNI</h2>
+  <div class="alert">
+    <p>L'écran « Historique VNI » d'une fiche a un bouton <strong>X</strong> pour supprimer une VNI, puis enregistre le mois. Cet enregistrement échoue toujours : <code>PUT /api/funds/{id}/vl?month=AAAA-MM</code> renvoie <strong>500 « Erreur lors de la mise à jour des VNI »</strong>, même en renvoyant le mois sans aucun changement (testé le 14/10/2026 sur la fiche 205, mois 2026-09 ; aucune donnée modifiée).</p>
+    <p>Il n'existe pas d'autre moyen de supprimer une VNI. L'import CSV, lui, fonctionne et enregistre la bonne date, mais il ajoute ou remplace, il ne supprime pas.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Ce qu'il faut corriger</h2>
+  <div class="panel"><ol class="list">
+    <li><strong>Réparer l'enregistrement des VNI</strong> (erreur 500), pour que la modification et la suppression fonctionnent depuis le site.</li>
+    <li><strong>Corriger les données existantes</strong> : pour chaque fiche de la liste, avancer d'un jour calendaire toutes les VNI jusqu'à la « dernière date suspecte » incluse (dimanche → lundi, jeudi → vendredi), puis supprimer les doublons qui tombent sur une même date. Le plus sûr : une requête en base, après sauvegarde.</li>
+    <li><strong>Trouver la cause</strong> dans l'ancien import (probablement une conversion de fuseau horaire : minuit heure belge devient la veille en heure universelle) pour qu'elle ne se reproduise pas.</li>
+  </ol>
+  <p class="small">Une sauvegarde complète des VNI actuelles a été faite le 14/10/2026. Le détail fiche par fiche (Excel) et la sauvegarde sont disponibles sur demande.</p></div>
+</section>
+
+<section>
+  <h2>Les 122 fiches concernées</h2>
+  <div class="panel">
+    <div class="filters"><input id="q" type="search" placeholder="Rechercher un fonds ou un numéro de fiche…" aria-label="Rechercher"></div>
+    <div class="tablebox"><table><thead><tr><th>Fiche</th><th>Fonds</th><th>Problème</th><th style="text-align:right">VNI concernées</th><th>Jusqu'au</th></tr></thead><tbody id="rows"></tbody></table></div>
+    <p class="small" id="count"></p>
+  </div>
+</section>
+</div>
+<script>
+const D = {"jours":[120004,121449,119548,118818,38692,9245,94827],"fiches":[[87,"Carmignac Patrimoine A EUR","Dates de week-end (6 à 7 jours/semaine)",10070,"2026-06-07"],[85,"Carmignac Investissement A EUR","Dates de week-end (6 à 7 jours/semaine)",9788,"2026-06-07"],[38,"Carmignac Sécurité","Décalé d'un jour + doublons",9243,"2026-06-07"],[96,"ECHIQUIER AGRESSOR A EUR","Décalé d'un jour + doublons",8672,"2026-06-07"],[134,"ODDO BHF Avenir Europe CR-EUR","Décalé d'un jour + doublons",8300,"2026-06-07"],[24,"Lazard Patrimoine Croissance C","Dates de week-end (6 à 7 jours/semaine)",7906,"2026-06-07"],[129,"ODDO BHF Global Equity Trend CRw-EUR","Décalé d'un jour + doublons",7783,"2026-06-07"],[105,"ECHIQUIER VALUE EUROPE P EUR","Décalé d'un jour + doublons",7478,"2026-06-07"],[83,"Carmignac Emergents A EUR","Décalé d'un jour (en grande partie)",7427,"2026-06-07"],[26,"FIRST EAGLE AMUNDI INTERNATIONAL AU-C USD","Décalé d'un jour (dates dim→jeu)",7419,"2026-06-07"],[28,"BGF Global Allocation A2 USD","Décalé d'un jour (dates dim→jeu)",7412,"2026-06-07"],[133,"ODDO BHF Avenir Euro CR-EUR","Décalé d'un jour (dates dim→jeu)",7076,"2026-06-07"],[43,"M&G (Lux) Emerging Markets Bond Fund A EUR Acc","Décalé d'un jour + doublons",7064,"2026-06-07"],[73,"M&G (Lux) Asian A EUR Acc","Décalé d'un jour (en grande partie)",7059,"2026-06-07"],[19,"LAZARD PATRIMOINE OPPORTUNITIES SRI RC EUR","Dates de week-end (6 à 7 jours/semaine)",6988,"2026-06-07"],[84,"Carmignac Grande Europe A EUR","Décalé d'un jour (dates dim→jeu)",6985,"2026-06-07"],[13,"BGF ESG Multi-Asset A2 Eur","Décalé d'un jour (dates dim→jeu)",6928,"2026-06-07"],[95,"ECHIQUIER AGENOR MID CAP EUROPE A EUR","Décalé d'un jour + doublons",6810,"2026-06-07"],[17,"GS Patrimonial Balanced EUR Sustainable","Décalé d'un jour (dates dim→jeu)",6738,"2026-06-07"],[137,"ODDO BHF ProActif Europe CR-EUR","Décalé d'un jour + doublons",6667,"2026-06-07"],[42,"Amundi Obligations Internationales EUR-P-C","Décalé d'un jour (dates dim→jeu)",6626,"2026-06-07"],[53,"MS INVF GLOBAL BRANDS A USD","Décalé d'un jour (dates dim→jeu)",6438,"2026-06-07"],[39,"CAPITAL GROUP GLOBAL HIGH INCOME OPP (LUX) B EUR","Décalé d'un jour (dates dim→jeu)",6433,"2026-06-07"],[64,"BGF WORLD HEALTHSCIENCE A2 EUR","Décalé d'un jour (dates dim→jeu)",6351,"2026-06-07"],[132,"ODDO BHF Avenir CR-EUR","Décalé d'un jour (dates dim→jeu)",6341,"2026-06-07"],[115,"KEREN PATRIMOINE C EUR","Décalé d'un jour (dates dim→jeu)",5789,"2026-06-07"],[9,"ALLIANZ STRATEGY 50 NT EUR","Décalé d'un jour (dates dim→jeu)",5783,"2026-06-07"],[10,"Keren Patrimoine","Décalé d'un jour (dates dim→jeu)",5745,"2026-03-29"],[5,"DNCA Invest Eurose Class A shares EUR","Dates de week-end (6 à 7 jours/semaine)",5734,"2026-06-07"],[102,"ECHIQUIER MAJOR SRI GROWTH EUROPE A EUR","Décalé d'un jour (en grande partie)",5692,"2026-06-07"],[4,"ODDO BHF Polaris Moderate CR-EUR","Décalé d'un jour + doublons",5660,"2026-06-07"],[86,"Carmignac Investissement Latitude A EUR","Décalé d'un jour (dates dim→jeu)",5493,"2026-06-07"],[22,"Varenne Valeur A-Eur","Décalé d'un jour (dates dim→jeu)",5437,"2026-06-07"],[69,"JPM Global Natural Ressources","Décalé d'un jour (dates dim→jeu)",5390,"2026-06-07"],[12,"BL-Global Flexible EUR B","Décalé d'un jour (dates dim→jeu)",5313,"2026-06-07"],[99,"ECHIQUIER ARTY A EUR","Décalé d'un jour + doublons",5230,"2026-06-07"],[67,"JANUS HENDERSON GLOBAL PROPERTY","Décalé d'un jour (dates dim→jeu)",5127,"2026-06-07"],[29,"R-co Valor F Eur","Décalé d'un jour (dates dim→jeu)",5068,"2026-06-07"],[136,"ODDO BHF Polaris Balanced CRw-EUR","Décalé d'un jour + doublons",5059,"2026-06-07"],[20,"ODDO BHF Polaris Flexible CR-EUR","Décalé d'un jour + doublons",5058,"2026-06-07"],[30,"ODDO BHF Polaris Dynamic CR-EUR","Décalé d'un jour + doublons",5055,"2026-06-07"],[76,"M&G (Lux) European Strategic Value Fund A EUR","Décalé d'un jour + doublons",5024,"2026-06-07"],[41,"LAZARD CREDIT OPPORTUNITIES PC EUR","Décalé d'un jour (en grande partie)",4953,"2026-06-07"],[36,"AMUNDI FUNDS VOLATILITY EURO A EUR C","Décalé d'un jour (dates dim→jeu)",4896,"2026-06-07"],[68,"DPAM NEWS GEMS","Décalé d'un jour (dates dim→jeu)",4846,"2026-06-07"],[121,"M&G (LUX) OPTIMAL INCOME A EUR","Décalé d'un jour (dates dim→jeu)",4788,"2026-06-07"],[78,"M&G (Lux) Global Emerging Markets A EUR","Décalé d'un jour + doublons",4761,"2026-06-07"],[128,"MAINFIRST TOP EUROPEAN IDEAS A EUR","Décalé d'un jour (dates dim→jeu)",4730,"2026-06-07"],[25,"Allianz Dyn Mlt Asst Strat SRI75 AT EUR","Décalé d'un jour (dates dim→jeu)",4660,"2026-06-07"],[16,"Flossbach V S Multiple Opportunities II","Décalé d'un jour (dates dim→jeu)",4624,"2026-06-07"],[8,"DNCA Invest Évolutif A EUR","Dates de week-end (6 à 7 jours/semaine)",4591,"2026-03-01"],[92,"DNCA Invest Credit Conviction Class A shares EUR","Décalé d'un jour (dates dim→jeu)",4562,"2026-06-07"],[107,"FFG GLOBAL EQUITY CONVICTIONS R EUR","Décalé d'un jour (dates dim→jeu)",4560,"2026-06-07"],[71,"DNCA Invest Value Europe - Part A","Dates de week-end (6 à 7 jours/semaine)",4524,"2026-06-07"],[62,"NORDEA 1 - GLOBAL CLIMATE&E BP EUR","Décalé d'un jour (dates dim→jeu)",4449,"2026-06-07"],[56,"Echiquier World Equity Growth A","Décalé d'un jour (en grande partie)",4391,"2026-06-07"],[14,"JPM Global Balanced","Décalé d'un jour (dates dim→jeu)",4361,"2026-06-07"],[112,"KEREN CORPORATE C EUR","Décalé d'un jour (dates dim→jeu)",4352,"2026-06-07"],[61,"Pictet Global Megatrend Selection P EUR","Décalé d'un jour (dates dim→jeu)",4336,"2026-06-07"],[125,"MAINFIRST GERMANY A EUR","Décalé d'un jour (dates dim→jeu)",4252,"2026-06-07"],[109,"FVS BOND OPPORTUNITIES RT EUR","Décalé d'un jour (dates dim→jeu)",4223,"2026-06-07"],[74,"M&G (Lux) Dynamic Allocation A EUR Acc","Décalé d'un jour (dates dim→jeu)",4122,"2026-06-07"],[48,"JPM Global Focus","Décalé d'un jour (dates dim→jeu)",4066,"2026-06-07"],[138,"PTMA DEFENSIV PORTFOLIO P EUR","Décalé d'un jour (dates dim→jeu)",4060,"2026-06-07"],[60,"COMGEST GROWTH EMERGING MARKETS R EUR","Décalé d'un jour (dates dim→jeu)",4043,"2026-06-07"],[88,"Carmignac Portfolio Global Bond A EUR ACC","Décalé d'un jour (dates dim→jeu)",4038,"2026-06-07"],[55,"NORDEA 1 GLOBAL STABLE EQUITY BP EUR","Décalé d'un jour (dates dim→jeu)",3997,"2026-06-07"],[117,"LELEUX INVEST EQUITIES WORLD FOF R EUR","Décalé d'un jour (dates dim→jeu)",3839,"2026-05-31"],[135,"ODDO BHF Convertibles Global CR-EUR","Décalé d'un jour + doublons",3802,"2026-06-07"],[21,"Carmignac Emerging Patrimoine","Décalé d'un jour (dates dim→jeu)",3793,"2026-06-07"],[47,"COMGEST GROWTH GLOBAL EUR","Décalé d'un jour (dates dim→jeu)",3792,"2026-06-07"],[23,"PTAM Global Allocation UI","Décalé d'un jour (dates dim→jeu)",3672,"2026-06-07"],[57,"FUNDSMITH EQUITY FUND SICAV R EUR","Décalé d'un jour (dates dim→jeu)",3625,"2026-06-07"],[1,"DPAM Horizon B Defensive Strategy B","Décalé d'un jour (dates dim→jeu)",3622,"2026-05-31"],[77,"M&G (Lux) Global Corporate Bond Fund A-H EUR","Décalé d'un jour + doublons",3599,"2026-06-07"],[120,"M&G (LUX) INCOME ALLOCATION FUND A EUR","Décalé d'un jour + doublons",3591,"2026-06-07"],[33,"JUPITER MERIAN ABSOLUTE RETURN","Décalé d'un jour (dates dim→jeu)",3583,"2026-06-07"],[27,"DPAM Horizon B Active Strategy B","Décalé d'un jour (dates dim→jeu)",3582,"2026-05-31"],[114,"KEREN ESSENTIELS C EUR","Décalé d'un jour (dates dim→jeu)",3466,"2026-06-07"],[103,"ECHIQUIER POSITIVE IMPACT A EUR","Décalé d'un jour + doublons",3425,"2026-06-07"],[35,"Ofi Precious Metals R","Décalé d'un jour (dates dim→jeu)",3406,"2026-05-31"],[40,"BGF FIXED INCOME GLOBAL OPPS A2 EUR","Dates de week-end (6 à 7 jours/semaine)",3377,"2026-06-07"],[31,"MainFirst Global Equities Fund A","Décalé d'un jour (dates dim→jeu)",3304,"2026-06-07"],[97,"ECHIQUIER ALLOCATION FLEXIBLE A EUR","Décalé d'un jour + doublons",3286,"2026-06-07"],[124,"MAINFIRST ABSOLUTE RETURN MULTI ASSET A EUR","Décalé d'un jour (dates dim→jeu)",3265,"2026-06-07"],[65,"ALKEN SMALL CAP EUROPE","Décalé d'un jour (dates dim→jeu)",3251,"2026-06-07"],[106,"FFG GLOBAL DEFENSIVE R EUR","Décalé d'un jour (dates dim→jeu)",3201,"2026-06-07"],[50,"CAPITAL GROUP NEW PERSPECTIVE FUND LUX EUR","Dates de week-end (6 à 7 jours/semaine)",3117,"2026-06-07"],[66,"CT GLOBAL SMALLER COMPANIES","Décalé d'un jour (dates dim→jeu)",3113,"2026-06-07"],[37,"AMUNDI METORI EPSILON GLOBAL TRENDS","Décalé d'un jour (dates dim→jeu)",3016,"2026-06-07"],[46,"Aphilion QÂ² SICAV Equities A Acc","Décalé d'un jour (dates dim→jeu)",2975,"2026-06-07"],[63,"FIDELITY FUNDS GLOBAL TECHNOLOGY FUND A EUR","Décalé d'un jour (dates dim→jeu)",2886,"2026-06-07"],[44,"DNCA ALPHA BONDS","Dates de week-end (6 à 7 jours/semaine)",2878,"2026-06-07"],[2,"LAZARD PATRIMOINE SRI RC EUR","Décalé d'un jour (en grande partie)",2868,"2026-06-07"],[54,"FIDELITY FUNDS WORLD Y EUR","Décalé d'un jour (dates dim→jeu)",2802,"2026-06-07"],[11,"CAPITAL GROUP GLOBAL ALLOCATION B EUR","Décalé d'un jour (dates dim→jeu)",2785,"2026-06-07"],[101,"ECHIQUIER HYBRID BONDS A EUR","Décalé d'un jour + doublons",2677,"2026-06-07"],[98,"ECHIQUIER ARTIFICIAL INTELLIGENCE B EUR","Décalé d'un jour + doublons",2448,"2026-06-07"],[130,"ODDO BHF US Equity Trend CR-EUR","Décalé d'un jour + doublons",2419,"2026-06-07"],[52,"GUARDCAP GLOBAL EQUITY FUND S EUR","Décalé d'un jour (dates dim→jeu)",2301,"2026-06-07"],[122,"M&G (LUX) SUSTAINABLE ALLOCATION FUND EUR","Décalé d'un jour + doublons",2270,"2026-06-07"],[131,"ODDO BHF Artificial Intelligence CR-EUR","Décalé d'un jour + doublons",2264,"2026-06-07"],[72,"Athymis Industrie 4.0 P","Décalé d'un jour + doublons",2244,"2026-06-07"],[82,"Athymis Better Life EUR","Décalé d'un jour (dates dim→jeu)",2215,"2026-06-07"],[81,"M&G (Lux) Global Themes Fund A EUR","Décalé d'un jour + doublons",2186,"2026-06-07"],[15,"FFG GLOBAL FLEXIBLE CONVICTIONS R EUR","Décalé d'un jour (dates dim→jeu)",2107,"2026-06-07"],[126,"MAINFIRST GLOBAL EQUITIES UNCONSTRAINED A EUR","Décalé d'un jour (dates dim→jeu)",1891,"2026-06-07"],[172,"DNCA Mandat Patrimoniale","Dates de week-end (6 à 7 jours/semaine)",1885,"2026-02-28"],[3,"Amundi Income Opportunities","Décalé d'un jour (dates dim→jeu)",1880,"2026-06-07"],[89,"DNCA INVEST BEYOND ALTEROSA A EUR","Décalé d'un jour (dates dim→jeu)",1871,"2026-06-07"],[91,"DNCA INVEST BEYOND SEMPEROSA A EUR","Décalé d'un jour (dates dim→jeu)",1871,"2026-06-07"],[80,"M&G (Lux) Global Sustain Paris Aligned Fund A EUR","Décalé d'un jour (dates dim→jeu)",1855,"2026-06-07"],[49,"CARMIGNAC PORTFOLIO GRANDCHILDREN","Décalé d'un jour (dates dim→jeu)",1747,"2026-06-07"],[6,"La Française Rendement Global 2028 Plus RC EUR","Décalé d'un jour (dates dim→jeu)",1641,"2026-06-07"],[104,"ECHIQUIER SPACE B EUR","Décalé d'un jour + doublons",1541,"2026-06-07"],[90,"DNCA Invest Sustain Climate A EUR","Décalé d'un jour (dates dim→jeu)",1337,"2026-06-07"],[113,"KEREN CREDIT ISR C EUR","Décalé d'un jour (dates dim→jeu)",1322,"2026-06-07"],[45,"LBPAM ISR ABSOLUTE RETURN CREDIT","Décalé d'un jour (dates dim→jeu)",1199,"2026-06-07"],[127,"MAINFIRST MEGATRENDS ASIA A USD","Décalé d'un jour (dates dim→jeu)",1145,"2026-06-07"],[100,"ECHIQUIER GLOBAL FLEXIBLE A EUR","Décalé d'un jour + doublons",1129,"2026-05-31"],[34,"Ofi Strategic Metals","Décalé d'un jour (dates dim→jeu)",940,"2026-06-07"],[58,"CT GLOBAL FOCUS","Décalé d'un jour (dates dim→jeu)",273,"2026-05-31"]]};
+const fmt = n => n.toLocaleString('fr-FR');
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const JN=['lun','mar','mer','jeu','ven','sam','dim']; const mx=Math.max(...D.jours);
+document.getElementById('bars').innerHTML = D.jours.map((n,i)=>`<div class="bc ${i===6?'hi':(i===4?'lo':'')}"><div class="b" style="height:${Math.max(2,n/mx*100)}%"></div><span class="n">${fmt(n)}</span><span class="d">${JN[i]}</span></div>`).join('');
+const lab = v => v.includes('doublons') ? 'Décalé + doublons' : v.includes('week-end') ? 'Dates de week-end' : 'Décalé d\'un jour';
+const date = s => s ? s.slice(8,10)+'/'+s.slice(5,7)+'/'+s.slice(0,4) : '';
+function render(){ const q=document.getElementById('q').value.trim().toLowerCase();
+  const L=D.fiches.filter(f=>!q||(f[0]+' '+f[1]).toLowerCase().includes(q));
+  document.getElementById('rows').innerHTML=L.map(f=>`<tr><td class="mono">${f[0]}</td><td>${esc(f[1])}</td><td><span class="tag ${lab(f[2])==='Décalé d\'un jour'?'t-r':'t-o'}">${lab(f[2])}</span></td><td class="num">${fmt(f[3])}</td><td class="mono">${date(f[4])}</td></tr>`).join('');
+  document.getElementById('count').textContent=`${L.length} fiche${L.length>1?'s':''}`; }
+document.getElementById('q').addEventListener('input',render); render();
+</script>
