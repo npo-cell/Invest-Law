@@ -23,3 +23,9 @@ Absents du fichier : FFG BLI American Impact (197, 202) et European Impact (198,
 - 106, 107, 15 ont un historique, arrêté au 07/06/2026.
 - **Décalage d'un jour sur le site** : sur les dates communes (VNI réelles), la valeur du site à la date J est celle que FFG date au jour ouvré suivant (106 : 314/314 ; 107 : 93/93 ; 15 : 1 608/1 608). Le site n'a presque aucun vendredi et beaucoup de dimanches pour ces fiches et pour d'autres (5, 23, 87…), alors que Leleux (116, saisi récemment) est correct du lundi au vendredi. Probable bug de fuseau horaire lors d'un import ancien (date à minuit convertie la veille). À signaler au développeur.
 - 106 et 107 : avant les dates ci-dessus, le site a un historique différent du fichier (ex. 106 au 01/01/2018 : site 113,77, fichier 91,44 reconstitué) : ancienne stratégie réelle sur le site, backtest de la nouvelle stratégie dans le fichier.
+
+## Import (14/10/2026 ~09h20 UTC, demande de l'utilisatrice : VNI réelles uniquement)
+- Retenu : VNI réelles seulement (après la dernière valeur reconstituée de chaque série). Pour 106, 107 et 15, qui avaient déjà un historique (décalé d'un jour), seulement après le 07/06/2026 pour ne pas mélanger deux conventions de date.
+- Import par `POST /api/funds/vl/upload-by-isin` (CSV `ISIN,Date,VNI`, dates AAAA-MM-JJ) : test d'une ligne (205, 30/09/2026) enregistré à la bonne date, puis 5 366 VNI. Relecture : 5 366/5 366 conformes. Fichier et journal : `docs/vni-ffg-2026-10-14/`.
+- Par fiche : 106 : 82 (08/06→30/09/2026) ; 205 : 493 (depuis 24/10/2024) ; 200 : 640 (depuis 28/03/2024) ; 59 : 601 (depuis 27/05/2024) ; 196 et 201 : 650 (depuis 12/03/2024) ; 199 : 208 (depuis 12/12/2025) ; 107 : 82 ; 15 : 82 ; 204 : 1 878 (depuis 24/04/2019).
+- Non importé : valeurs reconstituées (backtest GD, extension GEC, début GELC). Correspondance GFC (onglet sans ISIN) : R → fiche 15, I → fiche 204 d'après les noms de classe.
