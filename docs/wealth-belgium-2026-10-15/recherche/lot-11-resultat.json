@@ -310,58 +310,118 @@
   "isin": "LU0181996454",
   "nom": "(I/C)TEMPLETON ASIAN GROWTH I USD",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0181996454/LU0181996454__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/5e6983c77e5547a0e24cd93071c572b5_102279/MR_FR_fr_LU0181996454_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0181996454/LU0181996454__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/8bb78edca5fafcf00f08055cdabfe9b1_170299/PRP_FR_fr_LU0181996454_YES_2026-02-19.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR (reporting au 30/09/2026) et KID FR (19/02/2026) via fundinfo, déclinaison pays FR (pas de version BE en français pour cette part)."
  },
  {
   "n": 307,
   "isin": "LU1433070429",
   "nom": "(I/C)THREADNEEDLE (LUX) GLOBAL FOCUS CLASS ZE EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU1433070429/LU1433070429__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/ebacbfa7ab0dadeb407aa61a5af02e24_778160/MR_FR_fr_LU1433070429_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr, version part ZE EUR)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU1433070429/LU1433070429__KID_FR_2026-02-23.pdf",
+   "url": "https://api.fundinfo.com/document/62896915bf9436f47c93ad5d58c147fb_302439/PRP_BE_fr_LU1433070429_YES_2026-02-23.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-02-23",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Attention : fundinfo publie sous cet ISIN des fiches d'autres parts (ZU USD, AU USD) ; retenue la fiche FR (pays FR, YES) titrée « CAT. ZE EUR (ISIN:LU1433070429) » au 31/08/2026. KID FR version BE (23/02/2026). Pas de fiche fin septembre publiée."
  },
  {
   "n": 308,
   "isin": "LU0957820193",
   "nom": "(I/C)THREADNEEDLE GLOBAL SMALLER COMPANIES ZE EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0957820193/LU0957820193__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/3fcaa9fe9cb5226b31286ac603083b9e_370642/MR_LU_fr_LU0957820193_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR LU fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0957820193/LU0957820193__KID_FR_2026-02-23.pdf",
+   "url": "https://api.fundinfo.com/document/ded7f667cf0deeefe0720bbae1f21715_302586/PRP_BE_fr_LU0957820193_YES_2026-02-23.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-02-23",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Fiche FR (pays LU, YES) titrée « CAT. ZE EUR (ISIN:LU0957820193) » au 31/08/2026 (les versions EN de fundinfo peuvent porter sur une autre part). KID FR version BE (23/02/2026)."
  },
  {
   "n": 309,
   "isin": "FR001400UPC1",
   "nom": "(I/C)TIKEHAU 2031 F EUR (FMB)",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TIKEHAU_INVESTMENT_MANAGEMENT/FR001400UPC1/FR001400UPC1__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/afcdbce68941f43d3e48ae845a92cc23_262436/MR_BE_fr_FR001400UPC1_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR BE fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TIKEHAU_INVESTMENT_MANAGEMENT/FR001400UPC1/FR001400UPC1__KID_FR_2026-03-04.pdf",
+   "url": "https://api.fundinfo.com/document/a6dd4ad20a7fc3a646d4e9c1193deafe_265760/PRP_BE_fr_FR001400UPC1_YES_2026-03-04.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-03-04",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Rapport mensuel FR septembre 2026 (part F-Acc-EUR) et KID FR via fundinfo (déclinaison BE)."
  },
  {
   "n": 310,
   "isin": "FR0013230042",
   "nom": "(I/C)TOCQUEVILLE VALUE EURO ISR GP EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/605cd850ce504c8307ec0bd88cfb162c_247253/MR_FR_fr_FR0013230042_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__KID_FR_2026-04-22.pdf",
+   "url": "https://api.fundinfo.com/document/7997da15649f83b1961f1d590b100a07_268066/PRP_BE_fr_FR0013230042_YES_2026-04-22.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-04-22",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },

@@ -382,5 +382,173 @@
    "langue": "FR",
    "isin_verifie": true
   }
+ },
+ {
+  "n": 192,
+  "isin": "IE0009XQIVD0",
+  "nom": "(I/C)LAZARD BAYLIGHT US SMALL CAP EQUITY FND C EUR",
+  "notes": "Factsheet : aucune MR sur fundinfo (BE/LU/FR/IE) ; site lazardassetmanagement.com (page d'entrée/profil, application AEM) non exploitable en ligne de commande. KID part C Acc EUR Hedged.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE0009XQIVD0/IE0009XQIVD0__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/bf03bbf583d7a50dbb5bf6bfef34b8d0_287353/PRP_BE_fr_IE0009XQIVD0_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 193,
+  "isin": "FR0014015UU8",
+  "nom": "(I/C)LAZARD CREDIT 2031 PC EUR (FMB)",
+  "notes": "Reporting d'août 2026 (« 08-2026 ») : en-tête « Part A » mais ISIN FR0014015UU8, VL ~1011 € et frais (0,60 %) de la part ; le DIC nomme la part « Action PC EUR ». Site lazardfreresgestion.fr injoignable (erreur de certificat via le proxy) ; reporting de septembre pas encore sur fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0014015UU8/FR0014015UU8__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/69bae7c9a729d96532ac3f0f546b4e18_3177479/MR_FR_fr_FR0014015UU8_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (reporting Lazard Frères Gestion)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0014015UU8/FR0014015UU8__KID_FR_2026-10-08.pdf",
+   "url": "https://api.fundinfo.com/document/0587732811d89f11dac0ce2113255841_182861/PRP_FR_fr_FR0014015UU8_YES_2026-10-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-08",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 194,
+  "isin": "FR0010235507",
+  "nom": "(I/C)LAZARD CREDIT OPPORTUNITIES PC EUR",
+  "notes": "Reporting d'août 2026 (« 08-2026 », part PC EUR). Site lazardfreresgestion.fr injoignable (erreur de certificat via le proxy) ; reporting de septembre pas encore sur fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/f53f18e86a1e595f2d3fcbd315b83952_5510567/MR_FR_fr_FR0010235507_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (reporting Lazard Frères Gestion)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__KID_FR_2026-10-08.pdf",
+   "url": "https://api.fundinfo.com/document/29babcc0e335ffb6493903fbb79d75e3_179886/PRP_FR_fr_FR0010235507_YES_2026-10-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-08",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 195,
+  "isin": "IE00B51PLJ46",
+  "nom": "(I/C)LAZARD GLOBAL LIST INF EQUITY A EUR",
+  "notes": "Factsheet uniquement en anglais (aucune MR française sur fundinfo), part A Acc EUR Hedged ; septembre pas encore publié.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/2a2741b100406c01511eb31566da206c_251281/MR_LU_en_IE00B51PLJ46_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (LU-prof)",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/fde1913842473a1d1823d00fe33c4bd3_287197/PRP_BE_fr_IE00B51PLJ46_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 196,
+  "isin": "IE000IKE8B53",
+  "nom": "(I/C)LAZARD LISTED PRIVATE MARKETS EA EUR",
+  "notes": "Factsheet : aucune MR sur fundinfo (BE/LU/FR/IE) pour cette part EA Acc EUR ; site lazardassetmanagement.com non exploitable en ligne de commande.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE000IKE8B53/IE000IKE8B53__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/ec31d419da513f6917977f7fcac3ea80_286436/PRP_BE_fr_IE000IKE8B53_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 197,
+  "isin": "FR0013409463",
+  "nom": "(I/C)LAZARD PATRIMOINE OPPORTUNITIES SRI PC EUR",
+  "notes": "Reporting d'août 2026 (« 08-2026 », part PC). Site lazardfreresgestion.fr injoignable (erreur de certificat via le proxy) ; reporting de septembre pas encore sur fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0013409463/FR0013409463__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/039804beb0c9abb71090a78e1fd77b09_1664492/MR_FR_fr_FR0013409463_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (reporting Lazard Frères Gestion)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0013409463/FR0013409463__KID_FR_2026-10-08.pdf",
+   "url": "https://api.fundinfo.com/document/59a973826135127495ade29b3d88fcf9_181724/PRP_FR_fr_FR0013409463_YES_2026-10-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-08",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 198,
+  "isin": "IE00BFZ4RW27",
+  "nom": "(I/C)LAZARD RATHMORE ALTERNATIVE FUND C EUR",
+  "notes": "Factsheet uniquement en anglais (part C Acc EUR Hedged, 30/09/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00BFZ4RW27/IE00BFZ4RW27__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/69ea521d4fec13a34f2da479f3272308_283960/MR_IE_en_IE00BFZ4RW27_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (IE-prof)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00BFZ4RW27/IE00BFZ4RW27__KID_FR_2026-03-13.pdf",
+   "url": "https://api.fundinfo.com/document/3f0d3bc241f93ab7473e8af9ac2d01c8_289740/PRP_FR_fr_IE00BFZ4RW27_YES_2026-03-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-03-13",
+   "langue": "FR",
+   "isin_verifie": true
+  }
  }
 ]

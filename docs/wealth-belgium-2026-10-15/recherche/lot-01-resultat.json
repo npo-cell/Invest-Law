@@ -6,8 +6,8 @@
   "factsheet": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__Factsheet_FR_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/e036b7a577191c7a415329da2c2b8da1_519725/MR_CH_fr_LU1437015735_QFI_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
+   "url": "https://www.amundietf.fr/pdfDocuments/monthly-factsheet/LU1437015735/FRA/FRA/INSTITUTIONNEL/ETF",
+   "source": "Amundi ETF (amundietf.fr)",
    "date": "2026-08-31",
    "langue": "FR",
    "isin_verifie": true
@@ -15,13 +15,13 @@
   "kid": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__KID_FR_2026-06-05.pdf",
-   "url": "https://api.fundinfo.com/document/b90d39533ddf3249c440b2b94e04f339_218515/PRP_CH_fr_LU1437015735_QFI_2026-06-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
+   "url": "https://www.amundietf.fr/pdfDocuments/kid-priips/LU1437015735/FRA/FRA",
+   "source": "Amundi ETF (amundietf.fr)",
    "date": "2026-06-05",
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet fin août 2026 sur amundietf.fr (version de septembre pas encore publiée, ni sur fundinfo). KID FR 05/06/2026 (amundietf.fr, identique à fundinfo)."
  },
  {
   "n": 3,
@@ -45,7 +45,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet « Reporting mensuel » FR au 30/09/2026 (fundinfo, version LU). KID FR 30/04/2026."
  },
  {
   "n": 4,
@@ -69,7 +69,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet uniquement en anglais (fundinfo), fin août 2026 ; pas de septembre trouvée. KID FR (version BE) 03/08/2026."
  },
  {
   "n": 5,
@@ -93,7 +93,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR via fundinfo (documents iShares, identiques à ceux d'ishares.com)."
  },
  {
   "n": 6,
@@ -117,7 +117,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR via fundinfo (documents iShares)."
  },
  {
   "n": 7,
@@ -126,8 +126,8 @@
   "factsheet": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE00B4L5Y983/IE00B4L5Y983__Factsheet_FR_2026-09-30.pdf",
-   "url": "https://api.fundinfo.com/document/e6e232063dd1d9d23d669b15f675da59_391778/MR_FR_fr_IE00B4L5Y983_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
+   "url": "https://www.ishares.com/gls-download/literature/fact-sheet/swda-ishares-core-msci-world-ucits-etf-fund-fact-sheet-fr-fr.pdf",
+   "source": "iShares (ishares.com)",
    "date": "2026-09-30",
    "langue": "FR",
    "isin_verifie": true
@@ -141,7 +141,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR depuis ishares.com (octet pour octet identique à fundinfo). KID FR via fundinfo (03/09/2026)."
  },
  {
   "n": 8,
@@ -165,7 +165,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR via fundinfo (documents iShares)."
  },
  {
   "n": 9,
@@ -189,7 +189,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR via fundinfo (documents iShares)."
  },
  {
   "n": 10,
@@ -213,7 +213,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin août 2026 (pas de septembre sur fundinfo ; site JPM non exploitable en direct)."
  },
  {
   "n": 11,
@@ -237,7 +237,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin août 2026 (pas de septembre sur fundinfo). Maison indiquée GOLDMAN SACHS AM dans l'entrée, mais le fonds est un ETF J.P. Morgan (JPMorgan ETFs (Ireland) ICAV)."
  },
  {
   "n": 12,
@@ -261,20 +261,20 @@
    "langue": "EN",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Fonds lancé le 22/07/2026 (Investment Partners ICAV, ManCo Amundi Ireland). Aucune factsheet trouvée (fundinfo tous pays, amundietf, recherche web). KID uniquement en anglais (fundinfo IE, 18/06/2026)."
  },
  {
   "n": 13,
   "isin": "IE0001O9L5K4",
   "nom": "(ETF)ODDO BHF GLOBAL EQUITY ACTIVE UCITS EUR",
   "factsheet": {
-   "statut": "Non trouvé",
-   "fichier": null,
-   "url": null,
-   "source": null,
-   "date": null,
-   "langue": null,
-   "isin_verifie": false
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/HANETF/IE0001O9L5K4/IE0001O9L5K4__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://am.oddo-bhf.com/fr-fr/download-document/55987",
+   "source": "ODDO BHF AM (am.oddo-bhf.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
@@ -285,7 +285,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR 30/09/2026 sur le site ODDO BHF AM. KID FR le plus récent sur fundinfo (31/05/2026, version FR) ; le KID FR du site ODDO date du 20/10/2025 (plus ancien)."
  },
  {
   "n": 14,
@@ -309,7 +309,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin août 2026 (fundinfo). KID FR 27/03/2026 (fundinfo)."
  },
  {
   "n": 15,
@@ -317,23 +317,23 @@
   "nom": "(ETF)VANGUARD LIFESTRATEGY 20% EQUITY EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5K07/IE00BMVB5K07__Factsheet_FR_2026-07-31.pdf",
-   "url": "https://api.fundinfo.com/document/ab8dbbc345bc2e52bd8dac92557c7aec_409326/MR_FR_fr_IE00BMVB5K07_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-07-31",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5K07/IE00BMVB5K07__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/LifeStrategy_20_Equity_UCITS_ETF_EUR_Accumulating_9490_FR_INT_FR.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
    "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5K07/IE00BMVB5K07__KID_EN_2026-03-24.pdf",
-   "url": "https://api.fundinfo.com/document/c9d9746e049b7cf8dffc799680b0d918_153631/PRP_LU_en_IE00BMVB5K07_YES_2026-03-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-03-24",
-   "langue": "EN",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5K07/IE00BMVB5K07__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bmvb5k07_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin août 2026 sur fund-docs.vanguard.com (fundinfo seulement fin juillet). KID FR daté du 29/09/2026 sur fund-docs.vanguard.com (fundinfo n'a que l'EN du 24/03/2026)."
  },
  {
   "n": 16,
@@ -341,23 +341,23 @@
   "nom": "(ETF)VANGUARD LIFESTRATEGY 40% EQUITY EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5M21/IE00BMVB5M21__Factsheet_FR_2026-07-31.pdf",
-   "url": "https://api.fundinfo.com/document/118ed004f67d0946faa02c59d6ca59b4_409336/MR_FR_fr_IE00BMVB5M21_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-07-31",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5M21/IE00BMVB5M21__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/LifeStrategy_40_Equity_UCITS_ETF_EUR_Accumulating_9492_FR_INT_FR.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
    "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5M21/IE00BMVB5M21__KID_EN_2026-03-24.pdf",
-   "url": "https://api.fundinfo.com/document/ea47eb5489ccf0be492a1313f53009ac_153288/PRP_LU_en_IE00BMVB5M21_YES_2026-03-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-03-24",
-   "langue": "EN",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5M21/IE00BMVB5M21__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bmvb5m21_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin août 2026 sur fund-docs.vanguard.com (fundinfo seulement fin juillet). KID FR daté du 29/09/2026 sur fund-docs.vanguard.com (fundinfo n'a que l'EN du 24/03/2026)."
  },
  {
   "n": 17,
@@ -381,7 +381,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet EN fin août 2026 (la FR la plus récente sur fundinfo date de fin juin 2026). KID FR (BE) 07/08/2026."
  },
  {
   "n": 18,
@@ -405,7 +405,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet EN fin août 2026 (FR seulement fin juin). KID FR (BE) 26/03/2026."
  },
  {
   "n": 19,
@@ -429,7 +429,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Fonds renommé abrdn SICAV I - Future Minerals Fund (ex-World Resources Equity). Factsheet EN fin août 2026 (FR seulement fin juin). KID FR (BE) 21/08/2026."
  },
  {
   "n": 20,
@@ -453,7 +453,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet EN fin août 2026 (FR seulement fin juin, version CH). KID FR = version suisse en français sur fundinfo (07/05/2026) ; en BE/LU seulement EN."
  },
  {
   "n": 21,
@@ -477,7 +477,7 @@
    "langue": null,
    "isin_verifie": false
   },
-  "notes": ""
+  "notes": "Non trouvé : fundinfo (DE-prof) n'a que KID et prospectus en allemand ; la page anglaise de la part V sur acatis.de ne publie ni factsheet ni KID FR/EN."
  },
  {
   "n": 22,
@@ -501,7 +501,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin juillet 2026 (la plus récente sur fundinfo, aucune plus récente trouvée). KID FR 20/02/2026."
  },
  {
   "n": 23,
@@ -525,7 +525,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet uniquement en anglais (fundinfo, 30/09/2026). KID FR 11/05/2026 : PDF à police non standard, texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 24,
@@ -549,7 +549,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR 30/09/2026. KID FR (BE) 16/04/2026 ; texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 25,
@@ -573,7 +573,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR 30/09/2026. KID FR (BE) 10/08/2026 ; texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 26,
@@ -597,7 +597,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR 30/09/2026. KID FR (BE) 11/05/2026 ; texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 27,
@@ -621,7 +621,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR 30/09/2026. KID FR (BE) 22/09/2026 ; texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 28,
@@ -645,7 +645,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet uniquement en anglais (30/09/2026). KID FR (BE) 11/05/2026 ; texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 29,
@@ -669,7 +669,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet uniquement en anglais (30/09/2026). KID FR 16/04/2026 ; texte .txt extrait avec pypdf (pdftotext vide)."
  },
  {
   "n": 30,
@@ -693,6 +693,6 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR 30/09/2026 et KID FR 29/07/2026 (fundinfo)."
  }
 ]

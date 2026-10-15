@@ -99,7 +99,15 @@
   "n": 151,
   "isin": "IE0000Y4WE95",
   "nom": "(I/C)GOEHRING & ROZENCWAJG RESOURCES FUND C EUR",
-  "factsheet": null,
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
   "kid": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/IE0000Y4WE95/IE0000Y4WE95__KID_EN_2025-06-13.pdf",
@@ -109,7 +117,7 @@
    "langue": "EN",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet : aucun reporting mensuel de la part UCITS (fundinfo IE/LU/BE/FR/DE/CH/GB : pas de type MR ; gorozen.com/gr-funds.com : seulement le fonds US). KID : uniquement EN (fundinfo IE, 13/06/2025, plus récent que celui de fundinfo.fundrock.com de 2024)."
  },
  {
   "n": 152,

@@ -581,10 +581,10 @@
   "nom": "(I/C)FUNDSMITH EQUITY FUND SICAV I EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374029/LU0690374029__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/1b5bcec0e1fbbbfae722d531de43bf73_1235450/MR_BE_en_LU0690374029_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo (api.fundinfo.com)",
-   "date": "2026-08-31",
+   "fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374029/LU0690374029__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://www.fundsmith.eu/media/koqhp0vh/20269-fefs-fund-facts.pdf",
+   "source": "site Fundsmith (fundsmith.eu/factsheet)",
+   "date": "2026-09-30",
    "langue": "EN",
    "isin_verifie": true
   },
