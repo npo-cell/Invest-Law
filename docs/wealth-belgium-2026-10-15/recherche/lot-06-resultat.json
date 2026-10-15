@@ -1,0 +1,354 @@
+[
+ {
+  "n": 147,
+  "isin": "LU2312730000",
+  "nom": "(I/C)FVS DIVIDEND IT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU2312730000/LU2312730000__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU2312730000/en/de/mr",
+   "source": "Flossbach von Storch (site gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU2312730000/LU2312730000__KID_EN_2026-04-27.pdf",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU2312730000/en/lu/priip",
+   "source": "Flossbach von Storch (site gestionnaire)",
+   "date": "2026-04-27",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": "Pas de version FR (site FvS : seulement en/de ; fundinfo LU/DE : EN/DE uniquement, fonds non enregistré BE)."
+ },
+ {
+  "n": 148,
+  "isin": "LU3201875161",
+  "nom": "(I/C)FVS GLOBAL DYNAMIC WEALTH IT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU3201875161/LU3201875161__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU3201875161/en/lu/mr",
+   "source": "Flossbach von Storch (site gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU3201875161/LU3201875161__KID_FR_2026-04-01.pdf",
+   "url": "https://api.fundinfo.com/document/5392d5cf540d4ac133898ec721587f3c_128864/PRP_LU_fr_LU3201875161_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet seulement en EN/DE (site FvS + fundinfo). KID FR via fundinfo (site FvS : en/de seulement)."
+ },
+ {
+  "n": 149,
+  "isin": "LU1038809049",
+  "nom": "(I/C)FVS MULTIPLE OPPORTUNITIES II IT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809049/LU1038809049__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU1038809049/en/lu/mr",
+   "source": "Flossbach von Storch (site gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809049/LU1038809049__KID_FR_2026-04-01.pdf",
+   "url": "https://api.fundinfo.com/document/1e72e73c61c00453e9583bb648aa95bd_128479/PRP_LU_fr_LU1038809049_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet seulement en EN/DE (site FvS + fundinfo). KID FR via fundinfo (site FvS : en/de seulement)."
+ },
+ {
+  "n": 150,
+  "isin": "FR0013291879",
+  "nom": "(I/C)GEMASIA I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GEMWAY_ASSETS/FR0013291879/FR0013291879__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/7316d8d807de5b0ea30d25dbb30b2d33_2078678/MR_FR_en_FR0013291879_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GEMWAY_ASSETS/FR0013291879/FR0013291879__KID_FR_2025-02-18.pdf",
+   "url": "https://api.fundinfo.com/document/24ad96ac30c0bcac6a1817f8df54447a_53566/PRP_FR_fr_FR0013291879_YES_2025-02-18.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2025-02-18",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 151,
+  "isin": "IE0000Y4WE95",
+  "nom": "(I/C)GOEHRING & ROZENCWAJG RESOURCES FUND C EUR",
+  "factsheet": null,
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/IE0000Y4WE95/IE0000Y4WE95__KID_EN_2025-06-13.pdf",
+   "url": "https://api.fundinfo.com/document/586dfb6df2c225419181cccd8c7b495e_196860/PRP_IE_en_IE0000Y4WE95_YES_2025-06-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2025-06-13",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 152,
+  "isin": "LU0191250769",
+  "nom": "(I/C)GOLDMAN SACHS - GLOB SUSTAINABLE EQUITY I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NN_INVESTMENT_PARTNERS_BV/LU0191250769/LU0191250769__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/5c334fddab6757e6b254dc1466a49e57_195945/MR_FR_fr_LU0191250769_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NN_INVESTMENT_PARTNERS_BV/LU0191250769/LU0191250769__KID_FR_2026-03-03.pdf",
+   "url": "https://api.fundinfo.com/document/b3ae46040e9fa19401bae371465f4117_162399/PRP_FR_fr_LU0191250769_YES_2026-03-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 153,
+  "isin": "LU1703075694",
+  "nom": "(I/C)GOLDMAN SACHS - PAT BAL EURO SUST R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NN_INVESTMENT_PARTNERS_BV/LU1703075694/LU1703075694__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/a9e3b6fe934d2342531d51ec3b04d19e_199195/MR_BE_fr_LU1703075694_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NN_INVESTMENT_PARTNERS_BV/LU1703075694/LU1703075694__KID_FR_2026-03-03.pdf",
+   "url": "https://api.fundinfo.com/document/f0c40ba183bb4adc6687498808cb39ff_166969/PRP_FR_fr_LU1703075694_YES_2026-03-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 154,
+  "isin": "LU2102358178",
+  "nom": "(I/C)GOLDMAN SACHS CORPORATE GREEN BOND I CAP EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358178/LU2102358178__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/c697c5df18a559a928ffe84bef1dd179_200905/MR_FR_fr_LU2102358178_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358178/LU2102358178__KID_FR_2026-03-03.pdf",
+   "url": "https://api.fundinfo.com/document/124329b5ba1ed097c9addb825ea070af_164707/PRP_FR_fr_LU2102358178_YES_2026-03-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 155,
+  "isin": "LU1273028123",
+  "nom": "(I/C)GOLDMAN SACHS EUROZONE EQUITY INCOME R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU1273028123/LU1273028123__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/7bacd7dc2c0864ae6a0478e13d0bf9e0_191299/MR_BE_fr_LU1273028123_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU1273028123/LU1273028123__KID_FR_2026-03-03.pdf",
+   "url": "https://api.fundinfo.com/document/5ebdd8da35b52150c5c800433df36bb9_142652/PRP_FR_fr_LU1273028123_YES_2026-03-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 156,
+  "isin": "LU1299707072",
+  "nom": "(I/C)GOLDMAN SACHS INDIA EQUITY FUND R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU1299707072/LU1299707072__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/849c1b0d17c086fd057db3e76ca240bd_140271/MR_FR_fr_LU1299707072_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU1299707072/LU1299707072__KID_FR_2026-08-03.pdf",
+   "url": "https://api.fundinfo.com/document/0f957fbca07abc97f07a03fe8c0a0728_164117/PRP_BE_fr_LU1299707072_YES_2026-08-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 157,
+  "isin": "IE00BZ036616",
+  "nom": "(I/C)GUARDCAP GLOBAL EQUITY FUND I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BZ036616/IE00BZ036616__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/bfc666f55e710ab615075bac72d1329e_345035/MR_IE_en_IE00BZ036616_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BZ036616/IE00BZ036616__KID_FR_2026-05-08.pdf",
+   "url": "https://api.fundinfo.com/document/26b0cdb58492d95e7c15b6e2aa23dcda_184194/PRP_BE_fr_IE00BZ036616_YES_2026-05-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-05-08",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 158,
+  "isin": "IE00BVYPNZ31",
+  "nom": "(I/C)GUINNESS GLOBAL EQUITY INCOME Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BVYPNZ31/IE00BVYPNZ31__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/193149dba8ce0085fba05d88e92ba6d7_144242/MR_LU_fr_IE00BVYPNZ31_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BVYPNZ31/IE00BVYPNZ31__KID_FR_2026-06-03.pdf",
+   "url": "https://api.fundinfo.com/document/7decf5f38c817ca5f4202ac3df52e18b_104494/PRP_FR_fr_IE00BVYPNZ31_YES_2026-06-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 159,
+  "isin": "LU1112771255",
+  "nom": "(I/C)HELIUM SELECTION A EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771255/LU1112771255__Factsheet_FR_2026-07-31.pdf",
+   "url": "https://api.fundinfo.com/document/b7b07f305fe1d5b08fd5f11b21c48a73_295522/MR_LU_fr_LU1112771255_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771255/LU1112771255__KID_FR_2026-06-26.pdf",
+   "url": "https://api.fundinfo.com/document/d094f35e181fb1568121cd16658f180d_202050/PRP_FR_fr_LU1112771255_YES_2026-06-26.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 160,
+  "isin": "LU1931806399",
+  "nom": "(I/C)HESPER GLOBAL SOLUTIONS T-6 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU1931806399/LU1931806399__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/780436a6f5d594114d843b196f87ed77_489822/MR_LU_fr_LU1931806399_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU1931806399/LU1931806399__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/a932359005649925c135fb0651caff1d_174922/PRP_BE_fr_LU1931806399_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 163,
+  "isin": "LU1165637460",
+  "nom": "(I/C)IVO EM CORPORATE DEBT I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/IVO_CAPITAL_PARTNERS/LU1165637460/LU1165637460__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/069360e110eb3e69c99e2c2a24142ef0_203111/MR_LU_fr_LU1165637460_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/IVO_CAPITAL_PARTNERS/LU1165637460/LU1165637460__KID_FR_2026-04-13.pdf",
+   "url": "https://api.fundinfo.com/document/cc9af091768cc82024db06b4765db635_202663/PRP_BE_fr_LU1165637460_YES_2026-04-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ }
+]

@@ -1,0 +1,632 @@
+[
+ {
+  "n": 118,
+  "isin": "FR0011188267",
+  "nom": "(I/C)ECHIQUIER WORLD EQUITY GROWTH I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0011188267/FR0011188267__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8414dfc6f3f23b6427b792b9f832a8ea_502514/MR_FR_fr_FR0011188267_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0011188267/FR0011188267__KID_FR_2026-07-31.pdf",
+   "url": "https://api.fundinfo.com/document/f9bd48e0beaaa476e0bb3988ff49ebd7_125916/PRP_FR_fr_FR0011188267_YES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-07-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 119,
+  "isin": "LU1781816530",
+  "nom": "(I/C)EDMOND DE ROTHSCHILD FUND BIG DATA CR EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/LU1781816530/LU1781816530__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4ee7216445d6a9ab89c28a8f0ec54769_722586/MR_FR_fr_LU1781816530_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/LU1781816530/LU1781816530__KID_FR_2026-07-01.pdf",
+   "url": "https://api.fundinfo.com/document/62df200f7be9f882b4830813879876f6_403240/PRP_BE_fr_LU1781816530_YES_2026-07-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-07-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 120,
+  "isin": "FR001400RZ53",
+  "nom": "(I/C)EDR GLOBAL RESILIENCE CR EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ53/FR001400RZ53__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/8b2ed0e4731ccb6e7511d223a7785ae6_439817/MR_FR_fr_FR001400RZ53_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ53/FR001400RZ53__KID_FR_2026-04-09.pdf",
+   "url": "https://api.fundinfo.com/document/b60628cd7d087118605fc9a8a9300528_408088/PRP_BE_fr_FR001400RZ53_YES_2026-04-09.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-09",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 121,
+  "isin": "FR00140120Q3",
+  "nom": "(I/C)EDR MILLESIMA 2032 CR EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR00140120Q3/FR00140120Q3__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/78a741c32176e75f3f93970bde442b6d_362965/MR_FR_fr_FR00140120Q3_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR00140120Q3/FR00140120Q3__KID_FR_2026-04-09.pdf",
+   "url": "https://api.fundinfo.com/document/1691e967923d54dfa37d68bb6a2b44ac_417490/PRP_BE_fr_FR00140120Q3_YES_2026-04-09.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-09",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 122,
+  "isin": "LU1160357403",
+  "nom": "(I/C)EDRF HEALTHCARE I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160357403/LU1160357403__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c4380e33e6a91d4c659b44ff604cf31b_730683/MR_FR_fr_LU1160357403_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160357403/LU1160357403__KID_FR_2026-07-01.pdf",
+   "url": "https://api.fundinfo.com/document/437f95b6ad2a73197515518450be6538_401079/PRP_BE_fr_LU1160357403_YES_2026-07-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-07-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 123,
+  "isin": "LU1331973468",
+  "nom": "(I/C)ELEVA ABSOLUTE RETURN EUROPE R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331973468/LU1331973468__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/9325e9de80b74cc6bafdcc8fbc31dd7f_1664183/MR_BE_fr_LU1331973468_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331973468/LU1331973468__KID_FR_2026-03-13.pdf",
+   "url": "https://api.fundinfo.com/document/14c554b14548e38ea02a1b0289f829ca_478719/PRP_BE_fr_LU1331973468_YES_2026-03-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-03-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 124,
+  "isin": "LU1111643711",
+  "nom": "(I/C)ELEVA EUROPEAN SELECTION R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111643711/LU1111643711__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d56c8183798274c59627d4e24d961901_865458/MR_BE_fr_LU1111643711_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111643711/LU1111643711__KID_FR_2026-03-13.pdf",
+   "url": "https://api.fundinfo.com/document/37f0901fd6fc391814559b7578b0015a_476948/PRP_BE_fr_LU1111643711_YES_2026-03-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-03-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 125,
+  "isin": "LI1317660325",
+  "nom": "(I/C)ENIGMA LEGACY FUND I USD",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAIAC_FUND_MANAGEMENT_AG/LI1317660325/LI1317660325__KID_FR_2024-09-25.pdf",
+   "url": "https://api.fundinfo.com/document/5c44e8ffb47dd8485de67118b9f1c787_147220/PRP_BE_fr_LI1317660325_YES_2024-09-25.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2024-09-25",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 126,
+  "isin": "FR0014019TD8",
+  "nom": "(I/C)FAIRWIN EVOLUTION STRATEGY P EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 127,
+  "isin": "LU2612531868",
+  "nom": "(I/C)FFG - BLI AMERICAN IMPACT EQUITIES I USD",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531868/LU2612531868__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/f75a8c666ac7e0741b06c3fdf959801b_80529/PRP_BE_fr_LU2612531868_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 128,
+  "isin": "LU2612531355",
+  "nom": "(I/C)FFG - BLI EUROPEAN IMPACT EQUITIES I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531355/LU2612531355__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/302373c62fc0b7f04a67b8155eea26c9_79990/PRP_BE_fr_LU2612531355_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 129,
+  "isin": "LU2612532833",
+  "nom": "(I/C)FFG - BLI GLOBAL IMPACT EQUITIES CLASS I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532833/LU2612532833__KID_FR_2026-07-11.pdf",
+   "url": "https://api.fundinfo.com/document/43341892dc37fd30e4773efb1130a1fe_82572/PRP_BE_fr_LU2612532833_YES_2026-07-11.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-07-11",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 130,
+  "isin": "LU0945617289",
+  "nom": "(I/C)FFG GLOBAL DEFENSIVE I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945617289/LU0945617289__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/162800a4bba40e1f5c4c67dabde1f5d4_86026/PRP_BE_fr_LU0945617289_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 131,
+  "isin": "LU2736456919",
+  "nom": "(I/C)FFG GLOBAL EQUITIES LOW CARBON C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456919/LU2736456919__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/e997fa6ef00385301bd660302757fc31_432593/MR_BE_fr_LU2736456919_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456919/LU2736456919__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/edae07c9d696c7c46aee8f60fc405cfb_83311/PRP_BE_fr_LU2736456919_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 132,
+  "isin": "LU2059537956",
+  "nom": "(I/C)FFG GLOBAL EQUITY CONVICTIONS I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537956/LU2059537956__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/4d8401601cad2cbe9b2682df2b5e97f6_82228/PRP_LU_fr_LU2059537956_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 133,
+  "isin": "LU1697917166",
+  "nom": "(I/C)FFG GLOBAL FLEXIBLE CONVICTIONS I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917166/LU1697917166__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/4a87c8e72291945b73257403d2e27a2e_83871/PRP_BE_fr_LU1697917166_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 134,
+  "isin": "LU0605514057",
+  "nom": "(I/C)FIDELITY CHINA CONSUMER Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0605514057/LU0605514057__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/61c083cd731a13905258dd6ae5c3f1cb_268464/MR_BE_fr_LU0605514057_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0605514057/LU0605514057__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/f60a93f5a4f1e1e542f81c04de9ac9be_288951/PRP_BE_fr_LU0605514057_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 135,
+  "isin": "LU1338165936",
+  "nom": "(I/C)FIDELITY FAST EMERGING MARKETS Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1338165936/LU1338165936__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/bb6c65c1a8dd988fc7341778730d761d_213207/MR_BE_fr_LU1338165936_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1338165936/LU1338165936__KID_FR_2026-10-02.pdf",
+   "url": "https://api.fundinfo.com/document/39e66361e57ff52f91fcd6435a19ff8d_290268/PRP_BE_fr_LU1338165936_YES_2026-10-02.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-10-02",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 136,
+  "isin": "LU0966156712",
+  "nom": "(I/C)FIDELITY FAST GLOBAL FUND Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0966156712/LU0966156712__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/428cea32157b516f29af3eb0bbc1d5f3_211935/MR_BE_fr_LU0966156712_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0966156712/LU0966156712__KID_FR_2026-10-02.pdf",
+   "url": "https://api.fundinfo.com/document/706d21f8b7e07e1eb3e222ddf7fb843b_289766/PRP_BE_fr_LU0966156712_YES_2026-10-02.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-10-02",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 137,
+  "isin": "LU2210152745",
+  "nom": "(I/C)FIDELITY FUNDS ABS RETURN GLOBAL EQUITY Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2210152745/LU2210152745__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/28c77c2734d8586380bcf8c5565c4154_205375/MR_BE_fr_LU2210152745_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2210152745/LU2210152745__KID_FR_2026-10-02.pdf",
+   "url": "https://api.fundinfo.com/document/e9107eef7197649b9c5ff377f970b3da_290797/PRP_BE_fr_LU2210152745_YES_2026-10-02.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-10-02",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 138,
+  "isin": "LU0346389348",
+  "nom": "(I/C)FIDELITY FUNDS GLOBAL TECHNOLOGY FUND Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0346389348/LU0346389348__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2cce0729e33eb5efb29ee6f16f4c1b48_254298/MR_BE_fr_LU0346389348_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0346389348/LU0346389348__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/66e228480e9996a41188c465445b001a_291001/PRP_BE_fr_LU0346389348_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 139,
+  "isin": "LU0318941662",
+  "nom": "(I/C)FIDELITY FUNDS WORLD Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0318941662/LU0318941662__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6db3993492768e6e98426c8db7a6edab_265125/MR_BE_fr_LU0318941662_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0318941662/LU0318941662__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/82db2b7990d9afc670c1df26273d6f4d_289499/PRP_BE_fr_LU0318941662_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 140,
+  "isin": "LU0346391245",
+  "nom": "(I/C)FIDELITY INDIA FOCUS Y USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0346391245/LU0346391245__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/734333cf2650b1274818d951adcb09b7_284241/MR_BE_fr_LU0346391245_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0346391245/LU0346391245__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/3327eaaac271bc7db92c63a2d3feafd5_287989/PRP_BE_fr_LU0346391245_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 141,
+  "isin": "LU0346388969",
+  "nom": "(I/C)FIDELITY SUSTAINABLE HEALTH CARE Y EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0346388969/LU0346388969__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/33028bad4c2b5b85f507c0e6a36c4481_262752/MR_BE_fr_LU0346388969_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0346388969/LU0346388969__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/048f0a8ace0b81319ac5932d2a1e9943_291078/PRP_BE_fr_LU0346388969_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 142,
+  "isin": "LU0878867604",
+  "nom": "(I/C)FIRST EAGLE AMUNDI INTERNATIONAL FD RU-C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0878867604/LU0878867604__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/ae5a72d0f629bf5ef0880b0362ec8abe_907101/MR_LU_en_LU0878867604_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0878867604/LU0878867604__KID_FR_2026-09-09.pdf",
+   "url": "https://api.fundinfo.com/document/83afcb5d6c9dcb23a8a68834ec862dcf_218721/PRP_BE_fr_LU0878867604_YES_2026-09-09.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-09",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 143,
+  "isin": "LU0366762994",
+  "nom": "(I/C)FRANKLIN TECHNOLOGY I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/ef64b40f3a526b094101de3c3ab9e36c_101292/MR_FR_fr_LU0366762994_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/d17eebecab0e2901272eb1ae86950e21_169172/PRP_BE_fr_LU0366762994_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 144,
+  "isin": "LU0690374029",
+  "nom": "(I/C)FUNDSMITH EQUITY FUND SICAV I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374029/LU0690374029__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/1b5bcec0e1fbbbfae722d531de43bf73_1235450/MR_BE_en_LU0690374029_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374029/LU0690374029__KID_FR_2026-01-30.pdf",
+   "url": "https://api.fundinfo.com/document/a793f279d57cba5127d9fb4ed3fc9007_106091/PRP_BE_fr_LU0690374029_YES_2026-01-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-01-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 145,
+  "isin": "LU2423020796",
+  "nom": "(I/C)FVS - GLOBAL QUALITY IT EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU2423020796/LU2423020796__KID_EN_2026-04-01.pdf",
+   "url": "https://api.fundinfo.com/document/87ea19d4fbc08d234ee300784f39a3e7_117041/PRP_LU_en_LU2423020796_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-01",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 146,
+  "isin": "LU1481584016",
+  "nom": "(I/C)FVS BOND OPPORTUNITIES IT EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481584016/LU1481584016__KID_EN_2026-04-01.pdf",
+   "url": "https://api.fundinfo.com/document/4853c9e411b4d12ca451eef039086036_116773/PRP_LU_en_LU1481584016_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-01",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": ""
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "n": 176,
+  "isin": "LU1599544043",
+  "nom": "(I/C)JPM JAPAN EQUITY I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1599544043/LU1599544043__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=12981&country=LU&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien factsheet du site am.jpmorgan.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1599544043/LU1599544043__KID_FR_2026-04-27.pdf",
+   "url": "https://wl.fundsquare.net/serv/down-doc/request?cdClient=jpmorgan&isin=LU1599544043&docTypeCode=KIDD&docLang=FR&docCountry=CH",
+   "source": "J.P. Morgan AM (lien KID du site, hébergé Fundsquare)",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR disponible seulement en version pays CH (FR/BE/LU en français : 404) ; contenu PRIIPs identique, mentions du représentant suisse en plus. KID EN LU même date aussi disponible."
+ },
+ {
+  "n": 177,
+  "isin": "LU2782826866",
+  "nom": "(I/C)JSS COMMODITY TRANSITION ENHANCED C1 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/14e2c95e2ef8da0faebd2cc8b7823479_554124/MR_LU_fr_LU2782826866_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__KID_FR_2026-09-03.pdf",
+   "url": "https://api.fundinfo.com/document/0e3b9b0f0ddb209ef3326dcdcba0ee05_265290/PRP_BE_fr_LU2782826866_YES_2026-09-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site JSS (application JS) non exploitable en ligne de commande ; factsheet fin septembre pas encore publiée sur fundinfo (dernière : 31/08/2026)."
+ }
+]
