@@ -39,3 +39,9 @@ Intégrer sur invest-law.eu les fonds de la gamme **Wealth Belgium** de One Life
 - Recherche d'une version FR (fundinfo BE/LU/FR/CH/IE + site Ruffer) pour les 45 documents retenus en anglais. 9 factsheets passées en français, l'anglaise retirée : abrdn ×4 (FR au 30/06/2026), BlackRock MyMap ×2 (FR au 30/09/2026), PIMCO ×2 (FR au 31/08/2026), Ruffer (FR au 31/05/2026, la plus récente en français). Rejetée : M&G Global Listed Infrastructure (la FR est celle de la catégorie A). Les 35 autres n'existent qu'en anglais.
 - 18 fichiers non retenus supprimés (anciennes versions, doublons EN, KID Enigma 2024). Seuls des fichiers ajoutés par cette recherche ont été touchés.
 - Contrôle relancé : 289 factsheets, 330 KID, 0 anomalie. Statuts du Google Sheet inchangés.
+
+## Étape 5 (15/10/2026, en cours) : fiches préparées dans le Google Sheet
+- Consigne : `docs/wealth-belgium-2026-10-15/CONSIGNE-fiches.md` (décisions de l'utilisatrice : allocations en %, frais de gestion vs frais courants, catégorie vide, classification par jugement, ESG seulement si écrit, KID si pas de factsheet). Vérificateur : `verif_fiche.py`.
+- Onglets créés dans le Google Sheet : « Fiches » (A:AC, ligne n = même n que l'onglet principal) et « Allocations » (zone réservée par lot k : lignes 2+(k-1)×1500 à 1501+(k-1)×1500).
+- Les 347 fiches JSON sont écrites (`docs/wealth-belgium-2026-10-15/fiches/<ISIN>.json`). Lot 12 entièrement recopié dans le Sheet (Fiches 321–348, Allocations 16502–17010).
+- **Arrêt à ~11 h 55 UTC sur demande de l'utilisatrice** ; lots 1 à 11 interrompus en cours de recopie dans le Sheet (et de relecture). Reprise programmée à 1 h (heure de Bruxelles) : vérifier ce qui est déjà dans le Sheet, recopier le reste depuis les JSON, puis contrôle complet Sheet ↔ JSON et compactage de l'onglet Allocations.
