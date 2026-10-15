@@ -21,7 +21,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR fundinfo (pays FR-prof ; absent en BE-prof). KID PRIIPs FR du 31/07/2026."
  },
  {
   "n": 119,
@@ -45,7 +45,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet commune parts CR-EUR / CRD-EUR (même part, cap./dist.), données de la part CR. Site EdR (funds.edram.com) bloqué (403) ; source fundinfo."
  },
  {
   "n": 120,
@@ -69,7 +69,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet la plus récente sur fundinfo = fin août 2026 (pas de septembre publiée). Site EdR bloqué (403)."
  },
  {
   "n": 121,
@@ -93,7 +93,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet fin août 2026 (pas de septembre sur fundinfo) ; elle cite aussi FR00140120S9 (part CRD jumelle). Site EdR bloqué (403)."
  },
  {
   "n": 122,
@@ -117,7 +117,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Source fundinfo ; site EdR bloqué (403)."
  },
  {
   "n": 123,
@@ -141,7 +141,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet 'Part R' (notre part) ; cite les ISIN des autres parts en annexe. Source fundinfo."
  },
  {
   "n": 124,
@@ -165,7 +165,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet 'Part R' (notre part) ; cite les ISIN des autres parts en annexe. Source fundinfo."
  },
  {
   "n": 125,
@@ -189,26 +189,44 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs du site du fonds (enigma-funds.com). Factsheet multi-parts (R, I, A, B) avec ISIN et performance de la Class I, EN uniquement ; ISIN écrit 'Li1317660325' (casse). KID FR 01/01/2026 (il renvoie à un CSV de scénarios au nom de LI1346339325, coquille de l'émetteur ; l'ISIN produit est bien LI1317660325). Un ancien KID FR 2024-09-25 (fundinfo) est resté dans le dossier : il est périmé."
  },
  {
   "n": 126,
   "isin": "FR0014019TD8",
   "nom": "(I/C)FAIRWIN EVOLUTION STRATEGY P EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
-  "notes": ""
+  "notes": "Introuvable : absent de fundinfo (BE/FR/LU-prof, recherche 'Fairwin'), aucune trace web ; site EdR bloqué (403). Probablement fonds dédié non public."
  },
  {
   "n": 127,
   "isin": "LU2612531868",
   "nom": "(I/C)FFG - BLI AMERICAN IMPACT EQUITIES I USD",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -219,14 +237,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR pris sur fundsforgood.eu (identique à fundinfo). Factsheet : le site FFG n'en publie pas ; fundinfo n'a que la factsheet de la part R Acc (fin août 2026) qui est celle d'une autre part -> Non trouvé."
  },
  {
   "n": 128,
   "isin": "LU2612531355",
   "nom": "(I/C)FFG - BLI EUROPEAN IMPACT EQUITIES I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -237,14 +261,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR pris sur fundsforgood.eu (identique à fundinfo). Factsheet : le site FFG n'en publie pas ; fundinfo n'a que la factsheet de la part R Acc (fin août 2026) qui est celle d'une autre part -> Non trouvé."
  },
  {
   "n": 129,
   "isin": "LU2612532833",
   "nom": "(I/C)FFG - BLI GLOBAL IMPACT EQUITIES CLASS I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -255,14 +285,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR pris sur fundsforgood.eu (identique à fundinfo). Factsheet : le site FFG n'en publie pas ; fundinfo n'a que la factsheet de la part R Acc (fin août 2026) qui est celle d'une autre part -> Non trouvé."
  },
  {
   "n": 130,
   "isin": "LU0945617289",
   "nom": "(I/C)FFG GLOBAL DEFENSIVE I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -273,7 +309,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR pris sur fundsforgood.eu (identique à fundinfo). Factsheet : le site FFG n'en publie pas ; fundinfo n'a que la factsheet de la part R Acc (fin août 2026) qui est celle d'une autre part -> Non trouvé."
  },
  {
   "n": 131,
@@ -297,14 +333,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet fin août 2026 de la part C Acc (fundinfo, pas de septembre). KID FR pris sur fundsforgood.eu (identique fundinfo)."
  },
  {
   "n": 132,
   "isin": "LU2059537956",
   "nom": "(I/C)FFG GLOBAL EQUITY CONVICTIONS I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -315,14 +357,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR pris sur fundsforgood.eu (identique à fundinfo). Factsheet : le site FFG n'en publie pas ; fundinfo n'a que la factsheet de la part R Acc (fin août 2026) qui est celle d'une autre part -> Non trouvé."
  },
  {
   "n": 133,
   "isin": "LU1697917166",
   "nom": "(I/C)FFG GLOBAL FLEXIBLE CONVICTIONS I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -333,7 +381,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR pris sur fundsforgood.eu (identique à fundinfo). Factsheet : le site FFG n'en publie pas ; fundinfo n'a que la factsheet de la part R Acc (fin août 2026) qui est celle d'une autre part -> Non trouvé."
  },
  {
   "n": 134,
@@ -357,7 +405,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 135,
@@ -381,7 +429,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 136,
@@ -405,7 +453,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 137,
@@ -429,7 +477,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 138,
@@ -453,7 +501,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 139,
@@ -477,7 +525,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 140,
@@ -501,7 +549,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 141,
@@ -525,7 +573,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet et KID FR (Belgique) via fundinfo BE-prof, ISIN et part Y vérifiés."
  },
  {
   "n": 142,
@@ -549,7 +597,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet EN uniquement (fundinfo LU-prof, 30/09/2026), parts RU (A) et (D) ; pas de version FR trouvée. KID FR 09/09/2026."
  },
  {
   "n": 143,
@@ -573,7 +621,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR fin août 2026 (fundinfo FR-prof) ; septembre pas encore publiée. KID FR 21/09/2026."
  },
  {
   "n": 144,
@@ -597,14 +645,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet de septembre prise sur fundsmith.eu (EN, couvre toutes les parts, table avec la part I Acc ; performances affichées de la part T). La factsheet août (fundinfo) reste dans le dossier. KID FR 30/01/2026 (fundinfo), couvre aussi la part I Inc."
  },
  {
   "n": 145,
   "isin": "LU2423020796",
   "nom": "(I/C)FVS - GLOBAL QUALITY IT EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -615,14 +669,20 @@
    "langue": "EN",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID EN uniquement (site FvS via flossbachvonstorch.lu/fsl11.flossbachvonstorch.de, identique fundinfo LU) ; pas de KID FR (part IT non enregistrée en BE). Factsheet : aucune pour la part IT (ni site FvS BE/LU, ni fundinfo) -> Non trouvé."
  },
  {
   "n": 146,
   "isin": "LU1481584016",
   "nom": "(I/C)FVS BOND OPPORTUNITIES IT EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -633,6 +693,6 @@
    "langue": "EN",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID EN uniquement (site FvS via flossbachvonstorch.lu/fsl11.flossbachvonstorch.de, identique fundinfo LU) ; pas de KID FR (part IT non enregistrée en BE). Factsheet : aucune pour la part IT (ni site FvS BE/LU, ni fundinfo) -> Non trouvé."
  }
 ]
