@@ -1,0 +1,11 @@
+test 1 ligne : BE6370437590,2026-10-07,1033.45 -> imported 1
+200 { "success": true, "imported": 23, "skipped": 1}
+117 BE6202762975 attendues 3 conformes 3 | total 3926 (avant 3923) | ancien intact True | en trop 0 | dernière 2026-10-07
+530 BE6288463506 attendues 3 conformes 3 | total 2430 (avant 2427) | ancien intact True | en trop 0 | dernière 2026-10-07
+531 BE6288478652 attendues 3 conformes 3 | total 2422 (avant 2419) | ancien intact True | en trop 0 | dernière 2026-10-07
+118 BE6327306930 attendues 3 conformes 3 | total 1218 (avant 1215) | ancien intact True | en trop 0 | dernière 2026-10-07
+539 BE6304594797 attendues 3 conformes 3 | total 2012 (avant 2009) | ancien intact True | en trop 0 | dernière 2026-10-07
+119 BE6327307946 attendues 3 conformes 3 | total 1280 (avant 1277) | ancien intact True | en trop 0 | dernière 2026-10-07
+536 BE6370440628 attendues 3 conformes 3 | total 151 (avant 148) | ancien intact True | en trop 0 | dernière 2026-10-07
+116 BE6370437590 attendues 3 conformes 3 | total 151 (avant 148) | ancien intact True | en trop 0 | dernière 2026-10-07
+conformes 24 / 24

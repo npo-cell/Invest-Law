@@ -19,6 +19,11 @@ Pièce jointe : `docs/vni-leleux-2026-10-15/originaux/Leleux Invest - Historique
 - Sur le site, les 8 fiches s'arrêtent au 02/10/2026 : il manque les 05, 06 et 07/10 (dans le fichier) et les VNI à partir du 08/10 (envoi CACEIS, pas encore sur le site).
 - Fiche 117 : même décalage d'un jour que les autres fiches touchées (`docs/2026-10-14-vni-decalees.html`) sur l'historique 2010 → 03/06/2026 (3 830 dates). À corriger quand la suppression de VNI fonctionnera.
 
-## Import proposé (pas encore fait)
+## Import (15/10/2026, accord de l'utilisatrice)
+- Sauvegarde avant import : `docs/vni-leleux-2026-10-15/avant_<fiche>.json`. Test d'une ligne (116, 07/10, 1 033,45) puis les 23 autres par `POST /api/funds/vl/upload-by-isin`.
+- Relecture : 24/24 conformes, ancien historique intact, aucune date en plus ; les 8 fiches vont maintenant jusqu'au 07/10/2026. Journal : `docs/vni-leleux-2026-10-15/import.log`.
+- Reste : VNI depuis le 08/10 (envoi CACEIS) pas encore sur le site.
+
+## Détail de l'import
 - 24 VNI : 05, 06 et 07/10/2026 pour les 8 parts : `docs/vni-leleux-2026-10-15/import-propose.csv`.
 - Rien d'autre : l'historique des 7 parts correctes est déjà complet ; celui de 117 n'est pas modifié (décalage).
