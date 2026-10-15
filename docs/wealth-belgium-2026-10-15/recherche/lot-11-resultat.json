@@ -214,12 +214,24 @@
   "isin": "FR0014011SC9",
   "nom": "(I/C)SWISS LIFE FUNDS OPPORTUNITE HY 2032 (FMB)",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SWISS_LIFE/FR0014011SC9/FR0014011SC9__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://invest.swisslife-am.com/documents/FFS_FR0014011SC9_fr.pdf",
+   "source": "Swiss Life Asset Managers (invest.swisslife-am.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SWISS_LIFE/FR0014011SC9/FR0014011SC9__KID_EN_2026-06-12.pdf",
+   "url": "https://invest.swisslife-am.com/documents/KIID/FR/KIID_%20FR0014011SC9_en.pdf",
+   "source": "Swiss Life Asset Managers (invest.swisslife-am.com)",
+   "date": "2026-06-12",
+   "langue": "EN",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Part F (FR0014011SC9). Site invest.swisslife-am.com : reporting mensuel FR au 30/09/2026 (URL documents/FFS_<ISIN>_fr.pdf) ; KID seulement en anglais trouvé (documents/KIID/FR/KIID_%20<ISIN>_en.pdf, 12/06/2026) ; version FR introuvable (404) et absente de fundinfo (qui n'a que le MR de juillet)."
  },
  {
   "n": 303,

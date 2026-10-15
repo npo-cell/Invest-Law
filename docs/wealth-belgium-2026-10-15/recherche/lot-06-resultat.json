@@ -328,6 +328,54 @@
   "notes": ""
  },
  {
+  "n": 161,
+  "isin": "FR001400Z412",
+  "nom": "(I/C)INVESTCORE 2031 I EUR (FMB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Investcore 2031 I : aucun document sur fundinfo (FR-prof : seulement AR) ; site alienorcapital.com injoignable (timeout)."
+ },
+ {
+  "n": 162,
+  "isin": "FR0011617646",
+  "nom": "(I/C)INVESTCORE BOND OPPORTUNITIES I EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Factsheet : aucun reporting mensuel sur fundinfo ; site alienorcapital.com injoignable (timeout). KID : seul DIC trouvé = fundinfo FR 10/02/2025 (https://api.fundinfo.com/document/9a450760c9cea37cb2ba89d08db5b48a_174082/PRP_FR_fr_FR0011617646_YES_2025-02-10.pdf) « Investcore Bond Opportunities – Part I » mais l'ISIN imprimé est erroné (FR000011617646) : ISIN exact absent du PDF → non retenu (à valider manuellement)."
+ },
+ {
   "n": 163,
   "isin": "LU1165637460",
   "nom": "(I/C)IVO EM CORPORATE DEBT I EUR",
