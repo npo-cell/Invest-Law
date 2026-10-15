@@ -1,0 +1,698 @@
+[
+ {
+  "n": 176,
+  "isin": "LU1599544043",
+  "nom": "(I/C)JPM JAPAN EQUITY I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1599544043/LU1599544043__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=12981&country=LU&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien factsheet du site am.jpmorgan.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1599544043/LU1599544043__KID_FR_2026-04-27.pdf",
+   "url": "https://wl.fundsquare.net/serv/down-doc/request?cdClient=jpmorgan&isin=LU1599544043&docTypeCode=KIDD&docLang=FR&docCountry=CH",
+   "source": "J.P. Morgan AM (lien KID du site, hébergé Fundsquare)",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR disponible seulement en version pays CH (FR/BE/LU en français : 404) ; contenu PRIIPs identique, mentions du représentant suisse en plus. KID EN LU même date aussi disponible."
+ },
+ {
+  "n": 177,
+  "isin": "LU2782826866",
+  "nom": "(I/C)JSS COMMODITY TRANSITION ENHANCED C1 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/14e2c95e2ef8da0faebd2cc8b7823479_554124/MR_LU_fr_LU2782826866_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__KID_FR_2026-09-03.pdf",
+   "url": "https://api.fundinfo.com/document/0e3b9b0f0ddb209ef3326dcdcba0ee05_265290/PRP_BE_fr_LU2782826866_YES_2026-09-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site JSS (application JS) non exploitable en ligne de commande ; factsheet fin septembre pas encore publiée sur fundinfo (dernière : 31/08/2026)."
+ },
+ {
+  "n": 178,
+  "isin": "LU2752697867",
+  "nom": "(I/C)JSS SUSTAINABLE EQ STRATEGIC MATERIALS C EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/379a0085dd756d32d7f2466ca9857263_740591/MR_LU_fr_LU2752697867_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__KID_FR_2026-08-17.pdf",
+   "url": "https://api.fundinfo.com/document/28200aec3b96f2346ab19f0152435991_267245/PRP_BE_fr_LU2752697867_YES_2026-08-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-08-17",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 179,
+  "isin": "IE00BYVJRF70",
+  "nom": "(I/C)JUPITER GOLD & SILVER I EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026). Factsheet listant la part I EUR Acc.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/3291efe2e956712be5f258f51c9d3c6b_177938/MR_FR_fr_IE00BYVJRF70_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/c2990602d58754f465930959d9a92792_125091/PRP_FR_fr_IE00BYVJRF70_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 180,
+  "isin": "LU0946219846",
+  "nom": "(I/C)JUPITER INDIA SELECT CLASS D EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219846/LU0946219846__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/3324cc1fb494cdaa733082db7b37c1d7_131230/MR_FR_fr_LU0946219846_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219846/LU0946219846__KID_FR_2026-06-25.pdf",
+   "url": "https://api.fundinfo.com/document/b97e1b13c853b280b034bbdf861c8cf0_146533/PRP_BE_fr_LU0946219846_YES_2026-06-25.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-06-25",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 181,
+  "isin": "LU0946219416",
+  "nom": "(I/C)JUPITER JAPAN SELECT CLASS D EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/4d8c2589678133dd2954810e48b2bd64_126986/MR_FR_fr_LU0946219416_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/2817be8155dabafcf8126332d71a3bdf_124841/PRP_BE_fr_LU0946219416_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 182,
+  "isin": "IE00BLP5S791",
+  "nom": "(I/C)JUPITER MERIAN GL EQ ABS RETURN FD HEDGED I",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026). Part I EUR Acc HSC (couverte) vérifiée.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/905d612d7d686b8b3c68f0c72241448b_154390/MR_FR_fr_IE00BLP5S791_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/c684e87f0919ed69777fcfb4c5ea63d2_126696/PRP_BE_fr_IE00BLP5S791_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 183,
+  "isin": "FR0014013NO1",
+  "nom": "(I/C)KEREN 2032 I EUR (FMB)",
+  "notes": "Lettre mensuelle « Septembre 2026 » propre à la part I. Le PDF DIC du site regroupe 2 DIC (part C FR0014013NN3 puis part I FR0014013NO1), produits le 16/04/2026 ; la part I est le second DIC du fichier.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0014013NO1/FR0014013NO1__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=ccf621da588d19d60f3448f90a018aac",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0014013NO1/FR0014013NO1__KID_FR_2026-04-16.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=1e12d79f6c5f6c7542e8676a511f1dbf",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 184,
+  "isin": "FR0010700401",
+  "nom": "(I/C)KEREN CORPORATE I EUR",
+  "notes": "Lettre mensuelle « Septembre 2026 » propre à la part I. Le PDF DIC regroupe les DIC des 5 parts (C, I, D, N, ND), tous du 29/04/2026 ; fundinfo n'a qu'un DIC de 2025.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0010700401/FR0010700401__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=8b2e36942c72e172ebe716823860ea5b",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0010700401/FR0010700401__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=c73862bf4293617bf0ade0b38acaf636",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 185,
+  "isin": "FR0011274992",
+  "nom": "(I/C)KEREN ESSENTIELS I EUR",
+  "notes": "Lettre « Septembre 2026 » propre à la part I. Le lien « DIC » du site ne contient que la part C ; le fichier « DIC & Prospectus » (84 p.) contient le DIC de la part I aux pages 4-6 (produit le 29/04/2026), puis le prospectus.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0011274992/FR0011274992__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=2bdc7777847b3c51c435aa1ecf56a5b9",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0011274992/FR0011274992__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=544e392adc4d8196ab00b600e51fd0ac",
+   "source": "Keren Finance (kerenfinance.com, fichier « DIC & Prospectus »)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 186,
+  "isin": "FR0012474989",
+  "nom": "(I/C)KEREN PATRIMOINE I EUR",
+  "notes": "Lettre « Septembre 2026 » propre à la part I. Le PDF DIC regroupe les DIC des parts C, I et N (tous du 29/04/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0012474989/FR0012474989__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=a46ab03ab201ca137b1d7b92498be864",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0012474989/FR0012474989__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=0949c3df5f540ab62647d2c54ca4ad35",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 187,
+  "isin": "FR0013301090",
+  "nom": "(I/C)KEREN PATRIMOINE N EUR",
+  "notes": "Lettre « Septembre 2026 » propre à la part N. Le PDF DIC regroupe les DIC des parts C, I et N (tous du 29/04/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0013301090/FR0013301090__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=a787b2dbccae116ccfa3615c417fc09a",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part N)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0013301090/FR0013301090__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=0949c3df5f540ab62647d2c54ca4ad35",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 188,
+  "isin": "LU3386659380",
+  "nom": "(I/C)LAIQON GLOBAL EQUITIES DYNAMIC C EUR",
+  "notes": "Part lancée récemment (KID du 01/10/2026). Seul un KID en allemand existe (laiqon.com : PRIIPSKID_DE_DE_LU3386659380_20261001.pdf ; fundinfo LU-priv : PRP_LU_de) — pas de version FR/EN ; aucune factsheet publiée (laiqon.com, fundinfo BE/LU/FR/IE/DE/AT/CH, fondsfinder Universal-Investment inaccessible sans profil).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 189,
+  "isin": "LU1004824790",
+  "nom": "(I/C)LAIQON GLOBAL EQUITIES FUND R EUR",
+  "notes": "Factsheet : le site laiqon.com ne publie qu'une factsheet de la part A (DE/EN), pas de la part R ; fundinfo : seulement KID. Non trouvée. KID sous l'ancien nom MainFirst, identique sur fundinfo (PRP_LU_fr du 16/04/2026).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAIQON/LU1004824790/LU1004824790__KID_FR_2026-04-16.pdf",
+   "url": "https://www.ethenea.com/FileHandler.ashx?path=\\Documents\\Key%20Investor%20Information\\MainFirst-%E2%80%93-Global-Equities-Fund\\KIID_LU1004824790_fra.pdf",
+   "source": "ETHENEA Independent Investors (société de gestion, lien du site laiqon.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 190,
+  "isin": "LU1856131278",
+  "nom": "(I/C)LAIQON GLOBAL EQUITIES UNCONSTRAINED R EUR",
+  "notes": "Factsheet : le site laiqon.com ne publie qu'une factsheet de la part A (DE/EN), pas de la part R ; fundinfo : seulement KID. Non trouvée. KID sous l'ancien nom MainFirst, identique sur fundinfo (PRP_LU_fr du 16/04/2026).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAIQON/LU1856131278/LU1856131278__KID_FR_2026-04-16.pdf",
+   "url": "https://www.ethenea.com/FileHandler.ashx?path=\\Documents\\Key%20Investor%20Information\\MainFirst-%E2%80%93-Global-Equities-Unconstrained-Fund\\KIID_LU1856131278_fra.pdf",
+   "source": "ETHENEA Independent Investors (société de gestion, lien du site laiqon.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 191,
+  "isin": "LU2381586648",
+  "nom": "(I/C)LAIQON MEGATRENDS ASIA R USD",
+  "notes": "Factsheet : le site laiqon.com ne publie qu'une factsheet de la part A (DE/EN), pas de la part R ; fundinfo : seulement KID. Non trouvée. KID sous l'ancien nom MainFirst, identique sur fundinfo (PRP_LU_fr du 16/04/2026).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAIQON/LU2381586648/LU2381586648__KID_FR_2026-04-16.pdf",
+   "url": "https://www.ethenea.com/FileHandler.ashx?path=\\Documents\\Key%20Investor%20Information\\MainFirst-%E2%80%93-Megatrends-Asia\\KIID_LU2381586648_fra.pdf",
+   "source": "ETHENEA Independent Investors (société de gestion, lien du site laiqon.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 192,
+  "isin": "IE0009XQIVD0",
+  "nom": "(I/C)LAZARD BAYLIGHT US SMALL CAP EQUITY FND C EUR",
+  "notes": "Factsheet : aucune MR sur fundinfo (BE/LU/FR/IE) ; site lazardassetmanagement.com (page d'entrée/profil, application AEM) non exploitable en ligne de commande. KID part C Acc EUR Hedged.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE0009XQIVD0/IE0009XQIVD0__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/bf03bbf583d7a50dbb5bf6bfef34b8d0_287353/PRP_BE_fr_IE0009XQIVD0_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 193,
+  "isin": "FR0014015UU8",
+  "nom": "(I/C)LAZARD CREDIT 2031 PC EUR (FMB)",
+  "notes": "Reporting d'août 2026 (« 08-2026 ») : en-tête « Part A » mais ISIN FR0014015UU8, VL ~1011 € et frais (0,60 %) de la part ; le DIC nomme la part « Action PC EUR ». Site lazardfreresgestion.fr injoignable (erreur de certificat via le proxy) ; reporting de septembre pas encore sur fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0014015UU8/FR0014015UU8__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/69bae7c9a729d96532ac3f0f546b4e18_3177479/MR_FR_fr_FR0014015UU8_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (reporting Lazard Frères Gestion)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0014015UU8/FR0014015UU8__KID_FR_2026-10-08.pdf",
+   "url": "https://api.fundinfo.com/document/0587732811d89f11dac0ce2113255841_182861/PRP_FR_fr_FR0014015UU8_YES_2026-10-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-08",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 194,
+  "isin": "FR0010235507",
+  "nom": "(I/C)LAZARD CREDIT OPPORTUNITIES PC EUR",
+  "notes": "Reporting d'août 2026 (« 08-2026 », part PC EUR). Site lazardfreresgestion.fr injoignable (erreur de certificat via le proxy) ; reporting de septembre pas encore sur fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/f53f18e86a1e595f2d3fcbd315b83952_5510567/MR_FR_fr_FR0010235507_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (reporting Lazard Frères Gestion)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__KID_FR_2026-10-08.pdf",
+   "url": "https://api.fundinfo.com/document/29babcc0e335ffb6493903fbb79d75e3_179886/PRP_FR_fr_FR0010235507_YES_2026-10-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-08",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 195,
+  "isin": "IE00B51PLJ46",
+  "nom": "(I/C)LAZARD GLOBAL LIST INF EQUITY A EUR",
+  "notes": "Factsheet uniquement en anglais (aucune MR française sur fundinfo), part A Acc EUR Hedged ; septembre pas encore publié.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/2a2741b100406c01511eb31566da206c_251281/MR_LU_en_IE00B51PLJ46_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (LU-prof)",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/fde1913842473a1d1823d00fe33c4bd3_287197/PRP_BE_fr_IE00B51PLJ46_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 196,
+  "isin": "IE000IKE8B53",
+  "nom": "(I/C)LAZARD LISTED PRIVATE MARKETS EA EUR",
+  "notes": "Factsheet : aucune MR sur fundinfo (BE/LU/FR/IE) pour cette part EA Acc EUR ; site lazardassetmanagement.com non exploitable en ligne de commande.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE000IKE8B53/IE000IKE8B53__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/ec31d419da513f6917977f7fcac3ea80_286436/PRP_BE_fr_IE000IKE8B53_YES_2026-09-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 197,
+  "isin": "FR0013409463",
+  "nom": "(I/C)LAZARD PATRIMOINE OPPORTUNITIES SRI PC EUR",
+  "notes": "Reporting d'août 2026 (« 08-2026 », part PC). Site lazardfreresgestion.fr injoignable (erreur de certificat via le proxy) ; reporting de septembre pas encore sur fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0013409463/FR0013409463__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/039804beb0c9abb71090a78e1fd77b09_1664492/MR_FR_fr_FR0013409463_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (reporting Lazard Frères Gestion)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0013409463/FR0013409463__KID_FR_2026-10-08.pdf",
+   "url": "https://api.fundinfo.com/document/59a973826135127495ade29b3d88fcf9_181724/PRP_FR_fr_FR0013409463_YES_2026-10-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-08",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 198,
+  "isin": "IE00BFZ4RW27",
+  "nom": "(I/C)LAZARD RATHMORE ALTERNATIVE FUND C EUR",
+  "notes": "Factsheet uniquement en anglais (part C Acc EUR Hedged, 30/09/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00BFZ4RW27/IE00BFZ4RW27__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/69ea521d4fec13a34f2da479f3272308_283960/MR_IE_en_IE00BFZ4RW27_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (IE-prof)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00BFZ4RW27/IE00BFZ4RW27__KID_FR_2026-03-13.pdf",
+   "url": "https://api.fundinfo.com/document/3f0d3bc241f93ab7473e8af9ac2d01c8_289740/PRP_FR_fr_IE00BFZ4RW27_YES_2026-03-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-03-13",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 199,
+  "isin": "FR0013340726",
+  "nom": "(I/C)LBPAM ISR ABS RETURN CREDIT I EUR",
+  "notes": "Fonds nommé « LBPAM Absolute Return Credit SRI » (part I). Factsheet : aucune MR sur fundinfo (BE/LU/FR/IE) ; site lbpam.com = widget JS (API /mapi/DocumentAPI ne renvoie rien pour l'ISIN sans identifiant interne). Non trouvée.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LBP_AM/FR0013340726/FR0013340726__KID_FR_2026-02-17.pdf",
+   "url": "https://api.fundinfo.com/document/a4a353220269fd6f08c85e8cc1cae5f4_265889/PRP_FR_fr_FR0013340726_YES_2026-02-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-02-17",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 200,
+  "isin": "BE6370440628",
+  "nom": "(I/C)LELEUX INVEST DYNAMIC WORLD FOF P I EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 201,
+  "isin": "BE6288463506",
+  "nom": "(I/C)LELEUX INVEST EQUITIES WORLD FOF P EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 202,
+  "isin": "BE6288478652",
+  "nom": "(I/C)LELEUX INVEST PATRIMONIAL WORLD FOF P EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv). Seule copie trouvée : kid.baloise.lu (site tiers d'assureur, anciens documents 2023) — non retenue.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 203,
+  "isin": "BE6304594797",
+  "nom": "(I/C)LELEUX INVEST RESPONSIBLE WORLD FOF P EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv). Seule copie trouvée : kid.baloise.lu (site tiers d'assureur, anciens documents 2023) — non retenue.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 204,
+  "isin": "FR0013439890",
+  "nom": "(I/C)LF RENDEMENT GLOBAL 2028 PLUS T C EUR (FMB)",
+  "notes": "Reporting mensuel du 30/09/2026 propre à la part T C EUR. Initiateur du DIC : Crédit Mutuel Asset Management (gestion La Française).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FRANCAISE_ASSET_MANAGEMENT/FR0013439890/FR0013439890__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6ce69ee7cf143a6aec25bdebad7635ef_1078541/MR_FR_fr_FR0013439890_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FRANCAISE_ASSET_MANAGEMENT/FR0013439890/FR0013439890__KID_FR_2026-10-05.pdf",
+   "url": "https://api.fundinfo.com/document/ad694363749f8d384f3c4e98605e02a8_146724/PRP_FR_fr_FR0013439890_YES_2026-10-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-05",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ }
+]

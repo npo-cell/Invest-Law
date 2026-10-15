@@ -1,0 +1,698 @@
+[
+ {
+  "n": 234,
+  "isin": "FR0011036920",
+  "nom": "(I/C)ODDO BHF AVENIR EUROPE CN EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0011036920/FR0011036920__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/48e4a182f06a9f842d37d17196bd75df_811818/MR_BE_fr_FR0011036920_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0011036920/FR0011036920__KID_FR_2026-07-10.pdf",
+   "url": "https://api.fundinfo.com/document/4aff6a3d520557d5464dd9bb5c14992d_99170/PRP_BE_fr_FR0011036920_YES_2026-07-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 235,
+  "isin": "LU1849527855",
+  "nom": "(I/C)ODDO BHF EXKLUSIV POLARIS BAL CN EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849527855/LU1849527855__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d38aa70f0f9f465adc1f60ccdf409997_1232516/MR_BE_fr_LU1849527855_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849527855/LU1849527855__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/c8a1baa05d409e13711301397a83c776_107131/PRP_BE_fr_LU1849527855_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 236,
+  "isin": "DE000A1XDYM7",
+  "nom": "(I/C)ODDO BHF GLOBAL EQUITY TREND CIW EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A1XDYM7/DE000A1XDYM7__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8b3956395655f5911a6c10b816563e2d_881480/MR_BE_fr_DE000A1XDYM7_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A1XDYM7/DE000A1XDYM7__KID_FR_2026-10-01.pdf",
+   "url": "https://api.fundinfo.com/document/db029775a1410e26ef2d74065fdb19d7_83365/PRP_BE_fr_DE000A1XDYM7_YES_2026-10-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 237,
+  "isin": "LU3103551787",
+  "nom": "(I/C)ODDO BHF GLOBAL NAVIGATOR CNW EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3103551787/LU3103551787__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/06f620ddcd557b928f449101b4a9578e_457171/MR_BE_fr_LU3103551787_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3103551787/LU3103551787__KID_FR_2026-07-17.pdf",
+   "url": "https://api.fundinfo.com/document/47c5547b3a36fccbe751aac5df753c86_99526/PRP_BE_fr_LU3103551787_YES_2026-07-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 238,
+  "isin": "LU3129990308",
+  "nom": "(I/C)ODDO BHF GLOBAL TARGET 2031 CN EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990308/LU3129990308__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8fcec39d7170251eae7af2f62c2e21ef_639062/MR_BE_fr_LU3129990308_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990308/LU3129990308__KID_FR_2026-06-11.pdf",
+   "url": "https://api.fundinfo.com/document/b57b5d07ff9945f05503c7baa23bdd79_102268/PRP_BE_fr_LU3129990308_YES_2026-06-11.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-11",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 239,
+  "isin": "LU1849528150",
+  "nom": "(I/C)ODDO BHF POLARIS DYNAMIC CN EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528150/LU1849528150__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/fa4d921cf3899e4630c0169fce5f9f19_1100858/MR_BE_fr_LU1849528150_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528150/LU1849528150__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/9f8043fa6291607e2399203f34502d25_106031/PRP_BE_fr_LU1849528150_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 240,
+  "isin": "LU1874837278",
+  "nom": "(I/C)ODDO BHF POLARIS FLEXIBLE CN EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874837278/LU1874837278__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d8e1835e0da3ada7b176d51fc4bf9947_1216386/MR_BE_fr_LU1874837278_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874837278/LU1874837278__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/4d8cbb930e0796ee868fd7178eea61be_107510/PRP_BE_fr_LU1874837278_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 241,
+  "isin": "DE000A2JJ1V7",
+  "nom": "(I/C)ODDO BHF POLARIS MODERATE CN EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1V7/DE000A2JJ1V7__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/3e4e766bde0dc8422bd695c18a20f316_1240086/MR_BE_fr_DE000A2JJ1V7_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1V7/DE000A2JJ1V7__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/ae0cd775675671fe8a3296bc5123d0a6_103167/PRP_BE_fr_DE000A2JJ1V7_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 242,
+  "isin": "LU1833929216",
+  "nom": "(I/C)ODDO BHF US EQUITY TREND CN EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929216/LU1833929216__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/47553fa2e389519c1b4409fdfb341e53_663066/MR_BE_fr_LU1833929216_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929216/LU1833929216__KID_FR_2026-07-13.pdf",
+   "url": "https://api.fundinfo.com/document/68a70ad300828e5f23e65517ab4a8cb6_99115/PRP_BE_fr_LU1833929216_YES_2026-07-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP)."
+ },
+ {
+  "n": 243,
+  "isin": "FR0013304441",
+  "nom": "(I/C)OFI PRECIOUS METALS RF EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0013304441/FR0013304441__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/be76529077bf6adae4061e869198b062_342563/MR_FR_fr_FR0013304441_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0013304441/FR0013304441__KID_FR_2026-09-23.pdf",
+   "url": "https://api.fundinfo.com/document/8617aac0428ca6a59ec3adf2004027eb_206614/PRP_FR_fr_FR0013304441_YES_2026-09-23.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-23",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo, juridiction FR (pas de MR/PRP en juridiction BE). KID PRIIPs (PRP) du 23/09/2026 retenu, plus récent que le document 'KID' du 21/11/2025."
+ },
+ {
+  "n": 244,
+  "isin": "LU1417812945",
+  "nom": "(I/C)ORCADIA GLOBAL SUSTAINABLE BALANCED C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU1417812945/LU1417812945__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://orcadia.eu/wp-content/uploads/2026/09/Orcadia-Balanced-C-Cap-31082026.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU1417812945/LU1417812945__KID_FR_2026-02-19.pdf",
+   "url": "https://orcadia.eu/wp-content/uploads/2026/03/KIDDOC-2026-02-19-FR-BE-2026-02-19-LU1417812945.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet mensuelle de la classe C Cap sur orcadia.eu (page la-sicav-3) : pas encore de version fin septembre 2026 (30092026 -> 404). KID aussi sur fundinfo (même date)."
+ },
+ {
+  "n": 245,
+  "isin": "LU2436819366",
+  "nom": "(I/C)ORCADIA GLOBAL SUSTAINABLE DYNAMIC C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU2436819366/LU2436819366__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://orcadia.eu/wp-content/uploads/2026/09/Orcadia-Dynamic-C-Cap-31082026.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU2436819366/LU2436819366__KID_FR_2026-02-19.pdf",
+   "url": "https://orcadia.eu/wp-content/uploads/2026/03/KIDDOC-2026-02-19-FR-BE-2026-02-19-LU2436819366.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet mensuelle de la classe C Cap sur orcadia.eu (page la-sicav-3) : pas encore de version fin septembre 2026 (30092026 -> 404). KID aussi sur fundinfo (même date)."
+ },
+ {
+  "n": 246,
+  "isin": "LU1410420332",
+  "nom": "(I/C)PCFS PURE FIXED INCOME OPPORTUNITIES IC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PURE_CAPITAL_S_A/LU1410420332/LU1410420332__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://www.purecapital.eu/file/pdf/pcfs-pure-fixed-inc-opp-ic-fr.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PURE_CAPITAL_S_A/LU1410420332/LU1410420332__KID_FR_2026-08-20.pdf",
+   "url": "https://www.purecapital.eu/file/pdf/kid-lu1410420332-fr.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-08-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet institutionnelle IC sur purecapital.eu : dernière disponible au 31/08/2026. KID identique sur fundinfo."
+ },
+ {
+  "n": 247,
+  "isin": "LU0649642757",
+  "nom": "(I/C)PCFS PURE WEALTH IC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PURE_CAPITAL_S_A/LU0649642757/LU0649642757__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.purecapital.eu/file/pdf/pcfs-pure-wealth-ic-fr.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PURE_CAPITAL_S_A/LU0649642757/LU0649642757__KID_FR_2026-08-20.pdf",
+   "url": "https://www.purecapital.eu/file/pdf/kid-lu0649642757-fr.pdf",
+   "source": "site du gestionnaire",
+   "date": "2026-08-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet institutionnelle IC sur purecapital.eu. KID identique sur fundinfo."
+ },
+ {
+  "n": 248,
+  "isin": "LU0255977372",
+  "nom": "(I/C)PICTET BIOTECH I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977372/LU0255977372__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/0e2cc18a6b60369eeb4156ba75a41d00_474614/MR_BE_fr_LU0255977372_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977372/LU0255977372__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/85ee7c7f1acd105f621bf6730075e5f7_147873/PRP_BE_fr_LU0255977372_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 249,
+  "isin": "LU0312383663",
+  "nom": "(I/C)PICTET CLEAN ENERGY TRANSITION I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0312383663/LU0312383663__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/fe314a902cb49cc2142a1f136c0b7257_476145/MR_BE_fr_LU0312383663_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0312383663/LU0312383663__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/415dd39dcaea00c02c34de370c737b1c_148131/PRP_BE_fr_LU0312383663_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 250,
+  "isin": "LU0340554673",
+  "nom": "(I/C)PICTET DIGITAL I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554673/LU0340554673__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/61f9bf0742e3b53bc7e2fa1c5557ca22_474783/MR_BE_fr_LU0340554673_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554673/LU0340554673__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/874101dd9a8c6bd4c425196d5905ca5a_147750/PRP_BE_fr_LU0340554673_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 251,
+  "isin": "LU0503631631",
+  "nom": "(I/C)PICTET GLOBAL ENVIRONMENTAL OPPORT I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631631/LU0503631631__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/65b74befe7c710d988406b00b92c87b0_477200/MR_BE_fr_LU0503631631_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631631/LU0503631631__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/7c61def2f1dad75fd361f467c0a44d65_148160/PRP_BE_fr_LU0503631631_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 252,
+  "isin": "LU0941348897",
+  "nom": "(I/C)PICTET MULTI ASSET GLOBAL OPPS I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0941348897/LU0941348897__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e01bc9b3bd5cac7a2066fc8b3b289888_478527/MR_BE_fr_LU0941348897_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0941348897/LU0941348897__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/6c079c17589c6138144c902be9e7d0e9_148387/PRP_BE_fr_LU0941348897_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 253,
+  "isin": "LU0366533882",
+  "nom": "(I/C)PICTET NUTRITION I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366533882/LU0366533882__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c25ce30656a4f30d7d1adc52db696ded_474245/MR_BE_fr_LU0366533882_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366533882/LU0366533882__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/3d53d4f14930d209c316f694a1b315fa_147538/PRP_BE_fr_LU0366533882_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 254,
+  "isin": "LU0217138485",
+  "nom": "(I/C)PICTET PREMIUM BRANDS I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217138485/LU0217138485__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/150fff68e1e0627e114655a13f679682_475798/MR_BE_fr_LU0217138485_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217138485/LU0217138485__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/d06a11f12248e9b5c3260561490b8461_147958/PRP_BE_fr_LU0217138485_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 255,
+  "isin": "LU2749781550",
+  "nom": "(I/C)PICTET QUEST AI-DRIVEN GLOBAL EQUITIES I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2749781550/LU2749781550__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/9bf9eaaa6d1efe77602d620de9e3ca41_466676/MR_BE_fr_LU2749781550_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2749781550/LU2749781550__KID_FR_2026-07-17.pdf",
+   "url": "https://api.fundinfo.com/document/ed939404a7307c08eb9c2cd11471821b_148298/PRP_BE_fr_LU2749781550_YES_2026-07-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 256,
+  "isin": "LU1279334053",
+  "nom": "(I/C)PICTET ROBOTICS I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334053/LU1279334053__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4ad862396c280cacbb4897f23ba6810f_474139/MR_BE_fr_LU1279334053_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334053/LU1279334053__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/5beb0a2ab5be15cfb3b1642f01ae780f_147951/PRP_BE_fr_LU1279334053_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 257,
+  "isin": "LU0503633769",
+  "nom": "(I/C)PICTET SMARTCITY I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503633769/LU0503633769__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/b397bf9e499897c2a037c927a3d97c97_475161/MR_BE_fr_LU0503633769_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503633769/LU0503633769__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/a3c79fa6cec2937397bf323e35a10f00_147991/PRP_BE_fr_LU0503633769_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 258,
+  "isin": "LU2858866861",
+  "nom": "(I/C)PICTET TARGET INCOME 2028 I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2858866861/LU2858866861__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/7b76ca575008d118c5f837b2382342e5_464927/MR_BE_fr_LU2858866861_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2858866861/LU2858866861__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/d93a01aedc6a454587cf3720cdb4b9fa_148526/PRP_BE_fr_LU2858866861_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 259,
+  "isin": "LU0340558823",
+  "nom": "(I/C)PICTET TIMBER I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340558823/LU0340558823__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e56e5bc856546b25fb60abb738ff29b3_474722/MR_BE_fr_LU0340558823_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340558823/LU0340558823__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/382e3f0f90b1f9bcd75632fc96fb40a0_147667/PRP_BE_fr_LU0340558823_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 260,
+  "isin": "LU2957443166",
+  "nom": "(I/C)PICTET TR QUEST AI I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443166/LU2957443166__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/15ec2063d1bfed71ce3c9e6acdc404c1_458952/MR_BE_fr_LU2957443166_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443166/LU2957443166__KID_FR_2026-08-24.pdf",
+   "url": "https://api.fundinfo.com/document/a91f0978cbfe0d1bfad4e3f917c14513_145204/PRP_BE_fr_LU2957443166_YES_2026-08-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-24",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ },
+ {
+  "n": 261,
+  "isin": "LU2496444808",
+  "nom": "(I/C)PICTET TR-SIRIUS-I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444808/LU2496444808__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/bcfeaa22ab9f37d76e3b11f8dabdda5b_472541/MR_LU_fr_LU2496444808_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444808/LU2496444808__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/052aac48488cc6af3cbc0ca49059a5ae_147236/PRP_LU_fr_LU2496444808_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Absent de fundinfo juridiction BE ; trouvé en juridiction LU."
+ },
+ {
+  "n": 262,
+  "isin": "LU0104884605",
+  "nom": "(I/C)PICTET WATER I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884605/LU0104884605__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/7882486a654ffbacfba7a662dd94f6a7_473335/MR_BE_fr_LU0104884605_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884605/LU0104884605__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/06e40a56451e2f96f068f0237783d204_147755/PRP_BE_fr_LU0104884605_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fundinfo (juridiction BE, docs MR et PRP). Site Pictet am.pictet bloqué (403 CloudFront) depuis la session."
+ }
+]

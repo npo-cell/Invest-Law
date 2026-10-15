@@ -1,0 +1,698 @@
+[
+ {
+  "n": 292,
+  "isin": "LU0837757185",
+  "nom": "(I/C)SCHRODER ISF GLOBAL MULTI-ASSET INC HGD C GBP",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0837757185/LU0837757185__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/c84461bdd445d9b52ee8104a1a3795a6_637991/MR_LU_en_LU0837757185_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR LU en)",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0837757185/LU0837757185__KID_FR_2026-07-28.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Global-Multi-Asset-Income-GBP-Hedged_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-07-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR absente (fundinfo n'a que EN pour cette part) ; fin septembre pas encore publiée, factsheet EN au 31/08/2026 (« Data as at 31.08.2026 »). KID FR (version FR) du site Schroders, aussi présent sur fundinfo."
+ },
+ {
+  "n": 293,
+  "isin": "LU2380233515",
+  "nom": "(I/C)SCHRODER ISF GLOBAL SUST FOOD AND WATER C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2380233515/LU2380233515__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/6d3aff5cc9dee3841f44287fe4f082e0_395146/MR_FR_fr_LU2380233515_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2380233515/LU2380233515__KID_FR_2026-09-29.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Global-Sustainable-Food-and-Water-USD_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site Schroders (api.schroders.com/document-store/SISF_<Fonds>-<DEV>_C-Acc-PRIIPEU-FRFR.pdf). Factsheet FR fundinfo au 31/08/2026 (pas de fin septembre publiée)."
+ },
+ {
+  "n": 294,
+  "isin": "LU2526491159",
+  "nom": "(I/C)SCHRODER ISF GLOBAL SUSTAINABLE GROWTH C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2526491159/LU2526491159__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/97c97158fc6a962d744e38f287a8f680_462191/MR_FR_fr_LU2526491159_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2526491159/LU2526491159__KID_FR_2026-09-29.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Global-Sustainable-Growth-EUR_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site Schroders (api.schroders.com/document-store/SISF_<Fonds>-<DEV>_C-Acc-PRIIPEU-FRFR.pdf). Factsheet FR fundinfo au 31/08/2026 (pas de fin septembre publiée)."
+ },
+ {
+  "n": 295,
+  "isin": "FR0013202140",
+  "nom": "(I/C)SEXTANT BOND PICKING N EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMIRAL_GESTION/FR0013202140/FR0013202140__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/0945899783bc704fc262771a30e9b194_305288/PRP_FR_fr_FR0013202140_YES_2026-09-21.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Le fonds s'appelle désormais « Sextant Credit Opportunities » (ex-Bond Picking), action N, même ISIN. KID FR fundinfo (21/09/2026). Factsheet non trouvée : site Amiral Gestion charge les documents par API protégée (401), fundinfo n'a pas de reporting mensuel (MR) pour cette part."
+ },
+ {
+  "n": 296,
+  "isin": "LU3319943323",
+  "nom": "(I/C)SHELTER CALLANT INVESTMENT FUND IA EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SHELTER_INVESTMENT_MANAGEMENT/LU3319943323/LU3319943323__KID_EN_2026-02-27.pdf",
+   "url": "https://shelter-im.com/media/pages/library/11c09d5dbb-1788764700/priips-kid-lu3319943323-en.pdf",
+   "source": "ShelteR IM (shelter-im.com, page Nos fonds)",
+   "date": "2026-02-27",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": "KID uniquement en anglais sur shelter-im.com (pas de version FR), valable au 27/02/2026 ; absent de fundinfo. Aucune factsheet publiée sur le site (seulement KID, rapports annuels, SFDR) ni sur fundinfo ; fonds récent."
+ },
+ {
+  "n": 297,
+  "isin": "LU2228414293",
+  "nom": "(I/C)SHELTER UCITS CORE SATELLITE FUND 60 IA EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SHELTER_INVESTMENT_MANAGEMENT/LU2228414293/LU2228414293__KID_FR_2026-01-02.pdf",
+   "url": "https://shelter-im.com/media/pages/library/PRIIPS-KID/40a02d3110-1788764697/PRIIPS-KID-LU2228414293-FR.pdf",
+   "source": "ShelteR IM (shelter-im.com, page Nos fonds)",
+   "date": "2026-01-02",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site ShelteR IM (identique à celui de fundinfo, publié le 02/01/2026). Aucune factsheet mensuelle sur shelter-im.com ni sur fundinfo."
+ },
+ {
+  "n": 298,
+  "isin": "LU1932686501",
+  "nom": "(I/C)SKAGEN KON-TIKI LUX B EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932686501/LU1932686501__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/98f503b46a14e6da8e7979a0827da852_170060/MR_FR_fr_LU1932686501_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932686501/LU1932686501__KID_FR_2026-02-28.pdf",
+   "url": "https://api.fundinfo.com/document/9ae2fb30aa1208a24ebff2e945bf3d8e_126338/PRP_LU_fr_LU1932686501_YES_2026-02-28.pdf",
+   "source": "fundinfo (PRP LU fr)",
+   "date": "2026-02-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR (rapport mensuel Storebrand/SKAGEN) au 31/08/2026 via fundinfo (pas de fin septembre publiée). KID FR fundinfo exact au 28/02/2026."
+ },
+ {
+  "n": 299,
+  "isin": "LU2038885625",
+  "nom": "(I/C)SMART PATRIMOINE FLEXIBLE I EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU2038885625/LU2038885625__KID_FR_2026-01-30.pdf",
+   "url": "https://api.fundinfo.com/document/bf07d45e753aa1f521ea561a68c6e8b4_71190/PRP_LU_fr_LU2038885625_YES_2026-01-30.pdf",
+   "source": "fundinfo (PRP LU fr)",
+   "date": "2026-01-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR fundinfo (30/01/2026, classe I ; la société de gestion est BLI – Banque de Luxembourg Investments, ex-Conventum). Factsheet non trouvée : fundinfo n'a que le KID ; site conventum.lu renvoie vers une marque blanche Fundsquare à session expirée (liens non accessibles directement)."
+ },
+ {
+  "n": 300,
+  "isin": "LU2038885468",
+  "nom": "(I/C)SMART VALUE INVESTORS EQUITY FLEXIBLE I EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU2038885468/LU2038885468__KID_FR_2026-01-30.pdf",
+   "url": "https://api.fundinfo.com/document/674fe85c8ebb0176566b720f6409b896_71331/PRP_LU_fr_LU2038885468_YES_2026-01-30.pdf",
+   "source": "fundinfo (PRP LU fr)",
+   "date": "2026-01-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR fundinfo (30/01/2026, classe I ; la société de gestion est BLI – Banque de Luxembourg Investments, ex-Conventum). Factsheet non trouvée : fundinfo n'a que le KID ; site conventum.lu renvoie vers une marque blanche Fundsquare à session expirée (liens non accessibles directement)."
+ },
+ {
+  "n": 301,
+  "isin": "BE6290264082",
+  "nom": "(I/C)SPM GLOBAL FLEXIBLE P-CAP EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MONTSEGUR/BE6290264082/BE6290264082__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.spmfunds.be/layout/uploads/2026/10/26-09-30-Reporting-SPM-GF-FR-.pdf",
+   "source": "SPM Funds / Montségur Finance (spmfunds.be, page Global Flexible)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MONTSEGUR/BE6290264082/BE6290264082__KID_FR_2026-06-30.pdf",
+   "url": "https://www.spmfunds.be/layout/uploads/2026/08/KIDDOC-2026-06-30-FR-00-2026-06-30-BE6290264082-SPM_FUNDS_Global_Flexible_Classe___P_Cap.pdf",
+   "source": "SPM Funds / Montségur Finance (spmfunds.be)",
+   "date": "2026-06-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site spmfunds.be/global_flexible/ : rapport mensuel FR au 30/09/2026 couvrant toutes les classes (ligne P-Cap avec ISIN et performances propres) et KID FR classe P Cap (30/06/2026)."
+ },
+ {
+  "n": 302,
+  "isin": "FR0014011SC9",
+  "nom": "(I/C)SWISS LIFE FUNDS OPPORTUNITE HY 2032 (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SWISS_LIFE/FR0014011SC9/FR0014011SC9__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://invest.swisslife-am.com/documents/FFS_FR0014011SC9_fr.pdf",
+   "source": "Swiss Life Asset Managers (invest.swisslife-am.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SWISS_LIFE/FR0014011SC9/FR0014011SC9__KID_EN_2026-06-12.pdf",
+   "url": "https://invest.swisslife-am.com/documents/KIID/FR/KIID_%20FR0014011SC9_en.pdf",
+   "source": "Swiss Life Asset Managers (invest.swisslife-am.com)",
+   "date": "2026-06-12",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": "Part F (FR0014011SC9). Site invest.swisslife-am.com : reporting mensuel FR au 30/09/2026 (URL documents/FFS_<ISIN>_fr.pdf) ; KID seulement en anglais trouvé (documents/KIID/FR/KIID_%20<ISIN>_en.pdf, 12/06/2026) ; version FR introuvable (404) et absente de fundinfo (qui n'a que le MR de juillet)."
+ },
+ {
+  "n": 303,
+  "isin": "LU2181906269",
+  "nom": "(I/C)SYCOMORE SUSTAINABLE TECH IC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/LU2181906269/LU2181906269__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4f0cfb5f3729355c4a30729096401c31_583046/MR_FR_fr_LU2181906269_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/LU2181906269/LU2181906269__KID_FR_2026-02-27.pdf",
+   "url": "https://api.fundinfo.com/document/29e8a88500eddb26981c141838243b58_2056979/PRP_BE_fr_LU2181906269_YES_2026-02-27.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-02-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet (reporting mensuel FR, part IC, septembre 2026) et KID FR via fundinfo (site sycomore-am.com non exploré : fundinfo à jour)."
+ },
+ {
+  "n": 304,
+  "isin": "FR0014010IF5",
+  "nom": "(I/C)SYCOYIELD 2032 IC EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/FR0014010IF5/FR0014010IF5__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d30e57651da4fe10d387222875f2bff7_530091/MR_FR_fr_FR0014010IF5_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/FR0014010IF5/FR0014010IF5__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/657f67cb30e8ab5268bc2a70df39bb56_2760711/PRP_FR_fr_FR0014010IF5_YES_2026-04-16.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet (reporting mensuel FR, part IC, septembre 2026) et KID FR via fundinfo (site sycomore-am.com non exploré : fundinfo à jour)."
+ },
+ {
+  "n": 305,
+  "isin": "LU0140637140",
+  "nom": "(I/C)Schroder ISF Greater China C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0140637140/LU0140637140__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/abe958ca81134d649f46a9466750182c_358922/MR_FR_fr_LU0140637140_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0140637140/LU0140637140__KID_FR_2026-09-29.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Greater-China-USD_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site Schroders. Factsheet FR fundinfo fin septembre 2026 (date issue des métadonnées fundinfo ; PDF créé le 09/10/2026, pas de date imprimée en texte)."
+ },
+ {
+  "n": 306,
+  "isin": "LU0181996454",
+  "nom": "(I/C)TEMPLETON ASIAN GROWTH I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0181996454/LU0181996454__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/5e6983c77e5547a0e24cd93071c572b5_102279/MR_FR_fr_LU0181996454_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0181996454/LU0181996454__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/8bb78edca5fafcf00f08055cdabfe9b1_170299/PRP_FR_fr_LU0181996454_YES_2026-02-19.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR (reporting au 30/09/2026) et KID FR (19/02/2026) via fundinfo, déclinaison pays FR (pas de version BE en français pour cette part)."
+ },
+ {
+  "n": 307,
+  "isin": "LU1433070429",
+  "nom": "(I/C)THREADNEEDLE (LUX) GLOBAL FOCUS CLASS ZE EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU1433070429/LU1433070429__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/ebacbfa7ab0dadeb407aa61a5af02e24_778160/MR_FR_fr_LU1433070429_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr, version part ZE EUR)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU1433070429/LU1433070429__KID_FR_2026-02-23.pdf",
+   "url": "https://api.fundinfo.com/document/62896915bf9436f47c93ad5d58c147fb_302439/PRP_BE_fr_LU1433070429_YES_2026-02-23.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-02-23",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Attention : fundinfo publie sous cet ISIN des fiches d'autres parts (ZU USD, AU USD) ; retenue la fiche FR (pays FR, YES) titrée « CAT. ZE EUR (ISIN:LU1433070429) » au 31/08/2026. KID FR version BE (23/02/2026). Pas de fiche fin septembre publiée."
+ },
+ {
+  "n": 308,
+  "isin": "LU0957820193",
+  "nom": "(I/C)THREADNEEDLE GLOBAL SMALLER COMPANIES ZE EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0957820193/LU0957820193__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/3fcaa9fe9cb5226b31286ac603083b9e_370642/MR_LU_fr_LU0957820193_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR LU fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0957820193/LU0957820193__KID_FR_2026-02-23.pdf",
+   "url": "https://api.fundinfo.com/document/ded7f667cf0deeefe0720bbae1f21715_302586/PRP_BE_fr_LU0957820193_YES_2026-02-23.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-02-23",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fiche FR (pays LU, YES) titrée « CAT. ZE EUR (ISIN:LU0957820193) » au 31/08/2026 (les versions EN de fundinfo peuvent porter sur une autre part). KID FR version BE (23/02/2026)."
+ },
+ {
+  "n": 309,
+  "isin": "FR001400UPC1",
+  "nom": "(I/C)TIKEHAU 2031 F EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TIKEHAU_INVESTMENT_MANAGEMENT/FR001400UPC1/FR001400UPC1__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/afcdbce68941f43d3e48ae845a92cc23_262436/MR_BE_fr_FR001400UPC1_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR BE fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TIKEHAU_INVESTMENT_MANAGEMENT/FR001400UPC1/FR001400UPC1__KID_FR_2026-03-04.pdf",
+   "url": "https://api.fundinfo.com/document/a6dd4ad20a7fc3a646d4e9c1193deafe_265760/PRP_BE_fr_FR001400UPC1_YES_2026-03-04.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-03-04",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Rapport mensuel FR septembre 2026 (part F-Acc-EUR) et KID FR via fundinfo (déclinaison BE)."
+ },
+ {
+  "n": 310,
+  "isin": "FR0013230042",
+  "nom": "(I/C)TOCQUEVILLE VALUE EURO ISR GP EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/605cd850ce504c8307ec0bd88cfb162c_247253/MR_FR_fr_FR0013230042_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__KID_FR_2026-04-22.pdf",
+   "url": "https://api.fundinfo.com/document/7997da15649f83b1961f1d590b100a07_268066/PRP_BE_fr_FR0013230042_YES_2026-04-22.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-04-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds renommé « Tocqueville Euro Equity Value SRI » (action GP). Rapport mensuel FR au 31/08/2026 via fundinfo (pas de septembre publié ; page produit lbpam.com non trouvée). KID FR version BE du 22/04/2026 (plus récent que la version FR du 17/02/2026)."
+ },
+ {
+  "n": 311,
+  "isin": "LU0785618231",
+  "nom": "(I/C)TRIODOS IMPACT MIXED NEUTRAL Z EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0785618231/LU0785618231__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2fe4882bb794bc754d953272b0207d9e_816054/MR_LU_en_LU0785618231_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR LU en)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0785618231/LU0785618231__KID_FR_2026-04-08.pdf",
+   "url": "https://api.fundinfo.com/document/e72ec0734b0367c095d3269640bd760c_84995/PRP_FR_fr_LU0785618231_YES_2026-04-08.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-04-08",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet (Z-cap, septembre 2026) uniquement en anglais sur fundinfo ; anciennes URLs triodos.be/.nl en FR mortes (404), site triodos-im.com à sélection d'investisseur. KID FR (déclinaison FR) du 08/04/2026."
+ },
+ {
+  "n": 312,
+  "isin": "LU0569863755",
+  "nom": "(I/C)UBAM - Global High Yield Solution IHC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/UBP_SA/LU0569863755/LU0569863755__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/27f95a5aa114d818a3ec152d02e33097_627730/MR_LU_en_LU0569863755_RES_2026-09-30.pdf",
+   "source": "fundinfo (MR LU en)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/UBP_SA/LU0569863755/LU0569863755__KID_FR_2026-05-10.pdf",
+   "url": "https://api.fundinfo.com/document/7bb39c737abddf62d77097e58a715e70_183779/PRP_FR_fr_LU0569863755_YES_2026-05-10.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-05-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet IHC EUR septembre 2026 uniquement en anglais (fundinfo, version « qualified investors ») ; pas de version FR trouvée. KID FR (déclinaison FR) du 10/05/2026."
+ },
+ {
+  "n": 313,
+  "isin": "IE00BKLWXS37",
+  "nom": "(I/C)VANGUARD EMERGING MARKETS BOND FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BKLWXS37/IE00BKLWXS37__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Emerging_Markets_Bond_Fund_9887_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BKLWXS37/IE00BKLWXS37__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bklwxs37_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 314,
+  "isin": "IE0031786696",
+  "nom": "(I/C)VANGUARD EMRG MRKTS STOCK INDEX FUND ACC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0031786696/IE0031786696__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Emerging_Markets_Stock_Index_Fund_9229_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0031786696/IE0031786696__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0031786696_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 315,
+  "isin": "IE00B5456744",
+  "nom": "(I/C)VANGUARD ESG DEVELOPED WORLD ALL CAP EQ EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B5456744/IE00B5456744__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/ESG_Developed_World_All_Cap_Equity_Index_Fund_9164_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B5456744/IE00B5456744__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b5456744_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 316,
+  "isin": "IE00BKV0W243",
+  "nom": "(I/C)VANGUARD ESG EMERGING MARKETS ALL CAP EQ EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BKV0W243/IE00BKV0W243__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/ESG_Emerging_Markets_All_Cap_Equity_Index_Fund_9684_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BKV0W243/IE00BKV0W243__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bkv0w243_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 317,
+  "isin": "IE00BNDS0V25",
+  "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BNDS0V25/IE00BNDS0V25__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/ESG_Global_Corporate_Bond_Index_Fund_E001_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BNDS0V25/IE00BNDS0V25__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bnds0v25_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 318,
+  "isin": "IE000CI5UY91",
+  "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE000CI5UY91/IE000CI5UY91__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/ESG_Global_Corporate_Bond_Index_Fund_E021_USD_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE000CI5UY91/IE000CI5UY91__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie000ci5uy91_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 319,
+  "isin": "IE00B04FFJ44",
+  "nom": "(I/C)VANGUARD EURO INVEST GRADE BOND ACC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04FFJ44/IE00B04FFJ44__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Euro_Investment_Grade_Bond_Index_Fund_9991_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04FFJ44/IE00B04FFJ44__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b04ffj44_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ },
+ {
+  "n": 320,
+  "isin": "IE0007987690",
+  "nom": "(I/C)VANGUARD EUROPEAN STOCK INDEX INV EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007987690/IE0007987690__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/European_Stock_Index_Fund_9923_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007987690/IE0007987690__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007987690_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
+ }
+]

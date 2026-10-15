@@ -1,0 +1,698 @@
+[
+ {
+  "n": 60,
+  "isin": "FR0014008223",
+  "nom": "(I/C)CARMIGNAC CREDIT 2027 F EUR (FMB)",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0014008223/FR0014008223__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/00c1bf8b6bec18d8c1b166798c57791f_195167/MR_BE_fr_FR0014008223_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0014008223/FR0014008223__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/af56a1d66ccd1185aa5479bf952a8aea_595301/PRP_BE_fr_FR0014008223_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 61,
+  "isin": "FR001400KAX0",
+  "nom": "(I/C)CARMIGNAC CREDIT 2029 F EUR (FMB)",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400KAX0/FR001400KAX0__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e83d33e9a8bdfa9baa6f046b0ad81fdd_194141/MR_BE_fr_FR001400KAX0_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400KAX0/FR001400KAX0__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/f71f9d8627217db27c21a68eee5dcef4_592358/PRP_BE_fr_FR001400KAX0_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 62,
+  "isin": "FR001400U4U9",
+  "nom": "(I/C)CARMIGNAC CREDIT 2031 F EUR (FMB)",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400U4U9/FR001400U4U9__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/7ee9a6626a9992d09e11eff763e65fea_193043/MR_BE_fr_FR001400U4U9_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400U4U9/FR001400U4U9__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/4fd35cccaa420f67c41bf1784e0be685_592355/PRP_BE_fr_FR001400U4U9_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 63,
+  "isin": "FR0013527827",
+  "nom": "(I/C)CARMIGNAC INVESTISSEMENT LATITUDE F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/FR0013527827/FR0013527827__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d8f672ac4aaa9d78864367d45ab1bf28_222236/MR_FR_fr_FR0013527827_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/FR0013527827/FR0013527827__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/18f40bc08b089498b61235934678152a_601711/PRP_FR_fr_FR0013527827_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 64,
+  "isin": "LU1932489690",
+  "nom": "(I/C)CARMIGNAC PF CREDIT F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU1932489690/LU1932489690__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c9409c1fa0b4fb80d37c8689f8d6e677_208139/MR_BE_fr_LU1932489690_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU1932489690/LU1932489690__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/aab901272e973340c279bdfecf53e896_496376/PRP_BE_fr_LU1932489690_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 65,
+  "isin": "LU0992631217",
+  "nom": "(I/C)CARMIGNAC PF FLEXIBLE BOND F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992631217/LU0992631217__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/1f3bbeddc4d16cccd79437ce16c310a0_226851/MR_BE_fr_LU0992631217_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992631217/LU0992631217__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/6a716d0fcb9035837af8433f7906bd68_496697/PRP_BE_fr_LU0992631217_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 66,
+  "isin": "LU0992630599",
+  "nom": "(I/C)CARMIGNAC PF GLOBAL BOND F EUR ACC",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992630599/LU0992630599__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/02c0694c85c8b5d8036b021b9d0edf63_209507/MR_BE_fr_LU0992630599_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992630599/LU0992630599__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/5276cc38a7eaef564115aafa8ded523e_496478/PRP_BE_fr_LU0992630599_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 67,
+  "isin": "LU0992631647",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO EMERG PAT F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992631647/LU0992631647__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/b324d254e38a330ac6a7c45a21b4868d_237451/MR_BE_fr_LU0992631647_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992631647/LU0992631647__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/ed7291ec6ba81d72ac912d18110dcfc6_498820/PRP_BE_fr_LU0992631647_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 68,
+  "isin": "LU0992626480",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO EMERGENTS F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992626480/LU0992626480__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6c7364ccd00c0dd3077a04941dd682ed_275539/MR_BE_fr_LU0992626480_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992626480/LU0992626480__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/67b3ca10a583fc506150289467fda93d_508381/PRP_BE_fr_LU0992626480_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 69,
+  "isin": "LU2004385667",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO GRANDCHILDREN F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU2004385667/LU2004385667__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4b5a656829389b9fded5b75120099747_271809/MR_BE_fr_LU2004385667_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU2004385667/LU2004385667__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/7cd5ef87d737b5df1d296dc69450d503_506601/PRP_BE_fr_LU2004385667_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 70,
+  "isin": "LU2715954330",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO INFLATION SOLUTION F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954330/LU2715954330__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/dd692f8ad2b334392079b0fa8efc9a04_196149/MR_BE_fr_LU2715954330_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954330/LU2715954330__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/d32151f869c416a7830a40eb6754173e_496585/PRP_BE_fr_LU2715954330_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 71,
+  "isin": "LU0992625839",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO INVESTISSEMENT F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992625839/LU0992625839__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e020d9d356f13cad61d0cfbd70602212_223579/MR_BE_fr_LU0992625839_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992625839/LU0992625839__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/a3cbee8402ad085709de41c89172e43b_508394/PRP_BE_fr_LU0992625839_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 72,
+  "isin": "LU0992627298",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO LT EU EQUITIES F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU0992627298/LU0992627298__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8de50f5e548cc7784d6e3c7eb46be47c_224925/MR_BE_fr_LU0992627298_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU0992627298/LU0992627298__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/e3bd95182a40da4c69fd61bfd29533ef_493672/PRP_BE_fr_LU0992627298_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 73,
+  "isin": "LU1744630424",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO PATRIMOINE EUROPE F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU1744630424/LU1744630424__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/17f2921efabbcbb315520fd9ac164c98_276907/MR_BE_fr_LU1744630424_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU1744630424/LU1744630424__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/a9313077620ab5e95ae1eac66d8015bf_498179/PRP_BE_fr_LU1744630424_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 74,
+  "isin": "LU0992627611",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO PATRIMOINE F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992627611/LU0992627611__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8f90cd93e4b3ac863eb1ffd30217916a_472390/MR_BE_fr_LU0992627611_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992627611/LU0992627611__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/dcf49840a7d0fcbe93c9d6597ad364ef_499805/PRP_BE_fr_LU0992627611_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 75,
+  "isin": "LU0992624949",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO SECURITE F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992624949/LU0992624949__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/1dad5fa8ac1f10115ccce963235315a0_230504/MR_BE_fr_LU0992624949_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992624949/LU0992624949__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/32dec71a3c3ac4de24d5d0e08a9557b6_493094/PRP_BE_fr_LU0992624949_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 76,
+  "isin": "LU2809794576",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO TECH SOLUTIONS F EUR",
+  "notes": "Factsheet et KID par part (F EUR Acc / FW pour Sécurité), source fundinfo (versions BE en français). Site carmignac.com/.fr bloqué (bot mitigation JS + 403).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2809794576/LU2809794576__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/20c8371643732e896ab48349a6fa6462_209075/MR_BE_fr_LU2809794576_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2809794576/LU2809794576__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/d410014fe8686a1bbdd5f1fa0e1e97db_503986/PRP_BE_fr_LU2809794576_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 77,
+  "isin": "LU1100076717",
+  "nom": "(I/C)CLARTAN VALEURS I EUR",
+  "notes": "Factsheet : reporting mensuel classe I au 30/09/2026 (clartan.com/fr/fund/clartan-valeurs-i/). Le PDF utilise une police à encodage décalé : le .txt pdftotext est en grande partie illisible ; ISIN LU1100076717 et « CODE ISIN CLASSE I » vérifiés après décodage (+1 caractère). URL fixe, écrasée chaque mois. KID : fundinfo (PRP FR 10/02/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CLARTAN_ASSOCIES/LU1100076717/LU1100076717__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://clartan.com/wp-content/uploads/reportings/Reporting-FR-Clartan-Valeur-I.pdf",
+   "source": "site gestionnaire (clartan.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CLARTAN_ASSOCIES/LU1100076717/LU1100076717__KID_FR_2026-02-10.pdf",
+   "url": "https://api.fundinfo.com/document/df026e1dad10e87124ce7fabe255fbd6_124003/PRP_LU_fr_LU1100076717_YES_2026-02-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-10",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 78,
+  "isin": "FR0013384971",
+  "nom": "(I/C)CM-AM CONVICTIONS S EUR",
+  "notes": "Source fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CREDIT_MUTUEL_ASSET_MANAGEMENT/FR0013384971/FR0013384971__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/0288c7c6c9e2e6489a9737ebbb07e208_1058295/MR_BE_fr_FR0013384971_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CREDIT_MUTUEL_ASSET_MANAGEMENT/FR0013384971/FR0013384971__KID_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8d8e7d084c1d04d6bab0595bc4a5ced9_121614/PRP_BE_fr_FR0013384971_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 79,
+  "isin": "IE00B5WN3467",
+  "nom": "(I/C)COMGEST GROWTH EUROPE I EUR",
+  "notes": "Factsheet Comgest par part (en-tête « EUR I ACC - IE00B5WN3467 »), source fundinfo (MR LU fr). KID PRIIPs FR (pays BE) 20/03/2026.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B5WN3467/IE00B5WN3467__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e289794332d94e4be384f14739186978_325508/MR_LU_fr_IE00B5WN3467_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B5WN3467/IE00B5WN3467__KID_FR_2026-03-20.pdf",
+   "url": "https://api.fundinfo.com/document/08cea32d1957ca6bd20d73ceeaf2e982_251140/PRP_BE_fr_IE00B5WN3467_YES_2026-03-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 80,
+  "isin": "IE000WR5BMF2",
+  "nom": "(I/C)COMGEST GROWTH GLOBAL COMPOUNDERS I EUR",
+  "notes": "Factsheet Comgest par part (en-tête « EUR I ACC - IE000WR5BMF2 »), source fundinfo (MR LU fr). KID PRIIPs FR (pays BE) 20/03/2026.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE000WR5BMF2/IE000WR5BMF2__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/78ae29c9a064fc5688e1857cec222548_312972/MR_LU_fr_IE000WR5BMF2_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE000WR5BMF2/IE000WR5BMF2__KID_FR_2026-03-20.pdf",
+   "url": "https://api.fundinfo.com/document/63d41d5fc5cb010f2786202f59ce2c79_254431/PRP_BE_fr_IE000WR5BMF2_YES_2026-03-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 81,
+  "isin": "IE00BJ625P22",
+  "nom": "(I/C)COMGEST GROWTH GLOBAL I EUR",
+  "notes": "Factsheet Comgest par part (en-tête « EUR I ACC - IE00BJ625P22 »), source fundinfo (MR LU fr). KID PRIIPs FR (pays BE) 20/03/2026.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BJ625P22/IE00BJ625P22__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/005c8884c045aeda6aa6a09a17f92302_315184/MR_LU_fr_IE00BJ625P22_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BJ625P22/IE00BJ625P22__KID_FR_2026-03-20.pdf",
+   "url": "https://api.fundinfo.com/document/b1f13289b607910c1b695ef0a7f81e44_252747/PRP_BE_fr_IE00BJ625P22_YES_2026-03-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 82,
+  "isin": "IE00BZ0RSN48",
+  "nom": "(I/C)COMGEST GROWTH JAPAN I EUR",
+  "notes": "Factsheet Comgest par part (en-tête « EUR I ACC - IE00BZ0RSN48 »), source fundinfo (MR LU fr). KID PRIIPs FR (pays BE) 20/03/2026.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BZ0RSN48/IE00BZ0RSN48__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2296e11ce0efbde97d54142c3f881ea1_321631/MR_LU_fr_IE00BZ0RSN48_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BZ0RSN48/IE00BZ0RSN48__KID_FR_2026-03-20.pdf",
+   "url": "https://api.fundinfo.com/document/d179e7c75d84a60561e4c3b4ddd9da0e_251834/PRP_BE_fr_IE00BZ0RSN48_YES_2026-03-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 83,
+  "isin": "IE00BZ0X9Z19",
+  "nom": "(I/C)COMGEST GROWTH JAPAN Z EUR",
+  "notes": "Factsheet Comgest par part (en-tête « EUR Z ACC - IE00BZ0X9Z19 »), source fundinfo (MR LU fr). KID PRIIPs FR (pays BE) 20/03/2026.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BZ0X9Z19/IE00BZ0X9Z19__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/cccd60ad0718163f94dcb345a4e1110a_321508/MR_LU_fr_IE00BZ0X9Z19_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BZ0X9Z19/IE00BZ0X9Z19__KID_FR_2026-03-20.pdf",
+   "url": "https://api.fundinfo.com/document/9fa3ad2d0675a7e1732dc149c2353a0c_254152/PRP_BE_fr_IE00BZ0X9Z19_YES_2026-03-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 84,
+  "isin": "LU1846742119",
+  "nom": "(I/C)CONVICTION PATRIMOINE ASSET GBL CONVICT F EUR",
+  "notes": "Absent de fundinfo (BE/LU/FR/IE/CH/DE/NL), aucune trace web de l'ISIN ; conviction-patrimoine.lu inaccessible (502 proxy). Déjà introuvable pour la part B (LU1846741905) le 13/10/2026.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 85,
+  "isin": "LU2570611165",
+  "nom": "(I/C)CPR INVEST EUROPEAN STRATEGIC AUTONOMY R EUR",
+  "notes": "Source fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611165/LU2570611165__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/b9c3779e44e90c227e2cfafe0a72fdf4_421612/MR_FR_fr_LU2570611165_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611165/LU2570611165__KID_FR_2026-09-01.pdf",
+   "url": "https://api.fundinfo.com/document/8dfce9c3a8f3d8a606eb6bf2c9b2fee0_178610/PRP_LU_fr_LU2570611165_YES_2026-09-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-01",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 86,
+  "isin": "LU2389405676",
+  "nom": "(I/C)CPR INVEST HYDROGEN R2 EUR",
+  "notes": "Source fundinfo.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2389405676/LU2389405676__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6e32357710e841bfe57688642c06c24a_1464805/MR_LU_fr_LU2389405676_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2389405676/LU2389405676__KID_FR_2026-09-01.pdf",
+   "url": "https://api.fundinfo.com/document/f749684542096d494c1ef69c3bddb47e_185562/PRP_LU_fr_LU2389405676_YES_2026-09-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-01",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 87,
+  "isin": "LU2595961652",
+  "nom": "(I/C)CT AMERICAN SMALLER COMPANIES ZE EUR",
+  "notes": "Factsheet la plus récente disponible = 31/08/2026 (fundinfo LU/NL, FR/EN) ; septembre pas encore publiée sur fundinfo ; site columbiathreadneedle (JS) non exploitable. Factsheet multi-parts ? non : en-tête « CAT. ZE EUR (ISIN:LU2595961652) ».",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU2595961652/LU2595961652__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/a68ec8e05ee8b0fd54f3af7b64626ada_671040/MR_LU_fr_LU2595961652_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU2595961652/LU2595961652__KID_FR_2026-02-23.pdf",
+   "url": "https://api.fundinfo.com/document/0930a271fedd0f90e41f538356f0d65c_301991/PRP_BE_fr_LU2595961652_YES_2026-02-23.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-23",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 88,
+  "isin": "LU1731919103",
+  "nom": "(I/C)DIGITAL FUNDS STARS EUROPE ACC1 EUR",
+  "notes": "Fonds renommé Chahine Funds Equity Europe (ex-Digital Funds Stars Europe), gestionnaire devenu IRIVEST Investment Managers (ex-Chahine Capital). Factsheet « Classe Acc 1 » septembre 2026 (VNI au 30/09/2026), obtenue via l'API du site : https://xc4r-fc8d-zlin.p7.xano.io/api:VNcMrvWR/factsheets_actions?f=Chahine-Funds-Equity-Europe-Acc-1-FS-FR.pdf. KID PRIIPs FR produit le 03/03/2026 (fundinfo n'a que FR 2025 / EN 2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_CHAHINE_CAPITAL_S_A/LU1731919103/LU1731919103__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://storage.googleapis.com/xc4r-fc8d-zlin.p7.xano.io/vault/QdelMMhM/AQf2tVVQ916ck-J3GV_RbPeFyTw/wJijFA../Chahine-Funds-Equity-Europe-Acc-1-FS-FR.pdf",
+   "source": "site gestionnaire (irivest.com, stockage Xano du site)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_CHAHINE_CAPITAL_S_A/LU1731919103/LU1731919103__KID_FR_2026-03-03.pdf",
+   "url": "https://cdn.prod.website-files.com/68f0aa9fa26871f6e4316a50/69eb1e60677ee744bc44b563_KID_Chahine_Funds_Equity_Europe_Acc_1__FR.pdf",
+   "source": "site gestionnaire (irivest.com/priips-kids/chahine-funds-equity-europe-acc1-lu1731919103)",
+   "date": "2026-03-03",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ }
+]

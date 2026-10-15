@@ -1,0 +1,698 @@
+[
+ {
+  "n": 89,
+  "isin": "IE00B4MJ5D07",
+  "nom": "(I/C)DIMENSIONAL WORLD EQUITY EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DIMENSIONAL_FUND_ADVISORS_LTD/IE00B4MJ5D07/IE00B4MJ5D07__Factsheet_EN_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/e46ee1287090ebaef7fdea7691b1f119_114607/MR_LU_en_IE00B4MJ5D07_RES_2026-06-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DIMENSIONAL_FUND_ADVISORS_LTD/IE00B4MJ5D07/IE00B4MJ5D07__KID_EN_2026-08-10.pdf",
+   "url": "https://api.fundinfo.com/document/541a31f2deab9f866996ba67cbad038a_81568/PRP_IE_en_IE00B4MJ5D07_YES_2026-08-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-10",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet trimestrielle Dimensional (« As of 30 June 2026 », la plus récente sur fundinfo ; MR uniquement en anglais, pas de version FR). KID EN (pas de FR sur fundinfo)."
+ },
+ {
+  "n": 90,
+  "isin": "LU1694789378",
+  "nom": "(I/C)DNCA INVEST ALPHA BONDS I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU1694789378/LU1694789378__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/7c6ce66e46d18d866da24016e5061b22_365712/MR_BE_fr_LU1694789378_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU1694789378/LU1694789378__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/612d68c99efb1357b8890bdd3d849b53_113429/PRP_BE_fr_LU1694789378_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 91,
+  "isin": "LU2116701777",
+  "nom": "(I/C)DNCA INVEST BEYOND CLIMATE I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU2116701777/LU2116701777__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/1133c91d708fe99e6a3fafc1ccff7c75_333499/MR_BE_fr_LU2116701777_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU2116701777/LU2116701777__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/e75498238de19de15b7a42461b1946da_112828/PRP_BE_fr_LU2116701777_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 92,
+  "isin": "LU1907595125",
+  "nom": "(I/C)DNCA INVEST BEYOND SEMPEROSA I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU1907595125/LU1907595125__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/5a5efb2f646ada858f8c4a00c3a7d9ef_340367/MR_BE_fr_LU1907595125_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU1907595125/LU1907595125__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/951d189f6e3ef8c0453e19b3ecd04b96_113202/PRP_BE_fr_LU1907595125_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 93,
+  "isin": "LU0284393773",
+  "nom": "(I/C)DNCA INVEST CREDIT CONVICTION I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393773/LU0284393773__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2f1b607941c6d1b7f7c40c4e8e76de54_368314/MR_BE_fr_LU0284393773_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393773/LU0284393773__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/0e564702d92a275364e6083958ef0490_111331/PRP_BE_fr_LU0284393773_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 94,
+  "isin": "LU0870552998",
+  "nom": "(I/C)DNCA INVEST EUROPE GROWTH I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0870552998/LU0870552998__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c5c37f518ba4ff2f3189e799a174107f_369833/MR_BE_fr_LU0870552998_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0870552998/LU0870552998__KID_FR_2026-04-17.pdf",
+   "url": "https://api.fundinfo.com/document/5d6b6925d78d3cd47f0d26bb70abbe6f_106038/PRP_BE_fr_LU0870552998_YES_2026-04-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 95,
+  "isin": "LU0284394151",
+  "nom": "(I/C)DNCA INVEST EUROSE I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0284394151/LU0284394151__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/b28a967a06313604ded342461d77323f_372999/MR_BE_fr_LU0284394151_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0284394151/LU0284394151__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/cb8a7730142efd44d1847af83b8cbe26_112469/PRP_BE_fr_LU0284394151_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 96,
+  "isin": "LU0284394581",
+  "nom": "(I/C)DNCA INVEST EVOLUTIF I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0284394581/LU0284394581__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/464dfa5c654d44aa606bfe7b447f1df5_355624/MR_BE_fr_LU0284394581_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0284394581/LU0284394581__KID_FR_2026-09-13.pdf",
+   "url": "https://api.fundinfo.com/document/fa0f77d4b9e9f3331f3d76f0031177e6_98539/PRP_BE_fr_LU0284394581_YES_2026-09-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 97,
+  "isin": "LU2194926346",
+  "nom": "(I/C)DNCA INVEST GLOBAL NEW WORLD I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU2194926346/LU2194926346__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/400095150dbdc49a2902dfcf102b5d3f_330924/MR_BE_fr_LU2194926346_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU2194926346/LU2194926346__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/042bb0086a57215b581542a703acca9e_111969/PRP_BE_fr_LU2194926346_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 98,
+  "isin": "LU1490784953",
+  "nom": "(I/C)DNCA INVEST SRI NORDEN EUROPE I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU1490784953/LU1490784953__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c90bc36c8425bb0a8d0ff16f3c935400_364612/MR_BE_fr_LU1490784953_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU1490784953/LU1490784953__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/6bd498d9f465167c66d2de3b7cce400f_111166/PRP_BE_fr_LU1490784953_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 99,
+  "isin": "LU2707622390",
+  "nom": "(I/C)DNCA INVEST STRATEGIC RESOURCES I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU2707622390/LU2707622390__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/58f0e95d7df7b4b2654bb16fa23cef45_245867/MR_BE_fr_LU2707622390_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU2707622390/LU2707622390__KID_FR_2026-06-05.pdf",
+   "url": "https://api.fundinfo.com/document/ff7ef0c488e7edf3c54dcafa45c0375b_107252/PRP_BE_fr_LU2707622390_YES_2026-06-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-05",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 100,
+  "isin": "LU0284395984",
+  "nom": "(I/C)DNCA INVEST VALUE EUROPE I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0284395984/LU0284395984__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/5646156e2fd6ecc325888c893f7f3f9c_351014/MR_BE_fr_LU0284395984_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DNCA_FINANCE/LU0284395984/LU0284395984__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/2239846d21e885ffb523d3810e9867d3_110019/PRP_BE_fr_LU0284395984_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 101,
+  "isin": "BE6309878286",
+  "nom": "(I/C)DPAM B ACTIVE STRATEGY W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/00346826779238d211c90022453a13c4_410155/MR_BE_fr_BE6309878286_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__KID_FR_2026-10-01.pdf",
+   "url": "https://api.fundinfo.com/document/4b33938c37b3523b9ebfac1261471634_103630/PRP_BE_fr_BE6309878286_YES_2026-10-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet DPAM au 31/08/2026 (dernière publiée sur fundinfo ; site funds.dpaminvestments.com dynamique, non exploitable)."
+ },
+ {
+  "n": 102,
+  "isin": "BE6309882320",
+  "nom": "(I/C)DPAM B BALANCED STRATEGY W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/0dcc85dc235f3ecb970461b6b05d726c_416107/MR_BE_fr_BE6309882320_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__KID_FR_2026-10-01.pdf",
+   "url": "https://api.fundinfo.com/document/d8b56c29b0285abe7f985614baf1ebbe_103773/PRP_BE_fr_BE6309882320_YES_2026-10-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet DPAM au 31/08/2026 (dernière publiée sur fundinfo ; site funds.dpaminvestments.com dynamique, non exploitable)."
+ },
+ {
+  "n": 103,
+  "isin": "BE6299350734",
+  "nom": "(I/C)DPAM B DEFENSIVE STRATEGY F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/7d9720a22a1a2a1f5cec6864acba98d3_419712/MR_BE_fr_BE6299350734_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__KID_FR_2026-10-01.pdf",
+   "url": "https://api.fundinfo.com/document/4349a5ac811c2c3968fdb5b922ae2436_103656/PRP_BE_fr_BE6299350734_YES_2026-10-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet DPAM au 31/08/2026 (dernière publiée sur fundinfo ; site funds.dpaminvestments.com dynamique, non exploitable)."
+ },
+ {
+  "n": 104,
+  "isin": "BE6246078545",
+  "nom": "(I/C)DPAM B EQUITIES EUROPE SUSTAINABLE W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/65293d06bb7e51af344f032357a59443_449491/MR_BE_fr_BE6246078545_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__KID_FR_2026-10-01.pdf",
+   "url": "https://api.fundinfo.com/document/ef319791c2ff0f84ed49bfcffb5c6433_102327/PRP_BE_fr_BE6246078545_YES_2026-10-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet DPAM au 31/08/2026 (dernière publiée sur fundinfo ; site funds.dpaminvestments.com dynamique, non exploitable)."
+ },
+ {
+  "n": 105,
+  "isin": "BE6246061376",
+  "nom": "(I/C)DPAM B EQUITIES NEWGEMS SUSTAINABLE W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/18888470a7ca3ca6c714550fab22ab0c_453183/MR_BE_fr_BE6246061376_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__KID_FR_2026-10-09.pdf",
+   "url": "https://api.fundinfo.com/document/9f1de048d606dbfe98dfe0e571ac8225_103531/PRP_LU_fr_BE6246061376_YES_2026-10-09.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-09",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet DPAM au 31/08/2026 (dernière publiée sur fundinfo ; site funds.dpaminvestments.com dynamique, non exploitable)."
+ },
+ {
+  "n": 106,
+  "isin": "BE6246059354",
+  "nom": "(I/C)DPAM B REAL ESTATE EUROPE SUSTAINABLE W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/7bc5e7f648ef0b717900b0e3d1affb61_450951/MR_BE_fr_BE6246059354_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__KID_FR_2026-10-01.pdf",
+   "url": "https://api.fundinfo.com/document/c908a357846acc17c443e99151f1638a_103335/PRP_BE_fr_BE6246059354_YES_2026-10-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-10-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet DPAM au 31/08/2026 (dernière publiée sur fundinfo ; site funds.dpaminvestments.com dynamique, non exploitable)."
+ },
+ {
+  "n": 107,
+  "isin": "LU0907928062",
+  "nom": "(I/C)DPAM L BONDS EMERGING MKT SUS CAP F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907928062/LU0907928062__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/c3975e1f786e89c07ae5fb3ec607dddf_266709/MR_LU_en_LU0907928062_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907928062/LU0907928062__KID_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/f1b18666b9ac87553a65aa23dc986d59_206347/PRP_LU_fr_LU0907928062_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet « Institutional Factsheet » part F, uniquement en anglais sur fundinfo, au 31/08/2026 (septembre pas encore publié). KID FR."
+ },
+ {
+  "n": 108,
+  "isin": "LU3076252967",
+  "nom": "(I/C)DPAM L EQUITIES EUROPE DEFENCE W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/52fb8e4b6a8716e69ef69748593ba8e6_396875/MR_BE_fr_LU3076252967_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__KID_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/8e672c932c3d32f462dd0db68dd9c291_195680/PRP_BE_fr_LU3076252967_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet au 31/08/2026 (septembre pas encore publié sur fundinfo)."
+ },
+ {
+  "n": 109,
+  "isin": "IE00BYZJ5G02",
+  "nom": "(I/C)DUNN WMA INSTITUTIONAL UCITS FUND AP EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_IE_LIMITED/IE00BYZJ5G02/IE00BYZJ5G02__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/5e420e3cd7ee968a61fb4b171ad8b43d_538257/MR_BE_en_IE00BYZJ5G02_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Factsheet fonds multi-parts DUNN (août 2026) : tableau des parts Inst Class A Pooled EUR/GBP/CHF/USD avec ISIN EUR IE00BYZJ5G02 ; performances mensuelles affichées pour la part USD Institutional Class A (IE00BYZJ5K48) — à valider. KID : fundinfo n'a que le KID de la part USD Inst A Pooled (IE00BYZJ5K48, 31/03/2026), qui se déclare représentatif de la part EUR IE00BYZJ5G02 ; document d'une autre part → non retenu. Pas d'autre source émetteur trouvée."
+ },
+ {
+  "n": 110,
+  "isin": "LU0969069359",
+  "nom": "(I/C)ECHIQUIER AGENOR MID CAP EUROPE FUND K EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU0969069359/LU0969069359__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-LU0969069359.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU0969069359/LU0969069359__KID_FR_2026-05-22.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-LU0969069359.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-05-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 111,
+  "isin": "FR0012870673",
+  "nom": "(I/C)ECHIQUIER ALLOCATION FLEXIBLE G EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0012870673/FR0012870673__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-FR0012870673.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0012870673/FR0012870673__KID_FR_2026-04-17.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-FR0012870673.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-04-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 112,
+  "isin": "LU1819479939",
+  "nom": "(I/C)ECHIQUIER ARTIFICIAL INTELLIGENCE K EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU1819479939/LU1819479939__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-LU1819479939.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU1819479939/LU1819479939__KID_FR_2026-05-22.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-LU1819479939.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-05-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 113,
+  "isin": "FR001400BE49",
+  "nom": "(I/C)ECHIQUIER GLOBAL FLEXIBLE G EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-FR001400BE49.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__KID_FR_2026-03-20.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-FR001400BE49.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet la plus récente au 31/08/2026 (septembre pas encore publié, ni sur lfde.com ni sur fundinfo). Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 114,
+  "isin": "LU0969070282",
+  "nom": "(I/C)ECHIQUIER MAJOR SRI GROWTH EUROPE FUND K EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU0969070282/LU0969070282__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-LU0969070282.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU0969070282/LU0969070282__KID_FR_2026-05-22.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-LU0969070282.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-05-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 115,
+  "isin": "FR0013299294",
+  "nom": "(I/C)ECHIQUIER POSITIVE IMPACT EUROPE G EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013299294/FR0013299294__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-FR0013299294.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013299294/FR0013299294__KID_FR_2026-04-14.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-FR0013299294.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-04-14",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 116,
+  "isin": "LU2466449001",
+  "nom": "(I/C)ECHIQUIER SPACE K EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU2466449001/LU2466449001__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-LU2466449001.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU2466449001/LU2466449001__KID_FR_2026-05-22.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-LU2466449001.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-05-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ },
+ {
+  "n": 117,
+  "isin": "LU0969069946",
+  "nom": "(I/C)ECHIQUIER WORLD EQUITY GROWTH FUND K EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU0969069946/LU0969069946__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/FACSHT-FR-BE-LU0969069946.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/LU0969069946/LU0969069946__KID_FR_2026-05-22.pdf",
+   "url": "https://cdn.lfde.com/upload/documents/KIDDOC-FR-BE-LU0969069946.pdf",
+   "source": "lfde.com (gestionnaire)",
+   "date": "2026-05-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Source LFDE : cdn.lfde.com/upload/documents/FACSHT-FR-BE-<ISIN>.pdf et KIDDOC-FR-BE-<ISIN>.pdf."
+ }
+]

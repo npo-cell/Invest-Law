@@ -1,0 +1,704 @@
+[
+ {
+  "n": 31,
+  "isin": "LU0996182563",
+  "nom": "(I/C)AMUNDI INDEX MSCI WORLD AE-C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0996182563/LU0996182563__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/9708f44e45b0b5ed18a103fbbfb87570_1648716/MR_LU_fr_LU0996182563_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0996182563/LU0996182563__KID_FR_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/d979dd13ed4e83272ed75fb0c0705a69_212668/PRP_BE_fr_LU0996182563_YES_2026-04-28.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site amundi.lu refuse les requêtes automatisées (HTTP 412) : documents via fundinfo."
+ },
+ {
+  "n": 32,
+  "isin": "BE6300962360",
+  "nom": "(I/C)APHILION Q2 SICAV-EQUITIES B CAP EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/APHILION/BE6300962360/BE6300962360__KID_FR_2026-03-31.pdf",
+   "url": "https://www.aphilion.com/Q2/KIDS/Aphilion%20Q%C2%B2%20Equities%20B%20KID%20FR.pdf",
+   "source": "site du gestionnaire (aphilion.com)",
+   "date": "2026-03-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Absent de fundinfo. KID B FR (production 31/03/2026) sur aphilion.com/Q2/KIDS/. Pas de reporting mensuel publié sur aphilion.com (seuls prospectus, KID, rapports annuels/semestriels, perf. passées)."
+ },
+ {
+  "n": 33,
+  "isin": "LU1846577168",
+  "nom": "(I/C)ARTEMIS SMARTGARP GLOB EM I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1846577168/LU1846577168__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/79e6d21f157df2b9a3e5557d8147b324_502011/MR_BE_en_LU1846577168_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1846577168/LU1846577168__KID_FR_2026-08-05.pdf",
+   "url": "https://api.fundinfo.com/document/5fc919862ce66afdb83d410aa2635171_492608/PRP_FR_fr_LU1846577168_YES_2026-08-05.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-05",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet disponible en anglais seulement sur fundinfo (dernière : 31/08/2026, spécifique part I Acc EUR). KID FR via fundinfo."
+ },
+ {
+  "n": 34,
+  "isin": "FR0013334489",
+  "nom": "(I/C)ATHENA GLOBAL DYNAMIC BOND OPPORT IC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0013334489/FR0013334489__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://alienorcapital.com/documents/ATH/Athena%20-%20Global%20Dynamic%20Bond%20Opportunities%20-%20Reporting.pdf",
+   "source": "site du gestionnaire (alienorcapital.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0013334489/FR0013334489__KID_FR_2026-06-18.pdf",
+   "url": "https://alienorcapital.com/documents/ATH/Athena%20Global%20Dynamic%20Bond%20Opportunities%20Part%20IC%20DIC%20FR0013334489.pdf",
+   "source": "site du gestionnaire (alienorcapital.com)",
+   "date": "2026-06-18",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Absent de fundinfo. Documents sur alienorcapital.com (connexions parfois réinitialisées, réessayer). Reporting mensuel commun aux parts AC/BC/BD/IC, performances de la part IC affichées et ISIN IC listé."
+ },
+ {
+  "n": 35,
+  "isin": "LU0087657408",
+  "nom": "(I/C)AXA WF FRAMLINGTON SWITZERLAND F CHF",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657408/LU0087657408__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/3392b373f4dcdd00c291f3a331b47a9b_348206/MR_FR_fr_LU0087657408_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657408/LU0087657408__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/09226d3e7dec659b23e3c93e3d98dd18_250702/PRP_BE_fr_LU0087657408_YES_2026-02-19.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via fundinfo (factsheet FR au 30/09/2026, couvre parts F C/D)."
+ },
+ {
+  "n": 36,
+  "isin": "LU1005243503",
+  "nom": "(I/C)BGF FIXED INCOME GLOBAL OPP D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/9a94846965b6c69add8a48cf19e41625_258523/MR_FR_fr_LU1005243503_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__KID_FR_2026-08-14.pdf",
+   "url": "https://api.fundinfo.com/document/896af0aee53fc0a1cb43473ad6a12e01_123369/PRP_BE_fr_LU1005243503_YES_2026-08-14.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-14",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 37,
+  "isin": "LU0329592538",
+  "nom": "(I/C)BGF GLOBAL ALLOCATION D2 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/ef2050389dba7fd8e54bc23d2972c61e_279698/MR_BE_fr_LU0329592538_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__KID_FR_2026-09-17.pdf",
+   "url": "https://api.fundinfo.com/document/2569f11bb5237771807a2e0658563df5_124220/PRP_BE_fr_LU0329592538_YES_2026-09-17.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 38,
+  "isin": "LU0252968424",
+  "nom": "(I/C)BGF WORLD GOLD D2 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/56bed376528527fe861beae6ccecba7c_324821/MR_BE_fr_LU0252968424_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/7a0ae6a15f6410845f175356295e0a8c_123133/PRP_BE_fr_LU0252968424_YES_2026-04-29.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 39,
+  "isin": "LU0827889485",
+  "nom": "(I/C)BGF WORLD HEALTHSCIENCE FUND D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/9e3d34d8bc43d5cd10dd8882ba846c03_405298/MR_BE_fr_LU0827889485_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/9e8f1ca60b95c9af41125f43c2d472e8_123451/PRP_BE_fr_LU0827889485_YES_2026-04-29.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 40,
+  "isin": "LU0252963383",
+  "nom": "(I/C)BGF WORLD MINING FUND D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/a0b3eda7a61912134d6526f0abe63255_385897/MR_BE_fr_LU0252963383_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/d18c6cb0d788b628425cad3a341126ee_123116/PRP_BE_fr_LU0252963383_YES_2026-04-29.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 41,
+  "isin": "LU0376438312",
+  "nom": "(I/C)BGF WORLD TECHNOLOGY FUND D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/59a69340ff2098bf8a6a12f10c917e9f_582297/MR_FR_fr_LU0376438312_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/ac54c0540320ef216f5c5bdf7abba49a_123299/PRP_BE_fr_LU0376438312_YES_2026-04-29.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 42,
+  "isin": "LU0495651787",
+  "nom": "(I/C)BL GLOBAL 30 BI EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0495651787/LU0495651787__KID_FR_2026-02-06.pdf",
+   "url": "https://api.fundinfo.com/document/0c27cf1da00b1fd9921d793f2aa6cd5f_82506/PRP_LU_fr_LU0495651787_YES_2026-02-06.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL Global 30), pas pour la classe BI -> non retenue."
+ },
+ {
+  "n": 43,
+  "isin": "LU0439765164",
+  "nom": "(I/C)BL GLOBAL EQUITIES BI EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0439765164/LU0439765164__KID_FR_2026-02-06.pdf",
+   "url": "https://api.fundinfo.com/document/5be3f7fd92f9eb7abbd1e2e6ca1f98ee_82464/PRP_LU_fr_LU0439765164_YES_2026-02-06.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL Global Equities), pas pour la classe BI -> non retenue."
+ },
+ {
+  "n": 44,
+  "isin": "LU1484763815",
+  "nom": "(I/C)BL-AMERICAN SMALL & MID CAPS BI USD",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU1484763815/LU1484763815__KID_FR_2026-02-06.pdf",
+   "url": "https://api.fundinfo.com/document/60f22172ff396db20a4322253c2cc1c3_81397/PRP_LU_fr_LU1484763815_YES_2026-02-06.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL American Small & Mid Caps), pas pour la classe BI -> non retenue."
+ },
+ {
+  "n": 45,
+  "isin": "LU0379366346",
+  "nom": "(I/C)BL-GLOBAL FLEXIBLE BI EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0379366346/LU0379366346__KID_FR_2026-02-06.pdf",
+   "url": "https://api.fundinfo.com/document/e83134120c142a6a83e061d9ffd220a2_81610/PRP_LU_fr_LU0379366346_YES_2026-02-06.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL Global Flexible EUR), pas pour la classe BI -> non retenue."
+ },
+ {
+  "n": 46,
+  "isin": "LU0473185139",
+  "nom": "(I/C)BLACKROCK ESG MULTI ASSET D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/e38fe0671e587a30cc67fd4e3db0a1f5_215533/MR_FR_fr_LU0473185139_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__KID_FR_2026-04-22.pdf",
+   "url": "https://api.fundinfo.com/document/2dd6aa1ce588044b6e093dc2f5fd42e1_123502/PRP_BE_fr_LU0473185139_YES_2026-04-22.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 47,
+  "isin": "LU0252969075",
+  "nom": "(I/C)BLACKROCK GLOBAL FUNDS WORLD ENERGY D2 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/2e798a9a00a11f4602556a98f7c31d14_409110/MR_FR_fr_LU0252969075_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/27979d3a383967ee356221b14f13e5be_122955/PRP_BE_fr_LU0252969075_YES_2026-04-29.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
+ },
+ {
+  "n": 48,
+  "isin": "LU1304596841",
+  "nom": "(I/C)BLACKROCK SF MYMAP PLUS GROWTH D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596841/LU1304596841__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/1031a8148c2b792b7736e9e78b91cde4_322382/MR_LU_en_LU1304596841_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true,
+   "autres_fichiers": [
+    "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596841/LU1304596841__Factsheet_FR_2026-08-31.pdf"
+   ]
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596841/LU1304596841__KID_FR_2026-05-26.pdf",
+   "url": "https://api.fundinfo.com/document/f9ead95a1bdbcf06d2e316454dfac8d2_124269/PRP_LU_fr_LU1304596841_YES_2026-05-26.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-05-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers)."
+ },
+ {
+  "n": 49,
+  "isin": "LU1304596684",
+  "nom": "(I/C)BLACKROCK SF MYMAP PLUS MODERATE D2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596684/LU1304596684__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/0ce89b5e94b108536bd2bb458226cc9e_322514/MR_LU_en_LU1304596684_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true,
+   "autres_fichiers": [
+    "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596684/LU1304596684__Factsheet_FR_2026-08-31.pdf"
+   ]
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596684/LU1304596684__KID_FR_2026-05-26.pdf",
+   "url": "https://api.fundinfo.com/document/2bc6e7c5179787102e308ccafcd1d2e8_124087/PRP_LU_fr_LU1304596684_YES_2026-05-26.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-05-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers)."
+ },
+ {
+  "n": 50,
+  "isin": "IE00BJM0B852",
+  "nom": "(I/C)BLUE WHALE GROWTH FUND T EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LINK_FUND_MANAGER_SOLUTIONS_IRELAND_LTD/IE00BJM0B852/IE00BJM0B852__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://docs.bluewhale.co.uk/fund/icav/blue-whale-growth-fund-factsheet-eur.pdf",
+   "source": "site du gestionnaire (bluewhale.co.uk/global/eu)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LINK_FUND_MANAGER_SOLUTIONS_IRELAND_LTD/IE00BJM0B852/IE00BJM0B852__KID_FR_2026-04-23.pdf",
+   "url": "https://api.fundinfo.com/document/7ced3b511db4b98fd91fdd5c723cccfc_104705/PRP_BE_fr_IE00BJM0B852_YES_2026-04-23.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-23",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet EUR du fonds (données au 30/09/2026, anglais uniquement) sur bluewhale.co.uk/global/eu : couvre toutes les parts, ISIN T EUR listé avec ses frais (1,24 %) ; performances = 'Blue Whale Strategy' composite, pas spécifiques à la part T. KID FR pris sur fundinfo (le site ne propose le KID qu'en EN/DE/ES/PT)."
+ },
+ {
+  "n": 51,
+  "isin": "LU1962513328",
+  "nom": "(I/C)CANDRIAM ABS RETURN EM NEUTRAL I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1962513328/LU1962513328__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8cc8386c4cf9c9a842c4a6d5d4bb0780_514967/MR_LU_fr_LU1962513328_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1962513328/LU1962513328__KID_FR_2026-02-18.pdf",
+   "url": "https://api.fundinfo.com/document/77ba9a51d4ae91fdec0529ea9ad06d45_335298/PRP_LU_fr_LU1962513328_YES_2026-02-18.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-18",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
+ },
+ {
+  "n": 52,
+  "isin": "LU1797472195",
+  "nom": "(I/C)CANDRIAM L MULTI-ASSET PREMIA PI EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1797472195/LU1797472195__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/79e9b750f17a0d8b2daf37c04d9efddd_429069/MR_LU_fr_LU1797472195_RES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1797472195/LU1797472195__KID_FR_2026-02-18.pdf",
+   "url": "https://api.fundinfo.com/document/61147f34e9b2ccd0e17efca79806a757_334639/PRP_LU_fr_LU1797472195_YES_2026-02-18.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-18",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via fundinfo ; factsheet FR la plus récente : 31/08/2026."
+ },
+ {
+  "n": 53,
+  "isin": "LU0206982331",
+  "nom": "(I/C)CANDRIAM MONEY MARKET EURO I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0206982331/LU0206982331__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/7fdc8a7b41640244ccf974e39c4efe41_738416/MR_LU_fr_LU0206982331_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0206982331/LU0206982331__KID_FR_2026-04-03.pdf",
+   "url": "https://api.fundinfo.com/document/2c1a52cb0a1d0d6409ad6db5822adfb4_313203/PRP_LU_fr_LU0206982331_YES_2026-04-03.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
+ },
+ {
+  "n": 54,
+  "isin": "LU0206982414",
+  "nom": "(I/C)CANDRIAM MONEY MARKET I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0206982414/LU0206982414__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/be38e54f65952f3592cdb26ff261c471_931506/MR_LU_fr_LU0206982414_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0206982414/LU0206982414__KID_FR_2026-04-03.pdf",
+   "url": "https://api.fundinfo.com/document/dd6a0ba2aa91d6c55b3f2d2831c3c2b8_318887/PRP_LU_fr_LU0206982414_YES_2026-04-03.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-04-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
+ },
+ {
+  "n": 55,
+  "isin": "LU0936337848",
+  "nom": "(I/C)CANDRIAM MONEY MARKET R EURO",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0936337848/LU0936337848__KID_FR_2026-10-13.pdf",
+   "url": "https://api.fundinfo.com/document/12fdf219a342bc04a7fdf6e6563abf2c_478754/PRP_BE_fr_LU0936337848_YES_2026-10-13.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-10-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR (13/10/2026) via fundinfo. Factsheet : aucun MR pour la classe R sur fundinfo (seulement classes I) ; site candriam.com inaccessible en direct (redirections vers sélection de profil)."
+ },
+ {
+  "n": 56,
+  "isin": "LU1434524259",
+  "nom": "(I/C)CANDRIAM SUSTAINABLE EQUITY EM I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1434524259/LU1434524259__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/a0a4f7752f9ad3f5cb9b876ddc5e231a_1874675/MR_LU_fr_LU1434524259_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1434524259/LU1434524259__KID_FR_2026-02-18.pdf",
+   "url": "https://api.fundinfo.com/document/3161b59057fe690c1c310ae9143a0679_335041/PRP_LU_fr_LU1434524259_YES_2026-02-18.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-02-18",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
+ },
+ {
+  "n": 57,
+  "isin": "LU1006079997",
+  "nom": "(I/C)CAPITAL GROUP GLOBAL ALLOCATION FUND Z EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/5ba26ddfd0bcae319e4378dfdc5a822a_277659/MR_LU_fr_LU1006079997_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__KID_FR_2026-08-21.pdf",
+   "url": "https://api.fundinfo.com/document/39c225b30ca13832ed69115926e96782_52949/PRP_BE_fr_LU1006079997_YES_2026-08-21.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via fundinfo ; factsheet FR la plus récente : 31/08/2026."
+ },
+ {
+  "n": 58,
+  "isin": "LU1295554833",
+  "nom": "(I/C)CAPITAL GROUP NEW PERSPECTIVE FUND Z EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/2755cfd0f364b23874527b49ad97cdff_361757/MR_BE_fr_LU1295554833_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__KID_FR_2026-10-05.pdf",
+   "url": "https://api.fundinfo.com/document/9865fbcaf090b4b4ab8da09b44af292e_53060/PRP_BE_fr_LU1295554833_YES_2026-10-05.pdf",
+   "source": "fundinfo (api.fundinfo.com)",
+   "date": "2026-10-05",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via fundinfo ; factsheet FR la plus récente : 31/08/2026."
+ },
+ {
+  "n": 59,
+  "isin": "LU0617431035",
+  "nom": "(I/C)CAPITALATWORK FOYER UMBRELLA - BALANCED C EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAPITALATWORK_FOYER_GROUP_S_A/LU0617431035/LU0617431035__KID_FR_2026-03-20.pdf",
+   "url": "https://www.capitalatwork.com/sicav/documents/KID_BLCD_C_LU0617431035_FR.pdf",
+   "source": "site du gestionnaire (capitalatwork.com)",
+   "date": "2026-03-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR (exact au 20/03/2026) sur capitalatwork.com/fr-be/nos-fonds/. Factsheet : aucun reporting mensuel publié sur capitalatwork.com (seulement KID, prospectus, rapports annuels/semestriels) ni sur fundinfo."
+ }
+]

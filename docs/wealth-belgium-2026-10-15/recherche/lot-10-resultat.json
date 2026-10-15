@@ -1,0 +1,698 @@
+[
+ {
+  "n": 263,
+  "isin": "LU0386875149",
+  "nom": "(I/C)PICTET-GLOBAL MEGATREND SELECTION I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386875149/LU0386875149__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c02da5a74cb4a34a0ded326077bff5c3_477305/MR_BE_fr_LU0386875149_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386875149/LU0386875149__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/ce38fb5279a2b6daa70bca7082c1f2a6_148248/PRP_BE_fr_LU0386875149_YES_2026-06-19.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 264,
+  "isin": "LU0270904351",
+  "nom": "(I/C)PICTET-SECURITY I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904351/LU0270904351__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6bb9b9ceccd7d511d49ea63aa98b6717_474929/MR_BE_fr_LU0270904351_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904351/LU0270904351__KID_FR_2026-09-17.pdf",
+   "url": "https://api.fundinfo.com/document/34378e4ca8f68185437728e6a9130fb3_148064/PRP_BE_fr_LU0270904351_YES_2026-09-17.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 265,
+  "isin": "IE00B1JC0H05",
+  "nom": "(I/C)PIMCO GIS DIVERSIFIED INCOME FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e1787bd7a94a8d5fcec29fcafb9133bd_276885/MR_BE_en_IE00B1JC0H05_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/4839a045b32ab29c1f9617b9c99bf1f5_212751/PRP_BE_fr_IE00B1JC0H05_YES_2026-04-29.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet PIMCO uniquement en anglais (pas de version FR sur fundinfo)."
+ },
+ {
+  "n": 266,
+  "isin": "IE00B3V8Y234",
+  "nom": "(I/C)PIMCO GIS EURO INCOME BOND FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4025a697049c9c0f1ffa2e336b1bcaeb_292731/MR_BE_en_IE00B3V8Y234_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/3807f6d2cb027c96d67caaf495e1356b_117398/PRP_BE_fr_IE00B3V8Y234_YES_2026-09-21.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet PIMCO uniquement en anglais (pas de version FR sur fundinfo)."
+ },
+ {
+  "n": 267,
+  "isin": "LU2376225616",
+  "nom": "(I/C)PTAM DEFENSIVE PORTFOLIO I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__Factsheet_EN_2026-10-14.pdf",
+   "url": "https://api.fundinfo.com/document/582f28d1e497ffb3e7529cf1a502be00_324561/MR_BE_en_LU2376225616_RES_2026-10-14.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-10-14",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__KID_FR_2026-01-16.pdf",
+   "url": "https://api.fundinfo.com/document/044fee783382c45fe0b3810e9eb9a7fc_324760/PRP_BE_fr_LU2376225616_YES_2026-01-16.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-01-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet uniquement en anglais (rapport au 14/10/2026, mis à jour en continu). Nom officiel : PTAM Defensiv Portfolio I."
+ },
+ {
+  "n": 268,
+  "isin": "DE000A3CNGJ9",
+  "nom": "(I/C)PTAM GLOBAL ALLOCATION I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A3CNGJ9/DE000A3CNGJ9__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/bad1130c980a970373d0edd9ef501886_121370/MR_BE_en_DE000A3CNGJ9_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A3CNGJ9/DE000A3CNGJ9__KID_FR_2026-01-24.pdf",
+   "url": "https://api.fundinfo.com/document/c666477a986bcceaebad5924c9f98df3_225556/PRP_BE_fr_DE000A3CNGJ9_YES_2026-01-24.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-01-24",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet en anglais (FR inexistante). KID FR daté 24/01/2026 ; une version allemande plus récente (25/08/2026) existe mais langue exclue."
+ },
+ {
+  "n": 269,
+  "isin": "LU1692844589",
+  "nom": "(I/C)QUALION FIN INV SICAV ALLROAD EQUITY AI EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/QUALION_FINANCE/LU1692844589/LU1692844589__KID_EN_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/2b9d84fe2f73b5a4d589fc6f362846db_183854/PRP_LU_en_LU1692844589_YES_2026-04-28.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers LU-prof)",
+   "date": "2026-04-28",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": "Pas de factsheet sur fundinfo ni sur un site officiel trouvé (site Qualion inaccessible). KID uniquement en anglais (fundinfo LU), pas de FR."
+ },
+ {
+  "n": 270,
+  "isin": "LU2733090042",
+  "nom": "(I/C)QUALION FIN INV SICAV ALLROAD RESP AI EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Part inconnue de fundinfo (seules les parts AR LU2733089978, DR LU2733090125, DI LU2733090398 du compartiment Allroad Responsible Investment y figurent) ; aucune trace web de l'ISIN. Rien pris (autre part interdite)."
+ },
+ {
+  "n": 271,
+  "isin": "LU0952275542",
+  "nom": "(I/C)QUALION FINANCE INV ALLROAD BOND EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/QUALION_FINANCE/LU0952275542/LU0952275542__KID_FR_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/8dc611795ef616b2ba3954213029011c_206237/PRP_BE_fr_LU0952275542_YES_2026-04-28.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Pas de factsheet trouvée (fundinfo n'a que KID, scénarios de performance KMS, prospectus ; site Qualion inaccessible). KID FR = part AR, ISIN exact."
+ },
+ {
+  "n": 272,
+  "isin": "LU2595720298",
+  "nom": "(I/C)QUALION FINANCE INV SICAV ALLROAD BAL EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/QUALION_FINANCE/LU2595720298/LU2595720298__KID_FR_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/6eed992cce8601dcada6fbea88c2ca92_205250/PRP_BE_fr_LU2595720298_YES_2026-04-28.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Pas de factsheet trouvée (fundinfo : KID, KMS, prospectus seulement). KID FR = part AR, ISIN exact."
+ },
+ {
+  "n": 273,
+  "isin": "LU0508821286",
+  "nom": "(I/C)QUALION FINANCE INV SICAV ALLROAD CONSERV EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/QUALION_FINANCE/LU0508821286/LU0508821286__KID_FR_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/bf19aa6eccf645797bb5c4c3af501864_206221/PRP_BE_fr_LU0508821286_YES_2026-04-28.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Pas de factsheet trouvée (fundinfo : KID, KMS, prospectus seulement). KID FR = part AR, ISIN exact."
+ },
+ {
+  "n": 274,
+  "isin": "FR0011845692",
+  "nom": "(I/C)R-CO CLUB P EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011845692/FR0011845692__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/7bf5b4bb6c37732bf47fc7c1ff698c59_721840/MR_BE_fr_FR0011845692_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011845692/FR0011845692__KID_FR_2026-02-20.pdf",
+   "url": "https://api.fundinfo.com/document/040b5358579194fd654cae3036b3a078_170811/PRP_BE_fr_FR0011845692_YES_2026-02-20.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-02-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds renommé R-co Conviction Club."
+ },
+ {
+  "n": 275,
+  "isin": "FR001400SEE5",
+  "nom": "(I/C)R-CO TARGET 2029 HY P EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/cda3c488d7c98c01cfea58beaa8bb000_369470/MR_BE_fr_FR001400SEE5_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__KID_FR_2026-02-20.pdf",
+   "url": "https://api.fundinfo.com/document/fae964a390ca88c4de17752be522a267_172351/PRP_BE_fr_FR001400SEE5_YES_2026-02-20.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-02-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 276,
+  "isin": "FR0014011WD9",
+  "nom": "(I/C)R-CO TARGET 2032 IG P2 EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/852bf3d44d46e0c19c7071d52acaf44d_368488/MR_BE_fr_FR0014011WD9_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__KID_FR_2026-06-12.pdf",
+   "url": "https://api.fundinfo.com/document/6767231fe7090e6d896aaa9debeef920_129498/PRP_BE_fr_FR0014011WD9_YES_2026-06-12.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-06-12",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 277,
+  "isin": "FR0014008MC8",
+  "nom": "(I/C)R-CO THEMATIC BLOCKCHAIN GLOBAL EQUITY P EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014008MC8/FR0014008MC8__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6ca74577f1c0d7cdc7bd3c4abcc842ba_387519/MR_BE_fr_FR0014008MC8_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014008MC8/FR0014008MC8__KID_FR_2026-03-01.pdf",
+   "url": "https://api.fundinfo.com/document/c72373635ba1e96d306fba91f7bb0ef5_172690/PRP_BE_fr_FR0014008MC8_YES_2026-03-01.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-03-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 278,
+  "isin": "FR0013367299",
+  "nom": "(I/C)R-CO VALOR BALANCED P EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/130a3dc5f30a8c250a01fae1319acaea_675740/MR_BE_fr_FR0013367299_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__KID_FR_2026-02-20.pdf",
+   "url": "https://api.fundinfo.com/document/eda61c52ce48343f3f4623d17ae6f50a_168523/PRP_BE_fr_FR0013367299_YES_2026-02-20.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-02-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 279,
+  "isin": "FR0011847409",
+  "nom": "(I/C)R-CO VALOR P EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/45d49263a9e98fe61e2e542d0e60ac0a_579211/MR_BE_fr_FR0011847409_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/a0e59de4dee8d2167ecac52e3e4b4bce_169526/PRP_BE_fr_FR0011847409_YES_2026-02-16.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR la plus récente = août 2026 ; une version EN de septembre 2026 existe sur fundinfo (non retenue, FR prioritaire)."
+ },
+ {
+  "n": 280,
+  "isin": "FR0012406213",
+  "nom": "(I/C)R-CO VALOR P USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0012406213/FR0012406213__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/15e920d9b3afe2e9838433a2588b6fe2_582250/MR_FR_fr_FR0012406213_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0012406213/FR0012406213__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/3490ee2a0c381146e9fb7ee3759d5674_168937/PRP_FR_fr_FR0012406213_YES_2026-02-16.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents publiés sur fundinfo FR (part non enregistrée en Belgique)."
+ },
+ {
+  "n": 281,
+  "isin": "LU1208675808",
+  "nom": "(I/C)ROBECO BP GLOBAL PREMIUM EQUITIES F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU1208675808/LU1208675808__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/3134e308beade1e87c2cab89cc8b3672_423520/MR_BE_fr_LU1208675808_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU1208675808/LU1208675808__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/c9faebff5746d6ced53107932240510b_241807/PRP_BE_fr_LU1208675808_YES_2026-04-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 282,
+  "isin": "LU0792910480",
+  "nom": "(I/C)ROBECO CAPITAL GROWTH NW FIN F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0792910480/LU0792910480__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/01b78e63a64d956c59606273fbd7a24d_515051/MR_BE_fr_LU0792910480_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0792910480/LU0792910480__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/d6008ac1df6e2406a2ac00456153ad61_243484/PRP_BE_fr_LU0792910480_YES_2026-04-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 283,
+  "isin": "LU0209325462",
+  "nom": "(I/C)ROBECO EMERGING MARKETS EQUITIES I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0209325462/LU0209325462__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/184c474e38fee54a40e1c626ebd7dccc_515691/MR_FR_fr_LU0209325462_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0209325462/LU0209325462__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/2f475a0f6cb686af148c0862ac790cff_242231/PRP_FR_fr_LU0209325462_YES_2026-04-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents FR trouvés via fundinfo FR-prof (absents en BE)."
+ },
+ {
+  "n": 284,
+  "isin": "LU0871827464",
+  "nom": "(I/C)ROBECO GLOBAL CONSUMER TRENDS EQUITIES F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0871827464/LU0871827464__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d5d2bb0fc3ad2ec3d9a41a26a38fc792_512866/MR_BE_fr_LU0871827464_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0871827464/LU0871827464__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/e5f6b86ceea109dd595dee4a9b2541d9_243143/PRP_BE_fr_LU0871827464_YES_2026-04-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 285,
+  "isin": "LU0792910563",
+  "nom": "(I/C)ROBECO HIGH YIELD BONDS FH EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0792910563/LU0792910563__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e1ad71d72654fc9497b861b194060dd7_526059/MR_BE_fr_LU0792910563_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0792910563/LU0792910563__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/e876b562173fbd3b74508ca6cecaf956_242621/PRP_BE_fr_LU0792910563_YES_2026-04-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 286,
+  "isin": "LU0971565493",
+  "nom": "(I/C)ROBECO INDIAN EQUITIES F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0971565493/LU0971565493__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/db8a8a8fd9475e44db8a090ddca73e78_508668/MR_BE_fr_LU0971565493_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0971565493/LU0971565493__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/ffafc109c933353f666c4f6a43f88e13_241577/PRP_BE_fr_LU0971565493_YES_2026-04-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 287,
+  "isin": "LU2145462300",
+  "nom": "(I/C)ROBECO SMART ENERGY EQUITIES F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU2145462300/LU2145462300__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4593cac8110db2af8b51f673a6480cfa_533506/MR_BE_fr_LU2145462300_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU2145462300/LU2145462300__KID_FR_2026-07-16.pdf",
+   "url": "https://api.fundinfo.com/document/b1ec636b425b157a76fdb30516cafb69_221681/PRP_BE_fr_LU2145462300_YES_2026-07-16.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-07-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 288,
+  "isin": "LU2146192377",
+  "nom": "(I/C)ROBECO SUSTAINABLE WATER EQUITIES I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU2146192377/LU2146192377__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d0875e4174103460bb69239e530c7621_534179/MR_BE_fr_LU2146192377_RES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU2146192377/LU2146192377__KID_FR_2026-07-16.pdf",
+   "url": "https://api.fundinfo.com/document/61a8b49fb9f87f56321d99a1add1428c_222416/PRP_BE_fr_LU2146192377_YES_2026-07-16.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-07-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 289,
+  "isin": "LU0638557669",
+  "nom": "(I/C)RUFFER TOTAL RETURN INTERNATIONAL C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU0638557669/LU0638557669__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://www.ruffer.co.uk/-/media/ruffer-website/files/fund-reports/rtri/c-class/2026/2026-09-rtri-c-class-fund-report-sep2026.pdf",
+   "source": "Ruffer LLP (ruffer.co.uk, site du gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU0638557669/LU0638557669__KID_FR_2026-03-05.pdf",
+   "url": "https://api.fundinfo.com/document/2282259a9e7722cb24fb2ee915f44e4c_140592/PRP_BE_fr_LU0638557669_YES_2026-03-05.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
+   "date": "2026-03-05",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet = reporting mensuel classe C (liste toutes les parts C, dont C EUR cap LU0638557669, perf. en EUR). Version FR sur ruffer.co.uk seulement jusqu'à mai 2026 -> EN de septembre retenue. Pas de factsheet sur fundinfo."
+ },
+ {
+  "n": 290,
+  "isin": "LU0244355391",
+  "nom": "(I/C)SCHRODER INT SELECT FND CHINA OPP ACC C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0244355391/LU0244355391__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/b390673a58cfa426d19e4a0c96cb7007_384425/MR_FR_fr_LU0244355391_RES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0244355391/LU0244355391__KID_FR_2026-07-28.pdf",
+   "url": "https://api.fundinfo.com/document/c95aac3ce32e8022959519f78a32e1ca_170222/PRP_FR_fr_LU0244355391_YES_2026-07-28.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-07-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR au 31/08/2026 (fundinfo FR-prof ; pas de septembre publiée). Documents absents de fundinfo BE."
+ },
+ {
+  "n": 291,
+  "isin": "LU2016063229",
+  "nom": "(I/C)SCHRODER ISF GLOBAL ENERGY TRANSITION C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2016063229/LU2016063229__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/e82eca982c9696b1a53d992d2fef5ecc_451735/MR_FR_fr_LU2016063229_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2016063229/LU2016063229__KID_FR_2026-09-29.pdf",
+   "url": "https://api.fundinfo.com/document/91b63bb1cd5e29a5829cf0ee0983fb04_175195/PRP_FR_fr_LU2016063229_YES_2026-09-29.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Le fonds a été renommé le 21/05/2025 : Schroder ISF Global Energy Transition -> Global Alternative Energy (même ISIN). Factsheet FR au 31/08/2026 (fundinfo FR-prof)."
+ }
+]

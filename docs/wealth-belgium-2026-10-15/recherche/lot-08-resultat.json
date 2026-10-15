@@ -1,0 +1,698 @@
+[
+ {
+  "n": 205,
+  "isin": "IE00BMXDB625",
+  "nom": "(I/C)LIONTRUST GF SUST FUTURE MULTI ASSET EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LIONTRUST_INVESTMENT_PARTNERS_LLP/IE00BMXDB625/IE00BMXDB625__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/85d856bd3e4d3055ba880853f49e7d27_251153/MR_GB_en_IE00BMXDB625_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (GB)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LIONTRUST_INVESTMENT_PARTNERS_LLP/IE00BMXDB625/IE00BMXDB625__KID_FR_2026-04-08.pdf",
+   "url": "https://api.fundinfo.com/document/148021c91ba82a89a424b9ccea29cf79_241065/PRP_FR_fr_IE00BMXDB625_YES_2026-04-08.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-04-08",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet uniquement en anglais (fundinfo GB, 30/09/2026) ; KID FR (fundinfo FR)."
+ },
+ {
+  "n": 206,
+  "isin": "LU2596536818",
+  "nom": "(I/C)LOOMIS SAYLES GL ALLOCATION FD N/A I EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU2596536818/LU2596536818__KID_FR_2025-08-29.pdf",
+   "url": "https://api.fundinfo.com/document/431a9045e4e11cf8ec56a2e052ce196d_111839/PRP_BE_fr_LU2596536818_YES_2025-08-29.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2025-08-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : fundinfo (BE/LU/FR/CH/NL) ne publie pas de reporting mensuel pour cette part N/A ; site im.natixis.com sans page exploitable (404). KID FR fundinfo BE daté 29/08/2025 = plus récent disponible."
+ },
+ {
+  "n": 207,
+  "isin": "LU1670618260",
+  "nom": "(I/C)M&G (LUX) ASIAN FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670618260/LU1670618260__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c5b484c28819e8bd1461e748c1abb46d_117980/MR_CH_fr_LU1670618260_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (CH, version C de la part)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670618260/LU1670618260__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/35157fb0de9fb04778aaaf2750efaca6_54305/PRP_BE_fr_LU1670618260_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet propre à la Catégorie C (version suisse FR sur fundinfo CH) ; les MR des autres univers fundinfo sont en fait la factsheet Catégorie A (LU1670618187), rejetés."
+ },
+ {
+  "n": 208,
+  "isin": "LU1582988488",
+  "nom": "(I/C)M&G (LUX) DYNAMIC ALLOCATION C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1582988488/LU1582988488__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/b75dd240f5e772b4b4e204064e6a29aa_121010/MR_CH_fr_LU1582988488_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (CH, version C de la part)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1582988488/LU1582988488__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/9e89d5e25dc5ef9f890d32c001abc521_54857/PRP_BE_fr_LU1582988488_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Idem : factsheet Catégorie C (fundinfo CH FR) ; versions LU/FR/IE = Catégorie A rejetées."
+ },
+ {
+  "n": 209,
+  "isin": "LU1670631958",
+  "nom": "(I/C)M&G (LUX) EMERGING MARKETS BOND FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670631958/LU1670631958__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/05c7b2ff6334981338560e221334300d_135798/MR_FR_fr_LU1670631958_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670631958/LU1670631958__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/0cf5ae31b6707e136417a7290d45638d_54933/PRP_BE_fr_LU1670631958_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie C vérifiée (ISIN en en-tête)."
+ },
+ {
+  "n": 210,
+  "isin": "LU3149167275",
+  "nom": "(I/C)M&G (LUX) EPISODE MACRO FUND C EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3149167275/LU3149167275__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/5e2521c193e62d27feaa976eb78d13d6_53640/PRP_BE_fr_LU3149167275_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : le seul MR fundinfo rattaché à cet ISIN est celui de la part S-H (LU1670714226), rejeté. docs.mandg.com injoignable depuis l'environnement ; site M&G charge les documents en JS (Kurtosys)."
+ },
+ {
+  "n": 211,
+  "isin": "LU1670707873",
+  "nom": "(I/C)M&G (LUX) EUROPEAN STRATEGIC VALUE FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670707873/LU1670707873__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/20648a61ea3c8f3aca6dba46876a9fb4_114896/MR_CH_fr_LU1670707873_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (CH, version C de la part)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670707873/LU1670707873__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/b0ab1f73a80bd285cd5ff0b761af819d_54205/PRP_BE_fr_LU1670707873_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie C (fundinfo CH FR) ; versions LU/FR = Catégorie A rejetées."
+ },
+ {
+  "n": 212,
+  "isin": "LU2813324576",
+  "nom": "(I/C)M&G (LUX) FIXED MATURITY BD FUND 4 EUR (FMB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2813324576/LU2813324576__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/71641d1dfba033239b54486f2159398c_55560/PRP_BE_fr_LU2813324576_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : MR fundinfo rattaché = Catégorie W LU2832213933 (autre part), rejeté. docs.mandg.com injoignable."
+ },
+ {
+  "n": 213,
+  "isin": "LU3249705172",
+  "nom": "(I/C)M&G (LUX) FMB HIGH YIELD FND 2031 W EUR (FMB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3249705172/LU3249705172__KID_FR_2026-08-17.pdf",
+   "url": "https://api.fundinfo.com/document/9ca12af36c084d54d3ff0786641e1e1e_55870/PRP_BE_fr_LU3249705172_YES_2026-08-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-08-17",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : aucun MR sur fundinfo (fonds récent) ; docs.mandg.com injoignable."
+ },
+ {
+  "n": 214,
+  "isin": "LU1670624318",
+  "nom": "(I/C)M&G (LUX) GLOBAL EMERGING MARKETS C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670624318/LU1670624318__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/d5d499ee89ae26c97b9936cf22495fcb_110824/MR_CH_fr_LU1670624318_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (CH, version C de la part)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670624318/LU1670624318__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/c46ce136be833a4f4e0c856c2f2fb276_54414/PRP_BE_fr_LU1670624318_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie C (fundinfo CH FR) au 31/08/2026, septembre pas encore publié ; versions LU/FR = Catégorie A rejetées."
+ },
+ {
+  "n": 215,
+  "isin": "LU1665237969",
+  "nom": "(I/C)M&G (LUX) GLOBAL LISTED INFRASTRUCTURE C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1665237969/LU1665237969__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8ad84794c60118d080d2304bf578d976_118041/MR_IE_en_LU1665237969_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (IE)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1665237969/LU1665237969__KID_FR_2026-08-14.pdf",
+   "url": "https://api.fundinfo.com/document/253cc5c928b0c9e95061b7e8810067b7_54945/PRP_BE_fr_LU1665237969_YES_2026-08-14.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-08-14",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie C Acc uniquement en anglais (fundinfo IE) ; versions FR = Catégorie A, rejetées."
+ },
+ {
+  "n": 216,
+  "isin": "LU3332967309",
+  "nom": "(I/C)M&G (LUX) GLOBAL STRATEGIC VALUE LI EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3332967309/LU3332967309__KID_FR_2026-05-28.pdf",
+   "url": "https://api.fundinfo.com/document/3ce9eab9fa739916b2224ed7f24bc24c_55103/PRP_BE_fr_LU3332967309_YES_2026-05-28.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-05-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : fonds lancé mi-2026, aucun MR sur fundinfo ; docs.mandg.com injoignable."
+ },
+ {
+  "n": 217,
+  "isin": "LU2509757758",
+  "nom": "(I/C)M&G (LUX) SUSTAINABLE MACRO FLEXIBLE CREDIT",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2509757758/LU2509757758__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/7bc8adb5fa6a2e389fdc481e0028bb70_54812/PRP_BE_fr_LU2509757758_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : MR fundinfo = Catégorie W (LU2509757592), pas notre part WI ; rejeté."
+ },
+ {
+  "n": 218,
+  "isin": "LU1670715546",
+  "nom": "(I/C)M&G GLOBAL SUSTAIN PARIS ALIGNED C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670715546/LU1670715546__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/ece100b1c827d74de97e0e3421905086_1794386/MR_CH_fr_LU1670715546_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (CH, version C de la part)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670715546/LU1670715546__KID_FR_2026-02-16.pdf",
+   "url": "https://api.fundinfo.com/document/7438e3a190e16ad968ed8dae7e5d0bb2_54552/PRP_BE_fr_LU1670715546_YES_2026-02-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-02-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie C (fundinfo CH FR) ; versions LU/FR = Catégorie A rejetées."
+ },
+ {
+  "n": 219,
+  "isin": "LU1670724704",
+  "nom": "(I/C)M&G OPTIMAL INCOME FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670724704/LU1670724704__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/9a74c72799268ee7ff5d167fb87498a9_165383/MR_FR_fr_LU1670724704_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670724704/LU1670724704__KID_FR_2026-04-06.pdf",
+   "url": "https://api.fundinfo.com/document/16b9d877ad858a7a1b873a74f65bb548_54539/PRP_BE_fr_LU1670724704_YES_2026-04-06.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-04-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie C au 31/08/2026 (fundinfo FR), septembre pas encore publié."
+ },
+ {
+  "n": 220,
+  "isin": "LU2377005462",
+  "nom": "(I/C)M&G TOTAL RETURN CREDIT INVESTMENT FUND W EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2377005462/LU2377005462__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/0c160b6dbb48be7b59e187ae6ce6dffc_106706/MR_FR_fr_LU2377005462_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2377005462/LU2377005462__KID_FR_2026-07-29.pdf",
+   "url": "https://api.fundinfo.com/document/9d83933c9ff6bbf6f146965ccf92dbf6_54365/PRP_BE_fr_LU2377005462_YES_2026-07-29.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-07-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Catégorie W au 31/08/2026 (fundinfo FR), notre ISIN en en-tête."
+ },
+ {
+  "n": 221,
+  "isin": "LU1303940941",
+  "nom": "(I/C)MANDARINE EUROPE MICROCAP I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MANDARINE_GESTION/LU1303940941/LU1303940941__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.mandarine-gestion.com/LU/fr/docs/funds/mandarine-europe-microcap/LU1303940941/MR",
+   "source": "mandarine-gestion.com (site du gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MANDARINE_GESTION/LU1303940941/LU1303940941__KID_FR_2026-01-02.pdf",
+   "url": "https://www.mandarine-gestion.com/LU/fr/docs/funds/mandarine-europe-microcap/LU1303940941/KID",
+   "source": "mandarine-gestion.com (site du gestionnaire)",
+   "date": "2026-01-02",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via le site Mandarine (URL /LU/fr/docs/funds/<slug>/<ISIN>/MR et /KID ; slug via GraphQL https://www.mandarine-gestion.com/graphql { funds { slug } })."
+ },
+ {
+  "n": 222,
+  "isin": "LU3302264471",
+  "nom": "(I/C)MANDARINE GLOBAL TARGET 2032 F EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MANDARINE_GESTION/LU3302264471/LU3302264471__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.mandarine-gestion.com/BE/fr/docs/funds/mandarine-global-target-2032/LU3302264471/MR",
+   "source": "mandarine-gestion.com (site du gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MANDARINE_GESTION/LU3302264471/LU3302264471__KID_FR_2026-05-06.pdf",
+   "url": "https://www.mandarine-gestion.com/BE/fr/docs/funds/mandarine-global-target-2032/LU3302264471/KID",
+   "source": "mandarine-gestion.com (site du gestionnaire)",
+   "date": "2026-05-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via le site Mandarine (/BE/fr/docs/funds/mandarine-global-target-2032/LU3302264471/MR et /KID). Absent de fundinfo."
+ },
+ {
+  "n": 223,
+  "isin": "LU0476058226",
+  "nom": "(I/C)MERCLIN II PATRIMONIUM R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VAN_LANSCHOT_KEMPEN_INVESTMENT_MANAGEMENT_NV/LU0476058226/LU0476058226__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://media.merciervanlanschot.be/vanlanschot4698-pocxmcloudb3eb9-prod6714-35ec/media/mercier/pdf/beleggingsfondsen/factsheets/merclin-patrimonium/factsheet-patrimonium-fr.pdf",
+   "source": "merciervanlanschot.be (gestionnaire financier)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VAN_LANSCHOT_KEMPEN_INVESTMENT_MANAGEMENT_NV/LU0476058226/LU0476058226__KID_FR_2026-08-01.pdf",
+   "url": "https://api.fundinfo.com/document/db63661fbd094c8cb1bb9006f8fd5aca_500662/PRP_BE_fr_LU0476058226_YES_2026-08-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-08-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds devenu MercLan Patrimonium (Kempen International Funds) ; factsheet multi-parts au 30/09/2026 couvrant explicitement toutes les classes dont Classe R (ISIN présent)."
+ },
+ {
+  "n": 224,
+  "isin": "LU0379621559",
+  "nom": "(I/C)MERCLIN SICAV GLOBAL EQUITY R EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VAN_LANSCHOT_KEMPEN_INVESTMENT_MANAGEMENT_NV/LU0379621559/LU0379621559__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://media.merciervanlanschot.be/vanlanschot4698-pocxmcloudb3eb9-prod6714-35ec/media/mercier/pdf/beleggingsfondsen/factsheets/merclin-global/factsheet-global-equity-fr.pdf",
+   "source": "merciervanlanschot.be (gestionnaire financier)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VAN_LANSCHOT_KEMPEN_INVESTMENT_MANAGEMENT_NV/LU0379621559/LU0379621559__KID_FR_2026-08-01.pdf",
+   "url": "https://api.fundinfo.com/document/d2313d75aa5868970595cfd4b2b8f00f_501529/PRP_BE_fr_LU0379621559_YES_2026-08-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-08-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds devenu MercLan Global Equity ; factsheet multi-parts au 30/09/2026 couvrant toutes les classes dont Classe R (ISIN présent)."
+ },
+ {
+  "n": 225,
+  "isin": "MT7000036026",
+  "nom": "(I/C)MFP GLOBAL SYSTEMATIC A EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MFP_SICAV_P_L_C/MT7000036026/MT7000036026__KID_FR_2026-06-26.pdf",
+   "url": "https://i4gam.com/wp-content/uploads/EUPRIIP_KID_MT7000036026_FR.pdf",
+   "source": "i4gam.com (Invest4Growth, gestionnaire)",
+   "date": "2026-06-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet non trouvée : Invest4Growth ne publie pas de factsheet pour Global Systematic (seulement KID, scénarios, Offering Supplement). KID FR 26/06/2026."
+ },
+ {
+  "n": 226,
+  "isin": "MT7000021085",
+  "nom": "(I/C)MFP RAPHAELS FLEXIBLE EQUITY FUND A EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/INVEST4GROWTH_ASSET_MANAGEMENT_LTD/MT7000021085/MT7000021085__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://i4gam.com/wp-content/uploads/2026.08.31_MFP_RFE_A_FR.pdf",
+   "source": "i4gam.com (Invest4Growth, gestionnaire)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/INVEST4GROWTH_ASSET_MANAGEMENT_LTD/MT7000021085/MT7000021085__KID_FR_2026-06-26.pdf",
+   "url": "https://i4gam.com/wp-content/uploads/EUPRIIP_KID_MT7000021085_FR.pdf",
+   "source": "i4gam.com (Invest4Growth, gestionnaire)",
+   "date": "2026-06-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet classe A au 31/08/2026 (fichier 2026.09.30 absent, 404). KID FR 26/06/2026."
+ },
+ {
+  "n": 227,
+  "isin": "LU0834154790",
+  "nom": "(I/C)MORGAN STANLEY GLOBAL OPPORTUNITY FUND I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/bd5a442725557adbc49817fa1d0b2d94_209131/MR_FR_fr_LU0834154790_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__KID_FR_2026-07-21.pdf",
+   "url": "https://api.fundinfo.com/document/161a0b0c02708e8ae1edb9aa5c8bf212_70649/PRP_BE_fr_LU0834154790_YES_2026-07-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-07-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR (mention « approuvé pour une utilisation en France uniquement »), part I, au 31/08/2026 ; pas de version plus récente sur fundinfo."
+ },
+ {
+  "n": 228,
+  "isin": "LU1951203402",
+  "nom": "(I/C)NATIXIS THEMATICS META FUND N/A EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951203402/LU1951203402__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/47578e72d930789c17b0a082221ae771_712637/MR_LU_fr_LU1951203402_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (LU)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951203402/LU1951203402__KID_FR_2026-04-13.pdf",
+   "url": "https://api.fundinfo.com/document/5254c4d395592f0dedb93d40bce26016_111580/PRP_FR_fr_LU1951203402_YES_2026-04-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-04-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet Mirova Thematic Meta classe N/A (EUR) au 30/09/2026."
+ },
+ {
+  "n": 229,
+  "isin": "LU0348927095",
+  "nom": "(I/C)NORDEA 1 - GLBL CLIMATE & ENVIRONMENT BI EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348927095/LU0348927095__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8cce821a53b5b0757510dc8f090cd174_691415/MR_BE_fr_LU0348927095_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348927095/LU0348927095__KID_FR_2026-05-20.pdf",
+   "url": "https://api.fundinfo.com/document/aab5bb6e24c3a296014e99e2406f9f57_164653/PRP_BE_fr_LU0348927095_YES_2026-05-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-05-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 230,
+  "isin": "LU0097890064",
+  "nom": "(I/C)NORDEA 1 - GLOBAL STABLE EQUITIES BI EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0097890064/LU0097890064__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/3cce8bedd998a399f6c7a34d7a02c218_647684/MR_BE_fr_LU0097890064_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0097890064/LU0097890064__KID_FR_2026-10-09.pdf",
+   "url": "https://api.fundinfo.com/document/43acb6ef81955a8439efbf8fe01af6c6_165193/PRP_BE_fr_LU0097890064_YES_2026-10-09.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-10-09",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 231,
+  "isin": "LU1694214633",
+  "nom": "(I/C)NORDEA 1 - LOW DURAT EUROPEAN COV BND BI EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU1694214633/LU1694214633__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/be0672cf7eb7959a892ba85a669db680_811377/MR_LU_fr_LU1694214633_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (LU)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU1694214633/LU1694214633__KID_FR_2026-05-20.pdf",
+   "url": "https://api.fundinfo.com/document/95251b27bace0dcd004c04104fd15764_151637/PRP_FR_fr_LU1694214633_YES_2026-05-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR)",
+   "date": "2026-05-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 232,
+  "isin": "LU3076185167",
+  "nom": "(I/C)NORDEA 1 EMPOWER EUROPE BI EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185167/LU3076185167__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/9a4d0ab193a5c7307935dc6b4bf4d9f5_520784/MR_BE_fr_LU3076185167_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185167/LU3076185167__KID_FR_2026-05-20.pdf",
+   "url": "https://api.fundinfo.com/document/16922b54c6fd255549d99bf1e3cc4150_164644/PRP_BE_fr_LU3076185167_YES_2026-05-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-05-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 233,
+  "isin": "LU1919842424",
+  "nom": "(I/C)ODDO BHF ARTIFICIAL INTELLIGENCE CN-EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842424/LU1919842424__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/c20b35c7229c76fddb49d58bbee1472e_1021296/MR_BE_fr_LU1919842424_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842424/LU1919842424__KID_FR_2026-07-13.pdf",
+   "url": "https://api.fundinfo.com/document/2f204f0cfed9e2e4dce8ed87fe339fd9_102391/PRP_BE_fr_LU1919842424_YES_2026-07-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE)",
+   "date": "2026-07-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ }
+]

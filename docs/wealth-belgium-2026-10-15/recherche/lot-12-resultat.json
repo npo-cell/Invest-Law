@@ -1,0 +1,674 @@
+[
+ {
+  "n": 321,
+  "isin": "IE00B04GQR24",
+  "nom": "(I/C)VANGUARD EUROZONE INFL LKD BND ACC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04GQR24/IE00B04GQR24__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Eurozone_Inflation-Linked_Bond_Index_Fund_9104_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04GQR24/IE00B04GQR24__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b04gqr24_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 322,
+  "isin": "IE00B04GQQ17",
+  "nom": "(I/C)VANGUARD EUROZONE INFLATION-LINKED EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04GQQ17/IE00B04GQQ17__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Eurozone_Inflation-Linked_Bond_Index_Fund_9139_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04GQQ17/IE00B04GQQ17__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b04gqq17_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 323,
+  "isin": "IE0008248803",
+  "nom": "(I/C)VANGUARD EUROZONE STOCK INDEX FUND ACC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0008248803/IE0008248803__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Eurozone_Stock_Index_Fund_9927_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0008248803/IE0008248803__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0008248803_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 324,
+  "isin": "IE00B18GC888",
+  "nom": "(I/C)VANGUARD GLOBAL BOND HEDGED EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B18GC888/IE00B18GC888__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Bond_Index_Fund_9197_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B18GC888/IE00B18GC888__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b18gc888_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 325,
+  "isin": "IE00BF7MPP31",
+  "nom": "(I/C)VANGUARD GLOBAL CREDIT BOND FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BF7MPP31/IE00BF7MPP31__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Credit_Bond_Fund_9892_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BF7MPP31/IE00BF7MPP31__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bf7mpp31_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 326,
+  "isin": "IE00BYV1RD15",
+  "nom": "(I/C)VANGUARD GLOBAL CREDIT BOND FUND USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BYV1RD15/IE00BYV1RD15__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Credit_Bond_Fund_9874_USD_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BYV1RD15/IE00BYV1RD15__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00byv1rd15_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 327,
+  "isin": "IE00B42W4L06",
+  "nom": "(I/C)VANGUARD GLOBAL SMALL CAP INDEX FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B42W4L06/IE00B42W4L06__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Small-Cap_Index_Fund_9159_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B42W4L06/IE00B42W4L06__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b42w4l06_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 328,
+  "isin": "IE00B03HD316",
+  "nom": "(I/C)VANGUARD GLOBAL STOCK HEDGED ACC EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B03HD316/IE00B03HD316__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Stock_Index_Fund_9859_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B03HD316/IE00B03HD316__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b03hd316_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 329,
+  "isin": "IE00B03HD191",
+  "nom": "(I/C)VANGUARD GLOBAL STOCK INDEX FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B03HD191/IE00B03HD191__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Stock_Index_Fund_9837_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B03HD191/IE00B03HD191__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b03hd191_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 330,
+  "isin": "IE00B03HCZ61",
+  "nom": "(I/C)VANGUARD GLOBAL STOCK INDEX INV EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B03HCZ61/IE00B03HCZ61__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Global_Stock_Index_Fund_9932_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B03HCZ61/IE00B03HCZ61__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b03hcz61_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 331,
+  "isin": "IE0007286036",
+  "nom": "(I/C)VANGUARD JPN STK IDX EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007286036/IE0007286036__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Japan_Stock_Index_Fund_9113_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007286036/IE0007286036__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007286036_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 332,
+  "isin": "IE0007218849",
+  "nom": "(I/C)VANGUARD PACIFIC EX-JAPAN STOCK ACC USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007218849/IE0007218849__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Pacific_ex-Japan_Stock_Index_Fund_9109_USD_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007218849/IE0007218849__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007218849_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 333,
+  "isin": "IE0007201266",
+  "nom": "(I/C)VANGUARD PACIFIC EX-JAPAN STOCK INDEX EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007201266/IE0007201266__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Pacific_ex-Japan_Stock_Index_Fund_9211_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007201266/IE0007201266__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007201266_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 334,
+  "isin": "IE00BYSX5D68",
+  "nom": "(I/C)VANGUARD SRI EURO INVESTMENT GRADE BOND INDEX",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BYSX5D68/IE00BYSX5D68__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/Selected_Screened_Euro_Investment_Grade_Bond_Index_Fund_9829_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BYSX5D68/IE00BYSX5D68__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bysx5d68_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 335,
+  "isin": "IE0032126645",
+  "nom": "(I/C)VANGUARD U.S. 500 STOCK INDEX FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0032126645/IE0032126645__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/U.S._500_Stock_Index_Fund_9834_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0032126645/IE0032126645__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0032126645_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 336,
+  "isin": "IE0007471471",
+  "nom": "(I/C)VANGUARD U.S. GOVERNMENT BOND INDEX FUND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007471471/IE0007471471__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/U.S._Government_Bond_Index_Fund_9284_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007471471/IE0007471471__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007471471_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 337,
+  "isin": "IE0007471927",
+  "nom": "(I/C)VANGUARD U.S. GOVERNMENT BOND INDEX FUND USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007471927/IE0007471927__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/U.S._Government_Bond_Index_Fund_9919_USD_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007471927/IE0007471927__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007471927_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 338,
+  "isin": "IE00B1G3DH73",
+  "nom": "(I/C)VANGUARD US 500 STOCK INDEX EUR H",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B1G3DH73/IE00B1G3DH73__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/U.S._500_Stock_Index_Fund_9117_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B1G3DH73/IE00B1G3DH73__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b1g3dh73_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin août 2026 = la plus récente publiée par Vanguard au 15/10/2026 (septembre pas encore en ligne). KID FR daté du 29/09/2026."
+ },
+ {
+  "n": 339,
+  "isin": "LU2722195752",
+  "nom": "(I/C)VARENNE CONVICTION I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2722195752/LU2722195752__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.varennecapital.com/system/files/funds/REP_LU2722195752_VARENNE%20CONVICTION_I-EUR_20260930_fr_be_retail.pdf",
+   "source": "Varenne Capital Partners (varennecapital.com, profil pro/BE)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2722195752/LU2722195752__KID_FR_2026-02-24.pdf",
+   "url": "https://www.varennecapital.com/system/files/funds/DIC_Varenne%20Conviction_FR-BE_I-EUR_LU2722195752_2026.02.24.pdf",
+   "source": "Varenne Capital Partners (varennecapital.com, profil pro/BE)",
+   "date": "2026-02-24",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Varenne : pages fonds accessibles avec cookies PROFILE=pro; COUNTRY=BE; SHOW_PROFILE=0 (sinon 404). Factsheet = reporting mensuel FR-BE au 30/09/2026 propre à la part ; DIC FR-BE publié au 24/02/2026."
+ },
+ {
+  "n": 340,
+  "isin": "LU2358390321",
+  "nom": "(I/C)VARENNE VALEUR P-EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358390321/LU2358390321__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.varennecapital.com/system/files/funds/REP_LU2358390321_VARENNE%20VALEUR_P-EUR_20260930_fr_be_retail.pdf",
+   "source": "Varenne Capital Partners (varennecapital.com, profil pro/BE)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358390321/LU2358390321__KID_FR_2026-02-24.pdf",
+   "url": "https://www.varennecapital.com/system/files/funds/DIC_Varenne%20Valeur_FR-BE_P-EUR_LU2358390321_2026.02.24.pdf",
+   "source": "Varenne Capital Partners (varennecapital.com, profil pro/BE)",
+   "date": "2026-02-24",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Site Varenne : pages fonds accessibles avec cookies PROFILE=pro; COUNTRY=BE; SHOW_PROFILE=0 (sinon 404). Factsheet = reporting mensuel FR-BE au 30/09/2026 propre à la part ; DIC FR-BE publié au 24/02/2026."
+ },
+ {
+  "n": 341,
+  "isin": "LU2435784934",
+  "nom": "(I/C)VIVACITY FUNDS VFF GLOBAL CAPITAL B EUR",
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ANDBANK_LUXEMBOURG_PLEDGE/LU2435784934/LU2435784934__KID_EN_2026-10-05.pdf",
+   "url": "https://api.fundinfo.com/document/213611898396d2ac801eaadb18cdaa9f_71883/PRP_LU_en_LU2435784934_YES_2026-10-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (LU-prof)",
+   "date": "2026-10-05",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Aucun KID FR : Andbank (andbank.com/luxembourg/gestion-dactifs/nos-fonds/) ne publie que l'anglais pour cette part (version 27/12/2025) ; KID EN plus récent sur fundinfo LU-prof (exact au 05/10/2026). Factsheet : aucune trouvée (ni site Andbank, ni fundinfo BE/LU/FR/CH/DE, ni recherche web) — part réservée aux institutionnels."
+ },
+ {
+  "n": 342,
+  "isin": "LU1003295067",
+  "nom": "(I/C)VIVACITY MULTI MANAGER ALLOC PATRIM B EUR",
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ANDBANK_LUXEMBOURG_PLEDGE/LU1003295067/LU1003295067__KID_FR_2025-12-27.pdf",
+   "url": "https://www.andbank.com/funds/luxemburg/pdf/lu1003295067_kiid_fr_202601281230.pdf",
+   "source": "Andbank Asset Management Luxembourg (andbank.com)",
+   "date": "2025-12-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "KID FR sur la page Andbank Luxembourg « nos fonds » (exact au 27/12/2025, mis en ligne 28/01/2026). Fonds absent de fundinfo. Factsheet : aucune trouvée (site Andbank, fundinfo, recherche web)."
+ },
+ {
+  "n": 343,
+  "isin": "LU3236037076",
+  "nom": "(I/C)WCM SELECT GLOBAL GR EQ N/A EUR",
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU3236037076/LU3236037076__KID_FR_2025-12-01.pdf",
+   "url": "https://www.im.natixis.com/content/dam/natixis/products/international/fund-documents/france/fr/KIDDOC-2025-12-01-FR-FR-2026-08-07-LU3236037076.pdf",
+   "source": "Natixis Investment Managers (im.natixis.com)",
+   "date": "2025-12-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "KID FR Natixis exact au 01/12/2025 (identique au PRP BE FR fundinfo). Factsheet : pas de reporting mensuel pour la part N/A (EUR) — ni dans l'API documents Natixis, ni sur fundinfo (BE/LU/FR/CH) ; le reporting existant est celui de la part R/A (LU3236036771), autre part, non retenu."
+ },
+ {
+  "n": 344,
+  "isin": "XFCS000OL506",
+  "nom": "FIC AGIFUND SERENITY B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
+ },
+ {
+  "n": 345,
+  "isin": "XFCS00OL1955",
+  "nom": "FIC AXISIO PATRIMOINE (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
+ },
+ {
+  "n": 346,
+  "isin": "XFCS00OL1642",
+  "nom": "FIC DELCAP LIFESTYLE (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
+ },
+ {
+  "n": 347,
+  "isin": "XFCS00OL1644",
+  "nom": "FIC MONETARY PLUS STRATEGY FUND B (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
+ },
+ {
+  "n": 348,
+  "isin": "XFCS000OL229",
+  "nom": "FIC MS REAL ESTATE FUND B (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
+ }
+]
