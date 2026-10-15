@@ -76,7 +76,13 @@
   "isin": "FR0013202140",
   "nom": "(I/C)SEXTANT BOND PICKING N EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -94,7 +100,13 @@
   "isin": "LU3319943323",
   "nom": "(I/C)SHELTER CALLANT INVESTMENT FUND IA EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -112,7 +124,13 @@
   "isin": "LU2228414293",
   "nom": "(I/C)SHELTER UCITS CORE SATELLITE FUND 60 IA EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -154,7 +172,13 @@
   "isin": "LU2038885625",
   "nom": "(I/C)SMART PATRIMOINE FLEXIBLE I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -172,7 +196,13 @@
   "isin": "LU2038885468",
   "nom": "(I/C)SMART VALUE INVESTORS EQUITY FLEXIBLE I EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
   },
   "kid": {
    "statut": "Trouvé",
@@ -495,7 +525,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 314,
@@ -519,7 +549,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 315,
@@ -543,7 +573,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 316,
@@ -567,14 +597,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 317,
   "isin": "IE00BNDS0V25",
   "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BNDS0V25/IE00BNDS0V25__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/ESG_Global_Corporate_Bond_Index_Fund_E001_EUR_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
@@ -585,14 +621,20 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 318,
   "isin": "IE000CI5UY91",
   "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX USD",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE000CI5UY91/IE000CI5UY91__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://fund-docs.vanguard.com/ESG_Global_Corporate_Bond_Index_Fund_E021_USD_FR_INT_IRISH.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
@@ -603,7 +645,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 319,
@@ -627,7 +669,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  },
  {
   "n": 320,
@@ -651,6 +693,6 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site Vanguard : KID FR = fund-docs.vanguard.com/<isin minuscules>_priipskid_fr.pdf (29/09/2026) ; factsheet FR = fund-docs.vanguard.com/<Nom_Fonds>_<portId>_<DEV>_FR_INT_IRISH.pdf (au 31/08/2026, dernière publiée ; part vérifiée dans l'en-tête). portId via GraphQL vanguard.co.uk/gpx/graphql (x-consumer-id: uk2)."
  }
 ]
