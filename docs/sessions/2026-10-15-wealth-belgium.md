@@ -32,5 +32,10 @@ Intégrer sur invest-law.eu les fonds de la gamme **Wealth Belgium** de One Life
 - Non trouvés, raisons principales : la part institutionnelle n'a pas de reporting propre (FFG I, BLI BI, Flossbach IT, LAIQON R, Leleux P, Qualion, certaines M&G où fundinfo ne propose que la fiche d'une autre part), fonds récents, 5 FIC (documents non publics). Détail par fonds : `recapitulatif.csv` et notes des `lot-XX-resultat.json`.
 - Anomalies du fichier source One Life (colonne Fund company) : IE00B4L5Y983 iShares → « GOLDMAN SACHS AM », IE000N6I8IU2 JPM → « GOLDMAN SACHS AM », IE000L98FUF7 LAIQON → « AMUNDI ASSET MANAGEMENT » (signalé dans le Sheet ; les dossiers INVESTLAW suivent le fichier source).
 - Fonds renommés (même ISIN) : DNCA Beyond Climate/Semperosa, DNCA Europe Growth, Schroder Global Energy Transition (→ Global Alternative Energy), Candriam Multi-Asset Premia, R-co Club, Sextant Bond Picking, Chahine (→ Irivest).
-- En attente de décision : 18 fichiers en trop ajoutés pendant la recherche (anciennes versions, doublons EN, factsheets FR d'août de BlackRock MyMap alors que la version EN de septembre a été retenue) ; choix FR plus ancien vs EN plus récent à confirmer.
 - Rien modifié sur invest-law.eu.
+
+## Étape 4 (15/10/2026) : français d'abord partout, ménage
+- Décision de l'utilisatrice : **français d'abord partout**, même si la version française est plus ancienne que l'anglaise ; fichiers en trop à supprimer.
+- Recherche d'une version FR (fundinfo BE/LU/FR/CH/IE + site Ruffer) pour les 45 documents retenus en anglais. 9 factsheets passées en français, l'anglaise retirée : abrdn ×4 (FR au 30/06/2026), BlackRock MyMap ×2 (FR au 30/09/2026), PIMCO ×2 (FR au 31/08/2026), Ruffer (FR au 31/05/2026, la plus récente en français). Rejetée : M&G Global Listed Infrastructure (la FR est celle de la catégorie A). Les 35 autres n'existent qu'en anglais.
+- 18 fichiers non retenus supprimés (anciennes versions, doublons EN, KID Enigma 2024). Seuls des fichiers ajoutés par cette recherche ont été touchés.
+- Contrôle relancé : 289 factsheets, 330 KID, 0 anomalie. Statuts du Google Sheet inchangés.
