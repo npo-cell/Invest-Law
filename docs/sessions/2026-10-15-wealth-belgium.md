@@ -45,3 +45,12 @@ Intégrer sur invest-law.eu les fonds de la gamme **Wealth Belgium** de One Life
 - Onglets créés dans le Google Sheet : « Fiches » (A:AC, ligne n = même n que l'onglet principal) et « Allocations » (zone réservée par lot k : lignes 2+(k-1)×1500 à 1501+(k-1)×1500).
 - Les 347 fiches JSON sont écrites (`docs/wealth-belgium-2026-10-15/fiches/<ISIN>.json`). Lot 12 entièrement recopié dans le Sheet (Fiches 321–348, Allocations 16502–17010).
 - **Arrêt à ~11 h 55 UTC sur demande de l'utilisatrice** ; lots 1 à 11 interrompus en cours de recopie dans le Sheet (et de relecture). Reprise programmée à 1 h (heure de Bruxelles) : vérifier ce qui est déjà dans le Sheet, recopier le reste depuis les JSON, puis contrôle complet Sheet ↔ JSON et compactage de l'onglet Allocations.
+
+## Étape 6 (16/10/2026, reprise de 1 h) : Google Sheet complet, contrôlé et mis en forme
+- Contrôle des 347 fiches JSON (`verif_fiche.py`) : écarts restants = artefacts d'extraction (accents, césures, texte décalé Clartan, « Aucun » pour l'indice) ou allocations lues sur image (Chahine, vérifiée visuellement : conforme).
+- Remplissage du Sheet **sans recopie manuelle** : export CSV des JSON (`docs/wealth-belgium-2026-10-15/sheet/`), import par `IMPORTDATA` depuis le dépôt public (commit 040f955), collage en valeurs, onglet temporaire supprimé. Pour cela, le réglage « accès aux URL externes pour les fonctions d'import » a été activé sur ce classeur (via l'API ; il ne peut être désactivé que depuis l'interface).
+- Contrôle cellule par cellule Sheet ↔ JSON : Fiches 347 × 29 → 0 écart ; Allocations 8 224 lignes → 15 libellés de maturité (« 1-3 », « 3-5 »…) convertis en dates par Google, corrigés → 0 écart.
+- Allocations compactées (lignes 2 à 8225, sans trous, ordre des fonds).
+- Mise en forme : onglets « Lisez-moi » (rôle des onglets, chiffres clés, légende), « Gamme » (ex-« Untitled »), « Fiches », « Allocations » ; en-têtes bleu foncé figés, colonnes nom/ISIN figées, largeurs adaptées, textes longs à la ligne avec hauteur fixe, lignes alternées, filtres, couleurs Trouvé/Non trouvé/à vérifier, classification colorée, SRI en dégradé vert→rouge, dates jj/mm/aaaa. Rendu vérifié sur export PDF.
+- Chiffres : 347 fiches, 331 avec politique d'investissement, 330 SRI, 279 fonds avec allocations (8 224 lignes) ; classification Dynamique 108, Agressif 94, Défensif 70, Equilibré 59, 16 sans document.
+- Rien modifié sur invest-law.eu.
