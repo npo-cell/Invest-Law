@@ -238,5 +238,53 @@
    "langue": "FR",
    "isin_verifie": true
   }
+ },
+ {
+  "n": 186,
+  "isin": "FR0012474989",
+  "nom": "(I/C)KEREN PATRIMOINE I EUR",
+  "notes": "Lettre « Septembre 2026 » propre à la part I. Le PDF DIC regroupe les DIC des parts C, I et N (tous du 29/04/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0012474989/FR0012474989__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=a46ab03ab201ca137b1d7b92498be864",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0012474989/FR0012474989__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=0949c3df5f540ab62647d2c54ca4ad35",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 187,
+  "isin": "FR0013301090",
+  "nom": "(I/C)KEREN PATRIMOINE N EUR",
+  "notes": "Lettre « Septembre 2026 » propre à la part N. Le PDF DIC regroupe les DIC des parts C, I et N (tous du 29/04/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0013301090/FR0013301090__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=a787b2dbccae116ccfa3615c417fc09a",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part N)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0013301090/FR0013301090__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=0949c3df5f540ab62647d2c54ca4ad35",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
  }
 ]

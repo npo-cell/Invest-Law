@@ -350,5 +350,293 @@
    "isin_verifie": true
   },
   "notes": ""
+ },
+ {
+  "n": 164,
+  "isin": "IE000495KIK3",
+  "nom": "(I/C)JANUS HENDERSON BALANCED FUND H2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE000495KIK3/IE000495KIK3__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8348820fda6d31470be0dd36fe58776b_272259/MR_FR_fr_IE000495KIK3_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE000495KIK3/IE000495KIK3__KID_FR_2026-02-12.pdf",
+   "url": "https://api.fundinfo.com/document/7906e3b5a6e4cd4d912a5373d7131c1c_110510/PRP_BE_fr_IE000495KIK3_YES_2026-02-12.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-12",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 165,
+  "isin": "LU2441282626",
+  "nom": "(I/C)JANUS HENDERSON HORIZON BIOTECHNOLOGY IU2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/cb0460d2f1e8efb698f0880ec6dc7027_271478/MR_FR_fr_LU2441282626_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__KID_FR_2026-02-13.pdf",
+   "url": "https://api.fundinfo.com/document/3bf2ea7ffd2732872df3bbabd707b094_110335/PRP_LU_fr_LU2441282626_YES_2026-02-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 166,
+  "isin": "LU1983261865",
+  "nom": "(I/C)JANUS HENDERSON HZ GLOB SC H2 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/9bd920aaecaed068a5166c1b149f8695_271894/MR_FR_fr_LU1983261865_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__KID_FR_2026-02-13.pdf",
+   "url": "https://api.fundinfo.com/document/fd245067c0c47ad427e912ab6819e671_109897/PRP_BE_fr_LU1983261865_YES_2026-02-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 167,
+  "isin": "LU0248041781",
+  "nom": "(I/C)JPM AMERICA EQUITY I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248041781/LU0248041781__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6606&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248041781/LU0248041781__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/4186b4a72c9c9b2cfea61391e45dde77_186088/PRP_LU_fr_LU0248041781_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 168,
+  "isin": "LU0862450359",
+  "nom": "(I/C)JPM EMERGING MKT DIV FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862450359/LU0862450359__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=11042&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862450359/LU0862450359__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/2c5700398182a373f97a0b76abddb8e5_187210/PRP_BE_fr_LU0862450359_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 169,
+  "isin": "LU1001748711",
+  "nom": "(I/C)JPM EUROPE EQUITY ABS ALP I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001748711/LU1001748711__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=11637&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001748711/LU1001748711__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/f68e594f0142197000f7a98d1b1c6a12_190525/PRP_LU_fr_LU1001748711_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 170,
+  "isin": "LU0512952267",
+  "nom": "(I/C)JPM GLOB RESEARCH INDEX EQ C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0512952267/LU0512952267__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=8117&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0512952267/LU0512952267__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/a787ca123fbe29f1b99f5a3c6e1b5062_182506/PRP_LU_fr_LU0512952267_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 171,
+  "isin": "LU0248009978",
+  "nom": "(I/C)JPM GLOBAL BALANCED FUND I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248009978/LU0248009978__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6676&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248009978/LU0248009978__KID_FR_2026-07-07.pdf",
+   "url": "https://api.fundinfo.com/document/10cb4c9569de9316637addbd4a9e8e6d_187447/PRP_LU_fr_LU0248009978_YES_2026-07-07.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-07",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 172,
+  "isin": "LU0329203144",
+  "nom": "(I/C)JPM GLOBAL DIVIDEND FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203144/LU0329203144__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=7467&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203144/LU0329203144__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/eadd064ca3ffb12f4d0ef05c30b8f970_185912/PRP_BE_fr_LU0329203144_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 173,
+  "isin": "LU0248053109",
+  "nom": "(I/C)JPM GLOBAL FOCUS I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248053109/LU0248053109__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6647&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248053109/LU0248053109__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/df403a02d97af9d6c82cf49225103b82_187822/PRP_LU_fr_LU0248053109_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 174,
+  "isin": "LU0248010471",
+  "nom": "(I/C)JPM GLOBAL MACRO OPPORTUNITIES FUND I EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248010471/LU0248010471__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6695&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0248010471/LU0248010471__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/c3cb03a905e4bad439c2bb45915804a6_185359/PRP_LU_fr_LU0248010471_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
+ },
+ {
+  "n": 175,
+  "isin": "LU0208853860",
+  "nom": "(I/C)JPM GLOBAL NATURAL RESOURCES FUND C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0208853860/LU0208853860__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6270&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (lien officiel am.jpmorgan.com → jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0208853860/LU0208853860__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/f5172a3da2eee1e0af7c0c8febfa247e_182227/PRP_BE_fr_LU0208853860_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr). KID FR via fundinfo (KID 3 p. + annexes)."
  }
 ]
