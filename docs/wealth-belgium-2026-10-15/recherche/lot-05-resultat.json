@@ -172,14 +172,20 @@
   "isin": "LI1317660325",
   "nom": "(I/C)ENIGMA LEGACY FUND I USD",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CAIAC_FUND_MANAGEMENT_AG/LI1317660325/LI1317660325__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://webshopr.s3.eu-west-3.amazonaws.com/b6b60f96bcebdedd8486957510f3c324/92a2498653d8a3122084e0852fc4f915/FACT-SHEET-ENIGMA-Legacy-Fund-September-2026.pdf",
+   "source": "site du fonds enigma-funds.com (page ENIGMA Legacy Fund)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/CAIAC_FUND_MANAGEMENT_AG/LI1317660325/LI1317660325__KID_FR_2024-09-25.pdf",
-   "url": "https://api.fundinfo.com/document/5c44e8ffb47dd8485de67118b9f1c787_147220/PRP_BE_fr_LI1317660325_YES_2024-09-25.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo (api.fundinfo.com)",
-   "date": "2024-09-25",
+   "fichier": "INVESTLAW/CAIAC_FUND_MANAGEMENT_AG/LI1317660325/LI1317660325__KID_FR_2026-01-01.pdf",
+   "url": "https://webshopr.s3.eu-west-3.amazonaws.com/ed8e23ff243356debee1a25a13e0c568/149d8c8a15389f4eca9093e0c324811a/ENIGMA-Legacy-Fund-Class-I-LI1317660325-PRIIP-KID-FR-2026-01-01.pdf",
+   "source": "site du fonds enigma-funds.com (page ENIGMA Legacy Fund)",
+   "date": "2026-01-01",
    "langue": "FR",
    "isin_verifie": true
   },

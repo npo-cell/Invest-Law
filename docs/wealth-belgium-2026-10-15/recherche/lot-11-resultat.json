@@ -238,24 +238,48 @@
   "isin": "LU2181906269",
   "nom": "(I/C)SYCOMORE SUSTAINABLE TECH IC EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/LU2181906269/LU2181906269__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4f0cfb5f3729355c4a30729096401c31_583046/MR_FR_fr_LU2181906269_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/LU2181906269/LU2181906269__KID_FR_2026-02-27.pdf",
+   "url": "https://api.fundinfo.com/document/29e8a88500eddb26981c141838243b58_2056979/PRP_BE_fr_LU2181906269_YES_2026-02-27.pdf",
+   "source": "fundinfo (PRP BE fr)",
+   "date": "2026-02-27",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet (reporting mensuel FR, part IC, septembre 2026) et KID FR via fundinfo (site sycomore-am.com non exploré : fundinfo à jour)."
  },
  {
   "n": 304,
   "isin": "FR0014010IF5",
   "nom": "(I/C)SYCOYIELD 2032 IC EUR (FMB)",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/FR0014010IF5/FR0014010IF5__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d30e57651da4fe10d387222875f2bff7_530091/MR_FR_fr_FR0014010IF5_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SYCOMORE_AM/FR0014010IF5/FR0014010IF5__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/657f67cb30e8ab5268bc2a70df39bb56_2760711/PRP_FR_fr_FR0014010IF5_YES_2026-04-16.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet (reporting mensuel FR, part IC, septembre 2026) et KID FR via fundinfo (site sycomore-am.com non exploré : fundinfo à jour)."
  },
  {
   "n": 305,
