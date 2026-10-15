@@ -1,0 +1,422 @@
+[
+ {
+  "n": 2,
+  "isin": "LU1437015735",
+  "verdict": "OK",
+  "part_en_tete": "Amundi Core MSCI Europe UCITS ETF – part C (Acc)",
+  "explication": "Fiche du compartiment ; VL et ISIN C = LU1437015735 (part D listée à côté)."
+ },
+ {
+  "n": 14,
+  "isin": "IE0002PG6CA6",
+  "verdict": "OK",
+  "part_en_tete": "VanEck Rare Earth and Strategic Metals UCITS ETF (classe unique, USD)",
+  "explication": "ETF à classe unique ; notre ISIN figure dans les codes de cotation."
+ },
+ {
+  "n": 22,
+  "isin": "LU0866838229",
+  "verdict": "OK",
+  "part_en_tete": "Alken Absolute Return Europe – part EU1",
+  "explication": "Fiche multi-parts (EU1/US1/CH1/GB1) dont les performances affichées sont celles de la part EU1 = notre ISIN."
+ },
+ {
+  "n": 31,
+  "isin": "LU0996182563",
+  "verdict": "OK",
+  "part_en_tete": "Amundi Index MSCI World AE – part C",
+  "explication": "En-tête AE, VL et ISIN C = notre ISIN."
+ },
+ {
+  "n": 34,
+  "isin": "FR0013334489",
+  "verdict": "OK",
+  "part_en_tete": "Athena Global Dynamic Bond Opportunities (multi-parts AC/BC/IC/BD)",
+  "explication": "Chiffres clés par part : VL IC 104 615,30 €, perf. mois et YTD de la part IC, tableau annuel avec ligne Part IC ; ISIN IC listé (graphique et commentaire sur part BC)."
+ },
+ {
+  "n": 35,
+  "isin": "LU0087657408",
+  "verdict": "OK",
+  "part_en_tete": "AXA WF Switzerland Equity F CHF",
+  "explication": "En-tête F CHF ; ISIN C/D = LU0087657408 / LU0087657234."
+ },
+ {
+  "n": 37,
+  "isin": "LU0329592538",
+  "verdict": "OK",
+  "part_en_tete": "BGF Global Allocation – part D2 USD",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 38,
+  "isin": "LU0252968424",
+  "verdict": "OK",
+  "part_en_tete": "BGF World Gold – part D2 USD",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 39,
+  "isin": "LU0827889485",
+  "verdict": "OK",
+  "part_en_tete": "BGF World Healthscience – part D2 EUR",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 40,
+  "isin": "LU0252963383",
+  "verdict": "OK",
+  "part_en_tete": "BGF World Mining – part D2 EUR",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 50,
+  "isin": "IE00BJM0B852",
+  "verdict": "DOUTE",
+  "part_en_tete": "Blue Whale Growth Fund – version EUR (toutes classes)",
+  "explication": "Performances = « Blue Whale Strategy EUR » (I Acc EUR depuis 01/2022, T Acc EUR seulement 2020-2022) ; notre T Acc EUR n'apparaît que dans le tableau des classes (OCF 1,24 %, ISIN)."
+ },
+ {
+  "n": 51,
+  "isin": "LU1962513328",
+  "verdict": "OK",
+  "part_en_tete": "Candriam Absolute Return Equity Market Neutral – classe I (EUR)",
+  "explication": "Classe I EUR, VNI cap. et ISIN (C) = notre part."
+ },
+ {
+  "n": 52,
+  "isin": "LU1797472195",
+  "verdict": "OK",
+  "part_en_tete": "Candriam L Alternative Multi-Strategies – classe PI (EUR)",
+  "explication": "Classe PI EUR et ISIN (C) = notre part (nom du fonds différent du libellé de la ligne : renommage)."
+ },
+ {
+  "n": 53,
+  "isin": "LU0206982331",
+  "verdict": "OK",
+  "part_en_tete": "Candriam Money Market Euro – classe I (EUR)",
+  "explication": "Classe I EUR et ISIN (C) = notre part."
+ },
+ {
+  "n": 54,
+  "isin": "LU0206982414",
+  "verdict": "OK",
+  "part_en_tete": "Candriam Money Market USD Sustainable – classe I (USD)",
+  "explication": "Classe I USD, VNI cap. et ISIN (C) = notre part (part D listée à côté)."
+ },
+ {
+  "n": 56,
+  "isin": "LU1434524259",
+  "verdict": "OK",
+  "part_en_tete": "Candriam Sustainable Equity Emerging Markets – classe I (EUR)",
+  "explication": "Classe I EUR et ISIN (C) = notre part."
+ },
+ {
+  "n": 58,
+  "isin": "LU1295554833",
+  "verdict": "OK",
+  "part_en_tete": "Capital Group New Perspective Fund (LUX) – fiche EUR Belgique classes Z/Zd",
+  "explication": "Fiche limitée aux classes Z (Acc) et Zd ; Z Acc = notre ISIN avec sa VL et ses frais."
+ },
+ {
+  "n": 77,
+  "isin": "LU1100076717",
+  "verdict": "OK",
+  "part_en_tete": "Clartan Valeurs – Classe I",
+  "explication": "Texte décalé décodé : en-tête « (CLASSE I) », Code ISIN Classe I = LU1100076717."
+ },
+ {
+  "n": 90,
+  "isin": "LU1694789378",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Alpha Bonds – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 91,
+  "isin": "LU2116701777",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Sustain Climate – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part (Beyond Climate renommé Sustain Climate)."
+ },
+ {
+  "n": 92,
+  "isin": "LU1907595125",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Sustain Semperosa – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part (Beyond Semperosa renommé)."
+ },
+ {
+  "n": 93,
+  "isin": "LU0284393773",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Credit Conviction – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 94,
+  "isin": "LU0870552998",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest SRI Europe Growth – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part (Europe Growth renommé SRI Europe Growth)."
+ },
+ {
+  "n": 95,
+  "isin": "LU0284394151",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Eurose – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 96,
+  "isin": "LU0284394581",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Evolutif – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 97,
+  "isin": "LU2194926346",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Global New World – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 98,
+  "isin": "LU1490784953",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest SRI Norden Europe – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 99,
+  "isin": "LU2707622390",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Strategic Resources – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 100,
+  "isin": "LU0284395984",
+  "verdict": "OK",
+  "part_en_tete": "DNCA Invest Value Europe – Part I-EUR",
+  "explication": "En-tête Part I-EUR et ISIN = notre part."
+ },
+ {
+  "n": 109,
+  "isin": "IE00BYZJ5G02",
+  "verdict": "DOUTE",
+  "part_en_tete": "DUNN WMA Institutional UCITS Fund (multi-classes), perf. USD Institutional Class A",
+  "explication": "Performances = USD Inst Class A (IE00B6R2TK36) et EUR Inst Class A non-pooled ; notre Inst Class A Pooled EUR figure seulement dans les codes ISIN (« pooled share classes are available in the supplement »)."
+ },
+ {
+  "n": 119,
+  "isin": "LU1781816530",
+  "verdict": "OK",
+  "part_en_tete": "EdR Fund Big Data CR-EUR / CRD-EUR",
+  "explication": "Fiche CR/CRD, performances « Classe (CR) » et ISIN CR = notre part."
+ },
+ {
+  "n": 121,
+  "isin": "FR00140120Q3",
+  "verdict": "OK",
+  "part_en_tete": "EdR SICAV Millesima 2032 CR-EUR / CRD-EUR",
+  "explication": "Fiche CR/CRD avec VL et frais par classe ; CR = notre ISIN en première colonne."
+ },
+ {
+  "n": 125,
+  "isin": "LI1317660325",
+  "verdict": "OK",
+  "part_en_tete": "ENIGMA Legacy Fund (classes R/I/A/B)",
+  "explication": "Fiche multi-classes ; commentaire et graphique sur la classe A, mais tableau de performances par classe avec ligne Class I et ISIN LI1317660325 listé."
+ },
+ {
+  "n": 131,
+  "isin": "LU2736456919",
+  "verdict": "OK",
+  "part_en_tete": "FFG Global Equities Low Carbon (C ACC) en EUR",
+  "explication": "En-tête C ACC, ISIN Part C Acc = notre ISIN (le .txt contient des calques cachés des parts I/R : vérifié sur rendu PDF)."
+ },
+ {
+  "n": 142,
+  "isin": "LU0878867604",
+  "verdict": "OK",
+  "part_en_tete": "First Eagle Amundi International Fund – RU (A/D)",
+  "explication": "En-tête classe RU ; VL et ISIN (A) = notre ISIN."
+ },
+ {
+  "n": 144,
+  "isin": "LU0690374029",
+  "verdict": "DOUTE",
+  "part_en_tete": "Fundsmith Equity Fund SICAV (toutes classes), perf. T Class Acc",
+  "explication": "Performances « To 30 Sept 2026, T Class Acc » ; notre I Class Acc n'apparaît que dans le tableau des classes (prix 62,67 €, OCF 0,95 %, ISIN)."
+ },
+ {
+  "n": 147,
+  "isin": "LU2312730000",
+  "verdict": "OK",
+  "part_en_tete": "Flossbach von Storch – Dividend – IT",
+  "explication": "Classe IT = notre ISIN (historique antérieur simulé via la classe I LU0831568646, mentionné en note)."
+ },
+ {
+  "n": 149,
+  "isin": "LU1038809049",
+  "verdict": "OK",
+  "part_en_tete": "Flossbach von Storch – Multiple Opportunities II – IT",
+  "explication": "Classe IT = notre ISIN (historique antérieur simulé via la classe I LU0952573300)."
+ },
+ {
+  "n": 150,
+  "isin": "FR0013291879",
+  "verdict": "OK",
+  "part_en_tete": "GemAsia (parts I/R/N/I USD/R USD)",
+  "explication": "Tableau de performances avec ligne Part I et ISIN Part I = notre ISIN."
+ },
+ {
+  "n": 156,
+  "isin": "LU1299707072",
+  "verdict": "OK",
+  "part_en_tete": "Goldman Sachs India Equity Portfolio – Class R Shares (Acc) (EUR)",
+  "explication": "VL, perf. et ISIN Class R Acc EUR = notre part."
+ },
+ {
+  "n": 158,
+  "isin": "IE00BVYPNZ31",
+  "verdict": "OK",
+  "part_en_tete": "Guinness Global Equity Income – classe Y",
+  "explication": "Fiche classe Y avec perf. « Fonds (EUR) » ; Y EUR Acc = notre ISIN."
+ },
+ {
+  "n": 179,
+  "isin": "IE00BYVJRF70",
+  "verdict": "OK",
+  "part_en_tete": "Jupiter Gold & Silver Fund – I EUR ACC",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 180,
+  "isin": "LU0946219846",
+  "verdict": "OK",
+  "part_en_tete": "Jupiter India Select – D EUR ACC",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 181,
+  "isin": "LU0946219416",
+  "verdict": "OK",
+  "part_en_tete": "Jupiter Japan Select – D EUR ACC",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 182,
+  "isin": "IE00BLP5S791",
+  "verdict": "OK",
+  "part_en_tete": "Jupiter Merian Global Equity Absolute Return – I EUR ACC HSC",
+  "explication": "En-tête et ISIN = notre part (couverte EUR)."
+ },
+ {
+  "n": 223,
+  "isin": "LU0476058226",
+  "verdict": "OK",
+  "part_en_tete": "MercLan Patrimonium (classes F/R/C cap et dis)",
+  "explication": "Tableau VNI/frais/performances par classe incluant R cap = notre ISIN (VNI 2 965,96 €) ; graphique sur la classe A."
+ },
+ {
+  "n": 224,
+  "isin": "LU0379621559",
+  "verdict": "OK",
+  "part_en_tete": "MercLan Global Equity (classes F/R/A cap et dis)",
+  "explication": "Tableau VNI/frais/performances par classe incluant R cap = notre ISIN (VNI 967,59 €) ; graphique sur la classe A."
+ },
+ {
+  "n": 226,
+  "isin": "MT7000021085",
+  "verdict": "OK",
+  "part_en_tete": "MFP Raphael's Flexible Equity Fund, classe A",
+  "explication": "Classe A, VNI et ISIN acc. = notre part."
+ },
+ {
+  "n": 228,
+  "isin": "LU1951203402",
+  "verdict": "OK",
+  "part_en_tete": "Mirova/Natixis Thematics Meta – classe N/A (EUR)",
+  "explication": "En-tête « CLASSE D'ACTIONS : N/A (EUR) - LU1951203402 »."
+ },
+ {
+  "n": 265,
+  "isin": "IE00B1JC0H05",
+  "verdict": "OK",
+  "part_en_tete": "PIMCO GIS Diversified Income Fund EUR (Hedged) – Institutional Acc/Inc",
+  "explication": "Fiche Institutional EUR Hedged ; performances Institutional Acc = notre ISIN."
+ },
+ {
+  "n": 266,
+  "isin": "IE00B3V8Y234",
+  "verdict": "OK",
+  "part_en_tete": "PIMCO GIS Euro Income Bond Fund – Institutional Acc/Inc",
+  "explication": "Fiche Institutional ; performances Institutional Acc = notre ISIN."
+ },
+ {
+  "n": 289,
+  "isin": "LU0638557669",
+  "verdict": "OK",
+  "part_en_tete": "Ruffer Total Return International – C Class",
+  "explication": "Perf. C cap colonne EUR ; ISIN C EUR cap = notre part."
+ },
+ {
+  "n": 290,
+  "isin": "LU0244355391",
+  "verdict": "OK",
+  "part_en_tete": "Schroder ISF China Opportunities C de capitalisation USD",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 291,
+  "isin": "LU2016063229",
+  "verdict": "OK",
+  "part_en_tete": "Schroder ISF Global Alternative Energy C Accumulation USD",
+  "explication": "ISIN = notre part, C Acc USD, lancement 10.07.2019 (nom de fonds différent du libellé : renommage Global Energy Transition)."
+ },
+ {
+  "n": 293,
+  "isin": "LU2380233515",
+  "verdict": "OK",
+  "part_en_tete": "Schroder ISF Global Sustainable Food and Water C de capitalisation USD",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 294,
+  "isin": "LU2526491159",
+  "verdict": "OK",
+  "part_en_tete": "Schroder ISF Global Sustainable Growth C Accumulation EUR",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 301,
+  "isin": "BE6290264082",
+  "verdict": "OK",
+  "part_en_tete": "SPM Funds Global Flexible (parts P/R cap et dis)",
+  "explication": "Tableau « performances des différentes parts » avec ligne P-Cap et ISIN P-Cap = notre ISIN."
+ },
+ {
+  "n": 305,
+  "isin": "LU0140637140",
+  "verdict": "OK",
+  "part_en_tete": "Schroder ISF Greater China C de capitalisation USD",
+  "explication": "En-tête et ISIN = notre part."
+ },
+ {
+  "n": 339,
+  "isin": "LU2722195752",
+  "verdict": "OK",
+  "part_en_tete": "Varenne Conviction I-EUR",
+  "explication": "En-tête I-EUR, VNI et ISIN = notre part."
+ },
+ {
+  "n": 340,
+  "isin": "LU2358390321",
+  "verdict": "OK",
+  "part_en_tete": "Varenne Valeur P-EUR",
+  "explication": "En-tête P-EUR, VNI et ISIN = notre part."
+ }
+]
