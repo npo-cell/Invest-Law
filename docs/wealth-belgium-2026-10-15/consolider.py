@@ -12,7 +12,12 @@ import csv, glob, json, os, re, subprocess, sys
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 D = os.path.join(ROOT, 'docs', 'wealth-belgium-2026-10-15')
 
-KID_WORDS = ('informations cl', 'key information document')
+KID_WORDS = ('informations cl', 'key information document', "fiche d’information de base", "fiche d'information de base")
+
+
+def decale(t):
+    # certains PDF (Clartan) ont un texte décalé d'un caractère
+    return ''.join(chr(ord(c) + 1) if (c.isalnum() or c in '/@') else c for c in t)
 
 
 def texte(pdf):
@@ -35,14 +40,16 @@ def controle(isin, doc, kind):
     if not re.match(rf'{isin}__{kind}_(FR|EN)_\d{{4}}-\d\d-\d\d\.pdf$', name):
         return 'Non trouvé', f'nom/langue non conforme : {name}'
     t = texte(p)
-    if isin not in re.sub(r'\s', '', t) and isin not in t:
+    flat = re.sub(r'\s', '', t).upper()
+    if isin not in flat and isin not in re.sub(r'\s', '', decale(t)).upper():
         return 'Non trouvé', 'ISIN absent du PDF'
     low = t.lower()
     if kind == 'KID' and not any(w in low for w in KID_WORDS):
         return 'Non trouvé', 'ne ressemble pas à un KID'
-    fs_words = ('fiche', 'factsheet', 'fact sheet', 'reporting', 'mensuel', 'monthly', 'données au', 'as at', 'as of')
-    if kind == 'Factsheet' and not any(w in low for w in fs_words):
-        return 'Non trouvé', 'ne ressemble pas à une factsheet'
+    tete = ' '.join(low.split())[:400]
+    if kind == 'Factsheet' and any(tete.startswith(w) for w in KID_WORDS + ('document d’informations clés', "document d'informations clés")) \
+            and ('finalité' in low[:1500] or 'purpose' in low[:1500]):
+        return 'Non trouvé', 'ressemble à un KID, pas à une factsheet'
     if kind == 'KID' and any(w in low[:1500] for w in ('fiche technique', 'factsheet', 'reporting mensuel')):
         return 'Non trouvé', 'ressemble à une factsheet, pas à un KID'
     return 'Trouvé', os.path.relpath(p, ROOT)
