@@ -1,0 +1,158 @@
+{
+  "n": "85",
+  "isin": "LU2570611165",
+  "nom": "(I/C)CPR INVEST EUROPEAN STRATEGIC AUTONOMY R EUR",
+  "maison": "CPR Asset Management",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-09-01",
+  "date_creation": "2023-03-28",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes (thématique autonomie stratégique)",
+  "compartiment": "Actions d’un Compartiment de CPR Invest, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+  "gerants": "Damien Mariette, Eric Labbé",
+  "encours_millions": "1123.58",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.32",
+  "sri": "4",
+  "indice": "100% MSCI EMU",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures. Les investissements sont soumis aux fluctuations de marché et peuvent varier à la hausse comme à la baisse.",
+  "politique_fr": "STRATEGIE D’INVESTISSEMENT\nL’objectif d’investissement est de surperformer les marchés d’actions européens sur une période à long terme (au minimum cinq ans) en investissant dans des actions impliquées dans des secteurs stratégiques qui contribuent à l’autonomie et à la résilience de l’Europe, tout en intégrant des critères environnementaux, sociaux et de gouvernance (ESG) dans le processus d’investissement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création « 28/03/2023 » (caractéristiques de la factsheet de la part R EUR Acc) ; le tableau de performances de la part commence « Depuis le 25/04/2024 » — la date pourrait être celle du compartiment, à confirmer. Encours = « Actif géré : 1 123,58 ( millions EUR ) » (non précisé s’il s’agit du compartiment ou de la part). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres coûts administratifs ou d’exploitation : 1,32% » (= frais courants, identique au KID p.3) ; commission de surperformance : « Oui » ; frais d’entrée max 5 %. Indice : factsheet « Indice Reference : 100% MSCI EMU » ; KID : MSCI EMU Net Return utilisé pour évaluer la performance a posteriori et calculer la commission de performance, sans contrainte sur la construction du portefeuille (retenu car mesure de performance). SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR article 8 (KID). Classification Dynamique : thème large (défense, industrie, alimentation, santé, finance) sur actions de la zone euro, SRI 4 — cas limite avec Agressif (fonds thématique). Allocations : répartitions sectorielle (« En pourcentage de l’actif »), géographique et par devise lues sur les graphiques (valeurs du portefeuille, l’indice exclu ; positions des étiquettes vérifiées sur l’image) ; devises « avec couverture de change », la barre « Autres » ne porte aucune valeur (non reprise) ; capitalisations = ratios « % Moyenne + Petite capitalisation » et « % Grande capitalisation » (portefeuille) ; positions « Hors OPC ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.3",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "46.20"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "19.44"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Défense",
+      "pct": "13.55"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Nourriture",
+      "pct": "11.05"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "6.83"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Zone Euro",
+      "pct": "86.88"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe ex-EMU",
+      "pct": "7.73"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du nord",
+      "pct": "4.09"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays émergents",
+      "pct": "1.13"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "93.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "% Moyenne + Petite capitalisation",
+      "pct": "36.08"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "% Grande capitalisation",
+      "pct": "63.92"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING NV",
+      "pct": "8.31"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BANCO SANTANDER SA MADRID",
+      "pct": "3.82"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SIEMENS AG-REG",
+      "pct": "3.34"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAFRAN SA",
+      "pct": "2.92"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SCHNEIDER ELECT SE",
+      "pct": "2.87"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AIRBUS SE PARIS",
+      "pct": "2.78"
+    },
+    {
+      "type": "Positions",
+      "libelle": "COMPAGNIE DE SAINT GOBAIN",
+      "pct": "2.70"
+    },
+    {
+      "type": "Positions",
+      "libelle": "COMMERZBANK AG",
+      "pct": "2.64"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNICREDIT SPA",
+      "pct": "2.60"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALLIANZ SE-REG",
+      "pct": "2.54"
+    }
+  ]
+}

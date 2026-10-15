@@ -1,0 +1,268 @@
+{
+  "n": "76",
+  "isin": "LU2809794576",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO TECH SOLUTIONS F EUR",
+  "maison": "Carmignac Gestion Luxembourg",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2024-06-21",
+  "devise": "EUR",
+  "type_fonds": "Actions sectorielles (technologie)",
+  "compartiment": "Carmignac Portfolio Tech Solutions est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+  "gerants": "Kristofer Barrett",
+  "encours_millions": "846",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.15",
+  "sri": "5",
+  "indice": "MSCI AC World Information Technology 10/40 Capped NR index",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Tech Solutions est un fonds actions internationales (UCITS) dédié aux valeurs liées au thème de la technologie sans contrainte géographique ni de capitalisation. Porté par le potentiel à long terme de l'innovation technologique, le Fonds diversifie ses convictions tout au long de la chaîne de valeurs afin de prendre part à la prochaine révolution industrielle. Le Fonds privilégie des entreprises en position dominante, disposant de fortes barrières à l’entrée, capables d’innover durablement grâce à des investissements soutenus en recherche et développement. Le Fonds a pour objectif de surperformer son indicateur de référence sur une durée supérieure à cinq ans.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de la 1ère VL » de la part F EUR Acc (21/06/2024, identique au lancement du compartiment). Encours = « Actifs sous gestion du Fonds : 846M€ » (encours de la part : 55M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,15 % (= frais courants, identique au KID p.3) ; commission liée aux résultats 20 %. Indice : factsheet « MSCI AC World Information Technology 10/40 Capped NR index. » (KID : objectif de surperformance de l’indice MSCI AC World Information Technology 10/40 Capped NR). SRI 5 (KID : « classe de risque 5 sur 7 »). SFDR article 9 ; « Minimum % d’investissements durables 80% » (engagement minimal). Allocations : zones géographiques = détail de la ligne « Actions » (niveaux imbriqués) ; secteurs = « Répartition par thématique » (catégories propres à Carmignac, poids rebasés) ; capitalisations et pays « Poids rebasés » ; devises = « Exposition nette par devise ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "94.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+      "pct": "5.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays développés",
+      "pct": "55.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "39.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie Pacifique",
+      "pct": "9.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "5.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays émergents",
+      "pct": "39.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie",
+      "pct": "39.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Moyen-Orient",
+      "pct": "0.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux techniques",
+      "pct": "55.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie industrielle et infrastructure numérique",
+      "pct": "31.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cloud et logiciels",
+      "pct": "11.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie du climat",
+      "pct": "2.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Grandes (>10000 MEUR)",
+      "pct": "79.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Moyennes (2000 - 10000MEUR)",
+      "pct": "19.4"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Petites (<2000 MEUR)",
+      "pct": "1.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "9.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar US",
+      "pct": "41.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre Sterling",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen",
+      "pct": "10.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc $ (AUD et CAD)",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc Asie ex Japon",
+      "pct": "39.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "0.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Etats-Unis",
+      "pct": "37.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taiwan",
+      "pct": "25.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Corée du Sud",
+      "pct": "14.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "10.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "4.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "4.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "1.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Finlande",
+      "pct": "0.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "0.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Israel",
+      "pct": "0.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres pays",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR",
+      "pct": "9.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA CORP",
+      "pct": "8.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK SQUARE CO LTD",
+      "pct": "5.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK HYNIX INC",
+      "pct": "4.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NITTO BOSEKI CO LTD",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "LOTES CO LTD",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING NV",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASIA VITAL COMPONENTS CO LTD",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CELESTICA INC",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAMSUNG ELECTRONICS",
+      "pct": "3.7"
+    }
+  ]
+}

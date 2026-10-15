@@ -1,0 +1,245 @@
+{
+  "n": "75",
+  "isin": "LU0992624949",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO SECURITE F EUR",
+  "maison": "CARMIGNAC GESTION",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2013-11-25",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "Carmignac Portfolio Sécurité est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+  "gerants": "Marie-Anne Allier, Aymeric Guedy",
+  "encours_millions": "2553",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.65",
+  "sri": "2",
+  "indice": "ICE BofA 1-3 Year All Euro Government index",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "2.3 (sensibilité)",
+  "qualite_emetteurs": "A-",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Sécurité est un fonds obligataire (UCITS) investi en obligations et autres titres de créances libellés en euro. Son approche flexible et active avec une faible duration lui permet de déployer des stratégies de conviction principalement sur les marchés européens sans contrainte imposée par un indice de marché. Le Fonds promeut des caractéristiques environnementales et sociales et consacre au minimum 10 % de son actif net à des investissements durables. Il a pour objectif de surperformer son indicateur de référence sur une durée minimale de placement recommandée de deux ans.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "L’ISIN LU0992624949 correspond à la part « FW EUR Acc » dans la factsheet et le KID (nom One Life : « F EUR »). Date de création = « Date de la 1ère VL » de la part FW EUR Acc (25/11/2013, identique au lancement du compartiment). Encours = « Actifs sous gestion du Fonds : 2553M€ » (encours de la part : 1470M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 0,65 % (= frais courants, identique au KID p.3) ; pas de commission liée aux résultats pour la part FW (« — »). Indice : factsheet « ICE BofA 1-3 Year All Euro Government index. » (KID : « l'indice ICE BofA 1-3 Year All Euro Government », objectif de surperformance ; jusqu’au 31/12/2020 : Euro MTS 1-3 years). SRI 2 (KID : « classe de risque 2 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 10% » (engagement minimal). Duration = « Sensibilité taux 2,3 » ; qualité = « Notation moyenne A- ». Allocations : classes d’actifs 1er et 2e niveaux (sous-classes détaillant « Obligations », total supérieur à 100 %), 3e niveau (régions et secteurs à l’intérieur des sous-classes) non repris car libellés répétés ; Credit Default Swap négatif (-10,5 %) gardé ; instruments = « Répartition par type d’emprunts - poche taux » ; maturités « basées sur la prochaine date d'appel lorsque disponible » ; notations « Poids rebasés ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "91.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts d'Etat pays développés",
+      "pct": "18.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts d'Etat pays émergents",
+      "pct": "1.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts privés pays développés",
+      "pct": "59.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts privés pays émergents",
+      "pct": "3.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts Supranationaux",
+      "pct": "0.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Collateralized Loan Obligation (CLO)",
+      "pct": "9.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Credit Default Swap",
+      "pct": "-10.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Monétaire",
+      "pct": "0.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+      "pct": "7.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "< 1 an",
+      "pct": "26.0"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 3 ans",
+      "pct": "31.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3 - 5 ans",
+      "pct": "32.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 - 7 ans",
+      "pct": "8.5"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "7 -10 ans",
+      "pct": "1.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "> 10 ans",
+      "pct": "0.7"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "9.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "7.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "28.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "48.9"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB",
+      "pct": "4.1"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "1.7"
+    },
+    {
+      "type": "Notations",
+      "libelle": "C",
+      "pct": "0.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "D",
+      "pct": "0.1"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Emprunts privés à taux fixe",
+      "pct": "61.9"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Emprunts d'Etat à taux fixe",
+      "pct": "13.0"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Collateralized Loan Obligation (CLO)",
+      "pct": "9.3"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Emprunts d'Etat à taux indexé inflation",
+      "pct": "6.6"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Emprunts privés à taux variable",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.60% 28/06/2030",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SPAIN 3.15% 30/04/2033",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 2.85% 01/02/2031",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.10% 15/08/2031",
+      "pct": "2.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FRANCE 0.50% 25/05/2029",
+      "pct": "2.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 3.50% 01/03/2030",
+      "pct": "1.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "REPSOL INTERNATIONAL FINANCE 2.5% 22/12/2026",
+      "pct": "1.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TOTALENERGIES 1.63% 25/10/2027",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PERSHING SQUARE HOLDINGS LTD/FUND 1.38% 01/08/2027",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BP CAPITAL MARKETS 3.63% 22/03/2029",
+      "pct": "0.7"
+    }
+  ]
+}

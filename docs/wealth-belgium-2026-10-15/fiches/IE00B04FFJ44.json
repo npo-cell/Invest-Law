@@ -1,0 +1,207 @@
+{
+  "n": "319",
+  "isin": "IE00B04FFJ44",
+  "nom": "(I/C)VANGUARD EURO INVEST GRADE BOND ACC EUR",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2000-09-29",
+  "devise": "EUR",
+  "type_fonds": "Obligataire euro investment grade (indiciel)",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Europe Bond Index Team",
+  "encours_millions": "1340",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.12",
+  "sri": "2",
+  "indice": "Bloomberg EUR Non-Government Float Adjusted Bond Index",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "5.0 ans",
+  "qualite_emetteurs": "A+",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) par l’acquisition physique de titres et vise à reproduire la performance de l’Indice Bloomberg EUR Non-Government Float Adjusted Bond Index (l’« Indice »).\n• L’Indice est un indice pondéré par le marché de titres à revenu fixe de qualité « investment grade » libellés en euros dont l’échéance est supérieure à un an et dont la taille d’émission minimale est de 300 millions EUR, à l’exception de certains secteurs mentionnés cidessous.\n• L’Indice comprend des titres émis par des sociétés, des entités titrisées et des entités gouvernementales/supranationales (y compris des entités telles que l’Union européenne), mais il exclut les bons du Trésor et les entités gouvernementales des pays de la zone euro.\n• Le Fonds s’efforce de : 1. Reproduire la performance de l’Indice en investissant, par l’acquisition physique de titres, dans un portefeuille de titres qui, dans la mesure du possible, constitue un échantillon représentatif des titres composant l’Indice. 2. Rester pleinement investi, sauf dans des conditions politiques, de marché ou autres extraordinaires dans lesquelles le Fonds peut s’écarter temporairement de cette politique d’investissement pour éviter les pertes.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Acc. Date de création « 29 septembre 2000 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : « Vanguard Asset Management, Ltd. – Europe Bond Index Team » (équipe). Encours = « Encours total (million) 1 340 € » (encours de la classe : 916 €). Frais de gestion non indiqués ; frais courants 0,12 % (KID, = MFC factsheet). Indice : fonds indiciel répliquant le Bloomberg EUR Non-Government Float Adjusted Bond Index (indices précédents jusqu'en 2010 cités dans la factsheet). Duration = « Duration moyenne 5,0 ans » ; « Qualité moyenne A+ » ; rendement le plus défavorable 3,71 %. SFDR : aucun article mentionné. Classification Défensif : obligations euro investment grade, SRI 2. Politique copiée telle quelle (« cidessous » : texte du PDF). Allocations au 31 août 2026 : 10 premiers marchés (type Pays, dont « Supranational »), échéances, qualité de crédit, type d'émetteur (type « Instruments »).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.2",
+    "duration": "factsheet p.3",
+    "qualite_emetteurs": "factsheet p.3",
+    "disclaimer": "factsheet p.4",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Pays",
+      "libelle": "Supranational",
+      "pct": "22.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "14.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "12.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "9.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "5.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "3.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "3.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "3.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "3.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "La Suède",
+      "pct": "2.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Moins de 1 an",
+      "pct": "0.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 5 ans",
+      "pct": "50.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 - 10 ans",
+      "pct": "34.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "10 - 15 ans",
+      "pct": "7.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "15 - 20 ans",
+      "pct": "3.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "20 - 25 ans",
+      "pct": "1.8"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Plus de 25 ans",
+      "pct": "3.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "35.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "7.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "27.7"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "29.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Sans notation",
+      "pct": "0.1"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Entreprise - Industrie",
+      "pct": "26.1"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Entreprise - institutions financiéres",
+      "pct": "22.7"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Liés au gouvernement - supranationals",
+      "pct": "22.0"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Titrisés",
+      "pct": "16.8"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Entreprise - services aux Collectivités",
+      "pct": "4.8"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Liés au gouvernement - souverains",
+      "pct": "3.9"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Liés au gouvernement - agences",
+      "pct": "2.3"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Liés au gouvernement - collectivités locales",
+      "pct": "1.4"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Liquidités*",
+      "pct": "0.1"
+    }
+  ]
+}

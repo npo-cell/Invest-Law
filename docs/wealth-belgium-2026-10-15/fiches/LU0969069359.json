@@ -1,0 +1,251 @@
+{
+  "n": "110",
+  "isin": "LU0969069359",
+  "nom": "(I/C)ECHIQUIER AGENOR MID CAP EUROPE FUND K EUR",
+  "maison": "La Financière de l'Echiquier",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-22",
+  "date_creation": "2014-01-17",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes (moyennes capitalisations)",
+  "compartiment": "Compartiment de la SICAV ECHIQUIER FUND gérée par La Financière de l'Echiquier",
+  "gerants": "Stéphanie Bobtcheff, José Berros",
+  "encours_millions": "7",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.37",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "Echiquier Agenor SRI Mid Cap Europe Fund est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur les marchés des actions européennes. Le compartiment cherche en priorité à se positionner sur les leaders européens de demain en investissant dans des valeurs de croissance. L'indice MSCI Europe Mid Cap NR est un indicateur représentatif de la gestion d'Echiquier Agenor Mid Cap Europe Fund. L'OPCVM met en œuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking ». De plus, dans le cadre de la construction du portefeuille, l'équipe de gestion intègre de façon systématique une approche extra financière sans toutefois que cette dernière soit déterminante dans les décisions d'investissement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Encours « 7 M€ Actif net » tel qu'écrit (montant très faible, à contrôler sur une autre source avant publication ; non précisé s'il s'agit du compartiment ou de la part). Date de création = « Date de 1ère VNI 17/01/2014 » (factsheet de la part K) ; compartiment créé le 08/11/2013, SICAV le 08/10/2013. Compartiment : texte du KID (factsheet : « Type Compartiment de Sicav », « Sicav Echiquier Fund »). Frais de gestion = « Frais de gestion 1,00% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.37% » (identique à la factsheet « Frais au 30/09/2025 ») ; pas de commission de surperformance. Indice laissé vide : le KID dit que l'indice MSCI Europe Mid Cap Index Net Return (EUR) est « utilisé uniquement à titre indicatif » (factsheet : « Indice* MSCI EUROPE MID CAP NET RETURN EUR », « indicateur représentatif de la gestion » ; avant le 01/01/2022 : MSCI EUROPE SM CAP NR). SFDR « Classification SFDR Article 8 », aucun % d'investissements durables écrit. La factsheet nomme le fonds « Echiquier Agenor SRI Mid Cap Europe Fund » dans le texte de présentation. Classification Dynamique : actions européennes de moyennes capitalisations diversifiées (SRI 4) ; Agressif possible (petites et moyennes valeurs). Politique : texte de présentation de la factsheet (le KID contient une politique plus détaillée). Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 2,9 %) ; libellés de pays en codes ISO tels qu'écrits ; secteur « Autres » sans valeur pour le compartiment (7,2 % = indice), non repris ; devises lues sur graphique (barre gauche = compartiment, positions vérifiées ; USD 2,3 % = indice seulement). Positions = 10 principales positions (28,1 %).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Diploma",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Euronext",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MTU Aero Engines",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Bawag",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Storebrand",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASR Nederland",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Metso",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Unicaja Banco",
+      "pct": "2.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Croda",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Spie",
+      "pct": "2.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ITA",
+      "pct": "14.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DEU",
+      "pct": "14.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "GBR",
+      "pct": "11.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "FRA",
+      "pct": "10.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "NLD",
+      "pct": "10.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ESP",
+      "pct": "6.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "NOR",
+      "pct": "6.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "CHE",
+      "pct": "5.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "FIN",
+      "pct": "4.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DNK",
+      "pct": "4.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "13.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "32.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prod. financiers",
+      "pct": "24.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "IT",
+      "pct": "11.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de santé",
+      "pct": "7.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "7.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "5.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. collectifs",
+      "pct": "4.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. discr.",
+      "pct": "3.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "2.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. de comm.",
+      "pct": "1.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">10Mds",
+      "pct": "61.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5Mds - 10Mds",
+      "pct": "28.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "1Md - 5Mds",
+      "pct": "9.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "71.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "10.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "NOK",
+      "pct": "5.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "CHF",
+      "pct": "4.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "DKK",
+      "pct": "4.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "SEK",
+      "pct": "2.9"
+    }
+  ]
+}

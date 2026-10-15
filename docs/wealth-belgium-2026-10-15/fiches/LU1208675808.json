@@ -1,0 +1,247 @@
+{
+  "n": "281",
+  "isin": "LU1208675808",
+  "nom": "(I/C)ROBECO BP GLOBAL PREMIUM EQUITIES F EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-30",
+  "date_creation": "2015-03-26",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+  "gerants": "Christopher Hart, Joshua Jones, Soyoun Song",
+  "encours_millions": "8793.251559",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.63",
+  "frais_courants": "0.84",
+  "sri": "4",
+  "indice": "MSCI World Index (Net Return, EUR)",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+  "politique_fr": "À propos du fonds\nRobeco BP Global Premium Equities est un fonds All Cap Value mondial géré de manière active et sans contrainte. La sélection de ces titres « Value » est basée sur une analyse fondamentale. Le fonds se concentre sur des sociétés à la valorisation attractive, dont les fondamentaux sont convaincants et dont le momentum commercial s'améliore, indépendamment de la capitalisation boursière, de la région ou du secteur.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Gérants : « Christopher Hart CFA, Joshua Jones CFA, Soyoun Song » (titres CFA non repris). Indice : KID « le Sous-fonds utilise un indice de référence dans ses documents de commercialisation à des fins de comparaison » mais « La stratégie d'investissement vise à surperformer l'indice de référence sur le long terme » (objectif) → retenu. Date de lancement 26/03/2015 (performances « Depuis 25/03/2015 »). Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,84 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Banco Bilbao Vizcaya Argentaria SA",
+      "pct": "1.75"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NatWest Group PLC",
+      "pct": "1.61"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ABN AMRO Bank NV",
+      "pct": "1.60"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Labcorp Holdings Inc",
+      "pct": "1.59"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ING Groep NV",
+      "pct": "1.59"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CVS Health Corp",
+      "pct": "1.53"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Galp Energia SGPS SA",
+      "pct": "1.49"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Rexel SA",
+      "pct": "1.45"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Shell PLC",
+      "pct": "1.44"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Cigna Group/The",
+      "pct": "1.44"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "97.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "2.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "26.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "16.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "16.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "11.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de Consommation de Base",
+      "pct": "7.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'Information",
+      "pct": "6.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériels",
+      "pct": "5.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "4.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "4.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux Collectivités",
+      "pct": "1.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amerique",
+      "pct": "45.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "13.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "10.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "6.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Espagne",
+      "pct": "5.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Irlande",
+      "pct": "4.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "3.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italie",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Corée du Sud",
+      "pct": "1.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "6.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar Américain",
+      "pct": "44.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "30.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre Sterling",
+      "pct": "13.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen japonais",
+      "pct": "5.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne Suédoise",
+      "pct": "2.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "4.1"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "n": "284",
+  "isin": "LU0871827464",
+  "nom": "(I/C)ROBECO GLOBAL CONSUMER TRENDS EQUITIES F EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-30",
+  "date_creation": "2013-01-21",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (consommation)",
+  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+  "gerants": "Jack Neele, Richard Speetjens, Sam Brasser",
+  "encours_millions": "2299.030905",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.75",
+  "frais_courants": "0.96",
+  "sri": "4",
+  "indice": "MSCI All Country World Index (Net Return, EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+  "politique_fr": "À propos du fonds\nRobeco Global Consumer Trends est un fonds à gestion active qui vise à tirer profit des changements structurels dans les dépenses de consommation mondiales. Le fonds investit dans un certain nombre de tendances de croissance à long terme telles que la consommation numérique, la finance numérique, l'intelligence artificielle, les marques locales, les produits de luxe, les soins personnels et la santé des consommateurs. Les gérants du fonds s'attachent à sélectionner les actions des gagnants structurels au sein de ces tendances. La sélection de titres est basée sur une analyse fondamentale. Le fonds vise une performance supérieure à l'indice général des actions.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Gérants : « Jack Neele, Richard Speetjens, SamBrasser » (espace manquant dans le document). Indice : KID « le Sous-fonds utilise un indice à des fins de comparaison », mais l'objectif est « une performance supérieure à l'indice général des actions » → retenu. Classification Agressif : fonds thématique (tendances de consommation), SRI 4. Factsheet : « La performance avant la date de lancement est basée sur la performance d'une catégorie d'actions comparable ». Le texte « À propos du fonds » de la factsheet diffère légèrement de celui du KID (tendances citées). Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,96 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA Corp",
+      "pct": "8.78"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc (Class A)",
+      "pct": "5.82"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "4.93"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.com Inc",
+      "pct": "4.79"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Samsung Electronics Co Ltd",
+      "pct": "4.58"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor Manufacturing Co Lt",
+      "pct": "4.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Mastercard Inc",
+      "pct": "3.67"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc",
+      "pct": "3.33"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Industria de Diseno Textil SA",
+      "pct": "3.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Meta Platforms Inc",
+      "pct": "2.79"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "99.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "0.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'Information",
+      "pct": "30.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "19.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "15.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "13.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de Consommation de Base",
+      "pct": "9.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "8.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériels",
+      "pct": "3.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux Collectivités",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amerique",
+      "pct": "63.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "l'Europe",
+      "pct": "25.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asia",
+      "pct": "10.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Moyen-Orient",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Afrique",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar Américain",
+      "pct": "67.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "9.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Franc Suisse",
+      "pct": "7.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Won Sud-Coréen",
+      "pct": "4.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar de Taiwan",
+      "pct": "4.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "6.5"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "n": "276",
+  "isin": "FR0014011WD9",
+  "nom": "(I/C)R-CO TARGET 2032 IG P2 EUR (FMB)",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-06-12",
+  "date_creation": "2025-10-01",
+  "devise": "EUR",
+  "type_fonds": "Obligataire (à échéance 2032, investment grade)",
+  "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+  "gerants": "Emmanuel PETIT, Philippe LOMNE",
+  "encours_millions": "691.34",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.60",
+  "frais_courants": "0.71",
+  "sri": "2",
+  "indice": "Aucun",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "5.03",
+  "qualite_emetteurs": "BBB",
+  "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe compartiment a pour objectif de gestion, au moment de la souscription et jusqu’au 31/12/2032, d’obtenir une performance nette de frais liée aux taux de rendements actuels des obligations de maturité 2032, en investissant exclusivement dans des titres à caractère « Investment Grade » (non spéculatifs).L’échéance moyenne du portefeuille est comprise entre janvier et décembre 2032.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Fonds à échéance (31/12/2032), « SICAV Obligations et autres titres de créance € » ; compartiment R-co Target 2032 IG de la SICAV R-co 3 (KID). Date de création = « Date de création 01/10/2025 » = « Date 1ère VL 01/10/2025 ». Encours « Actifs sous gestion 691,34 M€ ». Frais de gestion = « Frais de gestion financière 0,60% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 0,71 % (« Il s'agit d'une estimation » ; factsheet : « Frais courants ex-post Néant »). Indice « Aucun » : factsheet « Indice de référence - » et KID « le compartiment n’a pas d’indicateur de référence ». Duration = « Duration 5,03 » au 08/26 (« Sensibilité 4,83 ») ; « Rating moyen* BBB » (hors liquidités, fonds et dérivés de taux). SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Politique : « STRATÉGIE D'INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations : répartitions par instrument, notation, secteur et zone géographique = graphiques en image non lisibles dans le texte du PDF → non reprises ; reprises : principales positions, Maturités = « % Actif » de la « Décomposition de la sensibilité par maturité » (tranches 1-3 ans et > 10 ans sans valeur ; Cash négatif -1,2), Devises = « Exposition par devise » (Poids). Tableau poids moyens/contributions par type de dette non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.4",
+    "devise": "factsheet p.4",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.4",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.4",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "KID p.3",
+    "duration": "factsheet p.2",
+    "qualite_emetteurs": "factsheet p.2",
+    "disclaimer": "factsheet p.5",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Spie Sa 3 7/8 05/18/31",
+      "pct": "1.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Eurazeo Se 4 5/8 04/17/31",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Ppi Public Property Inve 4 3/8 10/01/32",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Silfin Nv 4 1/4 05/25/32",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Flutter Treasury Dac 4 06/04/31",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Sveafastigheter Ab 4 3/8 01/20/31",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Fiserv Funding Unltd Co 3 1/2 06/15/32",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Vgp Nv 4 01/16/32",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Altrad Investment Author 4.429 06/23/32",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Air France-klm 4 1/4 07/01/31",
+      "pct": "1.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "< 1 an",
+      "pct": "0.8"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3-5 ans",
+      "pct": "19.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5-7 ans",
+      "pct": "74.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "7-10 ans",
+      "pct": "5.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Cash",
+      "pct": "-1.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "100.0"
+    }
+  ]
+}

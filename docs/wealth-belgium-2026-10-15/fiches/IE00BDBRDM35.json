@@ -1,0 +1,98 @@
+{
+  "n": "6",
+  "isin": "IE00BDBRDM35",
+  "nom": "(ETF)ISHARES CORE GLOBAL AGGR BOND EUR",
+  "maison": "BlackRock Asset Management Ireland Ltd",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-09",
+  "date_creation": "2017-11-21",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "Le Fonds est un compartiment d’iShares III plc, une société à compartiments multiples constituée en Irlande, agréée par la Banque centrale d’Irlande en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "",
+  "encours_millions": "14201.00",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.10",
+  "sri": "2",
+  "indice": "Bloomberg Global Aggregate Bond Index",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "6.02 ans",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi.",
+  "politique_fr": "Objectifs\nLa Catégorie d’actions est une catégorie d’actions d’un Fonds qui vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, qui soit similaire au rendement du Bloomberg Global Aggregate Bond Index, l’indice de référence du Fonds (Indice).\n\nLa Catégorie d’actions, par l’intermédiaire du Fonds, est passivement gérée et vise à investir, dans la mesure du possible, dans les titres à revenu fixe (RF) (tels que des obligations) qui constituent l’Indice et se conforment à ses exigences en matière de notation de crédit. Si la qualité de crédit des titres RF est rétrogradée, le Fonds peut continuer à les détenir jusqu’à ce qu’ils cessent de faire partie de l’Indice et qu’il soit possible de vendre la position.\n\nL’Indice mesure la performance des marchés obligataires mondiaux de qualité « investment grade » et se compose actuellement de quatre indices régionaux (c’est-à-dire Bloomberg Barclays US Aggregate Index, Bloomberg Barclays Pan-European Aggregate Index, Bloomberg Barclays Asian-Pacific Aggregate Index et Bloomberg Barclays Canadian Aggregate Index), ainsi que d’autres titres éligibles à l’indice Bloomberg Barclays qui ne sont pas déjà inclus dans ces quatre indices. Les titres RF qui constituent l’Indice peuvent être émis ou garantis par des États, des organismes publics internationaux ou des sociétés et rapporteront un revenu selon un taux d’intérêt fixe et/ou variable. Les titres RF seront, au moment de leur inclusion dans l’Indice, de qualité « investment grade » (c’est-à-dire qu’ils atteignent un niveau de solvabilité défini).\n\nLe Fonds recourt à des techniques d’optimisation pour atteindre un rendement similaire à celui de son Indice. Celles-ci peuvent comprendre la sélection stratégique de certains titres qui constituent l’Indice ou d’autres titres RF qui fournissent une performance similaire à certains titres constituant l’Indice. Elles peuvent également comprendre l’utilisation d’instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents). Les IFD peuvent être utilisés à des fins d’investissement direct.\n\nLe Fonds peut également s’engager dans des prêts garantis à court terme de ses investissements à certains tiers éligibles pour générer des revenus supplémentaires afin de compenser les coûts du Fonds.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Part couverte en EUR (« Hedged Euro (Capitalisation) »). Politique prise du KID (section « Objectifs ») : la factsheet ne contient qu'une phrase d'aperçu et des « principaux avantages » commerciaux. Date de création = date de lancement de la catégorie d'actions (21-nov.-2017, identique au fonds). Encours = « Encours sous gestion (M) : 14.201,00 USD » (fonds) au 30/09/2026 ; actif net de la catégorie : 2.513,38 M EUR. Frais : KID « Frais de gestion et autres coûts administratifs ou frais d’exploitation 0,10 % » ; factsheet « Ratio des charges totales : 0,10% » ; pas de frais de gestion séparés. Duration = « Duration effective : 6,02 ans » ; « Maturité moyenne pondérée : 8,06 ans ». Qualité moyenne des émetteurs non écrite. SFDR : factsheet « Classification SFDR : Autre » → vide. Gérants : aucun nom. Allocations : seuls les principaux émetteurs sont en texte (repris en Positions) ; secteurs, échéances et notes de crédit sont des graphiques sans valeurs lisibles dans le texte du PDF (non repris).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "KID p.1",
+    "source_politique": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "UNITED STATES TREASURY",
+      "pct": "19.01"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JAPAN (GOVERNMENT OF)",
+      "pct": "7.56"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CHINA PEOPLES REPUBLIC OF (GOVERNMENT)",
+      "pct": "6.65"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+      "pct": "3.00"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FEDERAL HOME LOAN MORTGAGE CORPORATION",
+      "pct": "2.89"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FRANCE (REPUBLIC OF)",
+      "pct": "2.63"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UK CONV GILT",
+      "pct": "2.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY (REPUBLIC OF)",
+      "pct": "2.47"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CHINA DEVELOPMENT BANK",
+      "pct": "2.40"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GOVERNMENT NATIONAL MORTGAGE ASSOCIATION II",
+      "pct": "2.26"
+    }
+  ]
+}

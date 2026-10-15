@@ -1,0 +1,236 @@
+{
+  "n": "166",
+  "isin": "LU1983261865",
+  "nom": "(I/C)JANUS HENDERSON HZ GLOB SC H2 USD",
+  "maison": "Janus Henderson Investors",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-02-13",
+  "date_creation": "2019-08-06",
+  "devise": "USD",
+  "type_fonds": "Actions internationales petites capitalisations",
+  "compartiment": "Janus Henderson Horizon Global Smaller Companies Fund est un compartiment de Janus Henderson Fund, une société d'investissement à capital variable constituée en vertu des lois du Grand-Duché de Luxembourg. Janus Henderson Horizon Fund est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+  "gerants": "Nick Sheridan, Jonathan Coleman, Aaron Schaechterle, Ollie Beckett, Yunyoung Lee, Sat Duhra",
+  "encours_millions": "2750",
+  "encours_devise": "",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.60",
+  "frais_courants": "1.09",
+  "sri": "4",
+  "indice": "Indice MSCI World Small Cap",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+  "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice MSCI World Small Cap Index, après déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit au moins 80% de ses actifs dans des actions (titres de participation) et titres assimilés de petites sociétés, de tous secteurs, sises dans n'importe quel pays. Le Fonds peut également investir dans d'autres actifs, y compris des liquidités et des instruments du marché monétaire. Le Gestionnaire d'Investissement peut avoir recours à des dérivés (instruments financiers complexes) pour réduire le risque ou pour gérer le Fonds plus efficacement. Le Fonds est géré de façon active en se référant à l'indice MSCI World Small Cap Index, qui est largement représentatif des sociétés dans lesquelles celui-ci est susceptible d'investir, dans la mesure où cet indice constitue la base de l'objectif de performance du Fonds et le niveau au-dessus duquel des commissions de performance peuvent être imputées (le cas échéant). Le gestionnaire d'investissement a le pouvoir discrétionnaire de choisir des investissements pour le Fonds ayant des pondérations différentes de celles de l'indice ou n'étant pas présents dans l'indice, mais le Fonds peut occasionnellement détenir des investissements similaires à ceux de l'indice.\n\nStratégie d'investissement\nLe Gestionnaire d’Iinvestissement vise à fournir une croissance du capital en investissant dans de petites sociétés cotées à l'échelle internationale. Le Fonds vise à identifier des actions de bonne qualité mais potentiellement sous-évaluées, en s'appuyant sur l'idée que le niveau de rendements réels fournis dépend du prix initial payé.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part H2 USD (devise USD). Factsheet FR au 31/08/2026. Politique : « Objectif de gestion » (p.1) + « Politique d'investissement » et « Stratégie d'investissement » (p.3) ; coquille « Gestionnaire d’Iinvestissement » conservée telle qu'écrite ; stratégie modifiée le 24 janvier 2025 selon la factsheet. Date de création = « Informations sur les catégories d'action – Date de création 06 août 2019 » (même date pour le fonds). Encours = « Total de l'actif nette 2.75Mds » converti en 2750 millions ; devise non écrite (devise de base USD) → laissée vide. Gérants = « Équipe de gestion » (« CFA » retiré) ; cinq d'entre eux nommés gérants désignés au 30 juin 2026 aux côtés de Nick Sheridan. Frais de gestion = « Frais de gestion annuels (FGA) 0,60 » ; frais courants = KID 1,09 % (factsheet : FC 1,09) ; commission de performance 10 % au-delà de l'indice (High Water Mark). Indice : objectif de performance et seuil de la commission de performance ; libellé du tableau « Détails du fonds ». Compartiment : texte du KID tel quel (« Janus Henderson Fund » puis « Janus Henderson Horizon Fund »). Classification Dynamique : petites capitalisations mondiales diversifiées (pas une niche thématique), SRI 4 — cas limite avec Agressif. Allocations : colonne Fonds seulement ; pays = 10 principaux ; secteurs = « Principaux secteurs » (total 99,25 %).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1 et p.3",
+    "source_politique": "factsheet p.1 et p.3"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Frontdoor",
+      "pct": "2.49"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DPM Metals",
+      "pct": "2.48"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Comfort Systems USA",
+      "pct": "2.34"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Sterling Infrastructure",
+      "pct": "2.14"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Bel Fuse",
+      "pct": "2.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Mueller Industries",
+      "pct": "2.06"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SPS Commerce",
+      "pct": "2.04"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Halozyme Therapeutics",
+      "pct": "2.00"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Paylocity",
+      "pct": "1.76"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Lantheus",
+      "pct": "1.72"
+    },
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "59.69"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "12.78"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Australie",
+      "pct": "5.87"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "4.52"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "4.27"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "1.45"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "1.44"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "1.42"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Danemark",
+      "pct": "1.18"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suisse",
+      "pct": "1.10"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "50 à 100 milliards de dollars",
+      "pct": "2.34"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "25 à 50 milliards de dollars",
+      "pct": "1.43"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "10 à 25 milliards de dollars",
+      "pct": "18.43"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5 à 10 milliards de dollars",
+      "pct": "35.38"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "1 à 5 milliards de dollars",
+      "pct": "36.60"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "250 millions de dollars à 1 milliard de dollars",
+      "pct": "1.92"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "26.80"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "14.13"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie de l’information",
+      "pct": "12.92"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation discrétionnaire",
+      "pct": "10.46"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "10.32"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "7.33"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "4.98"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "2.90"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "2.88"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation de base",
+      "pct": "2.63"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "3.90"
+    }
+  ]
+}

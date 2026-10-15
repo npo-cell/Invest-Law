@@ -1,0 +1,252 @@
+{
+  "n": "164",
+  "isin": "IE000495KIK3",
+  "nom": "(I/C)JANUS HENDERSON BALANCED FUND H2 EUR",
+  "maison": "Janus Henderson Investors",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-02-12",
+  "date_creation": "2022-08-10",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "Janus Henderson Balanced Fund est un compartiment de Janus Henderson Capital Funds plc, une société d'investissement à capital variable constituée en vertu des lois irlandaises. Janus Henderson Capital Funds plc est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+  "gerants": "Jeremiah Buckley, Greg Wilensky, Michael Keough",
+  "encours_millions": "11260",
+  "encours_devise": "",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.80",
+  "frais_courants": "0.86",
+  "sri": "3",
+  "indice": "Indice équilibré (60% S&P 500 / 40% BB US Agg)",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "6.35 ans",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+  "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir un rendement, résultant d'une combinaison de revenu et de croissance du capital, tout en cherchant à limiter les pertes en termes de capital (bien que ce ne soit pas garanti). Objectif de performance: Surperformer par rapport à l'indice «équilibré» (60 % S&P 500 + 40 % Bloomberg US Aggregate Bond) de 1,5 % par an, avant déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit 35% à 70% de ses actifs dans des actions (titres de capital) et 30% à 65% dans des titres à revenu fixe (titres de créance), des participations dans des prêts ou des liquidités. Les positions en liquidités peuvent résulter des bénéfices générés par la couverture de la catégorie d’actions par rapport à la devise de référence, lesquels ne seront détenus qu’à titre temporaire jusqu’à leur réinvestissement. Au moins 80% de ses actifs sont investis dans des sociétés et des émetteurs américains. Le montant total du Fonds pouvant être investi dans des titres négociés sur des marchés en développement s'élève à 10%. Sur les 30 à 65% des actifs du Fonds investis dans des titres à revenu fixe (titres de créance), des prêts, des participations dans des prêts ou des liquidités, jusqu'à 35% peuvent être assortis d'une notation inférieure à «investment grade». Le Fonds peut également investir dans d'autres actifs, y compris des sociétés et des obligations hors zone euro, des liquidités et des instruments du marché monétaire. Le Conseiller en investissement par délégation peut avoir recours à des dérivés (instruments financiers complexes) pour réduire le risque, pour gérer le Fonds plus efficacement ou pour générer du capital et des revenus supplémentaires pour le Fonds. Le Fonds est géré de façon active en se référant à l'indice «équilibré» (60% S&P 500 + 40% Bloomberg US Aggregate Bond), qui est largement représentatif des sociétés et obligations dans lesquelles le Fonds est susceptible d'investir, dans la mesure où ledit indice constitue la base de l'objectif de performance du Fonds. Le Conseiller en investissement par délégation dispose d'une grande liberté d'action pour choisir des investissements individuels pour le Fonds.\n\nStratégie d'investissement\nLe Conseiller en investissement par délégation suit une approche gérée de façon active qui allie surtout les actions et obligations étasuniennes à la possibilité de se positionner défensivement de façon anticipée en cas de volatilité du marché. Le Fonds possède la flexibilité de modifier de 35 à 70 % son exposition aux actions, en fonction de ce que les gestionnaires estiment être les meilleures opportunités dans chaque classe d'actifs et de leur appréciation des conditions économiques au sens large. Les actions du portefeuille visent la croissance à long terme, tandis que les titres à revenu fixe cherchent à fournir les flux de trésorerie nécessaires.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet FR au 30/09/2026 (« uniquement destiné aux investisseurs professionnels »). Politique : « Objectif de gestion » (p.1) + « Politique d'investissement » et « Stratégie d'investissement » (p.3) de la factsheet ; politique modifiée à compter du 21 novembre 2025 selon la factsheet. Date de création = « Informations sur les catégories d'action – Date de création 10 août 2022 » (fonds : 24 décembre 1998). Encours = « Total de l'actif nette 11.26Mds » converti en 11260 millions ; devise de l'encours non écrite (devise de base du fonds : USD) → laissée vide. Gérants = « Équipe de gestion » (« CFA » retiré). Frais de gestion = « Frais de gestion annuels (FGA) 0,80 » ; frais courants = KID 0,86 % (factsheet : FC 0,86). Indice = libellé du tableau « Détails du fonds » (objectif de performance : surperformer l'indice équilibré 60 % S&P 500 + 40 % Bloomberg US Aggregate Bond de 1,5 % par an ; indice modifié le 31 juillet 2024, auparavant 55 % / 45 %). Duration « 6,35 » (« Duration (années) ») pour l'ensemble du fonds mixte ; maturité moyenne pondérée 6,14 ans non reprise ; pas de notation moyenne. Classification Dynamique : actions 66,64 % (fourchette 35 à 70 %), SRI 3 — cas limite avec Equilibré. Secteurs : lignes sectorielles actions et obligations du tableau « Allocation sectorielle », sans les sous-totaux « Actions » et « Obligations » (repris en Classes d'actifs). Notations = qualité de crédit des positions obligataires (en % du fonds). Une position (« Janus Henderson Asset-Backed Securities Fund Z Acc USD Hedged ») est écrite sur deux lignes dans le PDF.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1 et p.3",
+    "source_politique": "factsheet p.1 et p.3"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA Corp",
+      "pct": "6.16"
+    },
+    {
+      "type": "Positions",
+      "libelle": "United States Treasury Note/Bond, 4.38%, 08/31/2031",
+      "pct": "5.43"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "4.74"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc",
+      "pct": "4.39"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc",
+      "pct": "3.30"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.com Inc",
+      "pct": "3.04"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Janus Henderson Asset-Backed Securities Fund Z Acc USD Hedged",
+      "pct": "2.99"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc",
+      "pct": "2.18"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Micron Technology Inc",
+      "pct": "1.97"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Fannie Mae or Freddie Mac, 6.00%, 10/13/2026",
+      "pct": "1.51"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "66.64"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "36.52"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités & équivalents",
+      "pct": "-3.16"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie de l’information",
+      "pct": "26.05"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "8.99"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "7.73"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation discrétionnaire",
+      "pct": "6.57"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "5.67"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "4.76"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation de base",
+      "pct": "2.88"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "1.66"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "1.32"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "1.01"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Agency MBS",
+      "pct": "9.02"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Investment Grade Corporate",
+      "pct": "7.85"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Bons du Trésor",
+      "pct": "7.62"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "ABS",
+      "pct": "3.59"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Non-Agency MBS",
+      "pct": "3.31"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "CLO",
+      "pct": "2.12"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "High Yield Corporate",
+      "pct": "1.77"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prêts bancaires",
+      "pct": "0.86"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "CMBS",
+      "pct": "0.38"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités & équivalents",
+      "pct": "-3.16"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Aaa",
+      "pct": "4.53"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Aa",
+      "pct": "19.74"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "3.69"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Baa",
+      "pct": "5.91"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Ba",
+      "pct": "2.23"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "0.20"
+    },
+    {
+      "type": "Notations",
+      "libelle": "NR",
+      "pct": "0.22"
+    }
+  ]
+}

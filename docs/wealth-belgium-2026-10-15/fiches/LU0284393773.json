@@ -1,0 +1,412 @@
+{
+  "n": "93",
+  "isin": "LU0284393773",
+  "nom": "(I/C)DNCA INVEST CREDIT CONVICTION I EUR",
+  "maison": "DNCA FINANCE LUXEMBOURG",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2007-05-04",
+  "devise": "EUR",
+  "type_fonds": "Obligataire (crédit flexible)",
+  "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+  "gerants": "Ismaël LECANU, Jean-Marc FRELET, Nolwenn LE ROUX, Baptiste PLANCHARD",
+  "encours_millions": "2445",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.54",
+  "sri": "2",
+  "indice": "Bloomberg Euro Aggregate Corporate Index",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "BBB",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+  "politique_fr": "Objectif de gestion\nL’objectif d’investissement du Compartiment est de maximiser le rendement total à partir d’une combinaison de croissance du revenu et du capital en investissant dans des titres à revenu fixe. Le Compartiment cherche à surperformer l’indice Bloomberg Euro-Aggregate Corporate (ticker Bloomberg : LECPTREU Index) sur la période d’investissement préconisée.\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Maison : One Life indique « DNCA FINANCE LUXEMBOURG » ; la factsheet indique « Société de gestion : DNCA Finance » et le KID « Nom de l'initiateur du produit : DNCA FINANCE ». Date de création « 04/05/2007 » (factsheet p.6) : la factsheet ne précise pas s'il s'agit de la part I ou du compartiment. Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 0,54% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà de l'indice (0,32 %). Indice : objectif de surperformer le Bloomberg Euro-Aggregate Corporate ; ancien indicateur FTSE MTS Global remplacé le 03/02/2022. Duration laissée vide : la factsheet donne deux valeurs, « Sensibilité brute 3,78 » et « Sensibilité nette 6,67 » (maturité moyenne 5,13 ans, taux actuariel moyen 5,00 %). Qualité = « Note moyenne BBB ». Gérants : « , CFA » retiré après Jean-Marc FRELET, Nolwenn LE ROUX et Baptiste PLANCHARD. SFDR article 8, aucun % d'investissements durables écrit. Positions = 10 principales positions (total 7,62 %). Classes d'actifs : total 100 avec « CDS Index » -0,6 %. Répartition géographique : colonne Fonds seulement, « Autres pays » sans valeur (-) pour le fonds, non repris. Répartition sectorielle (ICB) : colonne Fonds, total 100,3 % tel qu'écrit. Non repris : contributions à la performance, données ESG.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.6",
+    "devise": "factsheet p.6",
+    "compartiment": "factsheet p.7",
+    "gerants": "factsheet p.6",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.6",
+    "sfdr": "factsheet p.6",
+    "qualite_emetteurs": "factsheet p.1",
+    "disclaimer": "factsheet p.7",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "EEW Energy from Waste GmbH 3.88% 2029",
+      "pct": "0.92"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Danske Bank A/S 2030 FRN",
+      "pct": "0.85"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banque Federative du Credit Mutuel SA 5.88% 2032",
+      "pct": "0.81"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AT&T Inc 4.38% 2029",
+      "pct": "0.79"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon,com Inc 5.2% 2029",
+      "pct": "0.79"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TUI AG 1.95% 2031 CV",
+      "pct": "0.76"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Gatwick Funding Ltd 5.63% 2036",
+      "pct": "0.70"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Verizon Communications Inc 2056 FRN",
+      "pct": "0.68"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DNB Bank ASA 2032 FRN",
+      "pct": "0.66"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MTU Aero Engines AG 0% 2033 CV",
+      "pct": "0.66"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations crédit",
+      "pct": "94.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "OPCVM",
+      "pct": "3.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "CDS Index",
+      "pct": "-0.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités et autres",
+      "pct": "2.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "79.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "17.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "3.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "14.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Etats-Unis",
+      "pct": "12.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "12.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "9.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Espagne",
+      "pct": "7.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italie",
+      "pct": "5.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "5.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autriche",
+      "pct": "3.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Belgique",
+      "pct": "2.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Danemark",
+      "pct": "2.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Portugal",
+      "pct": "2.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Australie",
+      "pct": "2.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "République Tchèque",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Canada",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suède",
+      "pct": "1.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Hongrie",
+      "pct": "1.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Grèce",
+      "pct": "1.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pologne",
+      "pct": "1.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Chine",
+      "pct": "1.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Irlande",
+      "pct": "0.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Norvège",
+      "pct": "0.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "0.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Luxembourg",
+      "pct": "0.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Finlande",
+      "pct": "0.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suisse",
+      "pct": "0.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Roumanie",
+      "pct": "0.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Israël",
+      "pct": "0.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Slovakia",
+      "pct": "0.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Slovénie",
+      "pct": "0.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Lettonie",
+      "pct": "0.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Corée du Sud",
+      "pct": "0.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "OPCVM",
+      "pct": "3.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités et autres",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Banques",
+      "pct": "31.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "9.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens et services industriels",
+      "pct": "8.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "6.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Automobiles et équipementiers",
+      "pct": "5.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "4.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Voyages et loisirs",
+      "pct": "4.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "3.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Distribution",
+      "pct": "2.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "2.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits et services de consommation",
+      "pct": "1.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Chimie",
+      "pct": "1.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Médias",
+      "pct": "1.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Assurance",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Bâtiment et matériaux de construction",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Agroalimentaire, boisson et tabac",
+      "pct": "0.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Magasins de soin personnel, de médicaments et d'épicerie",
+      "pct": "0.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Ressources de base",
+      "pct": "0.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "OPCVM",
+      "pct": "3.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités et autres",
+      "pct": "2.7"
+    }
+  ]
+}

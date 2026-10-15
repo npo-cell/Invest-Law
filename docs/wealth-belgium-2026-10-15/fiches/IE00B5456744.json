@@ -1,0 +1,205 @@
+{
+  "n": "315",
+  "isin": "IE00B5456744",
+  "nom": "(I/C)VANGUARD ESG DEVELOPED WORLD ALL CAP EQ EUR",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2011-02-07",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales (indiciel ESG)",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Global Equity Index Management (GE)",
+  "encours_millions": "6308",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.20",
+  "sri": "4",
+  "indice": "FTSE Developed All Cap Choice Index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) et cherche à répliquer la performance de l’indice FTSE Developed All Cap Choice (l’« Indice »).\n• L’Indice, composé d’actions de grandes, moyennes et petites capitalisations des marchés développés à travers le monde, est un indice pondéré par la capitalisation boursière. La capitalisation boursière correspond à la valeur des actions en circulation d’une société sur le marché et indique la taille de la société.\n• L’Indice est élaboré à partir de l’indice FTSE Developed All Cap, qui est ensuite examiné au regard de certains critères environnementaux, sociaux et de gouvernance (à savoir, liés aux controverses).\n• En excluant de son portefeuille des actions de sociétés sur le fondement des conséquences potentiellement néfastes de leur conduite ou de leurs produits sur la société et/ou l’environnement, le Fonds promeut certaines caractéristiques environnementales et sociales relatives aux normes sociales.\n• Le Fonds cherche 1. à répliquer la performance de l’Indice en investissant dans la totalité, ou la quasi-totalité, des titres qui constituent l’Indice, approximativement dans la même proportion que l’Indice. (lorsqu’il ne sera pas possible de la répliquer intégralement, le Fonds utilisera un procédé d’échantillonnage), et 2. à maintenir un niveau d’investissement total, sauf dans des conditions de marché, politiques ou analogues extraordinaires, dans lesquels le Fonds peut déroger temporairement à cette politique d’investissement afin d’éviter des pertes.\n• La méthodologie de l’Indice exclut les titres des sociétés que le promoteur de l’Indice détermine (a) comme étant engagées ou impliquées de façon spécifique dans la chaîne logistique et/ou (b) comme percevant des revenus (au-dessus d’un seuil spécifié par le Fournisseur d’indices) de certaines opérations liées aux activités suivantes : (a) les produits associés au « vice » (à savoir, divertissements pour adultes, alcool, jeux d’argent, tabac, cannabis) ; (b) les énergies non renouvelables (énergie nucléaire, combustibles fossiles, y compris : (i) les sociétés qui détiennent une participation supérieure à 50 % dans des sociétés dont il est avéré ou probable qu’elles possèdent des réserves de charbon, de pétrole ou de gaz, (ii) la production de pétrole et de gaz et les services connexes, (iii) l’extraction et la production de charbon et les services connexes, (iv) la production d’énergie à partir de pétrole, de gaz et de charbon thermique, (v) l’extraction pétrolière et gazière dans les régions arctiques, et (vi) l’extraction de sables bitumineux)) ; et (c) les armes (armes chimiques et biologiques, armes à sous-munitions, mines antipersonnel, armes nucléaires, armes à feu civiles et armes militaires conventionnelles). Il incombe au Fournisseur d’indices de définir ce qui caractérise l’« implication » dans l’une de ces activités. Une société peut notamment être considérée comme impliquée dans une activité au-delà d’un certain pourcentage de revenus perçus, ou si elle est liée d’une quelconque façon à une activité restreinte, quel que soit le montant des revenus perçus. L’implication portera sur des aspects spécifiques de la chaîne logistique.\n• L’implication de l’entreprise dans les produits et les comportements est surveillée chaque année par le fournisseur de l’indice et de nouvelles données sont mises à sa disposition.\n• Pour la stratégie d’investissement complète, veuillez consulter le prospectus.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Acc. Date de création « 07 février 2011 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : équipe « Global Equity Index Management (GE) ». Encours = « Encours total (million) 6 308 € » (encours de la classe : 1 140 €). Frais de gestion non indiqués ; frais courants 0,20 % (KID, = MFC factsheet). Indice : fonds indiciel répliquant le FTSE Developed All Cap Choice Index (FTSE Developed Index jusqu’au 13 mai 2020). SFDR : aucun article mentionné (la politique indique que le Fonds « promeut certaines caractéristiques environnementales et sociales »). Allocations au 31 août 2026 : 10 principaux titres (30,7 % de l'actif net), exposition sectorielle (ICB), 10 premiers marchés (type Pays).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.2",
+    "disclaimer": "factsheet p.6",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA Corp.",
+      "pct": "6.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc.",
+      "pct": "5.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp.",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc.",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.com Inc.",
+      "pct": "3.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc.",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Meta Platforms Inc.",
+      "pct": "1.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Micron Technology Inc.",
+      "pct": "1.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tesla Inc.",
+      "pct": "1.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Samsung Electronics Co. Ltd.",
+      "pct": "1.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies",
+      "pct": "38.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "15.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation discrétionnaire",
+      "pct": "12.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "10.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "8.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "3.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "3.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux de base",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "0.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "0.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "71.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "6.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Corée",
+      "pct": "3.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "2.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "2.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "La Suisse",
+      "pct": "2.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "2.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Australie",
+      "pct": "1.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "1.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "1.2"
+    }
+  ]
+}

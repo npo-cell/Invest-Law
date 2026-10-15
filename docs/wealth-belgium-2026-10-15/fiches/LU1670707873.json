@@ -1,0 +1,279 @@
+{
+  "n": "211",
+  "isin": "LU1670707873",
+  "nom": "(I/C)M&G (LUX) EUROPEAN STRATEGIC VALUE FUND C EUR",
+  "maison": "M&G Luxembourg S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-02-16",
+  "date_creation": "2018-09-20",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes",
+  "compartiment": "M&G (Lux) European Strategic Value Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1.",
+  "gerants": "Richard Halle, Shane Kelly",
+  "encours_millions": "8213.72",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.90",
+  "sri": "4",
+  "indice": "MSCI Europe Net Return Index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+  "politique_fr": "Le fonds cherche à générer des revenus et une croissance du capital supérieurs à ceux du marché boursier européen (tel que mesuré par l’indice MSCI Europe Net Return Index) sur toute période de cinq années consécutives, tout en appliquant les critères ESG (environnementaux, sociaux et de gouvernance). Au moins 80 % du fonds sont investis dans un portefeuille axé valeur d’actions de sociétés domiciliées en Europe ou y menant la majeure partie de leur activité. Le fonds est investi dans des sociétés bon marché et peu courues dont le cours d’action, de l’avis du gestionnaire des investissements, ne reflète pas la valeur sous-jacente. La sélection des actions se fait en fonction de leur intérêt propre, par le biais d’une évaluation de la qualité mettant l’accent sur la valeur. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et une orientation positive ESG, comme prévu dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Catégorie C en EUR – Actions de capitalisation. Date de création = « Lancement de la catégorie de part 20 septembre 2018 » (fonds lancé le 18 septembre 2018). Gérants : Richard Halle (gérant), Shane Kelly (gérant adjoint). Encours = « Encours du fonds (millions) € 8.213,72 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,90 % ; factsheet « Frais de gestion et autres commissions 0,84% » (0,84%* = estimation dans le tableau des parts) ; pas de commission de gestion séparée. Indice retenu : objectif de performance et mesure de la performance (ne limite pas le portefeuille). SFDR article 8, aucun % durable écrit. Classification Dynamique : actions européennes diversifiées (style value), SRI 4. Allocations : colonne « Fonds » uniquement ; tableaux sur/sous-expositions non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.5",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "BBVA",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Shell",
+      "pct": "2.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Astrazeneca",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nordea Bank ABP",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Erste Group Bank",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Glaxosmithkline",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Siemens",
+      "pct": "2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Arcelormittal",
+      "pct": "2.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Bank of Ireland Group",
+      "pct": "2.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Koninklijke Ahold Delhaize",
+      "pct": "2.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Sociétés financières",
+      "pct": "22.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industries",
+      "pct": "14.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de santé",
+      "pct": "13.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de cons. de base",
+      "pct": "10.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de cons. cycl.",
+      "pct": "9.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "9.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "4.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie de l'information",
+      "pct": "2.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Stratégie",
+      "pct": "1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "3.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "20.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "17.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "15.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "12.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Espagne",
+      "pct": "5.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Irlande",
+      "pct": "4.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Finlande",
+      "pct": "3.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autriche",
+      "pct": "3.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "12.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités",
+      "pct": "3.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 50 milliards d'euros",
+      "pct": "34.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "25 - 50 milliards d'euros",
+      "pct": "23.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5 - 25 milliards d'euros",
+      "pct": "22.0"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "2,5 - 5 milliards d'euros",
+      "pct": "9.7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "< 2,5 milliards d'euros",
+      "pct": "6.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Liquidités",
+      "pct": "3.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "71.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre sterling",
+      "pct": "20.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne danoise",
+      "pct": "3.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Franc Suisse",
+      "pct": "2.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne suédoise",
+      "pct": "2.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar US",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne norvégienne",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar de Singapour",
+      "pct": "0.0"
+    }
+  ]
+}

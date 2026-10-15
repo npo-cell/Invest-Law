@@ -1,0 +1,152 @@
+{
+  "n": "56",
+  "isin": "LU1434524259",
+  "nom": "(I/C)CANDRIAM SUSTAINABLE EQUITY EM I EUR",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-02-18",
+  "date_creation": "2017-03-23",
+  "devise": "EUR",
+  "type_fonds": "Actions marchés émergents",
+  "compartiment": "Ce produit est une classe d'actions (I) d'un compartiment (Equity Emerging Markets) d'une société d'investissement à capital variable (SICAV) de droit luxembourgeois (Candriam Sustainable), Organisme de Placement Collectif en Valeurs Mobilières (OPCVM).",
+  "gerants": "Galina Besedina, Paulo Salazar, Vivek Dhawan",
+  "encours_millions": "2467.92",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.80",
+  "frais_courants": "1.03",
+  "sri": "4",
+  "indice": "MSCI Emerging Markets Index (Net Return)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
+  "politique_fr": "Stratégie d'investissement\nCandriam Sustainable Equity Emerging Markets (ci-après le « fonds »), un compartiment de la SICAV Candriam Sustainable, vise à permettre aux actionnaires de bénéficier du potentiel de croissance des marchés actions émergents au travers d’un investissement dans des actions sélectionnées par l’équipe de gestion de portefeuille de manière discrétionnaire et de surperformer l’indice de référence. L’objectif d’investissement durable du fonds est de contribuer à la réduction des émissions de gaz à effet de serre en se fixant des objectifs spécifiques et en intégrant des indicateurs climatiques dans l’analyse des actions, et il entend avoir un impact positif à long terme sur le plan environnemental et social. Ainsi, le fonds vise à atteindre des émissions de GES au moins 30 % inférieures à celles de l’indice. L’horizon d’investissement est de 6 ans. Le fonds est géré de manière active et le processus d’investissement implique le renvoi à un indice. Le fonds s’adresse aux investisseurs prêts à accepter les risques liés aux actions des marchés émergents, ainsi qu’à leur niveau de volatilité. Pour plus d’informations concernant les risques ou l’indice de référence et son utilisation, veuillez consulter le document d’informations clés (DIC) du fonds.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet réservée aux investisseurs professionnels (11 pages). Date de création = « Date de lancement 23/03/2017 » (rubrique « Caractéristiques » de la factsheet de la classe I, sans préciser part ou compartiment). Encours « Actifs nets totaux (M EUR) 2 467,92 ». Frais de gestion = « Frais de gestion réels 0,80% » ; frais courants = KID 1,03 % (= « Frais courants 1,03% » factsheet). Indice : KID « MSCI Emerging Markets Index (Net Return) » (factsheet « MSCI Emerging Markets (Net Return) ») : objectif de surperformance, univers d'investissement, risque et comparaison des performances. SFDR « Article 9 » (factsheet), aucun % d'investissements durables écrit (objectif : émissions de GES au moins 30 % inférieures à l'indice). Classification Agressif (marchés émergents) malgré un SRI de 4. Politique : bloc « Stratégie d'investissement » de la factsheet. Allocations : « Top 10 émetteurs » (% Fonds) et « Top 10 Pays » (colonne % Fonds uniquement, pas l'indice ni l'active weight) ; libellés sur deux lignes recollés (TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD, INTERNATIONAL CONTAINER TERMINAL SERVICES INC, République de Corée) ; « Allocation par secteur / par devise / Géographique » et « Capitalisation Boursière » sont des graphiques sans valeurs extractibles.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.2",
+    "encours_devise": "factsheet p.2",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "factsheet p.2",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.2",
+    "source_politique": "factsheet p.2"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "pct": "9.65"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAMSUNG ELECTRONICS CO LTD",
+      "pct": "8.66"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK HYNIX INC",
+      "pct": "5.74"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MEDIATEK INC",
+      "pct": "3.02"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALIBABA GROUP HOLDING LTD",
+      "pct": "1.94"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BEONE MEDICINES LTD",
+      "pct": "1.75"
+    },
+    {
+      "type": "Positions",
+      "libelle": "INTERNATIONAL CONTAINER TERMINAL SERVICES INC",
+      "pct": "1.64"
+    },
+    {
+      "type": "Positions",
+      "libelle": "WUXI APPTEC CO LTD",
+      "pct": "1.55"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GRUPO CIBEST SA",
+      "pct": "1.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GLOBAL UNICHIP CORP",
+      "pct": "1.53"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taïwan",
+      "pct": "27.78"
+    },
+    {
+      "type": "Pays",
+      "libelle": "République de Corée",
+      "pct": "22.05"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "17.44"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Inde",
+      "pct": "10.34"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Brésil",
+      "pct": "4.48"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pologne",
+      "pct": "3.42"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Philippines",
+      "pct": "1.64"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Colombie",
+      "pct": "1.54"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "1.46"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Hongrie",
+      "pct": "1.39"
+    }
+  ]
+}

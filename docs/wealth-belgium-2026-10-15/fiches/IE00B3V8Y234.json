@@ -1,0 +1,216 @@
+{
+  "n": "266",
+  "isin": "IE00B3V8Y234",
+  "nom": "(I/C)PIMCO GIS EURO INCOME BOND FUND EUR",
+  "maison": "PIMCO (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-21",
+  "date_creation": "2011-02-28",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "un compartiment de PIMCO Funds: Global Investors Series plc",
+  "gerants": "Alfred Murata, Saurabh Sud, Nidhi Nakra, Regina Borromeo, Charles Watford",
+  "encours_millions": "2700",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.49",
+  "sri": "2",
+  "indice": "",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "6.77 ans (sensibilité)",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne constituent pas une garantie ou un indicateur fiable des performances futures. Par ailleurs, aucune garantie n'est donnée quant à l'obtention de rendements similaires à l'avenir.",
+  "politique_fr": "Description du Fonds\nLe fonds Euro Income Bond Fund vise un taux de distribution annuel régulier grâce à un portefeuille géré activement et composé principalement d'obligations investment grade libellées en euros présentant une sensibilité moyenne de un à huit ans. Le fonds cible les titres à coupon élevé qui génèrent des revenus pour le portefeuille. Le fonds contiendra au moins 50% de titres investment grade et son exposition aux titres des marchés émergents et aux devises hors euro sera de maximum 25% et 30% respectivement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part Institutionnelle Capitalisation EUR. Date de création = « Date de lancement 28/02/2011 » (colonne Capitalisation). Encours : « Actifs du fonds 2,7 (EUR en milliards) » converti en 2700 millions ; pas de date propre (date de la factsheet). Frais de gestion laissés vides : la factsheet ne donne que « Frais de gestion totaux 0,49% p.a. » (frais tout compris) ; frais courants KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,49 %. Indice laissé vide : le KID indique que l’indice Bloomberg Euro Aggregate 1-10 Year Bond Index sert « à des fins de comparaison de la performance » et « ne sert pas non plus d’objectif de performance » ; la factsheet décrit l’indice « Bloomberg Euro Aggregate 1-10yr ». Duration = « Sensibilité effective (années) 6,77 » (sensibilité de l’indice 4,16). Qualité moyenne non indiquée. Gérant : 5 noms de la ligne « Gérant » ; « PIMCO Global Advisors (Ireland) Limited » figure aussi sous « Gérant » (société de gestion, non reprise). SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Politique : « Description du Fonds » de la factsheet ; « Atouts pour les investisseurs » et « Atouts du Fonds » (arguments commerciaux) non repris ; le KID p.1 contient une politique plus complète. Allocations : 10 principaux titres datés du 30/06/2026 (« *10 principaux titres au 06/30/2026, hors dérivés »), pas du 31/08/2026 ; « Allocation sectorielle » (catégories obligataires, total 100 avec -68,6 d'« Autres instruments à faible sensibilité ») reprise en Classes d'actifs ; « 10 principaux industries » repris en Secteurs ; non repris : « Sensibilité (en % de l’exposition pondérée par la sensibilité) » et « 10 principaux des pays par contribution à la sensibilité ». Tableaux lus sur graphiques, positions des étiquettes vérifiées.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 6.0% SEP 30YR",
+      "pct": "14.65"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 5.0% AUG 30YR",
+      "pct": "12.84"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 5.5% AUG 30YR",
+      "pct": "7.19"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 6.5% AUG 30YR",
+      "pct": "4.86"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 6.5% JUL 30YR",
+      "pct": "4.07"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 5.5% SEP 30YR",
+      "pct": "3.03"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FNMA TBA 5.0% JUL 30YR",
+      "pct": "2.04"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GNMA II TBA 6.5% JUL 30YR JMBO",
+      "pct": "1.93"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GNMA II TBA 5.0% AUG 30YR JMBO",
+      "pct": "1.84"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BEIGNET INVESTOR LLC SEC 144A",
+      "pct": "1.60"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Titres gouvernementaux",
+      "pct": "63.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Produits de titrisation",
+      "pct": "64.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations investment grade",
+      "pct": "15.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations à haut rendement",
+      "pct": "10.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Marchés émergents",
+      "pct": "14.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations municipales/autres∆",
+      "pct": "0.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Autres instruments à faible sensibilité",
+      "pct": "-68.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "4.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance autre",
+      "pct": "3.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Médias câblés",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Banques",
+      "pct": "1.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Alimentation et boisson",
+      "pct": "1.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres services aux collectivités",
+      "pct": "0.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Pétrole intégré",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "REIT: Industrie",
+      "pct": "0.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "REITS: Industriel",
+      "pct": "0.6"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "0 à 1 an",
+      "pct": "0.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 à 3 ans",
+      "pct": "0.0"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3 à 5 ans",
+      "pct": "21.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 à 10 ans",
+      "pct": "68.8"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "10 à 20 ans",
+      "pct": "9.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Plus de 20 ans",
+      "pct": "0.0"
+    }
+  ]
+}

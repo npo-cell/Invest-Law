@@ -1,0 +1,295 @@
+{
+  "n": "221",
+  "isin": "LU1303940941",
+  "nom": "(I/C)MANDARINE EUROPE MICROCAP I EUR",
+  "maison": "MANDARINE GESTION",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-01-02",
+  "date_creation": "2014-05-19",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes micro-capitalisations",
+  "compartiment": "Un compartiment de la SICAV Mandarine Funds",
+  "gerants": "Augustin LECOQ, Théo COLOMBANI, Paul RAFALOVIC",
+  "encours_millions": "188.9",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.25",
+  "sri": "4",
+  "indice": "50% MSCI Europe Microcap NR + 50% MSCI Europe ex-UK Microcap NR",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les chiffres cités ont trait aux périodes écoulées et les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "Mandarine Europe Microcap (le « Fonds ») est un fonds d’actions européennes investi principalement en actions de micro et petites capitalisations à fort potentiel de croissance.\n\nL’objectif du Fonds géré de façon discrétionnaire est de réaliser, sur l’horizon de placement recommandé de 5 ans, une croissance à long terme supérieure à celle de son indicateur de référence : 50% MSCI ® Europe Micro Cap – Net Returns + 50% MSCI® Europe Micro Ex UK (dividendes réinvestis). Cependant, le Fonds n'a pas pour objectif de reproduire d'une manière ou d'une autre la performance de cet indice.\n\nLe Fonds investira au moins 75% de son actif net dans des actions de sociétés ayant leur siège social situé dans l'Espace Economique Européen (EEE). Dans ce cadre, le Fonds sera investi, de façon prépondérante, en actions de micro et petite capitalisations européennes.\n\nLe Fonds bénéficie d’une notation extra-financière des émetteurs de son univers d’investissement. La construction de cette notation s’appuie sur le système propriétaire ESG-View, qui repose sur 4 piliers : Environnement (E), Social (S), Gouvernance (G) et Parties Prenantes (PP). L’analyse des indicateurs extra-financiers les composant permet d’aboutir pour chacun des piliers à une note (« Note ESG-View »), comprise entre -2 et +2. Le Fonds procède à une exclusion des émetteurs ayant une note ESG-View la plus basse (sur une échelle allant de -2 à 2, 2 étant la meilleure) pour parvenir à un taux d’exclusion de 25% minimum sur l’Univers Analysé à compter du 1er janvier 2025, et 30% à compter du 1er janvier 2026, en nombre d’émetteurs ou en poids.\n\nLe Fonds peut investir jusqu'à 25% de son actif net dans de instruments du marché monétaire ou des titres de créances, des Euro Medium Term Notes (EMTN) et tous autres types de titres obligataires ou monétaires éligibles.\n\nLe Fonds peut investir en parts d'organismes de placement collectif dans la limite de 10% de son actif net.\n\nLes instruments financiers à terme pourront être utilisés à titre de couverture ou d'exposition.\n\nObjectif de gestion : Obtenir une performance supérieure à celle de son indicateur de référence.\n\nLe Fonds prend en compte les risques de durabilité et les caractéristiques ESG dans le cadre de sa procédure de sélection. A cet égard, le Fonds promeut des caractéristiques environnementales ou sociales au sens de l’article 8 du Règlement SFDR. Le Fonds est soumis à un risque en matière de durabilité tel que défini dans le profil de risque du prospectus.\n\nLe Fonds est géré de manière active.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Action I. Date de création = « Création de la part 19/05/2014 » (création du fonds 31/12/2013). Gérants : noms affichés en p.1 de la factsheet sans intitulé (bloc photos de l'équipe de gestion) — à confirmer. Encours = « Actif sous gestion 188.9M€ » (chiffres-clés au 30 septembre 2026). Frais de gestion = « Frais de gestion 1.00% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 1.25 % ; commission de surperformance 20 % au-delà de l’indice. Indice composite recopié de la factsheet (depuis le 01/01/2021 ; auparavant Stoxx Small 200 NR puis MSCI Europe Microcap NR) ; KID : « 50% MSCI ® Europe Micro Cap – Net Returns + 50% MSCI® Europe Micro Ex UK » (objectif de surperformance). SFDR article 8 ; « Minimum d’investissements durables 10% » et « Minimum d’alignement à la Taxonomie 1% » (minimums, non repris en %) ; Label ISR. Classification Agressif : micro et petites capitalisations européennes (small caps spécialisées), SRI 4. Politique prise du KID : la factsheet n'a qu'un court texte de présentation (« se focalise sur les plus petites capitalisations européennes… ») ; section « Objectifs » du KID p.1 copiée jusqu'à « Le Fonds est géré de manière active. ». Positions : noms tronqués (« … ») tels qu'écrits dans la factsheet.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.2",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.3",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "KID p.1",
+    "source_politique": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "INDUS HOLDING AG",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GRK INFRA OYJ",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GALLIFORD TRY HOLDINGS P…",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SPAREKASSEN SJAELLAND-F…",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "KENDRION NV",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ABC ARBITRAGE S.A.",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ROSENBAUER INTERNATION…",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DJURSLANDS BANK A/S",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FBD HOLDINGS",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CEWE COLOR HOLDING AG",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "22.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "16.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "16.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services conso.",
+      "pct": "10.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "7.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits de base",
+      "pct": "6.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de conso.",
+      "pct": "5.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "5.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communications",
+      "pct": "4.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "0.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "NA",
+      "pct": "0.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cash & Autres",
+      "pct": "3.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suède",
+      "pct": "19.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Grande-Bretagne",
+      "pct": "13.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "9.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "8.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Norvège",
+      "pct": "8.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suisse",
+      "pct": "7.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Finlande",
+      "pct": "6.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "6.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Danemark",
+      "pct": "4.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "2.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "2.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autriche",
+      "pct": "2.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Belgique",
+      "pct": "1.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres Pays",
+      "pct": "2.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Cash & Autres",
+      "pct": "3.4"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 500 mln €",
+      "pct": "47.6"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "300-500 mln €",
+      "pct": "26.1"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "150-300 mln €",
+      "pct": "13.9"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "< 150 mln €",
+      "pct": "9.0"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Cash & Autres",
+      "pct": "3.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "46.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "SEK",
+      "pct": "19.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "13.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "NOK",
+      "pct": "9.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "CHF",
+      "pct": "8.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "DKK",
+      "pct": "3.9"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "n": "184",
+  "isin": "FR0010700401",
+  "nom": "(I/C)KEREN CORPORATE I EUR",
+  "maison": "KEREN FINANCE",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-29",
+  "date_creation": "",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "Compartiment de la SICAV Keren",
+  "gerants": "Benoît Soler",
+  "encours_millions": "408.28",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.50",
+  "frais_courants": "0.52",
+  "sri": "2",
+  "indice": "",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "58.1",
+  "duration": "3.02",
+  "qualite_emetteurs": "BBB-",
+  "disclaimer": "L'OPCVM n’offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+  "politique_fr": "Objectif d'investissement :\nAfin de réaliser l'objectif de gestion sur la durée de placement recommandée >3 ans , Keren Corporate adopte un style de gestion active en investissant sur des titres de créance et instruments du marché monétaire, libellés en euro, de dette privée et de dette convertible (10% max), sans contrainte a priori d’allocation par zones géographiques, duration, notation, secteur d’activités ou types de valeurs.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part I. KID = DIC de la part I (pages 4-6 du fichier regroupant les DIC des 5 parts). Date de création vide : aucune date de lancement de la part ni du compartiment dans les documents. Encours = « AuM: 408.28 mEUR » sur la ligne de la part I (part ou compartiment non précisé). Frais de gestion = « Frais de gestion annuels 0.50% TTC » (factsheet ; frais de service annuels 0.12 %) ; frais courants = KID « Frais de gestion fin. & autres coûts 0,52% » ; commission de surperformance : néant. Indice vide : l'objectif du KID est de surperformer « l’indice Bloomberg Barclays EuroAgg Treasury 3-5 ans coupons réinvestis », mais « L’indicateur de référence est utilisé uniquement à titre de comparaison » ; la factsheet compare les performances à « Bloomberg Barclays EuroAgg Treasury 3-5 ans TR ». Duration « 3.02 » (sensibilité 2.94) ; « NOTATION MOYENNE BBB- » ; maturité moyenne 2031 ; rendement actuariel 5.40 % — caractéristiques de la « poche taux ». Investissements durables : « Investissement durable 58.1% » (graphique p.3 ; alignement taxonomie 4 %). SFDR 8 (factsheet). Classification AMF : Obligations et/ou titres de créance libellés en euros. Politique : factsheet (une phrase) ; le KID p.4 contient une description plus détaillée. Allocations (poche taux, lues sur graphiques, positions des étiquettes vérifiées) : légende des graphiques secteurs/zones « Estimation des contributions sur 1 mois » erronée (totaux 100 % = répartitions) ; maturités « hors OPC » ; notations : une barre de 24.67 % sans étiquette (entre BBB+:BBB- et B+:B-, probablement BB) non reprise, total des notations repris 79.97 % (avec la barre non étiquetée : 104.64 %). Contributions à la performance non reprises.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.4",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet (informations générales)",
+    "frais_courants": "KID p.6",
+    "sri": "KID p.5",
+    "sfdr": "factsheet p.1",
+    "durable_pct": "factsheet p.3",
+    "duration": "factsheet p.2",
+    "qualite_emetteurs": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "SPCM 2.625% 01/02/2029",
+      "pct": "4.77"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Zalando 0.625% 06/08/2027 CV",
+      "pct": "3.05"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BBG IG EUR Corp SRI Future 18 decembre 2026",
+      "pct": "2.89"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Roche Finance Europe 3.586% 04/12/2036",
+      "pct": "2.63"
+    },
+    {
+      "type": "Positions",
+      "libelle": "L'Oréal 3.375% 19/01/2036",
+      "pct": "2.35"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrials",
+      "pct": "25.32"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Materials",
+      "pct": "14.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Discretionary",
+      "pct": "13.13"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Health Care",
+      "pct": "11.31"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Staples",
+      "pct": "11.07"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financials",
+      "pct": "7.24"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Information Technology",
+      "pct": "5.94"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Sovereign/Govt/Supranational",
+      "pct": "5.28"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Telecommunication Services",
+      "pct": "3.82"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Real Estate",
+      "pct": "2.69"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "39.38"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Netherlands",
+      "pct": "11.58"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italy",
+      "pct": "11.27"
+    },
+    {
+      "type": "Pays",
+      "libelle": "United States",
+      "pct": "9.27"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Luxembourg",
+      "pct": "7.93"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Portugal",
+      "pct": "5.34"
+    },
+    {
+      "type": "Pays",
+      "libelle": "United Kingdom",
+      "pct": "5.03"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Spain",
+      "pct": "4.83"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Belgium",
+      "pct": "2.74"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Denmark",
+      "pct": "2.63"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2027",
+      "pct": "7.37"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2028",
+      "pct": "8.35"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2029",
+      "pct": "14.53"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2030",
+      "pct": "21.46"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2031",
+      "pct": "19.65"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2032",
+      "pct": "5.64"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2033",
+      "pct": "7.98"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2034",
+      "pct": "0.41"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2035",
+      "pct": "2.59"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2036",
+      "pct": "5.64"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "PERP",
+      "pct": "6.37"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA:A-",
+      "pct": "36.39"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB+:BBB-",
+      "pct": "12.18"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B+:B-",
+      "pct": "23.18"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CCC+:C-",
+      "pct": "8.22"
+    },
+    {
+      "type": "Notations",
+      "libelle": "NR",
+      "pct": "0"
+    }
+  ]
+}

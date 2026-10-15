@@ -1,0 +1,245 @@
+{
+  "n": "65",
+  "isin": "LU0992631217",
+  "nom": "(I/C)CARMIGNAC PF FLEXIBLE BOND F EUR",
+  "maison": "CARMIGNAC GESTION",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2013-11-15",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "Carmignac Portfolio Flexible Bond est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+  "gerants": "Guillaume Rigeade, Eliezer Ben Zimra",
+  "encours_millions": "3636",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.78",
+  "sri": "2",
+  "indice": "ICE BofA Euro Broad Market index",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "3.3 (sensibilité)",
+  "qualite_emetteurs": "A-",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Flexible Bond est un fonds obligataire (UCITS) qui met en œuvre des stratégies de taux et de crédit à travers le monde, tout en couvrant systématiquement le risque de change. Son approche flexible et opportuniste lui permet de déployer une stratégie d'allocation de conviction et « non benchmarkée » sur l'ensemble des marchés obligataires. Le Fonds promeut des caractéristiques environnementales et sociales et a pour objectif de surperformer son indicateur de référence sur une durée minimale de placement recommandée de trois ans, en tirant parti des phases de hausse des marchés et en se couvrant contre les risques en cas de repli.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/11/2013) ; le compartiment a été lancé le 14/12/2007. Changement de stratégie et d’indicateur au 30/09/2019 ; nom antérieur « Carmignac Portfolio Unconstrained Euro Fixed Income » (jusqu’au 10/03/2021). Encours = « Actifs sous gestion du Fonds : 3636M€ » (encours de la part : 1294M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 0,78 % (= frais courants, identique au KID p.3) ; commission liée aux résultats 20 % de la surperformance. Indice : factsheet « ICE BofA Euro Broad Market index. » (KID : « l'indice ICE BofA Euro Broad Market », objectif de surperformance). SRI 2 (KID : « classe de risque 2 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 0% ». Duration = « Sensibilité taux 3,3 » ; qualité = « Notation moyenne A- ». Allocations : notations et pays « Poids rebasés » ; classes d’actifs : 1er et 2e niveaux repris (Obligations détaillées en Emprunts d'Etat, Emprunts privés, CLO — total supérieur à 100 %) ; 3e niveau (pays développés / émergents, High Yield / Investment grade) non repris car libellés répétés ambigus ; Credit Default Swap négatif (-18,5 %) gardé tel quel ; tableaux de sensibilité (par maturité, par courbe de taux) non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "72.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts d'Etat",
+      "pct": "54.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts privés",
+      "pct": "16.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Collateralized Loan Obligation (CLO)",
+      "pct": "0.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "0.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Credit Default Swap",
+      "pct": "-18.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Monétaire",
+      "pct": "18.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+      "pct": "9.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "0.1"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "9.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "8.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "68.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB",
+      "pct": "8.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "3.6"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CCC",
+      "pct": "0.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CC",
+      "pct": "0.1"
+    },
+    {
+      "type": "Notations",
+      "libelle": "C",
+      "pct": "0.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "D",
+      "pct": "0.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "56.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Etats-Unis",
+      "pct": "10.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "3.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Grèce",
+      "pct": "2.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "2.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pologne",
+      "pct": "2.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "1.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "1.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Mexique",
+      "pct": "1.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Roumanie",
+      "pct": "1.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres pays",
+      "pct": "16.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.60% 28/06/2030",
+      "pct": "14.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.25% 15/09/2032",
+      "pct": "9.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.85% 04/06/2032",
+      "pct": "5.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNITED STATES 0.12% 15/07/2030",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 2.00% 14/03/2028",
+      "pct": "2.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNITED STATES 1.25% 15/04/2031",
+      "pct": "2.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JAPAN 1.30% 20/03/2063",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 2.85% 01/02/2031",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.60% 22/11/2028",
+      "pct": "2.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "POLAND 2.00% 25/08/2036",
+      "pct": "1.5"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "n": "285",
+  "isin": "LU0792910563",
+  "nom": "(I/C)ROBECO HIGH YIELD BONDS FH EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-30",
+  "date_creation": "2012-07-04",
+  "devise": "EUR",
+  "type_fonds": "Obligataire (haut rendement)",
+  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+  "gerants": "Sander Bus, Christiaan Lever, Roeland Moraal, Daniel de Koning",
+  "encours_millions": "4408.322432",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.55",
+  "frais_courants": "0.77",
+  "sri": "2",
+  "indice": "Bloomberg US Corporate High Yield + Pan Euro HY ex Financials 2.5% Issuer Cap (hedged into EUR)",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "BA2/BA3",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+  "politique_fr": "À propos du fonds\nRobeco High Yield Bonds est un fonds à gestion active qui investit essentiellement dans des obligations de notation inférieure à Investment Grade, émises principalement par des émetteurs de marchés développés (Europe/États-Unis). La sélection de ces obligations est basée sur une analyse fondamentale. Le fonds vise à faire fructifier le capital sur le long terme. Le portefeuille est bien diversifié, avec un biais structurel sur les segments à notation élevée du High Yield. Les moteurs de performance sont le positionnement top-down du beta et la sélection d'émetteurs bottom-up.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Part FH EUR couverte en EUR (KID : « Cette Part est couverte en EUR (Benchmark hedge) »). Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Qualité = « Notation moyenne BA2/BA3 » (notation Moody's). Duration laissée vide : la factsheet donne seulement une « Duration de spread (duration de spread ajustée des options en années) 3,42 » et une duration par devise (graphique « Duration (ans) », non reprise). Classification Défensif : obligataire (haut rendement), SRI 2. Allocations : graphique Secteur sans valeur indice pour « Secteur bancaire » et « Trésors » (appariement vérifié par positions, total fonds 100,1) ; « Devise de libellé » total 95,4 (le reste n'est pas ventilé) ; 10 principales lignes = « Top 10 Largest Holdings ». Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,77 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.2"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ZF Europe Finance BV",
+      "pct": "1.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Albertsons Cos Inc / Safeway Inc / New Albertsons",
+      "pct": "1.26"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CCO Holdings LLC / CCO Holdings Capital Corp",
+      "pct": "1.26"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Celanese US Holdings LLC",
+      "pct": "1.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "EMRLD Borrower LP / Emerald Co-Issuer Inc",
+      "pct": "0.99"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Graphic Packaging International LLC",
+      "pct": "0.98"
+    },
+    {
+      "type": "Positions",
+      "libelle": "British Telecommunications Ltd",
+      "pct": "0.94"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Olympus Water US Holding Corp",
+      "pct": "0.94"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Fortescue Treasury Pty Ltd",
+      "pct": "0.92"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Venture Global Plaquemines LNG LLC",
+      "pct": "0.92"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation cycliques",
+      "pct": "18.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie de base",
+      "pct": "12.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communications",
+      "pct": "12.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens d'équipement",
+      "pct": "12.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "10.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation non cycliques",
+      "pct": "6.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Secteur bancaire",
+      "pct": "5.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "4.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "3.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Transports",
+      "pct": "2.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Trésors",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres",
+      "pct": "5.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités et autres instruments",
+      "pct": "4.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amerique",
+      "pct": "51.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "11.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "7.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "6.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "2.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italie",
+      "pct": "2.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Espagne",
+      "pct": "2.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Luxembourg",
+      "pct": "2.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "8.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités et autres instruments",
+      "pct": "4.6"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "1.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "0.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BAA",
+      "pct": "10.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BA",
+      "pct": "55.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "23.6"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CAA",
+      "pct": "3.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CA",
+      "pct": "0.2"
+    },
+    {
+      "type": "Notations",
+      "libelle": "D",
+      "pct": "0.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Non-rated",
+      "pct": "0.6"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Liquidités et autres instruments",
+      "pct": "4.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar Américain",
+      "pct": "52.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "39.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre Sterling",
+      "pct": "3.7"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "n": "193",
+  "isin": "FR0014015UU8",
+  "nom": "(I/C)LAZARD CREDIT 2031 PC EUR (FMB)",
+  "maison": "Lazard Frères Gestion",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-10-08",
+  "date_creation": "2026-03-25",
+  "devise": "EUR",
+  "type_fonds": "Obligataire (fonds à échéance 2031, haut rendement)",
+  "compartiment": "Lazard Credit 2031 - Action PC EUR, compartiment de LAZARD FUNDS",
+  "gerants": "Alexia LATORRE, Emmanuel CUCHE",
+  "encours_millions": "50.57",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "1.00",
+  "frais_courants": "0.60",
+  "sri": "2",
+  "indice": "",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "3.2 (sensibilité)",
+  "qualite_emetteurs": "BB+",
+  "disclaimer": "",
+  "politique_fr": "Objectif de gestion et stratégie d'investissement\nLe compartiment a pour objectif de gestion, au moment de la souscription et sur un horizon de placement de 5 ans, d'obtenir une performance nette de frais liée aux taux de rendements actuels des obligations High Yield de maturité 2031. Cet objectif est fondé sur la réalisation de l’hypothèse d’une détention des actions du compartiment sur toute la durée de placement recommandée et sur la réalisation d’hypothèses de marché arrêtées par la Société de Gestion. Il ne constitue en aucun cas une promesse de rendement ou de performance du compartiment. Ces hypothèses de marché comprennent un risque de défaut ou de dégradation de la notation d’un ou plusieurs émetteurs présents en portefeuille. Si ces risques se matérialisaient de manière plus importante que prévue dans les hypothèses du gestionnaire financier, l’objectif de gestion pourrait ne pas être atteint. Le compartiment pourra investir dans des obligations et autres titres de créances monétaires d’émetteurs privés ou publics et libellés en euro exclusivement, et auxquels l’actif net sera exposé en permanence entre 0% et 100%. Le compartiment cherche à profiter de rendements actuariels jugés attractifs sur les obligations d'émetteurs privés. Le compartiment n'investit que dans des obligations ou titres émis par des émetteurs dont le siège social est établi dans un pays membre de l'OCDE et/ou dans des émissions ou titres cotés sur une bourse de l'un de ces pays.Le compartiment pourra être investi à hauteur de 100% maximum de l'actif net en obligations spéculatives dites \"à haut rendement\" (High Yield) selon les agences de notation ou équivalent selon la société de gestion, et par conséquent avoir un risque de crédit plus important.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Reporting d'août 2026 (« 08-2026 ») avec en-tête « Part A » mais ISIN FR0014015UU8 (part « Action PC EUR » selon le DIC). Date de création = « Date de 1ère VL de la part 25/03/2026 » (date de création du compartiment identique). Encours = « Actif net du fonds 50.57 M€ ». Frais de gestion = « Frais de gestion (max) 1.00% » (maximum) ; frais courants = KID « Frais de gestion et autres coûts administratifs et d’exploitation » 0,60 % (factsheet : « Frais courants DIC PRIIPS 0.60% ») ; pas de commission de surperformance. Indice vide : aucun indice de référence cité (objectif lié aux rendements des obligations High Yield de maturité 2031). Duration = « Sensibilité taux 3.2 » (sensibilité crédit 3.2 ; rendement estimé 5.3 %, spread 198 bps). Qualité = « Rating Emetteurs BB+ » (« Rating Emissions BB »). Disclaimer vide : pas d'avertissement général sur les performances passées dans la factsheet (fonds de moins de 12 mois, performances non publiées). SFDR article 8 (factsheet). Classification Défensif : obligataire à échéance (haut rendement), SRI 2. Allocations : seules les principales lignes et la répartition par devise (Poids Net = Poids Brut 100.0 %) sont en texte ; les graphiques (subordination, géographie, secteurs, maturités, notations) sont des images sans valeurs lisibles dans le texte, non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.2",
+    "qualite_emetteurs": "factsheet p.2",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "TELEFONICA EUROPE TV23-07SE--A",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BAYER AG TV 23-25SE83A",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CMA CGM 5% (REGS) 25-15JA31S",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GRAND CITY PROP. TV 25-08DE--A",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ILIAD HOLDING 67/8% 24-15AP31S",
+      "pct": "1.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "100.0"
+    }
+  ]
+}

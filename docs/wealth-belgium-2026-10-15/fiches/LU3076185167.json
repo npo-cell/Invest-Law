@@ -1,0 +1,99 @@
+{
+  "n": "232",
+  "isin": "LU3076185167",
+  "nom": "(I/C)NORDEA 1 EMPOWER EUROPE BI EUR",
+  "maison": "Nordea Investment Funds S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-20",
+  "date_creation": "2025-06-12",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes thématiques",
+  "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+  "gerants": "Fundamental Equities Team",
+  "encours_millions": "922.38",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.75",
+  "frais_courants": "0.93",
+  "sri": "4",
+  "indice": "",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "La performance affichée est basée sur des données historiques. Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi.",
+  "politique_fr": "Objectif d'investissement\nDans le cadre de la gestion active du portefeuille du fonds, l'équipe de gestion cible les sociétés de toute capitalisation qui tirent profit de l’attention accrue portée à la résilience énergétique, à la relocalisation de la production industrielle ainsi qu'à la défense et à la cybersécurité, et qui semblent offrir des perspectives de croissance et des caractéristiques d'investissement supérieures. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Nordea 1 - Empower Europe Fund, part BI-EUR (capitalisation). Date de création = « Date de lancement 12/06/2025 » (caractéristiques de la part ; identique au fonds). Gérant : « Fundamental Equities Team » (nom d'équipe). Encours = « Encours sous gestion (Million EUR) 922,38 » (fonds) ; encours de la part 290,46 M EUR ; sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,75 % » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.93 % (factsheet « Frais courants (2025) 0,93% »). Indice laissé vide : « MSCI Europe IMI Index » utilisé « uniquement à des fins de comparaison des performances ». SFDR article 8, aucun % durable écrit. Classification Agressif : actions européennes thématiques (résilience énergétique, relocalisation industrielle, défense, cybersécurité), SRI 4. Politique : bloc « Objectif d'investissement » de la factsheet. Allocations : seules les 10 principales positions sont reprises ; les répartitions de la p.2 sont des graphiques (images) sans texte extractible.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ASML Holding",
+      "pct": "6.14"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Siemens",
+      "pct": "3.62"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nokia",
+      "pct": "3.18"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAP",
+      "pct": "2.69"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Infineon Technologies",
+      "pct": "2.61"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Siemens Energy",
+      "pct": "2.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Prysmian",
+      "pct": "2.47"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Legrand",
+      "pct": "2.43"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Rheinmetall",
+      "pct": "2.35"
+    },
+    {
+      "type": "Positions",
+      "libelle": "E.ON",
+      "pct": "2.28"
+    }
+  ]
+}

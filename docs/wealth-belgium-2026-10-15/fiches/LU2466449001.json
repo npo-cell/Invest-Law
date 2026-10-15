@@ -1,0 +1,242 @@
+{
+  "n": "116",
+  "isin": "LU2466449001",
+  "nom": "(I/C)ECHIQUIER SPACE K EUR",
+  "maison": "La Financière de l'Echiquier",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-22",
+  "date_creation": "2021-05-31",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales (thématique spatial)",
+  "compartiment": "Compartiment de la SICAV ECHIQUIER FUND gérée par La Financière de l'Echiquier",
+  "gerants": "Stéphane Nières Tavernier, Christophe Pouchoy, Alicia Daurignac",
+  "encours_millions": "544",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.20",
+  "sri": "4",
+  "indice": "MSCI ACWI NET RETURN EUR",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "Echiquier Space est un OPCVM investi sur les marchés des actions internationales et plus précisément dans des sociétés de l’univers spatial. L’objectif de l’OPCVM est de réaliser, sur la durée de placement recommandée, une performance nette de frais supérieure à celle de son indice de référence, l’indice MSCI All Country Index Net Return (Euro) dividendes nets réinvestis. L'OPCVM met en oeuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking » obtenue au travers de la mise en oeuvre d'un processus qui passe par la rencontre avec les entreprises. Dans la construction du portefeuille, l'équipe de gestion intègre de façon systématique une approche extra financière sans toutefois que cette dernière soit déterminante dans les décisions d'investissement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de 1ère VNI* 31/05/2021 » : le 12 décembre 2022, Echiquier Space (compartiment d'une Sicav de droit français) a été transféré dans Echiquier Fund (droit luxembourgeois) ; les VL et performances antérieures sont celles du fonds français. Compartiment : texte du KID. Frais de gestion = « Frais de gestion 1,00% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.20% » ; pas de commission de surperformance. Indice : objectif de surperformer le MSCI All Country Index Net Return (Euro) (factsheet « Indice* MSCI ACWI NET RETURN EUR » ; KID : utilisé pour le calcul de la performance et à des fins d'information). SFDR « Classification SFDR Article 8 », aucun % d'investissements durables écrit. Classification Agressif : actions thématiques spatial (volatilité 1 an 35,8 %), bien que SRI 4. Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 0,2 %) ; graphiques lus par position des étiquettes (barre supérieure = compartiment, vérifié par les totaux = 100) ; secteur « Autres » sans valeur pour le compartiment, non repris ; graphique des devises sans colonne indice. Positions = 10 principales positions (48,5 %), dont SpaceX.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Rocket Lab",
+      "pct": "6.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SpaceX",
+      "pct": "6.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MDA Space",
+      "pct": "5.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Viasat",
+      "pct": "5.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BAE Systems",
+      "pct": "4.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Planet Labs",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Teledyne Technologies",
+      "pct": "4.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Firefly Aerospace",
+      "pct": "4.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "RTX",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Thales",
+      "pct": "3.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "USA",
+      "pct": "64.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "FRA",
+      "pct": "6.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "TWN",
+      "pct": "5.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "CAN",
+      "pct": "5.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "GBR",
+      "pct": "4.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "JPN",
+      "pct": "3.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "IRL",
+      "pct": "3.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "NLD",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ITA",
+      "pct": "1.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ISR",
+      "pct": "1.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "55.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "IT",
+      "pct": "20.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. de comm.",
+      "pct": "18.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "3.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. discr.",
+      "pct": "2.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">500Mds",
+      "pct": "11.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "100Mds - 500Mds",
+      "pct": "14.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "50Mds - 100Mds",
+      "pct": "4.9"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "10Mds - 50Mds",
+      "pct": "26.7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5Mds - 10Mds",
+      "pct": "12.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "<5Mds",
+      "pct": "29.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "72.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "11.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "CAD",
+      "pct": "5.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "4.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "JPY",
+      "pct": "3.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "TWD",
+      "pct": "2.4"
+    }
+  ]
+}

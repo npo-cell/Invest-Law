@@ -1,0 +1,270 @@
+{
+  "n": "29",
+  "isin": "LU0535372949",
+  "nom": "(I/C)ALLIANZ STRATEGY 50 NT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2010-10-04",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "Allianz Strategy 50 is a sub-fund of Allianz European Pension Investments SICAV, an open-ended investment company with variable share capital organised under the laws of Luxembourg.",
+  "gerants": "Cordula Bauss",
+  "encours_millions": "2469.25",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.49",
+  "sri": "3",
+  "indice": "Aucun",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "20.63",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance does not predict future returns.",
+  "politique_fr": "",
+  "politique_en": "Investment objective\nThe fund invests to a variable extent in international equity markets and in the market for euro bonds. Applying a quantitative approach, fund management lowers the investment in stocks in phases of high market volatility and raises it in phases of low volatility. Overall, it strives to achieve a return that is comparable to the return of a mixed portfolio investing 50% in international stocks and 50% in medium-term euro bonds.",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet uniquement en anglais (30/09/2026, part NT (EUR)) ; KID FR du 16/04/2026 au texte mal encodé (utilisé pour SRI, frais, indice, SFDR). Date de création = « Share class launch date 04/10/2010 » ; lancement du fonds 01/07/2008. Encours = « Fund size 2,469.25 M EUR » ; part : 21.43 M EUR. Frais : « All-in fee (%) p.a. 0.45 (max 0.60) » (commission globale) → frais de gestion vide ; frais courants 0,49 % (KID, = « TER (%) 0.49 »). Indice « Aucun » : « Benchmark No Benchmark » (factsheet) et le KID indique que le compartiment n'est pas géré par rapport à un indice de référence. SFDR article 8 (KID). Investissements durables = « Proportion of sustainable investments Fund 20.63% ». Poche obligataire : « Eff. duration incl. cash & deriv. 2.21 » (hors liquidités et dérivés 2.10) et « Average rating A+ » – non reportés en colonnes (fonds multi-actifs). Exposition actions par dérivés (« Number of equity holdings 0 »). Allocations : Classes d'actifs lues sur le graphique « Asset allocation (incl. derivatives) » (étiquettes associées par position ; total 124,77 % avec dérivés) ; Positions = « Top 10 positions » ; Secteurs, Pays, Notations et Maturités = poche obligataire (« Fixed income allocation ») ; « Top issuers » et « Top regions » non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID",
+    "durable_pct": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Global equity",
+      "pct": "78.22"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Euroland fixed income",
+      "pct": "46.55"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NETHERLANDS GOVERNMENT FIX 0.000% 15.01.2027",
+      "pct": "3.83"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BUNDESREPUB. DEUTSCHLAND FIX 0.250% 15.02.2027",
+      "pct": "3.62"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FRANCE (GOVT OF) OAT FIX 0.000% 25.02.2027",
+      "pct": "2.38"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FRANCE (GOVT OF) OAT FIX 0.750% 25.05.2028",
+      "pct": "2.37"
+    },
+    {
+      "type": "Positions",
+      "libelle": "REPUBLIC OF AUSTRIA FIX 6.250% 15.07.2027",
+      "pct": "2.27"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FRANCE (GOVT OF) OAT FIX 0.250% 25.11.2026",
+      "pct": "1.84"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BELGIUM KINGDOM 81 FIX 0.800% 22.06.2027",
+      "pct": "1.82"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BUONI POLIENNALI DEL TES 7Y FIX 0.500% 15.07.2028",
+      "pct": "1.73"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BUNDESREPUB. DEUTSCHLAND FIX 0.000% 15.11.2027",
+      "pct": "1.38"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BUNDESREPUB. DEUTSCHLAND FIX 5.500% 04.01.2031",
+      "pct": "1.37"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Treasuries",
+      "pct": "62.13"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrial",
+      "pct": "12.26"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Covered",
+      "pct": "6.88"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financial institutions",
+      "pct": "5.88"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Agencies",
+      "pct": "4.19"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Local authority",
+      "pct": "1.60"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Utilities",
+      "pct": "1.31"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Others",
+      "pct": "0.27"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cash",
+      "pct": "5.49"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "21.43"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Germany",
+      "pct": "17.83"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italy",
+      "pct": "11.09"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Netherlands",
+      "pct": "9.02"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Spain",
+      "pct": "7.88"
+    },
+    {
+      "type": "Pays",
+      "libelle": "USA",
+      "pct": "6.58"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Austria",
+      "pct": "6.02"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Belgium",
+      "pct": "4.09"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Others",
+      "pct": "10.56"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Cash",
+      "pct": "5.49"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "24.80"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "10.49"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "36.59"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "22.30"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Others",
+      "pct": "0.32"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Cash",
+      "pct": "5.49"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "0-1",
+      "pct": "59.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1-3",
+      "pct": "18.6"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3-5",
+      "pct": "11.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5-7",
+      "pct": "2.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "7-10",
+      "pct": "3.0"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "10-20",
+      "pct": "3.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "20+",
+      "pct": "1.6"
+    }
+  ]
+}

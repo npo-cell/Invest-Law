@@ -1,0 +1,195 @@
+{
+  "n": "251",
+  "isin": "LU0503631631",
+  "nom": "(I/C)PICTET GLOBAL ENVIRONMENTAL OPPORT I EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-06-19",
+  "date_creation": "2010-09-10",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (environnement)",
+  "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+  "gerants": "",
+  "encours_millions": "4644",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.10",
+  "sri": "4",
+  "indice": "MSCI AC World (EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+  "politique_fr": "Objectif\nAugmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nIndice de référence\nMSCI AC World (EUR), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit principalement dans des actions de sociétés à faible empreinte environnementale qui contribuent à résoudre les défis environnementaux mondiaux tels que la transition vers une économie à faible émission de carbone, la gestion durable des ressources, la surveillance et la prévention de la pollution ou, par exemple, la protection des ressources rares telles que l'eau. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et s’efforce d’investir principalement dans des activités économiques qui contribuent à un objectif environnemental tout en évitant les activités ayant une incidence négative sur la société ou l’environnement. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à la Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 9 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Indice : « MSCI AC World (EUR) » (objectifs de la factsheet p.1, repris du DIC : « Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance » ; identique dans le tableau « Informations générales »). Date de création 10.09.2010 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part et du compartiment EUR. Encours « Taille du fonds (Mio) EUR 4 644 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 1.10 », identique au KID). Aucun gérant nommé. SFDR article 9, aucun % d'investissements durables écrit. Classification Agressif (actions thématiques environnement) bien que SRI 4. Politique : texte de la factsheet (issu du DIC). Secteur « Approvisionnement en eau &… » tronqué tel qu'écrit dans le document.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID",
+    "sri": "KID",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "pct": "4.77"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Asml Holding Nv",
+      "pct": "4.27"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Cadence Design Systems Inc",
+      "pct": "3.30"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Applied Materials Inc",
+      "pct": "3.25"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Mediatek Inc",
+      "pct": "3.07"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Synopsys Inc",
+      "pct": "2.98"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Analog Devices Inc",
+      "pct": "2.96"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Ecolab Inc",
+      "pct": "2.92"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Schneider Electric Se",
+      "pct": "2.85"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Republic Services Inc",
+      "pct": "2.81"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Efficience énergétique",
+      "pct": "50.28"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie renouvelable",
+      "pct": "12.81"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Économie dématérialisée",
+      "pct": "11.38"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Contrôle de la pollution",
+      "pct": "8.78"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Approvisionnement en eau &…",
+      "pct": "7.53"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Gestion des déchets et recyclage",
+      "pct": "4.14"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Agriculture Durable",
+      "pct": "2.79"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Trésorerie et équivalents",
+      "pct": "2.30"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "États-Unis",
+      "pct": "48.91"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "9.30"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Taïwan",
+      "pct": "7.84"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "5.87"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "5.09"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "4.05"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Canada",
+      "pct": "3.09"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Danemark",
+      "pct": "2.79"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suède",
+      "pct": "2.71"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "8.05"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Trésorerie et équivalents",
+      "pct": "2.30"
+    }
+  ]
+}

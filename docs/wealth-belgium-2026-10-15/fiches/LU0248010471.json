@@ -1,0 +1,96 @@
+{
+  "n": "174",
+  "isin": "LU0248010471",
+  "nom": "(I/C)JPM GLOBAL MACRO OPPORTUNITIES FUND I EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-27",
+  "date_creation": "2016-02-08",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs (global macro)",
+  "compartiment": "un compartiment de JPMorgan Investment Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
+  "gerants": "Josh Berelowitz, Jonathan Cummings, Yazann Romahi, Michal Plotkowiak",
+  "encours_millions": "1144.4",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.71",
+  "sri": "3",
+  "indice": "ICE BofA ESTR Overnight Rate Index Total Return in EUR",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "-4.1 ans",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+  "politique_fr": "Objectif d´investissement: Offrir une plus-value en capital supérieure à celle de son indice de référence monétaire en investissant essentiellement dans des titres du monde entier et en ayant recours à des instruments dérivés si nécessaire.\n\nApproche d’investissement\nProcessus d’investissement fondé sur la recherche macroéconomique pour identifier les opportunités et les thèmes d’investissement à l’échelle mondiale.\nApproche flexible et ciblée, dont l’objectif est de tirer profit des tendances et changements à l’œuvre dans le monde à travers des actifs traditionnels et non traditionnels.\nCadre de gestion des risques totalement intégré pour l’analyse détaillée de portefeuille.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part I (acc) EUR ; compartiment de JPMorgan Investment Funds. Factsheet FR au 30/09/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées ; « l’œ uvre » du texte extrait recollé en « l’œuvre »). Date de création = « Lancement de la classe 8 Fév. 2016 » (fonds : 23 Oct. 1998). Encours = « Actifs net du fonds EUR 1144,4m ». Frais de gestion vide : la factsheet ne donne que « Frais courants 0,71% » ; frais courants = KID 0,71 %. Indice retenu : l'objectif est une plus-value « supérieure à celle de son indice de référence monétaire » (ICE BofA ESTR Overnight Rate Index Total Return in EUR) ; le KID indique comme recours « Comparaison des performances » et une gestion « indépendamment de son indice de référence ». SFDR article 8 ; le KID prévoit « au moins 10% » d'investissements durables (minimum). Duration = « Duration - 4.1 ans » (négative, ensemble du portefeuille) ; « Exposition nette aux actions 42.3% » et VaR 6,98 % non reprises. Classification Equilibré : fonds global macro flexible multi-actifs, SRI 3. Allocations : « Positionnement actuel - Actifs physiques » en Classes d'actifs ; « Positionnement actuel - Dérivés » en Instruments (expositions, dont futures sur obligations -87,6 %) ; ventilations des risques par thème, région et classe d'actif exclues (contributions au risque). Aucune liste de principales positions. Le libellé « Swap de taux d’intérêt » est extrait « Swap de taux d?intérêt » (apostrophe non décodée), d'où un écart signalé par verif_fiche.py.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "42.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "30.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "21.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Or",
+      "pct": "4.9"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Swap de taux d’intérêt",
+      "pct": "39.9"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Commodity futures",
+      "pct": "20.0"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Futures sur actions",
+      "pct": "11.8"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Options sur actions",
+      "pct": "0.0"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Futures sur obligations",
+      "pct": "-87.6"
+    }
+  ]
+}

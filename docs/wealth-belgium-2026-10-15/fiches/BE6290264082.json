@@ -1,0 +1,233 @@
+{
+  "n": "301",
+  "isin": "BE6290264082",
+  "nom": "(I/C)SPM GLOBAL FLEXIBLE P-CAP EUR",
+  "maison": "Montségur",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-06-30",
+  "date_creation": "2016-12-29",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs flexible (fonds de fonds)",
+  "compartiment": "Global Flexible est un compartiment de la SICAV UCITS de droit belge \"SPM Funds\"",
+  "gerants": "",
+  "encours_millions": "",
+  "encours_devise": "",
+  "encours_date": "",
+  "frais_gestion": "0.5",
+  "frais_courants": "1.05",
+  "sri": "3",
+  "indice": "Aucun",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "6",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le capital investi initialement n'est pas garanti.",
+  "politique_fr": "OBJECTIF DE GESTION DU COMPARTIMENT\nLe compartiment est géré de manière active. Il est investi entre 0% et 100% en « actions » (directement ou au travers d’OPC) et peut couvrir jusque 100% de son exposition nette en actions. Ces couvertures ne peuvent pas amener le portefeuille à avoir une exposition négative aux actions.\n\nLe compartiment investit principalement (plus de 50% de ses actifs) dans des OPC de gestion passive (OPC qui suivent un indice). Ces OPC peuvent être de type «actions», «obligations», «mixtes», «monétaires» ou «alternatifs». Le compartiment a pour objectif de faire bénéficier aux investisseurs de l’évolution des marchés en visant une croissance du capital à moyen et long terme. Il s’adresse à tous types d'investisseurs (retails et institutionnels), souhaitant investir pour une durée de 5 ans minimum.\n\nLe compartiment ne suit pas un indice de référence, le gestionnaire du portefeuille d’investissement dispose d’une certaine discrétion dans la composition du portefeuille, dans le respect des objectifs et de la politique d’investissement du compartiment.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Rapport de gestion mensuel│30 septembre 2026 », part P-Cap. Date de création = « Création 29-12-2016 » (tableau des parts, P-Cap). Gérants vides : la factsheet ne cite que la « Direction eff. » de la SICAV (Sébastien Lippens, François Chaulet) et le gestionnaire financier Montségur Finance (société). Encours non indiqué. Frais de gestion : « 0.5% max. » (taux maximum). Frais courants 1,05 % (KID, identique à la factsheet). Indice « Aucun » : KID « Indice de référence : Aucun » ; factsheet « Le compartiment ne suit pas un indice de référence ». SFDR article 6. Classification Dynamique : actions 73,0 % au 30-09-2026 (exposition actions de 0 à 100 %), alors que le SRI est de 3 (cas limite avec Equilibré). Politique : bloc « OBJECTIF DE GESTION DU COMPARTIMENT » p.1, sans le paragraphe « Règlement Taxonomie ». Allocations au 30-09-2026 : devises, zones et secteurs en look-through (zones et secteurs « de la part actions »).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.5",
+    "devise": "factsheet p.5",
+    "compartiment": "factsheet p.1",
+    "frais_gestion": "factsheet p.5",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "73.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Matières premières",
+      "pct": "2.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "22.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités et autres",
+      "pct": "1.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "iShares Core S&P 500",
+      "pct": "10.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BNP Paribas Easy MSCI Europe Small Caps SRI",
+      "pct": "9.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amundi Europe Stoxx 600 ESG",
+      "pct": "8.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amundi S&P 500 Equal Weight ESG Leaders",
+      "pct": "8.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "iShares MSCI Europe SRI",
+      "pct": "7.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "36.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "35.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "HKD",
+      "pct": "6.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "5.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "AUTRES",
+      "pct": "16.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "45.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique latine",
+      "pct": "0.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "7.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe développée",
+      "pct": "27.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe émergente",
+      "pct": "0.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Afrique/Moyen-Orient",
+      "pct": "0.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Australasie",
+      "pct": "0.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie développée",
+      "pct": "2.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie émergente",
+      "pct": "14.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux de base",
+      "pct": "3.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation cyclique",
+      "pct": "11.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "17.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "3.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "6.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Valeurs industrielles",
+      "pct": "12.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "20.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation défensive",
+      "pct": "4.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de la santé",
+      "pct": "14.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "2.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres",
+      "pct": "0.0"
+    }
+  ]
+}

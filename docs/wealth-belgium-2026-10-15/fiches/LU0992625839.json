@@ -1,0 +1,318 @@
+{
+  "n": "71",
+  "isin": "LU0992625839",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO INVESTISSEMENT F EUR",
+  "maison": "CARMIGNAC GESTION",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2013-11-15",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "Carmignac Portfolio Investissement est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+  "gerants": "Kristofer Barrett",
+  "encours_millions": "463",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.15",
+  "sri": "4",
+  "indice": "MSCI AC World NR index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Investissement est un fonds actions internationales UCITS, sans contrainte sectorielle, géographique ni de style de gestion. Le Fonds investit dans des entreprises qui créent de la valeur à travers le monde grâce à l'innovation, la technologie et/ou à une offre de produits différenciés, tout en maintenant une approche disciplinée en matière de valorisation. Il vise à surperformer son indicateur de référence sur un horizon d’investissement recommandé de cinq ans. Le Fonds promeut des caractéristiques environnementales et sociales et s'engage à investir au moins 50 % de ses actifs nets dans des actions d'entreprises considérées comme alignées sur les Objectifs de développement durable (ODD) des Nations Unies.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/11/2013, identique au lancement du compartiment). Encours = « Actifs sous gestion du Fonds : 463M€ » (encours de la part : 312M€). Gérant : Kristofer Barrett depuis le 08/04/2024. Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,15 % (= frais courants, identique au KID p.3) ; commission liée aux résultats 20 %. Indice : factsheet « MSCI AC World NR index. » (KID : « l'indice mondial MSCI AC World NR », objectif de surperformance). SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 50% » (engagement minimal). Allocations : zones géographiques = détail de la ligne « Actions » (niveaux imbriqués, total supérieur à 100 %) ; secteurs, capitalisations et pays « Poids rebasés » ; devises = « Exposition nette par devise ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "98.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+      "pct": "1.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays développés",
+      "pct": "70.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "52.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie Pacifique",
+      "pct": "3.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "14.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays émergents",
+      "pct": "28.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique Latine",
+      "pct": "1.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie",
+      "pct": "26.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe de l'Est",
+      "pct": "0.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Moyen-Orient",
+      "pct": "0.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'Information",
+      "pct": "39.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "21.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "14.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "12.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "6.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communication",
+      "pct": "3.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "0.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "0.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de Consommation de Base",
+      "pct": "0.6"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Grandes (>10000 MEUR)",
+      "pct": "90.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Moyennes (2000 - 10000MEUR)",
+      "pct": "9.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Petites (<2000 MEUR)",
+      "pct": "0.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "10.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Franc suisse",
+      "pct": "0.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar US",
+      "pct": "55.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre Sterling",
+      "pct": "1.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen",
+      "pct": "3.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc LATAM",
+      "pct": "0.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc $ (AUD et CAD)",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc EEMA",
+      "pct": "0.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc Asie ex Japon",
+      "pct": "25.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "2.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Etats-Unis",
+      "pct": "52.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taiwan",
+      "pct": "15.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Corée du Sud",
+      "pct": "8.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "4.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "3.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "3.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Danemark",
+      "pct": "2.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "1.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Brésil",
+      "pct": "1.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "1.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres pays",
+      "pct": "5.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "pct": "9.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA CORP",
+      "pct": "7.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK HYNIX INC",
+      "pct": "5.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TRADEWEB MARKETS INC",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CENCORA INC",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "S&P GLOBAL INC",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MASTERCARD INC",
+      "pct": "3.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MCKESSON CORP",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BERKSHIRE HATHAWAY INC",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ADYEN NV",
+      "pct": "2.5"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "n": "50",
+  "isin": "IE00BJM0B852",
+  "nom": "(I/C)BLUE WHALE GROWTH FUND T EUR",
+  "maison": "Link Fund Manager Solutions Ireland Ltd",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-23",
+  "date_creation": "2020-09-25",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "Blue Whale Growth Fund (le « Fonds »), Class T EUR Accumulation, ISIN : (IE00BJM0B852) un compartiment de Blue Whale Investment Funds ICAV (la « Société »)",
+  "gerants": "Stephen Yiu, Matthew Stonebridge",
+  "encours_millions": "600",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.24",
+  "sri": "5",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance is not a guide to future performance. Your capital is at risk and the value of your investment may fall as well as rise. You could get back less than you invested.",
+  "politique_fr": "",
+  "politique_en": "Investment Objective: The investment objective of the Fund is to seek capital growth.\n\nThe Blue Whale Growth Fund is a long-only global equity strategy pursuing long-term capital growth through a high-conviction, concentrated portfolio of 25 to 35 holdings.\n\nThe investment team conducts bottom-up fundamental research with no structural sector or geographic constraints, focusing primarily on large-capitalisation companies in developed markets and seeking to identify high-quality businesses with durable competitive advantages.\n\nA disciplined valuation framework is applied to ensure positions are initiated only where market expectations materially underestimate the company's long-term growth potential.",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet en anglais (« October 2026 », données au 30/09/2026) → politique en anglais (« Investment proposition »). Date de création = « Fund Launch Date 25 September 2020 » (date du fonds ; la date de lancement de la part T Acc EUR n'est pas donnée ; « Strategy Launch Date 11 September 2017 »). Devise de la part EUR (devise de base du fonds USD). Encours « Fund AuM $600m » (fonds ; « Strategy AuM $4bn » non retenu), sans date propre → date de la factsheet. Frais de gestion non indiqués ; frais courants = KID 1,24 % (= OCF T Acc (EUR) 1.24% factsheet). Indice laissé vide : le KID précise que l'indice Bloomberg Developed Markets Large & Mid Cap Index « est utilisé aux seules fins de comparer les performances » (factsheet : « Benchmark Bloomberg Developed Markets »). Aucun article SFDR écrit (la factsheet dit que les fonds Blue Whale « do not have a sustainability objective and are not promoted as ESG funds »). Gérants : « Lead Fund Manager Stephen Yiu », « Co-Manager (2022) Matthew Stonebridge ». Classification Dynamique : actions mondiales concentrées (25-35 titres, 51 % technologie), SRI 5 — cas limite avec Agressif. Allocations : répartitions régionale et sectorielle (« Blue Whale may apply its internal classification ») ; les 10 principales positions sont listées par ordre alphabétique sans pourcentage (total 63.4 %), non reprises.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Zones géographiques",
+      "libelle": "North America",
+      "pct": "79.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asia Pacific",
+      "pct": "8.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "8.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Cash",
+      "pct": "4.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technology",
+      "pct": "51.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrials",
+      "pct": "21.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energy & Materials",
+      "pct": "9.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communication Services",
+      "pct": "6.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Healthcare",
+      "pct": "3.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financials",
+      "pct": "2.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Discretionary",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cash",
+      "pct": "4.1"
+    }
+  ]
+}

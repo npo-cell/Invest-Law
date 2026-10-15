@@ -1,0 +1,101 @@
+{
+  "n": "37",
+  "isin": "LU0329592538",
+  "nom": "(I/C)BGF GLOBAL ALLOCATION D2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-17",
+  "date_creation": "2007-11-12",
+  "devise": "USD",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "Rick Rieder, Russ Koesterich",
+  "encours_millions": "19371.83",
+  "encours_devise": "USD",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.75",
+  "frais_courants": "1.03",
+  "sri": "3",
+  "indice": "S&P 500 (36 %), du FTSE World (ex-US) (24 %), du 5 Yr US Treasury Note (24 %) et du FTSE Non-USD World Government Bond Index (16 %)",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) et des titres à revenu fixe (RF) dans des conditions de marché normales. Les titres RF incluent des obligations et des instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte). Il peut également détenir des dépôts et des liquidités.\n\nSous réserve de ce qui précède, les classes d’actifs et le degré d’investissement du Fonds dans celles-ci peuvent varier sans limite en fonction des conditions du marché.\n\nLes titres RF peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales (par ex. la Banque internationale pour la reconstruction et le développement) et peuvent comprendre des titres qui ont une qualité de crédit relativement faible ou qui ne sont pas notés.\n\nLe Fonds peut également investir dans des sociétés de petite taille et à un stade de développement relativement précoce.\n\nLe Fonds visera généralement à investir dans des titres de sociétés sous-évaluées (c’est-à-dire que leur prix de marché ne reflète pas leur valeur sous-jacente).\n\nLe GFD peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de la construction du portefeuille, le GFD se référera à un indice de référence composite composé du S&P 500 (36 %), du FTSE World (ex-US) (24 %), du 5 Yr US Treasury Note (24 %) et du FTSE Non-USD World Government Bond Index (16 %) (l’« Indice »), ainsi qu’à des fins de comparaison de la performance et de gestion des risques, comme décrit plus en détail dans le prospectus. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice et peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice. En outre, étant donné la capacité du fonds à investir dans des actions et des obligations mondiales, les investisseurs peuvent utiliser le FTSE World Index pour comparer la performance du Fonds par rapport aux actions mondiales et le FTSE World Government Bond Index pour comparer la performance du Fonds par rapport aux obligations mondiales (et le GFD entend inclure ces comparaisons dans ses rapports sur le Fonds de temps à autre).",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet belge (9 pages). Date de création = « Date de lancement : 12-nov.-2007 » (rubrique de la part, sous « Date de lancement du Fonds : 03-janv.-1997 »). Encours « Actif net du Fonds (M) : 19.371,83 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,03 % (identique factsheet). Indice : composite recopié du texte de la politique (« indice de référence composite composé du S&P 500 (36 %), du FTSE World (ex-US) (24 %), du 5 Yr US Treasury Note (24 %) et du FTSE Non-USD World Government Bond Index (16 %) »), utilisé pour la construction du portefeuille, la comparaison de performance et la gestion des risques ; la factsheet l'écrit aussi « Indice de référence 1 : 36SP500 24FWXUS 24ML5 16FWGBIX Index ». SFDR : « Classification SFDRi : Autre » → vide. Duration laissée vide (fonds multi-actifs) : « Duration effective : 1,42 ans », « Duration effective du revenu fixe : 6,63 ans », « Duration effective Revenu fixe + Liquidités : 3,84 ans ». Classification Equilibré : multi-actifs, SRI 3. Politique : « Aperçu du fonds » de la factsheet jusqu'à la phrase sur les indices de comparaison (sans les paragraphes sur le rendement, le dépositaire et les modalités pratiques). Allocations : seules les 10 principales positions en actions (p.4) ; les graphiques « Allocation régionale » et « Allocation en devise » ont des étiquettes non extractibles en texte et ne sont pas repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.2",
+    "encours_devise": "factsheet p.2",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "disclaimer": "factsheet p.3",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA",
+      "pct": "2.41"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLE",
+      "pct": "2.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICROSOFT",
+      "pct": "1.81"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALPHABET CLASS C",
+      "pct": "1.71"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AMAZON.COM INC",
+      "pct": "1.68"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+      "pct": "1.34"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ELI LILLY",
+      "pct": "1.20"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BROADCOM INC",
+      "pct": "1.19"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING",
+      "pct": "0.86"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICRON TECHNOLOGY",
+      "pct": "0.82"
+    }
+  ]
+}

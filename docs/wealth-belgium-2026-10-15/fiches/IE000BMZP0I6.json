@@ -1,0 +1,97 @@
+{
+  "n": "9",
+  "isin": "IE000BMZP0I6",
+  "nom": "(ETF)ISHARES NUCLEAR ENERGY & URANIUM MINING USD",
+  "maison": "BLACKROCK ASSET MANAGEMENT IRELAND LTD",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-09-24",
+  "date_creation": "2025-06-26",
+  "devise": "USD",
+  "type_fonds": "Actions thématiques (énergie nucléaire et uranium)",
+  "compartiment": "Le Fonds est un compartiment d’iShares IV plc, une société à compartiments multiples constituée en Irlande, agréée par la Banque centrale d’Irlande en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "",
+  "encours_millions": "29.43",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.50",
+  "sri": "5",
+  "indice": "STOXX Global Nuclear Energy and Uranium Mining Index",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi.",
+  "politique_fr": "Objectifs\nLa Catégorie d’actions est une catégorie d’actions d’un Fonds qui vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, qui soit similaire au rendement du STOXX Global Nuclear Energy and Uranium Mining Index, l’indice de référence du Fonds (Indice).\n\nLa Catégorie d’actions, par l’intermédiaire du Fonds, est passivement gérée et vise à investir, dans la mesure du possible, dans les titres de participation (par ex. des actions) qui constituent l’Indice.\n\nL'Indice réplique la performance d'un sous-ensemble de titres de participation de pays développés et émergents éligibles du monde entier au sein du STOXX World AC Universal All Cap Index. Les sociétés faisant partie de l’Indice devraient être impliquées dans la production d'énergie nucléaire, l'extraction d'uranium et la fabrication de combustible, ou fournir des produits et services de soutien (le « Thème de l'énergie nucléaire et de l'extraction d'uranium »).\n\nL’Indice comprend des entreprises qui : (i) répondent aux critères d'inclusion de par leur exposition au thème de l'énergie nucléaire et de l'extraction d'uranium en termes de revenus et/ou de brevets, et/ou de par leur capacité de production d'énergie nucléaire ; et (ii) répondent aux critères en matière de capitalisation boursière et de volume de transactions journalier et sont domiciliées dans un pays éligible, tel que déterminé par le fournisseur d’indices.\n\nL’Indice exclut les entreprises que le système Global Standards Screening (« GSS ») de Sustainalytics juge non conformes, les entreprises identifiées par Sustainalytics comme ayant un Score de controverse de Catégorie 5 (Grave) et les entreprises reconnues comme étant impliquées dans des activités liées à certaines armes controversées.\n\nL’Indice équipondéré est ajusté et accorde une pondération plus élevée aux émetteurs jugés comme étant davantage impliqués dans le thème de l'énergie nucléaire et de l'extraction d'uranium.\n\nL’Indice fait l’objet d’un rééquilibrage annuel. A chaque rééquilibrage, les sociétés qui ne sont plus éligibles seront retirées de l'Indice. Chaque trimestre, les composants actuels de l'Indice sont passés au crible pour vérifier leur implication dans de graves controverses ESG et leur évaluation basée sur le système GSS, et les émetteurs qui ne sont plus éligibles seront retirés au cours du trimestre concerné.\n\nLe Fonds entend reproduire l’Indice en détenant les titres de participation qui le composent dans des proportions similaires à celles de cet Indice. Le gestionnaire d’investissement peut utiliser des instruments financiers dérivés (« IFD ») (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) pour atteindre l’objectif d’investissement du Fonds. Les IFD peuvent être utilisés à des fins d’investissement direct.\n\nLe Fonds peut également s’engager dans des prêts garantis à court terme de ses investissements à certains tiers éligibles pour générer des revenus supplémentaires afin de compenser les coûts du Fonds.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Politique prise du KID (section « Objectifs ») : la factsheet ne contient qu'une phrase d'aperçu et des « principaux avantages » commerciaux. Date de création = date de lancement de la catégorie d'actions (26-juin-2025, identique au fonds). Encours = « Encours sous gestion (M) : 29.43 USD » au 30/09/2026. Frais : KID « Frais de gestion et autres coûts administratifs ou frais d’exploitation 0.50 % » ; factsheet « Ratio des charges totales : 0.50% » ; pas de frais de gestion séparés. SFDR : factsheet « Classification SFDR : Autre » → vide. Gérants : aucun nom. Allocations : seules les 10 principales positions sont en texte ; secteurs et répartition géographique sont des graphiques sans valeurs lisibles dans le texte du PDF (non repris).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "KID p.1",
+    "source_politique": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "DUKE ENERGY CORP",
+      "pct": "6.51"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DOMINION ENERGY",
+      "pct": "6.37"
+    },
+    {
+      "type": "Positions",
+      "libelle": "KANSAI ELECTRIC POWER",
+      "pct": "6.13"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CAMECO",
+      "pct": "6.11"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CONSTELLATION ENERGY CORP",
+      "pct": "6.08"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SIEMENS N AG",
+      "pct": "3.76"
+    },
+    {
+      "type": "Positions",
+      "libelle": "EMERSON ELECTRIC",
+      "pct": "3.75"
+    },
+    {
+      "type": "Positions",
+      "libelle": "HONEYWELL INTERNATIONAL INC",
+      "pct": "3.73"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GE VERNOVA",
+      "pct": "3.69"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MITSUBISHI HEAVY INDUSTRIES",
+      "pct": "3.62"
+    }
+  ]
+}

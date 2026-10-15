@@ -1,0 +1,286 @@
+{
+  "n": "136",
+  "isin": "LU0966156712",
+  "nom": "(I/C)FIDELITY FAST GLOBAL FUND Y EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-10-02",
+  "date_creation": "2013-09-30",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales (long/short)",
+  "compartiment": "compartiment de la SICAV Fidelity Funds",
+  "gerants": "Dmitry Solomakhin",
+  "encours_millions": "1002",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.1",
+  "sri": "4",
+  "indice": "MSCI ACWI Index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Les rendements du Compartiment peuvent varier à la hausse ou à la baisse selon les fluctuations des taux de change.",
+  "politique_fr": "Objectif: Le Compartiment cherche à atteindre une croissance du capital sur le long terme.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % de ses actifs dans des actions et des instruments assimilés apportant une exposition à des sociétés du monde entier, y compris celles des marchés émergents. Le Compartiment peut investir dans les actifs suivants selon les pourcentages indiqués :• marchés émergents : jusqu’à 50 % • instruments du marché monétaire : jusqu’à 20 %\n\nApproche de l'investissement: Dans le cadre de sa gestion active du Compartiment, le Gérant de Portefeuille tient compte des paramètres de valorisation, des données financières de la société, du rendement du capital, des flux de trésorerie et d’autres mesures, ainsi que de la gestion de la société, du secteur, des conditions économiques et d’autres caractéristiques. Le Gérant de Portefeuille intègre les Risques de durabilité dans sa procédure d’investissement. Pour plus d’informations, consultez « Investissement durable et intégration ESG ».\n\nPolitique en matière de dérivés: Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, de gestion efficace du portefeuille et d’investissement. Le Compartiment utilise des instruments dérivés, y compris des instruments dérivés ou des stratégies complexes, pour atteindre ses objectifs d’investissement ce qui peut se traduire par un effet de levier. Le Compartiment peut conserver une exposition longue ou courte sur les titres grâce aux instruments dérivés.\n\nl’indice de référence: MSCI ACWI Index. Utilisée pour : la surveillance des risques, la comparaison de performance et le calcul de la commission de performance. Bien qu’il investisse dans les titres de la référence, la gestion du Compartiment étant libre, ce dernier peut investir dans des titres qui n’y sont pas présents, et sa performance peut s’éloigner fortement ou rester très proche de celle de la référence au cours d’une période.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = date de lancement de la classe « 30.09.13 » (compartiment lancé le 30.09.13). Encours « Encours du compartiment : € 1.002m » (encours du compartiment, en millions). Frais de gestion vide : la factsheet n'indique que les « Frais de gestion et autres frais administratifs et d’exploitation » (1,07%) ; frais courants = KID 1,1 % (arrondi ; factsheet 1,07%). Indice : « MSCI ACWI Index » (« Utilisée pour : la surveillance des risques, la comparaison de performance et le calcul de la commission de performance »). SFDR : « Catégorie SFDR » de la factsheet. Politique : bloc « Objectifs et politique d'Investissement » de la factsheet p.1 (la factsheet précise qu'il correspond exactement au libellé du DIC), sans la phrase sur la politique de distribution ; intertitres mis à la ligne. Allocations : expositions de la factsheet p.5 (% de l'actif net ; lignes « Exposition Totale » non reprises ; surpondérations/sous-pondérations non reprises). Catégorie de part Y-PF-ACC-EUR (commission de performance). SFDR vide : aucune catégorie SFDR écrite dans la factsheet ni dans le KID. Classification Dynamique : actions internationales avec positions longues et courtes (exposition nette 96,9 %), SRI 4. Allocations : expositions nettes (valeurs négatives gardées, totaux pouvant dépasser 100 %) ; positions = « Principales positions nettes longues ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "factsheet p.2",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.2",
+    "encours_devise": "factsheet p.2",
+    "encours_date": "factsheet p.2",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.6",
+    "disclaimer": "factsheet p.3",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation cyclique",
+      "pct": "24.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "24.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation non-cyclique",
+      "pct": "22.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "17.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industries",
+      "pct": "9.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "3.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services collectifs",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "-0.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits financiers",
+      "pct": "-2.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie de l’information",
+      "pct": "-4.1"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">10 milliard(s)",
+      "pct": "19.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5-10 milliard(s)",
+      "pct": "11.7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "1-5 milliard(s)",
+      "pct": "54.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "0-1 milliard(s)",
+      "pct": "10.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "21.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "16.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Norvège",
+      "pct": "12.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "10.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "10.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "8.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Israël",
+      "pct": "7.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suisse",
+      "pct": "5.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Danemark",
+      "pct": "4.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "2.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres",
+      "pct": "-4.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe (hors-RU)",
+      "pct": "44.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Marchés émergents",
+      "pct": "22.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "21.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "10.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie Pacifique (hors-Japon)",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "-2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+      "pct": "6.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BAYER AG",
+      "pct": "5.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GOLAR LNG LTD",
+      "pct": "5.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TGS ASA",
+      "pct": "5.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SKYWORKS SOLUTIONS INC",
+      "pct": "5.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CONVATEC GROUP PLC",
+      "pct": "4.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BUNGE GLOBAL SA",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GN STORE NORD AS",
+      "pct": "4.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DANONE SA",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BABCOCK INTL GROUP PLC",
+      "pct": "3.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Nettes",
+      "pct": "96.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Longues",
+      "pct": "126.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Courtes",
+      "pct": "-29.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Autres",
+      "pct": "0.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités non investies",
+      "pct": "3.1"
+    }
+  ]
+}

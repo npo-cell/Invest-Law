@@ -1,0 +1,189 @@
+{
+  "n": "158",
+  "isin": "IE00BVYPNZ31",
+  "nom": "(I/C)GUINNESS GLOBAL EQUITY INCOME Y EUR",
+  "maison": "GUINNESS ASSET MANAGEMENT LIMITED",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-06-03",
+  "date_creation": "2015-03-11",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "le Fonds est un compartiment de Guinness Asset Management Funds PLC (la « Société »), une société d’investissement de type ouvert à compartiments multiples constituée en Irlande, autorisée et supervisée par la Banque centrale d’Irlande, et agissant en vertu de la législation de l’Union européenne.",
+  "gerants": "Dr. Ian Mortimer, Matthew Page",
+  "encours_millions": "6745.9",
+  "encours_devise": "USD",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.77",
+  "sri": "3",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne constituent pas une indication des performances futures",
+  "politique_fr": "Objectif\nRevenus et appréciation du capital à long terme\n\nProcessus\nNotre priorité est la qualité, et non le rendement. Le Fonds se concentre sur les sociétés rentables qui ont généré continuellement un rendement du capital élevé au cours des dix dernières années.\n\nPortefeuille\nPortefeuille concentré, généralement équipondéré, de 35 actions, ce qui permet de réduire le risque lié à un titre spécifique et d’instaurer une discipline de vente rigoureuse. Faible taux de rotation ; capitalisation boursière de 1 mia. USD minimum ; aucune restriction imposée par un indice de référence en matière de pondérations sectorielle et régionale\n\nPolitique d'investissement\nUn fonds d'actions investissant principalement dans des actions mondiales qui offrent un rendement supérieur à celui de l'indice de référence (MSCI World Index). Le fonds est géré de manière active et utilise l'indice MSCI World uniquement comme référence de comparaison.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet FR au 31/08/2026 (classe Y). Politique : bloc « Profil du fonds » p.2 (Objectif, Processus, Portefeuille, Politique d'investissement), sans la rubrique commerciale « Exemple d’investissement ». Date de création = date de lancement de la classe Y « (11.03.15) » citée dans la note sur les performances simulées (pas de date propre à la part Y EUR Acc) ; fonds lancé le 31.12.2010. Encours = « Taille du fonds $6745.9m » (USD). Gérants = « Gestionnaires Dr. Ian Mortimer, Matthew Page ». Frais de gestion vide : la factsheet ne donne que l'OCF/TER (0.77 %) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,77 %. Indice vide : la factsheet indique « Benchmark MSCI World TR » mais précise que le fonds « utilise l'indice MSCI World uniquement comme référence de comparaison ». SFDR vide : aucun article cité dans les documents. Disclaimer = intertitre du tableau de performances (sans point final). Compartiment : phrase « Structure juridique et réglementation » de la factsheet. Classification Dynamique : actions mondiales à dividendes, SRI 3. Positions : « Taiwan Semiconductor » et « Texas Instruments Inc » écrits sur deux lignes dans le PDF.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "KID p.1",
+    "compartiment": "factsheet p.3",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.2",
+    "source_politique": "factsheet p.2"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor",
+      "pct": "3.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Cisco Systems",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Texas Instruments Inc",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Johnson & Johnson",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Abbvie",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Deutsche Boerse",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ABB",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Emerson Electric Co",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Publicis Groupe",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Roche Holding AG",
+      "pct": "3.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "54.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "9.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suisse",
+      "pct": "8.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "8.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suède",
+      "pct": "5.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taïwan",
+      "pct": "3.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "3.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "2.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Irlande",
+      "pct": "2.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Liquidités",
+      "pct": "0.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "28.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de Consommation de Base",
+      "pct": "20.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'Information",
+      "pct": "17.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "14.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "14.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "3.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "2.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "0.8"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "n": "176",
+  "isin": "LU1599544043",
+  "nom": "(I/C)JPM JAPAN EQUITY I EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-27",
+  "date_creation": "2017-05-08",
+  "devise": "EUR",
+  "type_fonds": "Actions japonaises",
+  "compartiment": "un compartiment de JPMorgan Funds",
+  "gerants": "Nicholas Weindling, Miyako Urabe, Shoichi Mizusawa",
+  "encours_millions": "529223.0",
+  "encours_devise": "JPY",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.91",
+  "sri": "5",
+  "indice": "",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+  "politique_fr": "Objectif d´investissement: Offrir une croissance du capital sur le long terme en investissant essentiellement dans des sociétés japonaises.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up couplé à des opinions top-down sur les pays.\nUtilise une approche basée sur de fortes convictions en vue d’identifier les meilleures idées d’investissement.\nCherche à identifier des sociétés de qualité affichant un potentiel de croissance supérieur et durable.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Lancement de la classe 8 Mai 2017 » (lancement du fonds : 16 Nov. 1988). Encours = « Actifs net du fonds JPY 529223.0m » (pas de date propre : date de la factsheet). Frais : seuls les « Frais courants 0.91% » (factsheet) et « Frais de gestion et autres frais administratifs et d’exploitation 0,91 % » (KID) sont donnés ; pas de frais de gestion séparés. Indice vide : TOPIX (Total Return Net) est cité comme indice de référence, mais le KID indique « Recours à un indice de référence : Comparaison des performances » et la factsheet « L'indice de référence est utilisé à des fins comparatives uniquement ». SFDR article 8 ; investissements durables « au moins 20% » (engagement minimal). Classification Agressif : actions d'un seul pays (Japon), SRI 5. KID : version suisse (FR), contenu PRIIPs identique. Positions et capitalisations datées du 31 août 2026 (factsheet du 30/09/2026) ; secteurs sans date propre ; écarts par rapport à l'indice non repris. Capitalisations exprimées en USD, hors liquidités.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1 / KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Mitsubishi UFJ Financial",
+      "pct": "9.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Recruit",
+      "pct": "8.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Fast Retailing",
+      "pct": "4.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Advantest",
+      "pct": "4.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Asics",
+      "pct": "4.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tokyo Electron",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Ryohin Keikaku",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tokio Marine",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Mitsubishi Electric",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "IHI",
+      "pct": "3.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Appareils électriques",
+      "pct": "20.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Banques",
+      "pct": "14.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services",
+      "pct": "10.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Commerce au détail",
+      "pct": "8.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Ingénierie",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Instruments de précision",
+      "pct": "5.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Métaux non ferreux",
+      "pct": "4.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Commerce de gros",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Assurance",
+      "pct": "3.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres produits",
+      "pct": "3.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres",
+      "pct": "16.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "3.1"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 100 milliards",
+      "pct": "42.60"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 10 milliard < 100 milliards",
+      "pct": "41.40"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 1 milliards < 10 milliards",
+      "pct": "15.55"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "< 1 milliard",
+      "pct": "0.45"
+    }
+  ]
+}

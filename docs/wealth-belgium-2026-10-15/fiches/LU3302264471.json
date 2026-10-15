@@ -1,0 +1,272 @@
+{
+  "n": "222",
+  "isin": "LU3302264471",
+  "nom": "(I/C)MANDARINE GLOBAL TARGET 2032 F EUR",
+  "maison": "MANDARINE GESTION",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-06",
+  "date_creation": "2026-05-06",
+  "devise": "EUR",
+  "type_fonds": "Obligataire à échéance (haut rendement)",
+  "compartiment": "Un compartiment de la SICAV Mandarine Funds",
+  "gerants": "Gilles FRISCH, Baptiste PERRAUDAT",
+  "encours_millions": "78.9",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.55",
+  "frais_courants": "0.80",
+  "sri": "2",
+  "indice": "Aucun",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "3.27 (sensibilité)",
+  "qualite_emetteurs": "B+",
+  "disclaimer": "Les chiffres cités ont trait aux périodes écoulées et les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "Mandarine Global Target 2032 est un fonds daté d’obligations internationales d’entreprises, principalement en EUR, USD et GBP, dont l'objectif est de générer une croissance du capital sur une période d'investissement déterminée se terminant le 31 décembre 2032 au travers d’un portefeuille diversifié constitué majoritairement de titres de créances à haut rendement « High Yield ».",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Action F. Date de création = « Création de la part 06/05/2026 » (identique à la création du fonds). Gérants : noms affichés en p.1 de la factsheet sans intitulé (bloc photos de l'équipe de gestion) — à confirmer. Encours = « Actif sous gestion 78.9M€ » (chiffres-clés au 30 septembre 2026). Frais de gestion = « Frais de gestion 0.55% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 0.80 %. Indice « Aucun » : KID « Indicateur de référence I Néant. » (le KID mentionne pourtant « Objectif de gestion : Obtenir une performance supérieure à celle de son indicateur de référence. »). Duration = « Sensibilité Taux du fonds 3.27 » ; qualité = « Rating moyen de la poche obligataire B+ » ; maturité moyenne de la poche obligataire 5.22 ans ; rendement à maturité 7. SFDR article 8 (KID) ; « proportion minimale de 5% d’investissements durables » (minimum, non repris). Classification Défensif : fonds obligataire daté (échéance 31/12/2032), SRI 2, mais majoritairement haut rendement (BB 40,8 %, B 43,0 %) : cas limite. Politique : texte de présentation de la factsheet (une phrase contenant l'objectif) ; le KID p.1 contient une description beaucoup plus détaillée (analyse financière et extra-financière) non reprise. Positions : noms tronqués (« … ») et « undefined » tels qu'écrits. Notations : total 89,5 % (le reste n'est pas ventilé).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.2",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "KID p.1",
+    "duration": "factsheet p.2",
+    "qualite_emetteurs": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "INTL PERSONAL FIN 10.75% 12/29",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NEW IMMO HOLDING SA 5,875% 10…",
+      "pct": "1.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "WILLIAM CARTER 7,375% 02/31",
+      "pct": "1.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NAVIENT CORP 9,375% 10/31",
+      "pct": "1.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TRUENOORD CAPITAL DAC 8.75% …",
+      "pct": "1.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JERROLD FINCO PLC 8,5% 07/32",
+      "pct": "1.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ERAMET 6.5% 11/29",
+      "pct": "1.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "EMEIS SA 6,92574448023333% 12/31",
+      "pct": "1.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TELECOMMUNICATIONS CO TE 6.…",
+      "pct": "1.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NISSAN MOTOR CO 6,375% 07/33",
+      "pct": "1.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "24.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. cyclique",
+      "pct": "16.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communications",
+      "pct": "15.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "8.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "5.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "5.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "5.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "4.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "3.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de conso.",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cash & Autres",
+      "pct": "10.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Etats-Unis",
+      "pct": "36.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "15.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Grande-Bretagne",
+      "pct": "6.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Luxembourg",
+      "pct": "3.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "3.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "2.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Irlande",
+      "pct": "2.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "MULT",
+      "pct": "2.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "2.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "2.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Norvège",
+      "pct": "2.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Danemark",
+      "pct": "1.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autriche",
+      "pct": "1.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres Pays",
+      "pct": "3.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Cash & Autres",
+      "pct": "10.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "54.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "42.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "3.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "1.1"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB",
+      "pct": "40.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "43.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CCC",
+      "pct": "0.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "NR",
+      "pct": "3.8"
+    }
+  ]
+}

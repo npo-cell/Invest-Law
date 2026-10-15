@@ -1,0 +1,217 @@
+{
+  "n": "326",
+  "isin": "IE00BYV1RD15",
+  "nom": "(I/C)VANGUARD GLOBAL CREDIT BOND FUND USD",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2017-09-14",
+  "devise": "USD",
+  "type_fonds": "Obligataire (crédit)",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Global Fixed Income Team",
+  "encours_millions": "2232",
+  "encours_devise": "USD",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.35",
+  "sri": "3",
+  "indice": "Bloomberg Global Aggregate Credit Index in USD",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "5.7 ans",
+  "qualite_emetteurs": "A-",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds cherche à produire un niveau de bénéfice à court terme modéré et durable en investissant dans un portefeuille diversifié d’obligations de crédit mondiales.\n• Le Fonds a recours à une stratégie de « gestion active », et alors qu’il investira de manière substantielle dans des composantes de l’indice Bloomberg Global Aggregate Credit, son gestionnaire de portefeuille suivra des approches distinctes dans la gestion des actifs du Fonds.\n• Le Fonds investit dans des obligations de crédit mondiales de qualité « investment grade », constituées principalement d’obligations émises ou non par des entreprises, dont la notation est équivalente à Baa3 et supérieure chez Moody’s ou une autre agence de notation indépendante ou, si elles ne sont pas notées, qui sont considérées comme étant de qualité comparable par le gestionnaire de portefeuille du Fonds.\n• Le Fonds peut utiliser des instruments financiers dérivés, notamment à des fins d’investissement, afin de réduire le risque ou le coût et/ou de générer des revenus ou une croissance supplémentaires. L’utilisation d’instruments financiers dérivés est susceptible d’augmenter ou de réduire l’exposition aux actifs sous-jacents et de susciter des fluctuations plus importantes de la valeur nette d’inventaire du Fonds. Un instrument financier dérivé est un contrat financier dont la valeur est basée sur la valeur d’un actif financier (comme une action, une obligation ou une devise) ou d’un indice de marché.\n• Le Gestionnaire d’investissement peut, à son entière discrétion, restreindre l’ampleur de la déviation des participations du Fonds par rapport aux composantes de l’Indice en se basant sur la sélection de titres et le segment du revenu fixe. Le Fonds peut faire l’objet d’une gestion active basée sur les perspectives du Gestionnaire d’investissement en matière de revenu fixe, axée sur une sélection spécifique de titres obligataires. Le Gestionnaire d’investissement peut appliquer des contraintes pouvant limiter l’ampleur de la surperformance du Fonds par rapport à l’Indice, lesquelles sont susceptibles de réduire le potentiel de volatilité de l’écart entre le rendement du Fonds et celui de l’Indice. Le Gestionnaire d’investissement a toute discrétion pour modifier ou supprimer au besoin de telles contraintes, selon les environnements de marché.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « USD Hedged Shares » ; KID : « Vanguard Global Credit Bond Fund (le \"Fonds\") - Investor USD Hedged Accumulation Shares ». Date de création « 14 septembre 2017 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 2 232 $ » (fonds) ; encours de la classe d'actifs 26 $. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.35 % (identique au « Montant des frais courants (MFC) » 0,35 % de la factsheet). Indice : gestion active ; le KID indique que le Fonds vise à surperformer l’Indice Bloomberg Global Aggregate Credit Index ; nom retenu = « Indice de référence » de la factsheet pour la part. Gérant : équipe « Global Fixed Income Team » (rubrique « Gestionnaire de portefeuille », sous Vanguard Asset Management, Ltd.). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Duration = « Duration moyenne » ; qualité = « Qualité moyenne » (tableau Caractéristiques, fonds). Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays (seuls les 10 principaux marchés sont donnés, total 77,7 %) ; « Ventilation par type d'emetteur » classée en Secteurs ; « Distribution en fonction des échéances » en Maturités ; « Répartition par qualité du crédit » en Notations.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.2",
+    "disclaimer": "factsheet p.4",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1",
+    "duration": "factsheet p.3",
+    "qualite_emetteurs": "factsheet p.3"
+  },
+  "allocations": [
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "40.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "7.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Supranational",
+      "pct": "7.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Australie",
+      "pct": "6.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "4.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "4.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "2.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autriche",
+      "pct": "2.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres",
+      "pct": "1.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "La Suède",
+      "pct": "1.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Moins de 1 an",
+      "pct": "2.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 5 ans",
+      "pct": "33.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 - 10 ans",
+      "pct": "38.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "10 - 15 ans",
+      "pct": "8.5"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "15 - 20 ans",
+      "pct": "5.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "20 - 25 ans",
+      "pct": "2.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Plus de 25 ans",
+      "pct": "9.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "7.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "7.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "26.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "52.9"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Inférieur à BBB",
+      "pct": "4.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Sans notation",
+      "pct": "1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entreprise - institutions financiéres",
+      "pct": "30.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entreprise - Industrie",
+      "pct": "30.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entreprise - services aux Collectivités",
+      "pct": "9.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - souverains",
+      "pct": "7.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - supranationals",
+      "pct": "7.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - agences",
+      "pct": "6.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Bons du Trésor/Obligations fédérales",
+      "pct": "5.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités*",
+      "pct": "2.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - collectivités locales",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Obligations provinciales/municipales",
+      "pct": "0.1"
+    }
+  ]
+}

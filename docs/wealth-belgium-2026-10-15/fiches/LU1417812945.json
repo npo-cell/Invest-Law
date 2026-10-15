@@ -1,0 +1,167 @@
+{
+  "n": "244",
+  "isin": "LU1417812945",
+  "nom": "(I/C)ORCADIA GLOBAL SUSTAINABLE BALANCED C EUR",
+  "maison": "FundPartner Solutions (Europe) S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-02-19",
+  "date_creation": "2016-06-01",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "Compartiment de Protea Fund, sicav de droit luxembourgeois géré par FundPartner Solutions (Europe) S.A.",
+  "gerants": "",
+  "encours_millions": "673.569072",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.74",
+  "sri": "3",
+  "indice": "Aucun",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées et le graphique d'évolution de la VNI ne sont pas un indicateur fiable des résultats futurs et peuvent être trompeurs. De façon générale, tout investissement présente un risque de perte de capital.",
+  "politique_fr": "Politique d'investissement\nL'objectif du Compartiment Protea Fund - OGSB est de générer une appréciation du capital en offrant principalement une exposition aux catégories d'actifs suivantes: titres de créance de tout type (y compris les instruments du marché monétaire), actions et titres apparentés aux actions (tels que les droits de souscription, les sociétés d'investissement à capital fixe (REIT), les certificats de dépôt mondiaux (GDR)). Le Compartiment investira principalement directement dans les titres/catégories d’actifs susmentionnés, et/ou dans des organismes de placement collectif («OPC») dont l’objectif principal consiste à investir dans les titres/catégories d’actifs susmentionnés ou à s’y exposer. La proportion des actifs du compartiment allouée à chaque classe d’actifs peut varier dans le temps. Néanmoins, le gestionnaire d’investissement limite l’exposition aux actions à 65% de l’actif net du compartiment. La proportion investie en obligations sera comprise entre 20% et 65% de l’actif net du compartiment. Il n’y a pas de restriction géographique à l’exception de l’engagement de limiter l’exposition globale aux marchés émergents à 20% de l’actif net du compartiment.\n\nLe Compartiment fait l’objet d’une gestion active. Le Compartiment ne possède pas d’Indice de référence et n’est pas géré par référence à un indice.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet du 31/08/2026 (Protea Fund - OGSB, classe C Cap ; KID : « Orcadia GSB »). Date de création = date de lancement de la classe C Cap 01/06/2016. Encours « Actifs net: EUR 673 569 072 » (compartiment). Aucun gérant nommé (gestionnaire d'investissement : Orcadia Asset Management). Frais de gestion non indiqués séparément ; frais courants 0,74 % (KID et factsheet « Frais de gestion et autres frais administratifs et d’exploitation »). Commission de performance 5 % au-delà de la high water mark. Indice « Aucun » (« ne possède pas d’Indice de référence »). SFDR article 8 ; « Conforme ESG : 94.7% » et engagement d'au moins 50 % d'investissements ESG (pas des « investissements durables » chiffrés), non repris. Duration 4.92 de la poche obligataire seulement (fonds multi-actifs), non reprise. Allocations lues sur graphiques (couleurs des légendes vérifiées sur le rendu du PDF) : classes d'actifs ; zones géographiques et instruments (Index / Fonds Actifs / Valeurs individuelles) de la poche « Actions et Assimilés » ; notations et type (Gouvernemental / Entreprises) de la poche obligataire. Répartition géographique des obligations non reprise (étiquettes illisibles : 1.3 % USA, le reste Europe). « Actions et Assimilés » : Actions 100.0 %, Immobilier 0.0 % (non repris). Positions : seuls les 5 « Fonds et ETFs actions » (en % du portefeuille) ; non repris car exprimés sur une autre base : actions individuelles en % des actions (NVIDIA 2.2, MICROSOFT 1.8, ING GROUP 1.1, ZURICH INSURANCE GROUP NOM. 1.0, ALPHABET 'C' -NON VOTING- 0.9) et obligations en % des obligations (3.55% SPAIN 23/33 SR 10.4, 2.45% BTPS ITALY 17/33 SR S 10.0, 0.75% EUROPEAN UNION 16/31 S76 SR S 8.8, 0.50% GERMANY (INFL.) 14/30 SR 8.3, 0.70% FRANCE (INFL.)13/30 SR 144A/S 6.8).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1, KID p.1",
+    "sfdr": "factsheet p.1, KID p.1",
+    "disclaimer": "factsheet p.2 et p.4",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "AMUNDI ETF-MSCI USA ESG SELECTI.USD",
+      "pct": "14.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "XTRACKERS(IE)-S&P500 EQ.WE.1C ETF",
+      "pct": "5.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PROTEA-ORCA.EQ.EUR.SUS.EX-FOS.B EUR",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AMUNDI IS-MSCI EM.MA.ESG SEL.ETF DR",
+      "pct": "2.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES IV-MSCI JAPAN SRI ETF USD",
+      "pct": "2.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "56.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Autres Risques actions",
+      "pct": "0.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "38.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Cash",
+      "pct": "5.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "27.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "USA",
+      "pct": "52.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "5.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays Emergents",
+      "pct": "9.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Global",
+      "pct": "4.5"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Index",
+      "pct": "39.4"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Fonds Actifs",
+      "pct": "22.1"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Valeurs individuelles",
+      "pct": "38.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "30.6"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "22.7"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "21.2"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "20.9"
+    },
+    {
+      "type": "Notations",
+      "libelle": "HY",
+      "pct": "4.6"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Gouvernemental",
+      "pct": "83.7"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Entreprises",
+      "pct": "16.3"
+    }
+  ]
+}

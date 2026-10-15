@@ -1,0 +1,269 @@
+{
+  "n": "267",
+  "isin": "LU2376225616",
+  "nom": "(I/C)PTAM DEFENSIVE PORTFOLIO I EUR",
+  "maison": "Hauck & Aufhäuser Fund Services S.A.",
+  "factsheet_date": "2026-10-14",
+  "kid_date": "2026-01-16",
+  "date_creation": "2021-09-16",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "FCP Part I Law of 2010",
+  "gerants": "",
+  "encours_millions": "41.40",
+  "encours_devise": "EUR",
+  "encours_date": "2026-10-14",
+  "frais_gestion": "",
+  "frais_courants": "1.4960",
+  "sri": "3",
+  "indice": "",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance is not a reliable indicator of future performance. Investing in investment funds carries with it the risk of price losses and currency losses, so that the future value of units may rise or fall in relation to their value at the time of acquisition.",
+  "politique_fr": "",
+  "politique_en": "Fund Features\nThe objective of the Fund's investment policy is to generate attractive long-term capital growth in EURO by means of defensive investment strategies and the minimisation of risks. By using proven portfolio strategies in combination with modern financial instruments and investment opportunities in all the world's leading markets and currencies, the opportunities for favourable performance span a broad basis. In order to achieve this investment objective, the Fund assets will be invested in accordance with the principle of risk diversification. However, no assurance can be provided that the above-stated objectives of the investment policy will be achieved.",
+  "source_politique": "Factsheet",
+  "remarques": "Nom officiel : PTAM Defensiv Portfolio I. Factsheet en anglais uniquement (« Report Date: 10/14/2026 ») ; KID en français. Date de création = « Date first price calculation 9/16/2021 » (première VNI de la part) ; « Launch Date 8/1/2006 » non retenue (la factsheet ne précise pas à quoi elle se rapporte ; antérieure à la première VNI de la part). Compartiment = forme juridique de la factsheet « FCP Part I Law of 2010 » (KID : « FCP Teil I Gesetz von 2010 »). Encours = « Net asset value 41.40 M. EUR » (fonds) ; la part : « Share Class 3.16 M. EUR ». Frais de gestion laissés vides : la factsheet donne « Management fee up to 0.30 % p.a. » et « Fund manager fee up to 0.80 % p.a., plus up to 15,000 EUR p.a. » (maxima, deux commissions) ; frais courants KID 1,4960 % (« TER (prior FY) 1.36 % » dans la factsheet) ; commission de performance (voir prospectus). Aucun gérant nommé (« Fund Manager PT Asset Management GmbH » = société). Aucun indice de référence cité. SFDR : « Article 8 SFDR - Sustainability Commitment ». Classification Equilibré : actions 46,8 % (« Equity Participation rate 54.35 % »), SRI 3. Politique : « Fund Features » de la factsheet (EN) ; la section « Objectifs » du KID ne décrit que le groupe cible (pas de politique). Allocations au 14/10/2026 : Classes d'actifs = « Breakdown Asset Allocation » ; Pays = « Breakdown Countries » ; Secteurs = « Breakdown Industries » (libellés tels qu'écrits, dont « Semiconductors & Semiconduc... » tronqué et « Interactive Medien & Dienste ») ; Devises = « Currency allocation » (« Newseeland Dollar » tel qu'écrit ; total 99.9).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1, p.3",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Spanien EO-Bonos 2019(35)",
+      "pct": "11.31"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Italien, Republik EO-B.T.P. 2024(34)",
+      "pct": "8.43"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Italien, Republik EO-B.T.P. 2002(33)",
+      "pct": "8.38"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PTAM Global Allocation Inhaber-Anteile I",
+      "pct": "8.26"
+    },
+    {
+      "type": "Positions",
+      "libelle": "EUR Deposits",
+      "pct": "6.18"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc. Registered Shares o.N.",
+      "pct": "5.43"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA Corp. Registered Shares DL-,001",
+      "pct": "5.21"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Spanien EO-Obl. 2001(32)",
+      "pct": "5.14"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp. Registered Shares DL-,00000625",
+      "pct": "4.31"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Agnico Eagle Mines Ltd. Registered Shares o.N.",
+      "pct": "4.22"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Equities",
+      "pct": "46.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Bonds",
+      "pct": "35.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Investment funds",
+      "pct": "9.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Deposits",
+      "pct": "6.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Participation certificate",
+      "pct": "1.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Others",
+      "pct": "0.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "USA",
+      "pct": "30.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Spain",
+      "pct": "18.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italy",
+      "pct": "17.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Germany",
+      "pct": "10.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "5.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Switzerland",
+      "pct": "2.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Netherlands",
+      "pct": "2.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Luxembourg",
+      "pct": "1.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "New Zealand",
+      "pct": "1.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Others",
+      "pct": "10.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Other industrial sector",
+      "pct": "51.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Semiconductors & Semiconduc...",
+      "pct": "12.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Pharmaceuticals",
+      "pct": "9.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Metals & Mining",
+      "pct": "6.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Computers & Peripherals",
+      "pct": "5.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Software",
+      "pct": "5.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Commercial Banks",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Interactive Medien & Dienste",
+      "pct": "1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Insurance",
+      "pct": "1.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Others",
+      "pct": "2.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "59.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "US-Dollar",
+      "pct": "30.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Canadian Dollar",
+      "pct": "5.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Swiss Franc",
+      "pct": "2.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Newseeland Dollar",
+      "pct": "1.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Danish Crown",
+      "pct": "0.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Australian Dollar",
+      "pct": "0.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "British Pound",
+      "pct": "0.5"
+    }
+  ]
+}

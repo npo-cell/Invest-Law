@@ -1,0 +1,205 @@
+{
+  "n": "259",
+  "isin": "LU0340558823",
+  "nom": "(I/C)PICTET TIMBER I EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-06-19",
+  "date_creation": "2008-09-29",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (bois et forêts)",
+  "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+  "gerants": "",
+  "encours_millions": "314",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.11",
+  "sri": "4",
+  "indice": "MSCI AC World (EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+  "politique_fr": "Objectif\nAugmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit au moins deux tiers de son actif net dans des actions d’entreprises actives dans la chaîne de valeur sylvicole, par exemple la plantation et la gestion de forêts ou la production ou distribution de produits dérivés du bois. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et s’efforce d’investir principalement dans des activités économiques qui contribuent à un objectif environnemental tout en évitant les activités ayant une incidence négative sur la société ou l’environnement. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à la Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 9 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Indice : « MSCI AC World (EUR) » = indice du tableau « Informations générales » de la part en EUR (retenu selon la consigne : devise du tableau de la part) ; les objectifs (factsheet p.1, repris du DIC) citent « MSCI AC World (USD) », « Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Date de création 29.09.2008 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part EUR, devise du compartiment USD. Encours « Taille du fonds (Mio) EUR 314 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 1.11 », identique au KID). Aucun gérant nommé. SFDR article 9, aucun % d'investissements durables écrit. Classification Agressif (actions thématiques/sectorielles bois) bien que SRI 4. Politique : texte de la factsheet (issu du DIC).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID",
+    "sri": "KID",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Weyerhaeuser Co",
+      "pct": "5.63"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Rayonier Inc",
+      "pct": "5.17"
+    },
+    {
+      "type": "Positions",
+      "libelle": "West Fraser Timber Co Ltd",
+      "pct": "4.66"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Svenska Cellulosa Ab Sca",
+      "pct": "4.34"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Smurfit Westrock Plc",
+      "pct": "4.32"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Packaging Corp Of America",
+      "pct": "4.26"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Stora Enso Oyj",
+      "pct": "4.19"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Suzano Sa",
+      "pct": "3.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Upm-Kymmene Oyj",
+      "pct": "2.86"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Unicharm Corp",
+      "pct": "2.73"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Terres d'exploitation forestière",
+      "pct": "17.38"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits à base de bois",
+      "pct": "17.29"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Carton-caisse",
+      "pct": "14.64"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Emballages",
+      "pct": "13.24"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Hygiène",
+      "pct": "8.44"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Papier",
+      "pct": "7.67"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Pulpe",
+      "pct": "6.99"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entrepreneurs du bâtiment",
+      "pct": "6.87"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industriel",
+      "pct": "5.45"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Trésorerie et équivalents",
+      "pct": "2.04"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "États-Unis",
+      "pct": "44.34"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Canada",
+      "pct": "12.87"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suède",
+      "pct": "9.53"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Finlande",
+      "pct": "8.66"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "7.56"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Brésil",
+      "pct": "5.49"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "2.30"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Chili",
+      "pct": "2.12"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suisse",
+      "pct": "1.78"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "3.31"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Trésorerie et équivalents",
+      "pct": "2.04"
+    }
+  ]
+}

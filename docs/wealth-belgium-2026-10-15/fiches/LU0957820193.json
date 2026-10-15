@@ -1,0 +1,157 @@
+{
+  "n": "308",
+  "isin": "LU0957820193",
+  "nom": "(I/C)THREADNEEDLE GLOBAL SMALLER COMPANIES ZE EUR",
+  "maison": "Threadneedle Management Luxembourg S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-02-23",
+  "date_creation": "2018-05-22",
+  "devise": "EUR",
+  "type_fonds": "Actions petites capitalisations internationales",
+  "compartiment": "Columbia Threadneedle (Lux) I est une société d'investissement à capital variable (\" SICAV \") constituée au Luxembourg et gérée par Threadneedle Management Luxembourg S.A.",
+  "gerants": "Scott Woods",
+  "encours_millions": "932.4",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "1.05",
+  "sri": "4",
+  "indice": "MSCI World Small Cap",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "37.26",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs. Le rendement de votre investissement peut évoluer en raison des fluctuations de change si votre investissement est effectué dans une devise autre que celle utilisée dans le calcul des performances passées.",
+  "politique_fr": "Objectif et politique du fonds\nLe Fonds vise à accroître la valeur de votre investissement à long terme.\n\nLe Fonds investit au moins deux tiers de ses actifs dans des actions de plus petites sociétés du monde entier. Ces sociétés sont généralement d’une taille égale ou inférieure à celle de la plus grande société composant l’Indice MSCI World Small Cap.\n\nLe Fonds peut avoir recours à des dérivés (instruments complexes) à des fins de couverture, et peut également investir dans des catégories d’actifs et des instruments différents de ceux indiqués ci-dessus.\n\nLe Fonds est activement géré par rapport à l’Indice MSCI World Small Cap. L’indice est représentatif de l’ensemble des sociétés dans lesquelles le Fonds investit et constitue un indice de référence approprié en fonction duquel la performance du Fonds sera calculée et évaluée dans la durée. L’indice n’est pas conçu pour tenir compte spécifiquement de caractéristiques environnementales ou sociales. Le gestionnaire de fonds a le pouvoir de choisir des investissements avec des pondérations différentes de celles de l’indice et des investissements qui ne sont pas dans l’indice, et le Fonds peut différer sensiblement de l’indice.\n\nLe Fonds promeut des caractéristiques environnementales et sociales en intégrant un ensemble de mesures d’investissement responsable dans le processus d’investissement, et s’assure que les sociétés dans lesquelles il investit suivent de bonnes pratiques de gouvernance. Le Fonds vise à se comparer favorablement à l’indice sur des périodes de 12 mois consécutifs lorsqu’il est évalué selon la Notation d’importance des facteurs ESG (environnementaux, sociaux et de gouvernance) de Columbia Threadneedle, qui indique l’exposition d’une société aux risques et aux opportunités ESG importants. Au moins 50 % du Fonds est investi dans des sociétés qui ont une bonne note. Le Fonds s’engage également à investir au moins 20 % de ses actifs dans des fonds durables.\n\nLe Fonds exclut les sociétés qui tirent certains niveaux de revenus de secteurs tels que, sans s’y limiter, le charbon et le tabac. Il exclut également les sociétés qui sont directement impliquées dans des armes nucléaires ou controversées, ainsi que celles qui ont commis des infractions aux normes et aux principes internationaux. Le gestionnaire de fonds travaille en collaboration avec les sociétés afin de les encourager à adopter de meilleures pratiques en matière d’ESG.\n\nLe gestionnaire de fonds travaille en collaboration avec les sociétés afin de les encourager à adopter de meilleures pratiques en matière d’ESG. Le gestionnaire de fonds s’est engagé à atteindre la neutralité carbone au plus tard en 2050 ou plus tôt pour ce Fonds, en s’engageant de manière proactive auprès des sociétés détenues dans le Fonds pour les accompagner dans ce processus, et se désinvestira de celles qui ne répondent pas aux normes minimales.\n\nDe plus amples informations sur les caractéristiques environnementales ou sociales promues par le Fonds sont disponibles dans l’Annexe Normes techniques de réglementation (RTS) SFDR du Prospectus, disponible à l’adresse www.columbiathreadneedle.com.\n\nLe Fonds est considéré comme relevant de l’Article 8 du SFDR.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Renommage : nom actuel « CT (LUX) GLOBAL SMALLER COMPANIES », catégorie ZE EUR. Factsheet au 31 août 2026. Date de création = date de lancement de la catégorie ZE 22/05/18 (« Date de lancement : 03/03/11 » pour le fonds ; performances antérieures simulées à partir d'une autre catégorie). Compartiment de la SICAV Columbia Threadneedle (Lux) I, devise du compartiment USD. Encours « Actif net : €932,4m ». Frais de gestion non indiqués séparément ; frais courants 1,05 % (KID ; OCF factsheet 1,05 %). Indice MSCI World Small Cap : fonds « activement géré par rapport à l’Indice MSCI World Small Cap », indice de référence pour le calcul et l'évaluation de la performance. SFDR article 8 ; investissements durables : « Investissements durables réels 37,26% » (« Investissements durables engagés 20,00% »), données ESG au 31 juillet 2026. Classification Agressif : petites capitalisations, SRI 4. Politique : bloc « Objectif et politique du fonds » p.1 copié tel quel (la phrase « Le gestionnaire de fonds travaille en collaboration… d’ESG. » figure deux fois dans le document). Allocations : 10 principales positions (ligne « Total 19,2 » non reprise) et pondérations sectorielles colonne « Fonds » (Services Publics « -- » pour le fonds, non repris).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.4",
+    "devise": "factsheet p.4",
+    "compartiment": "factsheet p.4",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "durable_pct": "factsheet p.3",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Repligen Corporation",
+      "pct": "2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Henry Schein, Inc.",
+      "pct": "2.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Weir PLC",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Procore Technologies Inc",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Gunma Bank, Ltd.",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Cullen/Frost Bankers, Inc.",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Storebrand ASA",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Ryman Hospitality Properties, Inc.",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ServiceTitan, Inc. Class A",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Chefs' Warehouse, Inc.",
+      "pct": "1.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "24.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "20.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "14.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Pharma/Santé",
+      "pct": "11.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. Cyclique",
+      "pct": "8.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "5.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits de base",
+      "pct": "4.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "4.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. Non Cyclique",
+      "pct": "3.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "1.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "0.9"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "n": "324",
+  "isin": "IE00B18GC888",
+  "nom": "(I/C)VANGUARD GLOBAL BOND HEDGED EUR",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2014-02-27",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Global Fixed Income Team",
+  "encours_millions": "26952",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.15",
+  "sri": "2",
+  "indice": "Bloomberg Global Aggregate Float Adjusted and Scaled Index in EUR",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "6.0 ans",
+  "qualite_emetteurs": "AA-",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et vise à répliquer la performance de l’indice Bloomberg Global Aggregate Float Adjusted and Scaled Index (l’« Indice »).\n• L’Indice intègre des obligations investment-grade et des obligations d’État du monde entier, assorties d’échéances supérieures à un an.\n• L’Indice est un indice pondéré par capitalisation boursière, composé de titres obligataires mondiaux émis par des gouvernements, des agences gouvernementales et des sociétés, et des investissements obligataires titrisés mondiaux assortis d’échéances supérieures à un an.\n• Le Fonds vise à : 1. Répliquer la performance de l’Indice en investissant dans un portefeuille de titres qui, dans la mesure du possible, constitue un échantillon représentatif des titres qui composent l’Indice. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Hedged Acc » ; KID : « Vanguard Global Bond Index Fund (le \"Fonds\") - EUR Hedged Accumulation Shares ». Date de création « 27 février 2014 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 26 952 € » (fonds) ; encours de la classe d'actifs 1 523 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.15 % (identique au « Montant des frais courants (MFC) » 0,15 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Part couverte en EUR : indice indiqué « in EUR » dans la factsheet. Gérant : équipe « Global Fixed Income Team » (rubrique « Gestionnaire de portefeuille », sous Vanguard Asset Management, Ltd.). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Duration = « Duration moyenne » ; qualité = « Qualité moyenne » (tableau Caractéristiques, fonds). Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays (seuls les 10 principaux marchés sont donnés, total 83,7 %) ; « Ventilation par type d'emetteur » classée en Secteurs ; « Distribution en fonction des échéances » en Maturités ; « Répartition par qualité du crédit » en Notations.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.2",
+    "disclaimer": "factsheet p.4",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1",
+    "duration": "factsheet p.3",
+    "qualite_emetteurs": "factsheet p.3"
+  },
+  "allocations": [
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "45.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "6.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "5.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japon",
+      "pct": "5.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "4.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "4.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "4.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Supranational",
+      "pct": "3.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "2.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Australie",
+      "pct": "2.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Moins de 1 an",
+      "pct": "0.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 5 ans",
+      "pct": "44.0"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 - 10 ans",
+      "pct": "33.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "10 - 15 ans",
+      "pct": "6.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "15 - 20 ans",
+      "pct": "5.5"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "20 - 25 ans",
+      "pct": "3.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Plus de 25 ans",
+      "pct": "6.6"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "14.2"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "43.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "25.5"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "16.7"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Inférieur à BBB",
+      "pct": "0.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Sans notation",
+      "pct": "0.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Bons du Trésor/Obligations fédérales",
+      "pct": "53.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entreprise - Industrie",
+      "pct": "11.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Titres pass-through adossés à des prêts immobiliers",
+      "pct": "8.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entreprise - institutions financiéres",
+      "pct": "8.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - agences",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - collectivités locales",
+      "pct": "3.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - supranationals",
+      "pct": "3.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Titrisés",
+      "pct": "2.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Entreprise - services aux Collectivités",
+      "pct": "2.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liés au gouvernement - souverains",
+      "pct": "1.6"
+    }
+  ]
+}

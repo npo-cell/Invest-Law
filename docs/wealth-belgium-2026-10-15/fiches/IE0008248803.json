@@ -1,0 +1,205 @@
+{
+  "n": "323",
+  "isin": "IE0008248803",
+  "nom": "(I/C)VANGUARD EUROZONE STOCK INDEX FUND ACC EUR",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2001-10-25",
+  "devise": "EUR",
+  "type_fonds": "Actions zone euro",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Global Equity Index Management (GE)",
+  "encours_millions": "1963",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.12",
+  "sri": "4",
+  "indice": "MSCI EMU Index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI EMU (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de moyenne et grande tailles des marchés développés de pays européens ayant adopté l’Euro.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Acc » ; KID : « Vanguard Eurozone Stock Index Fund (le \"Fonds\") - EUR Accumulation Shares ». Date de création « 25 octobre 2001 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 1 963 € » (fonds) ; encours de la classe d'actifs 1 067 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.12 % (identique au « Montant des frais courants (MFC) » 0,12 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Global Equity Index Management (GE) » (rubrique « Gestionnaire de portefeuille »). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays ; « Exposition pondérée » (secteurs GICS) en Secteurs ; Positions = « 10 principaux titres » (données au 31 août 2026).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.2",
+    "disclaimer": "factsheet p.4",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ASML Holding NV",
+      "pct": "8.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Siemens AG",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAP SE",
+      "pct": "3.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banco Santander SA",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Allianz SE",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Schneider Electric SE",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TotalEnergies SE",
+      "pct": "2.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banco Bilbao Vizcaya Argentaria SA",
+      "pct": "2.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Iberdrola SA",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Airbus SE",
+      "pct": "1.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "27.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "19.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'information",
+      "pct": "15.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation discrétionnaire",
+      "pct": "8.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "6.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "5.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "3.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de Communication",
+      "pct": "3.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "27.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "25.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "16.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "11.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "9.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Finlande",
+      "pct": "3.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Belgique",
+      "pct": "3.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Irlande",
+      "pct": "1.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autriche",
+      "pct": "1.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Portugal",
+      "pct": "0.6"
+    }
+  ]
+}

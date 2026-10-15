@@ -1,0 +1,147 @@
+{
+  "n": "148",
+  "isin": "LU3201875161",
+  "nom": "(I/C)FVS GLOBAL DYNAMIC WEALTH IT EUR",
+  "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-01",
+  "date_creation": "2025-10-17",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "Le produit est une classe d'actions du compartiment Flossbach von Storch III SICAV - Global Dynamic Wealth, qui fait partie du fonds Flossbach von Storch III SICAV (un \"fonds d’investissement à compartiments multiples\") d’une société d’investissement à capital variable (SICAV) de type collectif, soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 dans sa version modifiée (Loi de 2010) et peut donc être qualifié d’OPCVM.",
+  "gerants": "Stephan Scheeren, Julian–Benedikt Hautz, Dr. Tobias Schafföner",
+  "encours_millions": "21.65",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.72",
+  "frais_courants": "0.88",
+  "sri": "3",
+  "indice": "Aucun",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance is not a reliable indicator of future performance.",
+  "politique_fr": "",
+  "politique_en": "INVESTMENT STRATEGY\nThe objective of the investment policy of Flossbach von Storch III SICAV - Global Dynamic Wealth (‘sub-fund’) is to achieve reasonable growth while taking into consideration the risk involved for investors. The investment strategy is based on a fundamental analysis of global financial markets. The fund manager composes the portfolio according to the criteria defined in the investment policy, reviews it regularly, and adjusts it if necessary. The sub-fund is actively managed. No index is used for comparison purposes. At least 50% and at most 85% of the sub-fund's net assets are invested in equities. The sub-fund may also invest in bonds, money market instruments, convertible bonds, derivatives, precious metals, and bank deposits. The fund may invest worldwide; there is no regional restriction. Shares in UCITS or other UCIs (“target funds”) are only acquired up to a maximum limit of 10% of the sub-fund's net assets; the sub-fund is therefore eligible for target funds. In principle, the sub-fund may invest without restriction in all eligible assets listed in Article 4 of the Articles of Association. The use of derivative financial instruments (“derivatives”) is intended to achieve the aforementioned investment objectives for both investment and hedging purposes. Detailed information on the aforementioned and any other investment opportunities of the sub-fund can be found in the currently valid sales prospectus. This sub-fund may not be suitable for investors who wish to withdraw their money from the sub-fund within a period of 4 years. This share class distributes the income it generates to investors. The sub-fund promotes environmental and social characteristics as defined in Article 8 of Regulation (EU) 2019/2088. Flossbach von Storch follows a holistic sustainability approach across the group: As a long-term investor, Flossbach von Storch attaches importance to companies managing their environmental and social footprint responsibly and actively countering the negative effects of their activities.",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet uniquement en anglais (30/09/2026) : politique en colonne EN ; le KID FR (01/04/2026) contient aussi une section « Objectifs » en français, non reprise (source unique = factsheet). Incohérence : la politique de la factsheet dit « This share class distributes the income it generates to investors » alors que le tableau de la factsheet indique « Income utilisation Accumulating » et le KID « Cette classe d'actions ne verse pas de revenus à l'investisseur, mais les investit à son tour » (capitalisation). Date de création = « Launch date 17 October 2025 » (part IT, factsheet p.1) ; pas de performance publiée (moins d'une année civile). Encours « Fund assets EUR 21.65 million ». Frais de gestion = « management fee of 0.72 % p.a. » inclus dans « Ongoing charges 0.88 % p.a. » (factsheet) ; frais courants = KID 0,88 % (estimation basée sur une classe d'actions comparable) ; commission de performance max. 10 % (plafond 2,5 %). Indice « Aucun » : « No index is used for comparison purposes » (factsheet) et « Il n'y a pas de comparaison avec un indice de référence » (KID). Gérants : Dr. Tobias Schafföner figure dans le bloc « FUND MANAGEMENT » avec le titre « Head of Multi-Asset » (les deux autres : « Fund manager »). Classification Dynamique : multi-actifs avec 50 à 85 % d'actions (71,17 % au 30/09/2026), malgré un SRI de 3. Duration et qualité vides (fonds multi-actifs) : le commentaire mensuel cite pour la poche obligataire une duration de 6.3 et une notation moyenne pondérée « AA ». Allocations : « Classes d'actifs » inclut « Other (incl. derivatives) -0.66 % » (mention « Not shown » sous le graphique) ; secteurs = « Top 10 sectors for equities » (8 lignes, en % de la poche actions) ; notations = poche obligataire (convertibles exclues).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.4",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Equities",
+      "pct": "71.17"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Bonds",
+      "pct": "15.07"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Convertible bonds",
+      "pct": "1.59"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Gold (indirect)",
+      "pct": "8.16"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Cash",
+      "pct": "4.67"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Other (incl. derivatives)",
+      "pct": "-0.66"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Information Technology",
+      "pct": "24.23"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Health Care",
+      "pct": "16.41"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financials",
+      "pct": "15.82"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrials",
+      "pct": "15.44"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Staples",
+      "pct": "13.48"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Discretionary",
+      "pct": "7.44"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communication Services",
+      "pct": "4.52"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Materials",
+      "pct": "2.65"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "24.27"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "24.42"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "31.31"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "16.70"
+    },
+    {
+      "type": "Notations",
+      "libelle": "NR",
+      "pct": "3.31"
+    }
+  ]
+}

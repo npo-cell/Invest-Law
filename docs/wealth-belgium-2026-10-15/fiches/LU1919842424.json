@@ -1,0 +1,100 @@
+{
+  "n": "233",
+  "isin": "LU1919842424",
+  "nom": "(I/C)ODDO BHF ARTIFICIAL INTELLIGENCE CN-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-07-13",
+  "date_creation": "2019-01-14",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales thématiques (intelligence artificielle)",
+  "compartiment": "Un compartiment de la SICAV ODDO BHF (ci-après la « SICAV »), géré par ODDO BHF Asset Management SAS",
+  "gerants": "Brice Prunas, Maxence Radjabi",
+  "encours_millions": "1180",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.95",
+  "frais_courants": "1.07",
+  "sri": "5",
+  "indice": "MSCI World (NR) in EUR",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps.",
+  "politique_fr": "ODDO BHF Artificial Intelligence est un fonds thématique investi en actions mondiales utilisant l'intelligence artificielle en sus de l'analyse fondamentale dans le but de détecter les sous-thèmes les plus générateurs d'alpha et les entreprises innovantes liées au thème de l'intelligence artificielle. L'objectif d'investissement durable du fonds est de contribuer à la réduction des émissions de carbone et de saisir les opportunités découlant de la transition vers une économie bas carbone. Après la définition de l'univers d'investissement utilisant de l'intelligence artificielle, une analyse ESG et carbone réduit cet univers en fonction de l'objectif d'investissement durable du fonds. Le fonds est géré activement par l'équipe de gestion.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part CN-EUR (capitalisation). Date de création = « Date de création de la part (1ère VL) 14/01/2019 » (fonds créé le 19/12/2018). Gérants : Brice Prunas, Maxence Radjabi. Encours = « Actif net du fonds 1 180 M$ », sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion fixes : Taux annuel de 0.95% max » (factsheet, taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,07 % (factsheet 1.065 %) ; commission de surperformance max. 20 % de la surperformance par rapport à l'indice. Indice retenu : objectif de surperformer le MSCI World NR (KID), qui sert aussi au calcul de la commission de performance ; nom du tableau de la factsheet « MSCI World (NR) in EUR » (le MSCI World EUR a remplacé le MSCI World USD le 22/01/2021 ; la partie ESG de la factsheet indique « 100% MSCI World (NR) USD »). SFDR article 9 (KID), aucun % d'investissements durables écrit ; SRI 5 (KID ; l'échelle de risque de la factsheet est graphique). Classification Agressif : actions thématiques intelligence artificielle, SRI 5. Politique : bloc « Stratégie d'investissement » de la factsheet (le KID p.1 détaille le processus en 6 étapes). Allocations : seules les 10 principales lignes (colonne « Poids dans le fonds ») sont reprises, libellés tronqués tels qu'écrits ; les répartitions sectorielle, géographique et par capitalisation sont des graphiques sans texte extractible (seule « Poche monétaire 5,1% » est lisible).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Nvidia Corp",
+      "pct": "6.71"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "6.26"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.Com Inc",
+      "pct": "5.51"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc-Cl A",
+      "pct": "4.90"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Meta Platforms Inc-Class A",
+      "pct": "3.98"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor Manufac",
+      "pct": "3.84"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Servicenow Inc",
+      "pct": "3.16"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc",
+      "pct": "2.99"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Palantir Technologies Inc-A",
+      "pct": "2.64"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Asml Holding Nv",
+      "pct": "2.56"
+    }
+  ]
+}
