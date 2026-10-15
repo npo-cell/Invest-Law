@@ -430,24 +430,48 @@
   "isin": "LU0785618231",
   "nom": "(I/C)TRIODOS IMPACT MIXED NEUTRAL Z EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0785618231/LU0785618231__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2fe4882bb794bc754d953272b0207d9e_816054/MR_LU_en_LU0785618231_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR LU en)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0785618231/LU0785618231__KID_FR_2026-04-08.pdf",
+   "url": "https://api.fundinfo.com/document/e72ec0734b0367c095d3269640bd760c_84995/PRP_FR_fr_LU0785618231_YES_2026-04-08.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-04-08",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet (Z-cap, septembre 2026) uniquement en anglais sur fundinfo ; anciennes URLs triodos.be/.nl en FR mortes (404), site triodos-im.com à sélection d'investisseur. KID FR (déclinaison FR) du 08/04/2026."
  },
  {
   "n": 312,
   "isin": "LU0569863755",
   "nom": "(I/C)UBAM - Global High Yield Solution IHC EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/UBP_SA/LU0569863755/LU0569863755__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/27f95a5aa114d818a3ec152d02e33097_627730/MR_LU_en_LU0569863755_RES_2026-09-30.pdf",
+   "source": "fundinfo (MR LU en)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/UBP_SA/LU0569863755/LU0569863755__KID_FR_2026-05-10.pdf",
+   "url": "https://api.fundinfo.com/document/7bb39c737abddf62d77097e58a715e70_183779/PRP_FR_fr_LU0569863755_YES_2026-05-10.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-05-10",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet IHC EUR septembre 2026 uniquement en anglais (fundinfo, version « qualified investors ») ; pas de version FR trouvée. KID FR (déclinaison FR) du 10/05/2026."
  },
  {
   "n": 313,
@@ -457,7 +481,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BKLWXS37/IE00BKLWXS37__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bklwxs37_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -469,7 +499,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0031786696/IE0031786696__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0031786696_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -481,7 +517,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B5456744/IE00B5456744__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b5456744_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -493,7 +535,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BKV0W243/IE00BKV0W243__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bkv0w243_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -505,7 +553,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BNDS0V25/IE00BNDS0V25__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00bnds0v25_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -517,7 +571,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE000CI5UY91/IE000CI5UY91__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie000ci5uy91_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -529,7 +589,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00B04FFJ44/IE00B04FFJ44__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie00b04ffj44_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  },
@@ -541,7 +607,13 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE0007987690/IE0007987690__KID_FR_2026-09-29.pdf",
+   "url": "https://fund-docs.vanguard.com/ie0007987690_priipskid_fr.pdf",
+   "source": "Vanguard (fund-docs.vanguard.com)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "notes": ""
  }

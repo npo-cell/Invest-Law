@@ -77,23 +77,23 @@
   "nom": "(I/C)GEMASIA I EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/GEMWAY_ASSETS/FR0013291879/FR0013291879__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/7316d8d807de5b0ea30d25dbb30b2d33_2078678/MR_FR_en_FR0013291879_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-08-31",
-   "langue": "EN",
+   "fichier": "INVESTLAW/GEMWAY_ASSETS/FR0013291879/FR0013291879__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.gemway.com/e/fr/docs/funds/gemasia/MONTHLY_REPORT",
+   "source": "Gemway Assets (site gestionnaire)",
+   "date": "2026-09-30",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/GEMWAY_ASSETS/FR0013291879/FR0013291879__KID_FR_2025-02-18.pdf",
-   "url": "https://api.fundinfo.com/document/24ad96ac30c0bcac6a1817f8df54447a_53566/PRP_FR_fr_FR0013291879_YES_2025-02-18.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2025-02-18",
+   "fichier": "INVESTLAW/GEMWAY_ASSETS/FR0013291879/FR0013291879__KID_FR_2026-09-17.pdf",
+   "url": "https://www.gemway.com/e/fr/docs/funds/gemasia/KIID",
+   "source": "Gemway Assets (site gestionnaire)",
+   "date": "2026-09-17",
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR septembre 2026 couvrant explicitement Parts I et R (ISIN Part I cité). KID : le PDF du site Gemway regroupe les DIC de toutes les parts (20 p.) ; pages 9-12 (GEMASIA I EUR, FR0013291879, 17/09/2026) extraites sans modification (pdfseparate/pdfunite)."
  },
  {
   "n": 151,

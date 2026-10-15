@@ -550,5 +550,149 @@
    "langue": "FR",
    "isin_verifie": true
   }
+ },
+ {
+  "n": 199,
+  "isin": "FR0013340726",
+  "nom": "(I/C)LBPAM ISR ABS RETURN CREDIT I EUR",
+  "notes": "Fonds nommé « LBPAM Absolute Return Credit SRI » (part I). Factsheet : aucune MR sur fundinfo (BE/LU/FR/IE) ; site lbpam.com = widget JS (API /mapi/DocumentAPI ne renvoie rien pour l'ISIN sans identifiant interne). Non trouvée.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LBP_AM/FR0013340726/FR0013340726__KID_FR_2026-02-17.pdf",
+   "url": "https://api.fundinfo.com/document/a4a353220269fd6f08c85e8cc1cae5f4_265889/PRP_FR_fr_FR0013340726_YES_2026-02-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-02-17",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 200,
+  "isin": "BE6370440628",
+  "nom": "(I/C)LELEUX INVEST DYNAMIC WORLD FOF P I EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 201,
+  "isin": "BE6288463506",
+  "nom": "(I/C)LELEUX INVEST EQUITIES WORLD FOF P EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 202,
+  "isin": "BE6288478652",
+  "nom": "(I/C)LELEUX INVEST PATRIMONIAL WORLD FOF P EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv). Seule copie trouvée : kid.baloise.lu (site tiers d'assureur, anciens documents 2023) — non retenue.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 203,
+  "isin": "BE6304594797",
+  "nom": "(I/C)LELEUX INVEST RESPONSIBLE WORLD FOF P EUR",
+  "notes": "Part P (institutionnelle) : le site Leleux Invest (leleux.be/Leleux/LeleuxInvest.nsf, pages « KIID SIMPLE » et « MONTHLY-REPORT ») ne publie que les DIC et rapports mensuels (sept. 2026) de la part R ; aucun ne contient cet ISIN. Rien sur fundinfo (BE/LU/FR/IE, prof et priv). Seule copie trouvée : kid.baloise.lu (site tiers d'assureur, anciens documents 2023) — non retenue.",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 204,
+  "isin": "FR0013439890",
+  "nom": "(I/C)LF RENDEMENT GLOBAL 2028 PLUS T C EUR (FMB)",
+  "notes": "Reporting mensuel du 30/09/2026 propre à la part T C EUR. Initiateur du DIC : Crédit Mutuel Asset Management (gestion La Française).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FRANCAISE_ASSET_MANAGEMENT/FR0013439890/FR0013439890__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/6ce69ee7cf143a6aec25bdebad7635ef_1078541/MR_FR_fr_FR0013439890_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LA_FRANCAISE_ASSET_MANAGEMENT/FR0013439890/FR0013439890__KID_FR_2026-10-05.pdf",
+   "url": "https://api.fundinfo.com/document/ad694363749f8d384f3c4e98605e02a8_146724/PRP_FR_fr_FR0013439890_YES_2026-10-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-10-05",
+   "langue": "FR",
+   "isin_verifie": true
+  }
  }
 ]
