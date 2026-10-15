@@ -40,8 +40,11 @@ def controle(isin, doc, kind):
     low = t.lower()
     if kind == 'KID' and not any(w in low for w in KID_WORDS):
         return 'Non trouvé', 'ne ressemble pas à un KID'
-    if kind == 'Factsheet' and any(w in low[:3000] for w in KID_WORDS):
-        return 'Non trouvé', 'ressemble à un KID, pas à une factsheet'
+    fs_words = ('fiche', 'factsheet', 'fact sheet', 'reporting', 'mensuel', 'monthly', 'données au', 'as at', 'as of')
+    if kind == 'Factsheet' and not any(w in low for w in fs_words):
+        return 'Non trouvé', 'ne ressemble pas à une factsheet'
+    if kind == 'KID' and any(w in low[:1500] for w in ('fiche technique', 'factsheet', 'reporting mensuel')):
+        return 'Non trouvé', 'ressemble à une factsheet, pas à un KID'
     return 'Trouvé', os.path.relpath(p, ROOT)
 
 
