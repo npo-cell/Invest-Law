@@ -66,3 +66,12 @@ Chaque fonds est d'abord écrit dans `docs/wealth-belgium-2026-10-15/fiches/<ISI
 - **Allocations** : types autorisés : Positions, Secteurs, Classes d'actifs, Zones géographiques, Pays, Devises, Notations, Maturités, Capitalisations, Styles, Instruments. Exclus : contributions à la performance, sensibilités par pays, répartitions de l'indice. Valeurs négatives et totaux ≠ 100 % gardés tels quels. Positions datées d'une autre date que la factsheet → remarque.
 - **Politique** : garder les intertitres du bloc (Objectif, Stratégie…) ; exclure les « atouts », arguments commerciaux, commentaires et risques. Si la factsheet n'a qu'un texte marketing de une ou deux phrases sans objectif/politique → prendre le KID (source « KID »).
 - **Contrôle obligatoire** : après chaque fiche, `python3 -I docs/wealth-belgium-2026-10-15/verif_fiche.py <ISIN>` (vérifie que chaque phrase de la politique, du disclaimer, du compartiment, de l'indice, des gérants et chaque libellé/% d'allocation figure dans les PDF) ; corriger jusqu'à 0 écart.
+
+## Mise en forme du Google Sheet (demande du 15/10/2026 : « beau et facile à lire », carte blanche)
+À faire en fin de remplissage, sans modifier aucune valeur :
+- Onglet principal renommé (ex. « Gamme ») ; en-têtes en gras sur fond coloré sobre, ligne d'en-tête figée, première(s) colonne(s) (nom, ISIN) figées.
+- Largeurs de colonnes adaptées ; textes longs (politique, disclaimer, remarques) en retour à la ligne dans des colonnes larges, hauteur de ligne raisonnable (pas de lignes géantes : texte coupé visible en entier au clic).
+- Couleurs discrètes et lisibles : « Trouvé » / « Non trouvé » / « à vérifier » en mise en forme conditionnelle (vert / rouge / orange pâles) ; lignes alternées ; filtres activés sur chaque onglet.
+- Onglet « Allocations » compacté (lignes vides supprimées), trié par n puis type, sans trous.
+- Éventuellement un petit onglet « Lisez-moi » en tête : à quoi sert chaque onglet, légende des couleurs, date de mise à jour, comptes (fiches, factsheets, KID, allocations).
+- Vérifier le rendu après coup (relecture des propriétés de mise en forme / export PDF).
