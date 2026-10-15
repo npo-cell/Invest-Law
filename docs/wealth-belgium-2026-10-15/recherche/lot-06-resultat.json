@@ -141,7 +141,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Goldman Sachs AM B.V.). Factsheet FR fin août 2026 (septembre pas encore sur fundinfo ; site am.gs.com sans URL déterministe). KID FR le plus récent = 03/03/2026 (FR) ou BE ; des KID EN plus récents existent parfois sur fundinfo LU."
  },
  {
   "n": 153,
@@ -165,7 +165,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Goldman Sachs AM B.V.). Factsheet FR fin août 2026 (septembre pas encore sur fundinfo ; site am.gs.com sans URL déterministe). KID FR le plus récent = 03/03/2026 (FR) ou BE ; des KID EN plus récents existent parfois sur fundinfo LU."
  },
  {
   "n": 154,
@@ -189,7 +189,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Goldman Sachs AM B.V.). Factsheet FR fin août 2026 (septembre pas encore sur fundinfo ; site am.gs.com sans URL déterministe). KID FR le plus récent = 03/03/2026 (FR) ou BE ; des KID EN plus récents existent parfois sur fundinfo LU."
  },
  {
   "n": 155,
@@ -213,7 +213,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Goldman Sachs AM B.V.). Factsheet FR fin août 2026 (septembre pas encore sur fundinfo ; site am.gs.com sans URL déterministe). KID FR le plus récent = 03/03/2026 (FR) ou BE ; des KID EN plus récents existent parfois sur fundinfo LU."
  },
  {
   "n": 156,
@@ -237,7 +237,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo. Factsheet FR fin août 2026 (code 0826 en tête). KID FR BE 03/08/2026."
  },
  {
   "n": 157,
@@ -246,8 +246,8 @@
   "factsheet": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BZ036616/IE00BZ036616__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/bfc666f55e710ab615075bac72d1329e_345035/MR_IE_en_IE00BZ036616_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
+   "url": "https://guardcap.co.uk/app/uploads/2022/12/GuardCap-Global-Equity-Factsheet_EUR-I.pdf",
+   "source": "GuardCap (site gestionnaire ; identique à fundinfo)",
    "date": "2026-08-31",
    "langue": "EN",
    "isin_verifie": true
@@ -261,7 +261,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet seulement en EN, fin août 2026 (site GuardCap = fundinfo IE). KID FR fundinfo BE 08/05/2026 (site GuardCap : KID FR de 2025, plus ancien)."
  },
  {
   "n": 158,
@@ -285,7 +285,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (LU-prof/FR-prof). Factsheet FR fin août 2026 (Y EUR Acc). KID FR 03/06/2026."
  },
  {
   "n": 159,
@@ -333,7 +333,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo LU/BE. Factsheet FR 30/09/2026. KID FR BE 16/04/2026."
  },
  {
   "n": 161,
@@ -405,7 +405,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo LU/BE. Rapport mensuel FR 31/08/2026 (Part I cap EUR). KID FR BE 13/04/2026."
  },
  {
   "n": 164,
@@ -429,7 +429,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Janus Henderson). Factsheet FR (BE/FR) + KID FR (BE/LU) février 2026."
  },
  {
   "n": 165,
@@ -453,7 +453,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Janus Henderson). Factsheet FR (BE/FR) + KID FR (BE/LU) février 2026."
  },
  {
   "n": 166,
@@ -477,7 +477,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Docs fundinfo (Janus Henderson). Factsheet FR (BE/FR) + KID FR (BE/LU) février 2026."
  },
  {
   "n": 167,
