@@ -80,7 +80,7 @@
     ],
     "extrait": "DNCA FINANCE est une société en Commandite Simple (SCS) au capital social de 1.634.468,34 Euros, ayant son siège social au 19, place Vendôme 75001 Paris.",
     "notes": "Filiale luxembourgeoise DNCA Finance Luxembourg : 1, Place d'Armes, L-1136 Luxembourg (affichée comme « Siège social » dans le pied de page de la version fr-be/lu du site ; agréée CSSF).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": "Maison d'épargne et de valeur",
@@ -100,7 +100,7 @@
     ],
     "extrait": "« Depuis sa création en 2000, DNCA Finance se distingue par sa gestion de conviction couvrant l’ensemble des classes d’actifs, des styles de gestion (Value, Blend et Croissance) et des zones géographiques. […] six expertises (Taux, Mixte, Actions, SFDR 9, Matières premières et Epargne Retraite) » ; « 66,2 Milliards d'euros d'encours sous gestion […] 199 Collaborateurs […] 72 Gérants & analystes — Source : DNCA Finance - Données au 30/09/2026 » ; « DNCA Finance, société affiliée de Natixis Investment Managers » ; « DNCA FINANCE et de sa filiale DNCA FINANCE Luxembourg ».",
     "notes": "Agréments : AMF GP 00-030 (18/08/2000) ; CSSF (DNCA Finance Luxembourg) 29/08/2007.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FID_Specialites": {
     "valeur": null,
@@ -126,7 +126,7 @@
     ],
     "extrait": "« 68 Fonds » (Données au 30/09/2026) ; liste des fonds : DNCA Invest Eurose (LU0284394235), DNCA Invest Alpha Bonds (LU1694789535), Centifolia (FR0007076930)… ; menus : Taux, Performance Absolue, Mixte, Actions, ISR, Epargne retraite.",
     "notes": "« SICAV luxembourgeoise DNCA Invest » déduit des noms de fonds et ISIN LU listés sur le site ; le nombre de 68 inclut des fonds d'épargne salariale/retraite français.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Taux (crédit, convertibles, inflation, trésorerie)<br>Performance absolue<br>Diversifiés / mixtes<br>Actions (Value, Blend, Croissance, small & mid caps)<br>ISR<br>Matières premières",
@@ -135,7 +135,7 @@
     ],
     "extrait": "Catégories de la gamme : ABSOLUTE_BOND_RETURN, ABSOLUTE_RETURN, COMMODITY, CONVERTIBLES, CREDIT, DIVERSIFIED, EURO_BLEND, GARP, GROWTH, INFLATION, ISR, SMALL_AND_MID_CAP, TREASURY, VALUE",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active de conviction, fondée sur la connaissance approfondie des entreprises et des émetteurs ; approche patrimoniale intégrant la gestion du risque, financier comme extra-financier.",
@@ -144,7 +144,7 @@
     ],
     "extrait": "« nous construisons des portefeuilles basés sur les convictions de nos gérants et leur connaissance approfondie des entreprises et des émetteurs » ; « Notre approche patrimoniale intègre la gestion du risque à chaque étape de notre processus d’investissement, sous l’angle financier comme extra-financier. »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -184,7 +184,7 @@
     ],
     "extrait": "« tout en affectant la moitié de ses propres bénéfices à la résolution d’un problème de société majeur » ; « Funds For Good a obtenu un score global de 109,5 » ; « modèle économique unique, qualifié de “Designed to Give” » ; « Ces sociétés concrétisent leur engagement en gérant les fonds de FUNDS FOR GOOD INVEST, tout en y intégrant sa Politique d’Investissements Responsables, qui a reçu le label belge « Towards Sustainability » » ; prospectus, Gestionnaires : BLI, Orcadia Asset Management S.A., Fisher Investments ; factsheet 31/12/2025 : « STATISTIQUES DEPUIS LE LANCEMENT (2013) 1516 PROJETS SOUTENUS € 3 369 612 DE PRÊTS D’HONNEUR » ; LinkedIn : « Fondée en 2010 ».",
     "notes": "Aucun encours sous gestion publié sur le site : non mentionné. Date de création (2010) uniquement via LinkedIn. FFG n'est pas elle-même société de gestion des fonds : la SICAV FFG a pour société de gestion Waystone Management Company (Lux) S.A. et délègue la gestion à BLI, Orcadia et Fisher (prospectus).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FID_Specialites": {
     "valeur": null,
@@ -212,7 +212,7 @@
     ],
     "extrait": "« a créé une gamme diversifiée de fonds socialement responsables de grande qualité, disponibles à travers les réseaux de distribution classiques (banques, compagnies d’assurance) » ; « Avec le fonds ImpaktEU, lancé en collaboration avec Inpulse Investment Manager, nous investissons sous forme de dette […] dans des institutions de microfinance et des entreprises à impact en Europe. »",
     "notes": "Fonds listés : FFG Global Equity Convictions, FFG Global Equities Low Carbon, FFG - BLI Global/American/European Impact Equities, FFG Global Flexible Convictions, FFG Global Defensive, ImpaktEU. ImpaktEU n'est pas un OPCVM (private debt).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Actions internationales ISR et à impact (monde, Europe, États-Unis ; thématiques ODD)<br>Actions bas carbone alignées sur l’Accord de Paris<br>Multi-actifs (flexible, défensif)<br>Dette privée à impact (ImpaktEU)",
@@ -221,7 +221,7 @@
     ],
     "extrait": "Tableau : « FFG Global Equities Low Carbon — Monde — Thématique Paris aligné » ; « FFG - BLI American Impact Equities — US — Multi-thématiques ODD » ; rubrique « Mutli-Assets » : FFG Global Flexible Convictions, FFG Global Defensive ; « Private Assets — ImpaktEU — Europe — Private Debt Impact First ».",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion déléguée à des gérants partenaires, intégrant la politique d’investissement responsable de Funds For Good ; fonds classés SFDR article 8 ou 9, labellisés « Towards Sustainability ».",
@@ -231,7 +231,7 @@
     ],
     "extrait": "« Ces sociétés concrétisent leur engagement en gérant les fonds de FUNDS FOR GOOD INVEST, tout en y intégrant sa Politique d’Investissements Responsables » ; colonnes SFDR : 8 / 9 ; Label : Towards Sustainability.",
     "notes": "Styles par fonds indiqués sur le site : « Top Down », « Thématique Paris aligné », « Multi-thématiques ODD ». Deux fonds portent un astérisque à côté du label (« Towards Sustainability* »), non expliqué dans le texte extrait.",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -258,7 +258,7 @@
     ],
     "extrait": "« la gestion collective qui comprend à ce jour une SICAV avec 3 compartiments - un compartiment actions, un compartiment mixte et un compartiment obligataire - ainsi qu'un FCP actions, un FCP mixte, trois FCP obligataires et trois FCP partenaires. » / « Une gamme lisible, composée d’OPCVM proposant différents niveaux de risques (actions, mixtes, obligataires) » / « Fonds mixtes, patrimoniaux (max 35% actions) » / Keren 2029 : « Préalablement à la date du 31 décembre 2029, la société de gestion optera… pour la reconduction d'une stratégie d'investissement similaire avec un nouvelle date cible d'échéance… »",
     "notes": "Je n'ai pas repris le décompte exact (1 SICAV / FCP) dans la valeur au-delà de la formulation source, car il peut évoluer ; le menu liste : actions (Keren Essentiels, Keren Select Europe), mixtes (Keren Patrimoine, Keren Macro Convictions), obligataires (Keren Corporate, Keren 2032, Keren 2029, Keren Crédit ISR), partenaires (Génération Patrimoine/Alpha/Evo).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Actions françaises et européennes, notamment petites et moyennes capitalisations (PME-ETI)<br>Fonds patrimoniaux / mixtes<br>Obligations d’entreprises en euro (dont High Yield) et fonds obligataires à échéance",
@@ -270,7 +270,7 @@
     ],
     "extrait": "« Keren Finance est une société de gestion spécialiste des actions et obligations d’entreprises françaises et européennes. » / Keren Essentiels : « réaliser un stock picking sur les valeurs de PME et ETI » / Keren Patrimoine : « instruments de taux (titres de créance, notamment High Yield, et instruments du marché monétaire) »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active et discrétionnaire, fondée sur l’analyse fondamentale et la sélection de titres (stock picking), avec rencontres régulières des dirigeants d’entreprises",
@@ -281,7 +281,7 @@
     ],
     "extrait": "« Une analyse fondamentale et un Investment case des entreprises avant chaque prise de décision. Rencontres de dirigeants et/ou visites de sites permanentes… » / « une gestion active, opportuniste et déterminée au moyen d’une analyse fondamentale » / « fonds actions géré de façon discrétionnaire sans biais Croissance ni Value »",
     "notes": "Exception : Keren Macro Convictions est un fonds macro/flexible (« s’appuie sur des modèles quantitatifs internes ainsi que sur l’analyse macro-économique ») ; non repris dans la formule générale.",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -295,7 +295,7 @@
     ],
     "extrait": "« La Financière de l’Echiquier, société anonyme au capital social de 10 047 500 euros, ayant son siège social 53, avenue d’Iena, 75116 PARIS. »",
     "notes": "Aucune entité/succursale belge ou luxembourgeoise avec adresse trouvée sur les sites fr-be / fr-lu (seulement des pages pays).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": "Investisseur responsable et engagé",
@@ -316,7 +316,7 @@
     ],
     "extrait": "« Chiffres clefs au 31/12/2025 — Création 1991 — Encours 28 milliards d'euros* — Collaborateurs +170 — Equipe de gestion 50 — Articles 8 & 9 SFDR 98% des encours sous gestion » ; « *Chiffre intégrant l'activité sur produits structurés de la société de gestion et les encours sous conservation auprès d'Echiquier Gestion Privée » ; « 2023 LBP AM devient actionnaire à 100% de LFDE. » ; « 2024 Tocqueville Finance rejoint LFDE » ; « Les gérants et analystes … suivent près de 2500 sociétés dans plus de 40 pays » ; « Plus de 1500 rencontres par an »",
     "notes": "LFDE n'est plus indépendante (filiale LBP AM, groupe La Banque Postale) : ne pas la qualifier d'indépendante. La page Échiquier Gestion Privée (echiquier.lfde.com) cite « plus de 2 000 sociétés » alors que la page La gestion dit « près de 2500 » : j'ai retenu la page institutionnelle lfde.com.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FID_Specialites": {
     "valeur": "Gestion sous mandat (Echiquier Gestion Privée pour la clientèle privée ; Echiquier Club pour les CGP) en architecture ouverte : fonds maison, fonds externes, ETF, titres vifs et produits structurés.<br>Gestion pilotée au sein de contrats d’assurance-vie.<br>Fonds dédiés sur mesure pour les CGP (cahier des charges défini par le cabinet, gouvernance partagée).",
@@ -348,7 +348,7 @@
     ],
     "extrait": "« La Financière de l’Echiquier gère une gamme de fonds d’investissement investis sur les principaux marchés d’actions, d’obligations, pour le compte d’investisseurs privés et institutionnels. » ; liste des fonds sur le site belge : Echiquier Agenor SRI Mid Cap Europe, Echiquier Artificial Intelligence, Echiquier ARTY SRI, Echiquier Credit SRI Europe, Echiquier High Yield SRI Europe, Echiquier Hybrid Bonds, Echiquier World Equity Growth, Tocqueville Euro Equity ISR, Tocqueville Value Euro ISR…",
     "notes": "« Large part de fonds ISR » s'appuie sur la liste de fonds (nombreux SRI/ISR) et sur « 98% des encours » Article 8/9 ; peut être retiré si jugé trop interprétatif.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Actions : petites et moyennes valeurs européennes, Europe, zone euro, monde, Asie/Inde<br>Fonds thématiques : intelligence artificielle, espace, santé, robotique, climat et biodiversité<br>Crédit : obligations d’entreprises Investment Grade et High Yield, hybrides, dettes financières subordonnées<br>Multi-actifs et allocation d’actifs (fonds diversifiés)",
@@ -358,7 +358,7 @@
     ],
     "extrait": "« Petites et moyennes valeurs, actions européennes et internationales, investissement responsable, crédit européen, allocation d'actifs… » ; « stratégies innovantes et diversifiées, dédiées à l’intelligence artificielle, à l'espace, à la santé, au vieillissement de la population, à la préservation du climat ou de la biodiversité » ; « Dettes d’entreprises : hybrides corporate, obligations convertibles, senior secured et unsecured — Dettes financières : Tier 1, Tier 2, CoCos, senior »",
     "notes": "Robotique et Inde tirés des noms de fonds listés sur le site belge (Echiquier Robotics, Echiquier India).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active de conviction et de long terme, fondée sur la sélection rigoureuse d’entreprises (stock picking) : rencontre des dirigeants, analyse financière et extra-financière, valorisation interne ; styles Croissance, Value ou Blend selon les fonds.",
@@ -368,7 +368,7 @@
     ],
     "extrait": "« Une gestion de conviction proche des entreprises » ; « Une gestion active affranchie des humeurs des marchés » ; « Rencontrer … Analyser … Valoriser » ; « Stock pickers depuis notre création … stratégies qu'elles soient Croissance, Value ou Blend. »",
     "notes": "Echiquier QME est géré de façon systématique (exception, page En bref).",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -404,7 +404,7 @@
     ],
     "extrait": "« Lazard Frères Gestion offre toute la flexibilité d’une maison de gestion entrepreneuriale bénéficiant des moyens d'un grand groupe international. » ; « Nos chiffres-clés* 48,5 Mds € Encours sous gestion — 239 Collaborateurs — 44 Professionnels de l’investissement — 6 Bureaux — *au 30 juin 2026 » ; « bureaux à Paris, Lyon, Bordeaux, Nantes, Bruxelles et Luxembourg » ; « 1848 Fondation de Lazard Frères & Co » ; « Le 29 septembre 1995 est ainsi créée « Lazard Frères Gestion-Banque », qui prendra en 1997 le nom « Lazard Frères Gestion » » ; « la gestion institutionnelle et la gestion privée sont intégrées au sein de la même entreprise » ; « plus de 7 milliards d’euros gérés sur ce segment »",
     "notes": "Incohérences internes au site : la même page dit aussi « gère plus de 45 milliards d’euros » (texte non daté) ; j’ai retenu le chiffre-clé daté 48,5 Md€ au 30/06/2026. Les effectifs des équipes diffèrent aussi entre menu (15 gérants actions, 22 fonds ; 14 gérants taux) et pages détaillées (16 analystes-gérants actions, 20 fonds ouverts ; 16 analystes-gérants taux, 9 fonds — au 31/12/2025) : non repris. Le chiffre « plus de 7 Md€ » en dettes subordonnées n’est pas daté sur la page — à retirer si une date est exigée. LFG n’est pas indépendante (filiale du groupe Lazard, coté à New York). | Retiré à la relecture : « plus de 7 Md€ » (chiffre non daté).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Description": {
     "valeur": "Lazard Frères Gestion propose une large gamme de fonds ouverts couvrant les actions, les obligations, les convertibles, la gestion diversifiée et la gestion alternative, complétée par des fonds sur mesure et une gamme d’OPC gérés par Lazard Asset Management. Ses fonds sont distribués à l’international via le réseau de Lazard Asset Management, LFG prenant en charge leur enregistrement dans les différents pays.",
@@ -414,7 +414,7 @@
     ],
     "extrait": "« Nous disposons d’une large gamme de solutions d'investissement … : actions, obligations, convertibles, gestion diversifiée et gestion alternative. Nos solutions d’investissement sont accessibles via des fonds ouverts et des fonds sur mesure, incluant également une gamme d’OPC gérés par Lazard Asset Management. » ; « La société distribue ses fonds à l’international grâce au réseau commercial de Lazard Asset Management » ; « Lazard Frères Gestion prend en charge l’enregistrement de ses fonds dans différents pays en fonction des besoins de la clientèle locale. »",
     "notes": "La liste des fonds enregistrés en Belgique/Luxembourg n’a pas pu être extraite (page Fonds chargée dynamiquement en JavaScript).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Actions (gestion fondamentale de conviction)<br>Obligataire : Absolute Return, Aggregate (Investment Grade, monétaire), High Yield, dettes subordonnées financières (AT1, Tier 2)<br>Gestion diversifiée (actions-obligations, plusieurs profils de risque)<br>Gestion systématique et alternative",
@@ -425,7 +425,7 @@
     ],
     "extrait": "« La gestion obligataire de Lazard Frères Gestion se compose de quatre pôles complémentaires … Absolute Return (gestion de performance absolue), Aggregate (Investment Grade, monétaire), High Yield, Dettes subordonnées financières (AT1, Tier 2 notamment). » ; « Nous proposons une gamme de fonds diversifiés (actions-obligations) adaptée à différents profils de risque. » ; menu « Gestion Systématique »",
     "notes": "La page Gestion systématique n’a pas été consultée en détail ; seule son existence dans le menu est vérifiée.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active de conviction fondée sur une analyse financière propriétaire des entreprises (rencontres systématiques avec les dirigeants, ESG intégrée aux modèles de valorisation) ; allocation flexible pilotée par l’analyse macroéconomique pour les fonds diversifiés.",
@@ -436,7 +436,7 @@
     ],
     "extrait": "« Nos investissements sont le fruit d’une analyse financière propriétaire détaillée et s’appuient sur nos rencontres systématiques et régulières avec les dirigeants d'entreprises. » ; « l’analyse ESG est directement intégrée à notre modèle de valorisation des entreprises » ; « Notre approche repose sur l’analyse du cycle économique » ; « la création de valeur dans la durée à travers une gestion de conviction »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -471,7 +471,7 @@
     ],
     "extrait": "« Nous sommes un gestionnaire d'actifs mondial, axé sur la recherche fondamentale et la gestion active […] Après avoir lancé le tout premier fonds commun de placement en Europe en 1931 » ; « En tant que filiale de M&G plc » ; compteurs : €395 Mds « d'actifs sous gestion – Au 31 décembre 2025 », €161 Mds « Actifs sous gestion en obligations cotées », €130 Mds « en actions et gestion diversifiée », €93 Mds « Actifs privés et alternatifs » ; « Nous comptons parmi les plus grands gestionnaires d'actifs privés d'Europe, forts d'une expertise reconnue sur les marchés obligataires mondiaux, d'une grande expérience dans les solutions multi-asset et d'une longue tradition d'innovation en gestion actions, notamment à travers des stratégies thématiques axées sur le développement durable. »",
     "notes": "Chiffres lus dans les attributs data-count-to des compteurs de la page (affichés en JS). Seule la date « Au 31 décembre 2025 » figure sous le total ; on suppose qu'elle s'applique aussi aux 3 sous-totaux (même bloc). La somme des 3 sous-totaux (384) ne fait pas 395 : écart non expliqué par la source (autres actifs / arrondis ?). | Retiré à la relecture : sous-totaux (161+130+93=384 ≠ 395, non expliqué par la source).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Description": {
     "valeur": "M&G Investments propose aux investisseurs belges et luxembourgeois une large gamme de fonds gérés activement, principalement au sein de sa gamme luxembourgeoise « M&G (Lux) », couvrant les obligations, les actions et la gestion diversifiée (multi-asset), ainsi que des fonds obligataires à maturité.",
@@ -482,7 +482,7 @@
     ],
     "extrait": "« Notre vaste équipe d'investissement met en commun ses capacités de recherche de premier ordre […] dans de multiples classes d'actifs, notamment les obligations, les actions et les fonds diversifiés. » ; menu « Fonds obligataires à maturité » ; fonds listés : « M&G (Lux) Global Macro Bond Fund », « M&G (Lux) Dynamic Allocation Fund », « M&G (Lux) European Strategic Value Fund »…",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Obligations (entreprises, haut rendement, obligations d'État et indexées sur l'inflation, dette émergente, stratégies flexibles)<br>Multi-asset / gestion diversifiée<br>Actions actives, dont stratégies thématiques durables<br>Marchés privés (crédit privé, immobilier, infrastructures, capital-investissement)",
@@ -492,7 +492,7 @@
     ],
     "extrait": "« Une plateforme d'investissement complète couvrant les obligations d'entreprise, le haut rendement, le crédit diiversifié, les stratégies flexibles, les obligations d'État et les obligations indexées sur l'inflation, les marchés émergents… » ; « Des expertises couvrant le crédit privé et structuré, l'immobilier, les infrastructures et le capital-investissement. »",
     "notes": "Les marchés privés sont surtout proposés aux investisseurs professionnels ; supprimer la dernière ligne si la fiche ne vise que les OPCVM.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active fondée sur la recherche fondamentale (analyse bottom-up en actions, analyse crédit et macroéconomique en obligataire, allocation stratégique et tactique en multi-asset)",
@@ -504,7 +504,7 @@
     ],
     "extrait": "« axé sur la recherche fondamentale et la gestion active » ; « analyses bottom-up rigoureuses » ; « Notre plateforme de gestion associe une analyse macroéconomique, une analyse fondamentale des émetteurs… » ; « décisions d'allocation d'actifs stratégiques et tactiques »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -519,7 +519,7 @@
     ],
     "extrait": "ODDO BHF Asset Management (France) – Forme sociale : S.A.S. […] Siège social : 12, boulevard de la Madeleine à Paris (75009) – RCS : Paris 340 902 857",
     "notes": "Entité retenue : ODDO BHF Asset Management SAS (agrément AMF GP99011), désignée comme « Entité responsable du site internet » de l'AM. Autres entités de gestion : ODDO BHF Asset Management GmbH, Herzogstrasse 15, 40217 Düsseldorf ; ODDO BHF Asset Management Lux (RCS Luxembourg B 29891, adresse non relevée).",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": "Promouvoir un monde au sein duquel chaque jour est une opportunité.",
@@ -539,7 +539,7 @@
     ],
     "extrait": "« Accédez à des opportunités d'investissement en actions soigneusement sélectionnées selon nos trois approches – fondamentale, thématique et quantitative » ; « ODDO BHF AM propose des solutions d'investissement en actions, obligations, allocation d'actifs, actions non cotées et dette privée » ; « L'innovation reste au coeur de notre stratégie avec l'ajout d'une gamme d'ETF actifs. »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Actions européennes et thématiques (fondamentales et quantitatives)<br>Obligations / crédit<br>Multi-actifs<br>ETF actifs<br>Actifs privés (capital-investissement, dette privée)",
@@ -550,7 +550,7 @@
     ],
     "extrait": "Rubriques « Actions / Multi-Actifs / Obligations / ETF actifs / Private Assets » ; fonds mis en avant : « ODDO BHF Avenir Europe », « ODDO BHF Active Small Cap », « ODDO BHF German Equities », « ODDO BHF Métropole Euro », « ODDO BHF Artificial Intelligence », « ODDO BHF US/Europe/Global Equity Trend » ; répartition des encours au 30/06/2026 : Taux & Crédit 31 %, Services KVG 23 %, Multi-Actifs 18 %, Actions fondamentales 12 %, Actions quantitatives 8 %, Actifs privés 8 %.",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active de conviction et de long terme ; approches fondamentale, thématique et quantitative en actions, analyse fondamentale du crédit en obligataire ; intégration ESG",
@@ -560,7 +560,7 @@
     ],
     "extrait": "« Notre style d'investissement se caractérise par une gestion active et de long terme » ; « Guidés par notre indépendance et nos fortes convictions » ; « Nos solutions d'investissement s'appuient sur une analyse fondamentale approfondie du crédit » ; « Les exclusions, l'intégration des critères ESG et l'engagement actionnarial sont les trois piliers »",
     "notes": "Info utile non demandée : 67,6 Md€ d'actifs sous gestion au 30 juin 2026, 108 gérants et analystes, 4 centres d'investissement (Paris, Düsseldorf, Francfort, Luxembourg), groupe fondé en 1849 (page Identité).",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  },
@@ -575,7 +575,7 @@
     ],
     "extrait": "Impressum – PT Asset Management GmbH, Alte Schmiede 5, 72555 Metzingen, Handelsregister: HRB 744180, Registergericht: Amtsgericht Stuttgart",
     "notes": "Nom exact : PT Asset Management GmbH (et non « Progressive Trend Asset Management ») ; historiquement « PT » vient de Phoenix Trust (Phoenix Trust E&L Asset Management AG). Deuxième bureau : Theatinerstraße 32, 80333 München.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": "Wir kümmern uns um Ihr Vermögen, als wäre es unser Eigenes",
@@ -595,7 +595,7 @@
     ],
     "extrait": "« Unabhängigkeit, Transparenz und Qualität – das sind Grundsätze, nach denen sich die PTAM GmbH seit ihrer Gründung im Jahr 1998 richtet » ; « Klaus Peter Lehr gründete 1998 gemeinsam mit Martin Eininger das Unternehmen » ; « durch den völligen Verzicht auf die provisionsabhängige Produktvermittlung » ; « Als Finanzportfolioverwalter unterstehen wir der Aufsicht der […] (BaFin) » ; « Dabei beraten und betreuen wir Privatpersonen, Firmen, Stiftungen, Family Offices und institutionelle Investoren. »",
     "notes": "Encours volontairement omis : la page d'accueil affiche (compteurs JS) 760 « Mio. Euro in der Verwaltung », 750 clients et 28 ans d'expérience, SANS date de référence → non repris (règle chiffre + date). Autres faits non repris faute de date : « PTAM Balanced erreicht 100 Mio. EUR Fondsvolumen » (news non datée), prix « Citywire Top 50 Vermögensverwalter Deutschland 2026 ».",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Description": {
     "valeur": "PTAM gère quatre fonds d'investissement – PTAM Defensiv Portfolio, PTAM Balanced Portfolio, PTAM Global Allocation et PTAM Global Equity – correspondant à des stratégies allant d'une approche axée sur la sécurité à une orientation plus dynamique, conçues pour pouvoir être combinées entre elles. Trois sont des fonds de droit luxembourgeois (ISIN LU), PTAM Global Allocation est un fonds allemand (ISIN DE).",
@@ -609,7 +609,7 @@
     ],
     "extrait": "« haben wir vier unterschiedliche Anlagestrategien entwickelt, von größtmöglicher Sicherheit bis zu chancenmaximiert. Das Besondere daran: Diese vier Anlagestrategien sind […] miteinander kombinierbar. » ; ISIN LU0084489227 (Balanced), LU0260464168 (Defensiv), DE000A1JCWX9 (Global Allocation), LU2871591884 (Global Equity)",
     "notes": "PTAM assure le Fondsmanagement ; les sociétés de gestion (KVG/ManCo) sont tierces (historique : Oppenheim Asset Management Services, Luxembourg ; le « UI » de « Global Allocation UI » suggère Universal-Investment, non vérifié). Certificats UBS PTAM Navigator / Navigator 2 (100 % actions) non inclus car ce ne sont pas des OPCVM.",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Fonds mixtes internationaux (actions et obligations, défensif à équilibré)<br>Allocation globale pilotée par l'analyse macroéconomique<br>Actions internationales de grandes capitalisations",
@@ -620,7 +620,7 @@
     ],
     "extrait": "« Investition in internationale Aktien und Anleihen » (Defensiv, Balanced, Global Allocation) ; « Investition in internationale Aktien » (Global Equity) ; « investiert der Fonds weltweit in überwiegend in qualitativ hochwertigen Unternehmen („Large Caps“) Aktien »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active ; processus d'investissement systématique (« Worldwide Selection Model ») fondé sur l'analyse macroéconomique ; gestion active du risque et large diversification (y compris via ETF)",
@@ -631,7 +631,7 @@
     ],
     "extrait": "« Systematischer Investmentprozess – Orientierung an makroökonomischen Analysen » ; « Systematischer Investmentprozess „Worldwide Selection Model“ » ; « Breite Diversifikation durch Beimischung von ETFs – Aktives Risikomanagement »",
     "notes": "",
-    "statut": "pret"
+    "statut": "enregistre"
    }
   }
  }
