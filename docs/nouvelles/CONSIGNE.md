@@ -11,6 +11,9 @@ https://claude.ai/artifact/VvpoPNQ86DzBFLrqiXjP1b
 - `etat.json` : `derniere_verification` (date) et `fils_traites` (tous les thread id déjà examinés, retenus ou écartés).
 - `apercu.html` : généré par `python3 tools/nouvelles_apercu.py` (ne pas l'éditer à la main ; le modèle est `tools/nouvelles_apercu_modele.html`).
 
+## Information de l'utilisatrice (15/10/2026)
+Il arrive qu'elle voie un mail sans l'avoir pour autant traité : un mail lu, ouvert ou répondu n'est pas un mail déjà transformé en article. Il faut donc analyser sérieusement la boîte ET l'artefact, et relever ce qui n'a réellement pas été fait : ne pas se fier à l'état lu/non lu, ni seulement à `fils_traites` ; comparer les fils de la boîte avec les articles de l'artefact en ligne (le lire d'abord) et avec `articles/` et `ecartes.txt`. Un fil absent de l'artefact et jugeable à retenir doit être traité, même s'il est ancien ou déjà lu. Inversement, l'artefact en ligne peut contenir des articles absents du dépôt : éviter les doublons.
+
 ## Étapes
 1. Intégrer la branche par défaut, lire `AGENTS.md` et les dernières notes de `docs/sessions/`.
 2. Gmail : chercher les fils reçus depuis `derniere_verification` moins 1 jour (`after:AAAA/MM/JJ -in:sent -from:info@invest-law.eu`), en ignorant ceux déjà dans `fils_traites`. Lire chaque candidat (get_thread, PLAIN_TEXT). Les newsletters arrivent souvent transférées par lla@lifeb2b.com ou tli@lifeb2b.com (« Fwd: … ») : c'est l'émetteur d'origine qui compte.
