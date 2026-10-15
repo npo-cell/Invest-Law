@@ -293,23 +293,23 @@
   "nom": "(I/C)HELIUM SELECTION A EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771255/LU1112771255__Factsheet_FR_2026-07-31.pdf",
-   "url": "https://api.fundinfo.com/document/b7b07f305fe1d5b08fd5f11b21c48a73_295522/MR_LU_fr_LU1112771255_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-07-31",
+   "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771255/LU1112771255__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://www.syquant-capital.fr/wp-content/themes/syquant/docs/factsheets/factsheet-fr-LU1112771255.pdf",
+   "source": "Syquant Capital (site gestionnaire)",
+   "date": "2026-08-31",
    "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771255/LU1112771255__KID_FR_2026-06-26.pdf",
-   "url": "https://api.fundinfo.com/document/d094f35e181fb1568121cd16658f180d_202050/PRP_FR_fr_LU1112771255_YES_2026-06-26.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
+   "url": "https://docs.data2report.lu/documents/Syquant/PRIIPs_KID_EU/PRIIPs_KID_EU_LU1112771255_fr_FR.pdf",
+   "source": "Syquant Capital (lien du site gestionnaire, hébergé data2report)",
    "date": "2026-06-26",
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR multi-parts (Part A mentionnée). Fin septembre pas encore publiée (site Syquant : août ; fundinfo : juillet)."
  },
  {
   "n": 160,
