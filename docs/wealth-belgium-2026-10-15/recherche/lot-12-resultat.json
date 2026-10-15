@@ -482,41 +482,193 @@
  {
   "n": 341,
   "isin": "LU2435784934",
-  "nom": "(I/C)VIVACITY FUNDS VFF GLOBAL CAPITAL B EUR"
+  "nom": "(I/C)VIVACITY FUNDS VFF GLOBAL CAPITAL B EUR",
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ANDBANK_LUXEMBOURG_PLEDGE/LU2435784934/LU2435784934__KID_EN_2026-10-05.pdf",
+   "url": "https://api.fundinfo.com/document/213611898396d2ac801eaadb18cdaa9f_71883/PRP_LU_en_LU2435784934_YES_2026-10-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (LU-prof)",
+   "date": "2026-10-05",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Aucun KID FR : Andbank (andbank.com/luxembourg/gestion-dactifs/nos-fonds/) ne publie que l'anglais pour cette part (version 27/12/2025) ; KID EN plus récent sur fundinfo LU-prof (exact au 05/10/2026). Factsheet : aucune trouvée (ni site Andbank, ni fundinfo BE/LU/FR/CH/DE, ni recherche web) — part réservée aux institutionnels."
  },
  {
   "n": 342,
   "isin": "LU1003295067",
-  "nom": "(I/C)VIVACITY MULTI MANAGER ALLOC PATRIM B EUR"
+  "nom": "(I/C)VIVACITY MULTI MANAGER ALLOC PATRIM B EUR",
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ANDBANK_LUXEMBOURG_PLEDGE/LU1003295067/LU1003295067__KID_FR_2025-12-27.pdf",
+   "url": "https://www.andbank.com/funds/luxemburg/pdf/lu1003295067_kiid_fr_202601281230.pdf",
+   "source": "Andbank Asset Management Luxembourg (andbank.com)",
+   "date": "2025-12-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "KID FR sur la page Andbank Luxembourg « nos fonds » (exact au 27/12/2025, mis en ligne 28/01/2026). Fonds absent de fundinfo. Factsheet : aucune trouvée (site Andbank, fundinfo, recherche web)."
  },
  {
   "n": 343,
   "isin": "LU3236037076",
-  "nom": "(I/C)WCM SELECT GLOBAL GR EQ N/A EUR"
+  "nom": "(I/C)WCM SELECT GLOBAL GR EQ N/A EUR",
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU3236037076/LU3236037076__KID_FR_2025-12-01.pdf",
+   "url": "https://www.im.natixis.com/content/dam/natixis/products/international/fund-documents/france/fr/KIDDOC-2025-12-01-FR-FR-2026-08-07-LU3236037076.pdf",
+   "source": "Natixis Investment Managers (im.natixis.com)",
+   "date": "2025-12-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "KID FR Natixis exact au 01/12/2025 (identique au PRP BE FR fundinfo). Factsheet : pas de reporting mensuel pour la part N/A (EUR) — ni dans l'API documents Natixis, ni sur fundinfo (BE/LU/FR/CH) ; le reporting existant est celui de la part R/A (LU3236036771), autre part, non retenu."
  },
  {
   "n": 344,
   "isin": "XFCS000OL506",
-  "nom": "FIC AGIFUND SERENITY B"
+  "nom": "FIC AGIFUND SERENITY B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
  },
  {
   "n": 345,
   "isin": "XFCS00OL1955",
-  "nom": "FIC AXISIO PATRIMOINE (WB)"
+  "nom": "FIC AXISIO PATRIMOINE (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
  },
  {
   "n": 346,
   "isin": "XFCS00OL1642",
-  "nom": "FIC DELCAP LIFESTYLE (WB)"
+  "nom": "FIC DELCAP LIFESTYLE (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
  },
  {
   "n": 347,
   "isin": "XFCS00OL1644",
-  "nom": "FIC MONETARY PLUS STRATEGY FUND B (WB)"
+  "nom": "FIC MONETARY PLUS STRATEGY FUND B (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
  },
  {
   "n": 348,
   "isin": "XFCS000OL229",
-  "nom": "FIC MS REAL ESTATE FUND B (WB)"
+  "nom": "FIC MS REAL ESTATE FUND B (WB)",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide (web par ISIN et nom, fundinfo BE-prof, site du gestionnaire) sans résultat ; documents non publics."
  }
 ]

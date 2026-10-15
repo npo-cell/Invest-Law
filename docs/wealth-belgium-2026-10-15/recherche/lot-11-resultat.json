@@ -157,9 +157,15 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU2038885625/LU2038885625__KID_FR_2026-01-30.pdf",
+   "url": "https://api.fundinfo.com/document/bf07d45e753aa1f521ea561a68c6e8b4_71190/PRP_LU_fr_LU2038885625_YES_2026-01-30.pdf",
+   "source": "fundinfo (PRP LU fr)",
+   "date": "2026-01-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR fundinfo (30/01/2026, classe I ; la société de gestion est BLI – Banque de Luxembourg Investments, ex-Conventum). Factsheet non trouvée : fundinfo n'a que le KID ; site conventum.lu renvoie vers une marque blanche Fundsquare à session expirée (liens non accessibles directement)."
  },
  {
   "n": 300,
@@ -169,21 +175,39 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU2038885468/LU2038885468__KID_FR_2026-01-30.pdf",
+   "url": "https://api.fundinfo.com/document/674fe85c8ebb0176566b720f6409b896_71331/PRP_LU_fr_LU2038885468_YES_2026-01-30.pdf",
+   "source": "fundinfo (PRP LU fr)",
+   "date": "2026-01-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR fundinfo (30/01/2026, classe I ; la société de gestion est BLI – Banque de Luxembourg Investments, ex-Conventum). Factsheet non trouvée : fundinfo n'a que le KID ; site conventum.lu renvoie vers une marque blanche Fundsquare à session expirée (liens non accessibles directement)."
  },
  {
   "n": 301,
   "isin": "BE6290264082",
   "nom": "(I/C)SPM GLOBAL FLEXIBLE P-CAP EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MONTSEGUR/BE6290264082/BE6290264082__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.spmfunds.be/layout/uploads/2026/10/26-09-30-Reporting-SPM-GF-FR-.pdf",
+   "source": "SPM Funds / Montségur Finance (spmfunds.be, page Global Flexible)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MONTSEGUR/BE6290264082/BE6290264082__KID_FR_2026-06-30.pdf",
+   "url": "https://www.spmfunds.be/layout/uploads/2026/08/KIDDOC-2026-06-30-FR-00-2026-06-30-BE6290264082-SPM_FUNDS_Global_Flexible_Classe___P_Cap.pdf",
+   "source": "SPM Funds / Montségur Finance (spmfunds.be)",
+   "date": "2026-06-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site spmfunds.be/global_flexible/ : rapport mensuel FR au 30/09/2026 couvrant toutes les classes (ligne P-Cap avec ISIN et performances propres) et KID FR classe P Cap (30/06/2026)."
  },
  {
   "n": 302,

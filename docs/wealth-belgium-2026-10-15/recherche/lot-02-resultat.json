@@ -141,7 +141,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 37,
@@ -165,7 +165,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 38,
@@ -189,7 +189,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 39,
@@ -213,7 +213,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 40,
@@ -237,7 +237,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 41,
@@ -261,7 +261,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 42,
@@ -285,7 +285,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL Global 30), pas pour la classe BI -> non retenue."
  },
  {
   "n": 43,
@@ -309,7 +309,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL Global Equities), pas pour la classe BI -> non retenue."
  },
  {
   "n": 44,
@@ -333,7 +333,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL American Small & Mid Caps), pas pour la classe BI -> non retenue."
  },
  {
   "n": 45,
@@ -357,7 +357,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR BI (06/02/2026) via fundinfo. Factsheet : pas de MR sur fundinfo ; le site banquedeluxembourg.com ne publie la 'Fiche fonds' que pour la classe B (BL Global Flexible EUR), pas pour la classe BI -> non retenue."
  },
  {
   "n": 46,
@@ -381,7 +381,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 47,
@@ -405,7 +405,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site blackrock.com bloqué (403) : documents pris sur fundinfo. Factsheet FR la plus récente disponible : 31/08/2026 (pas encore de fin septembre)."
  },
  {
   "n": 48,
@@ -466,13 +466,13 @@
   "isin": "IE00BJM0B852",
   "nom": "(I/C)BLUE WHALE GROWTH FUND T EUR",
   "factsheet": {
-   "statut": "Non trouvé",
-   "fichier": null,
-   "url": null,
-   "source": null,
-   "date": null,
-   "langue": null,
-   "isin_verifie": false
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LINK_FUND_MANAGER_SOLUTIONS_IRELAND_LTD/IE00BJM0B852/IE00BJM0B852__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://docs.bluewhale.co.uk/fund/icav/blue-whale-growth-fund-factsheet-eur.pdf",
+   "source": "site du gestionnaire (bluewhale.co.uk/global/eu)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
   },
   "kid": {
    "statut": "Trouvé",
@@ -483,7 +483,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet EUR du fonds (données au 30/09/2026, anglais uniquement) sur bluewhale.co.uk/global/eu : couvre toutes les parts, ISIN T EUR listé avec ses frais (1,24 %) ; performances = 'Blue Whale Strategy' composite, pas spécifiques à la part T. KID FR pris sur fundinfo (le site ne propose le KID qu'en EN/DE/ES/PT)."
  },
  {
   "n": 51,
@@ -531,7 +531,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Documents via fundinfo ; factsheet FR la plus récente : 31/08/2026."
  },
  {
   "n": 53,
@@ -603,7 +603,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR (13/10/2026) via fundinfo. Factsheet : aucun MR pour la classe R sur fundinfo (seulement classes I) ; site candriam.com inaccessible en direct (redirections vers sélection de profil)."
  },
  {
   "n": 56,
@@ -651,7 +651,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Documents via fundinfo ; factsheet FR la plus récente : 31/08/2026."
  },
  {
   "n": 58,
@@ -675,7 +675,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Documents via fundinfo ; factsheet FR la plus récente : 31/08/2026."
  },
  {
   "n": 59,
@@ -692,13 +692,13 @@
   },
   "kid": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/CAPITALATWORK_FOYER_GROUP_S_A/LU0617431035/LU0617431035__KID_EN_2026-03-20.pdf",
-   "url": "https://api.fundinfo.com/document/c2c142ff51190fd4300134832f191887_398942/PRP_LU_en_LU0617431035_YES_2026-03-20.pdf",
-   "source": "fundinfo (api.fundinfo.com)",
+   "fichier": "INVESTLAW/CAPITALATWORK_FOYER_GROUP_S_A/LU0617431035/LU0617431035__KID_FR_2026-03-20.pdf",
+   "url": "https://www.capitalatwork.com/sicav/documents/KID_BLCD_C_LU0617431035_FR.pdf",
+   "source": "site du gestionnaire (capitalatwork.com)",
    "date": "2026-03-20",
-   "langue": "EN",
+   "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "KID le plus récent en EN (20/03/2026) ; version FR sur fundinfo plus ancienne (16/06/2025), non retenue."
+  "notes": "KID FR (exact au 20/03/2026) sur capitalatwork.com/fr-be/nos-fonds/. Factsheet : aucun reporting mensuel publié sur capitalatwork.com (seulement KID, prospectus, rapports annuels/semestriels) ni sur fundinfo."
  }
 ]

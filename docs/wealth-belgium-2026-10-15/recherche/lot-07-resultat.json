@@ -286,5 +286,101 @@
    "langue": "FR",
    "isin_verifie": true
   }
+ },
+ {
+  "n": 188,
+  "isin": "LU3386659380",
+  "nom": "(I/C)LAIQON GLOBAL EQUITIES DYNAMIC C EUR",
+  "notes": "Part lancée récemment (KID du 01/10/2026). Seul un KID en allemand existe (laiqon.com : PRIIPSKID_DE_DE_LU3386659380_20261001.pdf ; fundinfo LU-priv : PRP_LU_de) — pas de version FR/EN ; aucune factsheet publiée (laiqon.com, fundinfo BE/LU/FR/IE/DE/AT/CH, fondsfinder Universal-Investment inaccessible sans profil).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  }
+ },
+ {
+  "n": 189,
+  "isin": "LU1004824790",
+  "nom": "(I/C)LAIQON GLOBAL EQUITIES FUND R EUR",
+  "notes": "Factsheet : le site laiqon.com ne publie qu'une factsheet de la part A (DE/EN), pas de la part R ; fundinfo : seulement KID. Non trouvée. KID sous l'ancien nom MainFirst, identique sur fundinfo (PRP_LU_fr du 16/04/2026).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAIQON/LU1004824790/LU1004824790__KID_FR_2026-04-16.pdf",
+   "url": "https://www.ethenea.com/FileHandler.ashx?path=\\Documents\\Key%20Investor%20Information\\MainFirst-%E2%80%93-Global-Equities-Fund\\KIID_LU1004824790_fra.pdf",
+   "source": "ETHENEA Independent Investors (société de gestion, lien du site laiqon.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 190,
+  "isin": "LU1856131278",
+  "nom": "(I/C)LAIQON GLOBAL EQUITIES UNCONSTRAINED R EUR",
+  "notes": "Factsheet : le site laiqon.com ne publie qu'une factsheet de la part A (DE/EN), pas de la part R ; fundinfo : seulement KID. Non trouvée. KID sous l'ancien nom MainFirst, identique sur fundinfo (PRP_LU_fr du 16/04/2026).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAIQON/LU1856131278/LU1856131278__KID_FR_2026-04-16.pdf",
+   "url": "https://www.ethenea.com/FileHandler.ashx?path=\\Documents\\Key%20Investor%20Information\\MainFirst-%E2%80%93-Global-Equities-Unconstrained-Fund\\KIID_LU1856131278_fra.pdf",
+   "source": "ETHENEA Independent Investors (société de gestion, lien du site laiqon.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 191,
+  "isin": "LU2381586648",
+  "nom": "(I/C)LAIQON MEGATRENDS ASIA R USD",
+  "notes": "Factsheet : le site laiqon.com ne publie qu'une factsheet de la part A (DE/EN), pas de la part R ; fundinfo : seulement KID. Non trouvée. KID sous l'ancien nom MainFirst, identique sur fundinfo (PRP_LU_fr du 16/04/2026).",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/LAIQON/LU2381586648/LU2381586648__KID_FR_2026-04-16.pdf",
+   "url": "https://www.ethenea.com/FileHandler.ashx?path=\\Documents\\Key%20Investor%20Information\\MainFirst-%E2%80%93-Megatrends-Asia\\KIID_LU2381586648_fra.pdf",
+   "source": "ETHENEA Independent Investors (société de gestion, lien du site laiqon.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
  }
 ]

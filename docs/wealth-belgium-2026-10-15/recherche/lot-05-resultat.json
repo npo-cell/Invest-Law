@@ -603,8 +603,8 @@
   "kid": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU2423020796/LU2423020796__KID_EN_2026-04-01.pdf",
-   "url": "https://api.fundinfo.com/document/87ea19d4fbc08d234ee300784f39a3e7_117041/PRP_LU_en_LU2423020796_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo (api.fundinfo.com)",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU2423020796/en/lu/priip/",
+   "source": "site Flossbach von Storch (flossbachvonstorch.lu, fiche fonds)",
    "date": "2026-04-01",
    "langue": "EN",
    "isin_verifie": true
@@ -621,8 +621,8 @@
   "kid": {
    "statut": "Trouvé",
    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481584016/LU1481584016__KID_EN_2026-04-01.pdf",
-   "url": "https://api.fundinfo.com/document/4853c9e411b4d12ca451eef039086036_116773/PRP_LU_en_LU1481584016_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo (api.fundinfo.com)",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU1481584016/en/lu/priip/",
+   "source": "site Flossbach von Storch (flossbachvonstorch.lu, fiche fonds)",
    "date": "2026-04-01",
    "langue": "EN",
    "isin_verifie": true
