@@ -1,0 +1,398 @@
+[
+ {
+  "n": 292,
+  "isin": "LU0837757185",
+  "nom": "(I/C)SCHRODER ISF GLOBAL MULTI-ASSET INC HGD C GBP",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0837757185/LU0837757185__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/c84461bdd445d9b52ee8104a1a3795a6_637991/MR_LU_en_LU0837757185_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR LU en)",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0837757185/LU0837757185__KID_FR_2026-07-28.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Global-Multi-Asset-Income-GBP-Hedged_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-07-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR absente (fundinfo n'a que EN pour cette part) ; fin septembre pas encore publiée, factsheet EN au 31/08/2026 (« Data as at 31.08.2026 »). KID FR (version FR) du site Schroders, aussi présent sur fundinfo."
+ },
+ {
+  "n": 293,
+  "isin": "LU2380233515",
+  "nom": "(I/C)SCHRODER ISF GLOBAL SUST FOOD AND WATER C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2380233515/LU2380233515__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/6d3aff5cc9dee3841f44287fe4f082e0_395146/MR_FR_fr_LU2380233515_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2380233515/LU2380233515__KID_FR_2026-09-29.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Global-Sustainable-Food-and-Water-USD_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site Schroders (api.schroders.com/document-store/SISF_<Fonds>-<DEV>_C-Acc-PRIIPEU-FRFR.pdf). Factsheet FR fundinfo au 31/08/2026 (pas de fin septembre publiée)."
+ },
+ {
+  "n": 294,
+  "isin": "LU2526491159",
+  "nom": "(I/C)SCHRODER ISF GLOBAL SUSTAINABLE GROWTH C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2526491159/LU2526491159__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/97c97158fc6a962d744e38f287a8f680_462191/MR_FR_fr_LU2526491159_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU2526491159/LU2526491159__KID_FR_2026-09-29.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Global-Sustainable-Growth-EUR_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site Schroders (api.schroders.com/document-store/SISF_<Fonds>-<DEV>_C-Acc-PRIIPEU-FRFR.pdf). Factsheet FR fundinfo au 31/08/2026 (pas de fin septembre publiée)."
+ },
+ {
+  "n": 295,
+  "isin": "FR0013202140",
+  "nom": "(I/C)SEXTANT BOND PICKING N EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 296,
+  "isin": "LU3319943323",
+  "nom": "(I/C)SHELTER CALLANT INVESTMENT FUND IA EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 297,
+  "isin": "LU2228414293",
+  "nom": "(I/C)SHELTER UCITS CORE SATELLITE FUND 60 IA EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 298,
+  "isin": "LU1932686501",
+  "nom": "(I/C)SKAGEN KON-TIKI LUX B EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 299,
+  "isin": "LU2038885625",
+  "nom": "(I/C)SMART PATRIMOINE FLEXIBLE I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 300,
+  "isin": "LU2038885468",
+  "nom": "(I/C)SMART VALUE INVESTORS EQUITY FLEXIBLE I EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 301,
+  "isin": "BE6290264082",
+  "nom": "(I/C)SPM GLOBAL FLEXIBLE P-CAP EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 302,
+  "isin": "FR0014011SC9",
+  "nom": "(I/C)SWISS LIFE FUNDS OPPORTUNITE HY 2032 (FMB)",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 303,
+  "isin": "LU2181906269",
+  "nom": "(I/C)SYCOMORE SUSTAINABLE TECH IC EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 304,
+  "isin": "FR0014010IF5",
+  "nom": "(I/C)SYCOYIELD 2032 IC EUR (FMB)",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 305,
+  "isin": "LU0140637140",
+  "nom": "(I/C)Schroder ISF Greater China C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0140637140/LU0140637140__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/abe958ca81134d649f46a9466750182c_358922/MR_FR_fr_LU0140637140_YES_2026-09-30.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SCHRODER_INVESTMENT_MANAGEMENT_EUROPE_S_A/LU0140637140/LU0140637140__KID_FR_2026-09-29.pdf",
+   "url": "https://api.schroders.com/document-store/SISF_Greater-China-USD_C-Acc-PRIIPEU-FRFR.pdf",
+   "source": "Schroders (api.schroders.com document-store)",
+   "date": "2026-09-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "KID FR du site Schroders. Factsheet FR fundinfo fin septembre 2026 (date issue des métadonnées fundinfo ; PDF créé le 09/10/2026, pas de date imprimée en texte)."
+ },
+ {
+  "n": 306,
+  "isin": "LU0181996454",
+  "nom": "(I/C)TEMPLETON ASIAN GROWTH I USD",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 307,
+  "isin": "LU1433070429",
+  "nom": "(I/C)THREADNEEDLE (LUX) GLOBAL FOCUS CLASS ZE EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 308,
+  "isin": "LU0957820193",
+  "nom": "(I/C)THREADNEEDLE GLOBAL SMALLER COMPANIES ZE EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 309,
+  "isin": "FR001400UPC1",
+  "nom": "(I/C)TIKEHAU 2031 F EUR (FMB)",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 310,
+  "isin": "FR0013230042",
+  "nom": "(I/C)TOCQUEVILLE VALUE EURO ISR GP EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 311,
+  "isin": "LU0785618231",
+  "nom": "(I/C)TRIODOS IMPACT MIXED NEUTRAL Z EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 312,
+  "isin": "LU0569863755",
+  "nom": "(I/C)UBAM - Global High Yield Solution IHC EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 313,
+  "isin": "IE00BKLWXS37",
+  "nom": "(I/C)VANGUARD EMERGING MARKETS BOND FUND EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 314,
+  "isin": "IE0031786696",
+  "nom": "(I/C)VANGUARD EMRG MRKTS STOCK INDEX FUND ACC EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 315,
+  "isin": "IE00B5456744",
+  "nom": "(I/C)VANGUARD ESG DEVELOPED WORLD ALL CAP EQ EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 316,
+  "isin": "IE00BKV0W243",
+  "nom": "(I/C)VANGUARD ESG EMERGING MARKETS ALL CAP EQ EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 317,
+  "isin": "IE00BNDS0V25",
+  "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 318,
+  "isin": "IE000CI5UY91",
+  "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX USD",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 319,
+  "isin": "IE00B04FFJ44",
+  "nom": "(I/C)VANGUARD EURO INVEST GRADE BOND ACC EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ },
+ {
+  "n": 320,
+  "isin": "IE0007987690",
+  "nom": "(I/C)VANGUARD EUROPEAN STOCK INDEX INV EUR",
+  "factsheet": {
+   "statut": "Non trouvé"
+  },
+  "kid": {
+   "statut": "Non trouvé"
+  },
+  "notes": ""
+ }
+]

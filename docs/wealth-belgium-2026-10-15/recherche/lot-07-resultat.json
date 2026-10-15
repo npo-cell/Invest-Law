@@ -46,5 +46,125 @@
    "isin_verifie": true
   },
   "notes": "Site JSS (application JS) non exploitable en ligne de commande ; factsheet fin septembre pas encore publiée sur fundinfo (dernière : 31/08/2026)."
+ },
+ {
+  "n": 178,
+  "isin": "LU2752697867",
+  "nom": "(I/C)JSS SUSTAINABLE EQ STRATEGIC MATERIALS C EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/379a0085dd756d32d7f2466ca9857263_740591/MR_LU_fr_LU2752697867_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__KID_FR_2026-08-17.pdf",
+   "url": "https://api.fundinfo.com/document/28200aec3b96f2346ab19f0152435991_267245/PRP_BE_fr_LU2752697867_YES_2026-08-17.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-08-17",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 179,
+  "isin": "IE00BYVJRF70",
+  "nom": "(I/C)JUPITER GOLD & SILVER I EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026). Factsheet listant la part I EUR Acc.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/3291efe2e956712be5f258f51c9d3c6b_177938/MR_FR_fr_IE00BYVJRF70_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/c2990602d58754f465930959d9a92792_125091/PRP_FR_fr_IE00BYVJRF70_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (FR-prof)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 180,
+  "isin": "LU0946219846",
+  "nom": "(I/C)JUPITER INDIA SELECT CLASS D EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219846/LU0946219846__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/3324cc1fb494cdaa733082db7b37c1d7_131230/MR_FR_fr_LU0946219846_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219846/LU0946219846__KID_FR_2026-06-25.pdf",
+   "url": "https://api.fundinfo.com/document/b97e1b13c853b280b034bbdf861c8cf0_146533/PRP_BE_fr_LU0946219846_YES_2026-06-25.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-06-25",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 181,
+  "isin": "LU0946219416",
+  "nom": "(I/C)JUPITER JAPAN SELECT CLASS D EUR",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026).",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/4d8c2589678133dd2954810e48b2bd64_126986/MR_FR_fr_LU0946219416_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/2817be8155dabafcf8126332d71a3bdf_124841/PRP_BE_fr_LU0946219416_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 182,
+  "isin": "IE00BLP5S791",
+  "nom": "(I/C)JUPITER MERIAN GL EQ ABS RETURN FD HEDGED I",
+  "notes": "Factsheet fin septembre pas encore sur fundinfo (dernière 31/08/2026). Part I EUR Acc HSC (couverte) vérifiée.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/905d612d7d686b8b3c68f0c72241448b_154390/MR_FR_fr_IE00BLP5S791_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/c684e87f0919ed69777fcfb4c5ea63d2_126696/PRP_BE_fr_IE00BLP5S791_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo (BE-prof)",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  }
  }
 ]
