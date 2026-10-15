@@ -413,11 +413,11 @@
   "nom": "(I/C)BLACKROCK SF MYMAP PLUS GROWTH D2 EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596841/LU1304596841__Factsheet_EN_2026-09-30.pdf",
-   "url": "https://api.fundinfo.com/document/1031a8148c2b792b7736e9e78b91cde4_322382/MR_LU_en_LU1304596841_YES_2026-09-30.pdf",
-   "source": "fundinfo (api.fundinfo.com)",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596841/LU1304596841__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/9d12a127fa0f9d648aa1eb1f3fa3c10b_327544/MR_CH_fr_LU1304596841_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers CH-prof)",
    "date": "2026-09-30",
-   "langue": "EN",
+   "langue": "FR",
    "isin_verifie": true,
    "autres_fichiers": [
     "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596841/LU1304596841__Factsheet_FR_2026-08-31.pdf"
@@ -432,7 +432,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers)."
+  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers). | 15/10 : factsheet FR (2026-09-30) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 49,
@@ -440,11 +440,11 @@
   "nom": "(I/C)BLACKROCK SF MYMAP PLUS MODERATE D2 EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596684/LU1304596684__Factsheet_EN_2026-09-30.pdf",
-   "url": "https://api.fundinfo.com/document/0ce89b5e94b108536bd2bb458226cc9e_322514/MR_LU_en_LU1304596684_YES_2026-09-30.pdf",
-   "source": "fundinfo (api.fundinfo.com)",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596684/LU1304596684__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/4419c3bc78c4c479502885339579d5e3_327390/MR_CH_fr_LU1304596684_YES_2026-09-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers CH-prof)",
    "date": "2026-09-30",
-   "langue": "EN",
+   "langue": "FR",
    "isin_verifie": true,
    "autres_fichiers": [
     "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1304596684/LU1304596684__Factsheet_FR_2026-08-31.pdf"
@@ -459,7 +459,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers)."
+  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers). | 15/10 : factsheet FR (2026-09-30) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 50,

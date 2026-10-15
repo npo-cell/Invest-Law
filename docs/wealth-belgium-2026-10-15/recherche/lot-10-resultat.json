@@ -53,11 +53,11 @@
   "nom": "(I/C)PIMCO GIS DIVERSIFIED INCOME FUND EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__Factsheet_EN_2026-09-30.pdf",
-   "url": "https://api.fundinfo.com/document/e1787bd7a94a8d5fcec29fcafb9133bd_276885/MR_BE_en_IE00B1JC0H05_YES_2026-09-30.pdf",
-   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
-   "date": "2026-09-30",
-   "langue": "EN",
+   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/47b1958cd5707d86836e43f091ca5fa4_315789/MR_FR_fr_IE00B1JC0H05_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -69,7 +69,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet PIMCO uniquement en anglais (pas de version FR sur fundinfo)."
+  "notes": "Factsheet PIMCO uniquement en anglais (pas de version FR sur fundinfo). | 15/10 : factsheet FR (2026-08-31) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 266,
@@ -77,11 +77,11 @@
   "nom": "(I/C)PIMCO GIS EURO INCOME BOND FUND EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__Factsheet_EN_2026-09-30.pdf",
-   "url": "https://api.fundinfo.com/document/4025a697049c9c0f1ffa2e336b1bcaeb_292731/MR_BE_en_IE00B3V8Y234_YES_2026-09-30.pdf",
-   "source": "fundinfo (api.fundinfo.com, univers BE-prof)",
-   "date": "2026-09-30",
-   "langue": "EN",
+   "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/de30ba57c8073ae42292dc7816c64438_314376/MR_FR_fr_IE00B3V8Y234_YES_2026-08-31.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-08-31",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -93,7 +93,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet PIMCO uniquement en anglais (pas de version FR sur fundinfo)."
+  "notes": "Factsheet PIMCO uniquement en anglais (pas de version FR sur fundinfo). | 15/10 : factsheet FR (2026-08-31) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 267,
@@ -629,11 +629,11 @@
   "nom": "(I/C)RUFFER TOTAL RETURN INTERNATIONAL C EUR",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU0638557669/LU0638557669__Factsheet_EN_2026-09-30.pdf",
-   "url": "https://www.ruffer.co.uk/-/media/ruffer-website/files/fund-reports/rtri/c-class/2026/2026-09-rtri-c-class-fund-report-sep2026.pdf",
+   "fichier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU0638557669/LU0638557669__Factsheet_FR_2026-05-31.pdf",
+   "url": "https://www.ruffer.co.uk/-/media/ruffer-website/files/fund-reports/rtri/french/c-class/2026/2026-05-rtri-c-class-fund-report-may2026_fr.pdf",
    "source": "Ruffer LLP (ruffer.co.uk, site du gestionnaire)",
-   "date": "2026-09-30",
-   "langue": "EN",
+   "date": "2026-05-31",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -645,7 +645,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet = reporting mensuel classe C (liste toutes les parts C, dont C EUR cap LU0638557669, perf. en EUR). Version FR sur ruffer.co.uk seulement jusqu'à mai 2026 -> EN de septembre retenue. Pas de factsheet sur fundinfo."
+  "notes": "Factsheet = reporting mensuel classe C (liste toutes les parts C, dont C EUR cap LU0638557669, perf. en EUR). Version FR sur ruffer.co.uk seulement jusqu'à mai 2026 -> EN de septembre retenue. Pas de factsheet sur fundinfo. | 15/10 : factsheet FR (2026-05-31) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 290,

@@ -365,11 +365,11 @@
   "nom": "(I/C)ABERDEEN ASIAN SMALLER COMPANIES FUND I USD",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231483313/LU0231483313__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/9a7ee66f424c2816b565d02485a3299b_239990/MR_LU_en_LU0231483313_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-08-31",
-   "langue": "EN",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231483313/LU0231483313__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/b4b42e50d4ff6c0f795c66e3c23c4271_151492/MR_FR_fr_LU0231483313_RES_2026-06-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-06-30",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -381,7 +381,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet EN fin août 2026 (la FR la plus récente sur fundinfo date de fin juin 2026). KID FR (BE) 07/08/2026."
+  "notes": "Factsheet EN fin août 2026 (la FR la plus récente sur fundinfo date de fin juin 2026). KID FR (BE) 07/08/2026. | 15/10 : factsheet FR (2026-06-30) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 18,
@@ -389,11 +389,11 @@
   "nom": "(I/C)ABERDEEN CHINA A SHARE SUST. EQ FUND I USD",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1130125799/LU1130125799__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/28fe90f6d7905134ff79224d6f455e0e_229858/MR_BE_en_LU1130125799_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-08-31",
-   "langue": "EN",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1130125799/LU1130125799__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/6e1ea4e33966a7e3621adbfd8d9d88ad_138657/MR_FR_fr_LU1130125799_RES_2026-06-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-06-30",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -405,7 +405,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet EN fin août 2026 (FR seulement fin juin). KID FR (BE) 26/03/2026."
+  "notes": "Factsheet EN fin août 2026 (FR seulement fin juin). KID FR (BE) 26/03/2026. | 15/10 : factsheet FR (2026-06-30) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 19,
@@ -413,11 +413,11 @@
   "nom": "(I/C)ABERDEEN WORLD RESOURCES EQUITY FUND I USD",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0505784701/LU0505784701__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/ad41a324bf9e2bf83065e0ae46552fa0_231664/MR_CH_en_LU0505784701_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-08-31",
-   "langue": "EN",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0505784701/LU0505784701__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/c293a5329b43af8d0333695d8a34c6d0_149420/MR_FR_fr_LU0505784701_RES_2026-06-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers FR-prof)",
+   "date": "2026-06-30",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -429,7 +429,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Fonds renommé abrdn SICAV I - Future Minerals Fund (ex-World Resources Equity). Factsheet EN fin août 2026 (FR seulement fin juin). KID FR (BE) 21/08/2026."
+  "notes": "Fonds renommé abrdn SICAV I - Future Minerals Fund (ex-World Resources Equity). Factsheet EN fin août 2026 (FR seulement fin juin). KID FR (BE) 21/08/2026. | 15/10 : factsheet FR (2026-06-30) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 20,
@@ -437,11 +437,11 @@
   "nom": "(I/C)ABRDN LIQUIDITY FUND (LUX) STG FD X-2 GBP",
   "factsheet": {
    "statut": "Trouvé",
-   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_EN_2026-08-31.pdf",
-   "url": "https://api.fundinfo.com/document/34f09d2dca66d8e5087280ccaf841243_260092/MR_CH_en_LU1914336968_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
-   "source": "fundinfo",
-   "date": "2026-08-31",
-   "langue": "EN",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/a656075932f2e576db9c12421c9e77c9_165758/MR_CH_fr_LU1914336968_YES_2026-06-30.pdf",
+   "source": "fundinfo (api.fundinfo.com, univers CH-prof)",
+   "date": "2026-06-30",
+   "langue": "FR",
    "isin_verifie": true
   },
   "kid": {
@@ -453,7 +453,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet EN fin août 2026 (FR seulement fin juin, version CH). KID FR = version suisse en français sur fundinfo (07/05/2026) ; en BE/LU seulement EN."
+  "notes": "Factsheet EN fin août 2026 (FR seulement fin juin, version CH). KID FR = version suisse en français sur fundinfo (07/05/2026) ; en BE/LU seulement EN. | 15/10 : factsheet FR (2026-06-30) retenue à la place de l EN (consigne : français d abord partout)."
  },
  {
   "n": 21,
