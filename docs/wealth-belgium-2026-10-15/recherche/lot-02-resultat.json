@@ -21,7 +21,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site amundi.lu refuse les requêtes automatisées (HTTP 412) : documents via fundinfo."
  },
  {
   "n": 32,
@@ -69,7 +69,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": "Factsheet disponible en anglais seulement sur fundinfo (dernière : 31/08/2026)."
+  "notes": "Factsheet disponible en anglais seulement sur fundinfo (dernière : 31/08/2026, spécifique part I Acc EUR). KID FR via fundinfo."
  },
  {
   "n": 34,
@@ -117,7 +117,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Documents via fundinfo (factsheet FR au 30/09/2026, couvre parts F C/D)."
  },
  {
   "n": 36,
@@ -507,7 +507,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
  },
  {
   "n": 52,
@@ -555,7 +555,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
  },
  {
   "n": 54,
@@ -579,7 +579,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
  },
  {
   "n": 55,
@@ -627,7 +627,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Site candriam.com inaccessible en direct (redirections vers sélection de profil) : documents via fundinfo."
  },
  {
   "n": 57,
