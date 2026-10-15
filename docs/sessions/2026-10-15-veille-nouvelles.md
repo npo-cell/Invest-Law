@@ -5,3 +5,4 @@
 - **Écartés** : invitation interne OneLife/BX (passée), échange VNI Funds For Good (opérationnel).
 - **Doublon** : la page en ligne contenait déjà un article FvS sur le même Fixed Income Call (autre rédaction, non présent dans le dépôt) ; remplacé par la version du dépôt (un seul article par sujet).
 - Page republiée : https://claude.ai/artifact/VvpoPNQ86DzBFLrqiXjP1b (27 articles). Rien publié sur invest-law.eu.
+- **Consigne ajoutée** (demande de l'utilisatrice) : un mail vu n'est pas forcément traité ; analyser la boîte et l'artefact pour trouver ce qui n'a pas été fait (`docs/nouvelles/CONSIGNE.md`).
