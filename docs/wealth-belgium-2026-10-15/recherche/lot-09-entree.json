@@ -1,0 +1,205 @@
+[
+{
+"n": 234,
+"nom": "(I/C)ODDO BHF AVENIR EUROPE CN EUR",
+"isin": "FR0011036920",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0011036920"
+},
+{
+"n": 235,
+"nom": "(I/C)ODDO BHF EXKLUSIV POLARIS BAL CN EUR",
+"isin": "LU1849527855",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849527855"
+},
+{
+"n": 236,
+"nom": "(I/C)ODDO BHF GLOBAL EQUITY TREND CIW EUR",
+"isin": "DE000A1XDYM7",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A1XDYM7"
+},
+{
+"n": 237,
+"nom": "(I/C)ODDO BHF GLOBAL NAVIGATOR CNW EUR",
+"isin": "LU3103551787",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3103551787"
+},
+{
+"n": 238,
+"nom": "(I/C)ODDO BHF GLOBAL TARGET 2031 CN EUR (FMB)",
+"isin": "LU3129990308",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990308"
+},
+{
+"n": 239,
+"nom": "(I/C)ODDO BHF POLARIS DYNAMIC CN EUR",
+"isin": "LU1849528150",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528150"
+},
+{
+"n": 240,
+"nom": "(I/C)ODDO BHF POLARIS FLEXIBLE CN EUR",
+"isin": "LU1874837278",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874837278"
+},
+{
+"n": 241,
+"nom": "(I/C)ODDO BHF POLARIS MODERATE CN EUR",
+"isin": "DE000A2JJ1V7",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1V7"
+},
+{
+"n": 242,
+"nom": "(I/C)ODDO BHF US EQUITY TREND CN EUR",
+"isin": "LU1833929216",
+"maison": "Oddo BHF Asset Management SAS",
+"dossier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929216"
+},
+{
+"n": 243,
+"nom": "(I/C)OFI PRECIOUS METALS RF EUR",
+"isin": "FR0013304441",
+"maison": "Ofi Asset Management",
+"dossier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0013304441"
+},
+{
+"n": 244,
+"nom": "(I/C)ORCADIA GLOBAL SUSTAINABLE BALANCED C EUR",
+"isin": "LU1417812945",
+"maison": "FundPartner Solutions (Europe) S.A.",
+"dossier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU1417812945"
+},
+{
+"n": 245,
+"nom": "(I/C)ORCADIA GLOBAL SUSTAINABLE DYNAMIC C EUR",
+"isin": "LU2436819366",
+"maison": "FundPartner Solutions (Europe) S.A.",
+"dossier": "INVESTLAW/FUNDPARTNER_SOLUTIONS_EUROPE_S_A/LU2436819366"
+},
+{
+"n": 246,
+"nom": "(I/C)PCFS PURE FIXED INCOME OPPORTUNITIES IC EUR",
+"isin": "LU1410420332",
+"maison": "Pure Capital S.A.",
+"dossier": "INVESTLAW/PURE_CAPITAL_S_A/LU1410420332"
+},
+{
+"n": 247,
+"nom": "(I/C)PCFS PURE WEALTH IC EUR",
+"isin": "LU0649642757",
+"maison": "Pure Capital S.A.",
+"dossier": "INVESTLAW/PURE_CAPITAL_S_A/LU0649642757"
+},
+{
+"n": 248,
+"nom": "(I/C)PICTET BIOTECH I EUR",
+"isin": "LU0255977372",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977372"
+},
+{
+"n": 249,
+"nom": "(I/C)PICTET CLEAN ENERGY TRANSITION I EUR",
+"isin": "LU0312383663",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0312383663"
+},
+{
+"n": 250,
+"nom": "(I/C)PICTET DIGITAL I EUR",
+"isin": "LU0340554673",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554673"
+},
+{
+"n": 251,
+"nom": "(I/C)PICTET GLOBAL ENVIRONMENTAL OPPORT I EUR",
+"isin": "LU0503631631",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631631"
+},
+{
+"n": 252,
+"nom": "(I/C)PICTET MULTI ASSET GLOBAL OPPS I EUR",
+"isin": "LU0941348897",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0941348897"
+},
+{
+"n": 253,
+"nom": "(I/C)PICTET NUTRITION I EUR",
+"isin": "LU0366533882",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366533882"
+},
+{
+"n": 254,
+"nom": "(I/C)PICTET PREMIUM BRANDS I EUR",
+"isin": "LU0217138485",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217138485"
+},
+{
+"n": 255,
+"nom": "(I/C)PICTET QUEST AI-DRIVEN GLOBAL EQUITIES I EUR",
+"isin": "LU2749781550",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2749781550"
+},
+{
+"n": 256,
+"nom": "(I/C)PICTET ROBOTICS I EUR",
+"isin": "LU1279334053",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334053"
+},
+{
+"n": 257,
+"nom": "(I/C)PICTET SMARTCITY I EUR",
+"isin": "LU0503633769",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503633769"
+},
+{
+"n": 258,
+"nom": "(I/C)PICTET TARGET INCOME 2028 I EUR",
+"isin": "LU2858866861",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2858866861"
+},
+{
+"n": 259,
+"nom": "(I/C)PICTET TIMBER I EUR",
+"isin": "LU0340558823",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340558823"
+},
+{
+"n": 260,
+"nom": "(I/C)PICTET TR QUEST AI I EUR",
+"isin": "LU2957443166",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443166"
+},
+{
+"n": 261,
+"nom": "(I/C)PICTET TR-SIRIUS-I EUR",
+"isin": "LU2496444808",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444808"
+},
+{
+"n": 262,
+"nom": "(I/C)PICTET WATER I EUR",
+"isin": "LU0104884605",
+"maison": "Pictet Asset Management (Europe) S.A.",
+"dossier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884605"
+}
+]
