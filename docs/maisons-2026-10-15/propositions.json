@@ -9,7 +9,7 @@
     ],
     "extrait": "Principal 24 place Vendôme 75001 PARIS, FR",
     "notes": "Source : page LinkedIn officielle (site officiel bloqué). Entité luxembourgeoise (Carmignac Gestion Luxembourg) : 7 Rue de la Chapelle, L-1325 Luxembourg (même source LinkedIn).",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "PointsForts": {
     "valeur": "<ul><li>Carmignac est une société de gestion d’actifs indépendante fondée en 1989, dont le capital est entièrement détenu par ses dirigeants, ses gérants et ses salariés.</li><li>Elle opère depuis 7 bureaux en Europe.</li><li>Ses expertises couvrent les actions, les obligations et les stratégies diversifiées (gamme Patrimoine), avec une gestion active de conviction.</li></ul>",
@@ -20,7 +20,7 @@
     ],
     "extrait": "LinkedIn : « Carmignac est une société de gestion d’actifs financiers indépendante fondée en 1989 […] Avec un capital entièrement détenu par ses dirigeants, ses gérants et ses salariés, Carmignac est aujourd’hui l’un des leaders européens de la gestion d’actifs et opère depuis 7 bureaux différents. » ; page Nous connaître (via index) : 44,3 milliards d’euros d’actifs sous gestion, « Source : Carmignac, 30/06/2026 ».",
     "notes": "Encours 44,3 Md€ au 30/06/2026 : Site carmignac.com inaccessible en direct (protection anti-bot JS). Contenu lu uniquement via l'index du moteur de recherche : extrait non vérifié mot pour mot, à contrôler sur le site avant publication. La page d'accueil fr-be afficherait « 44Mds » à la même date. Si non vérifiable, retirer la 2e puce. | Retiré à la relecture : encours 44,3 Md€ (source = moteur de recherche seulement).",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "FID_Specialites": {
     "valeur": null,
@@ -44,7 +44,7 @@
     ],
     "extrait": "Titres de pages : « Une gamme de Fonds concentrée » / « A deliberately concentrated fund range » ; « Carmignac Portfolio refers to the sub-funds of Carmignac Portfolio SICAV, an investment company under Luxembourg law, conforming to the UCITS Directive. »",
     "notes": "Site carmignac.com inaccessible en direct (protection anti-bot JS). Contenu lu uniquement via l'index du moteur de recherche : extrait non vérifié mot pour mot, à contrôler sur le site avant publication.",
-    "statut": "non_verifie"
+    "statut": "enregistre"
    },
    "FondsExternes_Specialites": {
     "valeur": "Actions (internationales, européennes, émergentes, thématiques)<br>Obligations (stratégies flexibles, crédit, fonds à échéance)<br>Diversifiés (gamme Patrimoine)",
@@ -55,7 +55,7 @@
     ],
     "extrait": "Gamme obligataire : « Elle comprend des fonds multi-classes d'actifs obligataires, des fonds spécialisés et des fonds à échéance » ; gamme actions : Carmignac Investissement, Emergents, Portfolio Grande Europe, Tech Solutions ; gamme Patrimoine.",
     "notes": "Site carmignac.com inaccessible en direct (protection anti-bot JS). Contenu lu uniquement via l'index du moteur de recherche : extrait non vérifié mot pour mot, à contrôler sur le site avant publication.",
-    "statut": "non_verifie"
+    "statut": "enregistre"
    },
    "FondsExternes_TypeGestion": {
     "valeur": "Gestion active de conviction, fondamentale : sélection bottom-up et portefeuilles concentrés en actions ; approche obligataire flexible, globale et non benchmarkée.",
@@ -66,7 +66,7 @@
     ],
     "extrait": "« Un portefeuille concentré avec un faible taux de rotation des titres sélectionnés selon un processus bottom-up éprouvé. » ; « Une philosophie fondamentalement flexible » ; LinkedIn : « Nous sommes des gérants actifs ».",
     "notes": "Site carmignac.com inaccessible en direct (protection anti-bot JS). Contenu lu uniquement via l'index du moteur de recherche : extrait non vérifié mot pour mot, à contrôler sur le site avant publication.",
-    "statut": "non_verifie"
+    "statut": "enregistre"
    }
   }
  },
@@ -90,7 +90,7 @@
     ],
     "extrait": "<title>DNCA Finance | Maison d'épargne et de valeur",
     "notes": "Figure dans le titre de toutes les pages du site officiel (balise title), pas comme bandeau visible dans le corps de page. À valider si vous exigez une signature visible.",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "PointsForts": {
     "valeur": "<ul><li>Créée en 2000, DNCA Finance est une société de gestion française affiliée à Natixis Investment Managers, avec une filiale au Luxembourg (DNCA Finance Luxembourg).</li><li>Au 30/09/2026, elle gère 66,2 Md€ et compte 199 collaborateurs, dont 72 gérants et analystes.</li><li>Gestion de conviction couvrant l’ensemble des classes d’actifs, des styles (Value, Blend, Croissance) et des zones géographiques, organisée autour de six expertises : Taux, Mixte, Actions, SFDR 9, Matières premières et Épargne retraite.</li></ul>",
@@ -160,7 +160,7 @@
     ],
     "extrait": "Pied de page : « FFG S.A. 1 rue Guillaume Machault L-2111 Luxembourg » ; prospectus : « Administrateur Funds for Good S.A. 1, rue Guillaume de Machault L-2111 Luxembourg » ; LinkedIn : « Siège social Luxembourg, Luxembourg ».",
     "notes": "Bureau belge : Avenue Louise, 251, 1050 Bruxelles (affiché en premier sur le site, pertinent pour un public belge). Le site écrit « Guillaume Machault », le prospectus « Guillaume de Machault ».",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": "Performance financière & sociale",
@@ -170,7 +170,7 @@
     ],
     "extrait": "Image « ffg_invest_slogan » de la page d'accueil : « PERFOMANCE \"Financière & Sociale\" »",
     "notes": "Signature présente uniquement en image (fichier nommé ffg_invest_slogan, avec la coquille « PERFOMANCE ») ; méta-description du site : « Funds For Good - Invest / Impact ». À valider.",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "PointsForts": {
     "valeur": "<ul><li>Funds For Good, fondée en 2010 et implantée à Luxembourg et Bruxelles, repose sur un modèle « Designed to Give » : la moitié de ses bénéfices finance son projet social (FFG Impact), qui soutient par des prêts d’honneur à 0 % et du coaching bénévole des entrepreneurs en situation précaire ou porteurs de projets sociaux.</li><li>Entreprise certifiée B Corp, avec un score B Impact de 109,5.</li><li>Sa gamme de fonds socialement responsables (SICAV luxembourgeoise FFG) est gérée par des maisons partenaires — BLI (Banque de Luxembourg Investments), Orcadia Asset Management, Fisher Investments — selon la politique d’investissement responsable de FFG, labellisée « Towards Sustainability ».</li><li>Depuis 2013, FFG Impact a soutenu 1 516 projets pour 3 369 612 € de prêts d’honneur (au 31/12/2025).</li></ul>",
@@ -298,13 +298,13 @@
     "statut": "enregistre"
    },
    "Slogan": {
-    "valeur": "Investisseur responsable et engagé",
+    "valeur": "La proximité d’une boutique, les standards d’une grande maison",
     "sources": [
      "https://www.lfde.com/fr-fr/"
     ],
     "extrait": "Titre H1 de la page d’accueil France : « Investisseur responsable et engagé » ; repris dans la page Expertises : « Investisseur responsable et engagé depuis plus de 30 ans… »",
-    "notes": "Doute : la page d’accueil Belgique (https://www.lfde.com/fr-be/) affiche un autre H1 : « La proximité d’une boutique, les standards d’une grande maison ». Autres formules officielles : raison d’être « engager ensemble nos énergies et les capitaux de nos clients, dans un esprit pionnier et responsable, pour bâtir le monde de demain » (page En bref). À choisir par l’utilisatrice ; la version BE est peut-être plus pertinente pour un public belge.",
-    "statut": "a_valider"
+    "notes": "Doute : la page d’accueil Belgique (https://www.lfde.com/fr-be/) affiche un autre H1 : « La proximité d’une boutique, les standards d’une grande maison ». Autres formules officielles : raison d’être « engager ensemble nos énergies et les capitaux de nos clients, dans un esprit pionnier et responsable, pour bâtir le monde de demain » (page En bref). À choisir par l’utilisatrice ; la version BE est peut-être plus pertinente pour un public belge. | Choix de l'utilisatrice (15/10) : slogan du site belge au lieu de « Investisseur responsable et engagé ».",
+    "statut": "enregistre"
    },
    "PointsForts": {
     "valeur": "<ul><li>Fondée en 1991 à Paris par Didier Le Menestrel et Christian Gueugnier, La Financière de l’Echiquier (LFDE) est une société de gestion de conviction, filiale à 100 % de LBP AM depuis 2023 ; elle a intégré Tocqueville Finance en 2024.</li><li>28 Md€ d’encours et plus de 170 collaborateurs, dont une équipe de gestion de 50 personnes (données au 31/12/2025 ; encours incluant l’activité sur produits structurés et les encours conservés chez Echiquier Gestion Privée).</li><li>Une gestion active fondée sur la connaissance approfondie des entreprises : les gérants et analystes suivent près de 2 500 sociétés dans plus de 40 pays et réalisent plus de 1 500 rencontres par an.</li><li>Expertises en actions (petites et moyennes valeurs, Europe, monde, thématiques), crédit et allocation d’actifs, avec un engagement ancien en investissement responsable : 98 % des encours sont classés Article 8 ou 9 SFDR.</li></ul>",
@@ -327,7 +327,7 @@
     ],
     "extrait": "« Notre gestion sous-mandat Echiquier club … Gestion en architecture ouverte : Fonds Maison, Fonds externes, ETF, Titres vifs, Produits structurés » ; « Notre gestion pilotée … Bénéficiez de l’expertise de nos gérants au travers d’un contrat d’assurance-vie » ; « Fonds dédiés : Une solution sur-mesure dédiée à nos partenaires CGP … Cahier des charges à votre main » ; « Avec Echiquier Gestion Privée, vous déléguez la gestion de votre épargne à un expert »",
     "notes": "Le site décrit bien une offre de gestion sous mandat / gestion pilotée en assurance-vie / fonds dédiés, mais je n'ai trouvé AUCUNE mention explicite de FID ni d'assurance-vie luxembourgeoise ou belge (pages fr-fr, fr-be, fr-lu). Les assureurs cités pour la gestion pilotée sont français (Generali Vie, AXA Thema). L'offre FID LFDE mentionnée par l'utilisatrice n'est donc pas confirmée par le site : à valider avant publication.",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "FID_TypeGestion": {
     "valeur": "Gestion active de conviction, sur-mesure selon les objectifs et l’appétence au risque du client ; en gestion pilotée, profils Prudent, Équilibré, Dynamique et Carte blanche (selon les contrats).",
@@ -337,7 +337,7 @@
     ],
     "extrait": "« Découvrez nos mandats adaptés au profil de chaque investisseur : Prudent … Equilibré … Dynamique … Carte blanche » ; « nous pratiquons une gestion active de conviction » ; « solutions d'investissements en adéquation avec votre appétence au risque et vos objectifs »",
     "notes": "Les profils listés concernent la gestion pilotée en assurance-vie (contrats Generali Vie, AXA Thema) côté France ; pas de description propre à un FID luxembourgeois/belge.",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "FondsExternes_Description": {
     "valeur": "La Financière de l’Echiquier gère une gamme de fonds ouverts investis sur les principaux marchés d’actions et d’obligations, pour le compte d’investisseurs privés et institutionnels. Depuis l’intégration de Tocqueville Finance, la gamme réunit les fonds Echiquier et Tocqueville : actions européennes et internationales, petites et moyennes valeurs, fonds thématiques, crédit et fonds diversifiés, avec une large part de fonds ISR.",
@@ -383,7 +383,7 @@
     ],
     "extrait": "« Paris 25 rue de Courcelles 75008 Paris, France » ; « toute réclamation transmise par courrier doit être adressée au Service Juridique de Lazard Frères Gestion à l’adresse postale 25, rue de Courcelles, 75008 Paris. » ; bureaux locaux : « Bruxelles Blue Tower 326 avenue Louise, 1050 Bruxelles » et « Luxembourg 39, Boulevard Royal, L-2449 Luxembourg »",
     "notes": "ENTITÉ RETENUE : Lazard Frères Gestion SAS (Paris), et non Lazard Asset Management. Raisons : (1) lazardfreresgestion.fr ne répond pas (certificat TLS invalide) mais le site officiel est www.lazardfreresgestion.com, qui a des versions dédiées Belgique (be/fr_be) et Luxembourg (lu/fr_lu) ; (2) LFG a des bureaux à Bruxelles (Blue Tower, 326 avenue Louise, 1050 Bruxelles, +32 2 627 08 80) et à Luxembourg (39 boulevard Royal, L-2449 Luxembourg, +352 273 00 810) ; (3) LFG propose aux CGP et courtiers une gestion sous mandat « accessible dans le cadre de contrats d’assurance-vie luxembourgeois » (modéré, équilibré, dynamique, pur actions) — directement pertinent pour invest-law ; (4) le site BE précise des informations pour les investisseurs belges. Lazard Asset Management (New York, >285 Md$) a aussi des pages BE/LU (lazardassetmanagement.com/be/en_gb, /lu/en_gb, gamme UCITS) mais sans bureau local ni offre assurance-vie mentionnée ; LFG distribue d'ailleurs ses fonds à l’international via le réseau LAM et sa gamme inclut « une gamme d’OPC gérés par Lazard Asset Management ». Doute : le site ne qualifie pas explicitement le 25 rue de Courcelles de « siège social » (c’est l’adresse du bureau de Paris et l’adresse postale du service juridique). La gestion sous mandat en assurance-vie luxembourgeoise pourrait alimenter des champs FID si la fiche en a (non demandés ici).",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": null,
@@ -451,7 +451,7 @@
     ],
     "extrait": "M&G Luxembourg S.A. (MGLUX), siège social : 16, boulevard Royal, L-2449, Luxembourg, agréée et réglementée par le Commission de Surveillance du Secteur Financier / Ce document financier promotionnel est publié par M&G Luxembourg S.A. Siège social : 16, boulevard Royal, L 2449, Luxembourg.",
     "notes": "Entité retenue : M&G Luxembourg S.A. (régulée CSSF), car c'est l'entité qui édite les sites BE/FR et les documents des fonds M&G (Lux) distribués sur le continent, et dont dépendent les succursales belge (avenue Louise 54, 1050 Bruxelles, BCE 0770.518.312) et française (8, rue Lamennais, 75008 Paris). Alternative : maison mère M&G plc, 10 Fenchurch Avenue, Londres EC3M 5AG (« dont le siège social et l'établissement principal sont situés au 10 Fenchurch Avenue, Londres EC3M 5AG »). Attention : le pied de page du site belge écrit « Siège social : Avenue Louise 54, 1050 Bruxelles » pour M&G Luxembourg S.A., ce qui est l'adresse de la succursale, pas du siège. Son rôle formel de société de gestion des SICAV M&G (Lux) n'est pas écrit en toutes lettres sur les pages consultées (à confirmer dans le prospectus si besoin).",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "Slogan": {
     "valeur": null,
@@ -529,7 +529,7 @@
     ],
     "extrait": "« Notre promesse : promouvoir un monde au sein duquel chaque jour est une opportunité. » (site groupe) ; « Afin de promouvoir un monde où chaque jour est une opportunité. » (page Identité de l'AM)",
     "notes": "DOUTE : présentée comme « Notre promesse » du groupe, pas comme une signature sous le logo. Pas d'autre tagline claire trouvée. À mettre à null si l'on veut une stricte signature de marque.",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "FondsExternes_Description": {
     "valeur": "ODDO BHF Asset Management propose une gamme de fonds ouverts en actions (approches fondamentale, thématique et quantitative), en obligations et en multi-actifs, complétée par une gamme d'ETF actifs et par une plateforme d'actifs privés (capital-investissement et dette privée).",
@@ -584,7 +584,7 @@
     ],
     "extrait": "Titre principal de la page d'accueil : « Wir kümmern uns um Ihr Vermögen, als wäre es unser Eigenes »",
     "notes": "DOUTE modéré : c'est le titre d'accroche (hero) de la page d'accueil, pas une signature sous le logo. Sous-titre voisin « Performancestark und zukunftssicher » écarté (promesse de performance).",
-    "statut": "a_valider"
+    "statut": "enregistre"
    },
    "PointsForts": {
     "valeur": "<ul><li>PT Asset Management (PTAM) est un gestionnaire de fortune indépendant fondé en 1998 par Martin Eininger et Klaus Peter Lehr, toujours associés de la société ; siège à Metzingen (Bade-Wurtemberg) et bureau à Munich.</li><li>En tant que gestionnaire de portefeuille (Finanzportfolioverwalter), PTAM est placé sous la surveillance de la BaFin ; la société a renoncé entièrement au placement de produits rémunéré par commissions.</li><li>Gestion de fortune individuelle pour particuliers, entreprises, fondations, family offices et investisseurs institutionnels, digitale avec « Ai do Capital », ainsi que gestion de fonds et de certificats.</li><li>Gamme de quatre fonds – PTAM Defensiv, PTAM Balanced, PTAM Global Allocation et PTAM Global Equity – complétée par deux certificats UBS PTAM Navigator.</li></ul>",
