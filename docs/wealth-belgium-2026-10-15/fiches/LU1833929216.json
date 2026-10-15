@@ -1,0 +1,99 @@
+{
+  "n": "242",
+  "isin": "LU1833929216",
+  "nom": "(I/C)ODDO BHF US EQUITY TREND CN EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-07-13",
+  "date_creation": "2018-07-16",
+  "devise": "EUR",
+  "type_fonds": "Actions américaines",
+  "compartiment": "Un compartiment de la SICAV ODDO BHF",
+  "gerants": "Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA)",
+  "encours_millions": "752",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.75",
+  "frais_courants": "0.87",
+  "sri": "4",
+  "indice": "100% S&P 500 EUR Net Total Return Index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nUtilisant une approche quantitative propriétaire, ODDO BHF US Equity Trend investit dans des actions américaines. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques dans le but de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importance à la diversification et la gestion des risques en appliquant diverses contraintes d'optimisation.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création de la part (1ère VL) 16/07/2018 (= date de création du fonds sur la factsheet) ; le KID indique « ODDO BHF Algo Trend US a été créé le 2 juillet 2018 » (ancien nom, date différente). Frais de gestion fixes : « Taux annuel de 0.75% maximum » (factsheet) ; frais courants KID 0,87 % (factsheet 0.865 %). Commission de surperformance max. 10 % vs l'indice. Indice « 100% S&P 500 EUR Net Total Return Index » (factsheet) = « S&P 500 NR (Net Return) en EUR » (KID), que le compartiment vise à surperformer. Classification Dynamique (actions américaines diversifiées, SRI 4). SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Allocations : 10 principales lignes seulement ; répartitions sectorielle et géographique en graphiques sans texte (seule « Poche monétaire 0,1% » lisible), non reprises.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.3",
+    "disclaimer": "factsheet p.1 et avertissement",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Nvidia Corp",
+      "pct": "8.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc",
+      "pct": "6.82"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "4.85"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc-Cl A",
+      "pct": "3.32"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.Com Inc",
+      "pct": "3.11"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Micron Technology Inc",
+      "pct": "2.66"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc-Cl C",
+      "pct": "2.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc",
+      "pct": "2.37"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Jpmorgan Chase & Co",
+      "pct": "2.36"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Bank Of New York Mellon Corp",
+      "pct": "2.34"
+    }
+  ]
+}

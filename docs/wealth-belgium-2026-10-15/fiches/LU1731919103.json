@@ -1,0 +1,213 @@
+{
+  "n": "88",
+  "isin": "LU1731919103",
+  "nom": "(I/C)DIGITAL FUNDS STARS EUROPE ACC1 EUR",
+  "maison": "J. Chahine Capital S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-03-03",
+  "date_creation": "2017-12-27",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes",
+  "compartiment": "Compartiment de Chahine Funds, SICAV de droit luxembourgeois",
+  "gerants": "Aymar de Léotoing, Alexandre Morlot",
+  "encours_millions": "507.1",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.25",
+  "frais_courants": "1.44",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne présagent pas des résultats futurs.",
+  "politique_fr": "PROFIL ET OBJECTIF\nUn portefeuille diversifié, géré de manière active, investi sur toutes les tailles de capitalisation grâce à un style de gestion purement quantitatif. L’univers d’investissement comprend environ 1500 valeurs de l’Union Européenne, du Royaume-Uni, de la Suisse et de la Norvège. L’objectif consiste à dégager une plus-value à long terme de son capital et surperformer les marchés européens en s’appuyant sur un modèle quantitatif “Momentum” exploitant les dynamiques de cours boursier et de révision des perspectives bénéficiaires des entreprises.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Fonds renommé : « Chahine Funds Equity Europe » (ex-Digital Funds Stars Europe, nom One Life) ; société de gestion IRIVEST Investment Managers (ex-J. Chahine Capital). Date de création = lancement de la part Acc 1 (27/12/2017) ; fonds lancé le 13/11/1998. Encours = « Actifs sous gestion : EUR 507,1 Mio » (caractéristiques du fonds). Frais : « Frais courants : 1,44 % (dont 1,25 % frais de gestion fixe) » → frais de gestion 1,25 ; frais courants = KID 1,44 % ; commission de surperformance 15 % de la surperformance par rapport au MSCI Europe NR ; frais d’entrée max 5 %. Indice vide : la factsheet indique « Indice de référence : MSCI Europe NR » (depuis le 01/10/2019, avant MSCI Europe Small Cap) mais le KID précise que le MSCI Europe Net Return « servira d'indice de référence uniquement pour le calcul des commissions de performance ». SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR article 8 (factsheet) ; label LuxFLAG ESG. Allocations : répartitions par pays, secteur et capitalisation au 30/09/2026 publiées sous forme d’images (aucun texte extractible) → lues sur l’image agrandie de la page 2 ; le script verif_fiche.py ne peut pas les retrouver dans le texte (écarts attendus) ; « [Contrats à terme] » 2,5 % repris tel quel ; seules 5 principales positions publiées ; la décomposition de la performance (poids moyen par secteur sur le mois) n’est pas reprise.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "16.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suisse",
+      "pct": "11.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "10.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "10.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "10.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "8.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suède",
+      "pct": "7.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "7.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Finlande",
+      "pct": "4.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "[Autres pays]",
+      "pct": "10.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "[Contrats à terme]",
+      "pct": "2.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "24.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "18.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "10.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'information",
+      "pct": "10.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation discrétionnaire",
+      "pct": "9.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "9.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "4.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "4.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "3.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "[Contrats à terme]",
+      "pct": "2.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Giant [ > €20b ]",
+      "pct": "60.7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Large [ €5b - €20b ]",
+      "pct": "23.7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Mid [ €2mds - €5mds ]",
+      "pct": "7.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Small [ 0 - €2mds ]",
+      "pct": "5.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "[Contrats à terme]",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML Holding NV",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Roche Holding Ltd",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Unilever PLC",
+      "pct": "2.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NatWest Group Plc",
+      "pct": "2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banco Bilbao Vizcaya Argentaria",
+      "pct": "2.0"
+    }
+  ]
+}

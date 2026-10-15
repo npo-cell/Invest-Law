@@ -1,0 +1,160 @@
+{
+  "n": "335",
+  "isin": "IE0032126645",
+  "nom": "(I/C)VANGUARD U.S. 500 STOCK INDEX FUND EUR",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2002-09-26",
+  "devise": "EUR",
+  "type_fonds": "Actions américaines",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Global Equity Index Management (GE)",
+  "encours_millions": "17466",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.10",
+  "sri": "4",
+  "indice": "Standard and Poor’s 500 Index",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et vise à répliquer la performance de l’indice Standard and Poor’s 500 (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de grande taille aux États-Unis.\n• Le Fonds s’efforce de : 1. à répliquer la performance de l’Indice en investissant par l’acquisition physique de l’ensemble des constituants de l’Indice, de manière à ce que la pondération de ces investissements reflète au plus près celle de l’Indice. Lorsqu’il ne sera pas possible de la répliquer intégralement, le Fonds utilisera un procédé d’échantillonnage. 2. Rester pleinement investi, sauf dans des conditions politiques, de marché ou autres extraordinaires dans lesquelles le Fonds peut s’écarter temporairement de cette politique d’investissement pour éviter les pertes.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Acc » ; KID : « Vanguard U.S. 500 Stock Index Fund (le \"Fonds\") - EUR Accumulation Shares ». Date de création « 26 septembre 2002 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 17 466 € » (fonds) ; encours de la classe d'actifs 4 102 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.10 % (identique au « Montant des frais courants (MFC) » 0,10 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Global Equity Index Management (GE) » (rubrique « Gestionnaire de portefeuille »). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays ; « Exposition pondérée » (secteurs GICS) en Secteurs ; Positions = « 10 principaux titres » (données au 31 août 2026).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.2",
+    "disclaimer": "factsheet p.4",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA Corp.",
+      "pct": "8.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc.",
+      "pct": "7.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp.",
+      "pct": "5.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc.",
+      "pct": "5.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.com Inc.",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc.",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Meta Platforms Inc.",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Micron Technology Inc.",
+      "pct": "1.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tesla Inc.",
+      "pct": "1.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JPMorgan Chase & Co.",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'information",
+      "pct": "37.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "12.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de Communication",
+      "pct": "9.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "9.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation discrétionnaire",
+      "pct": "9.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "8.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "4.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "3.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "2.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "1.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "États-Unis",
+      "pct": "100.0"
+    }
+  ]
+}

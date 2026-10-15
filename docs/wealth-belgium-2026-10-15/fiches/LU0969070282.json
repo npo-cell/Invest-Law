@@ -1,0 +1,246 @@
+{
+  "n": "114",
+  "isin": "LU0969070282",
+  "nom": "(I/C)ECHIQUIER MAJOR SRI GROWTH EUROPE FUND K EUR",
+  "maison": "La Financière de l'Echiquier",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-22",
+  "date_creation": "2014-01-17",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes (croissance, ISR)",
+  "compartiment": "Compartiment de la SICAV ECHIQUIER FUND gérée par La Financière de l'Echiquier",
+  "gerants": "Adrien Bommelaer, Paul Merle, Marion Cohet Boucheron",
+  "encours_millions": "16",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.21",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "Echiquier Major SRI Growth Europe Fund est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur les marchés des actions européennes et investissant dans des entreprises de croissance leaders dans leurs secteurs. Cet objectif est associé à une démarche de nature extra financière, intégrant la prise en compte de critères environnementaux, sociaux et de gouvernance (ESG). L'indice MSCI EUROPE est un indicateur représentatif de la gestion d'Echiquier Major SRI Growth Europe Fund. L'OPCVM met en œuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking » obtenue au travers de la mise en œuvre d'un processus approfondi d'évaluation des sociétés mises en portefeuille.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Encours « 16 M€ Actif net » tel qu'écrit (montant faible, à contrôler ; non précisé s'il s'agit du compartiment ou de la part). Date de création = « Date de 1ère VNI 17/01/2014 » (compartiment créé le 08/11/2013). Compartiment : texte du KID. Frais de gestion = « Frais de gestion 1,00% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.21% » (identique à la factsheet « Frais au 30/09/2025 ») ; pas de commission de surperformance. Indice laissé vide : le KID dit que l'indice MSCI EUROPE dividendes réinvestis (MSDEE15N) (EUR) est « utilisé uniquement à titre indicatif » (factsheet : « indicateur représentatif de la gestion »). SFDR « Classification SFDR Article 8 », aucun % d'investissements durables écrit. Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 0,6 %) ; graphiques lus par position des étiquettes (barre supérieure / gauche = compartiment, vérifié par les totaux = 100) ; « Autres » pays = 0 % pour le compartiment ; secteur « Autres » sans valeur pour le compartiment, non repris. Positions = 10 principales positions (47,1 %).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ASML",
+      "pct": "9.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banco Santander",
+      "pct": "4.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Intesa Sanpaolo",
+      "pct": "4.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Legrand",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Safran",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Atlas Copco A",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAP",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "L'Oréal",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Siemens",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Iberdrola",
+      "pct": "3.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "FRA",
+      "pct": "18.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DEU",
+      "pct": "16.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "GBR",
+      "pct": "13.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ESP",
+      "pct": "12.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "NLD",
+      "pct": "11.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "SWE",
+      "pct": "8.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ITA",
+      "pct": "6.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "USA",
+      "pct": "5.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DNK",
+      "pct": "3.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "CHE",
+      "pct": "3.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "31.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "IT",
+      "pct": "18.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prod. financiers",
+      "pct": "18.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "8.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. discr.",
+      "pct": "6.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de santé",
+      "pct": "6.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prod. 1ere néces.",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. collectifs",
+      "pct": "3.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. de comm.",
+      "pct": "1.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">100Mds",
+      "pct": "60.1"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "50Mds - 100Mds",
+      "pct": "18.9"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "10Mds - 50Mds",
+      "pct": "21.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "69.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "SEK",
+      "pct": "8.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "7.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "7.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "DKK",
+      "pct": "3.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "CHF",
+      "pct": "3.6"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "n": "8",
+  "isin": "IE000I8KRLL9",
+  "nom": "(ETF)ISHARES MSCI GLOBAL SEMICONDUCTORS EUR",
+  "maison": "BlackRock Asset Management Ireland Ltd",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-07-24",
+  "date_creation": "2021-08-03",
+  "devise": "USD",
+  "type_fonds": "Actions sectorielles (semi-conducteurs)",
+  "compartiment": "Le Fonds est un compartiment d’iShares IV plc, une société à compartiments multiples constituée en Irlande, agréée par la Banque centrale d’Irlande en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "",
+  "encours_millions": "6627.58",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.35",
+  "sri": "5",
+  "indice": "MSCI ACWI IMI Semiconductors & Semiconductor Equipment ESG Screened Capped",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi.",
+  "politique_fr": "Objectifs\nLe Fonds vise un rendement total sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, qui soit similaire au rendement du MSCI ACWI IMI Semiconductors & Semiconductor Equipment ESG Screened Select Capped Index (l’Indice).\n\nLe Fonds est passivement géré et vise à investir dans des titres de participation (par ex. des actions) qui constituent l’Indice.\n\nL’Indice mesure la performance de sociétés de grande, moyenne et petite capitalisation sur les marchés développés et émergents qui répondent aux critères de taille, de liquidité et de flottant de MSCI. Pour plus de détails concernant l’Indice (notamment la méthodologie et ses composantes), veuillez consulter le site Internet du fournisseur d’indices à l’adresse https://www.msci.com/constituents.\n\nL’Indice vise à refléter la performance de titres composant le MSCI ACWI Investable Market Index (IMI) (Indice parent) qui sont classés dans le groupe des semi-conducteurs et des équipements semi-conducteurs selon la Norme mondiale de classification des secteurs (GICS).\n\nL’Indice exclut les sociétés de l’Indice parent sur la base de leur implication dans les activités commerciales suivantes (ou des activités connexes) : armes controversées et nucléaires ; tabac ; armes à feu civiles ; charbon thermique ; sable bitumineux ou armes conventionnelles. L’Indice exclut également les sociétés sur la base de leur score de controverse ESG et qui sont classées comme contrevenant aux principes du Pacte mondial des Nations Unies, tel que déterminé par le fournisseur d’indices. Le Fonds peut obtenir une exposition indirecte (par le biais notamment d’instruments financiers dérivés (« IFD ») (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) et des parts d’organismes de placement collectif) à des titres considérés comme ne répondant pas à ces critères ESG.\n\nLe Fonds entend reproduire l’Indice en détenant tous les titres composant l’Indice dans une proportion similaire à leur pondération dans l’Indice.\n\nLes IFD peuvent être utilisés à des fins d’investissement direct. Afin de gagner une exposition à certains titres de marchés émergents qui constituent l’Indice, le Fonds peut investir dans des American Depositary Receipts (ADR) et des Global Depositary Receipts (GDR). Les ADR et les GDR sont des instruments émis par des institutions financières qui offrent une exposition aux titres de participation sous-jacents.\n\nLe Fonds peut également s’engager dans des prêts garantis à court terme de ses investissements à certains tiers éligibles pour générer des revenus supplémentaires afin de compenser les coûts du Fonds.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Part « U.S. Dollar (Capitalisation) » / « USD Accu » : devise de la part USD (factsheet et KID) alors que le nom One Life se termine par EUR. Politique prise du KID (section « Objectifs ») : la factsheet ne contient qu'une phrase d'aperçu et des « principaux avantages » commerciaux. Date de création = date de lancement de la catégorie d'actions (03-août-2021, identique au fonds). Encours = « Encours sous gestion (M) : 6.627,58 USD » au 30/09/2026. Frais : KID « Frais de gestion et autres coûts administratifs ou frais d’exploitation 0,35 % » ; factsheet « Ratio des charges totales : 0,35% » ; pas de frais de gestion séparés. Indice : nom du tableau « Points clés » de la factsheet ; l'aperçu de la factsheet écrit « MSCI ACWI IMI Semiconductors & Semiconductor Equipment Select ESG Screened Capped Index » et le KID « MSCI ACWI IMI Semiconductors & Semiconductor Equipment ESG Screened Select Capped Index ». SFDR article 8 (factsheet), aucun % d'investissements durables écrit. Gérants : aucun nom. Allocations : seules les 10 principales positions sont en texte ; secteurs et répartition géographique sont des graphiques sans valeurs lisibles dans le texte du PDF (non repris). Avertissement AMF en p.1 sur une communication disproportionnée sur les critères extra-financiers.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "KID p.1",
+    "source_politique": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ADVANCED MICRO DEVICES",
+      "pct": "8.91"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICRON TECHNOLOGY",
+      "pct": "7.72"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+      "pct": "7.21"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA",
+      "pct": "7.13"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BROADCOM INC",
+      "pct": "6.58"
+    },
+    {
+      "type": "Positions",
+      "libelle": "INTEL CORPORATION",
+      "pct": "5.28"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK HYNIX",
+      "pct": "4.98"
+    },
+    {
+      "type": "Positions",
+      "libelle": "LAM RESEARCH",
+      "pct": "4.36"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING",
+      "pct": "4.21"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLIED MATERIAL INC",
+      "pct": "4.21"
+    }
+  ]
+}

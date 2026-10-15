@@ -1,0 +1,165 @@
+{
+  "n": "108",
+  "isin": "LU3076252967",
+  "nom": "(I/C)DPAM L EQUITIES EUROPE DEFENCE W EUR",
+  "maison": "CA Indosuez Wealth (Europe)",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-08-31",
+  "date_creation": "2025-07-09",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes sectorielles (défense)",
+  "compartiment": "Compartiment de DPAM L, SICAV de droit luxembourgeois",
+  "gerants": "",
+  "encours_millions": "68.19",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.60",
+  "frais_courants": "0.9",
+  "sri": "5",
+  "indice": "",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "6",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Les rendements peuvent augmenter ou diminuer en raison des fluctuations monétaires.",
+  "politique_fr": "Objectif(s): Augmenter la valeur de votre investissement à long terme.\n\nIndice de reference: MSCI Europe Aerospace & Defense Net Total Return Index. Utilisation : uniquement à des fins de comparaison de performance.\n\nPolitique d’investissement: Dans des conditions normales de marché, le compartiment investit principalement en actions de sociétés européennes actives dans le secteur de la défense. Toutefois, le compartiment n’investit pas dans des sociétés impliquées dans la production d’armes non conventionnelles telles que les mines antipersonnel et les munitions à sous-munitions. Le compartiment peut utiliser des instruments dérivés afin de se couvrir contre les fluctuations de marché et de réduire ses coûts, ainsi que pour générer des revenus supplémentaires.\n\nProcessus d’investissement: Dans le cadre de la gestion active du compartiment, le gestionnaire utilise des analyses de marché afin de sélectionner des titres qu’il estime être les mieux positionnés pour bénéficier d’une augmentation des dépenses militaires en Europe. La sélection et la pondération des actifs dans le portefeuille du compartiment et, par conséquent, sa performance peuvent s’écarter significativement de l’indice de référence.\n\nApproche ESG: Le gestionnaire n’intègre pas systématiquement les facteurs environnementaux, sociaux et de gouvernance (ESG) dans son analyse des risques et des opportunités et peut investir dans des émetteurs présentant un faible profil ESG. Catégorie SFDR: Article 6.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Maison One Life « CA Indosuez Wealth (Europe) » : la factsheet indique « Société de gestion CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit luxembourgeois » et « Gestion de portefeuille Degroof Petercam Asset Management, SA de droit belge ». Date de création = « Date de la 1ère VNI (classe d'action) 09.07.2025 » (« Création du compartiment 01.07.2025 ») ; historique < 1 an de volatilité non calculée. Encours « Taille (toutes classes) mn EUR 68.19 ». Frais de gestion = « *dont frais de gestion 0.60% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 0,9% » (la factsheet indique 0.92%) ; pas de commission de performance. Indice laissé vide : « MSCI Europe Aerospace & Defense Net Total Return Index » utilisé « uniquement à des fins de comparaison de performance ». Aucun gérant nommé. SFDR « Catégorie SFDR: Article 6 ». Classification Agressif : actions sectorielles défense (SRI 5). Politique : bloc « Politique d'investissement du compartiment » de la factsheet (conforme au KID), sans les phrases finales sur la conformité au KID et l'absence de garantie. Allocations : colonne Fonds seulement ; Positions = Top 10.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Rolls-Royce Holdings",
+      "pct": "9.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Airbus Group",
+      "pct": "6.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Safran",
+      "pct": "5.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Leonardo S.p.a.",
+      "pct": "5.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Hensoldt Ag",
+      "pct": "4.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Saab Ab Class B",
+      "pct": "4.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Thales Sa",
+      "pct": "4.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Renk Group Ag",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Kongsberg Gruppen Asa",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Rheinmetall (ord)",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "82.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'information",
+      "pct": "8.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "7.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation cyclique",
+      "pct": "1.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "0.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "EMU",
+      "pct": "70.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe ex-EMU",
+      "pct": "28.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Reste du monde",
+      "pct": "1.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités",
+      "pct": "0.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "72.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre sterling",
+      "pct": "14.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne suédoise",
+      "pct": "9.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne norvégienne",
+      "pct": "4.0"
+    }
+  ]
+}

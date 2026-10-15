@@ -1,0 +1,97 @@
+{
+  "n": "7",
+  "isin": "IE00B4L5Y983",
+  "nom": "(ETF)ISHARES CORE MSCI WORLD UCITS EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-09-03",
+  "date_creation": "2009-09-25",
+  "devise": "USD",
+  "type_fonds": "Actions internationales",
+  "compartiment": "Le Fonds est un compartiment d’iShares III plc, une société à compartiments multiples constituée en Irlande, agréée par la Banque centrale d’Irlande en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "",
+  "encours_millions": "151362.25",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.20",
+  "sri": "4",
+  "indice": "MSCI World Index (Net)",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi.",
+  "politique_fr": "Objectifs\nLa Catégorie d’actions est une catégorie d’actions d’un Fonds qui vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, qui soit similaire au rendement du MSCI World Index, l’indice de référence du Fonds (Indice).\n\nLa Catégorie d’actions, par l’intermédiaire du Fonds, est passivement gérée et vise à investir, autant que possible, dans des titres de participation (par ex. des actions) qui constituent l’Indice.\n\nL’Indice mesure la performance de sociétés de grande et moyenne capitalisation de pays développés du monde entier. Les sociétés sont incluses dans l’Indice sur la base d’une pondération en fonction de la capitalisation boursière du flottant. Le terme « flottant » signifie que seules les actions disponibles pour les investisseurs internationaux, plutôt que l’ensemble des actions émises par la société, sont utilisées dans le calcul de l’Indice. La capitalisation boursière du flottant est le cours de l’action d’une société multiplié par le nombre d’actions disponibles pour les investisseurs internationaux.\n\nLe Fonds recourt à des techniques d’optimisation pour atteindre un rendement similaire à celui de l’Indice. Ces techniques peuvent comprendre la sélection stratégique de certains titres qui constituent l’Indice ou d’autres titres qui fournissent une performance similaire à certains titres constituant l’Indice. Elles peuvent également comprendre l’utilisation d’instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents). Les IFD peuvent être utilisés à des fins d’investissement direct.\n\nLe Fonds peut également s’engager dans des prêts garantis à court terme de ses investissements à certains tiers éligibles pour générer des revenus supplémentaires afin de compenser les coûts du Fonds.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Part « U.S. Dollar (Capitalisation) » / « USD Accu » : devise de la part USD (factsheet et KID) alors que le nom One Life se termine par EUR. Maison : le fichier One Life indique GOLDMAN SACHS AM, mais les documents sont ceux d'iShares (BlackRock Asset Management Ireland Limited, iShares III plc). Politique prise du KID (section « Objectifs ») : la factsheet ne contient qu'une phrase d'aperçu et des « principaux avantages » commerciaux. Date de création = date de lancement de la catégorie d'actions (25-sept.-2009, identique au fonds). Encours = « Encours sous gestion (M) : 151.362,25 USD » (fonds) au 30/09/2026 ; actif net de la catégorie : 147.192,36 M USD. Frais : KID « Frais de gestion et autres coûts administratifs ou frais d’exploitation 0,20 % » ; factsheet « Ratio des charges totales : 0,20% » ; pas de frais de gestion séparés. Indice : « MSCI World Index (Net) » (factsheet) ; le KID écrit « MSCI World Index ». SFDR : factsheet « Classification SFDR : Autre » → vide. Gérants : aucun nom. Allocations : seules les 10 principales positions sont en texte ; secteurs et répartition géographique sont des graphiques sans valeurs lisibles dans le texte du PDF (non repris).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "KID p.1",
+    "source_politique": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA",
+      "pct": "5.79"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLE",
+      "pct": "5.39"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICROSOFT",
+      "pct": "3.99"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AMAZON.COM INC",
+      "pct": "2.66"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALPHABET CLASS A",
+      "pct": "2.23"
+    },
+    {
+      "type": "Positions",
+      "libelle": "META PLATFORMS CLASS A",
+      "pct": "1.76"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALPHABET CLASS C",
+      "pct": "1.76"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BROADCOM INC",
+      "pct": "1.75"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICRON TECHNOLOGY",
+      "pct": "1.33"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TESLA INC",
+      "pct": "1.12"
+    }
+  ]
+}

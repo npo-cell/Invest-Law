@@ -1,0 +1,153 @@
+{
+  "n": "235",
+  "isin": "LU1849527855",
+  "nom": "(I/C)ODDO BHF EXKLUSIV POLARIS BAL CN EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2019-02-12",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "",
+  "gerants": "Tilo Wannow",
+  "encours_millions": "1011",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.15",
+  "frais_courants": "1.35",
+  "sri": "3",
+  "indice": "20% MSCI USA NET in EUR + 25% MSCI Europe (Net Return) + 5% MSCI Emerging Markets Daily Net TR EUR + 5% JPM Cash Index Euro Currency 1M + 45% Bloomberg Euro Aggregate TR Unhedged 1-10",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nDepuis 2007, ODDO BHF Polaris Balanced offre une solution d'investissement globale, diversifiée et équilibrée. Elle se caractérise par une allocation actions comprise entre 35 % et 60 % et un panier obligataire investi principalement dans des obligations de qualité Investment Grade. Le portefeuille est composé de titres cotés ou négociés sur des marchés réglementés, principalement en Europe, aux Etats-Unis ou sur les marchés émergents.\nLe fonds vise une appréciation du capital dans la durée tout en limitant les fluctuations de marché. Dans le même temps, les critères environnementaux, sociaux et de gouvernance d'entreprise (ESG) sont pleinement pris en compte dans le processus d'investissement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Compartiment laissé vide : la factsheet indique « Statut juridique : Compartiment de ODDO BHF Exklusiv » alors que le KID du 16/04/2026 indique « Un compartiment de la SICAV ODDO BHF II » (à vérifier). Date de création de la part (1ère VL) 12/02/2019 ; fonds créé le 23/10/2007. Gérants : la factsheet cite « ODDO BHF SE, Tilo Wannow » ; ODDO BHF SE (société, gestionnaire par délégation) non reprise. Frais de gestion fixes 1,15% p.a. (factsheet). Frais courants KID 1,35 % (factsheet 1.349 %). Commission de surperformance : 10 % au-delà de l'€STER + 400 pb (factsheet) ; le KID parle de « Jusqu’à 10 % de la surperformance […] par rapport à la performance de l’indice de référence ». Indice composite de la factsheet ; le KID le décrit (libellés légèrement différents) comme base de la gestion du risque et indice à surperformer. Duration : « Duration modifiée au pire 4,3 » de la poche obligataire seulement (fonds multi-actifs), non reprise. SFDR article 8 (KID), aucun % d'investissements durables écrit. Allocations : tableau « Répartition de l'allocation d'actifs » (poids du mois, colonne « vs m-1 » ignorée) ; les zones géographiques sont celles de la poche actions en % du fonds ; « Xetra Gold » (= Gold) et « Exposition nette d'actions » non repris. Répartitions sectorielle, géographique, par devises, notation et maturité en graphiques sans texte, non reprises ; contributions exclues. Positions = « 10 principales positions (en absolu) ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1 et avertissement",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Xetra-Gold",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Oddo Bhf Emerging Markets Ciw-Eur",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nvidia Corp",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor-Sp Adr",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Thermo Fisher Scientific Inc",
+      "pct": "1.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Oddo Bhf Euro Credit Short Duration Cp-Eur",
+      "pct": "1.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Visa Inc-Class A Shares",
+      "pct": "1.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc-Cl C",
+      "pct": "1.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc",
+      "pct": "1.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "50.67"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "39.76"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Gold",
+      "pct": "3.57"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Monétaire & Autres",
+      "pct": "6.00"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations Investment Grade",
+      "pct": "36.95"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations High Yield",
+      "pct": "2.12"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations des pays émergents",
+      "pct": "0.69"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du nord",
+      "pct": "22.81"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Zone euro",
+      "pct": "12.54"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Le reste de l'Europe",
+      "pct": "9.94"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Le reste du monde",
+      "pct": "5.38"
+    }
+  ]
+}

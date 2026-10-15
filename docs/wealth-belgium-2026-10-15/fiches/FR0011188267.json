@@ -1,0 +1,221 @@
+{
+  "n": "118",
+  "isin": "FR0011188267",
+  "nom": "(I/C)ECHIQUIER WORLD EQUITY GROWTH I EUR",
+  "maison": "LA FINANCIERE DE L'ECHIQUIER",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-07-31",
+  "date_creation": "2012-02-06",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "Compartiment de la SICAV ECHIQUIER",
+  "gerants": "David Ross, Louis Bersin, Emilie Deslogis",
+  "encours_millions": "1240",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.93",
+  "frais_courants": "1.02",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "Objectifs\nEchiquier World Equity Growth est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur des valeurs de croissance des marchés internationaux. Le fonds cherche à investir dans des valeurs présentant des positions affirmées de leadership global dans leur secteur.\n\nL'indice MSCI All Country World Index pourra être utilisé comme indicateur de comparaison a posteriori de la performance.\n\nCet indice, utilisé uniquement à titre indicatif est calculé en euros et dividendes réinvestis par MSCI. Il regroupe 50 pays dont des pays développés et des pays émergents. L’attention du souscripteur est attirée sur le fait que la composition du portefeuille pourra s’éloigner sensiblement de celle de son indicateur de référence.\n\nL'OPCVM met en œuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking ».\n\nLa stratégie d'investissement vise à sélectionner les valeurs offrant la meilleure croissance actuelle ou potentielle, les leaders sur des marchés de taille significative sur toutes les zones géographiques.\n\nEchiquier World Equity Growth est exposé à hauteur de 60% au moins sur les marchés actions de la zone euro et/ou internationaux et pays émergents.\n\nLes actifs du fonds sont composés pour l'essentiel de grandes capitalisations. Les actifs du fonds sont composés pour l'essentiel de grandes capitalisations.\n\nLe fonds se réserve la possibilité dans une limite de 10% d'investir dans des petites et moyennes capitalisations.\n\nL'analyse fondamentale réalisée par l'équipe de gestion se fonde sur les critères suivants :\n- Analyse du management de l'entreprise\n- Qualité de sa structure financière\n- La visibilité sur les futurs résultats de l'entreprise\n- L'analyse des résultats financiers\n- Les perspectives de croissance de son métier\n- L'aspect spéculatif de la valeur\n\nL'OPCVM se réserve la possibilité d'investir à hauteur de 40% maximum en produits de taux.\n\nLors de l'acquisition et du suivi en cours de vie des titres, l'appréciation du risque de crédit repose sur la recherche et l'analyse interne de La Financière de l'Echiquier ainsi que sur les notations proposées par les agences.\n\nLes titres obligataires concernés sont des titres réputés « Investment grade », à savoir notes au minimum BBB- par Standard & Poor's ou équivalent ou considérés comme tels par l'équipe de gestion.\n\nLes instruments financiers à terme, négociés ou non sur des marchés réglementés ou de gré à gré, peuvent être utilisés, à titre exceptionnel, pour :\n-Couvrir le portefeuille contre le risque de change, et également contre le risque action lorsque le gérant anticipe une forte dégradation de la performance du marché ;\n-Exposer ponctuellement le portefeuille au risque lors de mouvements de souscriptions importants. En aucun cas, le fonds n'entend mettre en œuvre de stratégie de surexposition du portefeuille au risque action.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Date de création = « Date de 1ère VL 06/02/2012 » (factsheet) ; compartiment créé le 16/04/2010, SICAV le 04/12/2012. Encours « 1 240 M€ Actif net » (factsheet). Frais de gestion « 0,93% TTC max. » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 1.02 % (identique à la factsheet). Indice vide : la factsheet indique « Indice MSCI ACWI NET RETURN EUR » mais le KID précise que l'indice MSCI All Country World Index « pourra être utilisé comme indicateur de comparaison a posteriori » et est « utilisé uniquement à titre indicatif » ; la factsheet ajoute que l'indice n'est pas aligné avec les caractéristiques ESG. Politique : factsheet limitée à deux phrases de présentation, donc section « Objectifs » du KID p.1 (deux colonnes, recollées dans l'ordre) ; la phrase « Les actifs du fonds sont composés pour l'essentiel de grandes capitalisations. » figure deux fois dans le KID, recopiée telle quelle. Allocations géographiques et sectorielles (graphiques fonds/indice) : seules les valeurs du fonds (barre supérieure) retenues, vérifiées par coordonnées ; secteur « Autres » du fonds sans valeur affichée (non repris, total secteurs 99.8). Positions : secteurs abrégés dans la factsheet non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1 / KID p.3",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "KID p.1",
+    "source_politique": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Microsoft",
+      "pct": "9.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon",
+      "pct": "9.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Visa",
+      "pct": "8.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Mastercard",
+      "pct": "8.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Itau Unibanco Pref",
+      "pct": "4.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nvidia",
+      "pct": "4.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TSMC ADR",
+      "pct": "4.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TE Connectivity",
+      "pct": "4.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Weg SA",
+      "pct": "4.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AIA",
+      "pct": "4.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "USA",
+      "pct": "64.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "BRA",
+      "pct": "9.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "JPN",
+      "pct": "8.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "KOR",
+      "pct": "5.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "TWN",
+      "pct": "5.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "HKG",
+      "pct": "4.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DEU",
+      "pct": "2.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "IT",
+      "pct": "33.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prod. financiers",
+      "pct": "26.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "14.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de santé",
+      "pct": "11.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. discr.",
+      "pct": "10.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. de comm.",
+      "pct": "4.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">500Mds",
+      "pct": "51.7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "100Mds - 500Mds",
+      "pct": "21.0"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "50Mds - 100Mds",
+      "pct": "15.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "10Mds - 50Mds",
+      "pct": "12.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "69.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "BRL",
+      "pct": "9.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "JPY",
+      "pct": "8.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "KRW",
+      "pct": "5.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "HKD",
+      "pct": "4.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "2.3"
+    }
+  ]
+}

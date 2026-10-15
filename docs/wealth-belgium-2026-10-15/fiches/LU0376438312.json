@@ -1,0 +1,102 @@
+{
+  "n": "41",
+  "isin": "LU0376438312",
+  "nom": "(I/C)BGF WORLD TECHNOLOGY FUND D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-04-29",
+  "date_creation": "2008-07-22",
+  "devise": "EUR",
+  "type_fonds": "Actions sectorielles (technologie)",
+  "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "Tony Kim, Reid Menge",
+  "encours_millions": "19749.22",
+  "encours_devise": "USD",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.75",
+  "frais_courants": "1.06",
+  "sri": "5",
+  "indice": "MSCI ACWI Information Technology 10/40 Index EUR",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale le secteur technologique.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site web de BlackRock à l’adresse www.blackrock.com/baselinescreens",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 22-juil.-2008 » (fonds lancé le 03-mars-1995). Encours « Encours sous gestion (M) : 19.749,22 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID 1,06 % (= « Frais courants : 1,06% » factsheet). Indice : factsheet « Contrainte 1 : MSCI ACWI Information Technology 10/40 Index EUR » ; le KID (« MSCI AC World Information Technology 10/40 Index ») précise qu'il sert à la construction du portefeuille, à la gestion des risques et que les investisseurs doivent l'utiliser pour comparer la performance. SFDR « Article 8 » (factsheet), aucun % durable écrit. Politique : « Aperçu du fonds » de la factsheet (version abrégée de la section « Objectifs » du KID). Allocations : seules les 10 principales positions ; les graphiques « Répartition des secteurs », « Répartition géographique » et « Capitalisation boursière » ont des étiquettes non extractibles en texte et ne sont pas repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA",
+      "pct": "8.73"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICROSOFT",
+      "pct": "6.86"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BROADCOM INC",
+      "pct": "6.36"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLE",
+      "pct": "5.04"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAMSUNG ELECTRONICS LTD",
+      "pct": "4.89"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+      "pct": "4.36"
+    },
+    {
+      "type": "Positions",
+      "libelle": "LAM RESEARCH",
+      "pct": "4.03"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ADVANCED MICRO DEVICES",
+      "pct": "4.01"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALPHABET CLASS A",
+      "pct": "2.98"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SPACE EXPLORATION TECHNOLOGIES COR",
+      "pct": "2.81"
+    }
+  ]
+}

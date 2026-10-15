@@ -1,0 +1,227 @@
+{
+  "n": "287",
+  "isin": "LU2145462300",
+  "nom": "(I/C)ROBECO SMART ENERGY EQUITIES F EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-07-16",
+  "date_creation": "2020-10-29",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (énergie)",
+  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+  "gerants": "Roman Boner, Michael Studer, Sanaa Hakim",
+  "encours_millions": "4986.771952",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.75",
+  "frais_courants": "0.97",
+  "sri": "5",
+  "indice": "MSCI All Country World Index (Net Return, EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+  "politique_fr": "À propos du fonds\nRobeco Smart Energy est un fonds à gestion active qui investit à l'échelle mondiale dans des entreprises actives dans la production d'énergie propre, l'infrastructure et la gestion de l'énergie, ainsi que dans des solutions qui améliorent l'efficacité énergétique dans des secteurs tels que l'industrie, les bâtiments, les transports ou les centres de données. La sélection de ces titres est basée sur une analyse fondamentale. Le fonds a pour objectif l'investissement durable au sens de l'Article 9 du Règlement (UE) 2019/2088 du 27 novembre 2019 sur la publication d'informations en matière de durabilité dans le secteur financier. Le fonds vise également une performance supérieure à l'indice de référence. Le processus de sélection de titres intègre les critères de durabilité grâce à l'évaluation de la durabilité spécifique à la thématique. Le portefeuille est basé sur un univers d'investissement éligible qui comprend des sociétés dont les business models contribuent aux objectifs d'investissement thématique. L'évaluation relative aux ODD concernés est basée sur un cadre développé en interne. Pour en savoir plus, consultez www.robeco.com/si.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Gérants : « Roman Boner, Michael Studer PhD, Sanaa Hakim » (titre PhD non repris). Date de lancement 29/10/2020 : à cette date le fonds a absorbé « Multipartner SICAV - Robeco Smart Energy Fund » (performances antérieures simulées). Indice : l'objectif est « une performance supérieure à l'indice de référence » → retenu ; « Avec effet au 16 juillet 2026, l'indice de référence est passé de l'indice MSCI World à l'indice MSCI All Country World » ; le KID mentionne aussi un indice « transition climatique » de Bloomberg personnalisé pour le profil carbone (non repris). SFDR article 9 (factsheet et KID), aucun % d'investissements durables écrit. Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,97 % (identiques aux « Frais courants » de la factsheet). SFDR article 9 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Infineon Technologies AG",
+      "pct": "3.78"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Marvell Technology Inc",
+      "pct": "3.74"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SSE PLC",
+      "pct": "3.63"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Quanta Services Inc",
+      "pct": "3.56"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Delta Electronics Inc",
+      "pct": "3.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ARM Holdings PLC ADR",
+      "pct": "3.42"
+    },
+    {
+      "type": "Positions",
+      "libelle": "nVent Electric PLC",
+      "pct": "3.41"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Zhongji Innolight Co Ltd",
+      "pct": "3.24"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Prysmian SpA",
+      "pct": "2.94"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Renesas Electronics Corp",
+      "pct": "2.92"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "97.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'Information",
+      "pct": "46.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "43.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux Collectivités",
+      "pct": "6.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "4.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Not Classified",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de Consommation de Base",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériels",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amerique",
+      "pct": "46.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "l'Europe",
+      "pct": "26.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asia",
+      "pct": "26.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Moyen-Orient",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Afrique",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar Américain",
+      "pct": "50.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "15.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yuan",
+      "pct": "7.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen japonais",
+      "pct": "7.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar de Taiwan",
+      "pct": "5.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "13.3"
+    }
+  ]
+}

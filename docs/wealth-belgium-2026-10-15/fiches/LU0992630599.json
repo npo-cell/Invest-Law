@@ -1,0 +1,255 @@
+{
+  "n": "66",
+  "isin": "LU0992630599",
+  "nom": "(I/C)CARMIGNAC PF GLOBAL BOND F EUR ACC",
+  "maison": "CARMIGNAC GESTION",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2013-11-15",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "Carmignac Portfolio Global Bond est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+  "gerants": "Guillaume Rigeade",
+  "encours_millions": "513",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.84",
+  "sri": "2",
+  "indice": "JPM Global Government Bond index",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "4.4 (sensibilité)",
+  "qualite_emetteurs": "BBB+",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Global Bond est un fonds obligataire international (UCITS) qui met en œuvre des stratégies de taux, de crédit et de change afin d’exploiter les opportunités offertes par le cycle macroéconomique global. Son approche dynamique et flexible lui permet de déployer une allocation de conviction et « non benchmarkée » pour tirer pleinement parti des multiples moteurs de performance qu'offre l’univers obligataire. Le Fonds promeut des caractéristiques environnementales et sociales et a pour objectif de surperformer son indicateur de référence sur une durée minimale de placement recommandée de trois ans.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/11/2013) ; le compartiment a été lancé le 14/12/2007. Encours = « Actifs sous gestion du Fonds : 513M€ » (encours de la part : 85M€). Gérant : Guillaume Rigeade « depuis le 03/11/2025 ». Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 0,84 % (= frais courants, identique au KID p.3) ; commission liée aux résultats 20 % de la surperformance. Indice : factsheet « JPM Global Government Bond index. » (KID : « l'indice JPM Global Government Bond », objectif de surperformance). SRI 2 (KID : « classe de risque 2 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 0% ». Duration = « Sensibilité taux 4,4 » ; qualité = « Notation moyenne BBB+ » (valeur décalée dans l’extraction, ordre vérifié : notation BBB+, coupon 4,1 %). Allocations : notations « Poids rebasés » ; maturités « basées sur la prochaine date d'appel lorsque disponible » ; devises = « Exposition nette par devise » (valeurs négatives gardées) ; classes d’actifs : 1er et 2e niveaux repris (total supérieur à 100 %), 3e niveau non repris (libellés « Pays émergents » répétés, ambigus) ; Credit Default Swap négatif (-20,4 %) gardé tel quel ; sensibilité par courbe de taux non reprise.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "82.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts d'Etat",
+      "pct": "63.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts privés",
+      "pct": "17.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Collateralized Loan Obligation (CLO)",
+      "pct": "2.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "0.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Credit Default Swap",
+      "pct": "-20.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Monétaire",
+      "pct": "9.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+      "pct": "7.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "< 1 an",
+      "pct": "28.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 3 ans",
+      "pct": "18.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3 - 5 ans",
+      "pct": "22.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 - 7 ans",
+      "pct": "6.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "7 -10 ans",
+      "pct": "14.0"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "> 10 ans",
+      "pct": "10.2"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "7.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "15.9"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "44.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB",
+      "pct": "25.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "6.2"
+    },
+    {
+      "type": "Notations",
+      "libelle": "CCC",
+      "pct": "1.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "C",
+      "pct": "0.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "45.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Franc suisse",
+      "pct": "-0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar US",
+      "pct": "13.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre Sterling",
+      "pct": "-3.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen",
+      "pct": "17.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc $ (AUD et CAD)",
+      "pct": "4.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc LATAM",
+      "pct": "13.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc EEMA",
+      "pct": "7.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Bloc Asie ex Japon",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "1.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 0.65% 28/10/2027",
+      "pct": "6.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNITED STATES 1.25% 15/04/2031",
+      "pct": "6.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALY 1.60% 28/06/2030",
+      "pct": "5.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "POLAND 2.00% 25/08/2036",
+      "pct": "4.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "HUNGARY 4.50% 16/06/2034",
+      "pct": "3.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "OMAN 6.75% 28/10/2027",
+      "pct": "3.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SOUTH AFRICA 9.00% 31/01/2040",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SPAIN 2.50% 31/05/2027",
+      "pct": "2.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "HUNGARY 3.00% 21/08/2030",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SOUTH AFRICA 4.85% 27/09/2027",
+      "pct": "1.6"
+    }
+  ]
+}

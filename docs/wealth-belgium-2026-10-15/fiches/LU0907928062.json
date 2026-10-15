@@ -1,0 +1,207 @@
+{
+  "n": "107",
+  "isin": "LU0907928062",
+  "nom": "(I/C)DPAM L BONDS EMERGING MKT SUS CAP F EUR",
+  "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-08-31",
+  "date_creation": "2013-03-18",
+  "devise": "EUR",
+  "type_fonds": "Obligataire (marchés émergents)",
+  "compartiment": "Un compartiment de DPAM L, SICAV publique de droit luxembourgeois",
+  "gerants": "",
+  "encours_millions": "5727.63",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.50",
+  "frais_courants": "0.6",
+  "sri": "3",
+  "indice": "Aucun",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "5.05 ans",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance does not predict future returns. Returns may increase or decrease as a result of currency fluctuations.",
+  "politique_fr": "",
+  "politique_en": "INVESTMENT UNIVERSE\nThe fund mainly invests in bonds, including bonds with low ratings, issued by governments (or related bodies) in the emerging markets and denominated in any currency. The fund may use derivatives in order to take advantage of or hedge against market fluctuations, or for efficient portfolio management. In the active management of the fund, the manager selects securities with the potential for an advantageous return in relation to the risk incurred on the basis of criteria that are both financial and related to sustainable development (such as, for example, respect for the environment or socially equitable governance). The sub-fund is actively managed and no benchmark is used.",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Institutional Factsheet » en anglais (politique en EN, disclaimer en EN) ; KID en français (sa section « Objectifs et politique d'investissement » contient une version FR plus détaillée). Société de gestion : le KID indique « DPAM L est géré par la société de gestion CA Indosuez Fund Solutions S.A. » (maison One Life : DEGROOF PETERCAM ASSET SERVICES S.A.). Date de création = « First NAV date 18.03.2013 » (identique à « Sub-fund launch »). Compartiment : texte du KID p.1 (la factsheet indique seulement « Sub-fund of DPAM L », SICAV, Luxembourg). Encours « Assets (all classes) mn EUR 5'727.63 ». Frais de gestion = « *included management fee 0.50% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 0,6% » (la factsheet indique « Man. fees and other operating costs* 0.63% »). Indice « Aucun » : « no benchmark is used » (KID : « Le fonds est géré sans référence à un indice »). SFDR « SFDR Art 9 » (factsheet) / « Article 9 » (KID), aucun % d'investissements durables écrit. Duration = « Duration (Years) 5.05 » (modified duration 4.67 %, maturité 6,91 ans, yield to worst 8,03 %). Qualité moyenne non indiquée. Aucun gérant nommé. Classification Défensif : obligataire (souverain émergent, SRI 3) ; risque plus élevé qu'un obligataire classique. Allocations : pas de principales positions publiées ; « Countries » (Pays), « Currencies after hedging » (Devises), « Credit Ratings (Scale S&P) » (Notations) ; tableau « Modified Durations » (répartition par tranche de sensibilité) non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Pays",
+      "libelle": "Brazil",
+      "pct": "9.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Mexico",
+      "pct": "9.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "South Africa",
+      "pct": "6.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Czech Republic",
+      "pct": "5.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Malaysia",
+      "pct": "5.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Romania",
+      "pct": "5.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Poland",
+      "pct": "5.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Indonesia",
+      "pct": "5.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "South Korea",
+      "pct": "4.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "India",
+      "pct": "4.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Other",
+      "pct": "35.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Cash",
+      "pct": "3.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Other",
+      "pct": "35.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Mexican peso",
+      "pct": "9.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Indian rupee",
+      "pct": "7.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Brazilian real",
+      "pct": "7.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "South African rand",
+      "pct": "6.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "6.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Polish zloty",
+      "pct": "6.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Indonesian rupiah",
+      "pct": "5.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Czech koruna",
+      "pct": "5.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Malaysian ringgit",
+      "pct": "5.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Romanian leu",
+      "pct": "4.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "3.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "10.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "13.4"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "35.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB",
+      "pct": "24.9"
+    },
+    {
+      "type": "Notations",
+      "libelle": "B",
+      "pct": "8.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "C-Category",
+      "pct": "2.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Cash",
+      "pct": "3.1"
+    }
+  ]
+}

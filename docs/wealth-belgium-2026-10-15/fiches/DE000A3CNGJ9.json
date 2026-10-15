@@ -1,0 +1,243 @@
+{
+  "n": "268",
+  "isin": "DE000A3CNGJ9",
+  "nom": "(I/C)PTAM GLOBAL ALLOCATION I EUR",
+  "maison": "PT Asset Management GmbH",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-01-24",
+  "date_creation": "2021-09-01",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "fonds commun de placement OPCVM établi en Allemagne (UCITS)",
+  "gerants": "",
+  "encours_millions": "336.51",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.975",
+  "frais_courants": "1.1",
+  "sri": "3",
+  "indice": "Aucun",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "6.67",
+  "qualite_emetteurs": "A+",
+  "disclaimer": "Past performance is not a reliable indicator of future performance. There is the risk that the investor will suffer a financial loss as a result of the investment acquired.",
+  "politique_fr": "",
+  "politique_en": "Fund portrait\nThe fund's investment objective is to achieve the highest possible capital appreciation. To achieve this, the fund invests in long-term fixed-income securities issued by governments or high-quality companies (\"large caps\"), equities and real estate stocks, and money market instruments.\n\nThe selection and weighting in the individual asset classes shall be based on macroeconomic analyses, i.e. the examination of macroeconomic correlations. Accordingly, rebalancing of the asset classes is to be based on the development of macroeconomic parameters such as interest rates, interest rate differentials, risk premiums and liquidity risk indicators.\n\nBy adjusting the investment focus to changing market conditions, the intention is to reduce price declines in the fund assets as far as possible and to secure capital gains achieved in the meantime within an investment horizon of 6 to 8 years. At the same time, these adjustments are intended to reduce high fluctuations in the share price as far as possible.",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet en anglais (« Status: 09/30/2026 ») ; KID en français. Date de création = « Launch date 09/01/2021 » (tableau de la part I, format mois/jour : la première période de performance « 10/01/2020 - 09/30/2021* » est marquée « since launch »). Encours « Total fund assets 336.51 million EUR ». Frais de gestion = « Management fee therefrom 0.975 % p.a. » ; frais courants KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,1 % (factsheet : « Total expense ratio 1.08 % ») ; commission de performance (« during the last fiscal year 0.14 % »). Indice « Aucun » : le KID indique que le gestionnaire « n’a recours à aucune valeur de référence » ; seule la commission de performance utilise un benchmark (KID : « 12M €STR (EU000A2QQF57) + 1% »). Gérant laissé vide : « Fund manager » = PT Asset Management GmbH (société) ; la factsheet nomme Prof. Stefan Duchateau comme « advisor » (conseiller), non repris. Duration « 6.67 » et « Average rating A+ » = chiffres clés de la factsheet (concernent la poche obligataire, 13,1 % du fonds) ; « Mod. Duration 6.4 ». SFDR article 8 (factsheet et KID). Classification Dynamique : actions 76,8 % (minimum 25 %) malgré un SRI 3. Politique : « Fund portrait » de la factsheet (EN) ; le KID FR contient une version plus longue. Allocations : Classes d'actifs = « Asset Allocation » ; Maturités = « Breakdown by duration » (% du fonds, poche obligataire seulement, positions vérifiées) ; Devises (total 100) ; Secteurs = « Breakdown by industries » (part actions, total 76.8) ; Positions = « Top securities ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "factsheet p.2",
+    "duration": "factsheet p.2",
+    "qualite_emetteurs": "factsheet p.2",
+    "disclaimer": "factsheet p.1, p.4",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA CORP. DL-,001",
+      "pct": "5.24"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SPANIEN 19/35",
+      "pct": "4.02"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALIEN 24/34",
+      "pct": "3.01"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING EO -,09",
+      "pct": "2.56"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ELI LILLY",
+      "pct": "2.53"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AGNICO EAGLE MINES LTD.",
+      "pct": "2.42"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICROSOFT DL-,00000625",
+      "pct": "2.35"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ADVANCED MIC.DEV. DL-,01",
+      "pct": "2.26"
+    },
+    {
+      "type": "Positions",
+      "libelle": "KLA CORP. DL -,001",
+      "pct": "2.18"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLE INC.",
+      "pct": "2.05"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Shares",
+      "pct": "76.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Bonds",
+      "pct": "13.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Cash",
+      "pct": "6.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Funds",
+      "pct": "4.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Currency forwards",
+      "pct": "-0.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technology",
+      "pct": "36.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financials",
+      "pct": "11.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrials",
+      "pct": "9.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Basic Materials",
+      "pct": "8.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Health Care",
+      "pct": "6.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Discretionary",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Telecommunications",
+      "pct": "2.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "US Dollar",
+      "pct": "47.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "34.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "United Kingdom Pound",
+      "pct": "4.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Norwegian Krone",
+      "pct": "2.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Australian Dollar",
+      "pct": "2.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Canadian Dollar",
+      "pct": "2.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Swiss Franc",
+      "pct": "2.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Danish Krone",
+      "pct": "1.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Japanese Yen",
+      "pct": "0.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Other",
+      "pct": "1.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3-4 Years",
+      "pct": "0.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5-6 Years",
+      "pct": "0.7"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "6-7 Years",
+      "pct": "2.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "7-8 Years",
+      "pct": "4.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "8-9 Years",
+      "pct": "5.1"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "> 10 Years",
+      "pct": "0.3"
+    }
+  ]
+}

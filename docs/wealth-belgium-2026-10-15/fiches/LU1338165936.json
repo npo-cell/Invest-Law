@@ -1,0 +1,306 @@
+{
+  "n": "135",
+  "isin": "LU1338165936",
+  "nom": "(I/C)FIDELITY FAST EMERGING MARKETS Y EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-10-02",
+  "date_creation": "2016-01-25",
+  "devise": "EUR",
+  "type_fonds": "Actions marchés émergents (long/short)",
+  "compartiment": "compartiment de la SICAV Fidelity Funds",
+  "gerants": "Nick Price, Chris Tennant",
+  "encours_millions": "726",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.1",
+  "sri": "4",
+  "indice": "MSCI Emerging Markets Index",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Les rendements du Compartiment peuvent varier à la hausse ou à la baisse selon les fluctuations des taux de change.",
+  "politique_fr": "Objectif: Le Compartiment cherche à atteindre une croissance du capital sur le long terme.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % de ses actifs dans des actions de sociétés qui sont cotées, ont leur siège social ou exercent la majeure partie de leur activité sur les marchés émergents du monde entier, y compris en Amérique latine, en Asie, en Afrique, en Europe de l’Est (Russie comprise) et au Moyen-Orient. Le Compartiment peut également investir jusqu’à 20 % de ses actifs dans des instruments du marché monétaire à titre accessoire. Le Compartiment peut investir moins de 50% de ses actifs (directement et/ou indirectement) dans des actions A et B chinoises (sur une base globale).\n\nApproche de l'investissement: Dans le cadre de sa gestion active du Compartiment, le Gérant de Portefeuille tient compte des paramètres de croissance et de valorisation, des données financières de la société, du rendement du capital, des flux de trésorerie et d’autres mesures, ainsi que de la gestion de la société, des conditions économiques du secteur et d’autres facteurs. Le Gérant de Portefeuille intègre les Risques de durabilité dans sa procédure d’investissement. Pour plus d’informations, consultez « Investissement durable et intégration ESG ».\n\nPolitique en matière de dérivés: Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, de gestion efficace du portefeuille et d’investissement. Le Compartiment utilise des instruments dérivés, y compris des instruments dérivés ou des stratégies complexes, pour atteindre ses objectifs d’investissement ce qui peut se traduire par un effet de levier. Le Compartiment peut conserver une exposition longue ou courte sur les titres grâce aux instruments dérivés.\n\nl’indice de référence: MSCI Emerging Markets Index. Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance, et le calcul de la commission de performance. Bien qu’il investisse dans les titres de la référence, la gestion du Compartiment étant libre, ce dernier peut investir dans des titres qui n’y sont pas présents, et sa performance peut s’éloigner fortement ou rester très proche de celle de la référence au cours d’une période.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = date de lancement de la classe « 25.01.16 » (compartiment lancé le 31.10.11). Encours « Encours du compartiment : € 726m » (encours du compartiment, en millions). Frais de gestion vide : la factsheet n'indique que les « Frais de gestion et autres frais administratifs et d’exploitation » (1,10%) ; frais courants = KID 1,1 % (arrondi ; factsheet 1,10%). Indice : « MSCI Emerging Markets Index » (« Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance, et le calcul de la commission de performance »). SFDR : « Catégorie SFDR » de la factsheet. Politique : bloc « Objectifs et politique d'Investissement » de la factsheet p.1 (la factsheet précise qu'il correspond exactement au libellé du DIC), sans la phrase sur la politique de distribution ; intertitres mis à la ligne. Allocations : expositions de la factsheet p.5 (% de l'actif net ; lignes « Exposition Totale » non reprises ; surpondérations/sous-pondérations non reprises). Catégorie de part Y-PF-ACC-EUR (commission de performance). SFDR vide : aucune catégorie SFDR écrite dans la factsheet ni dans le KID. Classification Agressif : actions des pays émergents avec positions longues et courtes (exposition nette 107,4 %, longue 162,4 %, courte -55,0 %), SRI 4. Allocations : expositions nettes (valeurs négatives gardées, totaux > 100 %) ; positions = « Principales positions nettes longues ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "factsheet p.2",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.2",
+    "encours_devise": "factsheet p.2",
+    "encours_date": "factsheet p.2",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.6",
+    "disclaimer": "factsheet p.3",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie de l’information",
+      "pct": "57.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits financiers",
+      "pct": "25.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industries",
+      "pct": "16.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "13.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation non-cyclique",
+      "pct": "5.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation cyclique",
+      "pct": "3.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "2.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "2.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "-0.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services collectifs",
+      "pct": "-0.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">10 milliard(s)",
+      "pct": "89.6"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5-10 milliard(s)",
+      "pct": "5.0"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "1-5 milliard(s)",
+      "pct": "26.8"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "0-1 milliard(s)",
+      "pct": "2.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taiwan",
+      "pct": "37.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Corée du Sud",
+      "pct": "28.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "13.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Brésil",
+      "pct": "10.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Afrique du Sud",
+      "pct": "5.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Inde",
+      "pct": "5.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "5.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pérou",
+      "pct": "4.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Kazakhstan",
+      "pct": "3.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Indonésie",
+      "pct": "2.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres",
+      "pct": "17.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie émergente",
+      "pct": "87.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique latine",
+      "pct": "20.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Afrique sub-saharienne",
+      "pct": "7.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe émergente",
+      "pct": "7.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "4.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe (zone euro)",
+      "pct": "2.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie Pacifique (hors-Japon)",
+      "pct": "2.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "2.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe (hors zone euro/RU)",
+      "pct": "0.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "MOAN",
+      "pct": "-0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TAIWAN SEMICONDUCTOR MFG CO LTD",
+      "pct": "10.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK HYNIX INC",
+      "pct": "9.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAMSUNG ELECTRONICS CO LTD",
+      "pct": "9.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK SQUARE CO LTD",
+      "pct": "5.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ELITE MATERIAL CO LTD",
+      "pct": "2.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TENCENT HLDGS LTD",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "TBC BANK GROUP PLC",
+      "pct": "2.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "KASPI/KZ JSC",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNIMICRON TECHNOLOGY CORP",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GCM MINING CORP",
+      "pct": "2.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Nettes",
+      "pct": "107.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Longues",
+      "pct": "162.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Courtes",
+      "pct": "-55.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Autres",
+      "pct": "0.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités non investies",
+      "pct": "0.0"
+    }
+  ]
+}

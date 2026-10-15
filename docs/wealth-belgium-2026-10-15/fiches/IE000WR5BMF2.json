@@ -1,0 +1,172 @@
+{
+  "n": "80",
+  "isin": "IE000WR5BMF2",
+  "nom": "(I/C)COMGEST GROWTH GLOBAL COMPOUNDERS I EUR",
+  "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-03-20",
+  "date_creation": "2021-11-29",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "Comgest Growth Global Compounders, un compartiment de Comgest Growth plc (Société d'investissement à capital variable agréée par la Banque Centrale d'Irlande), est un Organisme de Placement Collectif en Valeurs Mobilières (OPCVM)",
+  "gerants": "",
+  "encours_millions": "71.6",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.85",
+  "frais_courants": "0.95",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Investir implique des risques dont la perte du capital initialement investi.",
+  "politique_fr": "POLITIQUE D'INVESTISSEMENT\nL’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés internationales et diversifiées de haute qualité et de croissance sur le long terme, qui sont habituellement hautement liquides et possèdent un long historique de performance, ainsi que des modèles de développement solides. Le Fonds investira dans des actions et des actions privilégiées émises par des sociétés internationales cotées ou négociées sur des marchés réglementés.\nLe Fonds est géré de manière dynamique. L'indice est utilisé à des fins de comparaison.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création « 29/11/2021 » (détails du fonds, document propre à la part EUR I Acc) ; la factsheet précise que les données « depuis création » peuvent faire référence à la dernière date de lancement de la part. Devise de la part EUR, devise de base du fonds USD. Encours = « Actif total du fonds (toutes classes, millions) 71,6€ ». Gérants : aucun nom (« Equipe d'investissement : Approche collégiale »). Frais de gestion « 0,85% de l’actif net » (inclus dans les frais courants) ; frais courants = KID 0,95 % (identique à la factsheet) ; pas de commission de surperformance. Indice vide : « MSCI AC World - Net Return » fourni « à titre indicatif et a posteriori », « utilisé à des fins de comparaison » (KID : pas géré par rapport à un indice de référence). SRI 4 (KID : « 4 sur 7 »). SFDR article 8 ; KID : proportion minimale de 15 % d’investissements durables (engagement minimal). Disclaimer : deux phrases de la factsheet (p.1 et rubrique Risques p.2). Politique : bloc « Politique d’investissement » p.1 sans la phrase sur les investisseurs visés. Allocations : colonne Fonds uniquement ; lignes « -- » non reprises ; « [Cash] » repris tel quel ; 5 principales positions publiées (libellé tronqué « Taiwan Semiconductor Manufacturing C.. » tel qu’écrit) ; devises = « 10 principales devises » (devise de valorisation des positions).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.4",
+    "devise": "factsheet p.4",
+    "compartiment": "factsheet p.4",
+    "encours_millions": "factsheet p.3",
+    "frais_gestion": "factsheet p.4",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor Manufacturing C..",
+      "pct": "9.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Visa A",
+      "pct": "6.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Linde",
+      "pct": "6.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Johnson & Johnson",
+      "pct": "6.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.com",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "27.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "14.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. cyclique",
+      "pct": "14.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "11.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Pharma/Santé",
+      "pct": "11.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits de base",
+      "pct": "10.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de com.",
+      "pct": "5.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. non cyclique",
+      "pct": "4.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "[Cash]",
+      "pct": "0.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Etats-Unis",
+      "pct": "47.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "35.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays émergents",
+      "pct": "9.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "6.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "[Cash]",
+      "pct": "0.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "63.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "21.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "JPY",
+      "pct": "6.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "SEK",
+      "pct": "3.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "DKK",
+      "pct": "3.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "2.4"
+    }
+  ]
+}

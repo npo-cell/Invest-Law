@@ -1,0 +1,196 @@
+{
+  "n": "131",
+  "isin": "LU2736456919",
+  "nom": "(I/C)FFG GLOBAL EQUITIES LOW CARBON C EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-02-10",
+  "date_creation": "2024-04-03",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales (bas carbone)",
+  "compartiment": "Ce produit est un compartiment du fonds FFG constitué sous la forme d’une Société d’Investissement à Capital Variable à compartiments multiples de droit luxembourgeois soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+  "gerants": "",
+  "encours_millions": "69.20504615",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "1.25",
+  "frais_courants": "1.2",
+  "sri": "4",
+  "indice": "Aucun",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+  "politique_fr": "Le compartiment recherchera une appréciation du capital à long terme en investissant principalement dans des actions cotées et échangées sur des marchés réglementés de pays développés, sans restriction sectorielle ou de capitalisation boursière. A côté de son objectif financier, le compartiment génère un impact social concret, par l’intermédiaire du Coordinateur de Distribution (Funds For Good) de la SICAV. Funds For Good reverse le montant le plus important entre 50% de ses bénéfices nets et 10% de son chiffre d’affaires à Funds For Good Impact, qui consacre la totalité de ses moyens financiers à la lutte contre la pauvreté et à la création d’emplois, en allouant des prêts d’honneur et de l’accompagnement à des personnes précarisées ayant un projet d’entreprise, leur permettant ainsi de démarrer leur activité. L’univers d’investissement initial du Compartiment est l’indice MSCI World NR EUR. Cet indice ne tient pas compte des critères ESG promus par le compartiment. Le gestionnaire construit un univers d’investissement propre au Compartiment au sein de cet indice sur base de critères financiers et ESG. Le Compartiment est géré activement, ce qui signifie que le Gestionnaire prend des décisions d’investissement dans le but d’atteindre l’objectif et la politique de placement du Compartiment sans référence à un indice.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet la plus récente disponible : 31/08/2026, part C Acc (ISIN LU2736456919 affiché). ATTENTION : le PDF contient des couches de texte superposées d'autres parts (R Acc, I Acc : autres ISIN, actifs nets et rendements) ; seules les valeurs visibles à l'affichage de la page (vérifiées sur rendu image) ont été retenues. Date de création = « Lancement de la part 03/04/2024 ». Encours = « Actifs nets du fonds € 69 205 046,15 » (actifs nets de la part C : 11 147 360,80 €). Gestionnaire : Orcadia Asset Management (société, pas de gérant nommé). Frais de gestion « Dont Frais de Gestion (max.) 1,25% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,2 % ; la factsheet indique 1,74 % pour ce poste (divergence non résolue). Indice « Aucun » : géré activement « sans référence à un indice » / « sans utiliser une valeur de référence (benchmark) » ; l'indice MSCI World NR EUR n'est que l'univers d'investissement initial. SFDR article 9 (factsheet et KID) ; aucun % d'investissements durables écrit. Politique : bloc « Objectifs & politique d’investissement » de la factsheet p.1 (la section « Politique d’investissement responsable » n'est pas reprise ; texte superposé illisible à l'extraction). Allocations : graphiques p.2 (valeurs identiques dans toutes les couches du PDF et à l'affichage).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2 / factsheet p.2",
+    "indice": "factsheet p.1 / KID p.1",
+    "sfdr": "factsheet p.1 / KID p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "5.21"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA Corp",
+      "pct": "5.07"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Apple Inc Reg",
+      "pct": "4.72"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon.com Inc",
+      "pct": "4.41"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc A",
+      "pct": "2.88"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc Reg",
+      "pct": "2.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc C",
+      "pct": "2.33"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tokio Marine Holdings Inc",
+      "pct": "1.87"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JPMorgan Chase & Co",
+      "pct": "1.68"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Eli Lilly & Co",
+      "pct": "1.41"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Grandes capitalisations",
+      "pct": "91.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Moyennes capitalisations",
+      "pct": "8.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Petites capitalisations",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du nord",
+      "pct": "72.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "16.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "7.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie développée",
+      "pct": "3.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays émergents",
+      "pct": "0.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l’information",
+      "pct": "35.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation discrétionnaire",
+      "pct": "15.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "17.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de santé",
+      "pct": "9.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "11.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation de base",
+      "pct": "4.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "2.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "1.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "1.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "0.0"
+    }
+  ]
+}

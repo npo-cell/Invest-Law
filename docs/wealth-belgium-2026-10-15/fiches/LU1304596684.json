@@ -1,0 +1,101 @@
+{
+  "n": "49",
+  "isin": "LU1304596684",
+  "nom": "(I/C)BLACKROCK SF MYMAP PLUS MODERATE D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-26",
+  "date_creation": "2015-10-14",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs",
+  "compartiment": "Le Fonds est un compartiment de BlackRock Strategic Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+  "gerants": "Rafael Iborra, Christopher Downing",
+  "encours_millions": "1146.16",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.37",
+  "frais_courants": "0.57",
+  "sri": "3",
+  "indice": "",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "Le Fonds vise un rendement sur votre investissement, en combinant croissance du capital et revenu par le biais d’un portefeuille multi-actifs géré activement qui intègre une allocation stratégique et tactique tout en ciblant un profil de risque modéré et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds cherchera à obtenir une exposition indirecte à un large éventail de classes d’actifs, qui peuvent inclure des titres de participation (par ex. des actions), des titres liés à des actions, des titres à revenu fixe (RF) (tels que des obligations), des titres liés à des titres RF, des actifs alternatifs, des liquidités et des quasi-liquidités. Les titres RF comprennent des instruments du marché monétaire (IMM) (c’est-à-dire des titres de créance à échéance courte). Les titres liés à des actions et les titres liés à des titres RF comprennent des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents).\n\nL’exposition à ces classes d’actifs sera obtenue par le biais d’investissements dans des actions ou des parts d’un portefeuille concentré d’organismes de placement collectif (OPC) qui investissent dans un portefeuille diversifié d’actifs. Ils peuvent inclure, sans toutefois s’y limiter, des fonds indiciels cotés actifs et passifs ainsi que d’autres fonds indiciels gérés par une société affiliée du groupe BlackRock.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, telle que décrite dans le prospectus.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet destinée aux investisseurs suisses (septembre 2026). Date de création = « Date de lancement de la Catégorie d'Actions : 14-oct.-2015 » (fonds lancé le 10-avr.-2015). Encours « Encours sous gestion (M) : 1'146.16 EUR ». Frais de gestion = « Commission de gestion annuelle : 0.37% » ; frais courants = KID « Frais de gestion et autres coûts administratifs ou d’exploitation » 0,57 % (la factsheet indique « Frais courants : 0.49% »). Indice laissé vide : le KID dit que le CI « n’est contraint par aucun indice de référence » ; les indices MSCI All Country World Index et Bloomberg Multiverse Index ne servent qu'à « mesurer la performance du Fonds par rapport à ses engagements ESG ». SFDR « Article 8 » (factsheet), aucun % durable écrit. Duration laissée vide (fonds multi-actifs) : « Duration modifiée : 2.83 ans ». Equilibré : multi-actifs à profil de risque « modéré » (catégorie Morningstar « Allocation EUR Modérée - International »), SRI 3. Politique : « Aperçu du fonds » de la factsheet. Allocations : seules les 10 principales positions (fonds sous-jacents) ; les graphiques « Exposition régionale » et « Ventilation par type d'actif » ont des étiquettes non extractibles en texte et ne sont pas repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ISHARES US ENHANCED EQUITY U USD A",
+      "pct": "19.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHS $ TSY BOND 7-10YR UCITS ETF",
+      "pct": "12.34"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES EUR GOVT BOND CLIMATE UCIT",
+      "pct": "8.88"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHS $ TRSY BOND 3-7 YR UCITS ETF",
+      "pct": "6.57"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES EMERGING MARKETS ENH USD A",
+      "pct": "5.44"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES MSCI USA SCRNED UCITS ETF",
+      "pct": "4.49"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES EURO CORP BOND ESG U EUR A",
+      "pct": "4.34"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES EUROPE EQUI ENHANCED EUR A",
+      "pct": "4.02"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHS MSCI WRLD VALUE FAC ADV USD A",
+      "pct": "3.65"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ISHARES $ TIPS UCITS ETF",
+      "pct": "3.60"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "n": "105",
+  "isin": "BE6246061376",
+  "nom": "(I/C)DPAM B EQUITIES NEWGEMS SUSTAINABLE W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-10-09",
+  "date_creation": "2013-08-16",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales (thématiques durables)",
+  "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+  "gerants": "",
+  "encours_millions": "1430.31",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.80",
+  "frais_courants": "0.92",
+  "sri": "5",
+  "indice": "",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+  "politique_fr": "Objectif: L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises du monde entier sélectionnés sur base de certains tendances et thèmes d'activités. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportion minimale d'investissements durables au sens du même règlement. Il s'agit d'un compartiment géré activement, ce qui signifie que le gestionnaire de portefeuille n'a pas pour objectif de reproduire la performance d'un benchmark.\n\nPolitique d'investissement: Le compartiment investit principalement dans des actions et/ou d'autres titres donnant accès au capital d'entreprises du monde entier dites \"du futur\", identifiées par l'acronyme NEWGEMS (en anglais : Nanotechnology, Ecology, Wellness, Generation Z, E-society, Manufacturing 4.0, Security) et qui sont sélectionnées sur base du respect de critères environnementaux, sociaux et de gouvernance (ESG). La sélection repose sur une méthodologie qui, sur tout le portefeuille, a) exclut les sociétés qui ne sont pas en conformité avec certaines normes mondiales en ce compris le Pacte Mondial des Nations Unies (droits de l'Homme, droit du travail, protection de l'environnement et lutte contre la corruption), b) exclut les sociétés qui sont impliquées dans des activités controversées (tabac, jeux de hasard, charbon thermique, etc) ou impliquées dans des controverses ESG sévères (incidents, allégations liées à des problèmes environnementaux, sociaux, de gouvernance). La sélection s'appuie aussi sur une analyse et notation du profil ESG de la société investie au moyen de Scorecard ESG (grilles d'analyse des risques ESG les plus pertinents et les plus matériels auxquels sont exposées les sociétés) uniquement pour la portion des investissements visant un objectif durable. Enfin pour la portion des investissements visant un objectif durable, la recherche d'impact et thématiques de durabilité s'assure que les produits et/ou services de l'entreprise financent – en proportion de son chiffre d'affaires – le développement durable. Vous trouverez plus d'informations sur le site https://www.funds.dpaminvestments.com/funds.html. Produits dérivés: Le compartiment peut, de manière facultative, utiliser des produits dérivés (tels que des options et/ou des contrats à terme ('futures' et/ou 'forwards')), et ce tant dans un but de réalisation des objectifs d'investissement que dans un but de couverture des risques (couverture ou exposition du/ au risque lié à certains marchés). Benchmark: MSCI World Net Return. Utilisation du benchmark: le benchmark est utilisé à titre de comparaison des performances. La sélection et la pondération des actifs dans le portefeuille du compartiment peuvent différer significativement de la composition du benchmark. Le benchmark n’est pas aligné sur la promotion des caractéristiques environnementales et sociales du compartiment.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 16.08.2013 » ; « Création du compartiment 22.09.2006 ». Encours « Taille (toutes classes) mn EUR 1'430.31 ». Frais de gestion = « *dont frais de gestion 0.80% » ; frais courants = KID « Frais de gestion et autres frais d'exploitation 0,92% » (identique à la factsheet) ; pas de commission de performance. Indice laissé vide : « Benchmark: MSCI World Net Return » est « utilisé à titre de comparaison des performances ». Aucun gérant nommé. SFDR article 8 avec une proportion minimale d'investissements durables (pourcentage non écrit dans la factsheet). Classification Agressif : actions thématiques (NEWGEMS, 40,4 % technologies de l'information, SRI 5). KID de production LU (PRP_LU_fr), daté du 09/10/2026. Politique : bloc « Politique d'investissement du compartiment » de la factsheet (issu du KID), sans la phrase finale « Ni le rendement, ni le capital ne sont garantis ou protégés. » Allocations : colonne Fonds seulement ; Positions = Top 10 ; valeurs 0.0 gardées telles qu'écrites.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Nvidia Corp",
+      "pct": "8.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon Com",
+      "pct": "5.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet A",
+      "pct": "5.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Visa A",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor Co. Adr",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom Inc",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Casella Waste Systems, Inc. Class A",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Sk Hynix Inc.",
+      "pct": "2.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Netflix, Inc.",
+      "pct": "2.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'information",
+      "pct": "40.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communications",
+      "pct": "12.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation cyclique",
+      "pct": "12.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financières",
+      "pct": "11.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "9.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "8.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "3.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation non-cyclique",
+      "pct": "0.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "0.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "1.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "68.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Reste du monde",
+      "pct": "14.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe ex-EMU",
+      "pct": "8.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "EMU",
+      "pct": "7.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités",
+      "pct": "1.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar US",
+      "pct": "76.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "10.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre sterling",
+      "pct": "5.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Won sud-coréen",
+      "pct": "3.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Chinese Yuan Offshore",
+      "pct": "2.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne suédoise",
+      "pct": "0.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne norvégienne",
+      "pct": "0.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar de Hong Kong",
+      "pct": "0.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autre",
+      "pct": "0.0"
+    }
+  ]
+}

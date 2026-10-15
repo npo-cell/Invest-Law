@@ -1,0 +1,192 @@
+{
+  "n": "123",
+  "isin": "LU1331973468",
+  "nom": "(I/C)ELEVA ABSOLUTE RETURN EUROPE R EUR",
+  "maison": "Eleva Capital SAS",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-03-13",
+  "date_creation": "2015-12-30",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes long/short (rendement absolu)",
+  "compartiment": "Compartiment d'Eleva UCITS Fund (le « Fonds »), une société anonyme de droit luxembourgeois qualifiée de société d'investissement à capital variable conformément à la partie I de la Loi de 2010",
+  "gerants": "Eric Bendahan",
+  "encours_millions": "4957.341528",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1",
+  "frais_courants": "1.1",
+  "sri": "2",
+  "indice": "Aucun",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. L'OPC ne bénéficie d’aucune garantie ni protection, il se peut donc que le capital initialement investi ne soit pas intégralement restitué.",
+  "politique_fr": "• Le compartiment cherche à générer un rendement absolu positif à moyen terme par une appréciation du capital en investissant principalement en actions et en titres apparentés aux actions de sociétés cotées en Europe, en position acheteur comme en position vendeur.\n• Philosophie d’investissement bottom-up différenciée et disciplinée, complétée par une vision macroéconomique visant à conforter le positionnement sectoriel.\n• Exposition nette flexible comprise entre -10% et +50%, guidée par la génération d’idées fondamentales et la volatilité du marché.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de lancement de la part : 30/12/2015 » (identique au compartiment). Encours « Encours du compartiment 4 957 341 528 € » converti en millions. Frais de gestion « 1% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 1,1 % (« Il s'agit d'une estimation ») ; commission de performance 20 % au-delà du High Water Mark. Indice « Aucun » : KID « géré de manière active, sans référence à un indice de référence ». Classification Equilibré : stratégie long/short actions à rendement absolu, exposition nette entre -10 % et +50 % (28,97 % au 30/09/2026), SRI 2 (cas non évident). SFDR article 8 (KID) ; aucun % d'investissements durables écrit. Politique : bloc « Objectif et approche d’investissement » de la factsheet (puces), sans la puce « Durée de placement recommandée : ≥ 5 ans » ; le KID contient une description plus détaillée. Allocations : répartitions géographique et sectorielle en exposition nette (valeurs négatives gardées) ; capitalisation boursière (Longs) non reprise (camembert : seules deux valeurs 13.1 % et 86.9 % lisibles pour trois tranches, attribution impossible) ; principales positions longues reprises, positions shorts (dont future STOXX 600 33.63 %) non reprises.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "KID p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ASML Holding NV",
+      "pct": "4.70"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UniCredit SpA",
+      "pct": "3.24"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banco Santander SA",
+      "pct": "3.19"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Rolls-Royce Holdings PLC",
+      "pct": "2.86"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ROCHE HOLDING AG",
+      "pct": "2.78"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "11.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "6.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italie",
+      "pct": "5.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "4.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Grèce",
+      "pct": "2.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pologne",
+      "pct": "-1.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Finlande",
+      "pct": "-1.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Norvège",
+      "pct": "-1.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "-2.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suède",
+      "pct": "-2.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "8.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrielles",
+      "pct": "9.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financières",
+      "pct": "8.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "4.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "4.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Utilities",
+      "pct": "3.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "3.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cons. de base",
+      "pct": "-0.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécoms",
+      "pct": "-1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "-1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cons. Disc.",
+      "pct": "-4.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres",
+      "pct": "-0.4"
+    }
+  ]
+}

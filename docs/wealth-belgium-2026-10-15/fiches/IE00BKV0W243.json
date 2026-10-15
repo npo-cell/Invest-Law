@@ -1,0 +1,205 @@
+{
+  "n": "316",
+  "isin": "IE00BKV0W243",
+  "nom": "(I/C)VANGUARD ESG EMERGING MARKETS ALL CAP EQ EUR",
+  "maison": "Vanguard Group (Ireland) Limited",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-09-29",
+  "date_creation": "2020-06-09",
+  "devise": "EUR",
+  "type_fonds": "Actions marchés émergents (indiciel ESG)",
+  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+  "gerants": "Global Equity Index Management (GE)",
+  "encours_millions": "1024",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.26",
+  "sri": "4",
+  "indice": "FTSE Emerging All Cap Choice Index",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) et cherche à répliquer la performance de l’indice FTSE Emerging All Cap Choice (l’« Indice »).\n• L’Indice, composé d’actions de grandes, moyennes et petites capitalisations des marchés émergents, est un indice pondéré par la capitalisation boursière. La capitalisation boursière correspond à la valeur des actions en circulation d’une société sur le marché et indique la taille de la société.\n• L’Indice est élaboré à partir de l’indice FTSE Emerging All Cap (l’« Indice parent »), qui est ensuite examiné au regard de certains critères environnementaux, sociaux et de gouvernance (à savoir, liés aux controverses).\n• En excluant de son portefeuille des actions de sociétés sur le fondement des conséquences potentiellement néfastes de leur conduite ou de leurs produits sur la société et/ou l’environnement, le Fonds promeut certaines caractéristiques environnementales et sociales relatives aux normes sociales.\n• Le Fonds cherche 1. à répliquer la performance de l’Indice en investissant dans la totalité, ou la quasi-totalité, des titres qui constituent l’Indice, approximativement dans la même proportion que l’Indice. (lorsqu’il ne sera pas possible de la répliquer intégralement, le Fonds utilisera un procédé d’échantillonnage), et 2. à maintenir un niveau d’investissement total, sauf dans des conditions de marché, politiques ou analogues extraordinaires, dans lesquels le Fonds peut déroger temporairement à cette politique d’investissement afin d’éviter des pertes.\n• La méthodologie de l’Indice exclut les titres des sociétés que le promoteur de l’Indice détermine (a) comme étant engagées ou impliquées de façon spécifique dans la chaîne logistique et/ou (b) comme percevant des revenus (au-dessus d’un seuil spécifié par le Fournisseur d’indices) de certaines opérations liées aux activités suivantes : (a) les produits associés au « vice » (à savoir, divertissements pour adultes, alcool, jeux d’argent, tabac, cannabis) ; (b) les énergies non renouvelables (énergie nucléaire, combustibles fossiles, y compris : (i) les sociétés qui détiennent une participation supérieure à 50 % dans des sociétés dont il est avéré ou probable qu’elles possèdent des réserves de charbon, de pétrole ou de gaz, (ii) la production de pétrole et de gaz et les services connexes, (iii) l’extraction et la production de charbon et les services connexes, (iv) la production d’énergie à partir de pétrole, de gaz et de charbon thermique, (v) l’extraction pétrolière et gazière dans les régions arctiques, et (vi) l’extraction de sables bitumineux)) ; et (c) les armes (armes chimiques et biologiques, armes à sous-munitions, mines antipersonnel, armes nucléaires, armes à feu civiles et armes militaires conventionnelles). Il incombe au Fournisseur d’indices de définir ce qui caractérise l’« implication » dans l’une de ces activités. Une société peut notamment être considérée comme impliquée dans une activité au-delà d’un certain pourcentage de revenus perçus, ou si elle est liée d’une quelconque façon à une activité restreinte, quel que soit le montant des revenus perçus. L’implication portera sur des aspects spécifiques de la chaîne logistique.\n• L’implication de l’entreprise dans les produits et les comportements est surveillée chaque année par le fournisseur de l’indice et de nouvelles données sont mises à sa disposition.\n• Pour la stratégie d’investissement complète, veuillez consulter le prospectus.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Acc. Date de création « 09 juin 2020 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : équipe « Global Equity Index Management (GE) ». Encours = « Encours total (million) 1 024 € » (encours de la classe : 189 €). Frais de gestion non indiqués ; frais courants 0,26 % (KID ; la factsheet indique « Le Montant des frais courants (MFC) 0,25 % »). Indice : fonds indiciel répliquant le FTSE Emerging All Cap Choice Index. SFDR : aucun article mentionné (la politique indique que le Fonds « promeut certaines caractéristiques environnementales et sociales »). Classification Agressif : actions des marchés émergents, SRI 4. Allocations au 31 août 2026 : 10 principaux titres (29,8 % de l'actif net), exposition sectorielle (ICB), 10 premiers marchés (type Pays).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.2",
+    "disclaimer": "factsheet p.6",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+      "pct": "18.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alibaba Group Holding Ltd.",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MediaTek Inc.",
+      "pct": "1.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Delta Electronics Inc.",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "China Construction Bank Corp.",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Hon Hai Precision Industry Co. Ltd.",
+      "pct": "1.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "HDFC Bank Ltd.",
+      "pct": "0.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Industrial & Commercial Bank of China Ltd.",
+      "pct": "0.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ICICI Bank Ltd.",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PDD Holdings Inc.",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies",
+      "pct": "36.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "24.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation discrétionnaire",
+      "pct": "10.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "7.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux de base",
+      "pct": "6.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "4.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "4.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "3.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "2.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "1.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "0.3"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taiwan",
+      "pct": "39.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "24.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Inde",
+      "pct": "13.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Afrique du Sud",
+      "pct": "4.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Saudi Arabia",
+      "pct": "3.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Brésil",
+      "pct": "2.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Mexique",
+      "pct": "2.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Malaisie",
+      "pct": "1.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "United Arab Emirates",
+      "pct": "1.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "La Thaïlande",
+      "pct": "1.5"
+    }
+  ]
+}

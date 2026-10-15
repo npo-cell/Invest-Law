@@ -1,0 +1,269 @@
+{
+  "n": "215",
+  "isin": "LU1665237969",
+  "nom": "(I/C)M&G (LUX) GLOBAL LISTED INFRASTRUCTURE C EUR",
+  "maison": "M&G Luxembourg S.A.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-08-14",
+  "date_creation": "2017-10-05",
+  "devise": "EUR",
+  "type_fonds": "Actions infrastructures cotées",
+  "compartiment": "The M&G (Lux) Global Listed Infrastructure Fund is a sub-fund of M&G (Lux) Investment Funds 1.",
+  "gerants": "Alex Araujo, Nicholas Cunningham, Son Tung Nguyen",
+  "encours_millions": "1278.34",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.08",
+  "sri": "4",
+  "indice": "MSCI ACWI Net Return Index",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance is not a guide to future performance.",
+  "politique_fr": "",
+  "politique_en": "The fund aims to deliver a combination of capital growth and income that is higher than that of the global equities market over any five-year period while applying environmental, social and governance (ESG) criteria, and to increase the income stream every year in US dollar terms. At least 80% of the fund is invested in shares issued by infrastructure companies, investment trusts and real estate investment trusts of any size and from any country. The fund usually holds fewer than 50 stocks. Infrastructure companies include businesses in the utilities, energy, transport, health, education, security, communications, and transactions sectors. By applying an exclusionary approach as described in the prospectus, the fund invests in securities which meet the ESG criteria and which contribute to the UN’s Sustainable Development Goals (SDGs). The fund also applies a positive ESG tilt, which requires maintaining a weighted average ESG rating that is either above the average ESG rating of its investment universe, or equivalent to at least an MSCI A rating, whichever is lower. The fund’s recommended holding period is five years.",
+  "source_politique": "Factsheet",
+  "remarques": "EUR Class C – Accumulation shares ; factsheet uniquement en anglais. Date de création = « Launch of share class 05 October 2017 » (identique au lancement du fonds). Gérants : Alex Araujo (fund manager), Nicholas Cunningham et Son Tung Nguyen (deputy fund managers). Encours = « Fund size (millions) € 1,278.34 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,08 % (factsheet « Management fees and other costs 1.08% ») ; pas de commission de gestion séparée. Indice retenu : « MSCI ACWI Net Return Index » (objectif de dépasser le marché actions mondial et mesure de la performance) ; « Additional Benchmark FTSE Global Core Infra 50/50 NR USD » (KID : Indice FTSE Global Core Infrastructure 50/50 Net Return) = comparateur additionnel seulement, non retenu. SFDR article 8, aucun % durable écrit. Classification Agressif : actions thématiques/sectorielles (infrastructures), SRI 4. Allocations : colonne « Fund » uniquement ; « Largest overweights / underweights » non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.5",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Gibson Energy",
+      "pct": "3.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Franco Nevada",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Equinix",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Prairiesky Royalty",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "American Tower Corporation",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "National Grid",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "HICL Infrastructure",
+      "pct": "3.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Kamigumi",
+      "pct": "3.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nextera Energy",
+      "pct": "2.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CME Group",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Utilities",
+      "pct": "35.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energy",
+      "pct": "16.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Transport",
+      "pct": "15.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Transactional",
+      "pct": "11.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communications",
+      "pct": "7.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Royalty",
+      "pct": "7.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Social",
+      "pct": "5.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cash",
+      "pct": "1.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "US",
+      "pct": "44.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Canada",
+      "pct": "17.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "UK",
+      "pct": "9.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "4.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italy",
+      "pct": "4.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japan",
+      "pct": "3.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Belgium",
+      "pct": "2.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "India",
+      "pct": "2.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Other",
+      "pct": "11.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Cash",
+      "pct": "1.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "US dollar",
+      "pct": "45.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Canadian dollar",
+      "pct": "17.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "14.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "British pound",
+      "pct": "9.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Japanese yen",
+      "pct": "3.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Indian rupee",
+      "pct": "2.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Hong Kong dollar",
+      "pct": "2.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Singapore dollar",
+      "pct": "2.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Swiss franc",
+      "pct": "2.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Other",
+      "pct": "2.0"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Mega cap (> $50bn)",
+      "pct": "44.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Large cap ($10 - $50bn)",
+      "pct": "31.4"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Mid cap ($2 - $10bn)",
+      "pct": "22.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Small cap (< $2bn)",
+      "pct": "0.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Other",
+      "pct": "0.0"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "Cash",
+      "pct": "1.6"
+    }
+  ]
+}

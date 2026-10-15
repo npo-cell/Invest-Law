@@ -1,0 +1,169 @@
+{
+  "n": "241",
+  "isin": "DE000A2JJ1V7",
+  "nom": "(I/C)ODDO BHF POLARIS MODERATE CN EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-16",
+  "date_creation": "2019-01-24",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs (dominante obligataire)",
+  "compartiment": "Le Fonds est un OPCVM de droit allemand.",
+  "gerants": "Peter Rieth",
+  "encours_millions": "1283",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.04",
+  "sri": "2",
+  "indice": "15% MSCI Europe (Net Return) + 8% MSCI USA NET in EUR + 2% MSCI Emerging Markets Daily Net TR EUR + 10% JPM Cash Index Euro Currency 1M + 65% Bloomberg Euro Aggregate TR Unhedged 1-10",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nDepuis 2005, ODDO BHF Polaris Moderate propose une solution d'investissement globale et diversifiée. Elle se caractérise par une allocation actions comprise entre 0 et 40% et un panier obligataire investi principalement dans des obligations de qualité Investment Grade. Le portefeuille est composé de titres cotés ou négociés sur des marchés réglementés, principalement en Europe, aux Etats-Unis ou sur les marchés émergents. Il peut également être investi à hauteur de 10% maximum dans des actifs tels que l’or par le biais de certificats ou autres.\nLe fonds vise à générer un rendement supérieur à celui d’un investissement obligataire tout en limitant les fluctuations de marché. Dans le même temps, les critères environnementaux, sociaux et de gouvernance d'entreprise (ESG) sont pleinement pris en compte dans le processus d'investissement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création de la part (1ère VL) 24/01/2019 ; fonds créé le 15/07/2005. Gérants : la factsheet cite « ODDO BHF SE, Peter Rieth » ; ODDO BHF SE (société) non reprise. Frais de gestion fixes 1,00% p.a. (factsheet) ; frais courants KID 1,04 % (factsheet 1.04 %). Commission de surperformance 10 % max. du surcroît de performance de 200 pb vs €STR + 8,5 pb. Indice composite de la factsheet ; KID : indice que le fonds vise à surperformer. Classification Défensif : majoritairement obligataire (obligations 69,46 %, actions 0-40 %), SRI 2. Duration : « Duration modifiée 4,3 » de la poche obligataire seulement (fonds multi-actifs), non reprise. SFDR article 8 (KID), aucun % d'investissements durables écrit. Allocations : tableau « Répartition de l'allocation d'actifs » (colonne « Poids % ») ; zones géographiques = poche actions en % du fonds ; « Xetra Gold » (= Gold) et « Exposition nette d'actions » non repris. Positions = « 10 principales positions (en absolu) » (« X Eur Overnight Rate Swap 1C » classée « Action », tel qu'écrit). Graphiques sectoriel, géographique, devises, notation et maturité sans texte ; contributions exclues.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1 et avertissement",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Dpam L- Bonds Emk Sutainab-F",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "X Eur Overnight Rate Swap 1C",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Xetra-Gold",
+      "pct": "1.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft Corp",
+      "pct": "1.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nvidia Corp",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Thermo Fisher Scientific Inc",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc-Cl C",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Government Of Finland 2,75% 04/2038",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Iberdrola Sa",
+      "pct": "1.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Teleperformance Sa 4,75% 03/2032",
+      "pct": "1.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "28.42"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "69.46"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Gold",
+      "pct": "1.79"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Monétaire & Autres",
+      "pct": "0.33"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations Investment Grade",
+      "pct": "30.06"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations d'états",
+      "pct": "19.32"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations sécurisées",
+      "pct": "14.58"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations des pays émergents",
+      "pct": "3.73"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations High Yield",
+      "pct": "1.77"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Autres obligations",
+      "pct": "0.00"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du nord",
+      "pct": "12.26"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Zone euro",
+      "pct": "9.70"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Le reste de l'Europe",
+      "pct": "4.27"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Le reste du monde",
+      "pct": "2.18"
+    }
+  ]
+}

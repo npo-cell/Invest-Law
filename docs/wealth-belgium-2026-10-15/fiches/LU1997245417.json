@@ -1,0 +1,180 @@
+{
+  "n": "27",
+  "isin": "LU1997245417",
+  "nom": "(I/C)ALLIANZ GLOBAL INVESTORS CHINA A RT H2 EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-09-22",
+  "date_creation": "2019-10-23",
+  "devise": "EUR",
+  "type_fonds": "Actions chinoises (actions A)",
+  "compartiment": "Allianz China A-Shares est un compartiment de la SICAV Allianz Global Investors Fund, une société d’investissement à capital variable régie par les lois de Luxembourg.",
+  "gerants": "Shao Ping Guan",
+  "encours_millions": "2930.80",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.43",
+  "sri": "5",
+  "indice": "MSCI China A Onshore Total Return Net (hedged into EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "47.40",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs.",
+  "politique_fr": "Objectif d’investissement\nLe fonds se concentre sur les actions de sociétés domiciliées en Chine qui sont cotées en actions A sur les bourses de Shanghai ou de Shenzhen. Les aspects liés à la durabilité sont pris en compte par les gérants du fonds. Pour plus d’informations sur la stratégie d’investissement, les catégories d’actifs autorisées et l’approche axée sur la durabilité, veuillez-vous reporter au prospectus de vente. Le fonds peut investir jusqu’à 20 % de ses actifs dans d’autres actions de sociétés qui sont domiciliées en Chine ou qui y génèrent une part prédominante de leurs bénéfices. L’objectif d’investissement du fonds consiste à générer une appréciation du capital sur le long terme.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part couverte en EUR (classe RT (H2-EUR)) d'Allianz China A-Shares. Factsheet FR du 30/09/2026 ; KID FR du 22/09/2026 au texte mal encodé (utilisé pour SRI, frais, rôle de l'indice, SFDR). Date de création = « Lancement catégorie d’actions 23/10/2019 » (identique au fonds) ; le tableau de performance débute pourtant au 05/07/18 (non expliqué). Encours = « Taille du fonds 2 930,80 M USD » ; classe : 18,57 M EUR. Frais : « Commission forfaitaire (%) 1,38 (max 1,68) » (commission globale) → frais de gestion vide ; frais courants 1,43 % (KID, = « TFE (%) 1,43 »). Indice : sert à définir l'objectif de performance et à mesurer les performances (KID) → retenu. SFDR article 8 (KID). Investissements durables = « Proportion d’investissements durables Portefeuille 47,40% ». Gestionnaires délégués : Allianz Global Investors Asia Pacific Ltd & Allianz Global Investors Singapore. Avertissement AMF sur une communication disproportionnée sur les critères non financiers. Allocations : colonne « % poids du fonds » ; pays « République populaire de » tel qu'écrit (libellé tronqué).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID",
+    "durable_pct": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l’information",
+      "pct": "31.94"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "17.95"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "14.99"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "9.74"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation discrétionnaire",
+      "pct": "8.21"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "6.45"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "5.75"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "2.82"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "1.57"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.58"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "0.00"
+    },
+    {
+      "type": "Pays",
+      "libelle": "République populaire de",
+      "pct": "100.00"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres",
+      "pct": "0.00"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ZIJIN MINING GROUP CO LTD-A",
+      "pct": "4.78"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CONTEMPORARY AMPEREX TECHN-A",
+      "pct": "4.45"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ZHONGJI INNOLIGHT CO LTD-A",
+      "pct": "4.28"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CITIC SECURITIES CO-A",
+      "pct": "4.27"
+    },
+    {
+      "type": "Positions",
+      "libelle": "KWEICHOW MOUTAI CO LTD-A",
+      "pct": "3.67"
+    },
+    {
+      "type": "Positions",
+      "libelle": "WUXI APPTEC CO LTD-A",
+      "pct": "3.40"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MIDEA GROUP CO A MC97672",
+      "pct": "3.03"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CHINA MERCHANTS BANK-A",
+      "pct": "2.98"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SHENGYI TECHNOLOGY CO LTD -A",
+      "pct": "2.89"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PING AN INSURANCE GROUP CO-A",
+      "pct": "2.67"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 10 Md",
+      "pct": "88"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5 Md <> 10 Md",
+      "pct": "7"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "< 5 Md",
+      "pct": "5"
+    }
+  ]
+}

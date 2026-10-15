@@ -1,0 +1,174 @@
+{
+  "n": "178",
+  "isin": "LU2752697867",
+  "nom": "(I/C)JSS SUSTAINABLE EQ STRATEGIC MATERIALS C EUR",
+  "maison": "J. Safra Sarasin Fund Management (Luxembourg) S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-08-17",
+  "date_creation": "2024-09-24",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (matériaux stratégiques)",
+  "compartiment": "un compartiment de JSS Investmentfonds II",
+  "gerants": "Daniel Lurch, Léna Jacquelin, Asad Farid",
+  "encours_millions": "174.49",
+  "encours_devise": "",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.42",
+  "sri": "4",
+  "indice": "MSCI World NR Index (EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les résultats obtenus par le passé n'offrent aucune garantie quant aux rendements futurs. La performance représentée ne tient pas compte de commissions et de coûts éventuels prélevés lors de la souscription et du rachat de parts.",
+  "politique_fr": "Le fonds vise une croissance du capital à long terme via des investissements dans les actions mondiales. Le compartiment investit au moins 75% de ses actifs directement dans des actions d'entreprises qui offrent une exposition à la chaîne de valeur des matériaux stratégiques (dont les producteurs et les utilisateurs finaux). La transition écologique nécessite des matériaux essentiels pour les technologies bas carbone et impose que les sociétés de matériaux réduisent leur propre intensité d'émissions. En outre, les investissements mondiaux dans les infrastructures, les développements technologiques et les évolutions de l'agriculture vont alimenter la demande de matériaux critiques. Ce produit intègre les critères ESG tout au long du processus d’investissement afin de réduire les expositions controversées, d’aligner le portefeuille sur les normes internationales, d’atténuer les risques de durabilité et d’exploiter les opportunités liées aux tendances ESG. Le compartiment est géré activement sans réplication d'un indice de référence. Toutefois, le compartiment est géré en référence à MSCI World NR Index (l'\" Indice de référence \").",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part C EUR acc. Date de création = « Date de lancement de la classe d’action 24 septembre 2024 » (identique à celle du compartiment). Encours = « Total des actifs en mio. 174.49 » (devise non écrite ; monnaie de compte de la part EUR) ; pas de date propre (date de la factsheet). Frais de gestion 1.00% (factsheet) ; frais courants 1.42% (KID et factsheet). Indice : tableau de la factsheet « MSCI World NR Index (EUR) », « Nouveau depuis 01.04.2026 » ; le compartiment est « géré en référence » à cet indice (KID : « MSCI World NR Index »). Compartiment : le KID indique « un compartiment de JSS Investmentfonds II » ; les mentions légales de la factsheet disent « JSS Investmentfonds II SICAV (le «Fonds») » puis « un compartiment de JSS Investmentfonds SICAV » (incohérence du document). SFDR article 8 (factsheet et KID) ; aucun % d'investissements durables écrit. Classification Agressif : actions thématiques/sectorielles (matériaux, mines) avec marchés émergents, malgré SRI 4. Catégorie Morningstar : EAA Fund Sector Equity Natural Resources. Empreinte carbone par secteur (p.3, graphique) et notations ESG non reprises.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1 / KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Wheaton Precious Metals Corp",
+      "pct": "5.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Newmont Mining",
+      "pct": "5.08"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Rio Tinto",
+      "pct": "5.00"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Agnico Eagle Mines Ltd",
+      "pct": "3.96"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Freeport McMor Copp & Gold -B-",
+      "pct": "3.71"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Anglo American Plc",
+      "pct": "3.68"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Norsk Hydro ASA",
+      "pct": "3.09"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Pilbara Minerals Ltd",
+      "pct": "2.54"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Contemporary Amperex Techn.",
+      "pct": "2.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Albemarle Corp.",
+      "pct": "2.42"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "États-Unis",
+      "pct": "37.69"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Canada",
+      "pct": "13.75"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "10.70"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "7.20"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Australie",
+      "pct": "5.65"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Chine",
+      "pct": "4.41"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Danemark",
+      "pct": "4.07"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "16.54"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériels",
+      "pct": "67.95"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "20.05"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "3.06"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Approvisionnement",
+      "pct": "2.26"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation",
+      "pct": "1.62"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Informatique",
+      "pct": "1.56"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres",
+      "pct": "3.50"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "n": "302",
+  "isin": "FR0014011SC9",
+  "nom": "(I/C)SWISS LIFE FUNDS OPPORTUNITE HY 2032 (FMB)",
+  "maison": "SWISS LIFE",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-06-12",
+  "date_creation": "2026-03-17",
+  "devise": "EUR",
+  "type_fonds": "Obligataire à échéance (haut rendement 2032)",
+  "compartiment": "Undertaking for collective investment in transferable securities (UCITS) taking the form of a Fonds Commun de Placement (French Common Fund – FCP)",
+  "gerants": "",
+  "encours_millions": "93.82",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.70",
+  "frais_courants": "0.7",
+  "sri": "2",
+  "indice": "Aucun",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Les données de performance incluent les frais et commissions acquis ou à la charge du fonds, mais n'incluent pas les coûts engendrés lors des souscriptions et des rachats de parts ou d'actions.",
+  "politique_fr": "Stratégie d'investissement\nLe fonds adopte une stratégie de portage visant à capter le rendement offert par les obligations à haut rendement («High Yield») émises par les émetteurs des pays développés dont la maturité effective est proche de l’échéance du fonds, le 30 juin 2032. Les dettes subordonnées bancaires et assurances sont exclues. Les titres qui ne sont pas libellés en euro sont couverts du risque de change.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Nom factsheet « Swiss Life Funds (F) Opportunité High Yield 2032 F » (reporting au 30 septembre 2026) ; FCP de droit français, échéance 30 juin 2032 (champ « compartiment » = type juridique du KID, en anglais). Date de création « 17/03/2026 » (rubrique « Caractéristiques du fonds », sans préciser fonds ou part). Encours « Actif net du fonds : 93.82 M EUR ». Gérants non cités. Frais de gestion 0.70 % (factsheet) ; frais courants 0.7 % (KID « Management fees and other administrative or operating costs », une décimale). Indice « Aucun » : KID « The Fund is not managed with reference to an index ». SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Duration et notation moyenne non écrites en texte (fourchette de duration modifiée 0 à 10 dans le KID) ; « Yield to worst 5.63% ». Politique : bloc « Stratégie d'investissement » de la factsheet (le KID, en anglais, contient une section « Objectives » plus détaillée). Allocations : seules les 10 principales positions (texte) ; répartitions sectorielle, par devise, par notation, contribution de duration et par rendement non reprises car présentes uniquement sous forme d'images dans le PDF. verif_fiche.py signale l’indice « Aucun » comme manquant : faux positif (valeur conventionnelle de la consigne, documents en anglais : « not managed with reference to an index »).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "SYSCO HOLD/SYSC SYY 6 10/06/56",
+      "pct": "2.04"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GG12 SPA GOLGOO 6 1/4 04/28/33",
+      "pct": "1.96"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ROGERS COMMUNIC RCICN 7.15 01/31/57",
+      "pct": "1.93"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ILIAD HLDG SAS ILIADH 7 04/15/32",
+      "pct": "1.87"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ROQUETTE FRERE ROQFRE 6 PERP",
+      "pct": "1.83"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CLARIANE SE CLARFP 6 7/8 03/15/32",
+      "pct": "1.78"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNITED GROUP ADRBID 6 3/8 05/14/33",
+      "pct": "1.77"
+    },
+    {
+      "type": "Positions",
+      "libelle": "VOLKSWAGEN INTFN VW 7 7/8 PERP",
+      "pct": "1.72"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ELEC DE FRANCE EDF 5 5/8 PERP",
+      "pct": "1.67"
+    },
+    {
+      "type": "Positions",
+      "libelle": "EUTELSAT COMM ETLFP 6 1/4 03/15/33",
+      "pct": "1.58"
+    }
+  ]
+}

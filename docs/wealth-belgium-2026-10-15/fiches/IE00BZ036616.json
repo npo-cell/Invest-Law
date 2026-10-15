@@ -1,0 +1,156 @@
+{
+  "n": "157",
+  "isin": "IE00BZ036616",
+  "nom": "(I/C)GUARDCAP GLOBAL EQUITY FUND I EUR",
+  "maison": "GUARDCAP ASSET MANAGEMENT LIMITED",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-05-08",
+  "date_creation": "2015-10-29",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "GuardCap Global Equity Fund (le « Fonds ») est un compartiment de GuardCap UCITS Funds plc, une société d'investissement à capital variable constituée en Irlande enregistrée sous le numéro 552001 et établie en tant que fonds à compartiments multiples appliquant le principe de la ségrégation des engagements entre les compartiments et en tant qu'organisme de placement collectif en valeurs mobilières conformément aux règlements des Communautés européennes (organismes de placement collectif en valeurs mobilières) de 2011, tels que modifiés.",
+  "gerants": "Michael Boyd, Giles Warren, Bojana Bidovec, Orlaith O'Connor",
+  "encours_millions": "1600",
+  "encours_devise": "USD",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.80",
+  "frais_courants": "0.89",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance results are no indication of future returns.",
+  "politique_fr": "",
+  "politique_en": "Investment Objective\nThe investment objective of the Fund is to seek long-term growth of capital with lower than market volatility by investing primarily in equity and similar securities issued by high quality companies listed on recognised markets in countries, which are members of the Organisation for Economic Co-operation and Development (\"OECD\").\n\nInvestment Approach\nPhilosophy: growth drives returns; quality protects against downside; valuation matters.\n• Concentrated, long-only strategy with 20-25 high quality, sustainably growing companies\n• Focused \"total immersion\", bottom-up analysis of selected high-confidence stocks\n• Benchmark agnostic, unconstrained portfolio construction; high active share\n• Genuine long-term investing with low portfolio turnover\n• Large / Mid-cap focus",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet uniquement en anglais (31/08/2026, « for professional investors only ») : politique en colonne EN ; le KID FR (08/05/2026) a une section « Objectifs » en français, non reprise. Date de création = « Class Inception 29 October 2015 » (fonds lancé le 10 décembre 2014). Encours = « Fund Size USD 1.6 bn » converti en 1600 millions (note de la factsheet : « Based on estimates and is not official »). Gérants : les quatre « Investment Manager » de la factsheet (« CFA » retiré pour Bojana Bidovec et Orlaith O'Connor). Frais de gestion = « Management fee 0.80% » ; frais courants = KID « Coûts de gestion et autres frais administratifs ou de fonctionnement » 0,89 % (factsheet : « Ongoing charges 0.89% » au 31/12/2025). Indice vide : « MSCI World Index (Net) » figure comme « Benchmark » dans la factsheet mais le KID précise « L’Indice de référence est utilisé uniquement à des fins de comparaison des performances » et la factsheet que les comparaisons sont « for illustrative purposes only ». SFDR article 8 (KID : « le Fonds publie des informations conformément à l'Article 8 »). Positions = « Top 5 Holdings » seulement. Contributions à la performance exclues. Factsheet en USD pour certains calculs de risque (part la plus ancienne).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "KID p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "CME Group",
+      "pct": "8.12"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Illumina",
+      "pct": "6.05"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Novonesis",
+      "pct": "5.74"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UnitedHealth Group",
+      "pct": "5.71"
+    },
+    {
+      "type": "Positions",
+      "libelle": "L'Oréal",
+      "pct": "5.71"
+    },
+    {
+      "type": "Pays",
+      "libelle": "United States",
+      "pct": "60.92"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "11.18"
+    },
+    {
+      "type": "Pays",
+      "libelle": "United Kingdom",
+      "pct": "8.32"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Denmark",
+      "pct": "7.40"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Netherlands",
+      "pct": "4.39"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japan",
+      "pct": "3.62"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Switzerland",
+      "pct": "3.08"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Cash",
+      "pct": "1.09"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financials",
+      "pct": "20.14"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Health Care",
+      "pct": "18.95"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Staples",
+      "pct": "17.22"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Information Technology",
+      "pct": "16.43"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrials",
+      "pct": "12.70"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consumer Discretionary",
+      "pct": "7.73"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Materials",
+      "pct": "5.74"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Cash",
+      "pct": "1.09"
+    }
+  ]
+}

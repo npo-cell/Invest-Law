@@ -1,0 +1,102 @@
+{
+  "n": "54",
+  "isin": "LU0206982414",
+  "nom": "(I/C)CANDRIAM MONEY MARKET I USD",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-03",
+  "date_creation": "2005-06-07",
+  "devise": "USD",
+  "type_fonds": "Monétaire",
+  "compartiment": "Ce produit est une classe d'actions (I) d'un compartiment (USD Sustainable) d'une société d'investissement à capital variable (SICAV) de droit luxembourgeois (Candriam Money Market), Organisme de Placement Collectif en Valeurs Mobilières (OPCVM).",
+  "gerants": "Pierre Boyer, Elodie Brun, Benjamin Schoofs",
+  "encours_millions": "79.44",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.20",
+  "frais_courants": "0.26",
+  "sri": "1",
+  "indice": "",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "A",
+  "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
+  "politique_fr": "Stratégie d'investissement\nCandriam Money Market USD Sustainable (ci-après «le fonds»), un compartiment de la sicav Candriam Money Market, vise à procurer des rendements comparables à ceux du marché monétaire ou à préserver la valeur de l’investissement. L’objectif du fonds est de bénéficier de la performance du marché monétaire libellés principalement en USD, d’une maturité résiduelle inférieure à 397 jours ou dont le taux d’intérêt est révisable au moins annuellement, émis par des émetteurs de bonne qualité, sur la base d’une gestion discrétionnaire. L’objectif de durabilité du fonds est de contribuer à la réduction des émissions de gaz à effet de serre en visant des objectifs spécifiques et en intégrant des indicateurs liés au climat dans l’analyse des émetteurs et des titres. Le fonds cherche à avoir une incidence positive à long terme sur les objectifs environnementaux et sociaux. Le fonds peut convenir aux investisseurs qui souhaitent atteindre cet objectif sur une courte période de détention et qui comprennent et sont en mesure d’assumer les risques particuliers du fonds. L’horizon d’investissement est de 6 mois. Le fonds est géré de manière active et le processus d’investissement implique le renvoi à un indice de référence. Pour plus d’informations concernant les risques ou l’indice de référence et son utilisation, veuillez consulter le document d’informations clés (DIC) du fonds.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Renommage : le compartiment s'appelle « Candriam Money Market USD Sustainable » (factsheet et KID, compartiment « USD Sustainable ») ; nom One Life « CANDRIAM MONEY MARKET I USD ». Factsheet réservée aux investisseurs professionnels. Date de création = « Date de lancement 07/06/2005 » (rubrique « Caractéristiques », sans préciser part ou compartiment). Encours « Actifs nets totaux (M USD) 79,44 ». Frais de gestion = « Frais de gestion réels » C 0,20% ; frais courants = KID 0,26 % (= factsheet C 0,26%). Indice laissé vide : le KID indique que l'Effective Federal Funds Rate est utilisé uniquement « à des fins de comparaison de performance ». SFDR « Article 9 » (factsheet), aucun % durable écrit. Qualité = « Rating moyen LT A » au 30/09 (A+ en août ; « Rating moyen CT A-1 »). Duration laissée vide : « WAM (d) 31,00 », « WAL (d) 227,00 » (jours). Politique : bloc « Stratégie d'investissement » de la factsheet. Allocations : seulement les « Top 10 émetteurs » (% Fonds) ; les autres répartitions sont des graphiques sans valeurs extractibles.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.2",
+    "encours_devise": "factsheet p.2",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.2",
+    "qualite_emetteurs": "factsheet p.2",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.2",
+    "source_politique": "factsheet p.2"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "UNITED STATES OF AMERICA",
+      "pct": "8.76"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ABBVIE INC",
+      "pct": "4.42"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DANONE SA",
+      "pct": "4.07"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SANOFI SA",
+      "pct": "3.81"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NORDEA BANK ABP",
+      "pct": "3.80"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SVENSKA HANDELSBANKEN AB",
+      "pct": "3.79"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FIDELITY NATIONAL INFORMATION SERVICES INC",
+      "pct": "3.57"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DEUTSCHE TELEKOM AG",
+      "pct": "3.16"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AUSTRALIA & NEW ZEALAND BANKING GROUP LTD",
+      "pct": "3.16"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GSK PLC",
+      "pct": "2.90"
+    }
+  ]
+}

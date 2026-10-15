@@ -1,0 +1,150 @@
+{
+  "n": "23",
+  "isin": "LU2286301101",
+  "nom": "(I/C)ALLIANZ CYBER SECURITY RT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-11",
+  "date_creation": "2022-04-05",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (cybersécurité)",
+  "compartiment": "Allianz Cyber Security is a sub-fund of Allianz Global Investors Fund SICAV, an open-ended investment company with variable share capital organised under the laws of Luxembourg.",
+  "gerants": "Erik Swords",
+  "encours_millions": "601.89",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.23",
+  "sri": "5",
+  "indice": "ISE Cyber Security UCITS Total Return Net (in EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "82.36",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Past performance does not predict future returns.",
+  "politique_fr": "",
+  "politique_en": "Investment objective\nThe fund invests in the global equity markets with a focus on companies whose business should benefit from or is currently related to the \"cyber security\" theme. Cyber security includes everything from computer security and disaster recovery to end user training. The fund's investment objective is to obtain capital growth in the long term. Sustainability aspects are taken into account by the fund management. For more information on the investment strategy, the permissible asset classes and the sustainability approach, please refer to the sales prospectus.",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet uniquement en anglais (30/09/2026, part RT (EUR)) ; KID FR du 11/05/2026 dont le texte est mal encodé (police non standard), utilisé seulement pour le SRI, les frais, le rôle de l'indice et l'article SFDR. Date de création = « Share class launch date 05/04/2022 » ; lancement du fonds 09/02/2021. Encours = « Fund size 601.89 M USD » (compartiment) ; part : 11.36 M EUR. Frais : la factsheet donne une « All-in fee (%) p.a. 1.18 (max 1.48) » (commission forfaitaire, pas une commission de gestion seule) et « TER (%) 1.23 » ; frais courants 1,23 % (KID « Frais de gestion et autres frais administratifs et d'exploitation ») ; frais de gestion laissé vide. Indice : sert à définir l'objectif de performance et à mesurer les performances (KID) → retenu. SFDR article 8 (KID). Investissements durables = « Proportion of sustainable investments Fund 82.36% » (minimum KID : 2,00 %). Gestionnaire délégué : Voya Investment Management LLC. Avertissement AMF sur une communication disproportionnée sur les critères non financiers. Allocations : colonne « % Fund weight » ; 9 positions seulement listées ; capitalisations en USD.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.5",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.3",
+    "durable_pct": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_en": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Secteurs",
+      "libelle": "Information technology",
+      "pct": "97.75"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrials",
+      "pct": "1.29"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communication services",
+      "pct": "0.96"
+    },
+    {
+      "type": "Pays",
+      "libelle": "USA",
+      "pct": "94.48"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Canada",
+      "pct": "2.90"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Netherlands",
+      "pct": "1.44"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Israel",
+      "pct": "0.63"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Japan",
+      "pct": "0.56"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CROWDSTRIKE HOLDINGS INC - A",
+      "pct": "8.93"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PALO ALTO NETWORKS INC",
+      "pct": "7.46"
+    },
+    {
+      "type": "Positions",
+      "libelle": "CLOUDFLARE INC - CLASS A",
+      "pct": "7.32"
+    },
+    {
+      "type": "Positions",
+      "libelle": "RUBRIK INC-A",
+      "pct": "6.48"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FORTINET INC",
+      "pct": "5.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "FASTLY INC - CLASS A",
+      "pct": "3.84"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BROADCOM INC",
+      "pct": "3.41"
+    },
+    {
+      "type": "Positions",
+      "libelle": "DATADOG INC - CLASS A",
+      "pct": "3.20"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SENTINELONE INC -CLASS A",
+      "pct": "3.18"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 10 bn",
+      "pct": "77"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5 bn <> 10 bn",
+      "pct": "14"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "< 5 bn",
+      "pct": "9"
+    }
+  ]
+}

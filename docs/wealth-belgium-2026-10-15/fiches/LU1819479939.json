@@ -1,0 +1,222 @@
+{
+  "n": "112",
+  "isin": "LU1819479939",
+  "nom": "(I/C)ECHIQUIER ARTIFICIAL INTELLIGENCE K EUR",
+  "maison": "La Financière de l'Echiquier",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-05-22",
+  "date_creation": "2018-06-20",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales (thématique intelligence artificielle)",
+  "compartiment": "Compartiment de la SICAV ECHIQUIER FUND gérée par La Financière de l'Echiquier",
+  "gerants": "Christophe Pouchoy, Stéphane Nières Tavernier",
+  "encours_millions": "1255",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.10",
+  "sri": "6",
+  "indice": "MSCI WORLD NET TOTAL RETURN (en EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "Echiquier Artificial Intelligence est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur des valeurs de croissance des marchés internationaux. En particulier, le compartiment cherche à investir dans des valeurs qui développent l’Intelligence Artificielle et/ou des valeurs qui en bénéficient. L’objectif du compartiment est de réaliser, sur la durée de placement recommandée, une performance nette de frais de gestion, supérieure à celle de son indice de référence, l'indice MSCI World Index.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de 1ère VNI 20/06/2018 » (identique à la création du compartiment). Compartiment : texte du KID (factsheet : « Type Compartiment de Sicav », « Sicav Echiquier Fund »). Frais de gestion = « Frais de gestion 1,00% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.10% » (identique à la factsheet « Frais au 30/09/2025 ») ; pas de commission de surperformance. Indice : objectif de surperformer le MSCI World (factsheet « Indice* MSCI WORLD NET TOTAL RETURN (en EUR) » ; KID « MSCI World Index Net Total Return »). SFDR « Classification SFDR Article 8 », aucun % d'investissements durables écrit. Classification Agressif : actions thématiques intelligence artificielle (81,1 % IT, SRI 6). Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 1,2 %) ; graphiques lus par position des étiquettes (barre supérieure / gauche = compartiment, vérifié par les totaux) ; secteur « Autres » sans valeur pour le compartiment, non repris ; « Autres » pays = 0 % pour le compartiment. Positions = 10 principales positions (44,0 %).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "TSMC ADR",
+      "pct": "6.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft",
+      "pct": "5.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Marvel Technology",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet",
+      "pct": "4.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Meta",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nvidia",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Broadcom",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AMD",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML",
+      "pct": "3.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "USA",
+      "pct": "72.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "TWN",
+      "pct": "12.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "NLD",
+      "pct": "6.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "KOR",
+      "pct": "5.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "CAN",
+      "pct": "2.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "CHN",
+      "pct": "1.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "GBR",
+      "pct": "0.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "IT",
+      "pct": "81.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. de comm.",
+      "pct": "8.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. discr.",
+      "pct": "5.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "3.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "1.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">500Mds",
+      "pct": "49.6"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "100Mds - 500Mds",
+      "pct": "25.6"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "50Mds - 100Mds",
+      "pct": "12.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "10Mds - 50Mds",
+      "pct": "9.9"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5Mds - 10Mds",
+      "pct": "1.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "<5Mds",
+      "pct": "1.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "79.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "8.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "TWD",
+      "pct": "5.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "KRW",
+      "pct": "5.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "HKD",
+      "pct": "1.2"
+    }
+  ]
+}

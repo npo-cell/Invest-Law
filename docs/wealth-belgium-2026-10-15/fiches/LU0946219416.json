@@ -1,0 +1,143 @@
+{
+  "n": "181",
+  "isin": "LU0946219416",
+  "nom": "(I/C)JUPITER JAPAN SELECT CLASS D EUR",
+  "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-02-19",
+  "date_creation": "2015-03-30",
+  "devise": "EUR",
+  "type_fonds": "Actions japonaises",
+  "compartiment": "Jupiter Japan Select (le « Fonds ») est un compartiment d'une SICAV (société d'investissement à capital variable), The Jupiter Global Fund, constituée au Luxembourg.",
+  "gerants": "DAN CARTER, MITESH PATEL",
+  "encours_millions": "258",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.75",
+  "frais_courants": "0.95",
+  "sri": "4",
+  "indice": "",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
+  "politique_fr": "Objectif et politique d'investissement du fonds\nLe Fonds a pour objectif de générer une croissance du capital sur le long terme. Le Fonds investira principalement dans les actions et titres liés à des actions d’entreprises ayant leur siège social ou exerçant une part prépondérante de leurs activités économiques au Japon. Jusqu’à 20 % des actifs du Fonds (hors actifs liquides) peuvent être investis dans les actions d'entreprises basées ailleurs en Asie. Le Compartiment investira principalement dans des actions et des titres liés à des actions (en ce compris des actions de préférence cotées, des obligations convertibles non sécurisées cotées (convertible unsecured loan stock), des warrants cotés, des certificats de dépôt et d’autres titres similaires) d’entreprises ayant leur siège social ou exerçant une part prépondérante de leurs activités au Japon (ou, dans le cas des OPCVM et autres OPC, dont les investissements se concentrent au Japon). Le Fonds promeut en permanence des caractéristiques environnementales et sociales qui relèvent de l’Article 8 du règlement sur la publication d’informations en matière de durabilité. Les caractéristiques environnementales et sociales sélectionnées pour le fonds Jupiter Japan Select comprennent la promotion de la transition vers une économie faiblement carbonée et le respect des responsabilités vis-à-vis des personnes et de la planète.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part D EUR ACC. Date de création = « Date de lancement de la Catégorie d'Actions: 30.03.2015 » (fonds : 01.07.2009). Encours « EUR 258m » (date de la factsheet). Frais de gestion = « Commission annuelle de gestion (max.) 0,75% » (maximum) ; frais courants = KID 0.95 % (identique à la factsheet). Indice vide : TOPIX est utilisé « uniquement à des fins de comparaison de la performance » (factsheet et KID). SFDR article 8 (factsheet et KID) ; aucun % d'investissements durables écrit. Classification Agressif : actions d'un seul pays (Japon), malgré SRI 4. Allocations au 31.08.2026 ; secteurs : sous-total 99,0 non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "factsheet p.2",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.2",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.2",
+    "sri": "KID p.1",
+    "sfdr": "factsheet p.2 / KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Mitsubishi Ufj Financial Group",
+      "pct": "5.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Sumitomo Mitsui Financial Group",
+      "pct": "5.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Toyota Motor",
+      "pct": "4.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tokio Marine Holdings",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Keyence",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Orix",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Sony Group",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Ntt",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Panasonic Holdings",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nec",
+      "pct": "3.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation discrétionnaire",
+      "pct": "22.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "20.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "19.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "14.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "7.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matières premières",
+      "pct": "6.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "3.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Espèces",
+      "pct": "1.0"
+    }
+  ]
+}

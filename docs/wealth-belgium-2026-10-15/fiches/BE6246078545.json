@@ -1,0 +1,265 @@
+{
+  "n": "104",
+  "isin": "BE6246078545",
+  "nom": "(I/C)DPAM B EQUITIES EUROPE SUSTAINABLE W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-10-01",
+  "date_creation": "2013-08-16",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes (durables)",
+  "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+  "gerants": "",
+  "encours_millions": "845.98",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.80",
+  "frais_courants": "0.91",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+  "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises européennes. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportion minimale d'investissements durables au sens du même règlement. Il s'agit d'un compartiment géré activement, ce qui signifie que le gestionnaire de portefeuille n'a pas pour objectif de reproduire la performance d'un benchmark. Le compartiment investit principalement dans des actions et/ou d'autres titres donnant accès au capital d'entreprises dont le siège social et/ou une part significative de leurs actifs, activités, centres de profits ou centres de décision se trouve dans un pays d'Europe. La sélection repose sur une méthodologie qui: -exclut les sociétés non en conformité avec certaines normes mondiales en ce compris le Pacte des Nations Unies (droits de l'Homme, droit du travail, protection de l'environnement et lutte contre la corruption), -exclut les sociétés impliquées dans des activités controversées (tabac, jeux de hasard, charbon thermique) ou impliquées dans des controverses ESG sévères (incidents, allégations liés à des problèmes environnementaux, sociaux, gouvernance), -s'appuie sur une approche ESG quantitative « best-in-class » et une approche ESG qualitative, - et – vise une recherche d'impact et thématiques de durabilité en s'assurant que les produits et/ou services de l'entreprise financent – en proportion de son chiffre d'affaires – le développement durable. Vous trouverez plus d'informations sur le site https://www.funds.dpaminvestments.com/funds.html. Benchmark: MSCI Europe Net Return. Utilisation du benchmark: le benchmark est utilisé à titre de comparaison des performances. La sélection et la pondération des actifs dans le portefeuille du fonds peuvent différer significativement de la composition du benchmark. Le benchmark n’est pas aligné sur l’objectif d’investissement durable du compartiment. Le benchmark n’est pas aligné sur la promotion des caractéristiques environnementales et sociales du compartiment.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 16.08.2013 » ; « Création du compartiment 05.09.2002 ». Encours « Taille (toutes classes) mn EUR 845.98 ». Frais de gestion = « *dont frais de gestion 0.80% » ; frais courants = KID « Frais de gestion et autres frais d'exploitation 0,91% » (identique à la factsheet) ; pas de commission de performance. Indice laissé vide : « Benchmark: MSCI Europe Net Return » est « utilisé à titre de comparaison des performances ». Aucun gérant nommé. SFDR article 8 avec une proportion minimale d'investissements durables (pourcentage non écrit dans la factsheet). Politique : bloc « Politique d'investissement du compartiment » de la factsheet (issu du KID), sans la phrase finale « Ni le rendement, ni le capital ne sont garantis ou protégés. » Allocations : colonne Fonds seulement (pas la colonne Bench) ; Positions = Top 10 ; secteur « Energie 0.0 » gardé tel qu'écrit.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ASML Holding",
+      "pct": "5.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Nestlé",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Schneider Electric",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Banco Santander SA",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Roche Hldg - Bearer Pc",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "L'oreal Sa",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Intesa Sanpaolo (ord)",
+      "pct": "3.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Air Liquide (port)",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Abn Amro Group",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Astrazeneca",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financières",
+      "pct": "25.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "16.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "13.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'information",
+      "pct": "11.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation cyclique",
+      "pct": "8.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation non-cyclique",
+      "pct": "7.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "6.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "4.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Communications",
+      "pct": "2.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "1.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "1.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suisse",
+      "pct": "14.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Allemagne",
+      "pct": "14.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "France",
+      "pct": "13.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Royaume-Uni",
+      "pct": "12.7"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Pays-Bas",
+      "pct": "11.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Espagne",
+      "pct": "8.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Suède",
+      "pct": "6.1"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Italie",
+      "pct": "5.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Belgique",
+      "pct": "4.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Danemark",
+      "pct": "4.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autre",
+      "pct": "3.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Cash",
+      "pct": "1.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "62.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Franc suisse",
+      "pct": "14.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre sterling",
+      "pct": "11.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne suédoise",
+      "pct": "5.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne danoise",
+      "pct": "4.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Couronne norvégienne",
+      "pct": "0.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar US",
+      "pct": "0.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar canadien",
+      "pct": "0.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar australien",
+      "pct": "0.0"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "n": "289",
+  "isin": "LU0638557669",
+  "nom": "(I/C)RUFFER TOTAL RETURN INTERNATIONAL C EUR",
+  "maison": "FundPartner Solutions (Europe) S.A.",
+  "factsheet_date": "2026-05-31",
+  "kid_date": "2026-03-05",
+  "date_creation": "2011-07-14",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs (flexible)",
+  "compartiment": "Compartiment de Ruffer SICAV, une SICAV UCITS domiciliée à Luxembourg",
+  "gerants": "Fiona Ker, Ian Rees, Alexander Chartres, Matt Smith",
+  "encours_millions": "4251.7",
+  "encours_devise": "EUR",
+  "encours_date": "2026-05-31",
+  "frais_gestion": "1.1",
+  "frais_courants": "1.21",
+  "sri": "3",
+  "indice": "",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "6",
+  "durable_pct": "",
+  "duration": "2.9 ans",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures\nLa valorisation des titres et les revenus distribués peuvent varier à la hausse comme à la baisse ; des pertes sur votre capital initialement investi sont possibles.",
+  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nL’objectif d’investissement du fonds est d’obtenir des rendements positifs pour un portefeuille géré activement. Le fonds peut être exposé aux catégories d’actifs suivantes : liquidités, dettes, titres de tout type (y compris les emprunts d’État et de sociétés), actions et titres ou produits liés aux actions (y compris les métaux précieux). Cet objectif s’inscrit dans une philosophie fondamentale de la préservation du capital. Les investisseurs doivent noter qu’il ne peut y avoir aucune assurance que l’objectif d’investissement sera atteint.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet FR de mai 2026 (reporting mensuel « PARTS C », dernier rapport publié en français ; versions anglaises plus récentes non retenues) ; part C EUR cap (LU0638557669). Date de création = « LANCEMENT LE 14 JUILLET 2011 » (performance de la part C cap). Devise de la part EUR (devise de base du fonds GBP, parts couvertes). Encours « ENCOURS €4 251,7M » (fonds). Frais de gestion = « Frais de gestion annuels % 1,1 » ; frais courants KID « Frais de gestion et autres frais administratifs ou d'exploitation » 1,21 % (factsheet : « Frais courants % 1,22 »). Indice laissé vide : la performance « est mesurée par rapport à l’indice MSCI ACWI Index, Bloomberg Global-Aggregate TR et HFRI Fund of Funds Composite » (comparaison, sans objectif de performance ; KID idem). Duration = « Duration (années) 2,9 » (nette et brute). Gérants = « PRINCIPAUX GÉRANTS DU FONDS ». SFDR « Article 6 ». Classification Equilibré : fonds flexible de préservation du capital, exposition actions 31,0 % (nette), SRI 3. Politique : « OBJECTIF D’INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations au 31/05/2026 : Classes d'actifs = tableau d'allocation d'actifs (rubriques Inflation / Protection / Croissance, libellés tels qu'écrits) ; Devises = « Allocation en devises » ; Zones géographiques = « Allocation géographique des actions » (% du fonds, poche actions) ; Positions = « TOP 5 ACTIONS » (% du fonds).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "KID p.1",
+    "compartiment": "factsheet p.2",
+    "gerants": "factsheet p.3",
+    "encours_millions": "factsheet p.2",
+    "encours_devise": "factsheet p.2",
+    "encours_date": "factsheet p.2",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.2",
+    "duration": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "iShares MSCI China A UCITS ETF",
+      "pct": "1.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amazon",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BP",
+      "pct": "1.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Coinbase",
+      "pct": "0.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Microsoft",
+      "pct": "0.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations long terme liées à l’infl. hors UK",
+      "pct": "5.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Exposition à l’or et aux métaux précieux",
+      "pct": "3.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Gilts long terme liés à l’inflation",
+      "pct": "3.4"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations nominales à court terme",
+      "pct": "27.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations nominales à long terme",
+      "pct": "20.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "2.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Crédit et stratégies dérivées",
+      "pct": "2.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions consommation discrétionnaire",
+      "pct": "6.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions du secteur financier",
+      "pct": "4.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions industrielles",
+      "pct": "4.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions du secteur de l’énergie",
+      "pct": "3.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions autres secteurs",
+      "pct": "13.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Exposition aux matières premières",
+      "pct": "2.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre sterling",
+      "pct": "71.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "US dollar",
+      "pct": "11.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen",
+      "pct": "9.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "2.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "5.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions UK",
+      "pct": "9.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Amérique du Nord",
+      "pct": "9.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Asie ex-Japon",
+      "pct": "5.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Japon",
+      "pct": "4.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Europe",
+      "pct": "3.6"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "n": "220",
+  "isin": "LU2377005462",
+  "nom": "(I/C)M&G TOTAL RETURN CREDIT INVESTMENT FUND W EUR",
+  "maison": "M&G Luxembourg S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-07-29",
+  "date_creation": "2021-09-27",
+  "devise": "EUR",
+  "type_fonds": "Obligataire",
+  "compartiment": "M&G Total Return Credit Investment Fund est un compartiment de European Specialist Investment Funds.",
+  "gerants": "Richard Ryan, David Fancourt, Mark Ellis, Michael Ah-Chung",
+  "encours_millions": "6719.00",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "0.60",
+  "sri": "2",
+  "indice": "1-month Euribor",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "6",
+  "durable_pct": "",
+  "duration": "0,03 ans (duration modifiée)",
+  "qualite_emetteurs": "A+",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+  "politique_fr": "Le fonds vise à dégager un revenu et une croissance du capital supérieurs à l’indice Euribor à un mois plus 3 à 5 %, brut de frais par an, sur toute période de cinq ans. Le fonds est un fonds à revenu fixe diversifié et activement géré qui investit dans des titres de créance à taux fixe, variable ou flottant libellés dans n’importe quelle devise. Il investit au moins 70 % dans des obligations d’entreprises et d’État, des titres adossés à des actifs (jusqu’à 40 %) et des actions privilégiées de tout pays, y compris des marchés émergents. Au maximum 50 % du fonds peut être investi dans des obligations de qualité inférieure à investment grade. Le fonds peut également investir dans d’autres titres de créance et d’autres actifs, tels que des fonds. Au moins 75 % des participations du fonds sont généralement couvertes en euros. Le fonds peut détenir jusqu’à 10 % de sa Valeur liquidative dans des titres de créance en difficulté et en défaut. La période de détention recommandée du fonds est de cinq ans. Dans des conditions de marché normales, l’effet de levier attendu du fonds, à savoir dans quelle mesure il peut augmenter sa position d’investissement en empruntant de l’argent ou en utilisant des instruments dérivés, ne dépassera pas 500 % de sa valeur liquidative.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Catégorie W en EUR – Actions de capitalisation ; factsheet au 31/08/2026. Date de création = « Lancement de la catégorie de part 27 septembre 2021 » (fonds lancé le 04 mars 2013). Gérants : Richard Ryan, David Fancourt, Mark Ellis, Michael Ah-Chung. Encours = « Encours du fonds (millions) € 6.719,00 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,60 % (factsheet « Frais de gestion et autres commissions 0,60% ») ; pas de commission de gestion séparée. Indice : « 1-month Euribor » (factsheet ; KID « EURIBOR à 1 mois ») retenu car objectif de performance (Euribor 1 mois + 3 à 5 % brut de frais par an). Duration = « Duration modifiée (années) 0,03 » (nette, après contrats à terme et swaps) ; qualité = « Notation moyenne de crédit A+ ». SFDR article 6. Classification Défensif : obligataire, SRI 2. Allocations : « Répartition des actifs » lignes principales seulement (sous-lignes Taux fixe / Taux variable… non reprises) ; notations = « Exposition nette » ; tableau « Duration par devise et classe d’actifs » (années) non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1",
+    "compartiment": "factsheet p.5"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Emprunts d'État",
+      "pct": "6.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations d’entreprises « investment grade »",
+      "pct": "37.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations d’entreprises à haut rendement",
+      "pct": "12.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Titrisés",
+      "pct": "16.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "0.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Autres",
+      "pct": "0.0"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "28.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "13.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "États-Unis",
+      "pct": "10.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "9.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "8.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Supranationaux",
+      "pct": "5.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italie",
+      "pct": "2.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "2.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Irlande",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "18.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités",
+      "pct": "28.3"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "20.2"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AA",
+      "pct": "4.7"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "9.1"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "18.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB and below",
+      "pct": "13.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "Net cash and derivatives",
+      "pct": "34.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services bancaires",
+      "pct": "14.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Titres adossés à des actifs",
+      "pct": "6.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "État",
+      "pct": "6.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Obligations garanties",
+      "pct": "5.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Supranationaux",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Titres adossés à des créances hypothécaires",
+      "pct": "4.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Assurance",
+      "pct": "3.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Médias",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie & électronique",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Automobile",
+      "pct": "2.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services publics",
+      "pct": "1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Distribution",
+      "pct": "1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie de base",
+      "pct": "1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Stratégie",
+      "pct": "1.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "1.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "1.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "1.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services",
+      "pct": "1.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens d'équipement",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Titres garantis par le gouvernement",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation",
+      "pct": "0.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Transports",
+      "pct": "0.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Titres adossés à des créances hypothécaires commerciales",
+      "pct": "0.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Loisirs",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Action",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Contrats à terme",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "28.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "0 - 1 an",
+      "pct": "14.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 3 ans",
+      "pct": "25.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3 - 5 ans",
+      "pct": "19.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "5 - 7 ans",
+      "pct": "6.6"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "7 - 10 ans",
+      "pct": "3.0"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "10 - 15 ans",
+      "pct": "0.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "+ de 15 ans",
+      "pct": "1.2"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Liquidités",
+      "pct": "28.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "Autres",
+      "pct": "0.3"
+    }
+  ]
+}

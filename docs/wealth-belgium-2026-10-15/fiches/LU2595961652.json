@@ -1,0 +1,159 @@
+{
+  "n": "87",
+  "isin": "LU2595961652",
+  "nom": "(I/C)CT AMERICAN SMALLER COMPANIES ZE EUR",
+  "maison": "Threadneedle Management Luxembourg S.A.",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-02-23",
+  "date_creation": "2023-04-12",
+  "devise": "EUR",
+  "type_fonds": "Actions américaines petites capitalisations",
+  "compartiment": "CT (Lux) American Smaller Companies (le \" Fonds \") est un compartiment de Columbia Threadneedle (Lux) I (la \" SICAV \"), un fonds d'investissement à capital variable. La SICAV est autorisée en vertu de la loi luxembourgeoise et est qualifiée d'OPCVM.",
+  "gerants": "Nicolas Janvier, Louis Ubaka",
+  "encours_millions": "1497.5",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "",
+  "frais_courants": "1.05",
+  "sri": "5",
+  "indice": "Russell 2500 Index",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "18.42",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs. La valeur des investissements peut baisser ou augmenter, et les investisseurs peuvent ne pas récupérer la totalité du capital initialement investi.",
+  "politique_fr": "Objectif et politique du fonds\nLe Fonds vise à accroître la valeur de votre investissement à long terme.\nLe Fonds investit au moins deux tiers de ses actifs dans des actions de sociétés plus petites aux États-Unis, ou qui y exercent une part significative de leurs activités. Ces sociétés auront généralement une valeur de marché comprise entre 500 millions de dollars US et 10 milliards de dollars US au moment de l’achat.\nLe Fonds peut avoir recours à des dérivés (instruments complexes) à des fins de couverture, et peut également investir dans des catégories d’actifs et des instruments différents de ceux indiqués ci-dessus.\nLe Fonds est activement géré par rapport à l’Indice Russell 2500. L’indice est représentatif de l’ensemble des sociétés dans lesquelles le Fonds investit et constitue un indice de référence approprié en fonction duquel la performance du Fonds sera calculée et évaluée dans la durée. L’indice n’est pas conçu pour tenir compte spécifiquement de caractéristiques environnementales ou sociales. Le gestionnaire de fonds a le pouvoir de choisir des investissements avec des pondérations différentes de celles de l’indice et des investissements qui ne sont pas dans l’indice, et le Fonds peut différer sensiblement de l’indice.\nLe Fonds promeut des caractéristiques environnementales et sociales en intégrant un ensemble de mesures d’investissement responsable dans le processus d’investissement, et s’assure que les sociétés dans lesquelles il investit suivent de bonnes pratiques de gouvernance. Le Fonds vise à se comparer favorablement à l’indice sur des périodes de 12 mois consécutifs lorsqu’il est évalué selon la Notation d’importance des facteurs ESG (environnementaux, sociaux et de gouvernance) de Columbia Threadneedle, qui indique l’exposition d’une société aux risques et aux opportunités ESG importants. Au moins 50 % du Fonds est investi dans des sociétés qui ont une bonne note. Le Fonds s’engage également à investir au moins 10 % de ses actifs dans des fonds durables.\nLe Fonds exclut les sociétés qui tirent certains niveaux de revenus de secteurs tels que, sans s’y limiter, le charbon et le tabac. Il exclut également les sociétés qui sont directement impliquées dans des armes nucléaires ou controversées, ainsi que celles qui ont commis des infractions aux normes et aux principes internationaux. Le gestionnaire de fonds travaille en collaboration avec les sociétés afin de les encourager à adopter de meilleures pratiques en matière d’ESG.\nDe plus amples informations sur les caractéristiques environnementales ou sociales promues par le Fonds sont disponibles dans l’Annexe Normes techniques de réglementation (RTS) SFDR du Prospectus, disponible à l’adresse www.columbiathreadneedle.com. Le Fonds est considéré comme relevant de l’Article 8 du SFDR.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet la plus récente disponible au 31/08/2026 (septembre non publiée) : encours, positions et secteurs à cette date. Date de création = date de lancement de la part ZE (« 12/04/23 », tableau des catégories d’actions) ; fonds lancé le 23/10/18. Devise de la part EUR, devise du compartiment USD. Encours = « Actif net : €1.497,5m ». Frais de gestion : non indiqués séparément ; frais courants = KID « 1,05% » (OCF factsheet 1,05 % au 31/05/26) ; coûts de transaction 1,04 % ; frais d’entrée max 5 %. Indice « Russell 2500 Index » (fonds géré activement par rapport à cet indice, utilisé pour calculer et évaluer la performance). SRI 5 (KID : « classe de risque 5 sur 7 »). SFDR article 8 ; investissements durables réels 18,42 % (« Investissements durables engagés 10,00% » = minimum ; section des indicateurs d’investissement responsable « Données au 31 juillet 2026 »). Classification Agressif : petites capitalisations d’un seul pays (États-Unis), SRI 5. Allocations : secteurs colonne Fonds uniquement (indice et différence non repris).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.4",
+    "devise": "factsheet p.4",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "durable_pct": "factsheet p.3",
+    "disclaimer": "factsheet p.1-2",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "IDACORP, Inc.",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Impinj, Inc.",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BellRing Brands, Inc.",
+      "pct": "2.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Progyny, Inc.",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Freshpet Inc",
+      "pct": "2.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Voya Financial, Inc.",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "First Bancorp",
+      "pct": "2.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ABM Industries Incorporated",
+      "pct": "2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Marex Group Limited",
+      "pct": "2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Liquidity Services, Inc.",
+      "pct": "2.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "24.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "15.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Pharma/Santé",
+      "pct": "13.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "10.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. Cyclique",
+      "pct": "9.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. Non Cyclique",
+      "pct": "6.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "5.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits de base",
+      "pct": "4.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "3.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "3.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services Publics",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "0.9"
+    }
+  ]
+}

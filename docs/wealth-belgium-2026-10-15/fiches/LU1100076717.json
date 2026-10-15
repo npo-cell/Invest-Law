@@ -1,0 +1,159 @@
+{
+  "n": "77",
+  "isin": "LU1100076717",
+  "nom": "(I/C)CLARTAN VALEURS I EUR",
+  "maison": "Clartan Associés",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-02-10",
+  "date_creation": "2015-03-02",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "CLARTAN - VALEURS un compartiment de CLARTAN SICAV",
+  "gerants": "G. Brisset, N. Descoqs, M. Goueffon",
+  "encours_millions": "893",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.20",
+  "frais_courants": "1.4",
+  "sri": "4",
+  "indice": "Aucun",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "LES PERFORMANCES PASSÉES NE PRÉJUGENT PAS DES PERFORMANCES FUTURES",
+  "politique_fr": "Objectifs\nLe compartiment cherche, sur une période supérieure à 5 ans, à réaliser une performance positive et supérieure à celle des principales bourses mondiales (essentiellement OCDE).\n\nPolitique d’investissement discrétionnaire: l’analyse financière des sociétés prime pour les décisions d’investissement sur la perception des marchés financiers et de l’environnement économique et politique, qui vient en appui des décisions.\nLe compartiment investit au minimum à 75% de son actif net dans des actions cotées de sociétés ayant leur siège social dans un pays de l’OCDE et jusqu’à 100% n’appartenant pas à la zone euro.\nIl peut investir de façon occasionnelle jusqu’à 20% de son actif net :\n• dans des actions cotées de sociétés de pays émergents n’appartenant pas à l’OCDE, y compris sur les actions A chinoise (Shanghai et Shenzhen - Hong Kong Stock Connect);\n• en titres assimilés aux actions ou obligations (obligations convertibles, obligations à bons de souscription, actions à dividende prioritaire, certificats d’investissement, titres participatifs).\nLe degré d’exposition en actions, après prise en compte des instruments financiers dérivés, peut varier de 0 à 100%.\nL’investissement en actions sera effectué sans restrictions d’ordre sectoriel, capitalistique et monétaire. Pour le placement de sa trésorerie, le compartiment peut investir jusqu’à 25% de son actif net dans des obligations d’émetteurs notés au minimum AA (S&P ou équivalent). Il peut investir jusqu’à 10% de son actif net dans des parts d’OPCVM (y compris monétaires) et/ou autres OPC.\nIl peut intervenir sur des instruments financiers dérivés à terme ferme négociés ou optionnels et peut intervenir sur le risque d’action, de taux et de change. Il peut prendre des positions en vue de couvrir tout ou partie du portefeuille et/ou réaliser un objectif de performance. L’utilisation des instruments financiers dérivés à terme ne générera pas de surexposition et pourra entraîner un degré d’exposition du compartiment en actions de 0 à 100%.\nLa proportion attendue de la valeur nette d’inventaire du compartiment faisant l’objet de contrats d’échange sur rendement global est inférieure à 10%. Pour plus de détail: se reporter au prospectus.\n\nValeur de référence: Compte tenu du style d’investissement discrétionnaire, le compartiment est géré activement sans se référer à un indice de référence. L’indice Morningstar Developed Europe Target Market Exposure NR EUR libellé en euros pourra être retenu à titre d’indicateur de référence a posteriori.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Factsheet : le PDF utilise une police à encodage décalé (lettres décalées d’un caractère dans le texte extrait) ; libellés, positions, gérants, date de création et disclaimer lus après décodage (+1 caractère) et contrôlés sur l’image de la page 1 ; les pourcentages des répartitions sont en clair. Le script verif_fiche.py ne peut donc pas retrouver ces libellés dans le texte extrait (écarts attendus, non des erreurs). Politique : la factsheet n’a qu’une phrase (« Stratégie globale ») → section « Objectifs » du KID, avec la « Valeur de référence » ; césures recollées (fi-nanciers). Date de création « 02/03/2015 » (informations générales classe I ; KID : compartiment et classe lancés en 2015). Encours = « Actif net du compartiment 893 M€ ». Frais : factsheet « 1,36 % de l’actif net / an dont 1,20 % de frais de gestion » → frais de gestion 1,20 ; frais courants = KID « 1,4% » (une décimale ; la factsheet donne 1,36 %) ; pas de commission de surperformance ni de souscription/rachat. Indice « Aucun » : KID « géré activement sans se référer à un indice de référence » ; l’indice Morningstar Developed Europe Target Market Exposure NR EUR « pourra être retenu à titre d’indicateur de référence a posteriori » (non repris). SRI 4 (KID « classe de risque 4 sur 7 »). SFDR article 8 (factsheet et KID). Gérants indiqués par initiale uniquement (G. Brisset, N. Descoqs, M. Goueffon). Classification Dynamique : actions internationales (à dominante Europe), SRI 4. Positions : seules les 6 principales positions actions affichées (% de l’actif net). Capitalisation : « 100,0 % : > 10 Mrd ».",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.2",
+    "devise": "KID p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.2",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.2",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "KID p.1",
+    "sfdr": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Europe",
+      "pct": "73.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions France",
+      "pct": "20.3"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions Amérique du Nord",
+      "pct": "5.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "0.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "OPCVM",
+      "pct": "0.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "35.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Financières",
+      "pct": "23.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux de base",
+      "pct": "9.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "7.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. discrétionnaire",
+      "pct": "7.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "7.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "3.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Conso. de base",
+      "pct": "0.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécoms",
+      "pct": "0.4"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "> 10 Mrd",
+      "pct": "100.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "INTESA SANPAOLO",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SANTANDER",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AIRBUS",
+      "pct": "3.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNICREDIT",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAFRAN",
+      "pct": "3.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALLIANZ",
+      "pct": "3.0"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "n": "197",
+  "isin": "FR0013409463",
+  "nom": "(I/C)LAZARD PATRIMOINE OPPORTUNITIES SRI PC EUR",
+  "maison": "Lazard Frères Gestion",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-10-08",
+  "date_creation": "2019-04-01",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs (flexible ISR)",
+  "compartiment": "Lazard Patrimoine Opportunities SRI - Action PC EUR, compartiment de LAZARD MULTI ASSETS",
+  "gerants": "Julien-Pierre NOUEN, Colin FAIVRE",
+  "encours_millions": "480.34",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.78",
+  "frais_courants": "1.03",
+  "sri": "3",
+  "indice": "50% ICE BofAML Euro Broad Market + 50% MSCI World All Countries",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "7.0 (sensibilité)",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+  "politique_fr": "Objectif de gestion et stratégie d'investissement\nL’objectif de gestion vise à atteindre, en appliquant une gestion de type Investissement Socialement Responsable (ISR), sur la durée de placement recommandée de 3 ans, une performance nette de frais de gestion supérieure à l’indicateur de référence composite suivant : 50% MSCI World All Countries + 50% ICE BofAML Euro Broad Market Index (Code Bloomberg : EMU0). L’indice est rebalancé mensuellement et ses constituants sont exprimés en euro, ils s’entendent dividendes ou coupons nets réinvestis. L’allocation d’actifs du Compartiment est discrétionnaire et vise à optimiser le couple rendement/risque du portefeuille, via une gestion dynamique de l’allocation du portefeuille, dans le cadre de mouvements tactiques à horizon moyen terme (quelques mois) ou court terme (quelques semaines).",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part PC, reporting d'août 2026 (« 08-2026 »). Date de création = « Date de 1ère VL de la part 01/04/2019 » (identique à la date de création). Encours = « Actif net du fonds 480.34 M€ ». Frais de gestion = « Frais de gestion (max) 0.78% max » (maximum) ; frais courants = KID « Frais de gestion et autres coûts administratifs et d’exploitation » 1,03 % (la factsheet indique « Frais courants DIC PRIIPS 0.99% ») ; pas de commission de surperformance. Indice composite de l'objectif de performance, tel qu'écrit dans le cadre « Indicateur de référence » de la factsheet (texte de l'objectif : « 50% MSCI World All Countries + 50% ICE BofAML Euro Broad Market Index (Code Bloomberg : EMU0) »). Duration = « Sensibilité globale 7.0 » (portefeuille ; sensibilité de la poche obligataire 5.4, maturité moyenne 5.6 ans, taux actuariel 3.9 %, spread 70.9 bps). Qualité vide (aucune notation moyenne ; graphique des notations en image). SFDR article 8 (factsheet et KID) ; aucun % d'investissements durables écrit. Durée de placement : 3 ans dans l'objectif, « Durée de placement recommandée de 5 ans » sous l'échelle de risque (incohérence du document). Classification Equilibré : allocation flexible, actions 20 % à 80 % (exposition nette actions 46.9 %), SRI 3. Allocations (colonne Fonds, en % de l'actif net sauf mention) : Zones géographiques = « Exposition géographique actions » ; Classes d'actifs = répartition obligataire et cash (exposition nette actions 46.9 % non reprise comme ligne) ; Instruments = détail des obligations privées ; Positions = 5 principaux titres de la poche action (% de la poche action) puis 5 de la poche obligataire (% de la poche obligataire) ; « Répartition géographique de la sensibilité » non reprise (en points de sensibilité) ; les graphiques de la p.3 (géographie, secteurs, notations, capitalisations, maturités) sont des images, non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "duration": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Europe",
+      "pct": "11.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Emergentes",
+      "pct": "5.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions US",
+      "pct": "28.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Japon",
+      "pct": "1.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Actions Autres",
+      "pct": "0.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "69.3"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "14.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "JPY",
+      "pct": "6.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Devises Émergentes",
+      "pct": "5.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "CHF",
+      "pct": "2.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations d'Etat et quasi-souveraines",
+      "pct": "19.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations privées",
+      "pct": "28.9"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Cash et autres assimilés",
+      "pct": "5.3"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Corporate Investment Grade",
+      "pct": "13.2"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Corporate High Yield",
+      "pct": "2.2"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Financières Senior",
+      "pct": "12.0"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Financières Subordonnées",
+      "pct": "1.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICROSOFT CORP",
+      "pct": "5.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA CORP",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ALPHABET INC. -A-",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLE INC",
+      "pct": "3.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AMAZON.COM INC",
+      "pct": "3.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "O.A.T. 31/2% 25-25NO35A",
+      "pct": "5.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "O.A.T. 1 3/4% 17-25JN39A",
+      "pct": "4.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALIE(REP.) 3,85% 25-01OC40S",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALIE 4% (GREEN BD)22-30AP35S",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ITALIE 2,95% (BTP) 25-01JY30S",
+      "pct": "3.9"
+    }
+  ]
+}

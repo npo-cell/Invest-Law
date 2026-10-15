@@ -1,0 +1,221 @@
+{
+  "n": "168",
+  "isin": "LU0862450359",
+  "nom": "(I/C)JPM EMERGING MKT DIV FUND C EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-27",
+  "date_creation": "2013-03-13",
+  "devise": "EUR",
+  "type_fonds": "Actions marchés émergents",
+  "compartiment": "un compartiment de JPMorgan Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
+  "gerants": "Omar Negyal, Shuyu Gao",
+  "encours_millions": "1454.9",
+  "encours_devise": "USD",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "0.95",
+  "sri": "4",
+  "indice": "",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+  "politique_fr": "Objectif d´investissement: Générer un rendement en investissant essentiellement dans des actions de sociétés des marchés émergents qui distribuent des dividendes, tout en participant à la croissance du capital sur le long terme.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nUtilise une approche basée sur de fortes convictions en vue d’identifier les meilleures idées d’investissement.\nCherche à concilier rendement attrayant et appréciation du capital.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Part C (acc) EUR. Factsheet FR au 30/09/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées). Date de création = « Lancement de la classe 13 Mars 2013 » (fonds : 11 Déc. 2012). Encours = « Actifs net du fonds USD 1454,9m ». Frais de gestion vide : la factsheet ne donne que « Frais courants 0,96% » ; frais courants = KID 0,95 % (écart de 0,01 avec la factsheet, KID retenu). Indice vide : « MSCI Emerging Markets Index (Total Return Net) » est l'indice de référence de la classe, mais le KID indique comme seul recours « Comparaison des performances ». SFDR article 8 ; le KID prévoit « au moins 20% » d'investissements durables (minimum). Classification Agressif : actions des pays émergents, malgré un SRI de 4. Compartiment : KID (« un compartiment de JPMorgan Funds ») + section « Type ». Positions datées du 31 août 2026 ; répartition « RÉGIONS » (par pays) classée en Pays ; colonnes du fonds seulement.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "TSMC",
+      "pct": "9.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Samsung Electronics",
+      "pct": "8.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SK Hynix",
+      "pct": "5.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Tencent",
+      "pct": "3.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Lenovo",
+      "pct": "2.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MediaTek",
+      "pct": "2.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASE Technology",
+      "pct": "2.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Lite-On Technology",
+      "pct": "2.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Advantech",
+      "pct": "2.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Kia",
+      "pct": "2.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Taïwan",
+      "pct": "24.2"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Corée",
+      "pct": "22.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Chine",
+      "pct": "22.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Brésil",
+      "pct": "6.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Inde",
+      "pct": "5.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Afrique du Sud",
+      "pct": "3.6"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Mexique",
+      "pct": "3.0"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Arabie Saoudite",
+      "pct": "2.4"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Grèce",
+      "pct": "1.9"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Indonésie",
+      "pct": "1.8"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Autres",
+      "pct": "5.5"
+    },
+    {
+      "type": "Pays",
+      "libelle": "Liquidités",
+      "pct": "1.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de I'information",
+      "pct": "41.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Institutions financières",
+      "pct": "26.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation durables",
+      "pct": "7.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "5.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "5.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "3.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de consommation de base",
+      "pct": "3.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Sociétés industrielles",
+      "pct": "1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "1.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "1.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités",
+      "pct": "1.2"
+    }
+  ]
+}

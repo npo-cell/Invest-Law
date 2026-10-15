@@ -1,0 +1,256 @@
+{
+  "n": "115",
+  "isin": "FR0013299294",
+  "nom": "(I/C)ECHIQUIER POSITIVE IMPACT EUROPE G EUR",
+  "maison": "La Financière de l'Echiquier",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-14",
+  "date_creation": "2017-12-01",
+  "devise": "EUR",
+  "type_fonds": "Actions européennes (impact)",
+  "compartiment": "Compartiment de la SICAV ECHIQUIERIMPACT gérée par La Financière de l'Echiquier",
+  "gerants": "Adrien Bommelaer, Luc Olivier, Paul Merle",
+  "encours_millions": "422",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.11",
+  "frais_courants": "1.20",
+  "sri": "4",
+  "indice": "",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "L'OPCVM met en oeuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking » obtenue au travers de la mise en oeuvre d'un processus qui passe par la rencontre directe avec les entreprises dans lesquelles le compartiment investit. Le fonds est exposé en permanence entre 60% et 100% aux actions européennes (Union européenne, Association européenne de libre échange et Royaume-Uni). L'exposition maximale aux petites et moyennes capitalisations sera de 60%. Toutefois, afin de permettre l'éligibilité du compartiment au PEA, il est investi à hauteur de 75 % en actions européennes.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création = « Date de 1ère VNI 01/12/2017 » (part G) ; « Création du compartiment 19/03/2010 », SICAV Echiquier Impact créée le 16/10/2017. Compartiment : texte du KID tel qu'écrit (« ECHIQUIERIMPACT » ; factsheet : « Sicav Echiquier Impact »). Frais de gestion = « Frais de gestion 1,11% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.20% » (identique à la factsheet « Frais au 16/12/2025 ») ; pas de commission de surperformance. Indice laissé vide : le KID dit que l'indice MSCI EUROPE NR est « utilisé uniquement à titre » indicatif (factsheet : indice MSCI Europe en comparaison). SFDR « Classification SFDR Article 9 », aucun % d'investissements durables écrit. Classification Dynamique : actions européennes diversifiées à impact (SRI 4). Politique : texte de présentation de la factsheet (politique de gestion ; le KID contient l'objectif et une politique plus détaillée). Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 0,1 %) ; graphiques lus par position des étiquettes (barre supérieure / gauche = compartiment, vérifié par les totaux) ; secteur « Autres » sans valeur pour le compartiment, non repris. Positions = 10 principales positions (40,4 %).",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "ASML",
+      "pct": "6.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Atlas Copco A",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Iberdrola",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "SAP",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "L'Oréal",
+      "pct": "3.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Visa",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Siemens",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Air Liquide",
+      "pct": "3.6"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Ecolab",
+      "pct": "3.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Novartis",
+      "pct": "3.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DEU",
+      "pct": "22.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "FRA",
+      "pct": "18.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "NLD",
+      "pct": "10.1"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "GBR",
+      "pct": "8.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "SWE",
+      "pct": "7.6"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ITA",
+      "pct": "7.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "USA",
+      "pct": "7.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "CHE",
+      "pct": "6.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "ESP",
+      "pct": "6.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "DNK",
+      "pct": "2.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Autres",
+      "pct": "2.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "28.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "IT",
+      "pct": "18.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prod. financiers",
+      "pct": "14.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "11.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Serv. collectifs",
+      "pct": "11.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins de santé",
+      "pct": "10.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Prod. 1ere néces.",
+      "pct": "3.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Energie",
+      "pct": "2.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": ">100Mds",
+      "pct": "31.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "50Mds - 100Mds",
+      "pct": "24.2"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "10Mds - 50Mds",
+      "pct": "30.5"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "5Mds - 10Mds",
+      "pct": "8.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "1Md - 5Mds",
+      "pct": "4.3"
+    },
+    {
+      "type": "Capitalisations",
+      "libelle": "<1Md",
+      "pct": "1.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "70.4"
+    },
+    {
+      "type": "Devises",
+      "libelle": "SEK",
+      "pct": "7.6"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "7.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "CHF",
+      "pct": "6.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "5.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "DKK",
+      "pct": "2.2"
+    }
+  ]
+}

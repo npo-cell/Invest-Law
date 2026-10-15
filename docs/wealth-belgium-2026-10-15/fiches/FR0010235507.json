@@ -1,0 +1,95 @@
+{
+  "n": "194",
+  "isin": "FR0010235507",
+  "nom": "(I/C)LAZARD CREDIT OPPORTUNITIES PC EUR",
+  "maison": "Lazard Frères Gestion",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-10-08",
+  "date_creation": "2005-10-28",
+  "devise": "EUR",
+  "type_fonds": "Obligataire (crédit flexible)",
+  "compartiment": "Lazard Credit Opportunities - Action PC EUR, compartiment de LAZARD FUNDS",
+  "gerants": "Eléonore BUNEL, Olivier VIETTI, Adrien LALANNE",
+  "encours_millions": "1472.05",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "1.00",
+  "frais_courants": "1.08",
+  "sri": "3",
+  "indice": "€ster capi + 2%",
+  "classification": "Défensif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "BBB",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+  "politique_fr": "Objectifs :\nL’objectif de gestion vise à obtenir sur la durée de placement recommandée de 3 ans, une performance nette de frais supérieure à celle de l'indicateur de référence suivant : €STR Capitalisé + 2,00%. L’indicateur de référence est exprimé en EUR.\n\nPour réaliser cet objectif de gestion, la stratégie passe par une gestion dynamique du risque de taux, du risque de crédit, et du risque de change, en investissant essentiellement sur des dettes risquées émises par des Etats, des entreprises et des institutions et structures financières.\n\nLa sensibilité sera gérée dynamiquement dans une fourchette de ‑5 à +10.\n\nLe portefeuille est composé :\n\n• à hauteur de 100% maximum de l’actif net en obligations et titres de créances négociables libellés en Euro et/ou en toute devise, sans contrainte de signature ;\n• à hauteur de 60% maximum de l’actif net en obligations et titres de créances libellés dans d’autres devises que l’Euro et le Dollar. A hauteur de 10% maximum de l’actif net en OPCVM, FIA français ou étrangers, respectant les 4 critères définis par l’article R.214‑13 du Code monétaire et financier dont la classification est monétaire, monétaire court terme ou obligataire. Ces OPC peuvent être gérés par la société de gestion ;\n• à hauteur de 5% maximum de l’actif net en actions ordinaires issues de restructuration de dettes. Le gérant fera ses meilleurs efforts pour céder les actions reçues dans les meilleurs délais, dans l’intérêt des actionnaires ;\n• à hauteur de 10% maximum de l’actif net en obligations convertibles de type obligataire ;\n• à hauteur de 50% maximum de l’actif net en dettes subordonnées perpétuelles dont 30% maximum de l'actif net en obligations convertibles contingentes \"Cocos Bonds\" ;\n• à hauteur de 5% maximum de l’actif net en actions préférentielles.\n\nPar dérogation aux ratios 5%-10%-40%, l’équipe de gestion pourra investir plus de 35% de l’actif net de l’OPC dans des titres garantis par un Etat membre de l’EEE ou des Etats-Unis.\n\nLe Compartiment peut utiliser des futures sur taux et de change, des options sur taux et de change, des swaps de taux et de change, du change à terme et des dérivés de crédit, négociés sur des marchés réglementés, organisés et/ou de gré à gré pour couvrir et/ou exposer et ainsi porter l'exposition du Compartiment au-delà de l'actif net.\n\nLe portefeuille est exposé aux risques de taux, de change, de crédit et de volatilité, dans une enveloppe de risque fixée par une VaR absolue. Le niveau de la VaR sera inférieur à 15% et le levier n'excédera pas 400% brut.\n\nLe Compartiment peut investir à hauteur de 100% maximum de l’actif net en titres intégrant des dérivés.",
+  "politique_en": "",
+  "source_politique": "KID",
+  "remarques": "Part PC EUR, reporting d'août 2026 (« 08-2026 »). Date de création = « Date de 1ère VL de la part 28/10/2005 » (identique à la date de création). Encours = « Actif net du fonds 1472,05 M€ ». Frais de gestion = « Frais de gestion (max) 1,00% » (maximum) ; frais courants = KID « Frais de gestion et autres coûts administratifs et d’exploitation » 1,08 % (identique à la factsheet) ; pas de commission de surperformance. Indice = indicateur de référence de l'objectif de performance, tel qu'écrit dans la factsheet « €ster capi + 2% depuis le 01/01/2022 » (auparavant €ster capi + 1,75 %, puis Eonia capi + 1,75 %) ; KID : « €STR Capitalisé + 2,00% ». Duration vide : la factsheet donne deux « Sensibilité taux » (Brut (% AUM) 3,2 ; Net (% Expo) 9,5) ; sensibilité crédit 3,2 ; rendement estimé 4,8 % brut / 5,5 % net ; spread 161 bps. Qualité = « Rating Emetteurs BBB » (« Rating Emissions BB+ »). SFDR article 8 (factsheet). Politique prise du KID : la factsheet ne donne que l'objectif commun à toutes les parts (indicateurs par devise), sans stratégie. Classification Défensif : obligataire (crédit, VaR absolue < 15 %, levier ≤ 400 % brut), SRI 3. Allocations : Devises = « Poids Net » (exposition nette hors couverture automatique ; poids brut : EUR 97,8 %, USD 1,4 %, GBP 0,8 %, JPY 0,0 %) ; les graphiques (subordination, géographie, secteurs, maturités, notations) sont des images sans valeurs dans le texte, non repris.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "KID p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "GRAND CITY PROP. TV 26-05MY--A",
+      "pct": "1.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BCO CDT.SOC.TV(REGS)25-13OC37A",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "RAIFFEIS.BK.TV(COCO)24-25NO--S",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BANCO SANT.TV (COCO)21-21SE--T",
+      "pct": "0.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "PIRAEUS BK. TV(EMTN)24-18SE35A",
+      "pct": "0.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "109.9"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "-9.7"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "-0.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "JPY",
+      "pct": "0.0"
+    }
+  ]
+}

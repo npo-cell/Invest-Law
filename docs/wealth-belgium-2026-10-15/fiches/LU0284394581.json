@@ -1,0 +1,383 @@
+{
+  "n": "96",
+  "isin": "LU0284394581",
+  "nom": "(I/C)DNCA INVEST EVOLUTIF I EUR",
+  "maison": "DNCA FINANCE",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-09-13",
+  "date_creation": "2007-06-21",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs (mixte flexible)",
+  "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+  "gerants": "Alexis ALBERT, Augustin PICQUENDAR",
+  "encours_millions": "945",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "",
+  "frais_courants": "1.08",
+  "sri": "4",
+  "indice": "25% MSCI World NR EUR + 25 MSCI Europe NR EUR + 50% Bloomberg Euro Govt Inflation Linked 1-10 years",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "2.93 (sensibilité)",
+  "qualite_emetteurs": "A-",
+  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+  "politique_fr": "Objectif de gestion\nLe Compartiment cherche à surperformer l’indice composite 25% MSCI World NR EUR + 25 MSCI Europe NR EUR + 50% Bloomberg Euro Govt Inflation Linked 1-10 years, dividendes réinvestis, sur la période d’investissement recommandée, tout en protégeant le capital en période défavorable grâce à une gestion opportuniste et une allocation d’actifs flexible. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Date de création « 21/06/2007 » (factsheet p.6) : la factsheet ne précise pas s'il s'agit de la part I ou du compartiment. Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 1,08% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà de l'indice composite (0,22 %). Indice composite recopié tel qu'écrit (« 25 MSCI Europe NR EUR » sans « % » dans le document). Duration = « Sensibilité moyenne 2,93 » (maturité moyenne 3,29 ans). Qualité = « Note moyenne A- ». Classification Dynamique : mixte flexible à dominante actions (63,5 % actions, SRI 4). SFDR article 8, aucun % d'investissements durables écrit. Positions = 5 principales positions du portefeuille actions puis 5 du portefeuille obligataire (p.3), en % du fonds. Classes d'actifs, secteurs et zones géographiques : répartitions du fonds (p.2, colonne Fonds), secteurs/pays à « - » non repris, total géographique 95,6 % tel qu'écrit ; les répartitions « Poche action (base 100) » de la p.3 ne sont pas reprises. Instruments = tableau « Composition et indicateurs du portefeuille obligataire » (colonne Poids). Notations et Maturités = « Poche obligataire (base 100) », lues sur graphique (positions des étiquettes vérifiées ; pas de valeur AA). Non repris : contributions à la performance, données ESG.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.6",
+    "devise": "factsheet p.6",
+    "compartiment": "factsheet p.7",
+    "gerants": "factsheet p.6",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.6",
+    "sfdr": "factsheet p.6",
+    "duration": "factsheet p.1",
+    "qualite_emetteurs": "factsheet p.1",
+    "disclaimer": "factsheet p.7",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "IBERDROLA SA",
+      "pct": "2.45"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GOLDMAN SACHS GROUP INC",
+      "pct": "2.44"
+    },
+    {
+      "type": "Positions",
+      "libelle": "GAZTRANSPORT ET TECHNIGA SA",
+      "pct": "2.32"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING NV",
+      "pct": "2.29"
+    },
+    {
+      "type": "Positions",
+      "libelle": "UNICREDIT SPA",
+      "pct": "2.24"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Deutsche Bundesrepublik Inflation Linked Bond 0.5% 2030",
+      "pct": "5.35"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Spain Government Inflation Linked Bond 1% 2030",
+      "pct": "5.09"
+    },
+    {
+      "type": "Positions",
+      "libelle": "European Union 2.5% 2031",
+      "pct": "4.50"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Italy Buoni Poliennali Del Tesoro 1.5% 2029",
+      "pct": "2.89"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Italy Buoni Poliennali Del Tesoro 1.6% 2028",
+      "pct": "2.10"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "63.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations d'état",
+      "pct": "24.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations crédit",
+      "pct": "10.8"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "CFD",
+      "pct": "0.1"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités et autres",
+      "pct": "1.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Obligations d'États",
+      "pct": "24.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologie",
+      "pct": "16.2"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens et services industriels",
+      "pct": "13.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Banques",
+      "pct": "5.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Produits et services de consommation",
+      "pct": "4.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "4.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "3.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Voyages et loisirs",
+      "pct": "3.5"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Distribution",
+      "pct": "2.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux collectivités",
+      "pct": "2.7"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services financiers",
+      "pct": "2.4"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "2.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Chimie",
+      "pct": "2.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Ressources de base",
+      "pct": "1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Agroalimentaire, boisson et tabac",
+      "pct": "1.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Bâtiment et matériaux de construction",
+      "pct": "1.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Automobiles et équipementiers",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Assurance",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Médias",
+      "pct": "1.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Liquidités et autres",
+      "pct": "1.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Etats-Unis",
+      "pct": "34.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "France",
+      "pct": "17.3"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Italie",
+      "pct": "11.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Allemagne",
+      "pct": "7.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Espagne",
+      "pct": "7.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pays-Bas",
+      "pct": "4.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Grèce",
+      "pct": "3.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Suisse",
+      "pct": "1.9"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Taiwan",
+      "pct": "1.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Corée du Sud",
+      "pct": "1.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Brésil",
+      "pct": "1.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Irlande",
+      "pct": "1.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Royaume-Uni",
+      "pct": "0.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Danemark",
+      "pct": "0.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "0.2"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Chine",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Liquidités et autres",
+      "pct": "1.0"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Obligations taux fixe",
+      "pct": "35.08"
+    },
+    {
+      "type": "Instruments",
+      "libelle": "Obligations hybrides",
+      "pct": "0.36"
+    },
+    {
+      "type": "Notations",
+      "libelle": "AAA",
+      "pct": "27.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "A",
+      "pct": "13.8"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BBB",
+      "pct": "37.9"
+    },
+    {
+      "type": "Notations",
+      "libelle": "BB",
+      "pct": "17.0"
+    },
+    {
+      "type": "Notations",
+      "libelle": "NR",
+      "pct": "3.6"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "< 1 an",
+      "pct": "7.9"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "1 - 2 ans",
+      "pct": "0.4"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "2 - 3 ans",
+      "pct": "22.3"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "3 - 4 ans",
+      "pct": "25.5"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "4 - 5 ans",
+      "pct": "29.5"
+    },
+    {
+      "type": "Maturités",
+      "libelle": "> 5 ans",
+      "pct": "14.4"
+    }
+  ]
+}

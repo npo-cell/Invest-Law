@@ -1,0 +1,222 @@
+{
+  "n": "288",
+  "isin": "LU2146192377",
+  "nom": "(I/C)ROBECO SUSTAINABLE WATER EQUITIES I EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-07-16",
+  "date_creation": "2020-10-29",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (eau)",
+  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+  "gerants": "Dieter Küffer, Jindapa (Amy) Wanner-Thavornsuk",
+  "encours_millions": "2162.471803",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "0.80",
+  "frais_courants": "0.93",
+  "sri": "4",
+  "indice": "MSCI All Country World Index (Net Return, EUR)",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "9",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+  "politique_fr": "À propos du fonds\nRobeco Sustainable Water est un fonds à gestion active qui investit mondialement dans des entreprises qui contribuent à un approvisionnement en eau propre, sûr et durable. La sélection de ces titres est basée sur une analyse fondamentale. Le fonds a pour objectif l'investissement durable au sens de l'Article 9 du Règlement (UE) 2019/2088 du 27 novembre 2019 sur la publication d'informations en matière de durabilité dans le secteur financier. Le processus de sélection de titres intègre les critères de durabilité grâce à l'évaluation de la durabilité spécifique à la thématique. Le portefeuille est basé sur un univers d'investissement éligible qui comprend des sociétés dont les business models contribuent aux objectifs d'investissement thématique. L'évaluation relative aux ODD concernés utilise un cadre développé en interne. Pour en savoir plus, consultez www.robeco.com/si.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Gérants : « Dieter Küffer CFA, Jindapa (Amy) Wanner-Thavornsuk CFA » (titres CFA non repris). Date de lancement 29/10/2020 : à cette date le fonds a absorbé « Multipartner SICAV - Robeco Sustainable Water Fund » (performances antérieures simulées). Indice : KID « utilise un indice à des fins de comparaison » mais objectif « une performance supérieure à l'indice de référence » → retenu ; « Avec effet au 16 juillet 2026, l'indice de référence est passé de l'indice MSCI World à l'indice MSCI All Country World ». Classification Agressif : fonds thématique (eau), SRI 4. SFDR article 9 (factsheet et KID), aucun % d'investissements durables écrit. Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,93 % (identiques aux « Frais courants » de la factsheet). SFDR article 9 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.1",
+    "indice": "factsheet p.1",
+    "sfdr": "KID p.1",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Agilent Technologies Inc",
+      "pct": "5.10"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Veralto Corp",
+      "pct": "3.16"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Xylem Inc/NY",
+      "pct": "2.91"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Spirax Group PLC",
+      "pct": "2.59"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Asia Vital Components Co Ltd",
+      "pct": "2.55"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Weir PLC",
+      "pct": "2.52"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Danaher Corp",
+      "pct": "2.46"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Entegris Inc",
+      "pct": "2.40"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Veolia Environnement SA",
+      "pct": "2.39"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Kurita Water Industries Ltd",
+      "pct": "2.39"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "98.7"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Liquidités",
+      "pct": "1.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "57.8"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Santé",
+      "pct": "14.9"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Technologies de l'Information",
+      "pct": "14.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services aux Collectivités",
+      "pct": "6.1"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériels",
+      "pct": "5.3"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "1.6"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Finance",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Énergie",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services de communication",
+      "pct": "0.0"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens de Consommation de Base",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amerique",
+      "pct": "60.7"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "l'Europe",
+      "pct": "22.4"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asia",
+      "pct": "16.8"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Moyen-Orient",
+      "pct": "0.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Afrique",
+      "pct": "0.0"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Dollar Américain",
+      "pct": "51.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Yen japonais",
+      "pct": "12.8"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Euro",
+      "pct": "10.1"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Livre Sterling",
+      "pct": "9.2"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Franc Suisse",
+      "pct": "3.5"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "12.5"
+    }
+  ]
+}

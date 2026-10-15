@@ -1,0 +1,137 @@
+{
+  "n": "111",
+  "isin": "FR0012870673",
+  "nom": "(I/C)ECHIQUIER ALLOCATION FLEXIBLE G EUR",
+  "maison": "La Financière de l'Echiquier",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-04-17",
+  "date_creation": "2015-09-25",
+  "devise": "EUR",
+  "type_fonds": "Multi-actifs (flexible)",
+  "compartiment": "FCP",
+  "gerants": "Enguerrand Artaz, Alexis Bienvenu, Matthieu Leblanc",
+  "encours_millions": "51",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.10",
+  "frais_courants": "1.70",
+  "sri": "3",
+  "indice": "€STER capitalisé+5,9%",
+  "classification": "Equilibré",
+  "categorie": "",
+  "sfdr": "",
+  "durable_pct": "",
+  "duration": "0.83",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+  "politique_fr": "Echiquier Allocation Flexible G est un fonds recherchant à délivrer une performance nette de frais de gestion égale à €ster capitalisé + 5,9% sur la durée de placement recommandée au travers d'une gestion discrétionnaire et opportuniste notamment sur les marchés de taux, d'actions, de crédit et de devises.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Structure : « Type FCP » (factsheet) ; KID : « Ce FCP est géré par La Financière de l'Echiquier ». Date de création = « Date de 1ère VNI 25/09/2015 » (identique à « Création »). Frais de gestion = « Frais de gestion 1,10% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.70% » (factsheet « Frais au 26/02/2026 » : 1,704 %) ; pas de commission de surperformance. Indice = « Objectif de gestion €STER capitalisé+5,9% » (objectif de performance ; le KID précise qu'il est « utilisé uniquement à titre indicatif ») ; historique : 50% FTSE WGBI / 50% MSCI ACWI jusqu'en 2019, Eonia capitalisé+5,9% jusqu'au 31/12/2021. SFDR : « Classification SFDR - » (non indiquée). Duration = « Duration au 30/09/2026 : 0,83 » (sans unité) ; sensibilité au dollar 32,9 %. Classification Equilibré : flexible (exposition actions 73,6 % au 30/09/2026, maximum 80 %, SRI 3) ; Dynamique possible vu l'exposition actuelle. Politique : texte de présentation de la factsheet (une phrase avec l'objectif et la stratégie ; le KID contient une politique plus détaillée). Allocations : « Exposition par type d'actif » (en % de l'actif net, total 127,2 % : exposition et non répartition), lue sur graphique (positions vérifiées) ; Positions = principales positions en actions (5) puis en obligations (3), « En % de l'exposition » (et non de l'actif net) ; Zones géographiques = « Répartition de l'allocation actions » (en % de l'actif net) ; « Répartition de l'allocation obligataire » en contribution à la duration non reprise.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "factsheet p.1",
+    "gerants": "factsheet p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "duration": "factsheet p.2",
+    "disclaimer": "factsheet p.1",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Actions",
+      "pct": "73.6"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Obligations",
+      "pct": "48.5"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Perf. Absolue / Mat. 1ère",
+      "pct": "1.2"
+    },
+    {
+      "type": "Classes d'actifs",
+      "libelle": "Trésorerie",
+      "pct": "3.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amundi S&P 500 II Ucits ETF",
+      "pct": "14.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amundi S&P 500 II ETF € Hed.",
+      "pct": "12.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JPM Eurozone REI Active ETF",
+      "pct": "9.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Amundi Nasdaq-100 ETF €",
+      "pct": "7.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Groupama Glb Disruption IC €",
+      "pct": "5.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Pareto Nordic Cross Cred. H-I €",
+      "pct": "10.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "LBPAM Abs Return Credit I",
+      "pct": "9.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Echiquier Credit SRI Europe IXL",
+      "pct": "2.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "45.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "16.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Pacifique",
+      "pct": "6.0"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Emergents ex Asie",
+      "pct": "5.5"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Chine",
+      "pct": "0"
+    }
+  ]
+}

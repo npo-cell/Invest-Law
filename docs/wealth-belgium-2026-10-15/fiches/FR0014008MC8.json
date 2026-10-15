@@ -1,0 +1,102 @@
+{
+  "n": "277",
+  "isin": "FR0014008MC8",
+  "nom": "(I/C)R-CO THEMATIC BLOCKCHAIN GLOBAL EQUITY P EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "factsheet_date": "2026-09-30",
+  "kid_date": "2026-03-01",
+  "date_creation": "2022-07-08",
+  "devise": "EUR",
+  "type_fonds": "Actions thématiques (blockchain)",
+  "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+  "gerants": "Charles-Edouard BILBAULT, Klara SOK",
+  "encours_millions": "140.82",
+  "encours_devise": "EUR",
+  "encours_date": "2026-09-30",
+  "frais_gestion": "1.30",
+  "frais_courants": "1.37",
+  "sri": "6",
+  "indice": "MSCI World NTR EUR",
+  "classification": "Agressif",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe compartiment R-co Thematic Blockchain Global Equity a pour objectif de gestion de réaliser, sur la durée de placement recommandée (supérieure ou égale à cinq ans), une performance nette de frais supérieure à celle de son indicateur de référence, l’indice MSCI Daily TR Net World dividendes réinvestis (MSDEWIN) en Euro, en cherchant à investir dans des actions des entreprises actives sur les thématiques de la blockchain.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "« SICAV Actions Internationales » ; compartiment R-co Thematic Blockchain Global Equity de la SICAV R-co 2 (KID). Date de création = « Date de création 08/07/2022 » = « Date 1ère VL 08/07/2022 ». Encours « Actifs sous gestion 140,82 M€ ». Frais de gestion = « Frais de gestion financière 1,30% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,37 % (factsheet : « Frais courants ex-post 1,14% ») ; commission de surperformance 20 % au-delà de l'indice. Indice : « MSCI World NTR EUR » (tableau Caractéristiques de la factsheet) ; la stratégie (factsheet) et le KID le nomment « l’indice MSCI Daily TR Net World dividendes réinvestis (MSDEWIN) en Euro » (objectif de performance). Pas de duration ni de notation (fonds actions). SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Politique : « STRATÉGIE D'INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations : classes d'actifs, capitalisation, secteurs et pays = graphiques en image non lisibles dans le texte du PDF → non repris ; seules les 10 principales positions sont reprises.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.4",
+    "devise": "factsheet p.4",
+    "compartiment": "KID p.1",
+    "gerants": "factsheet p.4",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.4",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.4",
+    "sfdr": "KID p.3",
+    "disclaimer": "factsheet p.5",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "Coinbase Global Inc",
+      "pct": "7.5"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Galaxy Digital Inc",
+      "pct": "6.7"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Hyperliquid Strategies Inc",
+      "pct": "5.4"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Hut 8 Corp",
+      "pct": "5.2"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Core Scientific Inc",
+      "pct": "4.8"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Forward Industries Inc",
+      "pct": "4.3"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BitMine Immersion Technologies",
+      "pct": "4.1"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Abaxx Technologies Inc",
+      "pct": "4.0"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Figure Technology Solutions In",
+      "pct": "3.9"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Circle Internet Group Inc",
+      "pct": "3.8"
+    }
+  ]
+}

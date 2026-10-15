@@ -1,0 +1,211 @@
+{
+  "n": "152",
+  "isin": "LU0191250769",
+  "nom": "(I/C)GOLDMAN SACHS - GLOB SUSTAINABLE EQUITY I EUR",
+  "maison": "NN INVESTMENT PARTNERS BV",
+  "factsheet_date": "2026-08-31",
+  "kid_date": "2026-03-03",
+  "date_creation": "2004-07-07",
+  "devise": "EUR",
+  "type_fonds": "Actions internationales",
+  "compartiment": "Goldman Sachs Global Sustainable Equity, un compartiment (ci-après dénommé le « Fonds ») de Goldman Sachs Funds III. Goldman Sachs Funds III est un organisme de placement collectif organisé en vertu des lois du Luxembourg en tant que société d’investissement à capital variable (S.I.C.A.V.) et est considéré comme un OPCVM.",
+  "gerants": "",
+  "encours_millions": "813.50",
+  "encours_devise": "EUR",
+  "encours_date": "2026-08-31",
+  "frais_gestion": "0.60",
+  "frais_courants": "0.81",
+  "sri": "4",
+  "indice": "MSCI World Index - EUR (Net Total Return)",
+  "classification": "Dynamique",
+  "categorie": "",
+  "sfdr": "8",
+  "durable_pct": "",
+  "duration": "",
+  "qualite_emetteurs": "",
+  "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+  "politique_fr": "Politique d’investissement\nLe Fonds est classé comme produit financier en vertu de l’Article 8 du règlement européen SFDR sur la publication d’informations en matière de durabilité. Le Fonds promeut des caractéristiques environnementales ou sociales et a pour objectif un investissement durable partiel. Le Fonds intègre les facteurs et le risque ESG dans le processus d’investissement aux côtés des facteurs traditionnels. Des renseignements détaillés sur la publication d’informations du Fonds liées à la durabilité sont disponibles dans le Modèle d’informations précontractuelles (annexe du prospectus) dans la section relative au Fonds sur le site https://am.gs.com. Le fonds investit dans des sociétés cotées sur les marchés du monde entier qui s’efforcent d’appliquer un modèle économique durable. La sélection de ces sociétés allie l’analyse des facteurs environnementaux (p. ex. intensité en carbone), sociaux (p. ex. droits de l’homme, non-discrimination, absence de travail des enfants, mixité hommes-femmes) et de gouvernance (p. ex. politique de rémunération) à la performance financière. Le processus de sélection peut être limité par la qualité et la disponibilité des données communiquées par les émetteurs ou fournies par des tiers. Le fonds a recours à une gestion active pour cibler des sociétés qui ont des modèles économiques durables, en mettant l’accent sur les produits et services offerts, dans le cadre de laquelle des limites de surpondération maximales par rapport à l’indice de référence sont appliquées au niveau des actions individuelles. Le fonds cherche également à abaisser son intensité carbone par rapport à celle de l’indice de référence. Le fonds possède un univers d’investissement international. Le fonds peut également inclure des investissements en titres ne relevant pas de l’univers de l’indice de référence. Sa composition au niveau des titres individuels différera donc sensiblement de celle de l’indice de référence. Dans le cadre de son processus de sélection des titres, le fonds utilise une analyse fondamentale ainsi qu’une analyse ESG et exclut également les investissements dans des émetteurs qui sont impliqués dans des activités controversées. Notre objectif est de dépasser la performance de la valeur de référence MSCI World NR sur plusieurs années. L’indice de référence constitue une large représentation de notre univers d’investissement.",
+  "politique_en": "",
+  "source_politique": "Factsheet",
+  "remarques": "Factsheet FR au 31/08/2026 (septembre non publiée). Politique : bloc « Politique d’investissement » de la factsheet (indiqué comme tiré du DIC), sans les phrases sur les rachats quotidiens et la capitalisation des revenus. Date de création = « Lancement de la part 07/07/2004 » (compartiment lancé le 19/06/2000). Encours = « Actifs du fonds (mio) EUR 813.50 » (actifs de la part : 117.12 M EUR). Gérants : aucun nom dans les documents. Frais de gestion = « Commission de gestion annuelle 0.60% » (plus « Commission de service fixe 0.20% ») ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.81 % (identique à la factsheet). Indice : objectif « dépasser la performance de la valeur de référence MSCI World NR » ; nom repris du tableau « Informations clés » de la factsheet. SFDR article 8, « objectif un investissement durable partiel » sans pourcentage. Pas de répartition par capitalisation. Positions hors liquidités (note de bas de page) ; répartitions incluant les liquidités.",
+  "sources": {
+    "factsheet_date": "factsheet p.1",
+    "kid_date": "KID p.1",
+    "date_creation": "factsheet p.1",
+    "devise": "factsheet p.1",
+    "compartiment": "KID p.1",
+    "encours_millions": "factsheet p.1",
+    "encours_devise": "factsheet p.1",
+    "encours_date": "factsheet p.1",
+    "frais_gestion": "factsheet p.1",
+    "frais_courants": "KID p.3",
+    "sri": "KID p.2",
+    "indice": "factsheet p.1",
+    "sfdr": "factsheet p.1",
+    "disclaimer": "factsheet p.2",
+    "politique_fr": "factsheet p.1",
+    "source_politique": "factsheet p.1"
+  },
+  "allocations": [
+    {
+      "type": "Positions",
+      "libelle": "NVIDIA CORP",
+      "pct": "7.08"
+    },
+    {
+      "type": "Positions",
+      "libelle": "APPLE INC",
+      "pct": "6.03"
+    },
+    {
+      "type": "Positions",
+      "libelle": "MICROSOFT CORP",
+      "pct": "4.58"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Alphabet Inc",
+      "pct": "4.38"
+    },
+    {
+      "type": "Positions",
+      "libelle": "AMAZON.COM INC",
+      "pct": "3.21"
+    },
+    {
+      "type": "Positions",
+      "libelle": "BROADCOM INC",
+      "pct": "3.11"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ELI LILLY & CO",
+      "pct": "2.90"
+    },
+    {
+      "type": "Positions",
+      "libelle": "JPMorgan Chase & Co",
+      "pct": "2.30"
+    },
+    {
+      "type": "Positions",
+      "libelle": "ASML HOLDING NV",
+      "pct": "2.25"
+    },
+    {
+      "type": "Positions",
+      "libelle": "Advanced Micro Devices Inc",
+      "pct": "2.13"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Amérique du Nord",
+      "pct": "68.41"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Europe",
+      "pct": "22.18"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Japon",
+      "pct": "5.46"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Asie-Pacifique hors Japon",
+      "pct": "3.08"
+    },
+    {
+      "type": "Zones géographiques",
+      "libelle": "Trésorerie et quasi-trésorerie",
+      "pct": "0.87"
+    },
+    {
+      "type": "Devises",
+      "libelle": "USD",
+      "pct": "72.44"
+    },
+    {
+      "type": "Devises",
+      "libelle": "EUR",
+      "pct": "11.63"
+    },
+    {
+      "type": "Devises",
+      "libelle": "GBP",
+      "pct": "6.58"
+    },
+    {
+      "type": "Devises",
+      "libelle": "JPY",
+      "pct": "5.46"
+    },
+    {
+      "type": "Devises",
+      "libelle": "HKD",
+      "pct": "1.65"
+    },
+    {
+      "type": "Devises",
+      "libelle": "Autres",
+      "pct": "2.25"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "It",
+      "pct": "34.03"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Sociétés Financières",
+      "pct": "18.58"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Soins De Santé",
+      "pct": "10.70"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Consommation Discrétionnaire",
+      "pct": "9.99"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Industrie",
+      "pct": "9.24"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Télécommunications",
+      "pct": "6.25"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Matériaux",
+      "pct": "4.16"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Biens De Consommation De Base",
+      "pct": "3.17"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Services Publics",
+      "pct": "1.88"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Immobilier",
+      "pct": "1.13"
+    },
+    {
+      "type": "Secteurs",
+      "libelle": "Autres",
+      "pct": "0.87"
+    }
+  ]
+}
