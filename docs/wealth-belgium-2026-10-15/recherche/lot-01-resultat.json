@@ -1,0 +1,698 @@
+[
+ {
+  "n": 2,
+  "isin": "LU1437015735",
+  "nom": "(ETF)AMUNDI CORE MSCI EUROPE EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/e036b7a577191c7a415329da2c2b8da1_519725/MR_CH_fr_LU1437015735_QFI_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__KID_FR_2026-06-05.pdf",
+   "url": "https://api.fundinfo.com/document/b90d39533ddf3249c440b2b94e04f339_218515/PRP_CH_fr_LU1437015735_QFI_2026-06-05.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-05",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 3,
+  "isin": "IE00BKSBGS44",
+  "nom": "(ETF)FIDELITY US EQUITY RESEARCH ENHANCED USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/IE00BKSBGS44/IE00BKSBGS44__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/9b4282abeb68610f793db36ede0735f9_193888/MR_LU_fr_IE00BKSBGS44_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/IE00BKSBGS44/IE00BKSBGS44__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/203f80ad1972cb1f4b159566cc9efb53_312788/PRP_LU_fr_IE00BKSBGS44_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 4,
+  "isin": "IE000UFAX9L6",
+  "nom": "(ETF)GOLDMAN SACHS ALPHA ENH WORLD EQUITY EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE000UFAX9L6/IE000UFAX9L6__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/a6e7a867698f52d0c6eb201893b59db7_125915/MR_CH_en_IE000UFAX9L6_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE000UFAX9L6/IE000UFAX9L6__KID_FR_2026-08-03.pdf",
+   "url": "https://api.fundinfo.com/document/a4e6eaa01912016fa8504076c2c2e4b5_170206/PRP_CH_fr_IE000UFAX9L6_YES_2026-08-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 5,
+  "isin": "IE000RDRMSD1",
+  "nom": "(ETF)ISHARES BLOCKCHAIN TECHNOLOGY UCITS USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE000RDRMSD1/IE000RDRMSD1__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e125bbf0d0a85b1425d91caaf5dc0554_234572/MR_FR_fr_IE000RDRMSD1_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE000RDRMSD1/IE000RDRMSD1__KID_FR_2026-07-07.pdf",
+   "url": "https://api.fundinfo.com/document/03390eb852bf43890365e8a3e24d1e82_131935/PRP_FR_fr_IE000RDRMSD1_YES_2026-07-07.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-07",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 6,
+  "isin": "IE00BDBRDM35",
+  "nom": "(ETF)ISHARES CORE GLOBAL AGGR BOND EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BDBRDM35/IE00BDBRDM35__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/72144e0e96528fd07e948eda0015dc54_357110/MR_FR_fr_IE00BDBRDM35_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BDBRDM35/IE00BDBRDM35__KID_FR_2026-04-09.pdf",
+   "url": "https://api.fundinfo.com/document/7d4cb1f5de78f4dd1011f9c53a368a78_132873/PRP_LU_fr_IE00BDBRDM35_YES_2026-04-09.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-09",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 7,
+  "isin": "IE00B4L5Y983",
+  "nom": "(ETF)ISHARES CORE MSCI WORLD UCITS EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE00B4L5Y983/IE00B4L5Y983__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/e6e232063dd1d9d23d669b15f675da59_391778/MR_FR_fr_IE00B4L5Y983_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE00B4L5Y983/IE00B4L5Y983__KID_FR_2026-09-03.pdf",
+   "url": "https://api.fundinfo.com/document/f79b61059990a2a91af5f8426940e700_131445/PRP_FR_fr_IE00B4L5Y983_YES_2026-09-03.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-03",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 8,
+  "isin": "IE000I8KRLL9",
+  "nom": "(ETF)ISHARES MSCI GLOBAL SEMICONDUCTORS EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE000I8KRLL9/IE000I8KRLL9__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/af5ed2cf6956285010ef6811023c0eb2_257664/MR_FR_fr_IE000I8KRLL9_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE000I8KRLL9/IE000I8KRLL9__KID_FR_2026-07-24.pdf",
+   "url": "https://api.fundinfo.com/document/e46b636d26108002a6ed2dc233a3e16d_132445/PRP_LU_fr_IE000I8KRLL9_YES_2026-07-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-24",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 9,
+  "isin": "IE000BMZP0I6",
+  "nom": "(ETF)ISHARES NUCLEAR ENERGY & URANIUM MINING USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE000BMZP0I6/IE000BMZP0I6__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/07cc0bc7b79b240b35d1e1b3d3c80282_183643/MR_CH_fr_IE000BMZP0I6_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE000BMZP0I6/IE000BMZP0I6__KID_FR_2026-09-24.pdf",
+   "url": "https://api.fundinfo.com/document/9b905f0e03b263e1edf3a4d489f836c6_133329/PRP_CH_fr_IE000BMZP0I6_YES_2026-09-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-24",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 10,
+  "isin": "IE0006SEWKA2",
+  "nom": "(ETF)JPM GLOBAL EM RESEARCH ENH INDEX ACTIVE EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/IE0006SEWKA2/IE0006SEWKA2__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/81de0c3a22498b993055ee1e78fa2a3d_429191/MR_FR_fr_IE0006SEWKA2_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/IE0006SEWKA2/IE0006SEWKA2__KID_FR_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/3a3b200be0ad200e7d0925dfd67afd54_163288/PRP_FR_fr_IE0006SEWKA2_YES_2026-04-28.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 11,
+  "isin": "IE000N6I8IU2",
+  "nom": "(ETF)JPM NASDAQ EQUITY PREMIUM INCOME ACTIVE EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE000N6I8IU2/IE000N6I8IU2__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/7a078c4b5716b92cedada6a7169de7ec_383642/MR_CH_fr_IE000N6I8IU2_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/IE000N6I8IU2/IE000N6I8IU2__KID_FR_2026-04-28.pdf",
+   "url": "https://api.fundinfo.com/document/d2b44844b848bfe13956ca69092400aa_160241/PRP_CH_fr_IE000N6I8IU2_YES_2026-04-28.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-28",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 12,
+  "isin": "IE000L98FUF7",
+  "nom": "(ETF)LAIQON EUROP EQUITY AI OPTIMIZED ACTIVE EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/IE000L98FUF7/IE000L98FUF7__KID_EN_2026-06-18.pdf",
+   "url": "https://api.fundinfo.com/document/3adc8e6b3ee9ac72d0f5b36267ba5b42_249131/PRP_IE_en_IE000L98FUF7_YES_2026-06-18.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-18",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 13,
+  "isin": "IE0001O9L5K4",
+  "nom": "(ETF)ODDO BHF GLOBAL EQUITY ACTIVE UCITS EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/HANETF/IE0001O9L5K4/IE0001O9L5K4__KID_FR_2026-05-31.pdf",
+   "url": "https://api.fundinfo.com/document/3f85389eb0fb04cb686d241541643696_387264/PRP_FR_fr_IE0001O9L5K4_YES_2026-05-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-05-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 14,
+  "isin": "IE0002PG6CA6",
+  "nom": "(ETF)VANECK RARE EARTH AND STRATEGIC METALS EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANECK_AM/IE0002PG6CA6/IE0002PG6CA6__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/d6b2ccdcb83a0d600de65aead090c5b4_124045/MR_FR_fr_IE0002PG6CA6_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANECK_AM/IE0002PG6CA6/IE0002PG6CA6__KID_FR_2026-03-27.pdf",
+   "url": "https://api.fundinfo.com/document/f0ea88fe318ff705e135cdee88deb79f_139730/PRP_FR_fr_IE0002PG6CA6_YES_2026-03-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 15,
+  "isin": "IE00BMVB5K07",
+  "nom": "(ETF)VANGUARD LIFESTRATEGY 20% EQUITY EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5K07/IE00BMVB5K07__Factsheet_FR_2026-07-31.pdf",
+   "url": "https://api.fundinfo.com/document/ab8dbbc345bc2e52bd8dac92557c7aec_409326/MR_FR_fr_IE00BMVB5K07_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5K07/IE00BMVB5K07__KID_EN_2026-03-24.pdf",
+   "url": "https://api.fundinfo.com/document/c9d9746e049b7cf8dffc799680b0d918_153631/PRP_LU_en_IE00BMVB5K07_YES_2026-03-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-24",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 16,
+  "isin": "IE00BMVB5M21",
+  "nom": "(ETF)VANGUARD LIFESTRATEGY 40% EQUITY EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5M21/IE00BMVB5M21__Factsheet_FR_2026-07-31.pdf",
+   "url": "https://api.fundinfo.com/document/118ed004f67d0946faa02c59d6ca59b4_409336/MR_FR_fr_IE00BMVB5M21_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/VANGUARD_GROUP_IRELAND_LIMITED/IE00BMVB5M21/IE00BMVB5M21__KID_EN_2026-03-24.pdf",
+   "url": "https://api.fundinfo.com/document/ea47eb5489ccf0be492a1313f53009ac_153288/PRP_LU_en_IE00BMVB5M21_YES_2026-03-24.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-24",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 17,
+  "isin": "LU0231483313",
+  "nom": "(I/C)ABERDEEN ASIAN SMALLER COMPANIES FUND I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231483313/LU0231483313__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/9a7ee66f424c2816b565d02485a3299b_239990/MR_LU_en_LU0231483313_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231483313/LU0231483313__KID_FR_2026-08-07.pdf",
+   "url": "https://api.fundinfo.com/document/a1733879c5c767ce37bff9a6c5bc0ba8_227181/PRP_FR_fr_LU0231483313_YES_2026-08-07.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-07",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 18,
+  "isin": "LU1130125799",
+  "nom": "(I/C)ABERDEEN CHINA A SHARE SUST. EQ FUND I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1130125799/LU1130125799__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/28fe90f6d7905134ff79224d6f455e0e_229858/MR_BE_en_LU1130125799_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1130125799/LU1130125799__KID_FR_2026-03-26.pdf",
+   "url": "https://api.fundinfo.com/document/031fc7445f252264367a71b962f7b707_225608/PRP_BE_fr_LU1130125799_YES_2026-03-26.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 19,
+  "isin": "LU0505784701",
+  "nom": "(I/C)ABERDEEN WORLD RESOURCES EQUITY FUND I USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0505784701/LU0505784701__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/ad41a324bf9e2bf83065e0ae46552fa0_231664/MR_CH_en_LU0505784701_RES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0505784701/LU0505784701__KID_FR_2026-08-21.pdf",
+   "url": "https://api.fundinfo.com/document/c31ee220c69e0cbda192a12034eee716_226799/PRP_CH_fr_LU0505784701_YES_2026-08-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 20,
+  "isin": "LU1914336968",
+  "nom": "(I/C)ABRDN LIQUIDITY FUND (LUX) STG FD X-2 GBP",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_EN_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/34f09d2dca66d8e5087280ccaf841243_260092/MR_CH_en_LU1914336968_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__KID_FR_2026-05-07.pdf",
+   "url": "https://api.fundinfo.com/document/312ccc0006a222f7159d6e593a72b20b_225570/PRP_CH_fr_LU1914336968_YES_2026-05-07.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-05-07",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 21,
+  "isin": "DE000A3ERM93",
+  "nom": "(I/C)ACATIS VALUE EVENT FONDS V EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": ""
+ },
+ {
+  "n": 22,
+  "isin": "LU0866838229",
+  "nom": "(I/C)ALKEN ABSOLUTE RETURN EUROPE EU1 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AFFM_S_A/LU0866838229/LU0866838229__Factsheet_FR_2026-07-31.pdf",
+   "url": "https://api.fundinfo.com/document/ea03626c583db35a96c35cfb72660844_288502/MR_LU_fr_LU0866838229_RES_2026-07-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AFFM_S_A/LU0866838229/LU0866838229__KID_FR_2026-02-20.pdf",
+   "url": "https://api.fundinfo.com/document/86d2f8e0c7ee2e7a7d48f8606da04b4d_142874/PRP_LU_fr_LU0866838229_YES_2026-02-20.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-20",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 23,
+  "isin": "LU2286301101",
+  "nom": "(I/C)ALLIANZ CYBER SECURITY RT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU2286301101/LU2286301101__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/fe40568992843c6fda90d98b59dacf63_173081/MR_CH_en_LU2286301101_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU2286301101/LU2286301101__KID_FR_2026-05-11.pdf",
+   "url": "https://api.fundinfo.com/document/02f40fbc77e119f60f56ac4f49a9eb59_264344/PRP_LU_fr_LU2286301101_YES_2026-05-11.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-05-11",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 24,
+  "isin": "LU1093406269",
+  "nom": "(I/C)ALLIANZ DYN MULTI ASSET STRAT 50 IT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406269/LU1093406269__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/918e91e0ab71c4ae8aca02d2737b1349_244053/MR_LU_fr_LU1093406269_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406269/LU1093406269__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/1d212adeb5b1f975c4e9476cc60c06bb_264536/PRP_FR_fr_LU1093406269_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 25,
+  "isin": "LU1211506388",
+  "nom": "(I/C)ALLIANZ DYN MULTI ASSET STRAT 75 IT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1211506388/LU1211506388__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/a3eeac18eb8dc8536b24a2da4fe5ddf6_243216/MR_IE_fr_LU1211506388_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1211506388/LU1211506388__KID_FR_2026-08-10.pdf",
+   "url": "https://api.fundinfo.com/document/e65f25ed7177c7c910c1767d8d1bbf77_264721/PRP_FR_fr_LU1211506388_YES_2026-08-10.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-10",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 26,
+  "isin": "LU1597246039",
+  "nom": "(I/C)ALLIANZ GLOBAL ARTIFICIAL INTELLIGENCE RT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1597246039/LU1597246039__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/81fc4a394ba45b22ea7c14d978c1ae12_186522/MR_FR_fr_LU1597246039_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1597246039/LU1597246039__KID_FR_2026-05-11.pdf",
+   "url": "https://api.fundinfo.com/document/b9388f3189f9e8e0bd00612274454d89_264046/PRP_FR_fr_LU1597246039_YES_2026-05-11.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-05-11",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 27,
+  "isin": "LU1997245417",
+  "nom": "(I/C)ALLIANZ GLOBAL INVESTORS CHINA A RT H2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245417/LU1997245417__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/b0910815a6278ca90b68ea72890da22d_184089/MR_FR_fr_LU1997245417_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245417/LU1997245417__KID_FR_2026-09-22.pdf",
+   "url": "https://api.fundinfo.com/document/a9bb34700cbe3ca29248ad34bbca9ce9_264074/PRP_FR_fr_LU1997245417_YES_2026-09-22.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 28,
+  "isin": "LU2009012159",
+  "nom": "(I/C)ALLIANZ GLOBAL INVESTORS THEMATICA RT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU2009012159/LU2009012159__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/0d119c94ec6ce622e5df886fbdc6cfee_204342/MR_FR_en_LU2009012159_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU2009012159/LU2009012159__KID_FR_2026-05-11.pdf",
+   "url": "https://api.fundinfo.com/document/def6abdd426842cb891d45a90d482c8c_264251/PRP_FR_fr_LU2009012159_YES_2026-05-11.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-05-11",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 29,
+  "isin": "LU0535372949",
+  "nom": "(I/C)ALLIANZ STRATEGY 50 NT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU0535372949/LU0535372949__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2b60911e08d1a14433173da8117887b0_214034/MR_CH_en_LU0535372949_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU0535372949/LU0535372949__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/9d4033fdc7a327b103b940848b423935_264399/PRP_LU_fr_LU0535372949_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ },
+ {
+  "n": 30,
+  "isin": "LU1894681565",
+  "nom": "(I/C)AMUNDI FUNDS INCOME OPPORTUNITIES I2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894681565/LU1894681565__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/17a2e955007d84d9b3f7873584e70f85_928945/MR_FR_fr_LU1894681565_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894681565/LU1894681565__KID_FR_2026-07-29.pdf",
+   "url": "https://api.fundinfo.com/document/ecdfcefe0de393bf3b9238fe1dfeeddf_211643/PRP_LU_fr_LU1894681565_YES_2026-07-29.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": ""
+ }
+]

@@ -37,15 +37,15 @@
    "isin_verifie": false
   },
   "kid": {
-   "statut": "Non trouvé",
-   "fichier": null,
-   "url": null,
-   "source": null,
-   "date": null,
-   "langue": null,
-   "isin_verifie": false
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/APHILION/BE6300962360/BE6300962360__KID_FR_2026-03-31.pdf",
+   "url": "https://www.aphilion.com/Q2/KIDS/Aphilion%20Q%C2%B2%20Equities%20B%20KID%20FR.pdf",
+   "source": "site du gestionnaire (aphilion.com)",
+   "date": "2026-03-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Absent de fundinfo. KID B FR (production 31/03/2026) sur aphilion.com/Q2/KIDS/. Pas de reporting mensuel publié sur aphilion.com (seuls prospectus, KID, rapports annuels/semestriels, perf. passées)."
  },
  {
   "n": 33,
@@ -69,31 +69,31 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet disponible en anglais seulement sur fundinfo (dernière : 31/08/2026)."
  },
  {
   "n": 34,
   "isin": "FR0013334489",
   "nom": "(I/C)ATHENA GLOBAL DYNAMIC BOND OPPORT IC EUR",
   "factsheet": {
-   "statut": "Non trouvé",
-   "fichier": null,
-   "url": null,
-   "source": null,
-   "date": null,
-   "langue": null,
-   "isin_verifie": false
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0013334489/FR0013334489__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://alienorcapital.com/documents/ATH/Athena%20-%20Global%20Dynamic%20Bond%20Opportunities%20-%20Reporting.pdf",
+   "source": "site du gestionnaire (alienorcapital.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé",
-   "fichier": null,
-   "url": null,
-   "source": null,
-   "date": null,
-   "langue": null,
-   "isin_verifie": false
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0013334489/FR0013334489__KID_FR_2026-06-18.pdf",
+   "url": "https://alienorcapital.com/documents/ATH/Athena%20Global%20Dynamic%20Bond%20Opportunities%20Part%20IC%20DIC%20FR0013334489.pdf",
+   "source": "site du gestionnaire (alienorcapital.com)",
+   "date": "2026-06-18",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Absent de fundinfo. Documents sur alienorcapital.com (connexions parfois réinitialisées, réessayer). Reporting mensuel commun aux parts AC/BC/BD/IC, performances de la part IC affichées et ISIN IC listé."
  },
  {
   "n": 35,
@@ -432,7 +432,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers)."
  },
  {
   "n": 49,
@@ -459,7 +459,7 @@
    "langue": "FR",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet la plus récente en EN (30/09/2026) ; la version FR (31/08/2026) est aussi enregistrée (autres_fichiers)."
  },
  {
   "n": 50,
@@ -699,6 +699,6 @@
    "langue": "EN",
    "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID le plus récent en EN (20/03/2026) ; version FR sur fundinfo plus ancienne (16/06/2025), non retenue."
  }
 ]

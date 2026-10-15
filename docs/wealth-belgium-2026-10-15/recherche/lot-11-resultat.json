@@ -79,9 +79,15 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AMIRAL_GESTION/FR0013202140/FR0013202140__KID_FR_2026-09-21.pdf",
+   "url": "https://api.fundinfo.com/document/0945899783bc704fc262771a30e9b194_305288/PRP_FR_fr_FR0013202140_YES_2026-09-21.pdf",
+   "source": "fundinfo (PRP FR fr)",
+   "date": "2026-09-21",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Le fonds s'appelle désormais « Sextant Credit Opportunities » (ex-Bond Picking), action N, même ISIN. KID FR fundinfo (21/09/2026). Factsheet non trouvée : site Amiral Gestion charge les documents par API protégée (401), fundinfo n'a pas de reporting mensuel (MR) pour cette part."
  },
  {
   "n": 296,
@@ -91,9 +97,15 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SHELTER_INVESTMENT_MANAGEMENT/LU3319943323/LU3319943323__KID_EN_2026-02-27.pdf",
+   "url": "https://shelter-im.com/media/pages/library/11c09d5dbb-1788764700/priips-kid-lu3319943323-en.pdf",
+   "source": "ShelteR IM (shelter-im.com, page Nos fonds)",
+   "date": "2026-02-27",
+   "langue": "EN",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID uniquement en anglais sur shelter-im.com (pas de version FR), valable au 27/02/2026 ; absent de fundinfo. Aucune factsheet publiée sur le site (seulement KID, rapports annuels, SFDR) ni sur fundinfo ; fonds récent."
  },
  {
   "n": 297,
@@ -103,21 +115,39 @@
    "statut": "Non trouvé"
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/SHELTER_INVESTMENT_MANAGEMENT/LU2228414293/LU2228414293__KID_FR_2026-01-02.pdf",
+   "url": "https://shelter-im.com/media/pages/library/PRIIPS-KID/40a02d3110-1788764697/PRIIPS-KID-LU2228414293-FR.pdf",
+   "source": "ShelteR IM (shelter-im.com, page Nos fonds)",
+   "date": "2026-01-02",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "KID FR du site ShelteR IM (identique à celui de fundinfo, publié le 02/01/2026). Aucune factsheet mensuelle sur shelter-im.com ni sur fundinfo."
  },
  {
   "n": 298,
   "isin": "LU1932686501",
   "nom": "(I/C)SKAGEN KON-TIKI LUX B EUR",
   "factsheet": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932686501/LU1932686501__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/98f503b46a14e6da8e7979a0827da852_170060/MR_FR_fr_LU1932686501_YES_2026-08-31.pdf",
+   "source": "fundinfo (MR FR fr)",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
   },
   "kid": {
-   "statut": "Non trouvé"
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932686501/LU1932686501__KID_FR_2026-02-28.pdf",
+   "url": "https://api.fundinfo.com/document/9ae2fb30aa1208a24ebff2e945bf3d8e_126338/PRP_LU_fr_LU1932686501_YES_2026-02-28.pdf",
+   "source": "fundinfo (PRP LU fr)",
+   "date": "2026-02-28",
+   "langue": "FR",
+   "isin_verifie": true
   },
-  "notes": ""
+  "notes": "Factsheet FR (rapport mensuel Storebrand/SKAGEN) au 31/08/2026 via fundinfo (pas de fin septembre publiée). KID FR fundinfo exact au 28/02/2026."
  },
  {
   "n": 299,

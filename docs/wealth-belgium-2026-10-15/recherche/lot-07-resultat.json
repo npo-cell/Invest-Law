@@ -166,5 +166,77 @@
    "langue": "FR",
    "isin_verifie": true
   }
+ },
+ {
+  "n": 183,
+  "isin": "FR0014013NO1",
+  "nom": "(I/C)KEREN 2032 I EUR (FMB)",
+  "notes": "Lettre mensuelle « Septembre 2026 » propre à la part I. Le PDF DIC du site regroupe 2 DIC (part C FR0014013NN3 puis part I FR0014013NO1), produits le 16/04/2026 ; la part I est le second DIC du fichier.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0014013NO1/FR0014013NO1__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=ccf621da588d19d60f3448f90a018aac",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0014013NO1/FR0014013NO1__KID_FR_2026-04-16.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=1e12d79f6c5f6c7542e8676a511f1dbf",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 184,
+  "isin": "FR0010700401",
+  "nom": "(I/C)KEREN CORPORATE I EUR",
+  "notes": "Lettre mensuelle « Septembre 2026 » propre à la part I. Le PDF DIC regroupe les DIC des 5 parts (C, I, D, N, ND), tous du 29/04/2026 ; fundinfo n'a qu'un DIC de 2025.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0010700401/FR0010700401__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=8b2e36942c72e172ebe716823860ea5b",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0010700401/FR0010700401__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=c73862bf4293617bf0ade0b38acaf636",
+   "source": "Keren Finance (kerenfinance.com)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
+ },
+ {
+  "n": 185,
+  "isin": "FR0011274992",
+  "nom": "(I/C)KEREN ESSENTIELS I EUR",
+  "notes": "Lettre « Septembre 2026 » propre à la part I. Le lien « DIC » du site ne contient que la part C ; le fichier « DIC & Prospectus » (84 p.) contient le DIC de la part I aux pages 4-6 (produit le 29/04/2026), puis le prospectus.",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0011274992/FR0011274992__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=2bdc7777847b3c51c435aa1ecf56a5b9",
+   "source": "Keren Finance (kerenfinance.com, lettre mensuelle FR de la part I)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/KEREN_FINANCE/FR0011274992/FR0011274992__KID_FR_2026-04-29.pdf",
+   "url": "https://www.kerenfinance.com/fr/download/?hash=544e392adc4d8196ab00b600e51fd0ac",
+   "source": "Keren Finance (kerenfinance.com, fichier « DIC & Prospectus »)",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  }
  }
 ]
