@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "MSCI India Index (Net Return, EUR)",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Equity India",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "Robeco Indian Equities est un fonds à gestion active qui investit dans des actions cotées sur les grandes places boursières de l'Inde. La sélection de ces titres est basée sur une analyse fondamentale.Le fonds vise une performance supérieure à l'indice. Le fonds se concentre sur les actions à grande capitalisation, complétées par des actions à moyenne capitalisation et à forte conviction de premier choix. Géré par notre équipe Asie Pacifique à Hong Kong, le fonds associe l'expertise locale de notre conseiller en investissement Canara Robeco (Bombay), au savoir-faire opérationnel de Robeco en tant que gérant d'actifs international.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR au 30/09/2026 (version « retail » de fundinfo FR ; une version identique marquée « À l'attention des investisseurs professionnels uniquement » existe aussi) ; remplace pour cette fiche la factsheet d'août 2026 déjà présente dans le dossier (non supprimée). Date de création = « DATE DE LANCEMENT 23/08/2010 » (tableau de la part ; performances « Depuis 23/08/2010 »). Encours = « ACTIF DU FONDS EUR 438.691.427 » ; encours de la part D EUR : EUR 192.108.185. Frais de gestion = « Frais de gestion financière 1,60 » (+ commission de service 0,26) ; frais courants = KID 1.91 % (factsheet « Frais courants 1,91 »). SRI 4 (KID). Indice retenu : KID « utilise l'indice de référence à des fins d'allocation d'actifs » et « vise à surperformer l'indice sur le long terme ». SFDR article 8 (KID et factsheet), aucun % durable écrit. Gérants : nom d'équipe seulement. Classification Agressif : actions d'un seul pays émergent (Inde), bien que SRI 4. Allocations : colonne « Fonds » seulement (la seconde valeur est le BM) ; secteur Immobilier 0,0 non repris. Politique : « À propos du fonds » (identique à la section Objectifs du KID ; espace manquant après « fondamentale. » tel qu'écrit).",
+ "remarques": "Factsheet FR au 30/09/2026 (version « retail » de fundinfo FR ; une version identique marquée « À l'attention des investisseurs professionnels uniquement » existe aussi) ; remplace pour cette fiche la factsheet d'août 2026 déjà présente dans le dossier (non supprimée). Date de création = « DATE DE LANCEMENT 23/08/2010 » (tableau de la part ; performances « Depuis 23/08/2010 »). Encours = « ACTIF DU FONDS EUR 438.691.427 » ; encours de la part D EUR : EUR 192.108.185. Frais de gestion = « Frais de gestion financière 1,60 » (+ commission de service 0,26) ; frais courants = KID 1.91 % (factsheet « Frais courants 1,91 »). SRI 4 (KID). Indice retenu : KID « utilise l'indice de référence à des fins d'allocation d'actifs » et « vise à surperformer l'indice sur le long terme ». SFDR article 8 (KID et factsheet), aucun % durable écrit. Gérants : nom d'équipe seulement. Classification Agressif : actions d'un seul pays émergent (Inde), bien que SRI 4. Allocations : colonne « Fonds » seulement (la seconde valeur est le BM) ; secteur Immobilier 0,0 non repris. Politique : « À propos du fonds » (identique à la section Objectifs du KID ; espace manquant après « fondamentale. » tel qu'écrit). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), même ISIN.",
  "sources": {
   "factsheet_date": "factsheet p.1",
   "kid_date": "KID p.1",

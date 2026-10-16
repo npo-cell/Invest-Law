@@ -1,0 +1,269 @@
+{
+ "n": "497",
+ "isin": "LU0562934264",
+ "nom": "EAST CAPITAL GLOBAL EM MARKETS SUSTAINABLE SEK",
+ "maison": "East Capital Asset Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-17",
+ "date_creation": "2010-12-01",
+ "devise": "SEK",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "compartiment de East Capital, Sicav",
+ "gerants": "Jacob Grapengiesser",
+ "encours_millions": "679",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.5",
+ "frais_courants": "2.0",
+ "sri": "4",
+ "indice": "MSCI Emerging Markets Index (Total Return Net)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances historiques ne garantissent pas les performances futures. La valeur des actions du Fonds est tout autant susceptible de baisser que d’augmenter et les investisseurs ne sont pas assurés de récupérer la totalité de leur mise de fonds.",
+ "politique_fr": "L’objectif d’investissement du fonds East Capital Global Emerging Markets Sustainable est de fournir une croissance de capital à long terme par l’exposition aux entreprises dans les marchés émergents. L’investissement durable est la reconnaissance que des facteurs environnementaux, sociaux et de gouvernance peuvent avoir une influence directe sur la rentabilité commerciale à long terme des entreprises. Le compartiment vise à augmenter l’exposition aux entreprises qui gèrent les risques de la durabilité et/ou contribuent au développement durable dans les marchés émergents. Les facteurs environnementaux, sociaux et de gouvernance sont pleinement intégrés dans le processus d’investissement. Le compartiment investira au moins 75% de ses actifs directement ou indirectement dans des actions ou des titres liés à des actions [dont, entre autres, des certificats de dépôt américains (ADR) et internationaux (GDR)] émis par des entreprises domiciliées dans les marchés émergents ou qui y exercent une partie significative de leur activité économique. Une exposition indirecte aux entreprises situées dans les marchés émergents sera obtenue, entre autres, en investissant dans des OPCVM, d’autres OPC, ainsi que par le biais de produits structurés éligibles aux OPCVM, tels que des obligations participatives et/ou des obligations indexées sur des actions. Le compartiment pourra investir directement jusqu’à 30% de ses actifs nets en actions chinoises de classe A par l’intermédiaire du Shanghai-Hong Kong Stock Connect et/ou du Shenzhen-Hong Kong Stock Connect, ou par tout autre moyen admissible donnant accès au marché boursier chinois.\n\nValeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire en utilisant une valeur de référence (benchmark). Bien que le produit compare sa performance à celle de MSCI Emerging Markets Index (Total Return Net), il ne cherche pas à reproduire ce benchmark et choisit librement les titres dans lesquels il investit. L’écart avec ce benchmark peut être significatif.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Politique prise du KID (section « Objectifs » + « Valeur de référence ») : la factsheet n'a qu'un court objectif de deux phrases. Date de création = « Date de lancement de la classe 01-12-2010 » (factsheet ; le KID indique compartiment lancé en 2005, classe en 2010). Encours = « Taille du fonds (30-09-2026) 679m EUR » (fonds, toutes parts). Frais courants = KID « 2,0% » (1.980 SEK pour 100.000 SEK) ; la factsheet indique « Frais courants 1,98% ». Indice : le KID dit que le produit « compare sa performance » au MSCI Emerging Markets Index (Total Return Net) sans chercher à le reproduire (mesure de performance → retenu) ; la factsheet écrit « MSCI Emerging Markets ». SFDR vide : aucun article cité dans la factsheet ni le KID (le site East Capital publie une « SFDR Website Disclosure Article 9 », non retenue car hors documents de la part). Classification Agressif : actions pays émergents. Factsheet FR (rapport mensuel) via le lien Morningstar du site eastcapital.com. Répartition géographique : total 99,2 % tel qu'écrit.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "type_fonds": "jugement (factsheet/KID)",
+  "compartiment": "factsheet p.2",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1-2",
+  "indice": "KID p.1",
+  "disclaimer": "factsheet p.2",
+  "politique": "KID p.1",
+  "allocations": "factsheet p.2 (capitalisations p.1)"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor",
+   "pct": "10.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Hynix Inc",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sk Square Co Ltd",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASE Technology Holding Co Ltd",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Chinatrust Finl Hldgs",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prosus Nv",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ping An Insurance Group",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Capitec Bank Holdings",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "40.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "23.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "12.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "10.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "7.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidité",
+   "pct": "1.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taiwan",
+   "pct": "27.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "23.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "15.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "10.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Brésil",
+   "pct": "3.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Hong Kong",
+   "pct": "2.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique du Sud",
+   "pct": "2.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emirats Arabes Unis",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Mexique",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Arabie saoudite",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pologne",
+   "pct": "1.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Thailande",
+   "pct": "1.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Malaisie",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "1.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidité",
+   "pct": "1.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Géantes",
+   "pct": "62.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes",
+   "pct": "13.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes",
+   "pct": "21.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites",
+   "pct": "1.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Micro",
+   "pct": "0.9"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/EAST_CAPITAL_ASSET_MANAGEMENT_S_A/LU0562934264/LU0562934264__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/EAST_CAPITAL_ASSET_MANAGEMENT_S_A/LU0562934264/LU0562934264__KID_FR_2026-02-17.pdf"
+}
