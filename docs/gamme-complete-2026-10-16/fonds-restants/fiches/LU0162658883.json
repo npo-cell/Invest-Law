@@ -1,0 +1,102 @@
+{
+ "n": "415",
+ "isin": "LU0162658883",
+ "nom": "BLACKROCK EURO CORPORATE BOND A2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-22",
+ "date_creation": "2006-07-31",
+ "devise": "EUR",
+ "type_fonds": "Obligations d'entreprises en euros",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Georgie Merson, Max Huefner",
+ "encours_millions": "2091.97",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.80",
+ "frais_courants": "1.01",
+ "sri": "2",
+ "indice": "ICE BofA Euro Corporate Index (ER00) (EUR)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.58 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit au moins 70 % du total de son actif en titres à revenu fixe libellés en euros. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte).\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site Internet de BlackRock à l’adresse www.blackrock.com/baselinescreens.\n\nAu moins 70 % du total de l’actif du Fonds seront émis par des sociétés domiciliées ou non dans des pays de la zone euro et seront de qualité « investment grade » (c’est-à-dire qu’ils atteignent un niveau de solvabilité défini) au moment de l’achat. Le reste peut comprendre des investissements qui ont une qualité de crédit relativement faible ou qui ne sont pas notés.\n\nLe GFD peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le CI a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, le CI se référera à l'indice ICE BofAML Euro Corporate Index (l’« Indice ») pour la construction du portefeuille du Fonds ainsi qu’à des fins de gestion des risques afin de s'assurer que le risque actif (c’est-à-dire l'écart par rapport à l’indice) assumé par le Fonds demeure conforme à ses objectif et politique d'investissement. Le CI n’est pas tenu de répliquer les composantes ou pondérations de l’Indice au moment de sélectionner des investissements. Le CI est également libre d'investir dans des titres ne faisant pas partie de l'Indice afin d'exploiter certaines opportunités d'investissement spécifiques. Toutefois, la portée géographique de l’objectif et de la politique d’investissement peut avoir pour effet de limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice. Les investisseurs doivent utiliser l’Indice pour comparer la performance du Fonds. Les investisseurs doivent utiliser un indice composé pour 80 % du Bloomberg Euro-Corporate Index et pour 20 % du Bloomberg US Global Corporate Index (l’« Indice de Reporting ESG ») pour évaluer l’impact du filtrage ESG sur l’univers d’investissement du Fonds.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet FR (version France) d'août 2026, part A2 EUR ; la factsheet de septembre 2026 n'existe qu'en italien (non retenue). Politique prise du KID (section « Objectifs ») : la factsheet ne reprend que les trois premiers paragraphes (aperçu) ; les paragraphes du KID sur le prix des titres, le rendement et le dépositaire ne sont pas repris. Date de création = « Date de lancement de la Catégorie d'Actions : 31-juil.-2006 » (fonds : 14-mai-2003). Encours = « Encours sous gestion (M) : 2.091,97 EUR » au 31/08/2026. Frais : factsheet « Commission de gestion annuelle : 0,80% » et « Frais courants : 1,01% » ; KID « Frais de gestion et autres coûts administratifs ou d’exploitation 1,01 % » ; commission de performance 0,00 %. Indice : « Contrainte 1 : ICE BofA Euro Corporate Index (ER00) (EUR) » (factsheet ; KID : « ICE BofAML Euro Corporate Index », construction du portefeuille, gestion des risques et comparaison des performances) : retenu. Le « Comparateur 2 : 80% BBG Euro Corporate Index / 20% BBG US Corporate Index » (KID : « Indice de Reporting ESG », pour évaluer l'impact du filtrage ESG) n'est pas retenu. Duration = « Duration effective : 4,58 ans » ; maturité moyenne pondérée 5,74 ans ; rendement à maturité 4,99 %. Qualité moyenne des émetteurs non écrite (graphique des notations sans valeurs lisibles). SFDR article 8 (factsheet), pas de % durable écrit. Classification Défensif : obligations d'entreprises investment grade en euros, SRI 2. Allocations : seulement les 10 principales positions (libellés tels qu'écrits, dont l'échéance de la ligne Anglo American est sur deux lignes dans le PDF) ; les répartitions par secteur, notation et échéance sont des graphiques sans valeurs lisibles dans le texte du PDF (non reprises).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BEIGNET INVESTOR LLC 144A 6.581 05/30/2049",
+   "pct": "1.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BNP PARIBAS SA MTN RegS 2.5 03/31/2032",
+   "pct": "1.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MORGAN STANLEY MTN 3.149 11/07/2031",
+   "pct": "1.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EP INFRASTRUCTURE AS RegS 1.816 03/02/2031",
+   "pct": "1.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXA SA MTN RegS 5.125 01/17/2047",
+   "pct": "1.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANGLO AMERICAN CAPITAL PLC MTN RegS 4.125 03/15/2032",
+   "pct": "1.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BPCE SA MTN RegS 3.875 01/03/2034",
+   "pct": "1.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WORLDLINE SA MTN RegS 4.125 09/12/2028",
+   "pct": "1.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CAIXABANK SA MTN RegS 6.25 02/23/2033",
+   "pct": "1.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SSE PLC RegS 4 12/31/2079",
+   "pct": "1.01"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0162658883/LU0162658883__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0162658883/LU0162658883__KID_FR_2026-04-22.pdf"
+}

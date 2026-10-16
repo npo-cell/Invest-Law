@@ -1,0 +1,300 @@
+{
+ "n": "770",
+ "isin": "LU0309035870",
+ "nom": "PICTET SHORT-TERM MONEY MARKET JPY R",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2007-07-06",
+ "devise": "JPY",
+ "type_fonds": "Monétaire",
+ "compartiment": "Compartiment d'une SICAV",
+ "gerants": "David Gorgone, Sylvian Mauron",
+ "encours_millions": "93972",
+ "encours_devise": "JPY",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.20",
+ "sri": "1",
+ "indice": "FTSE JPY 1-Month Eurodeposit (JPY)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus tirés des titres ou des instruments financiers mentionnés dans le présent document peuvent fluctuer à la hausse ou à la baisse, et il est possible que les investisseurs ne récupèrent pas la totalité du montant initialement investi.",
+ "politique_fr": "Objectif\nPréserver la valeur de votre investissement tout en générant un rendement conforme aux taux du marché monétaire.\n\nIndice de référence\nFTSE JPY 1-Month Eurodeposit (JPY), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la mesure du rendement.\n\nActifs en portefeuille\nLe Fonds investit principalement en instruments du marché monétaire à court terme émis par des émetteurs possédant une notation élevée et qui sont libellés en yens japonais (JPY) ou couverts systématiquement par rapport à cette devise (de sorte que les investissements n’ont qu’une exposition limitée ou nulle au risque de change).\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse des émetteurs afin d’identifier les titres offrant les meilleures performances à la lumière des tendances des taux d’intérêt. L'approche de gestion du Fonds utilise des contrôles stricts du risque. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création 06.07.2007 (tableau « Informations générales » de la factsheet ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances » : date de la part probable, non explicitement qualifiée). Compartiment : factsheet « Forme juridique Compartiment d'une SICAV » ; KID « Pictet - Short-Term Money Market JPY est un Fonds d’une société d’investissement à capital variable (“SICAV”) » (nom de la SICAV non écrit). Encours = « Taille du fonds (Mio) JPY 93 972 ». Frais de gestion non indiqués ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 0.20% » (factsheet « Frais courants (OCR) 0.20 »). SRI 1 : KID (« classe de risque 1 sur 7 ») ; le « 2 » affiché à côté de « Catégorie de risque SRI » dans le texte de la factsheet est un renvoi de note de bas de page. Indice retenu : « Utilisé pour la mesure du rendement ». SFDR article 8 (KID et factsheet), aucun % durable écrit. Catégorie du marché monétaire : fonds du monétaire à court terme ; WAL 63 jours, WAM 53 jours (pas de duration écrite). Classification Défensif (monétaire). Allocations : lues dans les graphiques (valeurs dans l'ordre des libellés, texte -raw) ; valeurs 0.00 non reprises (notations BBB à C et « Non applicable ») ; « Biens de consommation non… » tronqué tel qu'écrit. Politique : factsheet, identique au KID.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Japan T-Bill Zero% 19.10.2026 Sr",
+   "pct": "5.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Japan T-Bill Zero% 13.10.2026 Sr",
+   "pct": "3.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Nova Scotia 2.62% 02.12.2026 Sr",
+   "pct": "2.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "John Deere Finan 2.58% 16.10.2026 'Mtn' Sr",
+   "pct": "2.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Japan T-Bill Zero% 05.10.2026 Sr",
+   "pct": "2.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Japan T-Bill Zero% 26.10.2026 Sr",
+   "pct": "2.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Natl Bank Canada 4.271% 08.02.2027 Sr",
+   "pct": "1.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Natl Australiabk 5.357% 16.11.2026 'Mtn' Sr",
+   "pct": "1.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Astrazeneca Plc 3.625% 03.03.2027 'Emtn' Sr",
+   "pct": "1.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cp Kiwibank Ltd Zero % 25.11.2026",
+   "pct": "1.32"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "4.11"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "18.23"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "65.96"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "3.57"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités et équivalents",
+   "pct": "8.13"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "24.23"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "16.20"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "9.61"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "9.17"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Australie",
+   "pct": "8.61"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "6.81"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "3.08"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Nouvelle-Zélande",
+   "pct": "2.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Singapour",
+   "pct": "2.55"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "8.86"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités et autres",
+   "pct": "8.12"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0 à 48 heures",
+   "pct": "3.61"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "48 heures à 30 jours",
+   "pct": "44.26"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "30 à 90 jours",
+   "pct": "31.81"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "90 à 120 jours",
+   "pct": "2.22"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "120 à 150 jours",
+   "pct": "8.39"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "150 jours et plus",
+   "pct": "9.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banque",
+   "pct": "44.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Souverain",
+   "pct": "16.33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation non…",
+   "pct": "6.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "4.89"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation cycliques",
+   "pct": "4.47"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agence",
+   "pct": "3.56"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens d'équipement",
+   "pct": "2.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "2.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligation couverte",
+   "pct": "1.62"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "5.21"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "8.13"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Papiers commerciaux",
+   "pct": "30.06"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Certificats de dépôt",
+   "pct": "23.46"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "16.55"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bons du trésor",
+   "pct": "16.33"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations à taux flottants",
+   "pct": "4.66"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations couvertes",
+   "pct": "3.98"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "4.95"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0309035870/LU0309035870__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0309035870/LU0309035870__KID_FR_2026-06-19.pdf"
+}

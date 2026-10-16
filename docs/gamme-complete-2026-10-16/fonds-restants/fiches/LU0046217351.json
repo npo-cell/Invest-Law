@@ -1,0 +1,233 @@
+{
+ "n": "630",
+ "isin": "LU0046217351",
+ "nom": "JANUS HENDERSON HRZN PANEURPSMRCOMS A2 EUR",
+ "maison": "Janus Henderson Investors",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-13",
+ "date_creation": "1993-08-02",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes (petites capitalisations)",
+ "compartiment": "Janus Henderson Horizon Pan European Smaller Companies Fund est un compartiment de Janus Henderson Fund, une société d'investissement à capital variable constituée en vertu des lois du Grand-Duché de Luxembourg. Janus Henderson Horizon Fund est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+ "gerants": "Ollie Beckett, Rory Stokes, Julia Scheufler",
+ "encours_millions": "1410",
+ "encours_devise": "",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.87",
+ "sri": "4",
+ "indice": "MSCI Europe Small Cap Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+ "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice MSCI Europe Small Cap Index, après déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit au moins 75% de ses actifs dans des actions (titres de participation) et des titres assimilés de petites sociétés, de tous secteurs, sises dans l'EEE ou au Royaume-Uni s'il ne fait pas partie de l'EEE. Les sociétés auront leur siège social dans l'EEE ou au Royaume-Uni s'il ne fait pas partie de l'EEE. Le Fonds peut également investir dans d'autres actifs, y compris des sociétés de toutes tailles et de toutes régions, des liquidités et des instruments du marché monétaire. Le Gestionnaire d'Investissement peut avoir recours à des dérivés (instruments financiers complexes) pour réduire le risque ou pour gérer le Fonds plus efficacement. Le Fonds est géré de façon active en se référant à l'indice MSCI Europe Small Cap Index, qui est largement représentatif des sociétés dans lesquelles celui-ci est susceptible d'investir, dans la mesure où cet indice constitue la base de l'objectif de performance du Fonds et le niveau au-dessus duquel des commissions de performance peuvent être imputées (le cas échéant). Le gestionnaire d'investissement a le pouvoir discrétionnaire de choisir des investissements pour le Fonds ayant des pondérations différentes de celles de l'indice ou n'étant pas présents dans l'indice, mais le Fonds peut occasionnellement détenir des investissements similaires à ceux de l'indice.\n\nStratégie d'investissement\nLe Gestionnaire d'Investissement se focalise sur les réunions et les appels avec la société de gestion, ainsi que sur l'utilisation de filtres quantitatifs, pour identifier de potentielles sociétés pour un investissement. L'accent est mis sur la robustesse du modèle commercial d'une société, sur l'analyse de ce qui constitue les éléments moteurs de l'activité, de ce qu'est son avantage concurrentiel, et sur la durabilité des rendements. Le Fonds gère un portefeuille bien diversifié de sociétés qui figurent généralement parmi les 25 % les plus petites sur leur marché respectif. La liquidité de la société (le degré auquel les actions peuvent être rapidement achetées ou vendues sur le marché à un prix reflétant sa valeur intrinsèque) est importante afin de déterminer s'il convient d'investir pour le Fonds et dans quelle proportion.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part A2 EUR (accumulation). Factsheet FR au 31/08/2026 (fundinfo FR ; pas de version de septembre sur fundinfo). Politique : « Objectif de gestion » (p.1, sans le renvoi à la page 3) + « Politique d'investissement » et « Stratégie d'investissement » (p.3) de la factsheet. Date de création = « Informations sur les catégories d'action – Date de création 02 août 1993 » (fonds : 01 août 1993). Encours = « Total de l'actif nette 1.41Mds » converti en 1410 millions ; devise de l'encours non écrite (devise de base du fonds : EUR) → laissée vide. Gérants = « Équipe de gestion » (mentions « CFA » omises). Frais de gestion = « Frais de gestion annuels (FGA) 1,20 » ; frais courants = KID 1,87 % (identique à « Frais courants (FC) 1,87 » de la factsheet) ; commission de surperformance de 10 % au-delà de l'indice (high water mark). Indice retenu : base de l'objectif de performance et de la commission de performance (« Surperformer par rapport à l'indice MSCI Europe Small Cap Index ») ; indice de référence depuis le 25 février 2022. Compartiment : section « Type » du KID, recopiée telle quelle (« compartiment de Janus Henderson Fund », alors que l'en-tête du KID dit « Un compartiment de Janus Henderson Horizon Fund »). SFDR article 8 (factsheet et KID). Classification Dynamique, à confirmer : actions européennes de petites capitalisations bien diversifiées (117 lignes), SRI 4 ; « Agressif » serait défendable (small caps). Allocations : colonnes « Fonds » seulement (indice exclu) ; « Principaux pays » = 10 premiers pays (total < 100) ; la ligne « Total 19,14 » des principaux titres n'est pas reprise.",
+ "factsheet_fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__KID_FR_2026-02-13.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1 et p.3",
+  "source_politique": "factsheet p.1 et p.3"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TKH Group",
+   "pct": "3.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IG Group",
+   "pct": "2.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Stroeer",
+   "pct": "1.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Van Lanschot Kempen",
+   "pct": "1.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Elmos Semiconductor",
+   "pct": "1.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Recticel",
+   "pct": "1.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Indra Sistemas",
+   "pct": "1.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Modern Times Group MTG",
+   "pct": "1.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANDRITZ",
+   "pct": "1.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "flatexDEGIRO",
+   "pct": "1.57"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "21.85"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "17.92"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "12.20"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "10.17"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "8.03"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "5.97"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "5.09"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autriche",
+   "pct": "3.24"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "3.15"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "3.10"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "34.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "14.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "11.03"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "9.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "8.05"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "7.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.29"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "0.51"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.95"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€10B to €25B",
+   "pct": "3.24"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€5B to €10B",
+   "pct": "12.35"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€1B to €5B",
+   "pct": "59.51"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€250M to €1B",
+   "pct": "20.38"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Under €250M",
+   "pct": "2.57"
+  }
+ ]
+}

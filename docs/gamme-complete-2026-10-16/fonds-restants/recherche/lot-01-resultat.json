@@ -1,0 +1,194 @@
+[
+ {
+  "n": 149,
+  "isin": "LU1748854947",
+  "nom": "(I/C)FVS MULTIPLE OPPORTUNITIES II HT EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1748854947/LU1748854947__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://fsl11.flossbachvonstorch.de/documents/LU1748854947/en/ch/mr",
+   "source": "Flossbach von Storch (fsl11.flossbachvonstorch.de)",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1748854947/LU1748854947__KID_FR_2026-04-01.pdf",
+   "url": "https://api.fundinfo.com/document/05c8e6f0ca4f89e1cfdeac93ca0faddf_128466/PRP_BE_fr_LU1748854947_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet : aucune FR ; la seule factsheet de la part HT est la version CH/LI en anglais au 30/09/2026 (site FvS fsl11.flossbachvonstorch.de/documents/LU1748854947/en/ch/mr ; également présente sur fundinfo CH) ; aucune sur fundinfo LU/BE/FR, site FvS LU/BE (fr/en) en 404. KID FR 01/04/2026 (fundinfo BE, identique LU)."
+ },
+ {
+  "n": 168,
+  "isin": "LU0129459060",
+  "nom": "(I/C)JPM AMERICA EQUITY C USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0129459060/LU0129459060__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6104&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (am.jpmorgan.com, lien officiel jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0129459060/LU0129459060__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/81f2cd04bb3ef6fa93b6c8102d3c95c4_186106/PRP_BE_fr_LU0129459060_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr -> jp.techrules.com). KID FR 27/04/2026 (fundinfo BE)."
+ },
+ {
+  "n": 173,
+  "isin": "LU0079555370",
+  "nom": "(I/C)JPM GLOBAL BALANCED C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0079555370/LU0079555370__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=148&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (am.jpmorgan.com, lien officiel jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0079555370/LU0079555370__KID_FR_2026-07-07.pdf",
+   "url": "https://api.fundinfo.com/document/cbc8b9a7e39d67bcb78ca5e010daf7b8_187454/PRP_BE_fr_LU0079555370_YES_2026-07-07.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-07",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr -> jp.techrules.com). KID FR 07/07/2026 (fundinfo BE)."
+ },
+ {
+  "n": 176,
+  "isin": "LU0168343191",
+  "nom": "(I/C)JPM GLOBAL FOCUS C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0168343191/LU0168343191__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://jp.techrules.com/rebrandingPDF/LoadPdf.aspx?ShareClassId=6099&country=FR&lang=FR&paramMIFID=YES",
+   "source": "J.P. Morgan AM (am.jpmorgan.com, lien officiel jp.techrules.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0168343191/LU0168343191__KID_FR_2026-04-27.pdf",
+   "url": "https://api.fundinfo.com/document/1f69e8f81b36f762c8fc40bfab660da6_187790/PRP_BE_fr_LU0168343191_YES_2026-04-27.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-27",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR 30/09/2026 via lien officiel am.jpmorgan.com (API FundsMarketingHandler/product-data, country=fr -> jp.techrules.com). KID FR 27/04/2026 (fundinfo BE)."
+ },
+ {
+  "n": 349,
+  "isin": "LU1146622755",
+  "nom": "ABERDEEN CHINA A SHARE SUSTAINABLE EQ FUND A USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1146622755/LU1146622755__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/3203c787e743f293a752094b54fc4825_138297/MR_FR_fr_LU1146622755_YES_2026-06-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1146622755/LU1146622755__KID_FR_2026-03-26.pdf",
+   "url": "https://api.fundinfo.com/document/b5c2387f98d66358b91c68ffcbc1adc5_225646/PRP_BE_fr_LU1146622755_YES_2026-03-26.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-26",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin juin 2026 retenue (fundinfo FR) ; une version EN plus récente existe (31/08/2026), écartée : français d'abord (même règle que WB 15/10). KID FR 26/03/2026 (fundinfo BE)."
+ },
+ {
+  "n": 350,
+  "isin": "LU0505663152",
+  "nom": "ABERDEEN WORLD RESOURCES EQUITY FUND A USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0505663152/LU0505663152__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/574296fe9f98b17a247cb1d29f45492c_149323/MR_FR_fr_LU0505663152_YES_2026-06-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0505663152/LU0505663152__KID_FR_2026-08-21.pdf",
+   "url": "https://api.fundinfo.com/document/35441c8b302d38b9ce6cb30ce0923927_226300/PRP_BE_fr_LU0505663152_YES_2026-08-21.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-21",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds renommé abrdn SICAV I - Future Minerals Fund (ex-World Resources Equity). Factsheet FR fin juin 2026 (fundinfo FR) ; EN fin août existe (BE/FR), écartée : français d'abord. KID FR 21/08/2026 (fundinfo BE)."
+ },
+ {
+  "n": 351,
+  "isin": "LU0090865873",
+  "nom": "ABRDN LIQUIDITY FUND (LUX) A2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0090865873/LU0090865873__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/42ba72a7f919ff9a2127f3dd7e48a9f5_171617/MR_FR_fr_LU0090865873_YES_2026-06-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0090865873/LU0090865873__KID_FR_2026-07-15.pdf",
+   "url": "https://api.fundinfo.com/document/40aa56fae375188cde6839f44fa0f627_224656/PRP_FR_fr_LU0090865873_YES_2026-07-15.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-07-15",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR fin juin 2026 (fundinfo FR) ; EN fin août existe (LU/FR), écartée : français d'abord. KID FR 15/07/2026 = version France (fundinfo FR) ; en LU seulement EN, pas de KID BE sur fundinfo."
+ },
+ {
+  "n": 630,
+  "isin": "LU0046217351",
+  "nom": "JANUS HENDERSON HRZN PANEURPSMRCOMS A2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/ef6dee5529b71ed4bdb61f19e3d908e3_266744/MR_FR_fr_LU0046217351_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__KID_FR_2026-02-13.pdf",
+   "url": "https://api.fundinfo.com/document/84b844c17c2cf268430c112bc84cf1c4_110031/PRP_BE_fr_LU0046217351_YES_2026-02-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Docs fundinfo (Janus Henderson). Factsheet FR fin août 2026 (fundinfo FR ; pas de septembre sur fundinfo). KID FR 13/02/2026 (fundinfo BE)."
+ }
+]

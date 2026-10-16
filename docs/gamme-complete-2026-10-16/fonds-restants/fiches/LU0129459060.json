@@ -1,0 +1,162 @@
+{
+ "n": "168",
+ "isin": "LU0129459060",
+ "nom": "(I/C)JPM AMERICA EQUITY C USD",
+ "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-27",
+ "date_creation": "2004-08-26",
+ "devise": "USD",
+ "type_fonds": "Actions américaines",
+ "compartiment": "un compartiment de JPMorgan Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
+ "gerants": "Felise L Agranoff, Jack Caffrey, Graham Spence",
+ "encours_millions": "7740.6",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.82",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+ "politique_fr": "Objectif d´investissement: Offrir une croissance du capital sur le long terme en investissant essentiellement dans un portefeuille concentré de sociétés américaines.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nPortefeuille concentré à forte conviction, qui cherche à identifier les meilleures idées de placement au sein des univers d’investissement des valeurs décotées et des valeurs de croissance.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part C (acc) USD. Factsheet FR au 30/09/2026 ; KID FR du 27/04/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées). Date de création = « Lancement de la classe 26 Août 2004 » (fonds : 16 Nov. 1988). Encours = « Actifs net du fonds USD 7740,6m ». Frais de gestion vide : la factsheet ne donne que des frais courants. Frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,82 % (la factsheet indique « Frais courants 0,81% », écart non résolu). Indice vide : « S&P 500 Index (Total Return Net of 30% withholding tax) » est l'indice de référence de la classe, mais le KID indique comme seul recours « Comparaison des performances ». SFDR article 8 ; le KID prévoit « au moins 20% » d'investissements durables (minimum, pas une part effective). Compartiment : KID (« une classe d'actions de JPMorgan Funds – America Equity Fund », « un compartiment de JPMorgan Funds ») + section « Type ». Classification Dynamique : actions américaines diversifiées (portefeuille concentré de 20 à 40 sociétés), SRI 4. Positions datées du 31 août 2026 (secteur non repris dans le libellé) ; secteurs au 30/09/2026, colonne du fonds seulement (écarts par rapport à l'indice exclus).",
+ "factsheet_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0129459060/LU0129459060__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0129459060/LU0129459060__KID_FR_2026-04-27.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Nvidia",
+   "pct": "9.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.Com",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Johnson & Johnson",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Morgan Stanley",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Analog Devices",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Rentals",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de I'information",
+   "pct": "36.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Institutions financières",
+   "pct": "12.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "9.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés industrielles",
+   "pct": "9.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation durables",
+   "pct": "8.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.0"
+  }
+ ]
+}

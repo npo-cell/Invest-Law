@@ -1,0 +1,101 @@
+{
+ "n": "404",
+ "isin": "LU0122379950",
+ "nom": "BGF WORLD HEALTHSCIENCE A2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2001-04-06",
+ "devise": "USD",
+ "type_fonds": "Actions secteur santé",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Erin Xie, Xiang Liu",
+ "encours_millions": "13099.92",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.81",
+ "sri": "4",
+ "indice": "MSCI WRLD HealthCare ND (USD)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale la santé, la pharmacie, la technologie et les fournitures médicales et le développement de la biotechnologie.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site web de BlackRock à l’adresse www.blackrock.com/baselinescreens\n\nLe gestionnaire financier par délégation (GFD) peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de l construction du portefeuille du Fonds, le GFD prendra en considération le MSCI World Health Care Index (l’« Indice »), ainsi qu’à des fins de comparaison de la performance et de gestion des risques, comme décrit plus en détail dans le prospectus. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice et peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice. Toutefois, les exigences sectorielles de l’objectif et de la politique d’investissement peut limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet FR (version France) de septembre 2026, part A2 USD (la version belge FR n'est publiée qu'au 31/08/2026). Politique prise du KID (section « Objectifs ») : la factsheet ne reprend que les trois premiers paragraphes (aperçu) ; les paragraphes du KID sur le prix des actions, le rendement et le dépositaire ne sont pas repris. Le texte du KID porte « lors de l construction » (lettre manquante telle qu'extraite du PDF), recopié tel quel. Date de création = « Date de lancement de la Catégorie d'Actions : 06-avr.-2001 » (identique au fonds) ; la factsheet précise que le fonds a changé de nom et/ou d'objectif et de politique le 30 août 2022. Encours = « Encours sous gestion (M) : 13.099,92 USD » au 30/09/2026. Frais : factsheet « Commission de gestion annuelle : 1,50% » et « Frais courants : 1,81% » ; KID « Frais de gestion et autres coûts administratifs ou d’exploitation 1,81 % » ; commission de performance 0,00 %. Indice : « Contrainte 1 : MSCI WRLD HealthCare ND (USD) » (factsheet) ; le KID écrit « MSCI World Health Care Index », utilisé pour la construction du portefeuille, la comparaison des performances et la gestion des risques : retenu. SFDR article 8 (factsheet), pas de % durable écrit. Classification Agressif : actions sectorielles (santé), malgré un SRI 4. Allocations : seulement les 10 principales positions ; les répartitions sectorielle, géographique et par capitalisation sont des graphiques sans valeurs lisibles dans le texte du PDF (non reprises).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ELI LILLY",
+   "pct": "9.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JOHNSON & JOHNSON",
+   "pct": "8.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBVIE",
+   "pct": "6.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCK & CO INC",
+   "pct": "5.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROCHE PS PAR AG",
+   "pct": "4.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "4.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVARTIS AG",
+   "pct": "4.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GILEAD SCIENCES",
+   "pct": "3.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMGEN INC",
+   "pct": "3.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITEDHEALTH GROUP",
+   "pct": "3.16"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122379950/LU0122379950__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122379950/LU0122379950__KID_FR_2026-04-29.pdf"
+}

@@ -1,0 +1,126 @@
+{
+ "n": "383",
+ "isin": "LU0010020310",
+ "nom": "AVIVA INVESTORS UK EQ UNCONSTR B GBP",
+ "maison": "Aviva Investors Luxembourg S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-13",
+ "date_creation": "1990-07-02",
+ "devise": "GBP",
+ "type_fonds": "Actions britanniques",
+ "compartiment": "Sous-fonds de Aviva Investors, une société d’investissement à capital variable et un fonds à compartiments multiples avec séparation des passifs entre les sous-fonds, établie en vertu des lois luxembourgeoises",
+ "gerants": "Charlotte Meyrick, Matthew Bennison",
+ "encours_millions": "25.24",
+ "encours_devise": "GBP",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.09",
+ "sri": "4",
+ "indice": "FTSE All Share TR",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur d'un investissement et tout revenu qu'il génère peut fluctuer à la hausse comme à la baisse. Les investisseurs sont susceptibles de ne pas récupérer le montant initial investi.",
+ "politique_fr": "Objectif : L’objectif du Fonds est d’accroître la valeur des investissements des Actionnaires sur le long terme (5 ans ou plus) en investissant dans des actions de sociétés britanniques.\n\nPolitique d'investissement :Le Fonds investit principalement dans des actions de sociétés du Royaume-Uni. Plus particulièrement, le Fonds investit à tout moment au moins 80 % de l’actif net total (hors liquidités et équivalents) dans des actions ou titres assimilés de sociétés exerçant la majeure partie de leur activité au Royaume-Uni (constituées ou domiciliées au Royaume-Uni) ou de sociétés non britanniques cotées ou ayant des activités de négociation importantes au Royaume-Uni.\n\nStratégie : Le Fonds est géré activement ce qui permet au Gestionnaire d’investissement d’investir librement dans des sociétés sélectionnées de toute taille et à n’importe quel stade du cycle économique (ce qui est conforme à la philosophie ESG d’Aviva Investors). Il s’agira notamment d’investir dans des sociétés leaders sur le marché et matures ayant un potentiel de croissance des bénéfices supérieur et de dividendes durables, ainsi que d’identifier les sociétés qui sont défavorables à un moment donné, mais dont la valeur est susceptible d’augmenter à l’avenir.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 31/08/2026 retenue (la version de septembre n'existe qu'en anglais). Date de création = « Date de création de la part 02/07/1990 » (identique au fonds). Encours = « ACTIF NET DU FONDS GBP 25,24m » au 31/08/2026. Frais de gestion = « Frais de gestion (max.) 1,50% » (maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation 2.09 % » (factsheet : « Frais courants (N-1) 2,09% (au 31/12/2025) ») ; pas de commission de surperformance. Indice : « indice FTSE All Share TR » (factsheet et KID : comparaison des performances, avec une erreur de suivi attendue de 3 % à 8 %, donc aussi suivi du risque) : retenu ; le graphique écrit « FTSE AllSh TR GBP ». Gérants : « *Charlotte Meyrick depuis 19/02/2024 » (la factsheet précise qu'elle est actuellement en congé maternité) et Matthew Bennison depuis 12/01/2026. SFDR article 8 (factsheet), pas de % durable. Classification Dynamique : actions britanniques diversifiées (toutes tailles), SRI 4 ; cas limite car fonds d'un seul pays (la règle « pays unique » pourrait mener à Agressif). Allocations : colonne « Actif (%) » seulement ; secteurs hors trésorerie ; capitalisations Morningstar ; pas de principales positions dans la factsheet (seulement un tableau « Principales surpondérations & sous-pondérations » relatif à l'indice, non repris). Disclaimer : phrase sur les performances passées + paragraphe « Risque d'investissement ».",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "27.44"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "13.18"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "12.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation courante",
+   "pct": "11.29"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "8.89"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "8.33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "4.51"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "4.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "3.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "4.31"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Très grande",
+   "pct": "45.19"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grande",
+   "pct": "22.45"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyenne",
+   "pct": "22.70"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petite",
+   "pct": "9.06"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Micro",
+   "pct": "0.61"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0010020310/LU0010020310__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0010020310/LU0010020310__KID_FR_2026-02-13.pdf"
+}
