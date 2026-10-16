@@ -1,0 +1,101 @@
+{
+ "n": "400",
+ "isin": "LU0097036916",
+ "nom": "BGF US GROWTH A2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "1999-04-30",
+ "devise": "USD",
+ "type_fonds": "Actions américaines",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Reid Menge, Sally Du",
+ "encours_millions": "497.23",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.81",
+ "sri": "5",
+ "indice": "Russell 1000 Growth Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (« ESG »).\n\nLe Fonds investit au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés domiciliées, ou exerçant la majeure partie de leurs activités, aux États-Unis.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site Internet de BlackRock à l’adresse www.blackrock.com/baselinescreens.\n\nEn particulier, le Fonds investira dans des titres de participation de sociétés qui, de l’avis du gestionnaire financier par délégation (GFD), présentent un bon potentiel de croissance. Le gestionnaire financier par délégation (GFD) sélectionne les investissements du Fonds à sa discrétion et, ce faisant, peut prendre en compte le Russell 1000 Growth Index.\n\nLe GFD peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de la construction du portefeuille du Fonds, le GFD se référera au Russell 1000 Growth Index (l’« Indice »), ainsi qu’à des fins de gestion des risques pour s’assurer que le risque actif (c’est-à-dire le degré d’écart par rapport à l’Indice) pris par le Fonds reste approprié compte tenu de l’objectif et de la politique d’investissement du Fonds. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice lors de la sélection des investissements. Le GFD peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice afin de profiter d’opportunités d’investissement spécifiques. Toutefois, la portée géographique de l’objectif et de la politique d’investissement peut avoir pour effet de limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice. Les investisseurs doivent utiliser l’Indice pour comparer la performance du Fonds.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet FR (version France) de septembre 2026, part A2 USD. Politique prise du KID (section « Objectifs ») : la factsheet ne reprend que les trois premiers paragraphes (aperçu) ; les paragraphes du KID sur le prix des actions, le rendement et le dépositaire ne sont pas repris. Date de création = « Date de lancement de la Catégorie d'Actions : 30-avr.-1999 » (identique au fonds). Encours = « Encours sous gestion (M) : 497,23 USD » au 30/09/2026. Frais : factsheet « Commission de gestion annuelle : 1,50% » et « Frais courants : 1,81% » ; KID « Frais de gestion et autres coûts administratifs ou d’exploitation 1,81 % » ; commission de performance 0,00 %. Indice : « Contrainte 1 : Russell 1000 Growth Index » (factsheet) ; le KID l'utilise pour la construction du portefeuille, la gestion des risques et la comparaison des performances : retenu. SFDR article 8 (factsheet), pas de % durable écrit. Classification Dynamique : actions américaines (croissance, grandes capitalisations), SRI 5. Allocations : seulement les 10 principales positions ; les répartitions sectorielle et par capitalisation sont des graphiques sans valeurs lisibles dans le texte du PDF (non reprises).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORPORATION",
+   "pct": "9.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "8.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICRON TECHNOLOGY INC",
+   "pct": "5.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORPORATION",
+   "pct": "5.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "4.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "4.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SNOWFLAKE INC",
+   "pct": "3.84"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PALO ALTO NETWORKS INC",
+   "pct": "3.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LAM RESEARCH CORPORATION",
+   "pct": "3.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLIED MATERIALS INC",
+   "pct": "2.98"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0097036916/LU0097036916__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0097036916/LU0097036916__KID_FR_2026-04-29.pdf"
+}

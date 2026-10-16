@@ -1,0 +1,128 @@
+{
+ "n": "380",
+ "isin": "LU0180621863",
+ "nom": "AVIVA EMERGING MARKETS BOND B USD",
+ "maison": "Aviva Investors Luxembourg S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-13",
+ "date_creation": "2003-12-08",
+ "devise": "USD",
+ "type_fonds": "Obligations marchés émergents",
+ "compartiment": "Sous-fonds de Aviva Investors, une société d’investissement à capital variable et un fonds à compartiments multiples avec séparation des passifs entre les sous-fonds, établie en vertu des lois luxembourgeoises",
+ "gerants": "Aaron Grehan, Michael McGill",
+ "encours_millions": "4049.27",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.59",
+ "sri": "3",
+ "indice": "JPM EMBI Global TR USD",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "6.77 (sensibilité)",
+ "qualite_emetteurs": "Baa3",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur d'un investissement et les revenus qu'il génère peuvent évoluer à la hausse comme à la baisse, y compris sous l'effet de la fluctuation des taux de change. Il se peut que les investisseurs ne récupèrent pas le montant initial investi.",
+ "politique_fr": "Objectif : L'objectif du Fonds consiste à générer des revenus et accroître la valeur de l'investissement de l'Actionnaire à long terme (5 ans ou plus).\n\nPolitique d'investissement :Le Fonds investit principalement dans des obligations émises par des gouvernements et des entreprises des pays émergents. Plus particulièrement, le Fonds investit à tout moment au moins les deux tiers de l’actif net total (hors liquidités et équivalents) dans des obligations d’émetteurs étatiques, quasi-étatiques, supranationaux, bancaires ou privés ayant leur siège ou exerçant la majeure partie de leur activité dans des pays émergents partout dans le monde.\n\nLe Gestionnaire d’investissement prend les décisions de sélection des investissements pour le Fonds de manière active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 31/08/2026 retenue (la version de septembre n'existe qu'en anglais). Date de création = « Date de création de la part 08/12/2003 » (identique au fonds). Encours = « ACTIF NET DU FONDS USD 4049,27m » au 31/08/2026. Frais de gestion = « Frais de gestion (max.) 1,20% » (maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation 1.59 % » (factsheet : « Frais courants (N-1) 1,59% (au 31/12/2025) ») ; pas de commission de surperformance. Indice : nom de la factsheet (« INDICE DE RÉFÉRENCE: JPM EMBI Global TR USD ») ; le KID écrit « indice JP Morgan EMBI Global » et le présente comme indice de comparaison des performances, avec une erreur de suivi attendue de 1 % à 3 % (risque) : retenu (comparaison + risque). Duration = « Sensibilité du fonds 6,77 » ; « Durée jusqu'à maturité 9,56 années » ; « Spread duration 4,67 » ; rendement à maturité 8,47. Qualité = « Rating moyen Baa3 ». SFDR article 8 (factsheet), pas de % durable (le fonds ne prend pas d'engagement minimum). Classification Défensif : fonds obligataire (émergents), SRI 3. Allocations : colonne « Actif (%) » seulement (l'écart par rapport à l'indice n'est pas repris) ; les surpondérations géographiques par duration (relatives à l'indice) ne sont pas reprises ; pas de principales positions dans la factsheet ; les répartitions par maturité et par rating totalisent 95,27 % telles qu'écrites. Le disclaimer reprend la phrase sur les performances passées et le paragraphe « Risque d'investissement et risque de change ».",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Maturités",
+   "libelle": "0-3 Ans",
+   "pct": "17.43"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 Ans",
+   "pct": "14.30"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 Ans",
+   "pct": "10.92"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10 Ans",
+   "pct": "25.20"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10-15 Ans",
+   "pct": "10.58"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "15-20 Ans",
+   "pct": "2.23"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20+ Ans",
+   "pct": "14.61"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "0.03"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "4.43"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "15.51"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "27.20"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "27.77"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "11.68"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Below B",
+   "pct": "3.23"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté, autre et en espèces",
+   "pct": "5.42"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0180621863/LU0180621863__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0180621863/LU0180621863__KID_FR_2026-02-13.pdf"
+}

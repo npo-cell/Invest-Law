@@ -1,0 +1,288 @@
+{
+ "n": "381",
+ "isin": "LU0367993317",
+ "nom": "AVIVA GLOBAL HIGH YIELD BOND A USD",
+ "maison": "Aviva Investors Luxembourg S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-01",
+ "date_creation": "2008-09-22",
+ "devise": "USD",
+ "type_fonds": "Obligations haut rendement",
+ "compartiment": "Sous-fonds de Aviva Investors, une société d’investissement à capital variable et un fonds à compartiments multiples avec séparation des passifs entre les sous-fonds, établie en vertu des lois luxembourgeoises",
+ "gerants": "Fabrice Pellous, Mark Dove",
+ "encours_millions": "3517.71",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.34",
+ "sri": "2",
+ "indice": "Bloomberg Global High Yield Excl CMBS & EMG 2% Cap",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.34 (sensibilité)",
+ "qualite_emetteurs": "Ba2",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur d'un investissement et tout revenu qu'il génère peut fluctuer à la hausse comme à la baisse. Les investisseurs sont susceptibles de ne pas récupérer le montant initial investi.",
+ "politique_fr": "Objectif : L'objectif du Fonds consiste à générer des revenus et à accroître la valeur de l'investissement de l'Actionnaire tout en surperformant l'indice Bloomberg Global High Yield Excl CMBS & EMG 2% Cap à long terme (5 ans ou plus).\n\nPolitique d'investissement :Le Fonds investit essentiellement dans des obligations à haut rendement émises par des sociétés du monde entier, en mettant l’accent sur l’Amérique du Nord et l’Europe.\n\nÀ tout moment, le Fonds investit au minimum les deux tiers du total de ses actifs nets (hors actifs liquides à titre accessoire, dépôts éligibles, instruments du marché monétaire et fonds monétaires) dans des obligations dont la note est inférieure à BBB- d’après Standard and Poor’s et Fitch ou Baa3 d’après Moody’s, ou dans des titres qui ne sont pas notés et considérés comme offrant une qualité de crédit équivalente selon l’évaluation interne du Gestionnaire d’investissement.\n\nLe Compartiment peut investir : jusqu’à 10 % du total de ses actifs nets dans des obligations émises par des émetteurs gouvernementaux, quasi-gouvernementaux et supranationaux des marchés développés ; jusqu’à 10 % du total de ses actifs nets dans des obligations convertibles ; jusqu’à 10 % du total de ses actifs nets dans des obligations émises par des sociétés de pays de marchés émergents ; et jusqu’à 30 % du total de ses actifs nets dans des investissements du marché monétaire. Il peut toutefois détenir des titres de participation reçus passivement à la suite d’une restructuration de dette, à condition que ces titres ne dépassent pas 10 % du total de ses actifs nets.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 31/08/2026 retenue (la version de septembre n'existe qu'en anglais). Date de création = « Date de création de la part 22/09/2008 » (identique au fonds). Encours = « ACTIF NET DU FONDS USD 3517,71m » au 31/08/2026. Frais de gestion = « Frais de gestion (max.) 1,20% » (maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation 1.34 % » (factsheet : « Frais courants (N-1) 1,34% (au 31/12/2025) ») ; pas de commission de surperformance. Indice : l'objectif vise à surperformer l'« indice Bloomberg Global High Yield Excl CMBS & EMG 2% Cap » (retenu) ; le graphique de la factsheet écrit « BBg Gbl HY ex CMBS&EMG 2% C TR HUSD » (version couverte en USD) ; le KID indique que le portefeuille et l'indice sont couverts dans la monnaie de base. Duration = « Sensibilité du fonds 3,34 » ; « Durée jusqu'à maturité 10,46 années » ; « Spread duration 2,67 ». Qualité = « Rating moyen Ba2 ». SFDR article 8 (factsheet), pas de % durable. Classification Défensif : fonds obligataire (haut rendement), SRI 2. Gérants : Fabrice Pellous depuis 18/11/2024, Mark Dove depuis 23/02/2026. Allocations : colonne « Actif (%) » seulement (écarts à l'indice non repris) ; secteurs et pays hors trésorerie ; positions hors liquidités, contrats à terme et obligations d'État ; devises hors liquidités. Disclaimer : phrase sur les performances passées + paragraphe « Risque d'investissement ». La phrase de renvoi « Pour plus d’informations sur les risques… » n'est pas reprise dans la politique.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Zf North America Capital Inc 144A",
+   "pct": "1.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fair Isaac Corp 144A",
+   "pct": "1.45"
+  },
+  {
+   "type": "Positions",
+   "libelle": "American Axle & Manufacturing Inc 144A",
+   "pct": "1.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cleveland-Cliffs Inc 144A",
+   "pct": "1.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cco Holdings Llc 144A",
+   "pct": "1.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sunoco Lp 144A",
+   "pct": "1.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Webuild Spa Regs",
+   "pct": "1.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cvs Health Corp",
+   "pct": "1.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sm Energy Co 144A",
+   "pct": "1.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Energy Transfer Lp",
+   "pct": "1.14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "20.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "17.89"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "12.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Non cyclique",
+   "pct": "9.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "6.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres établissements financiers",
+   "pct": "5.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Électrique",
+   "pct": "4.97"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux de base",
+   "pct": "3.90"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens d’équipement",
+   "pct": "3.62"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "8.08"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États Unis",
+   "pct": "57.78"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "8.84"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "6.45"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "5.89"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "5.12"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "2.91"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "2.83"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "2.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Emirats Arabes Unis",
+   "pct": "1.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "6.75"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "2.89"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "0.00"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "0.81"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "2.54"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "53.56"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "27.86"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "4.67"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CC",
+   "pct": "1.20"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.00"
+  },
+  {
+   "type": "Notations",
+   "libelle": "D",
+   "pct": "1.29"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté, autre et en espèces",
+   "pct": "2.86"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar canadien",
+   "pct": "0.00"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Franc suisse",
+   "pct": "0.00"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "21.27"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre Sterling",
+   "pct": "5.95"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne suédoise",
+   "pct": "0.00"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollars américain",
+   "pct": "70.47"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0367993317/LU0367993317__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0367993317/LU0367993317__KID_FR_2026-04-01.pdf"
+}

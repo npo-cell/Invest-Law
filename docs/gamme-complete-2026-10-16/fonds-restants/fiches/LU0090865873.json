@@ -1,0 +1,211 @@
+{
+ "n": "351",
+ "isin": "LU0090865873",
+ "nom": "ABRDN LIQUIDITY FUND (LUX) A2 EUR",
+ "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+ "factsheet_date": "2026-06-30",
+ "kid_date": "2026-07-15",
+ "date_creation": "1990-07-23",
+ "devise": "EUR",
+ "type_fonds": "Monétaire",
+ "compartiment": "Euro Fund (le Fonds) est un compartiment libellé en Euro d’une SICAV (société d’investissement à capital variable), abrdn Liquidity Fund (Lux), immatriculée au Luxembourg.",
+ "gerants": "Liquidity Team",
+ "encours_millions": "",
+ "encours_devise": "",
+ "encours_date": "",
+ "frais_gestion": "0.25",
+ "frais_courants": "0.28",
+ "sri": "1",
+ "indice": "Taux euro à court terme",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée n'est pas une indication des rendements futurs. La valeur des placements et le revenu qui en découle peuvent diminuer et les investisseurs peuvent récupérer une somme inférieure au montant investi.",
+ "politique_fr": "Objectif\nL’objectif du Fonds est de préserver le capital et de fournir de la liquidité, tout en ciblant une performance conforme aux taux en vigueur sur le marché monétaire à court terme, pour lequel le ESTR a été choisi en tant qu'indice de référence.\n\nTitres composant le portefeuille\n- Le Fonds investit dans des instruments du marché monétaire de haute qualité libellés en euro.\n- Les exigences minimum de liquidités à l'échéance sont les suivantes : 10 % au jour le jour et 30 % arrivant à échéance en une semaine.\n- Le Fonds investit dans des titres dont l'échéance ne dépasse pas 397 jours. L’ensemble du Fonds doit avoir une échéance moyenne pondérée maximale de 60 jours et une durée moyenne pondérée maximale de 120 jours.\n- Le Fonds peut être exposé à des actifs dont le rendement est nul ou négatif dans des conditions de marché défavorables.\n- Les investissements suivront l’approche d’investissement Liquidity Euro Fund Investment d’abrdn (l’Approche d’investissement).\n- Cette approche utilise le processus d’investissement dans les titres à revenu fixe d’Aberdeen Investments, qui permet aux gérants de portefeuilles d’évaluer qualitativement la manière dont les facteurs ESG sont susceptibles d’avoir un impact sur la capacité de l’entreprise à rembourser sa dette, aujourd’hui et à l’avenir. Pour compléter cette recherche, le score MSCI ESG est utilisé pour identifier quantitativement et exclure les entreprises exposées aux risques ESG les plus élevés. De plus, un ensemble d’exclusions d’entreprises est appliqué, en lien avec le Pacte mondial des Nations Unies, les armes controversées, la fabrication de tabac et le charbon thermique.\n- De plus amples détails sur l’ensemble de ce processus sont présentés dans l’approche d’investissement, qui est publiée à l’adresse www.aberdeeninvestments.com dans la rubrique Fund Centre.\n\nProcessus de gestion\n- Le Fonds fait l'objet d'une gestion active. Notre équipe d’investissement s’efforcera d’obtenir et de maintenir une notation de crédit AAA ou équivalente attribuée par au moins une agence de notation.\n- Grâce à l’application de l’Approche d’investissement, le Fonds visera une notation MSCI ESG d’au moins AA.\n- Le dialogue avec les équipes dirigeantes des sociétés permet d’évaluer les structures de propriété, la gouvernance et la qualité de la gestion de ces sociétés, afin d’éclairer la construction du portefeuille.\n- Ce Fonds est un fonds monétaire à valeur liquidative à faible volatilité (« Low Volatility Net Asset Value ») au sens du règlement (UE) 2017/1131 relatif aux fonds monétaires (règlement MMF).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part A-2 Acc EUR (« Class A-2 Acc EUR ») de abrdn Liquidity Fund (Lux) - Euro Fund, fonds monétaire court terme LVNAV. Factsheet FR du 30/06/2026 retenue (français d'abord) ; une factsheet EN plus récente (31/08/2026) existe sur fundinfo, non utilisée. KID FR du 15/07/2026 = version France (fundinfo FR ; pas de KID FR en BE/LU). Date de création = « Date de lancement de la catégorie d'actions 23 juillet 1990 » (identique au fonds). Encours vide : la factsheet écrit « Encours du fonds EUR4,3M » (« M » majuscule, alors que les autres factsheets abrdn écrivent « m » pour millions) : unité ambiguë (4,3 millions ou 4,3 milliards ?), non retenu. Gérant : équipe « Liquidity Team ». Frais de gestion = « Commission de gestion annuelle 0,25% » ; frais courants = KID 0,28 % (factsheet : « Montant des frais courants 0,28% »). Indice = « Benchmark Taux euro à court terme » (factsheet) : l'objectif cible une performance conforme aux taux du marché monétaire à court terme, « pour lequel le ESTR a été choisi en tant qu'indice de référence ». SFDR article 8. Duration et qualité vides : la factsheet donne « WAMA 43 days » et « WALA 73 days » (échéance / durée de vie moyennes pondérées, pas une duration) et les notations du fonds « S&P AAAm » / « Fitch AAAmmf » (notation du fonds, pas une notation moyenne des émetteurs). Classification Défensif : monétaire, SRI 1. Allocations : « Profil de crédit » = notations long terme S&P ; « Profil d'échéance en jours » classé en Maturités ; « Type d'instrument » en Instruments ; la ligne « Liquidités 0,0 » (placement ambigu dans la mise en page, entre les tableaux d'échéance et d'instruments) n'est pas reprise. Avertissement AMF sur une communication disproportionnée sur les critères extra-financiers.",
+ "factsheet_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0090865873/LU0090865873__Factsheet_FR_2026-06-30.pdf",
+ "kid_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0090865873/LU0090865873__KID_FR_2026-07-15.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "FRANCE",
+   "pct": "16.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "CANADA",
+   "pct": "8.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "BELGIQUE",
+   "pct": "7.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "CHINE",
+   "pct": "7.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "SUÈDE",
+   "pct": "7.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "JAPON",
+   "pct": "6.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "ROYAUME-UNI",
+   "pct": "5.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "PAYS-BAS",
+   "pct": "5.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "34.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "3.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA+",
+   "pct": "2.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "4.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA-",
+   "pct": "26.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A+",
+   "pct": "45.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "17.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1",
+   "pct": "32.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2-7",
+   "pct": "11.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "8 - 30",
+   "pct": "9.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "31 - 60",
+   "pct": "5.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "61 - 90",
+   "pct": "5.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "91 - 180",
+   "pct": "21.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "181 - 365",
+   "pct": "12.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "366+",
+   "pct": "0.6"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Effets de commerce",
+   "pct": "25.8"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Certificat de dépôt",
+   "pct": "24.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Dépôt à terme",
+   "pct": "24.1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations d'entreprise",
+   "pct": "5.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligation à taux variable",
+   "pct": "5.3"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Effets de commerce adossés à des actifs (ABCP)",
+   "pct": "4.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Compte à vue",
+   "pct": "4.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Prise en pension",
+   "pct": "3.6"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Autres",
+   "pct": "1.6"
+  }
+ ]
+}

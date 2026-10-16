@@ -1,0 +1,103 @@
+{
+ "n": "418",
+ "isin": "LU0012119433",
+ "nom": "CANDRIAM BDS INTERNATIONAL C EUR CAP",
+ "maison": "CANDRIAM LUXEMBOURG S.A",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-18",
+ "date_creation": "1989-05-31",
+ "devise": "EUR",
+ "type_fonds": "Obligations internationales",
+ "compartiment": "un compartiment de la SICAV Candriam Bonds",
+ "gerants": "Bob Maes, Jamie Niven, Yohanne LEVY, Philippe Dehoux",
+ "encours_millions": "95.69",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.70",
+ "frais_courants": "0.99",
+ "sri": "2",
+ "indice": "Bloomberg Global Aggregate Index Hedged EUR (Total Return)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "7.40",
+ "qualite_emetteurs": "A+",
+ "disclaimer": "Attention: les performances passées, les simulations de performances passées et les prévisions de performances futures d’un instrument financier, d’un indice financier, d’une stratégie ou d’un service d’investissement ne préjugent pas des performances futures. Le véritable risque peut varier significativement si vous encaissez les sommes accumulées de manière anticipée, mais vous pourriez ne pas récupérer la totalité du montant que vous avez investi.",
+ "politique_fr": "Stratégie d'investissement\n\nCandriam Bonds International (ci-après «le fonds»), un compartiment de la SICAV Candriam Bonds, vise à utiliser une gestion discrétionnaire afin de bénéficier de la performance du marché des obligations émises par des émetteurs publics ou privés de tout type bien notés, et à surperformer l’indice de référence. Le fonds peut convenir aux investisseurs qui souhaitent atteindre cet objectif sur une période de détention de durée moyenne et qui connaissent, comprennent et sont en mesure d’assumer les risques particuliers du fonds. Le fonds promeut, entre autres, des caractéristiques environnementales et/ou sociales sans toutefois avoir l’investissement durable pour objectif. L’horizon d’investissement est de 3 ans. Le fonds est géré de manière active et le processus d’investissement implique le renvoi à un indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Rapport » FR au 30/09/2026 (réservée aux investisseurs professionnels), classe d'actions C (EUR) ; elle cite aussi la part D (LU0012119516) pour les VNI et les frais. KID : « International, Classique - Capitalisation, un compartiment de Candriam Bonds, SICAV » ; compartiment recopié de la factsheet (« un compartiment de la SICAV Candriam Bonds »), SICAV de droit luxembourgeois selon le KID. Date de création = « Date de lancement 31/05/1989 » : la factsheet ne précise pas s'il s'agit du fonds ou de la part. Encours = « Actifs nets totaux (M EUR) 95,69 » au 30/09/2026. Frais (ligne C) : « Frais de gestion réels 0,70% », « Frais courants 0,99% », commission de performance « - » ; KID « Frais de gestion et autres frais administratifs et d’exploitation 0,99% » (frais d'entrée max 2,50 %). Indice : « Bloomberg Global Aggregate Index Hedged EUR (Total Return) » (factsheet) ; le KID écrit « Bloomberg Global Aggregate Index EUR Hedged (Total Return) », utilisé comme univers, pour les paramètres de risque et la comparaison des performances, et le fonds vise à le surperformer : retenu. Duration = « Modified Duration to Worst 7,40 » (indice 6,00) ; Yield to Worst 6,10 ; Credit sensitivity 2,66. Qualité = « Rating moyen A+ ». SFDR article 8 (factsheet), pas de % durable écrit. Classification Défensif : obligations internationales de qualité (investment grade), SRI 2. Politique : bloc « Stratégie d'investissement » de la factsheet, sans la phrase finale de renvoi vers le DIC. Allocations : seulement le « Top 10 émetteurs » (colonne « % Fonds ») ; les répartitions par secteur, rating, maturité et pays sont des graphiques sans valeurs lisibles dans le texte du PDF (non reprises). Disclaimer : avertissement « Attention: les performances passées… » des informations importantes + phrase de l'indicateur de risque sur la perte possible.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "factsheet p.2",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.2",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1, p.5",
+  "politique_fr": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "UNITED STATES OF AMERICA",
+   "pct": "17.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JAPAN",
+   "pct": "7.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "INTERNATIONAL BANK FOR RECONSTRUCTION & DEVELOPMENT",
+   "pct": "3.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FEDERAL REPUBLIC OF GERMANY",
+   "pct": "3.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FRENCH REPUBLIC",
+   "pct": "2.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+   "pct": "2.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REPUBLIC OF ITALY",
+   "pct": "2.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROPEAN UNION",
+   "pct": "1.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KINGDOM OF SPAIN",
+   "pct": "1.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CANADA",
+   "pct": "1.14"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0012119433/LU0012119433__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0012119433/LU0012119433__KID_FR_2026-02-18.pdf"
+}

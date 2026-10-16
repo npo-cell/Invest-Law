@@ -1,0 +1,219 @@
+{
+ "n": "149",
+ "isin": "LU1748854947",
+ "nom": "(I/C)FVS MULTIPLE OPPORTUNITIES II HT EUR",
+ "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-01",
+ "date_creation": "2018-02-05",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Le produit est une classe de parts du compartiment Flossbach von Storch - Multiple Opportunities II, qui fait partie du fonds d’investissement Flossbach von Storch, fonds commun de placement luxembourgeois (fonds commun de placement — FCP) de type collectif, soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 dans sa version modifiée (Loi de 2010) et peut donc être qualifié d’OPCVM.",
+ "gerants": "Dr. Bert Flossbach, Simon Jäger, Dr. Kai Lehmann, Jonas Nahry, Dr. Tobias Schafföner",
+ "encours_millions": "7040",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.82",
+ "frais_courants": "0.98",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "Mixed Asset Global Aggressive",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future performance.",
+ "politique_fr": "",
+ "politique_en": "INVESTMENT STRATEGY\nThe Fund pursues an active investment approach. The Fund Manager can invest flexibly in the asset classes that appear attractive from his/her point of view in the respective capital market environment; the equity component is at least 25 per cent.\n\nThe basis for asset allocation is the Fund's own independent investment world view. The Fund deliberately does not follow any benchmark index. The primary objective is to generate sustainably attractive returns. Whether an individual investment is attractive is assessed within the framework of a thorough company analysis.\n\nThe risk-reward ratio is decisive for every investment decision; the potential return must clearly overcompensate for any risk of loss. The portfolio structure is based on the five guidelines of the Flossbach von Storch Pentagram diversification, quality, flexibility, solvency, and value. The composition of the portfolio is made by the Fund Manager exclusively in accordance with the criteria defined in the investment policy and is regularly reviewed and adjusted if necessary.\n\nThe investment strategy includes in-house valuation models, ESG integration, engagement, and the exercise of voting rights. In addition, exclusion criteria defined within the Sub-Fund's investment policy are taken into account. The sub-fund complies with the standards for credit quality and credit limits in the insurance industry. The Sub-Fund is categorized as an Article 8 product within the definition of the Disclosure Regulation (EU) 2019/2088 (SFDR). For detailed information on the objectives and investment policy, please refer to the current Sales Prospectus and the Key Information Document (PRIIP-KID).",
+ "source_politique": "Factsheet",
+ "remarques": "Seule factsheet disponible pour la part HT : version CH/LI en anglais (« CH LI ADVERTISEMENT ») au 30/09/2026 ; aucune factsheet FR ni version LU/BE. Politique en colonne EN (factsheet) ; le KID FR contient aussi une section « Objectifs » en français, non reprise (source unique = factsheet). Date de création = « Launch date 5 February 2018 » (factsheet). Encours « Fund assets 7.04 billion EUR » (fonds). Frais de gestion = « management fee of 0.82 % p.a. » inclus dans « Ongoing charges 0.98 % p.a. » (factsheet) ; frais courants = KID 0,98 % ; commission de performance max. 10 % (plafond 2,5 %). Indice « Aucun » : « The Fund deliberately does not follow any benchmark index » (factsheet) et « Il n'y a pas de comparaison avec un indice de référence » (KID). Gérants : bloc « FUND MANAGEMENT » (mentions « CFA » omises). Indice « Aucun » = valeur conventionnelle (seul écart signalé par verif_fiche.py). Classification Dynamique (comme la part IT LU1038809049 dans WB) : multi-actifs flexible avec au moins 25 % d'actions, 74,89 % d'actions au 30/09/2026, malgré un SRI de 3. « Income utilisation 2.0 » dans la factsheet (valeur peu claire) ; KID : part de capitalisation. Allocations : secteurs = « Top 10 sectors for equities » (8 lignes, en % de la poche actions) ; « Classes d'actifs » inclut « Other (incl. derivatives) -0.59 % » ; devises après couverture : liste partielle (10 premières). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part Flossbach von Storch-Multiple Opportunities II RT (LU1038809395) du même fonds.",
+ "factsheet_fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1748854947/LU1748854947__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1748854947/LU1748854947__KID_FR_2026-04-01.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.4",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "DEUTSCHE BÖRSE",
+   "pct": "2.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LEGRAND",
+   "pct": "2.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BERKSHIRE HATHAWAY B",
+   "pct": "2.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADIDAS",
+   "pct": "2.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DIAGEO",
+   "pct": "2.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBOTT LABORATORIES",
+   "pct": "2.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNILEVER",
+   "pct": "2.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NESTLE",
+   "pct": "2.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET - CLASS A",
+   "pct": "2.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHARLES SCHWAB",
+   "pct": "2.04"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "18.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "18.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "17.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "13.43"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "13.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "11.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "6.01"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "2.33"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Equities",
+   "pct": "74.89"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bonds",
+   "pct": "10.37"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Gold (indirect)",
+   "pct": "9.27"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "6.06"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Other (incl. derivatives)",
+   "pct": "-0.59"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "48.57"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "31.09"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "4.96"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "4.14"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "2.88"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "2.59"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "1.54"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "1.22"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SEK",
+   "pct": "1.13"
+  },
+  {
+   "type": "Devises",
+   "libelle": "TWD",
+   "pct": "1.02"
+  }
+ ]
+}

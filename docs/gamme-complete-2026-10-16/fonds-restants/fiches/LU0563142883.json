@@ -1,0 +1,172 @@
+{
+ "n": "832",
+ "isin": "LU0563142883",
+ "nom": "TEMPLETON GLOBAL TOTAL RETURN A SEK",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2010-12-08",
+ "devise": "SEK",
+ "type_fonds": "Obligataire international",
+ "compartiment": "Un compartiment de Franklin Templeton Investment Funds (OPCVM)",
+ "gerants": "Michael Hasenstab, Calvin Ho",
+ "encours_millions": "1570",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.37",
+ "sri": "3",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "Bond Global",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.90 ans",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested.",
+ "politique_fr": "Objectif d’investissement\nChercher à maximiser les revenus et la croissance du capital (rendement total).\n\nPolitique d’investissement\nLe Fonds investit principalement dans des obligations d’entreprises et d’État libellées dans n’importe quelle devise ainsi que dans des devises elles-mêmes. Ces investissements peuvent provenir du monde entier, y compris de Chine (par le biais du Bond Connect ou directement) et d’autres marchés émergents, et certains peuvent être de qualité inférieure à investment grade. Dans une moindre mesure, le Fonds peut investir dans des titres en défaut de paiement et dans des titres adossés à des actifs et à des créances hypothécaires.",
+ "politique_en": "To seek to maximise income and growth of capital (total return). The Fund mainly invests in corporate and government bonds denominated in any currency and in currencies themselves. These investments may be from anywhere in the world, including China (through the Bond Connect or directly) and other emerging markets, and some of them may be below investment grade.",
+ "source_politique": "KID",
+ "remarques": "Part A (acc) SEK-H1 (couverte en SEK : « This share class will attempt to hedge the currency risk between the base currency of the Fund and the currency of the share class ») ; le nom One Life ne mentionne pas la couverture. Factsheet seulement en anglais (aucune version FR sur fundinfo LU/BE/FR/CH) : disclaimer et allocations en anglais tels qu'écrits. Politique FR = section « Objectifs » du KID FR (source KID) ; politique EN = « Investment Overview » de la factsheet. Date de création = « Share Class Inception Date 08/12/2010 » (fonds : 29/08/2003). Devise de la part SEK (fonds en USD ; encours en USD). Duration = « Effective Duration 3.90 Yrs ». Indice vide : « Bloomberg Multiverse Index » est un « Comparateur », « Utilisé à des fins de comparaison des performances uniquement » (KID et factsheet). Encours = actif net total du fonds 1,57 milliard USD. Frais de gestion non indiqués ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation 1.37% » (factsheet : « Ongoing Charges Figure 1.37% »). SRI 3 (KID « Nous avons classé ce produit 3 sur 7 »). SFDR article 8 (KID et factsheet), aucun % durable écrit. Gérants : « Michael Hasenstab, PhD » et « Calvin Ho, PhD » (titre PhD retiré). Qualité = notation de crédit moyenne ; Average Weighted Maturity 5.47 Yrs ; rendement à échéance 8.69%. Classification Défensif (obligataire, SRI 3), mais fonds obligataire mondial flexible fortement exposé aux émergents et aux devises (BB 22,62 %, devises négatives) : cas limite. Allocations : colonne « Fonds » seulement ; lignes à 0,00 non reprises (China, CCC, CC, D) ; valeurs négatives gardées. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part Templeton Global Total Return A (acc) EUR-H1 (LU0294221097) du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1 / KID p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "KID p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "politique_en": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "Malaysia",
+   "pct": "11.85"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Mexico",
+   "pct": "9.64"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "India",
+   "pct": "9.52"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Brazil",
+   "pct": "8.84"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "United States",
+   "pct": "1.91"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Others",
+   "pct": "43.50"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash & Cash Equivalents",
+   "pct": "14.74"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Japanese Yen",
+   "pct": "21.63"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Malaysian Ringgit",
+   "pct": "11.85"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Australian Dollar",
+   "pct": "10.67"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Indian Rupee",
+   "pct": "10.50"
+  },
+  {
+   "type": "Devises",
+   "libelle": "US Dollar",
+   "pct": "6.15"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "-1.41"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Chinese Renminbi",
+   "pct": "-11.60"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Others",
+   "pct": "52.19"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "4.95"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "2.59"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "15.30"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "30.42"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "22.62"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "6.62"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "3.40"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Not Applicable",
+   "pct": "-0.62"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Cash & Cash Equivalents",
+   "pct": "14.74"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0563142883/LU0563142883__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0563142883/LU0563142883__KID_FR_2026-02-19.pdf"
+}

@@ -1,0 +1,194 @@
+[
+ {
+  "n": 665,
+  "isin": "LU3283426263",
+  "nom": "LAIQON GLOBAL EQUITIES DYNAMIC R EUR",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": "",
+   "url": null,
+   "source": "",
+   "date": "",
+   "langue": "",
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": "",
+   "url": null,
+   "source": "",
+   "date": "",
+   "langue": "",
+   "isin_verifie": false
+  },
+  "notes": "Part lancée le 01/10/2026 environ. Seul un KID en allemand (laiqon.com, PRIIPSKID_DE_DE_LU3283426263_20261001.pdf) : pas de version FR/EN (variantes FR/EN du nom de fichier testées : 404). Aucune factsheet (laiqon.com ; fundinfo LU/DE/AT/CH/BE/FR : seulement prospectus PR_LU_de et CON_LU_de)."
+ },
+ {
+  "n": 720,
+  "isin": "LU3302264125",
+  "nom": "MANDARINE GLOBAL TARGET 2032 C EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MANDARINE_GESTION/LU3302264125/LU3302264125__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://www.mandarine-gestion.com/BE/fr/docs/funds/mandarine-global-target-2032/LU3302264125/MR",
+   "source": "Mandarine Gestion (mandarine-gestion.com)",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/MANDARINE_GESTION/LU3302264125/LU3302264125__KID_FR_2026-05-06.pdf",
+   "url": "https://www.mandarine-gestion.com/BE/fr/docs/funds/mandarine-global-target-2032/LU3302264125/KID",
+   "source": "Mandarine Gestion (mandarine-gestion.com)",
+   "date": "2026-05-06",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Documents via le site Mandarine (même schéma d'URL que la part F LU3302264471 de Wealth Belgium). Absent de fundinfo. Rapport mensuel au 30/09/2026, part C ; KID Action C du 06/05/2026."
+ },
+ {
+  "n": 745,
+  "isin": "LU1849527939",
+  "nom": "ODDO BHF EXKLUSIV POLARIS BALANCED CR-EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849527939/LU1849527939__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/ba9f043bc2aaf86dce0201e1b252b745_1232438/MR_LU_fr_LU1849527939_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849527939/LU1849527939__KID_FR_2026-04-16.pdf",
+   "url": "https://api.fundinfo.com/document/905e1642bdcafa6edab21df0ea6152c5_106804/PRP_LU_fr_LU1849527939_YES_2026-04-16.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-16",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds nommé « ODDO BHF Polaris Balanced » CR-EUR dans les documents (sans « Exklusiv ») ; KID : compartiment de la SICAV ODDO BHF II, factsheet : « Compartiment de ODDO BHF Exklusiv ». Factsheet FR au 30/09/2026 (fundinfo LU), KID FR du 16/04/2026."
+ },
+ {
+  "n": 770,
+  "isin": "LU0309035870",
+  "nom": "PICTET SHORT-TERM MONEY MARKET JPY R",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0309035870/LU0309035870__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/81f62960aaa6c33e86514f6b3df630a5_513835/MR_LU_fr_LU0309035870_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0309035870/LU0309035870__KID_FR_2026-06-19.pdf",
+   "url": "https://api.fundinfo.com/document/faabc5ef0daa596f3c66e741567e41e4_145667/PRP_LU_fr_LU0309035870_YES_2026-06-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fiche technique mensuelle FR au 30/09/2026 (part R) et KID FR du 19/06/2026, fundinfo LU."
+ },
+ {
+  "n": 797,
+  "isin": "LU0491217419",
+  "nom": "ROBECO INDIAN EQUITIES D EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0491217419/LU0491217419__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/a22be7d5fffe43134359ec954175d1a2_508361/MR_FR_fr_LU0491217419_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0491217419/LU0491217419__KID_FR_2026-04-30.pdf",
+   "url": "https://api.fundinfo.com/document/b8e61711527323a67ebc5c7aa3b5ae4f_241827/PRP_BE_fr_LU0491217419_YES_2026-04-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR au 30/09/2026 (fundinfo FR, version tout public ; les versions BE/FR « RES » portent la mention investisseurs professionnels). Elle remplace pour la fiche la factsheet d'août 2026 déjà présente dans le dossier (laissée en place). KID FR du 30/04/2026 (fundinfo BE ; pas de KID FR sur fundinfo LU, seulement EN)."
+ },
+ {
+  "n": 832,
+  "isin": "LU0563142883",
+  "nom": "TEMPLETON GLOBAL TOTAL RETURN A SEK",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0563142883/LU0563142883__Factsheet_EN_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/2a78181364138601409bb0c44e981df3_102500/MR_LU_en_LU0563142883_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "EN",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0563142883/LU0563142883__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/9b95847903094fde5dc07f8a1fa61403_170028/PRP_BE_fr_LU0563142883_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Part A (acc) SEK-H1 (couverte). Factsheet seulement en anglais sur fundinfo (LU/CH ; rien en FR sur LU/BE/FR/CH) : EN au 30/09/2026. KID FR du 19/02/2026 (fundinfo BE). Dossier FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L (le plus fourni des deux dossiers Franklin existants)."
+ },
+ {
+  "n": 833,
+  "isin": "LU0170475312",
+  "nom": "TEMPLETON GLOBAL TOTAL RETURN A USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0170475312/LU0170475312__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/8f30b9a813f91ab8f314dbadc20859d1_103759/MR_FR_fr_LU0170475312_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0170475312/LU0170475312__KID_FR_2026-02-19.pdf",
+   "url": "https://api.fundinfo.com/document/5f3934d6561f4fa39564eb204834acf3_168772/PRP_BE_fr_LU0170475312_YES_2026-02-19.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-19",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Part A (acc) USD. Reporting FR au 30/09/2026 (fundinfo FR, version France). KID FR du 19/02/2026 (fundinfo BE)."
+ },
+ {
+  "n": 838,
+  "isin": "FR001400UP68",
+  "nom": "TIKEHAU 2031 R EUR (FMB)",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TIKEHAU_INVESTMENT_MANAGEMENT/FR001400UP68/FR001400UP68__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/5b50c1a8e5178c5aba45c482497b33e6_261635/MR_LU_fr_FR001400UP68_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/TIKEHAU_INVESTMENT_MANAGEMENT/FR001400UP68/FR001400UP68__KID_FR_2026-03-04.pdf",
+   "url": "https://api.fundinfo.com/document/fb807c1ff9816cbefd1770e2fc67affa_265429/PRP_BE_fr_FR001400UP68_YES_2026-03-04.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-03-04",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Part R-Acc-EUR. Rapport mensuel FR septembre 2026 et KID FR du 04/03/2026 (fundinfo)."
+ }
+]

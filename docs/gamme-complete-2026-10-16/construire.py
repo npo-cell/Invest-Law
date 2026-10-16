@@ -88,6 +88,19 @@ def main(site_json):
         for r in csv.reader(open(os.path.join(WB, 'allocations-%d.csv' % k))):
             wb_a.setdefault(r[1].strip().upper(), []).append(r)
     depot = pdfs_depot()
+    # 53 fonds restants : fiches préparées le 16/10 (fonds-restants/fiches), même ordre de colonnes que Wealth Belgium
+    CLES = ['n', 'isin', 'nom', 'maison', 'factsheet_date', 'kid_date', 'date_creation', 'devise', 'type_fonds',
+            'compartiment', 'gerants', 'encours_millions', 'encours_devise', 'encours_date', 'frais_gestion',
+            'frais_courants', 'sri', 'indice', 'classification', 'categorie', 'sfdr', 'durable_pct', 'duration',
+            'qualite_emetteurs', 'disclaimer', 'politique_fr', 'politique_en', 'source_politique', 'remarques']
+    rf, rf_docs = {}, {}
+    for fj in sorted(os.listdir(os.path.join(ICI, 'fonds-restants', 'fiches'))):
+        j = json.load(open(os.path.join(ICI, 'fonds-restants', 'fiches', fj)))
+        isin = j['isin'].strip().upper()
+        rf[isin] = [str(j.get(k) or '') for k in CLES]
+        rf_docs[isin] = (j.get('factsheet_fichier') or '', j.get('kid_fichier') or '')
+        wb_a[isin] = [['', isin, j['nom'], a['type'], a['libelle'], a['pct'], j.get('factsheet_date') or '']
+                      for a in j.get('allocations') or []]
 
     rows = list(openpyxl.load_workbook(os.path.join(ICI, 'FundsRange2026-10-16.xlsx'), read_only=True)
                 .active.iter_rows(values_only=True))
@@ -101,7 +114,8 @@ def main(site_json):
     for i, r in enumerate(gamme):
         n = i + 2
         isin, nom, maison = r[1].strip().upper(), r[2], r[6]
-        f, w = site.get(isin), wb_f.get(isin)
+        f, w = site.get(isin), wb_f.get(isin) or rf.get(isin)
+        restant = isin in rf and isin not in wb_f
         docs = depot.get(isin, [])
         fs_dep, kid = dernier(docs, 'Factsheet'), dernier(docs, 'KID')
         rap = sorted(detail.get(str(f['FundId']), {}).get('rapports', []) if f else [],
@@ -110,6 +124,8 @@ def main(site_json):
             statut = 'Sur invest-law (aussi préparé Wealth Belgium)'
         elif f:
             statut = 'Sur invest-law'
+        elif restant:
+            statut = 'Préparé (gamme complète)' if any(rf_docs[isin]) else 'À faire (aucun document public)'
         elif w:
             statut = 'Préparé (Wealth Belgium)'
         else:
@@ -158,10 +174,15 @@ def main(site_json):
             # qualité disclaimer pol_fr pol_en source remarques
             fs_url = fs_dep['url'] if fs_dep and fs_dep['date'] == w[4] else (fs_dep['url'] if fs_dep else '')
             kid_url = kid['url'] if kid else ''
+            if restant:
+                fs_url, kid_url = [GITHUB + urllib.parse.quote(p) if p else '' for p in rf_docs[isin]]
+                origine = 'Fiche préparée le 16/10 (factsheet / KID)' if any(rf_docs[isin]) else 'Aucune (aucun document public)'
+            else:
+                origine = 'Wealth Belgium (factsheet / KID)'
             F.append([n, isin, nom, maison, statut, '', w[4], fs_url if w[4] else '', w[5], kid_url if w[5] else '']
-                     + w[6:29] + ['Wealth Belgium (factsheet / KID)'])
+                     + w[6:29] + [origine])
             for x in wb_a.get(isin, []):
-                A.append([n, isin, nom] + x[3:7] + ['Wealth Belgium (factsheet)'])
+                A.append([n, isin, nom] + x[3:7] + ['Fiche du 16/10 (factsheet)' if restant else 'Wealth Belgium (factsheet)'])
         else:
             F.append([n, isin, nom, maison, statut] + [''] * 28 + ['Aucune (à faire)'])
 

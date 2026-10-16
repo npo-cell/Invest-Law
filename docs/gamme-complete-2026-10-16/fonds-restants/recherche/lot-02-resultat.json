@@ -1,0 +1,194 @@
+[
+ {
+  "n": 380,
+  "isin": "LU0180621863",
+  "nom": "AVIVA EMERGING MARKETS BOND B USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0180621863/LU0180621863__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/4b62a3b3408d9c60f54ae4f4fa021c2f_109751/MR_FR_fr_LU0180621863_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0180621863/LU0180621863__KID_FR_2026-02-13.pdf",
+   "url": "https://api.fundinfo.com/document/8bbf8adaf8432cf770b715ef8d065312_192964/PRP_FR_fr_LU0180621863_YES_2026-02-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet « Reporting mensuel » FR au 31/08/2026 (fundinfo, version FR) ; une version anglaise au 30/09/2026 existe (fundinfo LU/CH), la française de septembre n'est pas encore publiée : FR retenue. KID FR 13/02/2026 (fundinfo FR ; la version LU n'existe qu'en anglais)."
+ },
+ {
+  "n": 381,
+  "isin": "LU0367993317",
+  "nom": "AVIVA GLOBAL HIGH YIELD BOND A USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0367993317/LU0367993317__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/aa386bc807185d9b1205ef7487f12e4a_120694/MR_FR_fr_LU0367993317_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0367993317/LU0367993317__KID_FR_2026-04-01.pdf",
+   "url": "https://api.fundinfo.com/document/8eb9e920c4420fa04b304a9ab2739d13_231909/PRP_FR_fr_LU0367993317_YES_2026-04-01.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-01",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet « Reporting mensuel » FR au 31/08/2026 (fundinfo FR) ; version anglaise au 30/09/2026 existante, FR retenue. KID FR 01/04/2026 (fundinfo FR)."
+ },
+ {
+  "n": 382,
+  "isin": "LU0047882062",
+  "nom": "AVIVA INVESTORS EM EQ INC B USD ACC",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0047882062/LU0047882062__Factsheet_FR_2026-06-30.pdf",
+   "url": "https://api.fundinfo.com/document/bb38d3a78cc215f90abdaa9e76cf1d98_84684/MC_FR_fr_LU0047882062_RES_2026-06-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-06-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0047882062/LU0047882062__KID_FR_2026-02-13.pdf",
+   "url": "https://api.fundinfo.com/document/4eedf8223952a6ff1b407e5458bf74b4_193678/PRP_FR_fr_LU0047882062_YES_2026-02-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds renommé « Aviva Investors - Global Emerging Markets Core Fund » (même ISIN, ex-Emerging Markets Equity Income). Pas de reporting mensuel : seule une « Synthèse trimestrielle » existe (réservée aux professionnels, catégorie représentative = LU0047882062). FR au 30/06/2026 retenue ; une version anglaise au 30/09/2026 existe (fundinfo LU) et montre un changement de gérant (Moreno Fasolo depuis 07/2026) et un objectif sans la notion de revenus, comme le KID. KID FR 13/02/2026 (fundinfo FR)."
+ },
+ {
+  "n": 383,
+  "isin": "LU0010020310",
+  "nom": "AVIVA INVESTORS UK EQ UNCONSTR B GBP",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0010020310/LU0010020310__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/f8b3b08e118aa369891dbb1c876e3e89_111307/MR_FR_fr_LU0010020310_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/AVIVA_INVESTORS_LUXEMBOURG_S_A/LU0010020310/LU0010020310__KID_FR_2026-02-13.pdf",
+   "url": "https://api.fundinfo.com/document/fe78fdef040829a080c54b946eefbbf6_192208/PRP_FR_fr_LU0010020310_YES_2026-02-13.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-13",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet « Reporting mensuel » FR au 31/08/2026 (fundinfo FR) ; version anglaise au 30/09/2026 existante, FR retenue. KID FR 13/02/2026 (fundinfo FR)."
+ },
+ {
+  "n": 400,
+  "isin": "LU0097036916",
+  "nom": "BGF US GROWTH A2 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0097036916/LU0097036916__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/bf903219d6ae921cfbaa64b38ece2aac_415367/MR_FR_fr_LU0097036916_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0097036916/LU0097036916__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/61d3b2c77fe4e7df7fde87cf7ebfc326_123650/PRP_BE_fr_LU0097036916_YES_2026-04-29.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR septembre 2026, part A2 USD (fundinfo, version France ; version Suisse FR identique sur le fond). KID FR 29/04/2026 (fundinfo BE)."
+ },
+ {
+  "n": 404,
+  "isin": "LU0122379950",
+  "nom": "BGF WORLD HEALTHSCIENCE A2 USD",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122379950/LU0122379950__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/054149cd299bf3f4860ae9f8150729a6_454299/MR_FR_fr_LU0122379950_YES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122379950/LU0122379950__KID_FR_2026-04-29.pdf",
+   "url": "https://api.fundinfo.com/document/e980d368415bb68ff742f22d2a1407ab_123296/PRP_BE_fr_LU0122379950_YES_2026-04-29.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-29",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR septembre 2026, part A2 USD (fundinfo, version France ; la version BE FR n'est qu'au 31/08/2026). KID FR 29/04/2026 (fundinfo BE)."
+ },
+ {
+  "n": 415,
+  "isin": "LU0162658883",
+  "nom": "BLACKROCK EURO CORPORATE BOND A2 EUR",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0162658883/LU0162658883__Factsheet_FR_2026-08-31.pdf",
+   "url": "https://api.fundinfo.com/document/1edfb5d80ddb606f0cec59d78fc2d2be_482359/MR_FR_fr_LU0162658883_YES_2026-08-31.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-08-31",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0162658883/LU0162658883__KID_FR_2026-04-22.pdf",
+   "url": "https://api.fundinfo.com/document/a08b7441124376256792b76ce8898f38_123813/PRP_BE_fr_LU0162658883_YES_2026-04-22.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-04-22",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Factsheet FR août 2026, part A2 EUR (fundinfo FR/CH) ; septembre n'existe qu'en italien (non retenu). KID FR 22/04/2026 (fundinfo BE)."
+ },
+ {
+  "n": 418,
+  "isin": "LU0012119433",
+  "nom": "CANDRIAM BDS INTERNATIONAL C EUR CAP",
+  "factsheet": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0012119433/LU0012119433__Factsheet_FR_2026-09-30.pdf",
+   "url": "https://api.fundinfo.com/document/d8c7040a617d2ba1e9afad4d5cd4aa3c_692412/MR_BE_fr_LU0012119433_RES_2026-09-30.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-09-30",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "kid": {
+   "statut": "Trouvé",
+   "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0012119433/LU0012119433__KID_FR_2026-02-18.pdf",
+   "url": "https://api.fundinfo.com/document/7896473ff6ed5f8c0d7b8ccbc1863704_332054/PRP_BE_fr_LU0012119433_YES_2026-02-18.pdf?apiKey=b9934aa2-1a83-4286-b11b-c8415da9e581",
+   "source": "fundinfo",
+   "date": "2026-02-18",
+   "langue": "FR",
+   "isin_verifie": true
+  },
+  "notes": "Fonds = Candriam Bonds International, classe C (EUR) capitalisation. Factsheet FR au 30/09/2026 (fundinfo BE, identique à la version LU) ; la factsheet liste aussi la part D (LU0012119516) mais affiche la classe C. KID FR valide au 18/02/2026 (fundinfo BE)."
+ }
+]

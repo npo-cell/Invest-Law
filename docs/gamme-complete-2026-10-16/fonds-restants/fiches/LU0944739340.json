@@ -1,0 +1,254 @@
+{
+ "n": "499",
+ "isin": "LU0944739340",
+ "nom": "EAST CAPITAL NEW EUROPE A SEK",
+ "maison": "East Capital Asset Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-17",
+ "date_creation": "2013-10-01",
+ "devise": "SEK",
+ "type_fonds": "Actions Europe centrale et orientale",
+ "compartiment": "compartiment de East Capital, Sicav",
+ "gerants": "Jacob Grapengiesser",
+ "encours_millions": "231",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.75",
+ "frais_courants": "2.2",
+ "sri": "4",
+ "indice": "MSCI EFM EUROPE + CIS (E+C) ex RU (Total Net Return)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances historiques ne garantissent pas les performances futures. La valeur des actions du Fonds est tout autant susceptible de baisser que d’augmenter et les investisseurs ne sont pas assurés de récupérer la totalité de leur mise de fonds.",
+ "politique_fr": "L’objectif d’investissement du compartiment East Capital New Europe est d’assurer une croissance du capital à long terme en investissant dans des sociétés de la région Europe centrale et orientale, à l’exclusion de la Russie. Le compartiment investira principalement dans des sociétés situées dans des pays qui ont adhéré à l’Union européenne depuis 2004 et qui pourraient y adhérer à l’avenir, mais également dans des sociétés d’autres marchés émergents et frontières de l’Europe centrale et orientale. Le compartiment investira au moins 50% de ses actifs nets dans des valeurs mobilières émises par des entreprises établies en Albanie, Arménie, Autriche, Biélorussie, Bosnie-Herzégovine, Bulgarie, Chypre, Croatie, Estonie, Géorgie, Grèce, Hongrie, Kazakhstan, Lettonie, Lituanie, Macédoine, Moldavie, Monténégro, Pologne, République tchèque, Roumanie, Serbie, Slovaquie, Slovénie, Turquie et Ukraine. Le compartiment peut aussi investir dans des valeurs mobilières émises par des entreprises qui ne sont pas établies dans les pays susmentionnés, mais qui y exercent une part significative de leur activité économique. Au moins 75% des actifs du compartiment seront investis dans des actions ou des titres liés à des actions (dont, entre autres, des certificats de dépôt américains (ADR) et internationaux (GDR) des émetteurs susmentionnés).\n\nValeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire en utilisant une valeur de référence (benchmark). Bien que le produit compare sa performance à celle de MSCI EFM EUROPE + CIS (E+C) ex RU (Total Net Return), il ne cherche pas à reproduire ce benchmark et choisit librement les titres dans lesquels il investit. L’écart avec ce benchmark peut être significatif.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Politique prise du KID (« Objectifs » + « Valeur de référence ») : la factsheet n'a qu'un court objectif. Date de création = « Date de lancement 01-10-2013 » (factsheet, sans préciser fonds ou classe ; le KID indique compartiment et classe lancés en 2013). Encours = « Taille du fonds (30-09-2026) 231m EUR ». Frais courants = KID « 2,2% » (2.180 SEK) ; factsheet « Frais courants 2,18% ». Indice : KID (comparaison de performance) ; factsheet « MSCI EFM EUROPE + CIS (E+C) ex RU » (historique : OMX Baltic Benchmark Capped jusqu'au 08.01.2019, puis MSCI EFM CEEC ex Russie). SFDR vide : non cité. Classification Agressif : actions d'une région émergente (Europe centrale et orientale). Positions : « Pkno » recopié tel qu'écrit.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "type_fonds": "jugement (factsheet/KID)",
+  "compartiment": "factsheet p.2",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1-2",
+  "indice": "KID p.1",
+  "disclaimer": "factsheet p.2",
+  "politique": "KID p.1",
+  "allocations": "factsheet p.2 (capitalisations p.1)"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "PKO",
+   "pct": "9.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "OTP Bank",
+   "pct": "8.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Pkno",
+   "pct": "7.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Piraeus Bank",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Pekao",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allegro.eu SA",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alpha Bank Sa",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Raiffeisen International",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tupras",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Motor Oil Hellas Corinth Refin",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "51.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "15.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "15.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "8.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "1.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidité",
+   "pct": "1.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pologne",
+   "pct": "37.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "22.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Hongrie",
+   "pct": "10.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Turquie",
+   "pct": "8.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe de l'Est",
+   "pct": "4.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Kazakhstan",
+   "pct": "4.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Croatie",
+   "pct": "2.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Géorgie",
+   "pct": "2.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Slovénie",
+   "pct": "2.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Rep. Tchèque",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Roumanie",
+   "pct": "0.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Lituanie",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidité",
+   "pct": "1.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Géantes",
+   "pct": "0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes",
+   "pct": "41.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes",
+   "pct": "49.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites",
+   "pct": "7.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Micro",
+   "pct": "2.1"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/EAST_CAPITAL_ASSET_MANAGEMENT_S_A/LU0944739340/LU0944739340__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/EAST_CAPITAL_ASSET_MANAGEMENT_S_A/LU0944739340/LU0944739340__KID_FR_2026-02-17.pdf"
+}

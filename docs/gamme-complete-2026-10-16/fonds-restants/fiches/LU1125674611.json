@@ -1,0 +1,269 @@
+{
+ "n": "498",
+ "isin": "LU1125674611",
+ "nom": "EAST CAPITAL GLOBAL FRONTIER MKTS A SEK",
+ "maison": "East Capital Asset Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-17",
+ "date_creation": "2014-12-12",
+ "devise": "SEK",
+ "type_fonds": "Actions marchés frontières",
+ "compartiment": "The fund is a sub-fund of East Capital",
+ "gerants": "Jacob Grapengiesser",
+ "encours_millions": "344",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.9",
+ "frais_courants": "2.4",
+ "sri": "4",
+ "indice": "MSCI Frontier Markets Index (Total Return Net)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Historic yields are no guarantee for future yields. Fund shares can go up or down in value, and investors may not get back the amount invested.",
+ "politique_fr": "",
+ "politique_en": "To provide long-term capital growth through exposure to companies located in frontier markets throughout the world. The sub-fund will invest at least 75% of its assets directly or indirectly in equity or equity-related securities (such as, but not limited to, ADRs and GDRs) of companies domiciled in frontiers markets or that exercise a significant part of their economic activity there. For the purpose of this sub-fund, frontier markets are defined as less advanced and less accessible emerging market countries that are included in Frontier Markets-related indices. The sub-fund may also invest in any country which is classified as an Emerging Market, or any other market not yet classified as Frontier Markets, but which, in the opinion of the Investment Manager, demonstrates economic characteristics of countries included in the Frontier Markets-related indices.\n\nBenchmark: The portfolio is actively managed on a discretionary basis with reference to a benchmark. While the product compares its performance against the MSCI Frontier Markets Index (Total Return Net), it does not try to replicate this benchmark and freely selects the securities that it invests in. The deviation with this benchmark can be significant.",
+ "source_politique": "KID",
+ "remarques": "Documents en anglais : la factsheet de la classe A SEK n'existe pas en français (la version FR n'est publiée que pour la classe A EUR LU1125674454) ; KID retenu = KID anglais du 17/02/2026 (fundinfo). Un KID français de cette part existe sur doc.morningstar.com (lien East Capital) mais daté du 15/02/2024, remplacé depuis : non retenu (à valider si la règle « FR d'abord même plus ancien » doit s'appliquer à un KID périmé). Politique prise du KID (« Objectives » + « Benchmark ») : la factsheet n'a qu'un court objectif. Date de création = « Launch date 12.12.2014 » (factsheet ; KID : compartiment et classe lancés en 2014). Encours = « Fund size (30.09.2026) EUR 344 m ». Frais courants = KID « 2.4% » (2,380 SEK pour 100,000 SEK) ; factsheet « Ongoing charge 2.38% ». Indice retenu (comparaison de performance, KID) ; factsheet : « MSCI Frontier Markets ». SFDR vide : non cité dans les documents. Classification Agressif : actions marchés frontières. Répartition géographique : total 96,5 % tel qu'écrit dans la factsheet.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "type_fonds": "jugement (factsheet/KID)",
+  "compartiment": "factsheet p.2",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1-2",
+  "indice": "KID p.1",
+  "disclaimer": "factsheet p.2",
+  "politique": "KID p.1",
+  "allocations": "factsheet p.2 (capitalisations p.1)"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Nova Ljubljanska Banka dd",
+   "pct": "6.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mobile World",
+   "pct": "6.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Safaricom Ltd",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Halyk Bank",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kazatomprom Gdr",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Equity Bank",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vinhomes JSC",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kenya Commercial Bank",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Zenith Bank",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Guaranty Trust Hldg Co",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "49.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "12.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "9.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "6.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "4.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information technology",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "3.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Vietnam",
+   "pct": "20.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Kenya",
+   "pct": "13.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Kazakhstan",
+   "pct": "11.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Nigeria",
+   "pct": "10.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Slovenia",
+   "pct": "7.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Egypt",
+   "pct": "6.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Georgia",
+   "pct": "5.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pakistan",
+   "pct": "4.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Bangladesh",
+   "pct": "2.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Croatia",
+   "pct": "2.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "United Arab Emirates",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Romania",
+   "pct": "1.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Senegal",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Morocco",
+   "pct": "1.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Other",
+   "pct": "0.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash",
+   "pct": "3.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Giant Cap.",
+   "pct": "0.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large Cap.",
+   "pct": "16.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Medium Cap.",
+   "pct": "58.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small Cap.",
+   "pct": "18.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Micro Cap.",
+   "pct": "5.9"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/EAST_CAPITAL_ASSET_MANAGEMENT_S_A/LU1125674611/LU1125674611__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/EAST_CAPITAL_ASSET_MANAGEMENT_S_A/LU1125674611/LU1125674611__KID_EN_2026-02-17.pdf"
+}
