@@ -1,0 +1,506 @@
+[
+ {
+  "n": 538,
+  "isin": "XFCS000OL258",
+  "nom": "FIC ALL WEATHER GLOBAL BALANCED ALLOCATION A",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 540,
+  "isin": "XFCS00OL1790",
+  "nom": "FIC DELCAP DIVERSIFIED BOND OPPORTUNITIES",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 541,
+  "isin": "XFCS00OL1641",
+  "nom": "FIC DELCAP LIFESTYLE",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 544,
+  "isin": "XFCS000OL284",
+  "nom": "FIC ESSENTIA EQUILIBRE B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 545,
+  "isin": "XFCS000OL283",
+  "nom": "FIC ESSENTIA PRUDENT B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 546,
+  "isin": "XFCS00OL2045",
+  "nom": "FIC FAIRWIN EVOLUTION",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire. Les documents du fonds public Fairwin (SICAV) ne sont pas ceux du FIC et n'ont pas été retenus."
+ },
+ {
+  "n": 547,
+  "isin": "XFCS00OL2157",
+  "nom": "FIC GOLDMAN SACHS ALPHA ENHANCED ETF CAM",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 548,
+  "isin": "XFCS000OL243",
+  "nom": "FIC HERMITAGE PATRIMOINE B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 549,
+  "isin": "XFCS000OL309",
+  "nom": "FIC HORIZON B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 550,
+  "isin": "XFCS000OL271",
+  "nom": "FIC L HARMONY BOREAL FUND",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 551,
+  "isin": "XFCS00OL1425",
+  "nom": "FIC MONETARY PLUS STRATEGY FUND",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 553,
+  "isin": "XFCS000OL228",
+  "nom": "FIC MS REAL ESTATE FUND A",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 555,
+  "isin": "XFCS00OL1887",
+  "nom": "FIC PATRIMOINE LIFE DYNAMIC FUND A",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 556,
+  "isin": "XFCS00OL1797",
+  "nom": "FIC PATRIMOINE LIFE PRUDENCE FUND",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 557,
+  "isin": "XFCS000OL264",
+  "nom": "FIC PATRIMONIAL ADVICE FUND",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 558,
+  "isin": "XFCS00OL1454",
+  "nom": "FIC PURE EQUILIBRE 2.0",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire. La page Pure Capital « Solution Multifonds 2.0 – Profil Équilibre » ne propose aucun PDF et ne cite ni le FIC, ni OneLife, ni le code XFCS."
+ },
+ {
+  "n": 559,
+  "isin": "XFCS000OL244",
+  "nom": "FIC SOLID CAPTAIN",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 560,
+  "isin": "XFCS00OL2130",
+  "nom": "FIC SOLID COMPASS",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 561,
+  "isin": "XFCS000OL288",
+  "nom": "FIC SOLID SEA FUND",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 562,
+  "isin": "XFCS000OL247",
+  "nom": "FIC SOMAFI NEUTRAL B",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ },
+ {
+  "n": 563,
+  "isin": "XFCS00OL1729",
+  "nom": "FIC VIVACITY FLEXIBLE PORTFOLIO",
+  "factsheet": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "kid": {
+   "statut": "Non trouvé",
+   "fichier": null,
+   "url": null,
+   "source": null,
+   "date": null,
+   "langue": null,
+   "isin_verifie": false
+  },
+  "notes": "Fonds interne d'assurance (FIC OneLife) : recherche rapide le 16/10/2026 (web par code XFCS et par nom du FIC + OneLife / fonds interne / gestionnaire) sans résultat ; déjà « Non trouvé » lors de la recherche du 12/10 (factsheets_gamme_one_life.xlsx). Documents non publics : à demander à One Life ou au gestionnaire."
+ }
+]
