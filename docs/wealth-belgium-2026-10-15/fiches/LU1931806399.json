@@ -1,212 +1,212 @@
 {
-  "n": "160",
-  "isin": "LU1931806399",
-  "nom": "(I/C)HESPER GLOBAL SOLUTIONS T-6 EUR",
-  "maison": "ETHENEA Independent Investors S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-16",
-  "date_creation": "2019-06-14",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs",
-  "compartiment": "Le produit est une classe d'actions du compartiment HESPER FUND - GLOBAL SOLUTIONS qui fait partie d'HESPER FUND, SICAV (le « Fonds à compartiments multiples »), une société d'investissement à capital variable (SICAV) de type fonds à compartiments multiples, régie par la partie I de la loi luxembourgeoise du 17 décembre 2010, telle que modifiée (la « Loi de 2010 »), et qui est donc qualifié d'OPCVM.",
-  "gerants": "Arnoldo Valsangiacomo, Marko Kozina",
-  "encours_millions": "49.10",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.60",
-  "frais_courants": "1.35",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La performance passée ne constitue pas un indicateur de la performance actuelle ou future.",
-  "politique_fr": "Stratégie d’investissement\nHESPER FUND – Global Solutions est un fonds multi-actifs international à gestion active qui suit une approche d’investissement opportuniste très flexible. Il investit ses avoirs dans les principales classes d’actifs, telles que les actions, les obligations, les devises et les matières premières. L’équipe de gestion recourt à une approche top-down afin de déterminer l’allocation d’actifs, en prenant en considération les fondamentaux et les développements macroéconomiques. En outre, les gérants tiennent compte des tendances technologiques, démographiques et autres qui revêtent de l’importance pour l’évolution macroéconomique. En tant que fonds multi-actifs long/short, HESPER FUND – Global Solutions utilise des produits dérivés pour son allocation tactique, à des fins de couverture et pour tirer profit d’opportunités d’investissement à court terme.\n\nObjectif d’investissement\nLa politique d’investissement du compartiment HESPER FUND – Global Solutions vise à réaliser une plus-value appropriée dans la devise du compartiment ou de la catégorie d’action. Au regard de la composition du portefeuille, le fonds s’adresse aux investisseurs disposés à accepter un risque global plus élevé en contrepartie d’opportunités de rendement très attrayantes.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet FR au 30.09.2026. Date de création = « Date de lancement 14.06.2019 » (rubrique « Données fixes » de la part T-6 EUR). Encours = « Volume du fonds 49,10 mio. EUR ». Gérants = « Direction de la gestion ». Frais de gestion = « Frais de gestion 0,60 % p. a. » (plus frais d'administration 0,10 % et banque dépositaire 0,05 %) ; frais courants = KID 1,35 % (factsheet : « Coûts récurrents, au 16.04.2026 1,35 % ») ; commission de performance 10 % au-delà de 1 % de performance absolue (High Water Mark). Indice « Aucun » : KID « Le compartiment n'est pas géré en utilisant un indice comme base de référence ». Classification Equilibré : fonds global macro multi-actifs long/short, actions nettes 33,7 %, SRI 3. Allocations : « Allocation actuelle des actifs » (la ligne « Actions, nettes 33,7 % » — exposition y compris dérivés — n'est pas reprise car elle recoupe « Actions, incl. FNBs actions ») ; maturités et notations lues sur graphiques (positions vérifiées) ; notations = total par note du graphique empilé obligations d'État/d'entreprises. Non repris : « Exposition actions par région » et « Allocation en devise » (barres nettes/brutes dont l'attribution n'est pas certaine à la lecture du texte), allocation historique et exposition aux devises au fil du temps. Positions : catégorie (Obligation, Fonds, Certificat) non reprise dans le libellé.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "160",
+ "isin": "LU1931806399",
+ "nom": "(I/C)HESPER GLOBAL SOLUTIONS T-6 EUR",
+ "maison": "ETHENEA Independent Investors S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2019-06-14",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Le produit est une classe d'actions du compartiment HESPER FUND - GLOBAL SOLUTIONS qui fait partie d'HESPER FUND, SICAV (le « Fonds à compartiments multiples »), une société d'investissement à capital variable (SICAV) de type fonds à compartiments multiples, régie par la partie I de la loi luxembourgeoise du 17 décembre 2010, telle que modifiée (la « Loi de 2010 »), et qui est donc qualifié d'OPCVM.",
+ "gerants": "Arnoldo Valsangiacomo, Marko Kozina",
+ "encours_millions": "49.10",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.60",
+ "frais_courants": "1.35",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "Alternative Global Macro",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne constitue pas un indicateur de la performance actuelle ou future.",
+ "politique_fr": "Stratégie d’investissement\nHESPER FUND – Global Solutions est un fonds multi-actifs international à gestion active qui suit une approche d’investissement opportuniste très flexible. Il investit ses avoirs dans les principales classes d’actifs, telles que les actions, les obligations, les devises et les matières premières. L’équipe de gestion recourt à une approche top-down afin de déterminer l’allocation d’actifs, en prenant en considération les fondamentaux et les développements macroéconomiques. En outre, les gérants tiennent compte des tendances technologiques, démographiques et autres qui revêtent de l’importance pour l’évolution macroéconomique. En tant que fonds multi-actifs long/short, HESPER FUND – Global Solutions utilise des produits dérivés pour son allocation tactique, à des fins de couverture et pour tirer profit d’opportunités d’investissement à court terme.\n\nObjectif d’investissement\nLa politique d’investissement du compartiment HESPER FUND – Global Solutions vise à réaliser une plus-value appropriée dans la devise du compartiment ou de la catégorie d’action. Au regard de la composition du portefeuille, le fonds s’adresse aux investisseurs disposés à accepter un risque global plus élevé en contrepartie d’opportunités de rendement très attrayantes.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 30.09.2026. Date de création = « Date de lancement 14.06.2019 » (rubrique « Données fixes » de la part T-6 EUR). Encours = « Volume du fonds 49,10 mio. EUR ». Gérants = « Direction de la gestion ». Frais de gestion = « Frais de gestion 0,60 % p. a. » (plus frais d'administration 0,10 % et banque dépositaire 0,05 %) ; frais courants = KID 1,35 % (factsheet : « Coûts récurrents, au 16.04.2026 1,35 % ») ; commission de performance 10 % au-delà de 1 % de performance absolue (High Water Mark). Indice « Aucun » : KID « Le compartiment n'est pas géré en utilisant un indice comme base de référence ». Classification Equilibré : fonds global macro multi-actifs long/short, actions nettes 33,7 %, SRI 3. Allocations : « Allocation actuelle des actifs » (la ligne « Actions, nettes 33,7 % » — exposition y compris dérivés — n'est pas reprise car elle recoupe « Actions, incl. FNBs actions ») ; maturités et notations lues sur graphiques (positions vérifiées) ; notations = total par note du graphique empilé obligations d'État/d'entreprises. Non repris : « Exposition actions par région » et « Allocation en devise » (barres nettes/brutes dont l'attribution n'est pas certaine à la lecture du texte), allocation historique et exposition aux devises au fil du temps. Positions : catégorie (Obligation, Fonds, Certificat) non reprise dans le libellé. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU2275633894 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "USA Government bond (09.2027)",
+   "pct": "15.98"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "USA Government bond (09.2027)",
-      "pct": "15.98"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Norway Government bond (06.2035)",
-      "pct": "9.55"
-    },
-    {
-      "type": "Positions",
-      "libelle": "USA Government bond (08.2027)",
-      "pct": "9.45"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Germany Government bond (08.2035)",
-      "pct": "7.74"
-    },
-    {
-      "type": "Positions",
-      "libelle": "iShares EURO STOXX UCITS ETF DE",
-      "pct": "5.95"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Germany Government bond (08.2027)",
-      "pct": "3.99"
-    },
-    {
-      "type": "Positions",
-      "libelle": "XETRA Gold ETC",
-      "pct": "3.97"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Source Physical Gold ETC",
-      "pct": "3.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "USA Government bond (12.2026)",
-      "pct": "3.23"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Invesco MSCI Emerging Markets UCITS ETF",
-      "pct": "3.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "iShares MSCI EM Latin America UCITS ETF",
-      "pct": "2.98"
-    },
-    {
-      "type": "Positions",
-      "libelle": "iShares DJ Indl Average ETF",
-      "pct": "2.91"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Norway Government bond (06.2036)",
-      "pct": "2.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MSCI Switzerland ETF",
-      "pct": "2.85"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UBS ETFs Plc. - CMCI Composite SF",
-      "pct": "2.67"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Autres",
-      "pct": "-0.1"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidité",
-      "pct": "10.6"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Fonds d'investissement, excl. FNBs",
-      "pct": "0.0"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Matières premières (ETCs), incl. FNBs mat. prem.",
-      "pct": "10.5"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligations, incl. FNBs obligations",
-      "pct": "58.0"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions, incl. FNBs actions",
-      "pct": "21.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "0-3 ans",
-      "pct": "35.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "3-5 ans",
-      "pct": "0.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5-7 ans",
-      "pct": "0.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "7-10 ans",
-      "pct": "22.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": ">10 ans",
-      "pct": "0.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "26.8"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "28.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "0.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "0.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "NON IG",
-      "pct": "2.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Sans note",
-      "pct": "0.0"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Norway Government bond (06.2035)",
+   "pct": "9.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "USA Government bond (08.2027)",
+   "pct": "9.45"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Germany Government bond (08.2035)",
+   "pct": "7.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "iShares EURO STOXX UCITS ETF DE",
+   "pct": "5.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Germany Government bond (08.2027)",
+   "pct": "3.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "XETRA Gold ETC",
+   "pct": "3.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Source Physical Gold ETC",
+   "pct": "3.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "USA Government bond (12.2026)",
+   "pct": "3.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Invesco MSCI Emerging Markets UCITS ETF",
+   "pct": "3.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "iShares MSCI EM Latin America UCITS ETF",
+   "pct": "2.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "iShares DJ Indl Average ETF",
+   "pct": "2.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Norway Government bond (06.2036)",
+   "pct": "2.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MSCI Switzerland ETF",
+   "pct": "2.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UBS ETFs Plc. - CMCI Composite SF",
+   "pct": "2.67"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "-0.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidité",
+   "pct": "10.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds d'investissement, excl. FNBs",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Matières premières (ETCs), incl. FNBs mat. prem.",
+   "pct": "10.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations, incl. FNBs obligations",
+   "pct": "58.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions, incl. FNBs actions",
+   "pct": "21.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-3 ans",
+   "pct": "35.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10 ans",
+   "pct": "22.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": ">10 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "26.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "28.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NON IG",
+   "pct": "2.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans note",
+   "pct": "0.0"
+  }
+ ]
 }

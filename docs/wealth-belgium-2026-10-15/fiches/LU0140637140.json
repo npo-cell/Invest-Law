@@ -1,163 +1,163 @@
 {
-  "n": "305",
-  "isin": "LU0140637140",
-  "nom": "(I/C)Schroder ISF Greater China C USD",
-  "maison": "Schroder Investment Management (Europe) S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-09-29",
-  "date_creation": "2002-03-28",
-  "devise": "USD",
-  "type_fonds": "Actions Grande Chine",
-  "compartiment": "un compartiment de Schroder International Selection Fund",
-  "gerants": "Louisa Lo, Alice Liu",
-  "encours_millions": "2672.48",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.29",
-  "sri": "5",
-  "indice": "MSCI Golden Dragon NR",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
-  "politique_fr": "Objectif d'investissement\nLe fonds vise à dégager une croissance du capital supérieure à l'indice MSCI Golden Dragon (Net TR) Index après déduction des frais sur une période de trois à cinq ans en investissant dans des actions de sociétés sises en République populaire de Chine, à Hong Kong et à Taïwan.\n\nLe fonds est géré activement et investit au moins les deux tiers de son actif dans des titres de sociétés en République populaire de Chine, dans la RAS de Hong Kong et à Taïwan.\n\nLe fonds peut investir directement en Actions H chinoises et peut investir moins de 50 % de son actif (sur une base nette) en Actions A chinoises directement ou indirectement (par le biais de billets participatifs, par exemple) dans le cadre (i) des programmes Shanghai-Hong Kong Stock Connect et Shenzhen-Hong Kong Stock Connect, (ii) du Programme pour les investisseurs étrangers qualifiés (« QFI »), (iii) des marchés réglementés et (iv) des actions cotées sur le Science Technology and Innovation (STAR) Board et le ChiNext.\n\nLe fonds peut également investir, directement ou indirectement, jusqu'à un tiers de son actif dans d'autres titres (y compris d'autres catégories d'actifs), pays, régions, secteurs ou devises, fonds d'investissement, warrants et placements du marché monétaire, et détenir des liquidités (dans les limites énoncées dans l'annexe I du prospectus du fonds).\n\nLe fonds peut utiliser des instruments dérivés dans le but de réduire les risques ou de gérer le fonds de manière plus efficace.\n\nLe fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents.\n\nIndice de référence : Les performances du fonds devront être évaluées par rapport à son indice de référence cible, à savoir dépasser l'indice MSCI Golden Dragon (Net TR) Index et comparées à la catégorie Morningstar Greater China Equity. L'univers d'investissement du fonds devrait se recouper, dans une mesure limitée, avec les composantes de l'indice de référence cible. L'indice de référence comparateur n'est inclus qu'à des fins de comparaison des performances et n'a aucune influence sur la manière dont le gestionnaire d'investissement investit les actifs du fonds. Le gestionnaire d'investissement investit de manière discrétionnaire, et il n'existe aucune restriction quant à la mesure dans laquelle le portefeuille et la performance du fonds peuvent s'écarter de l'indice de référence cible. Veuillez vous reporter à l'annexe III du prospectus du fonds pour plus de détails.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Date de la factsheet : aucune date explicite dans le document (performances par périodes « Sept - Sept ») ; 2026-09-30 repris du nom du fichier. Indice : objectif de croissance « supérieure à MSCI Golden Dragon (Net TR) Index » (indice de référence cible, KID) ; nom du tableau de la factsheet « MSCI Golden Dragon NR » ; la catégorie Morningstar Greater China Equity sert seulement de comparateur. Politique : la factsheet ne donne que l'objectif et renvoie au KID → section « Objectif d'investissement » + « Indice de référence » du KID p.1. Date de création 28.03.2002 (lancement du fonds et de la catégorie de parts). Encours « Taille du fonds (en millions) USD 2.672,48 ». Frais de gestion non indiqués ; frais courants 1,29 % (KID, identique à la factsheet). SFDR vide : la factsheet indique seulement que le fonds n'a pas d'objectif d'investissement durable ni de caractéristiques E/S contraignantes (aucun article cité). Classification Agressif : actions Chine/Hong Kong/Taïwan, SRI 5. Allocations : seules les valeurs du fonds (colonne « Indice de référence » écartée) ; lignes à 0,0 pour le fonds non reprises (Énergie, Services aux collectivités ; Autres, Royaume-Uni, Amériques en région).",
-  "sources": {
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "305",
+ "isin": "LU0140637140",
+ "nom": "(I/C)Schroder ISF Greater China C USD",
+ "maison": "Schroder Investment Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-29",
+ "date_creation": "2002-03-28",
+ "devise": "USD",
+ "type_fonds": "Actions Grande Chine",
+ "compartiment": "un compartiment de Schroder International Selection Fund",
+ "gerants": "Louisa Lo, Alice Liu",
+ "encours_millions": "2672.48",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.29",
+ "sri": "5",
+ "indice": "MSCI Golden Dragon NR",
+ "classification": "Agressif",
+ "categorie": "Equity Greater China",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
+ "politique_fr": "Objectif d'investissement\nLe fonds vise à dégager une croissance du capital supérieure à l'indice MSCI Golden Dragon (Net TR) Index après déduction des frais sur une période de trois à cinq ans en investissant dans des actions de sociétés sises en République populaire de Chine, à Hong Kong et à Taïwan.\n\nLe fonds est géré activement et investit au moins les deux tiers de son actif dans des titres de sociétés en République populaire de Chine, dans la RAS de Hong Kong et à Taïwan.\n\nLe fonds peut investir directement en Actions H chinoises et peut investir moins de 50 % de son actif (sur une base nette) en Actions A chinoises directement ou indirectement (par le biais de billets participatifs, par exemple) dans le cadre (i) des programmes Shanghai-Hong Kong Stock Connect et Shenzhen-Hong Kong Stock Connect, (ii) du Programme pour les investisseurs étrangers qualifiés (« QFI »), (iii) des marchés réglementés et (iv) des actions cotées sur le Science Technology and Innovation (STAR) Board et le ChiNext.\n\nLe fonds peut également investir, directement ou indirectement, jusqu'à un tiers de son actif dans d'autres titres (y compris d'autres catégories d'actifs), pays, régions, secteurs ou devises, fonds d'investissement, warrants et placements du marché monétaire, et détenir des liquidités (dans les limites énoncées dans l'annexe I du prospectus du fonds).\n\nLe fonds peut utiliser des instruments dérivés dans le but de réduire les risques ou de gérer le fonds de manière plus efficace.\n\nLe fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents.\n\nIndice de référence : Les performances du fonds devront être évaluées par rapport à son indice de référence cible, à savoir dépasser l'indice MSCI Golden Dragon (Net TR) Index et comparées à la catégorie Morningstar Greater China Equity. L'univers d'investissement du fonds devrait se recouper, dans une mesure limitée, avec les composantes de l'indice de référence cible. L'indice de référence comparateur n'est inclus qu'à des fins de comparaison des performances et n'a aucune influence sur la manière dont le gestionnaire d'investissement investit les actifs du fonds. Le gestionnaire d'investissement investit de manière discrétionnaire, et il n'existe aucune restriction quant à la mesure dans laquelle le portefeuille et la performance du fonds peuvent s'écarter de l'indice de référence cible. Veuillez vous reporter à l'annexe III du prospectus du fonds pour plus de détails.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Date de la factsheet : aucune date explicite dans le document (performances par périodes « Sept - Sept ») ; 2026-09-30 repris du nom du fichier. Indice : objectif de croissance « supérieure à MSCI Golden Dragon (Net TR) Index » (indice de référence cible, KID) ; nom du tableau de la factsheet « MSCI Golden Dragon NR » ; la catégorie Morningstar Greater China Equity sert seulement de comparateur. Politique : la factsheet ne donne que l'objectif et renvoie au KID → section « Objectif d'investissement » + « Indice de référence » du KID p.1. Date de création 28.03.2002 (lancement du fonds et de la catégorie de parts). Encours « Taille du fonds (en millions) USD 2.672,48 ». Frais de gestion non indiqués ; frais courants 1,29 % (KID, identique à la factsheet). SFDR vide : la factsheet indique seulement que le fonds n'a pas d'objectif d'investissement durable ni de caractéristiques E/S contraignantes (aucun article cité). Classification Agressif : actions Chine/Hong Kong/Taïwan, SRI 5. Allocations : seules les valeurs du fonds (colonne « Indice de référence » écartée) ; lignes à 0,0 pour le fonds non reprises (Énergie, Services aux collectivités ; Autres, Royaume-Uni, Amériques en région). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0140636845 du même fonds.",
+ "sources": {
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "40.5"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l’information",
-      "pct": "40.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "13.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "9.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "9.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation cyclique",
-      "pct": "8.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "8.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "6.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation non cyclique",
-      "pct": "2.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Actifs liquides",
-      "pct": "1.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "1.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "93.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique hors Japon",
-      "pct": "5.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Actifs liquides",
-      "pct": "1.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "pct": "10.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tencent Holdings Ltd",
-      "pct": "5.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MediaTek Inc",
-      "pct": "5.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Delta Electronics Inc",
-      "pct": "5.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alibaba Group Holding Ltd",
-      "pct": "4.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AIA Group Ltd",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASE Technology Holding Co Ltd",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ping An Insurance Group Co of China Ltd",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "China Construction Bank Corp",
-      "pct": "2.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hon Hai Precision Industry Co Ltd",
-      "pct": "2.3"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "13.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "9.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "8.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "6.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non cyclique",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Actifs liquides",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "93.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actifs liquides",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "10.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MediaTek Inc",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Delta Electronics Inc",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIA Group Ltd",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASE Technology Holding Co Ltd",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ping An Insurance Group Co of China Ltd",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "China Construction Bank Corp",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hon Hai Precision Industry Co Ltd",
+   "pct": "2.3"
+  }
+ ]
 }

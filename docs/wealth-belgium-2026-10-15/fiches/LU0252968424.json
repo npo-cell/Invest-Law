@@ -1,101 +1,101 @@
 {
-  "n": "38",
-  "isin": "LU0252968424",
-  "nom": "(I/C)BGF WORLD GOLD D2 USD",
-  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-04-29",
-  "date_creation": "2006-05-19",
-  "devise": "USD",
-  "type_fonds": "Actions sectorielles (mines d'or)",
-  "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
-  "gerants": "Evy Hambro, Tom Holl",
-  "encours_millions": "11896.07",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "1.00",
-  "frais_courants": "1.33",
-  "sri": "6",
-  "indice": "FTSE Gold Mines Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
-  "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés dont l’activité principale est l’exploitation de métaux précieux ou de minerais et l’exploitation de métaux de base ou de minerais.\n\nLe Fonds ne détient pas d’or ou de métal physique.\n\nLe gestionnaire financier par délégation (GFD) peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de la construction du portefeuille du Fonds, le GFD se référera au FTSE Gold Mines Index (l’« Indice »), ainsi qu’à des fins de gestion des risques pour s’assurer que le risque actif (c’est-à-dire le degré d’écart par rapport à l’Indice) pris par le Fonds reste approprié compte tenu de l’objectif et de la politique d’investissement du Fonds. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice lors de la sélection des investissements. Le GFD peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice afin de profiter d’opportunités d’investissement spécifiques. Toutefois, les exigences sectorielles de l’objectif et de la politique d’investissement peuvent avoir pour effet de limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice. Les investisseurs doivent utiliser l’Indice pour comparer la performance du Fonds.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet belge. Date de création = « Date de lancement : 19-mai-2006 » (rubrique de la part ; fonds lancé le 30-déc.-1994). Encours « Actif net du Fonds (M) : 11.896,07 USD ». Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,33 % (identique factsheet). Indice FTSE Gold Mines Index : sert à la construction du portefeuille, à la gestion des risques et à la comparaison de performance (le graphique de performance cite « FTSE Gold Mines Index (Price Return) (USD) »). SFDR : « Classification SFDRi : Autre » → vide. Politique : « Aperçu du fonds » jusqu'à la phrase sur l'indice (sans les paragraphes sur le prix des titres, le rendement et les modalités pratiques). Allocations : seules les 10 principales positions ; le graphique « Répartition géographique » a des étiquettes non extractibles en texte et n'est pas repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.2",
-    "encours_millions": "factsheet p.2",
-    "encours_devise": "factsheet p.2",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1-2",
-    "disclaimer": "factsheet p.3",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "38",
+ "isin": "LU0252968424",
+ "nom": "(I/C)BGF WORLD GOLD D2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-29",
+ "date_creation": "2006-05-19",
+ "devise": "USD",
+ "type_fonds": "Actions sectorielles (mines d'or)",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Evy Hambro, Tom Holl",
+ "encours_millions": "11896.07",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.33",
+ "sri": "6",
+ "indice": "FTSE Gold Mines Index",
+ "classification": "Agressif",
+ "categorie": "Equity Global Gold & Precious Metals",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés dont l’activité principale est l’exploitation de métaux précieux ou de minerais et l’exploitation de métaux de base ou de minerais.\n\nLe Fonds ne détient pas d’or ou de métal physique.\n\nLe gestionnaire financier par délégation (GFD) peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de la construction du portefeuille du Fonds, le GFD se référera au FTSE Gold Mines Index (l’« Indice »), ainsi qu’à des fins de gestion des risques pour s’assurer que le risque actif (c’est-à-dire le degré d’écart par rapport à l’Indice) pris par le Fonds reste approprié compte tenu de l’objectif et de la politique d’investissement du Fonds. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice lors de la sélection des investissements. Le GFD peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice afin de profiter d’opportunités d’investissement spécifiques. Toutefois, les exigences sectorielles de l’objectif et de la politique d’investissement peuvent avoir pour effet de limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice. Les investisseurs doivent utiliser l’Indice pour comparer la performance du Fonds.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet belge. Date de création = « Date de lancement : 19-mai-2006 » (rubrique de la part ; fonds lancé le 30-déc.-1994). Encours « Actif net du Fonds (M) : 11.896,07 USD ». Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,33 % (identique factsheet). Indice FTSE Gold Mines Index : sert à la construction du portefeuille, à la gestion des risques et à la comparaison de performance (le graphique de performance cite « FTSE Gold Mines Index (Price Return) (USD) »). SFDR : « Classification SFDRi : Autre » → vide. Politique : « Aperçu du fonds » jusqu'à la phrase sur l'indice (sans les paragraphes sur le prix des titres, le rendement et les modalités pratiques). Allocations : seules les 10 principales positions ; le graphique « Répartition géographique » a des étiquettes non extractibles en texte et n'est pas repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0055631609 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1-2",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BARRICK MINING CORP",
+   "pct": "7.87"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "BARRICK MINING CORP",
-      "pct": "7.87"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AGNICO EAGLE MINES LTD (ONTARIO)",
-      "pct": "6.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NEWMONT CORPORATION",
-      "pct": "6.05"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ANGLOGOLD ASHANTI PLC",
-      "pct": "5.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "WHEATON PRECIOUS METALS CORP",
-      "pct": "5.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NORTHERN STAR RESOURCES LTD",
-      "pct": "4.74"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FRANCO-NEVADA CORP",
-      "pct": "4.74"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KINROSS GOLD CORP",
-      "pct": "3.98"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ENDEAVOUR MINING PLC",
-      "pct": "3.97"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ELDORADO GOLD CORPORATION",
-      "pct": "3.93"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "AGNICO EAGLE MINES LTD (ONTARIO)",
+   "pct": "6.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NEWMONT CORPORATION",
+   "pct": "6.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANGLOGOLD ASHANTI PLC",
+   "pct": "5.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WHEATON PRECIOUS METALS CORP",
+   "pct": "5.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NORTHERN STAR RESOURCES LTD",
+   "pct": "4.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FRANCO-NEVADA CORP",
+   "pct": "4.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KINROSS GOLD CORP",
+   "pct": "3.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENDEAVOUR MINING PLC",
+   "pct": "3.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ELDORADO GOLD CORPORATION",
+   "pct": "3.93"
+  }
+ ]
 }

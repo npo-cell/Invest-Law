@@ -1,170 +1,170 @@
 {
-  "n": "227",
-  "isin": "LU0834154790",
-  "nom": "(I/C)MORGAN STANLEY GLOBAL OPPORTUNITY FUND I USD",
-  "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-07-21",
-  "date_creation": "2012-10-01",
-  "devise": "USD",
-  "type_fonds": "Actions internationales",
-  "compartiment": "Un compartiment de Morgan Stanley Investment Funds",
-  "gerants": "Kristian Heugh",
-  "encours_millions": "12200",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.75",
-  "frais_courants": "0.94",
-  "sri": "5",
-  "indice": "MSCI All Country World Net Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nLe portefeuille vise l'appréciation du capital sur le long terme en investissant à l'échelle mondiale dans des sociétés établies et émergentes de qualité supérieure que l'équipe d'investissement juge sous-valorisées au moment de leur achat. Pour atteindre son objectif, l'équipe d'investissement privilégie généralement les entreprises qu'elle estime avoir des avantages concurrentiels durables qui peuvent prendre de la valeur en phase de croissance. Le processus d'investissement prévoit une analyse de la durabilité à partir de plusieurs critères dont les ruptures technologiques, la solidité financière, les facteurs environnementaux et sociaux et la gouvernance (approche ESG).",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Classe I (actions de capitalisation) en USD ; factsheet FR au 31/08/2026 (« approuvé pour une utilisation en France uniquement »). Date de création = « Date de lancement 01 Octobre 2012 » (tableau de la part ; lancement du fonds 30 novembre 2010). Gérant : « Kristian Heugh, CFA, Head of Global Opportunity » (seul nom de l'équipe affiché). Encours = « Total de l’actif $ 12,2 milliard(s) » converti en 12200 millions USD, sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,75 » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.94 % (factsheet « Frais courants 0,94 »). Indice retenu : « La performance du fonds sera mesurée par rapport à l'indice MSCI All Country World Net » (KID) ; nom du tableau de la factsheet. SFDR article 8, aucun % durable écrit. Classification Dynamique : actions mondiales (croissance), SRI 5 ; portefeuille concentré (34 positions) → cas limite avec Agressif. Politique : blocs « Objectif d’Investissement » et « Approche d’investissement » de la factsheet. Allocations : colonne « Fonds » ; secteurs notés « -- » pour le fonds (Biens de consommation courants, Energie, Santé, Matériaux, Immobilier, Services aux collectivités) non repris ; ligne « Total 54,58 » des positions non reprise ; « Exposition régionale » reprise en Zones géographiques.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1 et KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "227",
+ "isin": "LU0834154790",
+ "nom": "(I/C)MORGAN STANLEY GLOBAL OPPORTUNITY FUND I USD",
+ "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-07-21",
+ "date_creation": "2012-10-01",
+ "devise": "USD",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Un compartiment de Morgan Stanley Investment Funds",
+ "gerants": "Kristian Heugh",
+ "encours_millions": "12200",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.75",
+ "frais_courants": "0.94",
+ "sri": "5",
+ "indice": "MSCI All Country World Net Index",
+ "classification": "Dynamique",
+ "categorie": "Equity Global",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nLe portefeuille vise l'appréciation du capital sur le long terme en investissant à l'échelle mondiale dans des sociétés établies et émergentes de qualité supérieure que l'équipe d'investissement juge sous-valorisées au moment de leur achat. Pour atteindre son objectif, l'équipe d'investissement privilégie généralement les entreprises qu'elle estime avoir des avantages concurrentiels durables qui peuvent prendre de la valeur en phase de croissance. Le processus d'investissement prévoit une analyse de la durabilité à partir de plusieurs critères dont les ruptures technologiques, la solidité financière, les facteurs environnementaux et sociaux et la gouvernance (approche ESG).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Classe I (actions de capitalisation) en USD ; factsheet FR au 31/08/2026 (« approuvé pour une utilisation en France uniquement »). Date de création = « Date de lancement 01 Octobre 2012 » (tableau de la part ; lancement du fonds 30 novembre 2010). Gérant : « Kristian Heugh, CFA, Head of Global Opportunity » (seul nom de l'équipe affiché). Encours = « Total de l’actif $ 12,2 milliard(s) » converti en 12200 millions USD, sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,75 » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.94 % (factsheet « Frais courants 0,94 »). Indice retenu : « La performance du fonds sera mesurée par rapport à l'indice MSCI All Country World Net » (KID) ; nom du tableau de la factsheet. SFDR article 8, aucun % durable écrit. Classification Dynamique : actions mondiales (croissance), SRI 5 ; portefeuille concentré (34 positions) → cas limite avec Agressif. Politique : blocs « Objectif d’Investissement » et « Approche d’investissement » de la factsheet. Allocations : colonne « Fonds » ; secteurs notés « -- » pour le fonds (Biens de consommation courants, Energie, Santé, Matériaux, Immobilier, Services aux collectivités) non repris ; ligne « Total 54,58 » des positions non reprise ; « Exposition régionale » reprise en Zones géographiques. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0552385295 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1 et KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "39.22"
   },
-  "allocations": [
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "39.22"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique",
-      "pct": "28.53"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe (zone EURO)",
-      "pct": "13.31"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe (hors zone EURO)",
-      "pct": "9.78"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Sud",
-      "pct": "3.08"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Sous-continent indien",
-      "pct": "2.68"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "1.84"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Liquidités",
-      "pct": "1.68"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l'information",
-      "pct": "30.72"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discretionnaires",
-      "pct": "26.48"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "19.66"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "12.60"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "8.98"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "1.68"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK Hynix Inc",
-      "pct": "8.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Mfg Co. Ltd",
-      "pct": "8.24"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Spotify Technology S.A.",
-      "pct": "6.54"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Meta Platforms Inc",
-      "pct": "5.13"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML Holding NV",
-      "pct": "4.61"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Uber Technologies Inc",
-      "pct": "4.53"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hermès International S.A.",
-      "pct": "4.45"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DoorDash Inc",
-      "pct": "4.35"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics Co. Ltd",
-      "pct": "4.09"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MercadoLibre Inc",
-      "pct": "3.70"
-    }
-  ]
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique",
+   "pct": "28.53"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe (zone EURO)",
+   "pct": "13.31"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe (hors zone EURO)",
+   "pct": "9.78"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Sud",
+   "pct": "3.08"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Sous-continent indien",
+   "pct": "2.68"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "1.84"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "1.68"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "30.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discretionnaires",
+   "pct": "26.48"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "19.66"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "12.60"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "8.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Hynix Inc",
+   "pct": "8.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Mfg Co. Ltd",
+   "pct": "8.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spotify Technology S.A.",
+   "pct": "6.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms Inc",
+   "pct": "5.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "4.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Uber Technologies Inc",
+   "pct": "4.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hermès International S.A.",
+   "pct": "4.45"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DoorDash Inc",
+   "pct": "4.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co. Ltd",
+   "pct": "4.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MercadoLibre Inc",
+   "pct": "3.70"
+  }
+ ]
 }

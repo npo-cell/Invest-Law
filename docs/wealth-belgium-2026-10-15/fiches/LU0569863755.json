@@ -1,113 +1,113 @@
 {
-  "n": "312",
-  "isin": "LU0569863755",
-  "nom": "(I/C)UBAM - Global High Yield Solution IHC EUR",
-  "maison": "UBP SA",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-05-10",
-  "date_creation": "2010-12-03",
-  "devise": "EUR",
-  "type_fonds": "Obligataire haut rendement",
-  "compartiment": "Le Fonds est un compartiment de UBAM, un Organisme de Placement Collectif en Valeurs Mobilières (OPCVM) constitué en société d’investissement à capital variable (SICAV) en vertu des lois du Luxembourg.",
-  "gerants": "",
-  "encours_millions": "9400.13",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.25",
-  "frais_courants": "0.54",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "1.72",
-  "qualite_emetteurs": "BB-",
-  "disclaimer": "Past performance is not a reliable indicator of future results. The value of investments can fall as well as rise.",
-  "politique_fr": "",
-  "politique_en": "ABOUT THE FUND\nThe Fund, actively managed, aims to achieve both capital growth and income generation by investing in high yield instruments, complemented by an allocation to sovereign and quasi-sovereign debt securities denominated in USD.\n\nThe Fund provides exposure to the high-yield market through CDS indices, maintaining a nominal net exposure ranging between 80% and 120% within the framework of effective portfolio management. This approach offers investors a diversified access to the asset class, as the US index comprises 100 constituents and the European index 75 constituents.\n\nThe Fund’s base currency is USD. It is not managed with reference to a benchmark, and has a recommended holding period of 3 years.",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet en anglais « Factsheet | September 2026 », classe IHC EUR (couverte), devise de base du fonds USD. Date de création = « Track record since 03 December 2010 » (date de début de l'historique de la classe ; pas de libellé « date de lancement »). Gérants non cités. Encours « Fund's AUM USD 9,400.13 mio ». Frais de gestion 0.25 % (« Management fee ») ; frais courants 0,54 % (KID). Indice « Aucun » : « It is not managed with reference to a benchmark » (factsheet) / « Le Fonds n’est pas géré par rapport à un indice de référence » (KID). Duration 1.72 ; « Average credit rating BB- » ; Yield-to-Worst 9.24 % ; exposition haut rendement 100.42 % via indices CDS. SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Classification Défensif : obligataire (exposition haut rendement synthétique), SRI 3. Allocations : 10 principales lignes (bons du Trésor US, libellé avec devise et échéance) et répartition géographique de l'exposition haut rendement (US High Yield 67.1 %, Euro High Yield 33.4 % ; total 100.5 %).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.1",
-    "qualite_emetteurs": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "312",
+ "isin": "LU0569863755",
+ "nom": "(I/C)UBAM - Global High Yield Solution IHC EUR",
+ "maison": "UBP SA",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-10",
+ "date_creation": "2010-12-03",
+ "devise": "EUR",
+ "type_fonds": "Obligataire haut rendement",
+ "compartiment": "Le Fonds est un compartiment de UBAM, un Organisme de Placement Collectif en Valeurs Mobilières (OPCVM) constitué en société d’investissement à capital variable (SICAV) en vertu des lois du Luxembourg.",
+ "gerants": "",
+ "encours_millions": "9400.13",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.25",
+ "frais_courants": "0.54",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "1.72",
+ "qualite_emetteurs": "BB-",
+ "disclaimer": "Past performance is not a reliable indicator of future results. The value of investments can fall as well as rise.",
+ "politique_fr": "",
+ "politique_en": "ABOUT THE FUND\nThe Fund, actively managed, aims to achieve both capital growth and income generation by investing in high yield instruments, complemented by an allocation to sovereign and quasi-sovereign debt securities denominated in USD.\n\nThe Fund provides exposure to the high-yield market through CDS indices, maintaining a nominal net exposure ranging between 80% and 120% within the framework of effective portfolio management. This approach offers investors a diversified access to the asset class, as the US index comprises 100 constituents and the European index 75 constituents.\n\nThe Fund’s base currency is USD. It is not managed with reference to a benchmark, and has a recommended holding period of 3 years.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet en anglais « Factsheet | September 2026 », classe IHC EUR (couverte), devise de base du fonds USD. Date de création = « Track record since 03 December 2010 » (date de début de l'historique de la classe ; pas de libellé « date de lancement »). Gérants non cités. Encours « Fund's AUM USD 9,400.13 mio ». Frais de gestion 0.25 % (« Management fee ») ; frais courants 0,54 % (KID). Indice « Aucun » : « It is not managed with reference to a benchmark » (factsheet) / « Le Fonds n’est pas géré par rapport à un indice de référence » (KID). Duration 1.72 ; « Average credit rating BB- » ; Yield-to-Worst 9.24 % ; exposition haut rendement 100.42 % via indices CDS. SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Classification Défensif : obligataire (exposition haut rendement synthétique), SRI 3. Allocations : 10 principales lignes (bons du Trésor US, libellé avec devise et échéance) et répartition géographique de l'exposition haut rendement (US High Yield 67.1 %, Euro High Yield 33.4 % ; total 100.5 %).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 30.09.2027",
+   "pct": "4.5"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 30.09.2027",
-      "pct": "4.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 31.01.2029",
-      "pct": "4.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 30.04.2027",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 31.05.2027",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 31.07.2027",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 31.08.2027",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 31.10.2027",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 31.12.2027",
-      "pct": "3.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 30.11.2027",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE USD 30.06.2027",
-      "pct": "3.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "US High Yield",
-      "pct": "67.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Euro High Yield",
-      "pct": "33.4"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 31.01.2029",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 30.04.2027",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 31.05.2027",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 31.07.2027",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 31.08.2027",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 31.10.2027",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 31.12.2027",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 30.11.2027",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE USD 30.06.2027",
+   "pct": "3.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "US High Yield",
+   "pct": "67.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Euro High Yield",
+   "pct": "33.4"
+  }
+ ]
 }

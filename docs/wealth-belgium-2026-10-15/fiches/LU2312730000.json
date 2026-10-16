@@ -1,187 +1,187 @@
 {
-  "n": "147",
-  "isin": "LU2312730000",
-  "nom": "(I/C)FVS DIVIDEND IT EUR",
-  "maison": "FLOSSBACH VON STORCH INVEST S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-27",
-  "date_creation": "2021-03-15",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "The product is a unit class of the Flossbach von Storch - Dividend sub-fund, which is part of the Flossbach von Storch fund, a Luxembourg investment fund (fonds commun de placement – FCP) that has been established in the form of an umbrella fund and is subject to Part I of the Luxembourg Law of 17 December 2010 (Law of 2010), as amended, and thus qualifies as a UCITS.",
-  "gerants": "Bünyamin Ak, Michael Illig",
-  "encours_millions": "553.36",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.62",
-  "frais_courants": "0.79",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Past performance is not a reliable indicator of future performance.",
-  "politique_fr": "",
-  "politique_en": "INVESTMENT STRATEGY\nFlossbach von Storch - Dividend is a globally diversified equity fund with an active investment approach. The focus is on first-class companies with an attractive dividend profile. What is important here is not only the dividend yield, but above all dividend security and dividend growth potential. When selecting individual securities, the fund management relies on in-house valuation models as well as ESG questions, engagement, and voting. In addition, exclusion criteria defined within the framework of the Sub-Fund's investment policy are taken into account. At least 80 per cent of the Fund's assets are invested directly in equities. In addition, the Fund may invest in share certificates and share index certificates as well as bonds, time deposits and target funds.\n\nThe Sub-Fund is actively managed and not benchmarked against an index. The portfolio is composed by the fund manager exclusively in accordance with the criteria defined in the investment policy, reviewed regularly and adjusted if necessary. The sub-fund complies with the standards for credit quality and credit limits in the insurance industry. The sub-fund is categorized as an Article 8 product within the meaning of the Disclosure Regulation (EU) 2019/2088 (SFDR).",
-  "source_politique": "Factsheet",
-  "remarques": "Documents uniquement en anglais (factsheet EN 30/09/2026, KID EN 27/04/2026) : politique en colonne EN, colonne FR vide. Date de création = « Launch date 15 March 2021 » (factsheet p.1, bloc de la part IT). Encours « Fund assets EUR 553.36 million » (factsheet p.1, statut 30.09.26). Frais de gestion = « management fee of 0.62 % p.a. » inclus dans les « Ongoing charges 0.79 % p.a. » (factsheet p.1) ; frais courants = KID « Management fees and other administrative or operating costs » 0,79 %. Pas de commission de performance. Indice « Aucun » : factsheet « actively managed and not benchmarked against an index », KID « There is no comparison with a benchmark index » (la note générique de la factsheet sur « the reference index is merely informative » ne nomme aucun indice). Classification Dynamique : actions mondiales diversifiées (dividendes), malgré un SRI de 3. Politique : bloc « INVESTMENT STRATEGY » p.1 sans la phrase de renvoi au prospectus/KID. Performances antérieures au 15/03/2021 simulées à partir de la part I (LU0831568646), non reprises. Capitalisations : pas de ligne « Mid Cap » dans le tableau (total 100 % avec Cash et « Other (incl. derivatives) » -0,14 %). Secteurs = « Top 5 sectors » seulement.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.2",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "147",
+ "isin": "LU2312730000",
+ "nom": "(I/C)FVS DIVIDEND IT EUR",
+ "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-27",
+ "date_creation": "2021-03-15",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "The product is a unit class of the Flossbach von Storch - Dividend sub-fund, which is part of the Flossbach von Storch fund, a Luxembourg investment fund (fonds commun de placement – FCP) that has been established in the form of an umbrella fund and is subject to Part I of the Luxembourg Law of 17 December 2010 (Law of 2010), as amended, and thus qualifies as a UCITS.",
+ "gerants": "Bünyamin Ak, Michael Illig",
+ "encours_millions": "553.36",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.62",
+ "frais_courants": "0.79",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "Equity Global Income",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future performance.",
+ "politique_fr": "",
+ "politique_en": "INVESTMENT STRATEGY\nFlossbach von Storch - Dividend is a globally diversified equity fund with an active investment approach. The focus is on first-class companies with an attractive dividend profile. What is important here is not only the dividend yield, but above all dividend security and dividend growth potential. When selecting individual securities, the fund management relies on in-house valuation models as well as ESG questions, engagement, and voting. In addition, exclusion criteria defined within the framework of the Sub-Fund's investment policy are taken into account. At least 80 per cent of the Fund's assets are invested directly in equities. In addition, the Fund may invest in share certificates and share index certificates as well as bonds, time deposits and target funds.\n\nThe Sub-Fund is actively managed and not benchmarked against an index. The portfolio is composed by the fund manager exclusively in accordance with the criteria defined in the investment policy, reviewed regularly and adjusted if necessary. The sub-fund complies with the standards for credit quality and credit limits in the insurance industry. The sub-fund is categorized as an Article 8 product within the meaning of the Disclosure Regulation (EU) 2019/2088 (SFDR).",
+ "source_politique": "Factsheet",
+ "remarques": "Documents uniquement en anglais (factsheet EN 30/09/2026, KID EN 27/04/2026) : politique en colonne EN, colonne FR vide. Date de création = « Launch date 15 March 2021 » (factsheet p.1, bloc de la part IT). Encours « Fund assets EUR 553.36 million » (factsheet p.1, statut 30.09.26). Frais de gestion = « management fee of 0.62 % p.a. » inclus dans les « Ongoing charges 0.79 % p.a. » (factsheet p.1) ; frais courants = KID « Management fees and other administrative or operating costs » 0,79 %. Pas de commission de performance. Indice « Aucun » : factsheet « actively managed and not benchmarked against an index », KID « There is no comparison with a benchmark index » (la note générique de la factsheet sur « the reference index is merely informative » ne nomme aucun indice). Classification Dynamique : actions mondiales diversifiées (dividendes), malgré un SRI de 3. Politique : bloc « INVESTMENT STRATEGY » p.1 sans la phrase de renvoi au prospectus/KID. Performances antérieures au 15/03/2021 simulées à partir de la part I (LU0831568646), non reprises. Capitalisations : pas de ligne « Mid Cap » dans le tableau (total 100 % avec Cash et « Other (incl. derivatives) » -0,14 %). Secteurs = « Top 5 sectors » seulement. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU2473801830 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "DEUTSCHE BÖRSE",
+   "pct": "2.96"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "DEUTSCHE BÖRSE",
-      "pct": "2.96"
-    },
-    {
-      "type": "Positions",
-      "libelle": "RECKITT BENCKISER GROUP",
-      "pct": "2.89"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HENKEL VZ",
-      "pct": "2.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MEDTRONIC",
-      "pct": "2.87"
-    },
-    {
-      "type": "Positions",
-      "libelle": "INTERCONTINENTAL EXCHANGE",
-      "pct": "2.81"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ABBOTT LABORATORIES",
-      "pct": "2.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CHARLES SCHWAB",
-      "pct": "2.76"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LVMH",
-      "pct": "2.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "COLOPLAST",
-      "pct": "2.68"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MCDONALDS",
-      "pct": "2.67"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "19.79"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Staples",
-      "pct": "18.42"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "15.40"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "14.38"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "13.17"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Small Cap (<2 Mrd€)",
-      "pct": "0.00"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Large Cap (10-50 Mrd€)",
-      "pct": "24.53"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Mega Cap (>50 Mrd€)",
-      "pct": "72.86"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Cash",
-      "pct": "2.75"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Other (incl. derivatives)",
-      "pct": "-0.14"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "56.41"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "27.04"
-    },
-    {
-      "type": "Devises",
-      "libelle": "CHF",
-      "pct": "5.63"
-    },
-    {
-      "type": "Devises",
-      "libelle": "DKK",
-      "pct": "4.14"
-    },
-    {
-      "type": "Devises",
-      "libelle": "GBP",
-      "pct": "2.90"
-    },
-    {
-      "type": "Devises",
-      "libelle": "TWD",
-      "pct": "2.03"
-    },
-    {
-      "type": "Devises",
-      "libelle": "HKD",
-      "pct": "1.84"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "RECKITT BENCKISER GROUP",
+   "pct": "2.89"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HENKEL VZ",
+   "pct": "2.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MEDTRONIC",
+   "pct": "2.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "INTERCONTINENTAL EXCHANGE",
+   "pct": "2.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBOTT LABORATORIES",
+   "pct": "2.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHARLES SCHWAB",
+   "pct": "2.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LVMH",
+   "pct": "2.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COLOPLAST",
+   "pct": "2.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MCDONALDS",
+   "pct": "2.67"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "19.79"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "18.42"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "15.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "14.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "13.17"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small Cap (<2 Mrd€)",
+   "pct": "0.00"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large Cap (10-50 Mrd€)",
+   "pct": "24.53"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega Cap (>50 Mrd€)",
+   "pct": "72.86"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Cash",
+   "pct": "2.75"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Other (incl. derivatives)",
+   "pct": "-0.14"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "56.41"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "27.04"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "5.63"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "4.14"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "2.90"
+  },
+  {
+   "type": "Devises",
+   "libelle": "TWD",
+   "pct": "2.03"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "1.84"
+  }
+ ]
 }

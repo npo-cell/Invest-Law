@@ -1,263 +1,263 @@
 {
-  "n": "63",
-  "isin": "FR0013527827",
-  "nom": "(I/C)CARMIGNAC INVESTISSEMENT LATITUDE F EUR",
-  "maison": "Carmignac Gestion Luxembourg",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-16",
-  "date_creation": "2020-09-15",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs (actions internationales à exposition flexible)",
-  "compartiment": "Carmignac Investissement Latitude est un Fonds Commun de Placement (FCP) de droit français, relevant de la directive européenne 2009/65/CE (OPCVM).",
-  "gerants": "Frédéric Leroux",
-  "encours_millions": "318",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.15",
-  "sri": "3",
-  "indice": "50% MSCI AC World NR index + 50% €STR Capitalized Index",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
-  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Investissement Latitude est un fonds nourricier UCITS investi intégralement dans le fonds actions internationales Carmignac Investissement. Grâce à l’utilisation d’instruments dérivés à des fins de couverture, le gérant peut ajuster de manière dynamique l’exposition au risque actions, comprise entre 0 % et 100 %. Le Fonds associe une gestion actions internationales fondée sur de fortes convictions à une gestion active du risque de marché, dans l’objectif de surperformer son indicateur de référence sur un horizon d’investissement recommandé de cinq ans. Il promeut des caractéristiques environnementales et sociales en investissant dans le fonds maître.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Fonds nourricier de Carmignac Investissement (parts Z2 EUR Acc). Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/09/2020) ; le fonds a été lancé le 03/01/2005. Encours = « Actifs sous gestion du Fonds : 318M€ » (encours de la part : 57M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,15 % (= frais courants, identique au KID p.3) ; commission liée aux résultats 20 %. Indice : factsheet « 50% MSCI AC World NR index + 50% €STR Capitalized Index. » (KID : « 50% MSCI AC World NR Index et 50% €STR Capitalized Index », rebalancé trimestriellement ; objectif de surperformance). SRI 3 (KID : « classe de risque 3 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 50% » (engagement minimal, via le fonds maître). Classification Equilibré : exposition actions flexible de 0 à 100 % (taux d’exposition nette actions 45,6 % au 30/09/2026), SRI 3. Allocations : « Allocation d’actifs » hiérarchique — Actions et Liquidités en classes d’actifs, la ventilation géographique de la poche actions (Pays développés / Pays émergents puis régions) en zones géographiques (niveaux imbriqués, total supérieur à 100 %) ; secteurs et capitalisations « Poids rebasés » ; devises = « Exposition nette par devise » ; données ESG/ODD non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "63",
+ "isin": "FR0013527827",
+ "nom": "(I/C)CARMIGNAC INVESTISSEMENT LATITUDE F EUR",
+ "maison": "Carmignac Gestion Luxembourg",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2020-09-15",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (actions internationales à exposition flexible)",
+ "compartiment": "Carmignac Investissement Latitude est un Fonds Commun de Placement (FCP) de droit français, relevant de la directive européenne 2009/65/CE (OPCVM).",
+ "gerants": "Frédéric Leroux",
+ "encours_millions": "318",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.15",
+ "sri": "3",
+ "indice": "50% MSCI AC World NR index + 50% €STR Capitalized Index",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Investissement Latitude est un fonds nourricier UCITS investi intégralement dans le fonds actions internationales Carmignac Investissement. Grâce à l’utilisation d’instruments dérivés à des fins de couverture, le gérant peut ajuster de manière dynamique l’exposition au risque actions, comprise entre 0 % et 100 %. Le Fonds associe une gestion actions internationales fondée sur de fortes convictions à une gestion active du risque de marché, dans l’objectif de surperformer son indicateur de référence sur un horizon d’investissement recommandé de cinq ans. Il promeut des caractéristiques environnementales et sociales en investissant dans le fonds maître.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds nourricier de Carmignac Investissement (parts Z2 EUR Acc). Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/09/2020) ; le fonds a été lancé le 03/01/2005. Encours = « Actifs sous gestion du Fonds : 318M€ » (encours de la part : 57M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,15 % (= frais courants, identique au KID p.3) ; commission liée aux résultats 20 %. Indice : factsheet « 50% MSCI AC World NR index + 50% €STR Capitalized Index. » (KID : « 50% MSCI AC World NR Index et 50% €STR Capitalized Index », rebalancé trimestriellement ; objectif de surperformance). SRI 3 (KID : « classe de risque 3 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 50% » (engagement minimal, via le fonds maître). Classification Equilibré : exposition actions flexible de 0 à 100 % (taux d’exposition nette actions 45,6 % au 30/09/2026), SRI 3. Allocations : « Allocation d’actifs » hiérarchique — Actions et Liquidités en classes d’actifs, la ventilation géographique de la poche actions (Pays développés / Pays émergents puis régions) en zones géographiques (niveaux imbriqués, total supérieur à 100 %) ; secteurs et capitalisations « Poids rebasés » ; devises = « Exposition nette par devise » ; données ESG/ODD non reprises.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "94.3"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "94.3"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
-      "pct": "5.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pays développés",
-      "pct": "66.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "49.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie Pacifique",
-      "pct": "3.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe",
-      "pct": "13.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pays émergents",
-      "pct": "27.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique Latine",
-      "pct": "1.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie",
-      "pct": "25.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe de l'Est",
-      "pct": "0.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Moyen-Orient",
-      "pct": "0.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'Information",
-      "pct": "40.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "21.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "14.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "11.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation Discrétionnaire",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication",
-      "pct": "3.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de Consommation de Base",
-      "pct": "0.5"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Grandes (>10000 MEUR)",
-      "pct": "90.2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moyennes (2000 - 10000MEUR)",
-      "pct": "9.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Petites (<2000 MEUR)",
-      "pct": "0.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Euro",
-      "pct": "43.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Franc suisse",
-      "pct": "0.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar US",
-      "pct": "23.9"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Livre Sterling",
-      "pct": "1.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Yen",
-      "pct": "3.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Bloc $ (AUD et CAD)",
-      "pct": "0.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Bloc Asie ex Japon",
-      "pct": "24.4"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Bloc LATAM",
-      "pct": "0.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Bloc EEMA",
-      "pct": "0.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-      "pct": "9.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA CORP",
-      "pct": "7.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK HYNIX INC",
-      "pct": "4.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TRADEWEB MARKETS INC",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CENCORA INC",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "S&P GLOBAL INC",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MASTERCARD INC",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MCKESSON CORP",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BERKSHIRE HATHAWAY INC",
-      "pct": "2.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK SQUARE CO LTD",
-      "pct": "2.2"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "5.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays développés",
+   "pct": "66.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "49.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie Pacifique",
+   "pct": "3.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "13.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "27.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "25.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe de l'Est",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "0.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "40.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "21.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "14.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "11.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "0.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes (>10000 MEUR)",
+   "pct": "90.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes (2000 - 10000MEUR)",
+   "pct": "9.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites (<2000 MEUR)",
+   "pct": "0.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "43.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Franc suisse",
+   "pct": "0.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "23.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre Sterling",
+   "pct": "1.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen",
+   "pct": "3.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc $ (AUD et CAD)",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc Asie ex Japon",
+   "pct": "24.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc LATAM",
+   "pct": "0.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc EEMA",
+   "pct": "0.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "9.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "7.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK HYNIX INC",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TRADEWEB MARKETS INC",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CENCORA INC",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "S&P GLOBAL INC",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MASTERCARD INC",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MCKESSON CORP",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BERKSHIRE HATHAWAY INC",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK SQUARE CO LTD",
+   "pct": "2.2"
+  }
+ ]
 }

@@ -1,125 +1,125 @@
 {
-  "n": "13",
-  "isin": "IE0001O9L5K4",
-  "nom": "(ETF)ODDO BHF GLOBAL EQUITY ACTIVE UCITS EUR",
-  "maison": "HANETF",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-05-31",
-  "date_creation": "2025-11-04",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales (fonds d'ETF)",
-  "compartiment": "un compartiment de HANetf ICAV",
-  "gerants": "Matthieu Barrière, Arthur Tondoux",
-  "encours_millions": "8",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.35",
-  "frais_courants": "0.35",
-  "sri": "4",
-  "indice": "100% MSCI ACWI Net Total Return EUR Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps.",
-  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe fonds vise une appréciation du capital à long terme en offrant une exposition indirecte aux actions mondiales via une sélection diversifiée d'ETF UCITS. Sa stratégie repose sur un cadre d'allocation descendant qui ajuste dynamiquement le positionnement en fonction des tendances macroéconomiques et microéconomiques. Cette approche garantit une grande flexibilité géographique, sectorielle, de style et de devise. Le processus d'investissement intègre des modèles quantitatifs, une analyse fondamentale et la dynamique des flux de marché pour assurer un positionnement opportun et efficace. La stratégie est neutre en termes de secteur et de style, permettant une adaptabilité totale aux cycles de marché. Elle implique également une vérification préalable rigoureuse de tous les ETF sous-jacents et de leurs fournisseurs afin de garantir transparence et fiabilité. En intégrant des critères ESG conformes à l'article 8 du SFDR et en s'appuyant sur plus de trente ans d'expertise en allocation, le fonds constitue une solution d'exposition aux actions de base pour les investisseurs privés et institutionnels recherchant une gestion professionnelle avec cotations en temps réel.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Date de création de la part (1ère VL) 04/11/2025 » (identique au fonds). Encours = « Actif net du fonds 8 M€ » (arrondi tel qu'écrit) au 30/09/2026. Frais de gestion = « Frais de gestion fixes 0,35% TTC maximum de l'actif net » (maximum) ; frais courants KID « Commissions de gestion et autres coûts administratifs ou d’exploitation 0,35% » (factsheet : « 0.35 % (**) »). Indice : le compartiment mesure sa performance par rapport à l'indice (KID) → retenu. SFDR : la classification de la factsheet (6/8/9) est un graphique non lisible en texte ; article 8 retenu car écrit dans la stratégie (« critères ESG conformes à l'article 8 du SFDR »). SRI 4 du KID (l'échelle de la factsheet est graphique). Fonds de fonds (ETF UCITS) ; gestion déléguée à ODDO BHF AM SAS, société de gestion HANetf Management Limited. Pas de performances (part de moins de 12 mois). Allocations : « Répartition de l'allocation d'actifs » (colonne « Poids % ») : Actions en Classes d'actifs, zones en Zones géographiques ; ligne « Exposition nette d'actions 96,31% » non reprise (doublon) ; positions = 10 premiers fonds (ou ETF) hors monétaires ; répartitions par type d'instrument et géographique en graphiques non lisibles.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "13",
+ "isin": "IE0001O9L5K4",
+ "nom": "(ETF)ODDO BHF GLOBAL EQUITY ACTIVE UCITS EUR",
+ "maison": "HANETF",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-31",
+ "date_creation": "2025-11-04",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (fonds d'ETF)",
+ "compartiment": "un compartiment de HANetf ICAV",
+ "gerants": "Matthieu Barrière, Arthur Tondoux",
+ "encours_millions": "8",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.35",
+ "frais_courants": "0.35",
+ "sri": "4",
+ "indice": "100% MSCI ACWI Net Total Return EUR Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe fonds vise une appréciation du capital à long terme en offrant une exposition indirecte aux actions mondiales via une sélection diversifiée d'ETF UCITS. Sa stratégie repose sur un cadre d'allocation descendant qui ajuste dynamiquement le positionnement en fonction des tendances macroéconomiques et microéconomiques. Cette approche garantit une grande flexibilité géographique, sectorielle, de style et de devise. Le processus d'investissement intègre des modèles quantitatifs, une analyse fondamentale et la dynamique des flux de marché pour assurer un positionnement opportun et efficace. La stratégie est neutre en termes de secteur et de style, permettant une adaptabilité totale aux cycles de marché. Elle implique également une vérification préalable rigoureuse de tous les ETF sous-jacents et de leurs fournisseurs afin de garantir transparence et fiabilité. En intégrant des critères ESG conformes à l'article 8 du SFDR et en s'appuyant sur plus de trente ans d'expertise en allocation, le fonds constitue une solution d'exposition aux actions de base pour les investisseurs privés et institutionnels recherchant une gestion professionnelle avec cotations en temps réel.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de création de la part (1ère VL) 04/11/2025 » (identique au fonds). Encours = « Actif net du fonds 8 M€ » (arrondi tel qu'écrit) au 30/09/2026. Frais de gestion = « Frais de gestion fixes 0,35% TTC maximum de l'actif net » (maximum) ; frais courants KID « Commissions de gestion et autres coûts administratifs ou d’exploitation 0,35% » (factsheet : « 0.35 % (**) »). Indice : le compartiment mesure sa performance par rapport à l'indice (KID) → retenu. SFDR : la classification de la factsheet (6/8/9) est un graphique non lisible en texte ; article 8 retenu car écrit dans la stratégie (« critères ESG conformes à l'article 8 du SFDR »). SRI 4 du KID (l'échelle de la factsheet est graphique). Fonds de fonds (ETF UCITS) ; gestion déléguée à ODDO BHF AM SAS, société de gestion HANetf Management Limited. Pas de performances (part de moins de 12 mois). Allocations : « Répartition de l'allocation d'actifs » (colonne « Poids % ») : Actions en Classes d'actifs, zones en Zones géographiques ; ligne « Exposition nette d'actions 96,31% » non reprise (doublon) ; positions = 10 premiers fonds (ou ETF) hors monétaires ; répartitions par type d'instrument et géographique en graphiques non lisibles.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "96.31"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "96.31"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "57.83"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "24.76"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Zone Euro",
-      "pct": "9.08"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe ex Eurozone",
-      "pct": "4.64"
-    },
-    {
-      "type": "Positions",
-      "libelle": "X Msci Usa Esg 1C",
-      "pct": "11.70"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ishares Msci Usa Esg Screend",
-      "pct": "11.49"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ish Msci Usa Esg Ehncd Usd-A",
-      "pct": "11.34"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amundi Msci Usa Esg Cnza Ctb",
-      "pct": "10.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ishares S&P 500 It Sector",
-      "pct": "8.28"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ish Ms Em E En Ctb U Etf-Usa",
-      "pct": "7.52"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ish Msci Jpn Esg Ehncd Usd-A",
-      "pct": "4.92"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bnpp Msci Sri China Etf Eur",
-      "pct": "4.67"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Frk Ftse Korea Ucits Etf",
-      "pct": "4.13"
-    },
-    {
-      "type": "Positions",
-      "libelle": "X Msci Uk Esg 1D",
-      "pct": "2.94"
-    }
-  ]
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "57.83"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "24.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Zone Euro",
+   "pct": "9.08"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe ex Eurozone",
+   "pct": "4.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "X Msci Usa Esg 1C",
+   "pct": "11.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ishares Msci Usa Esg Screend",
+   "pct": "11.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ish Msci Usa Esg Ehncd Usd-A",
+   "pct": "11.34"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Msci Usa Esg Cnza Ctb",
+   "pct": "10.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ishares S&P 500 It Sector",
+   "pct": "8.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ish Ms Em E En Ctb U Etf-Usa",
+   "pct": "7.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ish Msci Jpn Esg Ehncd Usd-A",
+   "pct": "4.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnpp Msci Sri China Etf Eur",
+   "pct": "4.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Frk Ftse Korea Ucits Etf",
+   "pct": "4.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "X Msci Uk Esg 1D",
+   "pct": "2.94"
+  }
+ ]
 }

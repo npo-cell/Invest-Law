@@ -1,312 +1,312 @@
 {
-  "n": "304",
-  "isin": "FR0014010IF5",
-  "nom": "(I/C)SYCOYIELD 2032 IC EUR (FMB)",
-  "maison": "SYCOMORE AM",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-16",
-  "date_creation": "2025-07-10",
-  "devise": "EUR",
-  "type_fonds": "Obligataire à échéance (2032)",
-  "compartiment": "Fonds Commun de Placement",
-  "gerants": "Stanislas de BAILLIENCOURT, Emmanuel de SINETY",
-  "encours_millions": "350.7",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.50",
-  "sri": "2",
-  "indice": "Aucun",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "3.6 (sensibilité)",
-  "qualite_emetteurs": "",
-  "disclaimer": "Le fonds n'offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne préjugent pas des performances futures.",
-  "politique_fr": "Stratégie d'investissement\nSycoyield 2032 est un fonds à échéance à la recherche d'opportunités de rendement sur les marchés obligataires. Il investit principalement dans une sélection rigoureuse d'obligations (y compris convertibles et subordonnées dites hybrides**) émises en euros, dont l'échéance se situe principalement en 2032 et qui ont vocation à être conservées jusqu'à leur maturité.\n\nLa stratégie de portage permet de viser une performance annualisée nette de frais, en ligne avec les marchés d'obligations émises principalement par des émetteurs privés, de toute notation, et dont la maturité moyenne se situe en 2032 sur un horizon de placement de 7 ans et 6 mois. Cet objectif est fondé sur la réalisation d'hypothèses de marché de Sycomore AM1 et ne constitue pas une promesse de rendement ou de performance du fonds, qui présente un risque de perte en capital.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet septembre 2026 (« Performances au 30.09.2026 »). Date de création 10/07/2025 : « Date de création » de la factsheet = création de l'OPC selon le KID (pas de date propre à la part IC). Compartiment : FCP de droit français (« Forme juridique : Fonds Commun de Placement »). Gérants : Stanislas de BAILLIENCOURT et Emmanuel de SINETY ; Nicholas CAMPELLO (analyste crédit) non repris. Encours « Actifs | 350,7 M€ ». Frais de gestion vides : « Frais de gestion fixes et admin Part IC - 0,50% » (gestion et administratifs confondus) ; frais courants 0,50 % (KID). Indice « Aucun » (factsheet « Indice de référence : Aucun »). Duration = « Sensibilité 3,6 » ; rendement à maturité 5,7 % (brut de frais) ; maturité moyenne 5,5 ans ; pas de notation moyenne écrite. SFDR article 8 ; investissements durables : engagements minimaux « ≥ 1% » seulement. Politique : bloc « Stratégie d'investissement » p.1 copié tel quel (« Sycomore AM1 » et « hybrides** » : appels de note du document). Allocations : secteurs, pays, notations, classes d'actifs et 5 principaux émetteurs (p.2) ; total secteurs 103 % (arrondis du document).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "factsheet p.2",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.2",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "304",
+ "isin": "FR0014010IF5",
+ "nom": "(I/C)SYCOYIELD 2032 IC EUR (FMB)",
+ "maison": "SYCOMORE AM",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2025-07-10",
+ "devise": "EUR",
+ "type_fonds": "Obligataire à échéance (2032)",
+ "compartiment": "Fonds Commun de Placement",
+ "gerants": "Stanislas de BAILLIENCOURT, Emmanuel de SINETY",
+ "encours_millions": "350.7",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.50",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.6 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Le fonds n'offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Stratégie d'investissement\nSycoyield 2032 est un fonds à échéance à la recherche d'opportunités de rendement sur les marchés obligataires. Il investit principalement dans une sélection rigoureuse d'obligations (y compris convertibles et subordonnées dites hybrides**) émises en euros, dont l'échéance se situe principalement en 2032 et qui ont vocation à être conservées jusqu'à leur maturité.\n\nLa stratégie de portage permet de viser une performance annualisée nette de frais, en ligne avec les marchés d'obligations émises principalement par des émetteurs privés, de toute notation, et dont la maturité moyenne se situe en 2032 sur un horizon de placement de 7 ans et 6 mois. Cet objectif est fondé sur la réalisation d'hypothèses de marché de Sycomore AM1 et ne constitue pas une promesse de rendement ou de performance du fonds, qui présente un risque de perte en capital.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet septembre 2026 (« Performances au 30.09.2026 »). Date de création 10/07/2025 : « Date de création » de la factsheet = création de l'OPC selon le KID (pas de date propre à la part IC). Compartiment : FCP de droit français (« Forme juridique : Fonds Commun de Placement »). Gérants : Stanislas de BAILLIENCOURT et Emmanuel de SINETY ; Nicholas CAMPELLO (analyste crédit) non repris. Encours « Actifs | 350,7 M€ ». Frais de gestion vides : « Frais de gestion fixes et admin Part IC - 0,50% » (gestion et administratifs confondus) ; frais courants 0,50 % (KID). Indice « Aucun » (factsheet « Indice de référence : Aucun »). Duration = « Sensibilité 3,6 » ; rendement à maturité 5,7 % (brut de frais) ; maturité moyenne 5,5 ans ; pas de notation moyenne écrite. SFDR article 8 ; investissements durables : engagements minimaux « ≥ 1% » seulement. Politique : bloc « Stratégie d'investissement » p.1 copié tel quel (« Sycomore AM1 » et « hybrides** » : appels de note du document). Allocations : secteurs, pays, notations, classes d'actifs et 5 principaux émetteurs (p.2) ; total secteurs 103 % (arrondis du document).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "factsheet p.2",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Services conso",
+   "pct": "9"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Services conso",
-      "pct": "9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Telecom",
-      "pct": "9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres services",
-      "pct": "8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Serv. Aux collect.",
-      "pct": "8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Conso. Discrétion.",
-      "pct": "7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services comm & pro",
-      "pct": "7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Pharmacie",
-      "pct": "6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autos & comp.",
-      "pct": "6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Medias",
-      "pct": "5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens d équiquement",
-      "pct": "5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits alimentaires",
-      "pct": "4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Assurances",
-      "pct": "4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Logiciels",
-      "pct": "4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Banques",
-      "pct": "3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Transports",
-      "pct": "3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Emballages",
-      "pct": "2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits domest.",
-      "pct": "2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits chimiques",
-      "pct": "1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "35"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "11"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Etats-Unis",
-      "pct": "7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Luxembourg",
-      "pct": "6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suède",
-      "pct": "3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Irlande",
-      "pct": "1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suisse",
-      "pct": "1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgique",
-      "pct": "1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Danemark",
-      "pct": "1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Australie",
-      "pct": "1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Finlande",
-      "pct": "0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Portugal",
-      "pct": "0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Lituanie",
-      "pct": "0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Norvège",
-      "pct": "0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "21"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "37"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B",
-      "pct": "36"
-    },
-    {
-      "type": "Notations",
-      "libelle": "NR",
-      "pct": "5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Liquidités",
-      "pct": "1"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités",
-      "pct": "1"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligations",
-      "pct": "99"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Telefonica",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Orange",
-      "pct": "1.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Boels Topholding Bv",
-      "pct": "1.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Accorinvest Group",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Altarea",
-      "pct": "1.7"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Telecom",
+   "pct": "9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres services",
+   "pct": "8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. Aux collect.",
+   "pct": "8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. Discrétion.",
+   "pct": "7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services comm & pro",
+   "pct": "7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharmacie",
+   "pct": "6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autos & comp.",
+   "pct": "6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Medias",
+   "pct": "5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens d équiquement",
+   "pct": "5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits alimentaires",
+   "pct": "4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurances",
+   "pct": "4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Logiciels",
+   "pct": "4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Transports",
+   "pct": "3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Emballages",
+   "pct": "2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits domest.",
+   "pct": "2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits chimiques",
+   "pct": "1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "35"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Lituanie",
+   "pct": "0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Norvège",
+   "pct": "0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "21"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "37"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "36"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Telefonica",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Orange",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Boels Topholding Bv",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Accorinvest Group",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Altarea",
+   "pct": "1.7"
+  }
+ ]
 }

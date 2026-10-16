@@ -1,196 +1,196 @@
 {
-  "n": "298",
-  "isin": "LU1932686501",
-  "nom": "(I/C)SKAGEN KON-TIKI LUX B EUR",
-  "maison": "FundRock Management Company S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-02-28",
-  "date_creation": "",
-  "devise": "EUR",
-  "type_fonds": "Actions marchés émergents",
-  "compartiment": "Storebrand SICAV (numéro d'enregistrement RCS : B 234106) est une société d'investissement à capital variable constituée sous la forme d'une société anonyme au Grand-Duché de Luxembourg.",
-  "gerants": "Fredrik Bjelland, Espen Klette",
-  "encours_millions": "111",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.60",
-  "frais_courants": "0.85",
-  "sri": "4",
-  "indice": "MSCI Emerging Markets Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les rendements historiques ne constituent pas une garantie pour les rendements futurs. Les rendements futurs dépendront, entre autres, de l'évolution des marchés, des compétences du gestionnaire du fonds, du profil de risque du fonds et des commissions de souscription et de gestion. Le rendement peut devenir négatif en raison de l'évolution négative des prix.",
-  "politique_fr": "",
-  "politique_en": "SKAGEN Kon-Tiki Lux is a value-based emerging markets equity fund that seeks to generate long-term capital growth by investing in a high conviction portfolio of companies which are listed in, or have significant exposure to, developing markets. The fund is actively managed and applies a contrarian and price-driven investment process to create a portfolio that is typically biased towards small- and mid-cap companies, and trades at a material discount to its benchmark based on traditional valuation metrics as well as to intrinsic value.",
-  "source_politique": "Factsheet",
-  "remarques": "Nom factsheet « Storebrand SICAV - SKAGEN Kon-Tiki Lux B EUR Acc », rapport mensuel au 31.08.2026. Date de création vide : la factsheet donne « Date de lancement, compartiment: 12.09.2019 » et « Date de lancement, fonds: 27.08.2019 », sans date propre à la part B EUR (incohérence apparente entre les deux dates). Indice : « MSCI Emerging Markets Index » (factsheet) ; le KID précise « L’indice MSCI Emerging Markets Net Total Return (EUR) », compartiment « géré activement par rapport à son indice de référence » utilisé pour la comparaison des performances et le calcul de la commission de performance (10 %). Frais de gestion 0,60 % et frais courants 0,85 % (factsheet « Frais courants: 0,85 % (dont les frais de gestion s'élèvent à : 0,60 %) », KID 0,85 %). Encours « Actifs sous gestion: 111 MEUR ». SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Politique : bloc « Stratégie d'investissement » de la factsheet, rédigé en anglais dans la factsheet française ; le KID (FR) contient une section « Objectifs » plus détaillée. Classification Agressif : actions des marchés émergents, SRI 4. Allocations : tableaux « Top 10 » (investissements, pays, secteurs) ; lignes « Poids du top 10 » non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.4",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.3",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "298",
+ "isin": "LU1932686501",
+ "nom": "(I/C)SKAGEN KON-TIKI LUX B EUR",
+ "maison": "FundRock Management Company S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-28",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "Storebrand SICAV (numéro d'enregistrement RCS : B 234106) est une société d'investissement à capital variable constituée sous la forme d'une société anonyme au Grand-Duché de Luxembourg.",
+ "gerants": "Fredrik Bjelland, Espen Klette",
+ "encours_millions": "111",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.60",
+ "frais_courants": "0.85",
+ "sri": "4",
+ "indice": "MSCI Emerging Markets Index",
+ "classification": "Agressif",
+ "categorie": "Equity Global Emerging Markets",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements historiques ne constituent pas une garantie pour les rendements futurs. Les rendements futurs dépendront, entre autres, de l'évolution des marchés, des compétences du gestionnaire du fonds, du profil de risque du fonds et des commissions de souscription et de gestion. Le rendement peut devenir négatif en raison de l'évolution négative des prix.",
+ "politique_fr": "",
+ "politique_en": "SKAGEN Kon-Tiki Lux is a value-based emerging markets equity fund that seeks to generate long-term capital growth by investing in a high conviction portfolio of companies which are listed in, or have significant exposure to, developing markets. The fund is actively managed and applies a contrarian and price-driven investment process to create a portfolio that is typically biased towards small- and mid-cap companies, and trades at a material discount to its benchmark based on traditional valuation metrics as well as to intrinsic value.",
+ "source_politique": "Factsheet",
+ "remarques": "Nom factsheet « Storebrand SICAV - SKAGEN Kon-Tiki Lux B EUR Acc », rapport mensuel au 31.08.2026. Date de création vide : la factsheet donne « Date de lancement, compartiment: 12.09.2019 » et « Date de lancement, fonds: 27.08.2019 », sans date propre à la part B EUR (incohérence apparente entre les deux dates). Indice : « MSCI Emerging Markets Index » (factsheet) ; le KID précise « L’indice MSCI Emerging Markets Net Total Return (EUR) », compartiment « géré activement par rapport à son indice de référence » utilisé pour la comparaison des performances et le calcul de la commission de performance (10 %). Frais de gestion 0,60 % et frais courants 0,85 % (factsheet « Frais courants: 0,85 % (dont les frais de gestion s'élèvent à : 0,60 %) », KID 0,85 %). Encours « Actifs sous gestion: 111 MEUR ». SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Politique : bloc « Stratégie d'investissement » de la factsheet, rédigé en anglais dans la factsheet française ; le KID (FR) contient une section « Objectifs » plus détaillée. Classification Agressif : actions des marchés émergents, SRI 4. Allocations : tableaux « Top 10 » (investissements, pays, secteurs) ; lignes « Poids du top 10 » non reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1932684985 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.4",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "9.3"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "pct": "9.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics Co Ltd",
-      "pct": "8.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ping An Insurance Group Co of China Ltd",
-      "pct": "7.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "JD.com Inc",
-      "pct": "5.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hana Financial Group Inc",
-      "pct": "5.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hon Hai Precision Industry Co Ltd",
-      "pct": "4.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Naspers Ltd",
-      "pct": "3.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Sendas Distribuidora S/A",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Prosus NV",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Axis Bank Ltd",
-      "pct": "2.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Chine",
-      "pct": "21.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Corée du Sud",
-      "pct": "19.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taïwan",
-      "pct": "14.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Brésil",
-      "pct": "10.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Inde",
-      "pct": "7.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pologne",
-      "pct": "4.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Mexique",
-      "pct": "3.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Afrique du Sud",
-      "pct": "3.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "R.A.S. chinoise de Hong Kong",
-      "pct": "3.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Philippines",
-      "pct": "2.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "29.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'information",
-      "pct": "22.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation discrétionnaire",
-      "pct": "22.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits de consommation",
-      "pct": "6.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matières premières",
-      "pct": "6.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "3.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industries",
-      "pct": "2.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "1.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "1.1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co Ltd",
+   "pct": "8.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ping An Insurance Group Co of China Ltd",
+   "pct": "7.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JD.com Inc",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hana Financial Group Inc",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hon Hai Precision Industry Co Ltd",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Naspers Ltd",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sendas Distribuidora S/A",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prosus NV",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Axis Bank Ltd",
+   "pct": "2.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "21.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "19.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "14.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "10.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "7.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pologne",
+   "pct": "4.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "3.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du Sud",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "R.A.S. chinoise de Hong Kong",
+   "pct": "3.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Philippines",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "29.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "22.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "22.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de consommation",
+   "pct": "6.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matières premières",
+   "pct": "6.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "1.1"
+  }
+ ]
 }

@@ -1,138 +1,138 @@
 {
-  "n": "274",
-  "isin": "FR0011845692",
-  "nom": "(I/C)R-CO CLUB P EUR",
-  "maison": "Rothschild & Co Asset Management Europe",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-02-20",
-  "date_creation": "2014-12-23",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs",
-  "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
-  "gerants": "Ludivine QUINCEROT, Julien BOY, Vincent IMENEURAET, Thomas VINCENT",
-  "encours_millions": "213.93",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.95",
-  "frais_courants": "1.32",
-  "sri": "3",
-  "indice": "40% J.P. Morgan GBI JPM EMU - ALL MATURITIES Total Return EUR, 30% Euro Stoxx ® NR, 20% MSCI World Ex EMU NTR, 10% ESTR Capi + 0.085%",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "5.63 (sensibilité)",
-  "qualite_emetteurs": "",
-  "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
-  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLa gestion du portefeuille s'effectue de manière discrétionnaire dans la perspective d'une valorisation à moyen terme des actifs gérés. C'est une gestion de conviction reposant sur une allocation entre les différentes classes d'actifs et zones géographiques qui peut conduire à des écarts importants avec l'indicateur de référence. Le compartiment, principalement investi en lignes directes, cherche à exploiter les opportunités tant au niveau des actions que des produits de taux. Les choix de gestion résultent d'une confrontation entre la vision macro-économique et l'analyse financière des titres.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Fonds renommé : « R-co Conviction Club P EUR » (nom One Life « R-CO CLUB P EUR »), « SICAV Mixte ». Date de création : « Date 1ère VL 23/12/2014 » retenue ; la factsheet indique aussi « Date de création 19/11/2019 » (sans préciser s'il s'agit de la part ou du compartiment) : à confirmer. Compartiment = KID (« compartiment R-co Conviction Club de la SICAV R-co »). Gérants : « Ludivine QUINCEROT (DE) / Julien BOY / Vincent IMENEURAET / Thomas VINCENT » (mention « (DE) » non expliquée). Encours « Actifs sous gestion 213,93 M€ ». Frais de gestion = « Frais de gestion financière 0,95% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,32 % (factsheet : « Frais courants ex-post 1,24% ») ; commission de surperformance 15 % au-delà de l'indice. Indice tel qu'écrit dans le tableau de la factsheet ; le KID l'écrit « 40% JP Morgan GBI EMU Unhedged LOC (coupons réinvestis) + 30% Euro Stoxx ® DR + 20% MSCI Daily TR Net World Ex EMU $ converti en € + 10% [ESTER capitalisé + 0,085%] » (objectif de performance). Duration = « Sensibilité : 5,63 » de la poche taux. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Equilibré : poids moyen actions 47,7 % et taux 55,9 % sur le mois, SRI 3. Allocations : la plupart des répartitions (classes d'actifs, secteurs, zones, type de dette, notations) sont des graphiques en image non lisibles dans le texte du PDF → non reprises ; reprises : principales positions des poches actions et taux (poids non rebasés) et Maturités = « % Actif » du tableau « Décomposition de la sensibilité par tranche de maturité » (poche taux, poids rebasés). Tableaux de poids moyens/contributions non repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.5",
-    "devise": "factsheet p.5",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.5",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.5",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.5",
-    "sfdr": "KID p.3",
-    "duration": "factsheet p.4",
-    "disclaimer": "factsheet p.8",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "274",
+ "isin": "FR0011845692",
+ "nom": "(I/C)R-CO CLUB P EUR",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-20",
+ "date_creation": "2014-12-23",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+ "gerants": "Ludivine QUINCEROT, Julien BOY, Vincent IMENEURAET, Thomas VINCENT",
+ "encours_millions": "213.93",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.95",
+ "frais_courants": "1.32",
+ "sri": "3",
+ "indice": "40% J.P. Morgan GBI JPM EMU - ALL MATURITIES Total Return EUR, 30% Euro Stoxx ® NR, 20% MSCI World Ex EMU NTR, 10% ESTR Capi + 0.085%",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Flexible",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "5.63 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLa gestion du portefeuille s'effectue de manière discrétionnaire dans la perspective d'une valorisation à moyen terme des actifs gérés. C'est une gestion de conviction reposant sur une allocation entre les différentes classes d'actifs et zones géographiques qui peut conduire à des écarts importants avec l'indicateur de référence. Le compartiment, principalement investi en lignes directes, cherche à exploiter les opportunités tant au niveau des actions que des produits de taux. Les choix de gestion résultent d'une confrontation entre la vision macro-économique et l'analyse financière des titres.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds renommé : « R-co Conviction Club P EUR » (nom One Life « R-CO CLUB P EUR »), « SICAV Mixte ». Date de création : « Date 1ère VL 23/12/2014 » retenue ; la factsheet indique aussi « Date de création 19/11/2019 » (sans préciser s'il s'agit de la part ou du compartiment) : à confirmer. Compartiment = KID (« compartiment R-co Conviction Club de la SICAV R-co »). Gérants : « Ludivine QUINCEROT (DE) / Julien BOY / Vincent IMENEURAET / Thomas VINCENT » (mention « (DE) » non expliquée). Encours « Actifs sous gestion 213,93 M€ ». Frais de gestion = « Frais de gestion financière 0,95% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,32 % (factsheet : « Frais courants ex-post 1,24% ») ; commission de surperformance 15 % au-delà de l'indice. Indice tel qu'écrit dans le tableau de la factsheet ; le KID l'écrit « 40% JP Morgan GBI EMU Unhedged LOC (coupons réinvestis) + 30% Euro Stoxx ® DR + 20% MSCI Daily TR Net World Ex EMU $ converti en € + 10% [ESTER capitalisé + 0,085%] » (objectif de performance). Duration = « Sensibilité : 5,63 » de la poche taux. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Equilibré : poids moyen actions 47,7 % et taux 55,9 % sur le mois, SRI 3. Allocations : la plupart des répartitions (classes d'actifs, secteurs, zones, type de dette, notations) sont des graphiques en image non lisibles dans le texte du PDF → non reprises ; reprises : principales positions des poches actions et taux (poids non rebasés) et Maturités = « % Actif » du tableau « Décomposition de la sensibilité par tranche de maturité » (poche taux, poids rebasés). Tableaux de poids moyens/contributions non repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0010537423 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.5",
+  "devise": "factsheet p.5",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.5",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.5",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.5",
+  "sfdr": "KID p.3",
+  "duration": "factsheet p.4",
+  "disclaimer": "factsheet p.8",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "1.8"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ASML Holding NV",
-      "pct": "1.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Siemens AG",
-      "pct": "1.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SAP SE",
-      "pct": "1.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Allianz SE",
-      "pct": "1.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UniCredit SpA",
-      "pct": "1.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "United Kingdom Gilt 4 3/4 12/07/30",
-      "pct": "9.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bonos Y Oblig Del Estado 3.45 10/31/34",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "France (govt Of) 3 11/25/34",
-      "pct": "3.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Buoni Poliennali Del Tes 3 1/4 03/05/30",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Belgium Kingdom 0 10/22/27",
-      "pct": "2.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "< 1 an",
-      "pct": "18.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "1-3 ans",
-      "pct": "14.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "3-5 ans",
-      "pct": "25.5"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5-7 ans",
-      "pct": "18.5"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "7-10 ans",
-      "pct": "18.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "> 10 ans",
-      "pct": "0.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Cash",
-      "pct": "4.1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Siemens AG",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP SE",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz SE",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UniCredit SpA",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Kingdom Gilt 4 3/4 12/07/30",
+   "pct": "9.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bonos Y Oblig Del Estado 3.45 10/31/34",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "France (govt Of) 3 11/25/34",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Buoni Poliennali Del Tes 3 1/4 03/05/30",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Belgium Kingdom 0 10/22/27",
+   "pct": "2.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "18.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3 ans",
+   "pct": "14.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 ans",
+   "pct": "25.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 ans",
+   "pct": "18.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10 ans",
+   "pct": "18.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 10 ans",
+   "pct": "0.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Cash",
+   "pct": "4.1"
+  }
+ ]
 }

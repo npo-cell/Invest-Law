@@ -1,200 +1,200 @@
 {
-  "n": "60",
-  "isin": "FR0014008223",
-  "nom": "(I/C)CARMIGNAC CREDIT 2027 F EUR (FMB)",
-  "maison": "CARMIGNAC GESTION",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-16",
-  "date_creation": "2022-05-02",
-  "devise": "EUR",
-  "type_fonds": "Obligataire",
-  "compartiment": "Carmignac Credit 2027 est un Fonds Commun de Placement (FCP) de droit français, relevant de la directive européenne 2009/65/CE (OPCVM).",
-  "gerants": "Pierre Verlé, Alexandre Deneuville, Florian Viros",
-  "encours_millions": "1280",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.64",
-  "sri": "2",
-  "indice": "Aucun",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "1.4 (sensibilité)",
-  "qualite_emetteurs": "A-",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
-  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Credit 2027 est un fonds obligataire à échéance (UCITS) mettant en œuvre une stratégie de portage sur les marchés du crédit. Grâce à une indication de performance cible, une date de maturité préétablie et une sélection rigoureuse et diversifiée des émetteurs, le Fonds offre aux investisseurs de la visibilité sur leur placement. Carmignac Credit 2027 promeut des caractéristiques environnementales et sociales et cherche à offrir une appréciation du capital investi en ligne avec sa stratégie de portage sur un horizon de 5 ans, tout en permettant aux investisseurs de profiter d'une échéance anticipée si le taux de rendement interne du Fonds atteint l'un des seuils définis dans le prospectus avant le terme.\n\nL’objectif du Fonds ne constitue en aucun cas une promesse de rendement ou de performance du Fonds, la performance n’est pas garantie.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Fonds obligataire à échéance (30/06/2027). Date de création = « Date de la 1ère VL » de la part F EUR Acc (02/05/2022, identique à la date de lancement du fonds). Encours = « Actifs sous gestion du Fonds : 1280M€ » (encours de la part : 117M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 0,64 % (= frais courants, identique au KID p.3) ; pas de commission de performance. Indice « Aucun » : KID « Le fonds n'a pas d'indicateur de référence ». SRI 2 (KID : « classe de risque 2 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 0% ». Duration = « Sensibilité taux 1,4 » ; qualité = « Notation moyenne A- ». Allocations : répartitions par notation et géographique indiquées « Poids rebasés » ; la ventilation sectorielle à l’intérieur de chaque sous-classe (emprunts privés pays développés / émergents) n’est pas reprise (libellés répétés, ambigus) ; notes ESG MSCI non reprises. Classes d’actifs : lignes principales (Obligations, Liquidités…) et sous-classes reprises telles qu’écrites, les sous-classes détaillant « Obligations » (total supérieur à 100 %).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.1",
-    "qualite_emetteurs": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "60",
+ "isin": "FR0014008223",
+ "nom": "(I/C)CARMIGNAC CREDIT 2027 F EUR (FMB)",
+ "maison": "CARMIGNAC GESTION",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2022-05-02",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "Carmignac Credit 2027 est un Fonds Commun de Placement (FCP) de droit français, relevant de la directive européenne 2009/65/CE (OPCVM).",
+ "gerants": "Pierre Verlé, Alexandre Deneuville, Florian Viros",
+ "encours_millions": "1280",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.64",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "Bond Global Target Maturity 2020+",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "1.4 (sensibilité)",
+ "qualite_emetteurs": "A-",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Credit 2027 est un fonds obligataire à échéance (UCITS) mettant en œuvre une stratégie de portage sur les marchés du crédit. Grâce à une indication de performance cible, une date de maturité préétablie et une sélection rigoureuse et diversifiée des émetteurs, le Fonds offre aux investisseurs de la visibilité sur leur placement. Carmignac Credit 2027 promeut des caractéristiques environnementales et sociales et cherche à offrir une appréciation du capital investi en ligne avec sa stratégie de portage sur un horizon de 5 ans, tout en permettant aux investisseurs de profiter d'une échéance anticipée si le taux de rendement interne du Fonds atteint l'un des seuils définis dans le prospectus avant le terme.\n\nL’objectif du Fonds ne constitue en aucun cas une promesse de rendement ou de performance du Fonds, la performance n’est pas garantie.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds obligataire à échéance (30/06/2027). Date de création = « Date de la 1ère VL » de la part F EUR Acc (02/05/2022, identique à la date de lancement du fonds). Encours = « Actifs sous gestion du Fonds : 1280M€ » (encours de la part : 117M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 0,64 % (= frais courants, identique au KID p.3) ; pas de commission de performance. Indice « Aucun » : KID « Le fonds n'a pas d'indicateur de référence ». SRI 2 (KID : « classe de risque 2 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 0% ». Duration = « Sensibilité taux 1,4 » ; qualité = « Notation moyenne A- ». Allocations : répartitions par notation et géographique indiquées « Poids rebasés » ; la ventilation sectorielle à l’intérieur de chaque sous-classe (emprunts privés pays développés / émergents) n’est pas reprise (libellés répétés, ambigus) ; notes ESG MSCI non reprises. Classes d’actifs : lignes principales (Obligations, Liquidités…) et sous-classes reprises telles qu’écrites, les sous-classes détaillant « Obligations » (total supérieur à 100 %). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR00140081Y1 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "99.3"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligations",
-      "pct": "99.3"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Emprunts privés pays développés",
-      "pct": "80.3"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Emprunts privés pays émergents",
-      "pct": "9.6"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Emprunts Supranationaux",
-      "pct": "0.1"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Collateralized Loan Obligation (CLO)",
-      "pct": "9.2"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
-      "pct": "0.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "6.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "7.1"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "37.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "37.2"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "10.3"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B",
-      "pct": "1.8"
-    },
-    {
-      "type": "Notations",
-      "libelle": "C",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe",
-      "pct": "79.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "10.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe de l'Est",
-      "pct": "6.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie",
-      "pct": "1.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique Latine",
-      "pct": "1.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Moyen-Orient",
-      "pct": "1.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie Pacifique",
-      "pct": "0.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NOVO BANCO 3.5% 09/03/2028",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "PERSHING SQUARE HOLDINGS LTD/FUND 1.38% 01/08/2027",
-      "pct": "1.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TOTALENERGIES 1.63% 25/10/2027",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ATHENE GLOBAL FUNDING 3.51% 23/02/2027",
-      "pct": "1.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "WELLS FARGO & CO 3.19% 22/07/2027",
-      "pct": "1.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ENI 2% 11/02/2027",
-      "pct": "1.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "RAIFFEISENBANK AS 1% 09/06/2027",
-      "pct": "1.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ROYAL BANK OF CANADA 3.42% 13/06/2028",
-      "pct": "1.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UBS GROUP 3.46% 12/05/2028",
-      "pct": "1.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "STEDIN HOLDING 1.5% 31/12/2026",
-      "pct": "1.3"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts privés pays développés",
+   "pct": "80.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts privés pays émergents",
+   "pct": "9.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts Supranationaux",
+   "pct": "0.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Collateralized Loan Obligation (CLO)",
+   "pct": "9.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "0.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "6.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "7.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "37.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "37.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "10.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "1.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "79.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "10.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe de l'Est",
+   "pct": "6.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "1.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "1.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie Pacifique",
+   "pct": "0.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVO BANCO 3.5% 09/03/2028",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PERSHING SQUARE HOLDINGS LTD/FUND 1.38% 01/08/2027",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOTALENERGIES 1.63% 25/10/2027",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ATHENE GLOBAL FUNDING 3.51% 23/02/2027",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WELLS FARGO & CO 3.19% 22/07/2027",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENI 2% 11/02/2027",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RAIFFEISENBANK AS 1% 09/06/2027",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROYAL BANK OF CANADA 3.42% 13/06/2028",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UBS GROUP 3.46% 12/05/2028",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "STEDIN HOLDING 1.5% 31/12/2026",
+   "pct": "1.3"
+  }
+ ]
 }

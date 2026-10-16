@@ -1,216 +1,216 @@
 {
-  "n": "175",
-  "isin": "LU0208853860",
-  "nom": "(I/C)JPM GLOBAL NATURAL RESOURCES FUND C EUR",
-  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-27",
-  "date_creation": "2005-03-14",
-  "devise": "EUR",
-  "type_fonds": "Actions ressources naturelles",
-  "compartiment": "un compartiment de JPMorgan Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
-  "gerants": "Christopher Korpan, Veronika Lysogorskaya",
-  "encours_millions": "1227.0",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.01",
-  "sri": "5",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
-  "politique_fr": "Objectif d´investissement: Offrir une croissance du capital sur le long terme en investissant essentiellement dans des actions de sociétés du monde entier opérant dans le secteur des ressources naturelles.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nProcessus d'investissement fondé sur l'analyse des actions par une équipe de recherche internationale.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part C (acc) EUR. Factsheet FR au 30/09/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées). Date de création = « Lancement de la classe 14 Mars 2005 » (fonds : 21 Déc. 2004). Encours = « Actifs net du fonds EUR 1227,0m ». Frais de gestion vide : la factsheet ne donne que « Frais courants 1,01% » ; frais courants = KID 1,01 %. Indice vide : « S&P Global Mining & Energy Index (Total Return Net) » est l'indice de référence de la classe, mais le KID indique comme seul recours « Comparaison des performances ». SFDR : « Classification SFDR Article 6 » (KID) ; la factsheet indique « Approche ESG - Intégration ». Compartiment : KID (« un compartiment de JPMorgan Funds ») + section « Type ». Positions et capitalisations datées du 31 août 2026 ; « RÉGIONS » classée en Zones géographiques ; colonnes du fonds seulement. La zone « Europe et Moyen-Orient hors R.-U. » est imprimée en double (texte superposé) dans le PDF, d'où un écart signalé par verif_fiche.py.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "175",
+ "isin": "LU0208853860",
+ "nom": "(I/C)JPM GLOBAL NATURAL RESOURCES FUND C EUR",
+ "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-27",
+ "date_creation": "2005-03-14",
+ "devise": "EUR",
+ "type_fonds": "Actions ressources naturelles",
+ "compartiment": "un compartiment de JPMorgan Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
+ "gerants": "Christopher Korpan, Veronika Lysogorskaya",
+ "encours_millions": "1227.0",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.01",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "Equity Global Natural Resources",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+ "politique_fr": "Objectif d´investissement: Offrir une croissance du capital sur le long terme en investissant essentiellement dans des actions de sociétés du monde entier opérant dans le secteur des ressources naturelles.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nProcessus d'investissement fondé sur l'analyse des actions par une équipe de recherche internationale.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part C (acc) EUR. Factsheet FR au 30/09/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées). Date de création = « Lancement de la classe 14 Mars 2005 » (fonds : 21 Déc. 2004). Encours = « Actifs net du fonds EUR 1227,0m ». Frais de gestion vide : la factsheet ne donne que « Frais courants 1,01% » ; frais courants = KID 1,01 %. Indice vide : « S&P Global Mining & Energy Index (Total Return Net) » est l'indice de référence de la classe, mais le KID indique comme seul recours « Comparaison des performances ». SFDR : « Classification SFDR Article 6 » (KID) ; la factsheet indique « Approche ESG - Intégration ». Compartiment : KID (« un compartiment de JPMorgan Funds ») + section « Type ». Positions et capitalisations datées du 31 août 2026 ; « RÉGIONS » classée en Zones géographiques ; colonnes du fonds seulement. La zone « Europe et Moyen-Orient hors R.-U. » est imprimée en double (texte superposé) dans le PDF, d'où un écart signalé par verif_fiche.py. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0208853274 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Newmont",
+   "pct": "5.6"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Newmont",
-      "pct": "5.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ExxonMobil Holdings",
-      "pct": "4.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BHP",
-      "pct": "4.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Shell",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Freeport-McMoRan",
-      "pct": "3.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Rio Tinto",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Marathon Petroleum",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Kinross Gold",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Valero Energy",
-      "pct": "3.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Agnico-Eagle Mines",
-      "pct": "2.8"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 100 milliards",
-      "pct": "47.85"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 10 milliard < 100 milliards",
-      "pct": "45.45"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 1 milliards < 10 milliards",
-      "pct": "6.70"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "< 1 milliard",
-      "pct": "0.00"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "63.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "11.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "9.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe et Moyen-Orient hors R.-U.",
-      "pct": "7.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique (hors Japon)",
-      "pct": "4.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "2.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Liquidités",
-      "pct": "1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Sociétés pétrolières et gazières intégrées",
-      "pct": "23.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Exploitations minières et métaux diversifiés",
-      "pct": "17.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Or",
-      "pct": "15.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Cuivre",
-      "pct": "10.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Exploration et production pétrolière et gazière",
-      "pct": "9.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Raffinage et commercialisation de pétrole et de gaz",
-      "pct": "9.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Stockage et transport de pétrole et de gaz",
-      "pct": "6.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Acier",
-      "pct": "1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Secteur maritime",
-      "pct": "1.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres transporteurs",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "2.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "1.6"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "ExxonMobil Holdings",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BHP",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shell",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Freeport-McMoRan",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rio Tinto",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Marathon Petroleum",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kinross Gold",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Valero Energy",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Agnico-Eagle Mines",
+   "pct": "2.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 100 milliards",
+   "pct": "47.85"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 10 milliard < 100 milliards",
+   "pct": "45.45"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 1 milliards < 10 milliards",
+   "pct": "6.70"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 1 milliard",
+   "pct": "0.00"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "63.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "11.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "9.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe et Moyen-Orient hors R.-U.",
+   "pct": "7.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique (hors Japon)",
+   "pct": "4.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés pétrolières et gazières intégrées",
+   "pct": "23.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Exploitations minières et métaux diversifiés",
+   "pct": "17.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Or",
+   "pct": "15.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cuivre",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Exploration et production pétrolière et gazière",
+   "pct": "9.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Raffinage et commercialisation de pétrole et de gaz",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Stockage et transport de pétrole et de gaz",
+   "pct": "6.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Acier",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Secteur maritime",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres transporteurs",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.6"
+  }
+ ]
 }

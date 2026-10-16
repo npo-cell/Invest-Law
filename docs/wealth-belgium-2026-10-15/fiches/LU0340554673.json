@@ -1,160 +1,160 @@
 {
-  "n": "250",
-  "isin": "LU0340554673",
-  "nom": "(I/C)PICTET DIGITAL I EUR",
-  "maison": "Pictet Asset Management (Europe) S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-06-19",
-  "date_creation": "2008-06-30",
-  "devise": "EUR",
-  "type_fonds": "Actions thématiques (numérique)",
-  "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
-  "gerants": "",
-  "encours_millions": "3857",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.09",
-  "sri": "5",
-  "indice": "MSCI AC World (EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
-  "politique_fr": "Objectif\nAugmenter la valeur de votre investissement.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit au moins deux tiers de ses actifs en actions d’entreprises proposant des produits ou services numériques, y compris des services permettant une interactivité numérique. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Indice : « MSCI AC World (EUR) » = indice du tableau « Informations générales » de la part en EUR (retenu selon la consigne : devise du tableau de la part) ; les objectifs (factsheet p.1, repris du DIC) citent « MSCI AC World (USD) », « Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Date de création 30.06.2008 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part EUR, devise du compartiment USD. Encours « Taille du fonds (Mio) EUR 3 857 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 1.09 », identique au KID). Aucun gérant nommé. SFDR article 8, aucun % d'investissements durables écrit. Politique : texte de la factsheet (issu du DIC). Répartition géographique : total 91,67 % + trésorerie 8,33 % (pas de ligne « Autres »).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID",
-    "sri": "KID",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "250",
+ "isin": "LU0340554673",
+ "nom": "(I/C)PICTET DIGITAL I EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2008-06-30",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (numérique)",
+ "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+ "gerants": "",
+ "encours_millions": "3857",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.09",
+ "sri": "5",
+ "indice": "MSCI AC World (EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity Global",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+ "politique_fr": "Objectif\nAugmenter la valeur de votre investissement.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit au moins deux tiers de ses actifs en actions d’entreprises proposant des produits ou services numériques, y compris des services permettant une interactivité numérique. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Indice : « MSCI AC World (EUR) » = indice du tableau « Informations générales » de la part en EUR (retenu selon la consigne : devise du tableau de la part) ; les objectifs (factsheet p.1, repris du DIC) citent « MSCI AC World (USD) », « Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Date de création 30.06.2008 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part EUR, devise du compartiment USD. Encours « Taille du fonds (Mio) EUR 3 857 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 1.09 », identique au KID). Aucun gérant nommé. SFDR article 8, aucun % d'investissements durables écrit. Politique : texte de la factsheet (issu du DIC). Répartition géographique : total 91,67 % + trésorerie 8,33 % (pas de ligne « Autres »). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0340554913 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Amazon.Com Inc",
+   "pct": "8.02"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Amazon.Com Inc",
-      "pct": "8.02"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet Inc",
-      "pct": "5.30"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nvidia Corp",
-      "pct": "4.65"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Snowflake Inc",
-      "pct": "4.26"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics Co Ltd",
-      "pct": "4.16"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Datadog Inc",
-      "pct": "3.81"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Asm International Nv",
-      "pct": "3.30"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "pct": "3.17"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Meta Platforms Inc",
-      "pct": "3.06"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Broadcom Inc",
-      "pct": "3.04"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Entreprise",
-      "pct": "36.22"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies habilitantes",
-      "pct": "32.72"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommateur",
-      "pct": "22.72"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Trésorerie et équivalents",
-      "pct": "8.33"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "États-Unis",
-      "pct": "62.24"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pays-Bas",
-      "pct": "7.90"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Canada",
-      "pct": "5.58"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Corée du Sud",
-      "pct": "5.27"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "4.35"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Taïwan",
-      "pct": "3.17"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Suède",
-      "pct": "3.16"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Trésorerie et équivalents",
-      "pct": "8.33"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc",
+   "pct": "5.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "4.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Snowflake Inc",
+   "pct": "4.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co Ltd",
+   "pct": "4.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Datadog Inc",
+   "pct": "3.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Asm International Nv",
+   "pct": "3.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "3.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms Inc",
+   "pct": "3.06"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc",
+   "pct": "3.04"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Entreprise",
+   "pct": "36.22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies habilitantes",
+   "pct": "32.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommateur",
+   "pct": "22.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "8.33"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "62.24"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "7.90"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "5.58"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "5.27"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "4.35"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taïwan",
+   "pct": "3.17"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "3.16"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "8.33"
+  }
+ ]
 }

@@ -1,101 +1,101 @@
 {
-  "n": "231",
-  "isin": "LU1694214633",
-  "nom": "(I/C)NORDEA 1 - LOW DURAT EUROPEAN COV BND BI EUR",
-  "maison": "Nordea Investment Funds S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-05-20",
-  "date_creation": "2017-10-24",
-  "devise": "EUR",
-  "type_fonds": "Obligataire (obligations sécurisées, courte duration)",
-  "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
-  "gerants": "Fixed Income Rates Team",
-  "encours_millions": "3606.91",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.25",
-  "frais_courants": "0.34",
-  "sri": "2",
-  "indice": "",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "0,76 (duration effective)",
-  "qualite_emetteurs": "AA",
-  "disclaimer": "La performance affichée est basée sur des données historiques. Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi.",
-  "politique_fr": "Objectif d'investissement\nLe fonds investira au moins 2/3 de ses actifs totaux (hors liquidités) dans des obligations sécurisées (obligations couvertes par des crédits hypothécaires) ayant une bonne qualité de crédit, listées à la bourse ou négociées sur tout autre marché réglementé au sein de l'OCDE et qui sont émises par des sociétés ou établissements financiers domiciliés ou exerçant la majeure partie de leur activité économique en Europe. La philosophie d'investissement du fonds est basée sur une approche quantitative et sur l'analyse des risques. La duration modifiée du fonds doit être comprise entre 0 et 2 à tout moment. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Nordea 1 – Low Duration European Covered Bond Fund, part BI-EUR (capitalisation). Date de création = « Date de lancement 24/10/2017 » (caractéristiques de la part ; identique au fonds). Gérant : « Fixed Income Rates Team » (nom d'équipe). Encours = « Encours sous gestion (Million EUR) 3 606,91 » (fonds) ; encours de la part 2 047,96 M EUR ; sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,25 % » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.34 % (factsheet « Frais courants (2025) 0,34% »). Indice laissé vide : « Iboxx Euro Covered Interest Rate 1Y Duration Hedged » utilisé « uniquement à des fins de comparaison des performances » (KID : Indice iBoxx Euro Covered Interest Rate 1Y Duration). Duration = « Duration effective 0,76 » (Modified Duration To Worst 0,76 ; duration de spread 3,67 ; « Year To Maturity » 5,32) ; qualité = « Notation moyenne AA ». SFDR article 8 ; « proportion minimale d'investissements durables » mentionnée sans pourcentage. Classification Défensif : obligataire courte duration, SRI 2. Politique : bloc « Objectif d'investissement » de la factsheet. Allocations : seules les 10 principales positions sont reprises (libellés tronqués tels qu'écrits) ; les répartitions de la p.2 (secteurs, devises, actifs, zones, notations) sont des graphiques (images) sans texte extractible.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.3",
-    "qualite_emetteurs": "factsheet p.3",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "231",
+ "isin": "LU1694214633",
+ "nom": "(I/C)NORDEA 1 - LOW DURAT EUROPEAN COV BND BI EUR",
+ "maison": "Nordea Investment Funds S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-20",
+ "date_creation": "2017-10-24",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (obligations sécurisées, courte duration)",
+ "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "Fixed Income Rates Team",
+ "encours_millions": "3606.91",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.25",
+ "frais_courants": "0.34",
+ "sri": "2",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "0,76 (duration effective)",
+ "qualite_emetteurs": "AA",
+ "disclaimer": "La performance affichée est basée sur des données historiques. Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi.",
+ "politique_fr": "Objectif d'investissement\nLe fonds investira au moins 2/3 de ses actifs totaux (hors liquidités) dans des obligations sécurisées (obligations couvertes par des crédits hypothécaires) ayant une bonne qualité de crédit, listées à la bourse ou négociées sur tout autre marché réglementé au sein de l'OCDE et qui sont émises par des sociétés ou établissements financiers domiciliés ou exerçant la majeure partie de leur activité économique en Europe. La philosophie d'investissement du fonds est basée sur une approche quantitative et sur l'analyse des risques. La duration modifiée du fonds doit être comprise entre 0 et 2 à tout moment. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nordea 1 – Low Duration European Covered Bond Fund, part BI-EUR (capitalisation). Date de création = « Date de lancement 24/10/2017 » (caractéristiques de la part ; identique au fonds). Gérant : « Fixed Income Rates Team » (nom d'équipe). Encours = « Encours sous gestion (Million EUR) 3 606,91 » (fonds) ; encours de la part 2 047,96 M EUR ; sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,25 % » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.34 % (factsheet « Frais courants (2025) 0,34% »). Indice laissé vide : « Iboxx Euro Covered Interest Rate 1Y Duration Hedged » utilisé « uniquement à des fins de comparaison des performances » (KID : Indice iBoxx Euro Covered Interest Rate 1Y Duration). Duration = « Duration effective 0,76 » (Modified Duration To Worst 0,76 ; duration de spread 3,67 ; « Year To Maturity » 5,32) ; qualité = « Notation moyenne AA ». SFDR article 8 ; « proportion minimale d'investissements durables » mentionnée sans pourcentage. Classification Défensif : obligataire courte duration, SRI 2. Politique : bloc « Objectif d'investissement » de la factsheet. Allocations : seules les 10 principales positions sont reprises (libellés tronqués tels qu'écrits) ; les répartitions de la p.2 (secteurs, devises, actifs, zones, notations) sont des graphiques (images) sans texte extractible.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Caisse de Refinancement de l 3.125% 20-10-2031",
+   "pct": "1.84"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Caisse de Refinancement de l 3.125% 20-10-2031",
-      "pct": "1.84"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BPCE SFH SA 0.01% 18-03-2031",
-      "pct": "1.55"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Italy Buoni Poliennali Del T 4.3% 01-10-2054",
-      "pct": "1.53"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Oversea-Chinese Banking Corp 2.989% 18-05-2029",
-      "pct": "1.43"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nykredit Realkredit 1% 01-07-2030 SDO A H",
-      "pct": "1.36"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hellenic Republic Government 3.625% 15-06-2035",
-      "pct": "1.32"
-    },
-    {
-      "type": "Positions",
-      "libelle": "United Kingdom Gilt 5.375% 31-01-2056",
-      "pct": "1.29"
-    },
-    {
-      "type": "Positions",
-      "libelle": "United Overseas Bank Ltd 2.718% 01-12-2030",
-      "pct": "1.26"
-    },
-    {
-      "type": "Positions",
-      "libelle": "United Overseas Bank Ltd 0.1% 25-05-2029",
-      "pct": "1.19"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Caisse Francaise de Financem 3.25% 17-04-2035",
-      "pct": "1.16"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "BPCE SFH SA 0.01% 18-03-2031",
+   "pct": "1.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Italy Buoni Poliennali Del T 4.3% 01-10-2054",
+   "pct": "1.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oversea-Chinese Banking Corp 2.989% 18-05-2029",
+   "pct": "1.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nykredit Realkredit 1% 01-07-2030 SDO A H",
+   "pct": "1.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hellenic Republic Government 3.625% 15-06-2035",
+   "pct": "1.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Kingdom Gilt 5.375% 31-01-2056",
+   "pct": "1.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Overseas Bank Ltd 2.718% 01-12-2030",
+   "pct": "1.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Overseas Bank Ltd 0.1% 25-05-2029",
+   "pct": "1.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Caisse Francaise de Financem 3.25% 17-04-2035",
+   "pct": "1.16"
+  }
+ ]
 }

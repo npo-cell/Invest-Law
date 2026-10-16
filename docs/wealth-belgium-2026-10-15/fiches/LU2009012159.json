@@ -1,215 +1,215 @@
 {
-  "n": "28",
-  "isin": "LU2009012159",
-  "nom": "(I/C)ALLIANZ GLOBAL INVESTORS THEMATICA RT EUR",
-  "maison": "Allianz Global Investors GmbH",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-05-11",
-  "date_creation": "2019-06-28",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales thématiques",
-  "compartiment": "Allianz Thematica is a sub-fund of Allianz Global Investors Fund SICAV, an open-ended investment company with variable share capital organised under the laws of Luxembourg.",
-  "gerants": "Andreas Fruschki",
-  "encours_millions": "2549.39",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.23",
-  "sri": "4",
-  "indice": "MSCI AC World (ACWI) Total Return Net (in EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "66.16",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Past performance does not predict future returns.",
-  "politique_fr": "",
-  "politique_en": "Investment objective\nThe fund invests primarily in global equity markets striving to build a diversified portfolio with a focus on theme, sector and stock selection. The exposure to the Emerging Markets is restricted to 50 % while convertible bonds may not exceed 15 % of the fund's assets. Its investment objective is to attain capital growth over the long term. Sustainability aspects are taken into account by the fund management. For more information on the investment strategy, the permissible asset classes and the sustainability approach, please refer to the sales prospectus.",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet uniquement en anglais (30/09/2026, part RT (EUR)) ; KID FR du 11/05/2026 au texte mal encodé (utilisé pour SRI, frais, rôle de l'indice, SFDR). Date de création = « Share class launch date 28/06/2019 » ; lancement du fonds 08/12/2016. Encours = « Fund size 2,549.39 M USD » ; part : 10.55 M EUR. Frais : « All-in fee (%) p.a. 1.18 (max 1.60) » (commission globale) → frais de gestion vide ; frais courants 1,23 % (KID, = « TER (%) 1.23 »). Indice : sert à définir l'objectif de performance et à mesurer les performances (KID) → retenu. SFDR article 8 (KID). Investissements durables = « Proportion of sustainable investments Fund 66.16% ». Classification Agressif (fonds actions thématique, règle de la consigne) bien que mondial et multi-thèmes avec SRI 4 (Dynamique envisageable). Avertissement AMF sur une communication disproportionnée sur les critères non financiers. Allocations : colonne « % Fund weight » ; la répartition par pays ne liste que 9 pays (total 91,14 %, reste non ventilé) ; « Theme allocation » non reprise (type non prévu : AI adoption 34 %, Electrification 16 %, Digital finance 15 %, Strategic autonomy 15 %, Clean water and land 12 %, Human resource & employment services 8 %).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "KID",
-    "durable_pct": "factsheet p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "28",
+ "isin": "LU2009012159",
+ "nom": "(I/C)ALLIANZ GLOBAL INVESTORS THEMATICA RT EUR",
+ "maison": "Allianz Global Investors GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-11",
+ "date_creation": "2019-06-28",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques",
+ "compartiment": "Allianz Thematica is a sub-fund of Allianz Global Investors Fund SICAV, an open-ended investment company with variable share capital organised under the laws of Luxembourg.",
+ "gerants": "Andreas Fruschki",
+ "encours_millions": "2549.39",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.23",
+ "sri": "4",
+ "indice": "MSCI AC World (ACWI) Total Return Net (in EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity Global",
+ "sfdr": "8",
+ "durable_pct": "66.16",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance does not predict future returns.",
+ "politique_fr": "",
+ "politique_en": "Investment objective\nThe fund invests primarily in global equity markets striving to build a diversified portfolio with a focus on theme, sector and stock selection. The exposure to the Emerging Markets is restricted to 50 % while convertible bonds may not exceed 15 % of the fund's assets. Its investment objective is to attain capital growth over the long term. Sustainability aspects are taken into account by the fund management. For more information on the investment strategy, the permissible asset classes and the sustainability approach, please refer to the sales prospectus.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet uniquement en anglais (30/09/2026, part RT (EUR)) ; KID FR du 11/05/2026 au texte mal encodé (utilisé pour SRI, frais, rôle de l'indice, SFDR). Date de création = « Share class launch date 28/06/2019 » ; lancement du fonds 08/12/2016. Encours = « Fund size 2,549.39 M USD » ; part : 10.55 M EUR. Frais : « All-in fee (%) p.a. 1.18 (max 1.60) » (commission globale) → frais de gestion vide ; frais courants 1,23 % (KID, = « TER (%) 1.23 »). Indice : sert à définir l'objectif de performance et à mesurer les performances (KID) → retenu. SFDR article 8 (KID). Investissements durables = « Proportion of sustainable investments Fund 66.16% ». Classification Agressif (fonds actions thématique, règle de la consigne) bien que mondial et multi-thèmes avec SRI 4 (Dynamique envisageable). Avertissement AMF sur une communication disproportionnée sur les critères non financiers. Allocations : colonne « % Fund weight » ; la répartition par pays ne liste que 9 pays (total 91,14 %, reste non ventilé) ; « Theme allocation » non reprise (type non prévu : AI adoption 34 %, Electrification 16 %, Digital finance 15 %, Strategic autonomy 15 %, Clean water and land 12 %, Human resource & employment services 8 %). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1981791327 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID",
+  "durable_pct": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Information technology",
+   "pct": "30.97"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Information technology",
-      "pct": "30.97"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "28.12"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "12.77"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "9.35"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health care",
-      "pct": "5.55"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "4.49"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication services",
-      "pct": "3.83"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energy",
-      "pct": "2.84"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer discretionary",
-      "pct": "2.08"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer staples",
-      "pct": "0.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Real estate",
-      "pct": "0.00"
-    },
-    {
-      "type": "Pays",
-      "libelle": "USA",
-      "pct": "64.52"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japan",
-      "pct": "6.50"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United Kingdom",
-      "pct": "4.14"
-    },
-    {
-      "type": "Pays",
-      "libelle": "China",
-      "pct": "4.08"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taiwan",
-      "pct": "2.95"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Spain",
-      "pct": "2.73"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italy",
-      "pct": "2.30"
-    },
-    {
-      "type": "Pays",
-      "libelle": "South Korea",
-      "pct": "2.11"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "1.81"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICROSOFT CORP",
-      "pct": "3.76"
-    },
-    {
-      "type": "Positions",
-      "libelle": "APPLE INC",
-      "pct": "3.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA CORP",
-      "pct": "3.29"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
-      "pct": "2.69"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AMAZON.COM INC",
-      "pct": "2.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ALPHABET INC-CL A",
-      "pct": "2.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "THERMO FISHER SCIENTIFIC INC",
-      "pct": "1.10"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BANCO BILBAO VIZCAYA ARGENTA",
-      "pct": "1.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "VERALTO CORP",
-      "pct": "1.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "VISA INC-CLASS A SHARES",
-      "pct": "1.00"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 10 bn",
-      "pct": "93"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "5 bn <> 10 bn",
-      "pct": "4"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "< 5 bn",
-      "pct": "3"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "28.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "12.77"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "9.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health care",
+   "pct": "5.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "4.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication services",
+   "pct": "3.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "2.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer discretionary",
+   "pct": "2.08"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer staples",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real estate",
+   "pct": "0.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "USA",
+   "pct": "64.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "6.50"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "4.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "4.08"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "2.95"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "2.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "2.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "South Korea",
+   "pct": "2.11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "1.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "3.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "3.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "3.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
+   "pct": "2.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC-CL A",
+   "pct": "2.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "1.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCO BILBAO VIZCAYA ARGENTA",
+   "pct": "1.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VERALTO CORP",
+   "pct": "1.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VISA INC-CLASS A SHARES",
+   "pct": "1.00"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 10 bn",
+   "pct": "93"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 bn <> 10 bn",
+   "pct": "4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 5 bn",
+   "pct": "3"
+  }
+ ]
 }

@@ -1,153 +1,153 @@
 {
-  "n": "237",
-  "isin": "LU3103551787",
-  "nom": "(I/C)ODDO BHF GLOBAL NAVIGATOR CNW EUR",
-  "maison": "Oddo BHF Asset Management SAS",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-07-17",
-  "date_creation": "2025-08-27",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs (fonds de fonds)",
-  "compartiment": "Un compartiment de la SICAV ODDO BHF",
-  "gerants": "Matthieu Barrière, Arthur Tondoux",
-  "encours_millions": "123",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.45",
-  "frais_courants": "0.75",
-  "sri": "3",
-  "indice": "",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
-  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe Compartiment est géré activement par rapport à un indice de référence composé à 60% du MSCI AC World NR et à 40% du Bloomberg Global Aggregate Bond à des fins de comparaison des performances.\nIl investira de manière indirecte, par le biais d’OPCVM et autres OPC, dans des actions et des titres à revenu fixe de tous types sur les marchés internationaux.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Indice laissé vide : « 60% MSCI AC WORLD INdex NR + 40% Bloomberg Global Aggregate » (factsheet), utilisé « à des fins de comparaison des performances » (factsheet et KID). Date de création de la part (1ère VL) 27/08/2025 (factsheet, = date de création du fonds) ; le KID indique « créé le 01/07/2025 » (divergence). Frais de gestion fixes : « Taux annuel de 0.45% maximum » (factsheet). Frais courants KID 0,75 % (factsheet 0.751 %). SFDR article 6 (KID p.3). Encours « Actif net du fonds 123 M€ ». Allocations : tableau « Répartition de l'allocation d'actifs » (colonne « Poids % » ; expositions nettes incluant les futures, total > 100 %) ; zones géographiques reprises par poche (actions puis obligations), d'où des libellés répétés (Amérique du Nord, Europe ex Eurozone) ; « Exposition nette d'actions » non reprise. Positions = « 10 premiers fonds (ou ETF) en portefeuille, hors monétaires ». Principaux dérivés (futures de taux), répartitions géographique et par type d'instrument en graphiques sans texte : non repris. Commentaire : sensibilité obligataire du portefeuille 3,1 années (fonds multi-actifs, duration non reprise).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "KID p.3",
-    "disclaimer": "factsheet p.1 et avertissement",
-    "politique_fr": "factsheet p.1"
+ "n": "237",
+ "isin": "LU3103551787",
+ "nom": "(I/C)ODDO BHF GLOBAL NAVIGATOR CNW EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-17",
+ "date_creation": "2025-08-27",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (fonds de fonds)",
+ "compartiment": "Un compartiment de la SICAV ODDO BHF",
+ "gerants": "Matthieu Barrière, Arthur Tondoux",
+ "encours_millions": "123",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.45",
+ "frais_courants": "0.75",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe Compartiment est géré activement par rapport à un indice de référence composé à 60% du MSCI AC World NR et à 40% du Bloomberg Global Aggregate Bond à des fins de comparaison des performances.\nIl investira de manière indirecte, par le biais d’OPCVM et autres OPC, dans des actions et des titres à revenu fixe de tous types sur les marchés internationaux.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Indice laissé vide : « 60% MSCI AC WORLD INdex NR + 40% Bloomberg Global Aggregate » (factsheet), utilisé « à des fins de comparaison des performances » (factsheet et KID). Date de création de la part (1ère VL) 27/08/2025 (factsheet, = date de création du fonds) ; le KID indique « créé le 01/07/2025 » (divergence). Frais de gestion fixes : « Taux annuel de 0.45% maximum » (factsheet). Frais courants KID 0,75 % (factsheet 0.751 %). SFDR article 6 (KID p.3). Encours « Actif net du fonds 123 M€ ». Allocations : tableau « Répartition de l'allocation d'actifs » (colonne « Poids % » ; expositions nettes incluant les futures, total > 100 %) ; zones géographiques reprises par poche (actions puis obligations), d'où des libellés répétés (Amérique du Nord, Europe ex Eurozone) ; « Exposition nette d'actions » non reprise. Positions = « 10 premiers fonds (ou ETF) en portefeuille, hors monétaires ». Principaux dérivés (futures de taux), répartitions géographique et par type d'instrument en graphiques sans texte : non repris. Commentaire : sensibilité obligataire du portefeuille 3,1 années (fonds multi-actifs, duration non reprise).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "KID p.3",
+  "disclaimer": "factsheet p.1 et avertissement",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Spdr Bbg Global Agg Etf",
+   "pct": "7.78"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Spdr Bbg Global Agg Etf",
-      "pct": "7.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Spdr S&P 500 Etf",
-      "pct": "7.70"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Dbx Glb Agg Etf",
-      "pct": "7.24"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Isha Glo Agg Bd Es Sr Uc-Us",
-      "pct": "6.66"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ishs Cr Gbl Agg Bd Ucits Etf",
-      "pct": "6.52"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ishares S&P500 Swap Ucits",
-      "pct": "5.08"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Jpm Betab Us Eq Ucits Usd-A",
-      "pct": "4.95"
-    },
-    {
-      "type": "Positions",
-      "libelle": "X Japan Government Bond 1C",
-      "pct": "4.51"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amundi Euro Stoxx 50 Etf Dr",
-      "pct": "4.44"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Lyx Etf S&P 500",
-      "pct": "4.35"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "56.03"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligations",
-      "pct": "60.11"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Matières premières",
-      "pct": "0.53"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "28.65"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Zone Euro",
-      "pct": "12.92"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "12.66"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe ex Eurozone",
-      "pct": "1.80"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Globales",
-      "pct": "32.71"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Zone euro",
-      "pct": "22.09"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "3.74"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe ex Eurozone",
-      "pct": "1.57"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Spdr S&P 500 Etf",
+   "pct": "7.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dbx Glb Agg Etf",
+   "pct": "7.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Isha Glo Agg Bd Es Sr Uc-Us",
+   "pct": "6.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ishs Cr Gbl Agg Bd Ucits Etf",
+   "pct": "6.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ishares S&P500 Swap Ucits",
+   "pct": "5.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Jpm Betab Us Eq Ucits Usd-A",
+   "pct": "4.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "X Japan Government Bond 1C",
+   "pct": "4.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Euro Stoxx 50 Etf Dr",
+   "pct": "4.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lyx Etf S&P 500",
+   "pct": "4.35"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "56.03"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "60.11"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Matières premières",
+   "pct": "0.53"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "28.65"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Zone Euro",
+   "pct": "12.92"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "12.66"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe ex Eurozone",
+   "pct": "1.80"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Globales",
+   "pct": "32.71"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Zone euro",
+   "pct": "22.09"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "3.74"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe ex Eurozone",
+   "pct": "1.57"
+  }
+ ]
 }

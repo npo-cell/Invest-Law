@@ -1,169 +1,169 @@
 {
-  "n": "177",
-  "isin": "LU2782826866",
-  "nom": "(I/C)JSS COMMODITY TRANSITION ENHANCED C1 USD",
-  "maison": "J. Safra Sarasin Fund Management (Luxembourg) S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-03",
-  "date_creation": "2025-05-19",
-  "devise": "USD",
-  "type_fonds": "Matières premières",
-  "compartiment": "un compartiment de JSS Investmentfonds SICAV",
-  "gerants": "George Cotton, Benoît Harger",
-  "encours_millions": "548.21",
-  "encours_devise": "",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.35",
-  "frais_courants": "0.56",
-  "sri": "4",
-  "indice": "Bloomberg Commodity Index Total Return",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les résultats obtenus par le passé n'offrent aucune garantie quant aux rendements futurs. La performance représentée ne tient pas compte de commissions et de coûts éventuels prélevés lors de la souscription et du rachat de parts.",
-  "politique_fr": "Le JSS Commodity – Transition Enhanced vise une croissance des actifs en lien avec les marchés de matières premières. À cette fin, le compartiment investit dans des instruments dérivés (y compris des « total return swaps») de contrats à terme diversifiés sur des matières premières physiques. La sélection des placements en matières premières a pour but d'obtenir une diversification optimale des risques, mais vise également à améliorer le rendement via une gestion active des instruments dérivés. Le compartiment est censé investir la majorité (au moins 60%) de son actif net dans des obligations investment-grade d’échéance inférieure à deux ans. Ce produit intègre les critères ESG tout au long du processus d’investissement obligataire afin de réduire les expositions controversées, d’aligner le portefeuille sur les normes internationales, d’atténuer les risques de durabilité et d’exploiter les opportunités liées aux tendances ESG. Le compartiment sera géré activement sans reproduire un quelconque indice de référence. Toutefois, le compartiment est géré en référence à l'indice Bloomberg Commodity Index TR (\"l'indice de référence\").",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part C1 USD acc. Date de création = « Date de lancement de la classe d’action 19 mai 2025 » (compartiment : 29 octobre 2024). Encours = « Total des actifs en mio. 548.21 » (devise non écrite ; monnaie de compte de la part USD) ; pas de date propre (date de la factsheet). Frais de gestion 0.35% (factsheet) ; frais courants 0.56% (KID et factsheet). Indice : nom du tableau de la factsheet « Bloomberg Commodity Index Total Return » ; le texte de la factsheet dit « Bloomberg Commodity Index TR » et le KID « l’indice Bloomberg Commodity TR » ; le compartiment est « géré en référence » à cet indice et la limite de VaR relative s'y rapporte. SFDR article 8 (KID) ; aucun % d'investissements durables écrit. Duration et qualité non reprises (fonds de matières premières) : la factsheet donne pour le portefeuille obligataire de collatéral « Ø-Rating AA », « Modified Duration 0.70 », « Ø-Life 1.00 », rendement à l'échéance 4.22 %. Classification Agressif (matières premières) malgré SRI 4. Allocations : « Répartition par secteurs (Pondération cible) » = pondérations cibles et non effectives ; Secteurs = 4 groupes (Transition, Énergie, Métaux, Produits agricoles), Positions = détail par matière première (libellés tels qu'écrits, y compris « Gas naturel » et « Gaz naturel » listés séparément). Page 2 (« Fixed Income Collateral Portfolio ») : graphiques sans valeurs lisibles dans le texte, non repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.3",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "177",
+ "isin": "LU2782826866",
+ "nom": "(I/C)JSS COMMODITY TRANSITION ENHANCED C1 USD",
+ "maison": "J. Safra Sarasin Fund Management (Luxembourg) S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-03",
+ "date_creation": "2025-05-19",
+ "devise": "USD",
+ "type_fonds": "Matières premières",
+ "compartiment": "un compartiment de JSS Investmentfonds SICAV",
+ "gerants": "George Cotton, Benoît Harger",
+ "encours_millions": "548.21",
+ "encours_devise": "",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.35",
+ "frais_courants": "0.56",
+ "sri": "4",
+ "indice": "Bloomberg Commodity Index Total Return",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les résultats obtenus par le passé n'offrent aucune garantie quant aux rendements futurs. La performance représentée ne tient pas compte de commissions et de coûts éventuels prélevés lors de la souscription et du rachat de parts.",
+ "politique_fr": "Le JSS Commodity – Transition Enhanced vise une croissance des actifs en lien avec les marchés de matières premières. À cette fin, le compartiment investit dans des instruments dérivés (y compris des « total return swaps») de contrats à terme diversifiés sur des matières premières physiques. La sélection des placements en matières premières a pour but d'obtenir une diversification optimale des risques, mais vise également à améliorer le rendement via une gestion active des instruments dérivés. Le compartiment est censé investir la majorité (au moins 60%) de son actif net dans des obligations investment-grade d’échéance inférieure à deux ans. Ce produit intègre les critères ESG tout au long du processus d’investissement obligataire afin de réduire les expositions controversées, d’aligner le portefeuille sur les normes internationales, d’atténuer les risques de durabilité et d’exploiter les opportunités liées aux tendances ESG. Le compartiment sera géré activement sans reproduire un quelconque indice de référence. Toutefois, le compartiment est géré en référence à l'indice Bloomberg Commodity Index TR (\"l'indice de référence\").",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part C1 USD acc. Date de création = « Date de lancement de la classe d’action 19 mai 2025 » (compartiment : 29 octobre 2024). Encours = « Total des actifs en mio. 548.21 » (devise non écrite ; monnaie de compte de la part USD) ; pas de date propre (date de la factsheet). Frais de gestion 0.35% (factsheet) ; frais courants 0.56% (KID et factsheet). Indice : nom du tableau de la factsheet « Bloomberg Commodity Index Total Return » ; le texte de la factsheet dit « Bloomberg Commodity Index TR » et le KID « l’indice Bloomberg Commodity TR » ; le compartiment est « géré en référence » à cet indice et la limite de VaR relative s'y rapporte. SFDR article 8 (KID) ; aucun % d'investissements durables écrit. Duration et qualité non reprises (fonds de matières premières) : la factsheet donne pour le portefeuille obligataire de collatéral « Ø-Rating AA », « Modified Duration 0.70 », « Ø-Life 1.00 », rendement à l'échéance 4.22 %. Classification Agressif (matières premières) malgré SRI 4. Allocations : « Répartition par secteurs (Pondération cible) » = pondérations cibles et non effectives ; Secteurs = 4 groupes (Transition, Énergie, Métaux, Produits agricoles), Positions = détail par matière première (libellés tels qu'écrits, y compris « Gas naturel » et « Gaz naturel » listés séparément). Page 2 (« Fixed Income Collateral Portfolio ») : graphiques sans valeurs lisibles dans le texte, non repris.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Transition",
+   "pct": "35.99"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Transition",
-      "pct": "35.99"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "28.01"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Métaux",
-      "pct": "10.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits agricoles",
-      "pct": "26.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Aluminium",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Argent",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Cuivre",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Etain",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "EU ETS Emissions",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Platine",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Zinc",
-      "pct": "5.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Gas naturel",
-      "pct": "7.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Gaz naturel",
-      "pct": "7.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Gazoline",
-      "pct": "7.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Pétrole brut (Brent)",
-      "pct": "7.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Or",
-      "pct": "10.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bovins vivants",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Cacao",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Café (Robusta)",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Farine de soja",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Huile de soja",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Maïs",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Soja",
-      "pct": "3.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Sucre",
-      "pct": "3.25"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "28.01"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Métaux",
+   "pct": "10.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits agricoles",
+   "pct": "26.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Aluminium",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Argent",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cuivre",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Etain",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EU ETS Emissions",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Platine",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Zinc",
+   "pct": "5.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gas naturel",
+   "pct": "7.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gaz naturel",
+   "pct": "7.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gazoline",
+   "pct": "7.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Pétrole brut (Brent)",
+   "pct": "7.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Or",
+   "pct": "10.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bovins vivants",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cacao",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Café (Robusta)",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Farine de soja",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Huile de soja",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Maïs",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Soja",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sucre",
+   "pct": "3.25"
+  }
+ ]
 }

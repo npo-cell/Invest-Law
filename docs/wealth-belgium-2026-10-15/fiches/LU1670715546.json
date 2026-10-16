@@ -1,294 +1,294 @@
 {
-  "n": "218",
-  "isin": "LU1670715546",
-  "nom": "(I/C)M&G GLOBAL SUSTAIN PARIS ALIGNED C EUR",
-  "maison": "M&G Luxembourg S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-02-16",
-  "date_creation": "2018-11-09",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "M&G (Lux) Global Sustain Paris Aligned Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1.",
-  "gerants": "John William Olsen, Randeep Somel, Jasveet Brar",
-  "encours_millions": "281.97",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.97",
-  "sri": "4",
-  "indice": "MSCI World Net Return Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "9",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
-  "politique_fr": "Le fonds vise à générer à la fois une croissance du capital et un revenu supérieurs à ceux du marché d’actions mondial (tel que mesuré par l’indice MSCI World Net Return Index) sur toute période de cinq années consécutives et à investir dans des sociétés qui contribuent à l’objectif de l’Accord de Paris sur le changement climatique, à savoir maintenir au cours de ce siècle l’augmentation de la température mondiale nettement en dessous de deux degrés Celsius par rapport aux niveaux préindustriels. Au moins 80 % du fonds est investi dans des actions de sociétés durables du monde entier, y compris des marchés émergents. Le fonds détient généralement des actions de moins de 40 sociétés. Le gestionnaire des investissements investit dans des actions de sociétés au modèle commercial durable mais confrontées à des difficultés à court terme qui rendent leur titre intéressant. Le Fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et un résultat ESG positif, en plus de sa stratégie d’investissement durable dans la poursuite de l’objectif d’investissement durable, tel que décrit dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Catégorie C en EUR – Actions de capitalisation. Date de création = « Lancement de la catégorie de part 09 novembre 2018 » (identique au lancement du fonds). Gérants : John William Olsen (gérant), Randeep Somel et Jasveet Brar (gérants adjoints). Encours = « Encours du fonds (millions) € 281,97 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,97 % (factsheet « Frais de gestion et autres commissions 0,97% ») ; pas de commission de gestion séparée. Indice retenu : objectif de performance et mesure de la performance (le gérant compare aussi l'intensité carbone à celle de l'indice). SFDR article 9 (factsheet et KID) ; aucun % d'investissements durables écrit (seulement « Au moins 80 % du fonds est investi dans des actions de sociétés durables »). Classification Dynamique : actions mondiales diversifiées (environ 37 sociétés, thème durable/Paris), SRI 4 ; cas limite avec Agressif (fonds concentré). Allocations : colonne « Fonds » uniquement ; tableaux sur/sous-expositions non repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.5",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "218",
+ "isin": "LU1670715546",
+ "nom": "(I/C)M&G GLOBAL SUSTAIN PARIS ALIGNED C EUR",
+ "maison": "M&G Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-16",
+ "date_creation": "2018-11-09",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "M&G (Lux) Global Sustain Paris Aligned Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1.",
+ "gerants": "John William Olsen, Randeep Somel, Jasveet Brar",
+ "encours_millions": "281.97",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.97",
+ "sri": "4",
+ "indice": "MSCI World Net Return Index",
+ "classification": "Dynamique",
+ "categorie": "Equity Global",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le fonds vise à générer à la fois une croissance du capital et un revenu supérieurs à ceux du marché d’actions mondial (tel que mesuré par l’indice MSCI World Net Return Index) sur toute période de cinq années consécutives et à investir dans des sociétés qui contribuent à l’objectif de l’Accord de Paris sur le changement climatique, à savoir maintenir au cours de ce siècle l’augmentation de la température mondiale nettement en dessous de deux degrés Celsius par rapport aux niveaux préindustriels. Au moins 80 % du fonds est investi dans des actions de sociétés durables du monde entier, y compris des marchés émergents. Le fonds détient généralement des actions de moins de 40 sociétés. Le gestionnaire des investissements investit dans des actions de sociétés au modèle commercial durable mais confrontées à des difficultés à court terme qui rendent leur titre intéressant. Le Fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et un résultat ESG positif, en plus de sa stratégie d’investissement durable dans la poursuite de l’objectif d’investissement durable, tel que décrit dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Catégorie C en EUR – Actions de capitalisation. Date de création = « Lancement de la catégorie de part 09 novembre 2018 » (identique au lancement du fonds). Gérants : John William Olsen (gérant), Randeep Somel et Jasveet Brar (gérants adjoints). Encours = « Encours du fonds (millions) € 281,97 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,97 % (factsheet « Frais de gestion et autres commissions 0,97% ») ; pas de commission de gestion séparée. Indice retenu : objectif de performance et mesure de la performance (le gérant compare aussi l'intensité carbone à celle de l'indice). SFDR article 9 (factsheet et KID) ; aucun % d'investissements durables écrit (seulement « Au moins 80 % du fonds est investi dans des actions de sociétés durables »). Classification Dynamique : actions mondiales diversifiées (environ 37 sociétés, thème durable/Paris), SRI 4 ; cas limite avec Agressif (fonds concentré). Allocations : colonne « Fonds » uniquement ; tableaux sur/sous-expositions non repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1670715207 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.5",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "7.8"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Microsoft",
-      "pct": "7.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet",
-      "pct": "7.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Schneider Electric",
-      "pct": "5.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tokio Marine",
-      "pct": "4.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Visa",
-      "pct": "4.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "American Express",
-      "pct": "4.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Johnson Controls International",
-      "pct": "4.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Unitedhealth Group",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ebay",
-      "pct": "3.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l'information",
-      "pct": "22.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Sociétés financières",
-      "pct": "19.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industries",
-      "pct": "18.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins de santé",
-      "pct": "10.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "10.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de cons. cycl.",
-      "pct": "5.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de cons. de base",
-      "pct": "5.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "5.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services publics",
-      "pct": "1.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Stratégie",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "1.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "États-Unis",
-      "pct": "59.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "7.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Allemagne",
-      "pct": "6.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "France",
-      "pct": "5.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Danemark",
-      "pct": "5.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "4.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pays-Bas",
-      "pct": "3.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Inde",
-      "pct": "2.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "4.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Liquidités",
-      "pct": "1.4"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar US",
-      "pct": "60.5"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Euro",
-      "pct": "15.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Livre sterling",
-      "pct": "7.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Couronne danoise",
-      "pct": "5.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Yen japonais",
-      "pct": "4.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Roupie indienne",
-      "pct": "2.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar de Hong-Kong",
-      "pct": "1.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Nouveau dollar de Taïwan",
-      "pct": "1.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Franc Suisse",
-      "pct": "1.5"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "0.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Méga-cap. (>50 Md$)",
-      "pct": "77.9"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Grandes cap. (10-50 Md$)",
-      "pct": "12.2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moyennes cap. (2-10 Md$)",
-      "pct": "7.6"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Petites cap. (>2 Md$)",
-      "pct": "0.9"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Autres",
-      "pct": "0.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Liquidités",
-      "pct": "1.4"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "7.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tokio Marine",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "American Express",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Johnson Controls International",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Unitedhealth Group",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ebay",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "22.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés financières",
+   "pct": "19.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "18.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "10.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. cycl.",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. de base",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Stratégie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "59.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "7.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "6.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "5.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "5.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "4.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "2.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "4.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "1.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "60.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "15.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre sterling",
+   "pct": "7.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne danoise",
+   "pct": "5.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "4.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "2.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Hong-Kong",
+   "pct": "1.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "1.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Franc Suisse",
+   "pct": "1.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "0.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Méga-cap. (>50 Md$)",
+   "pct": "77.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes cap. (10-50 Md$)",
+   "pct": "12.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes cap. (2-10 Md$)",
+   "pct": "7.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites cap. (>2 Md$)",
+   "pct": "0.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "1.4"
+  }
+ ]
 }

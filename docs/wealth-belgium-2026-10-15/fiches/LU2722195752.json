@@ -1,161 +1,161 @@
 {
-  "n": "339",
-  "isin": "LU2722195752",
-  "nom": "(I/C)VARENNE CONVICTION I EUR",
-  "maison": "Varenne Capital Partners",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-02-24",
-  "date_creation": "2023-12-15",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "Compartiment de la SICAV VARENNE - UCITS",
-  "gerants": "",
-  "encours_millions": "84.16",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.95",
-  "frais_courants": "1.05",
-  "sri": "4",
-  "indice": "MSCI World Net Total Return (USD) converti en euros",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La valeur de l’investissement ainsi que son rendement peuvent varier. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
-  "politique_fr": "VARENNE CONVICTION recherche, sur la période d'investissement recommandée, une performance annualisée supérieure à celle de l'indice MSCI World Net Total Return (USD) converti en euros, en s'appuyant sur une gestion discrétionnaire. Le Compartiment est géré activement et fait référence à l'indice MSCI World Net Total Return (USD) converti en euros à des fins de comparaison et de calcul de la commission de performance. Il peut investir dans les actifs financiers, de toute zone géographique et tout secteur d’activité, notamment les actions (exposition de 0% à 200% de l’actif net du compartiment). Le compartiment peut également avoir recourt à des contrats financiers (ex. : change, taux, actions, indices), utilisés pour la couverture et l'exposition, pouvant représenter jusqu'à 200% de l'actif net.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Information mensuelle (I-EUR) » au 30/09/2026 ; KID (DIC) publié au 24/02/2026. Date de création = « Date de lancement de la part 15/12/2023 » (identique à la date de lancement du compartiment). Encours = « Actif du compartiment 84.16 M€ » (date de la factsheet). Frais de gestion = « dont frais gestion 0.95% » (factsheet) ; frais courants = KID « Frais de gestion et autres coûts administratifs ou d’exploitation » 1.05 % (identique à la factsheet) ; commission de performance max. 20 % (estimation 0.60 %/an). SRI : 4 sur 7 dans le KID (l'échelle de la factsheet est graphique, non lisible en texte). Indice : objectif de performance supérieure au « MSCI World Net Total Return (USD) converti en euros » (aussi utilisé pour la comparaison et la commission de performance) → retenu ; tableau Caractéristiques : « MSCI World Net Total Return(1) ». SFDR : « Catégorie SFDR : Article 8 » (KID) ; la valeur de l'article sur la factsheet est un graphique non lisible en texte ; aucun % d'investissements durables. Aucun gérant nommé. Classification Dynamique : actions internationales, SRI 4 (portefeuille concentré, exposition actions de 0 à 200 % possible ; cas limite avec Agressif). Politique : paragraphe de présentation de la factsheet p.1 (objectif + univers d'investissement). Allocations : données « Exposition Delta Adjusted » de la stratégie Long Equity - Poche Coeur (renvoi (1)), colonne « % de l'Actif » (colonne « Base 100 » non reprise), lignes « Total » non reprises (106.79 %) ; Secteurs = « Répartition par sous-industrie » (10 premières) ; Positions = 5 principales positions. Non repris : exposition devises (exposition/couverture/exposition nette), nombre de lignes, principaux contributeurs/détracteurs.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.3",
-    "devise": "factsheet p.3",
-    "compartiment": "factsheet p.3",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.3",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "339",
+ "isin": "LU2722195752",
+ "nom": "(I/C)VARENNE CONVICTION I EUR",
+ "maison": "Varenne Capital Partners",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-24",
+ "date_creation": "2023-12-15",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Compartiment de la SICAV VARENNE - UCITS",
+ "gerants": "",
+ "encours_millions": "84.16",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.95",
+ "frais_courants": "1.05",
+ "sri": "4",
+ "indice": "MSCI World Net Total Return (USD) converti en euros",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur de l’investissement ainsi que son rendement peuvent varier. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+ "politique_fr": "VARENNE CONVICTION recherche, sur la période d'investissement recommandée, une performance annualisée supérieure à celle de l'indice MSCI World Net Total Return (USD) converti en euros, en s'appuyant sur une gestion discrétionnaire. Le Compartiment est géré activement et fait référence à l'indice MSCI World Net Total Return (USD) converti en euros à des fins de comparaison et de calcul de la commission de performance. Il peut investir dans les actifs financiers, de toute zone géographique et tout secteur d’activité, notamment les actions (exposition de 0% à 200% de l’actif net du compartiment). Le compartiment peut également avoir recourt à des contrats financiers (ex. : change, taux, actions, indices), utilisés pour la couverture et l'exposition, pouvant représenter jusqu'à 200% de l'actif net.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Information mensuelle (I-EUR) » au 30/09/2026 ; KID (DIC) publié au 24/02/2026. Date de création = « Date de lancement de la part 15/12/2023 » (identique à la date de lancement du compartiment). Encours = « Actif du compartiment 84.16 M€ » (date de la factsheet). Frais de gestion = « dont frais gestion 0.95% » (factsheet) ; frais courants = KID « Frais de gestion et autres coûts administratifs ou d’exploitation » 1.05 % (identique à la factsheet) ; commission de performance max. 20 % (estimation 0.60 %/an). SRI : 4 sur 7 dans le KID (l'échelle de la factsheet est graphique, non lisible en texte). Indice : objectif de performance supérieure au « MSCI World Net Total Return (USD) converti en euros » (aussi utilisé pour la comparaison et la commission de performance) → retenu ; tableau Caractéristiques : « MSCI World Net Total Return(1) ». SFDR : « Catégorie SFDR : Article 8 » (KID) ; la valeur de l'article sur la factsheet est un graphique non lisible en texte ; aucun % d'investissements durables. Aucun gérant nommé. Classification Dynamique : actions internationales, SRI 4 (portefeuille concentré, exposition actions de 0 à 200 % possible ; cas limite avec Agressif). Politique : paragraphe de présentation de la factsheet p.1 (objectif + univers d'investissement). Allocations : données « Exposition Delta Adjusted » de la stratégie Long Equity - Poche Coeur (renvoi (1)), colonne « % de l'Actif » (colonne « Base 100 » non reprise), lignes « Total » non reprises (106.79 %) ; Secteurs = « Répartition par sous-industrie » (10 premières) ; Positions = 5 principales positions. Non repris : exposition devises (exposition/couverture/exposition nette), nombre de lignes, principaux contributeurs/détracteurs.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.3",
+  "devise": "factsheet p.3",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Capitalisations",
+   "libelle": "Plus de 10 milliards €",
+   "pct": "96.44"
   },
-  "allocations": [
-    {
-      "type": "Capitalisations",
-      "libelle": "Plus de 10 milliards €",
-      "pct": "96.44"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "De 5 milliards à 10 milliards €",
-      "pct": "6.31"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "De 2 milliards à 5 milliards €",
-      "pct": "4.03"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moins de 2 milliards €",
-      "pct": "0.00"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "68.49"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe",
-      "pct": "38.30"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "0.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Semi-conducteurs",
-      "pct": "24.13"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériel et équipements pour semi-conducteurs",
-      "pct": "18.60"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Équipements et instruments électroniques",
-      "pct": "7.13"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Construction et Ingénierie",
-      "pct": "6.83"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Composants et équipements électriques",
-      "pct": "6.70"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits Pharmaceutiques",
-      "pct": "6.49"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Équipements électriques lourds",
-      "pct": "5.68"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Aérospatiale et Défense",
-      "pct": "5.27"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Composants Électroniques",
-      "pct": "3.70"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Sociétés Commerciales et Distributeurs Commerciaux",
-      "pct": "3.46"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ANALOG DEVICES",
-      "pct": "5.51"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TSMC",
-      "pct": "4.15"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML",
-      "pct": "4.03"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA",
-      "pct": "3.96"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICRON",
-      "pct": "3.90"
-    }
-  ]
+  {
+   "type": "Capitalisations",
+   "libelle": "De 5 milliards à 10 milliards €",
+   "pct": "6.31"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 2 milliards à 5 milliards €",
+   "pct": "4.03"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moins de 2 milliards €",
+   "pct": "0.00"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "68.49"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "38.30"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Semi-conducteurs",
+   "pct": "24.13"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériel et équipements pour semi-conducteurs",
+   "pct": "18.60"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Équipements et instruments électroniques",
+   "pct": "7.13"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Construction et Ingénierie",
+   "pct": "6.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Composants et équipements électriques",
+   "pct": "6.70"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits Pharmaceutiques",
+   "pct": "6.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Équipements électriques lourds",
+   "pct": "5.68"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Aérospatiale et Défense",
+   "pct": "5.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Composants Électroniques",
+   "pct": "3.70"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés Commerciales et Distributeurs Commerciaux",
+   "pct": "3.46"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANALOG DEVICES",
+   "pct": "5.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "4.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "4.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA",
+   "pct": "3.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICRON",
+   "pct": "3.90"
+  }
+ ]
 }

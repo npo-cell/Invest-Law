@@ -1,255 +1,255 @@
 {
-  "n": "291",
-  "isin": "LU2016063229",
-  "nom": "(I/C)SCHRODER ISF GLOBAL ENERGY TRANSITION C USD",
-  "maison": "Schroder Investment Management (Europe) S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2019-07-10",
-  "devise": "USD",
-  "type_fonds": "Actions thématiques (énergies alternatives)",
-  "compartiment": "un compartiment de Schroder International Selection Fund",
-  "gerants": "Mark Lacey, Alex Monk",
-  "encours_millions": "868.73",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "1.04",
-  "sri": "5",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "9",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
-  "politique_fr": "Objectifs et politique d'investissement du fonds\nLe fonds vise à générer une croissance du capital en investissant dans des actions de sociétés du monde entier qui, de l’avis du gestionnaire d’investissement, sont associées à la transition mondiale vers des sources d’énergie ayant une empreinte carbone plus faible et constituent des investissements durables.\n\nLe fonds a pour objectif un investissement durable au sens de l’article 9 du Règlement (UE) 2019/2088 sur la publication d’informations en matière de durabilité dans le secteur des services financiers (le « Règlement SFDR »).",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Fonds renommé le 21/05/2025 : Schroder ISF Global Energy Transition → « Schroder International Selection Fund Global Alternative Energy C Accumulation USD » (même ISIN ; KID : « Global Alternative Energy, un compartiment de Schroder International Selection Fund, Catégorie C Capitalisation USD »). Factsheet FR au 31/08/2026. Date de création = « Date de lancement de la catégorie de parts 10.07.2019 » (identique à celle du fonds). Encours « Taille du fonds (en millions) USD 868,73 ». Frais de gestion non indiqués (factsheet : « Frais courants 1,04% ») ; frais courants KID 1,04 %. Indice laissé vide : KID « Le fonds n'a pas d'indice de référence cible » ; indices de comparaison seulement (« MSCI Global Alternative Energy NR » et « MSCI ACWI NR » ; KID : MSCI Global Alternative Energy (Net TR) Index et MSCI AC World (Net TR)). Gérants « Mark Lacey, Alex Monk » (« Depuis le 10.07.2019 ; 01.01.2021 »). SFDR article 9 (factsheet et KID) ; aucun % d'investissements durables effectif écrit (le KID définit les investissements durables comme des sociétés tirant au moins 50 % de leurs revenus d'activités liées à la transition). Classification Agressif : actions thématiques (énergies alternatives), SRI 5. Politique : bloc « Objectifs et politique d'investissement du fonds » de la factsheet (objectif + paragraphe SFDR) ; la phrase de renvoi au DIC n'est pas reprise ; le KID p.1 contient la politique complète. Allocations au 31/08/2026 : graphiques Fonds/Indice de comparaison 1 (valeurs du fonds seulement, 1re valeur de chaque paire, totaux vérifiés) ; « Répartition par pays » repris en Pays, « Région » en Zones géographiques ; la 1re position est un « United States Treasury Bill ».",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "291",
+ "isin": "LU2016063229",
+ "nom": "(I/C)SCHRODER ISF GLOBAL ENERGY TRANSITION C USD",
+ "maison": "Schroder Investment Management (Europe) S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2019-07-10",
+ "devise": "USD",
+ "type_fonds": "Actions thématiques (énergies alternatives)",
+ "compartiment": "un compartiment de Schroder International Selection Fund",
+ "gerants": "Mark Lacey, Alex Monk",
+ "encours_millions": "868.73",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.04",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
+ "politique_fr": "Objectifs et politique d'investissement du fonds\nLe fonds vise à générer une croissance du capital en investissant dans des actions de sociétés du monde entier qui, de l’avis du gestionnaire d’investissement, sont associées à la transition mondiale vers des sources d’énergie ayant une empreinte carbone plus faible et constituent des investissements durables.\n\nLe fonds a pour objectif un investissement durable au sens de l’article 9 du Règlement (UE) 2019/2088 sur la publication d’informations en matière de durabilité dans le secteur des services financiers (le « Règlement SFDR »).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds renommé le 21/05/2025 : Schroder ISF Global Energy Transition → « Schroder International Selection Fund Global Alternative Energy C Accumulation USD » (même ISIN ; KID : « Global Alternative Energy, un compartiment de Schroder International Selection Fund, Catégorie C Capitalisation USD »). Factsheet FR au 31/08/2026. Date de création = « Date de lancement de la catégorie de parts 10.07.2019 » (identique à celle du fonds). Encours « Taille du fonds (en millions) USD 868,73 ». Frais de gestion non indiqués (factsheet : « Frais courants 1,04% ») ; frais courants KID 1,04 %. Indice laissé vide : KID « Le fonds n'a pas d'indice de référence cible » ; indices de comparaison seulement (« MSCI Global Alternative Energy NR » et « MSCI ACWI NR » ; KID : MSCI Global Alternative Energy (Net TR) Index et MSCI AC World (Net TR)). Gérants « Mark Lacey, Alex Monk » (« Depuis le 10.07.2019 ; 01.01.2021 »). SFDR article 9 (factsheet et KID) ; aucun % d'investissements durables effectif écrit (le KID définit les investissements durables comme des sociétés tirant au moins 50 % de leurs revenus d'activités liées à la transition). Classification Agressif : actions thématiques (énergies alternatives), SRI 5. Politique : bloc « Objectifs et politique d'investissement du fonds » de la factsheet (objectif + paragraphe SFDR) ; la phrase de renvoi au DIC n'est pas reprise ; le KID p.1 contient la politique complète. Allocations au 31/08/2026 : graphiques Fonds/Indice de comparaison 1 (valeurs du fonds seulement, 1re valeur de chaque paire, totaux vérifiés) ; « Répartition par pays » repris en Pays, « Région » en Zones géographiques ; la 1re position est un « United States Treasury Bill ».",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "United States Treasury Bill",
+   "pct": "6.4"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "United States Treasury Bill",
-      "pct": "6.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "First Solar Inc",
-      "pct": "5.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vestas Wind Systems A/S",
-      "pct": "5.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nextpower Inc",
-      "pct": "5.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "EDP Renewables SA",
-      "pct": "4.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Redeia Corp SA",
-      "pct": "3.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Landis+Gyr Group AG",
-      "pct": "3.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nexans SA",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ormat Technologies Inc",
-      "pct": "2.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Contemporary Amperex Technology Co Ltd",
-      "pct": "2.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "42.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "20.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l’information",
-      "pct": "16.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "9.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Actifs liquides",
-      "pct": "7.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "1.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation cyclique",
-      "pct": "1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "0.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "33.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "12.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Chine",
-      "pct": "9.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "8.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Actifs liquides",
-      "pct": "7.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Danemark",
-      "pct": "5.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgique",
-      "pct": "4.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "3.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suisse",
-      "pct": "3.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "2.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Corée du Sud",
-      "pct": "2.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japon",
-      "pct": "2.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "4.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe hors R.-U. / Moyen-Orient",
-      "pct": "40.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amériques",
-      "pct": "35.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "13.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Actifs liquides",
-      "pct": "7.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "2.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "1.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Monde",
-      "pct": "0.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique hors Japon",
-      "pct": "0.0"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "First Solar Inc",
+   "pct": "5.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vestas Wind Systems A/S",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nextpower Inc",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDP Renewables SA",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Redeia Corp SA",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Landis+Gyr Group AG",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nexans SA",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ormat Technologies Inc",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Contemporary Amperex Technology Co Ltd",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "42.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "20.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "16.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "9.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Actifs liquides",
+   "pct": "7.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "33.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "12.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "9.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "8.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Actifs liquides",
+   "pct": "7.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "5.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "4.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "3.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "2.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "2.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "2.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "4.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe hors R.-U. / Moyen-Orient",
+   "pct": "40.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amériques",
+   "pct": "35.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "13.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actifs liquides",
+   "pct": "7.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "2.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "1.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Monde",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "0.0"
+  }
+ ]
 }

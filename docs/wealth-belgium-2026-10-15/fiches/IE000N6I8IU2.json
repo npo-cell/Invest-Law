@@ -1,159 +1,159 @@
 {
-  "n": "11",
-  "isin": "IE000N6I8IU2",
-  "nom": "(ETF)JPM NASDAQ EQUITY PREMIUM INCOME ACTIVE EUR",
-  "maison": "GOLDMAN SACHS AM",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-04-28",
-  "date_creation": "2024-10-29",
-  "devise": "USD",
-  "type_fonds": "Actions américaines (revenu par options)",
-  "compartiment": "un compartiment de JPMorgan ETFs (Ireland) ICAV",
-  "gerants": "Hamilton Reiner, Eric M Moreau, Matt Bensen, Judy Jansen",
-  "encours_millions": "4294.8",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.36",
-  "sri": "5",
-  "indice": "Nasdaq-100 Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
-  "politique_fr": "Objectifs, processus et politiques\nObjectif L’objectif du Compartiment est d’offrir un revenu et une croissance du capital sur le long terme.\n\nIndice de référence de la Classe d'Actions Nasdaq-100 Index\n\nPolitique d'investissement Le Compartiment emploie une stratégie d'investissement gérée de façon dynamique.\n\nLe Compartiment vise (i) à investir dans un portefeuille d'actions constitué principalement de sociétés domiciliées aux Etats-Unis ou qui y exercent la majeure partie de leur activité économique et (ii) à vendre des options d'achat d'actions et/ou d'indices d'actions, afin de générer un revenu par le biais des primes d'options et des dividendes y associés.\n\n(i) Portefeuille d'actions\n\nLe Compartiment vise à investir au moins 67% de ses actifs (hors actifs détenus à des fins de liquidité accessoire) dans des actions émises par des sociétés domiciliées aux Etats-Unis ou y exerçant la majeure partie de leur activité économique.\n\nLe Compartiment peut également investir dans des actions émises par des entreprises de tout autre pays.\n\n(ii) Options d'achat d'actions/d'indices d'actions\n\nLe Gestionnaire financier cherche à obtenir un revenu supplémentaire par le biais d'une stratégie d'investissements complémentaires en instruments financiers dérivés (« IFD »). Celle-ci sera mise en œuvre en vendant systématiquement des options d'achat d'actions et/ou d'indices d'actions qui seront généralement exposées à des indices composés de Titres de l'Indice de référence. Le revenu issu des primes d’options constitue une importante source de rendement pour le Compartiment, qui peut lui permettre de réduire sa volatilité et de compenser les pertes éventuelles au niveau du portefeuille d'actions. Toutefois, les investisseurs noteront également que les pertes résultant de la vente d'options d'achat d'actions et/ou d'options d'achat d'indices d'actions peuvent également contrebalancer les bénéfices du Compartiment résultant de l'augmentation de la valeur du portefeuille d'actions.\n\nL'Indice de référence se compose d'actions émises par des grandes capitalisations américaines (les «Titres de l'Indice de référence »). L'Indice de référence est un point de référence par rapport auquel la performance du Compartiment peut être mesurée et, en tant que tel, il reflète la stratégie et l'univers d'investissement principal du Compartiment.\n\nLe Compartiment ne cherchera pas à répliquer la performance ou la composition de l'indice de référence. Son portefeuille se composera d'actions (qui peuvent inclure, entre autres, des Titres de l'Indice de référence) sélectionnées et gérées de manière active en vue de contribuer à l'objectif du Compartiment, lequel consiste à offrir un revenu.\n\nA des fins d'investissement et de gestion efficace de portefeuille, le Compartiment peut recourir à des instruments financiers dérivés.\n\nLe degré de ressemblance du Compartiment avec la composition et le profil de risque de l’Indice de référence évoluera avec le temps et sa performance pourra s'écarter sensiblement de celle de ce dernier.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Fonds ETF J.P. Morgan (JPMorgan ETFs (Ireland) ICAV) bien que la maison One Life indique GOLDMAN SACHS AM. Part « USD (acc) » : devise de la part USD alors que le nom One Life se termine par EUR. Politique prise du KID (« Objectifs, processus et politiques ») : dans la factsheet le même texte est extrait avec des caractères doublés (illisible). Date de création = « Lancement de la classe 29 Oct. 2024 » (identique au fonds). Encours = « Actifs net du fonds USD 4294,8m » au 31/08/2026. Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation 0,36 % » ; la factsheet indique « Frais courants 0,35% » ; pas de frais de gestion séparés. Indice : point de référence pour mesurer la performance → retenu. SFDR article 6 (KID, « Classification SFDR Article 6 ») ; la factsheet indique « Approche ESG - Intégration ». Classification Dynamique (actions américaines de grande capitalisation avec vente d'options, SRI 5). Pas de répartition géographique dans la factsheet.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "KID p.1",
-    "sfdr": "KID",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "11",
+ "isin": "IE000N6I8IU2",
+ "nom": "(ETF)JPM NASDAQ EQUITY PREMIUM INCOME ACTIVE EUR",
+ "maison": "GOLDMAN SACHS AM",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-28",
+ "date_creation": "2024-10-29",
+ "devise": "USD",
+ "type_fonds": "Actions américaines (revenu par options)",
+ "compartiment": "un compartiment de JPMorgan ETFs (Ireland) ICAV",
+ "gerants": "Hamilton Reiner, Eric M Moreau, Matt Bensen, Judy Jansen",
+ "encours_millions": "4294.8",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.36",
+ "sri": "5",
+ "indice": "Nasdaq-100 Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+ "politique_fr": "Objectifs, processus et politiques\nObjectif L’objectif du Compartiment est d’offrir un revenu et une croissance du capital sur le long terme.\n\nIndice de référence de la Classe d'Actions Nasdaq-100 Index\n\nPolitique d'investissement Le Compartiment emploie une stratégie d'investissement gérée de façon dynamique.\n\nLe Compartiment vise (i) à investir dans un portefeuille d'actions constitué principalement de sociétés domiciliées aux Etats-Unis ou qui y exercent la majeure partie de leur activité économique et (ii) à vendre des options d'achat d'actions et/ou d'indices d'actions, afin de générer un revenu par le biais des primes d'options et des dividendes y associés.\n\n(i) Portefeuille d'actions\n\nLe Compartiment vise à investir au moins 67% de ses actifs (hors actifs détenus à des fins de liquidité accessoire) dans des actions émises par des sociétés domiciliées aux Etats-Unis ou y exerçant la majeure partie de leur activité économique.\n\nLe Compartiment peut également investir dans des actions émises par des entreprises de tout autre pays.\n\n(ii) Options d'achat d'actions/d'indices d'actions\n\nLe Gestionnaire financier cherche à obtenir un revenu supplémentaire par le biais d'une stratégie d'investissements complémentaires en instruments financiers dérivés (« IFD »). Celle-ci sera mise en œuvre en vendant systématiquement des options d'achat d'actions et/ou d'indices d'actions qui seront généralement exposées à des indices composés de Titres de l'Indice de référence. Le revenu issu des primes d’options constitue une importante source de rendement pour le Compartiment, qui peut lui permettre de réduire sa volatilité et de compenser les pertes éventuelles au niveau du portefeuille d'actions. Toutefois, les investisseurs noteront également que les pertes résultant de la vente d'options d'achat d'actions et/ou d'options d'achat d'indices d'actions peuvent également contrebalancer les bénéfices du Compartiment résultant de l'augmentation de la valeur du portefeuille d'actions.\n\nL'Indice de référence se compose d'actions émises par des grandes capitalisations américaines (les «Titres de l'Indice de référence »). L'Indice de référence est un point de référence par rapport auquel la performance du Compartiment peut être mesurée et, en tant que tel, il reflète la stratégie et l'univers d'investissement principal du Compartiment.\n\nLe Compartiment ne cherchera pas à répliquer la performance ou la composition de l'indice de référence. Son portefeuille se composera d'actions (qui peuvent inclure, entre autres, des Titres de l'Indice de référence) sélectionnées et gérées de manière active en vue de contribuer à l'objectif du Compartiment, lequel consiste à offrir un revenu.\n\nA des fins d'investissement et de gestion efficace de portefeuille, le Compartiment peut recourir à des instruments financiers dérivés.\n\nLe degré de ressemblance du Compartiment avec la composition et le profil de risque de l’Indice de référence évoluera avec le temps et sa performance pourra s'écarter sensiblement de celle de ce dernier.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Fonds ETF J.P. Morgan (JPMorgan ETFs (Ireland) ICAV) bien que la maison One Life indique GOLDMAN SACHS AM. Part « USD (acc) » : devise de la part USD alors que le nom One Life se termine par EUR. Politique prise du KID (« Objectifs, processus et politiques ») : dans la factsheet le même texte est extrait avec des caractères doublés (illisible). Date de création = « Lancement de la classe 29 Oct. 2024 » (identique au fonds). Encours = « Actifs net du fonds USD 4294,8m » au 31/08/2026. Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation 0,36 % » ; la factsheet indique « Frais courants 0,35% » ; pas de frais de gestion séparés. Indice : point de référence pour mesurer la performance → retenu. SFDR article 6 (KID, « Classification SFDR Article 6 ») ; la factsheet indique « Approche ESG - Intégration ». Classification Dynamique (actions américaines de grande capitalisation avec vente d'options, SRI 5). Pas de répartition géographique dans la factsheet.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "sfdr": "KID",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Nvidia",
+   "pct": "8.7"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Nvidia",
-      "pct": "8.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Apple",
-      "pct": "7.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Microsoft",
-      "pct": "6.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet",
-      "pct": "5.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Micron Technology",
-      "pct": "5.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amazon.Com",
-      "pct": "4.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Advanced Micro Devices",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Meta Platforms",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Broadcom",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tesla",
-      "pct": "2.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de I'information",
-      "pct": "57.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "13.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation durables",
-      "pct": "11.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "5.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "4.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Sociétés industrielles",
-      "pct": "2.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "1.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Institutions financières",
-      "pct": "0.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "0.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "2.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Apple",
+   "pct": "7.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "6.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "5.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Micron Technology",
+   "pct": "5.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.Com",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Advanced Micro Devices",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tesla",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de I'information",
+   "pct": "57.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "13.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation durables",
+   "pct": "11.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés industrielles",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Institutions financières",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.8"
+  }
+ ]
 }

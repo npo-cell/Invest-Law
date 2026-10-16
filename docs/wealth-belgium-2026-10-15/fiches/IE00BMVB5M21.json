@@ -1,93 +1,93 @@
 {
-  "n": "16",
-  "isin": "IE00BMVB5M21",
-  "nom": "(ETF)VANGUARD LIFESTRATEGY 40% EQUITY EUR",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2020-12-08",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs (40 % actions)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Funds plc (« VF »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Global Equity Index Management (GE)",
-  "encours_millions": "290",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.25",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La performance passée ne constitue pas un indicateur fiable des résultats futurs. La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi.",
-  "politique_fr": "Objectifs et politique d'investissement\nLe Fonds cherche à générer une combinaison de revenus et d’appréciation modérée du capital sur le long terme en investissant dans des titres obligataires et des actions, principalement par le biais d’investissements dans d’autres organismes de placement collectif.\nLe Fonds a recours à une stratégie d’investissement activement gérée, dans le cadre de laquelle le gestionnaire d’investissement a toute discrétion pour sélectionner les participations du portefeuille du Fonds, et n’est pas géré par rapport à un indice de référence. Toutefois, comme décrit plus en détail ci-dessous, le gestionnaire d’investissement gère le Fonds par le biais d’allocations d’actifs prédéterminées en actions et en titres obligataires à l’aide d’une combinaison d’organismes de placement collectif sous-jacents.\nLe Fonds cherchera à atteindre son objectif d’investissement en s’exposant à un portefeuille diversifié composé à environ 40 % de la valeur des actions et à 60 % de la valeur des titres obligataires, qui sera principalement obtenue, sous réserve des exigences de la Banque centrale, par le biais d’investissements directs dans des fonds indiciels cotés (« ETF ») qualifiés de gestion passive ou dans d’autres organismes de placement collectif qui répliquent un indice (collectivement, les « Fonds cibles »). L’allocation d’actifs du portefeuille peut être reconstituée et rééquilibrée ponctuellement à la discrétion du gestionnaire d’investissement. Les Fonds cibles dans lesquels le Fonds investit seront des OPCVM et peuvent inclure d’autres compartiments de Vanguard Funds plc.\nIl est attendu que les expositions indirectes du Fonds, par le biais de son investissement dans les Fonds cibles, soient : (1) des actions de sociétés issues de marchés développés et émergents ; et (2) des titres obligataires, tels que des obligations, libellés dans plusieurs devises, issus d’émetteurs des marchés développés et émergents (par exemple, des titres de créance mondiaux de qualité « investment grade », y compris des bons du Trésor, des obligations d’État, des obligations d’entreprise et des obligations à taux fixe titrisées). L’exposition du Fonds aux Fonds cibles n’est pas destinée à refléter un biais géographique ou sectoriel. Le Fonds cherchera à couvrir indirectement l’exposition au change hors EUR au sein de l’allocation obligataire du portefeuille du Fonds en EUR, en investissant dans des catégories d’actions couvertes en EUR des Fonds cibles.\nLe Fonds peut utiliser des instruments financiers dérivés afin de réduire le risque ou le coût et/ou de générer des revenus ou une croissance supplémentaires. L’utilisation d’instruments financiers dérivés est susceptible d’augmenter ou de réduire l’exposition aux actifs sous-jacents et de susciter des fluctuations plus importantes de la valeur nette d’inventaire du Fonds. Un instrument financier dérivé est un contrat financier dont la valeur est basée sur la valeur d’un actif financier (comme une action, une obligation ou une devise) ou d’un indice de marché.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Date de création: 08 décembre 2020 » (la factsheet ne précise pas part ou fonds). Encours = « Encours total (million) 290 € » au 31/08/2026 ; encours de la classe 245 €. Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation 0.25% » ; factsheet « Montant des frais courants (MFC) 0,25 % » ; pas de commission de gestion séparée. Indice « Aucun » : le fonds « n’est pas géré par rapport à un indice de référence » (« Code de l'indice — »). SRI 3 (KID et factsheet). Gérant : « Gestionnaire de portefeuille Global Equity Index Management (GE) » (nom d'équipe). Aucun article SFDR ni % durable écrit. Fonds de fonds Vanguard (environ 40 % actions / 60 % obligations, couverture en EUR de la poche obligataire). Allocations : « Allocation aux fonds Vanguard sous-jacents » en Positions. Factsheet destinée aux investisseurs professionnels.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "disclaimer": "factsheet p.2-4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "16",
+ "isin": "IE00BMVB5M21",
+ "nom": "(ETF)VANGUARD LIFESTRATEGY 40% EQUITY EUR",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2020-12-08",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (40 % actions)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Funds plc (« VF »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Global Equity Index Management (GE)",
+ "encours_millions": "290",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.25",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne constitue pas un indicateur fiable des résultats futurs. La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi.",
+ "politique_fr": "Objectifs et politique d'investissement\nLe Fonds cherche à générer une combinaison de revenus et d’appréciation modérée du capital sur le long terme en investissant dans des titres obligataires et des actions, principalement par le biais d’investissements dans d’autres organismes de placement collectif.\nLe Fonds a recours à une stratégie d’investissement activement gérée, dans le cadre de laquelle le gestionnaire d’investissement a toute discrétion pour sélectionner les participations du portefeuille du Fonds, et n’est pas géré par rapport à un indice de référence. Toutefois, comme décrit plus en détail ci-dessous, le gestionnaire d’investissement gère le Fonds par le biais d’allocations d’actifs prédéterminées en actions et en titres obligataires à l’aide d’une combinaison d’organismes de placement collectif sous-jacents.\nLe Fonds cherchera à atteindre son objectif d’investissement en s’exposant à un portefeuille diversifié composé à environ 40 % de la valeur des actions et à 60 % de la valeur des titres obligataires, qui sera principalement obtenue, sous réserve des exigences de la Banque centrale, par le biais d’investissements directs dans des fonds indiciels cotés (« ETF ») qualifiés de gestion passive ou dans d’autres organismes de placement collectif qui répliquent un indice (collectivement, les « Fonds cibles »). L’allocation d’actifs du portefeuille peut être reconstituée et rééquilibrée ponctuellement à la discrétion du gestionnaire d’investissement. Les Fonds cibles dans lesquels le Fonds investit seront des OPCVM et peuvent inclure d’autres compartiments de Vanguard Funds plc.\nIl est attendu que les expositions indirectes du Fonds, par le biais de son investissement dans les Fonds cibles, soient : (1) des actions de sociétés issues de marchés développés et émergents ; et (2) des titres obligataires, tels que des obligations, libellés dans plusieurs devises, issus d’émetteurs des marchés développés et émergents (par exemple, des titres de créance mondiaux de qualité « investment grade », y compris des bons du Trésor, des obligations d’État, des obligations d’entreprise et des obligations à taux fixe titrisées). L’exposition du Fonds aux Fonds cibles n’est pas destinée à refléter un biais géographique ou sectoriel. Le Fonds cherchera à couvrir indirectement l’exposition au change hors EUR au sein de l’allocation obligataire du portefeuille du Fonds en EUR, en investissant dans des catégories d’actions couvertes en EUR des Fonds cibles.\nLe Fonds peut utiliser des instruments financiers dérivés afin de réduire le risque ou le coût et/ou de générer des revenus ou une croissance supplémentaires. L’utilisation d’instruments financiers dérivés est susceptible d’augmenter ou de réduire l’exposition aux actifs sous-jacents et de susciter des fluctuations plus importantes de la valeur nette d’inventaire du Fonds. Un instrument financier dérivé est un contrat financier dont la valeur est basée sur la valeur d’un actif financier (comme une action, une obligation ou une devise) ou d’un indice de marché.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de création: 08 décembre 2020 » (la factsheet ne précise pas part ou fonds). Encours = « Encours total (million) 290 € » au 31/08/2026 ; encours de la classe 245 €. Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation 0.25% » ; factsheet « Montant des frais courants (MFC) 0,25 % » ; pas de commission de gestion séparée. Indice « Aucun » : le fonds « n’est pas géré par rapport à un indice de référence » (« Code de l'indice — »). SRI 3 (KID et factsheet). Gérant : « Gestionnaire de portefeuille Global Equity Index Management (GE) » (nom d'équipe). Aucun article SFDR ni % durable écrit. Fonds de fonds Vanguard (environ 40 % actions / 60 % obligations, couverture en EUR de la poche obligataire). Allocations : « Allocation aux fonds Vanguard sous-jacents » en Positions. Factsheet destinée aux investisseurs professionnels.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.2-4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Vanguard FTSE All-World UCITS ETF (USD) Accumulating",
+   "pct": "19.5"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Vanguard FTSE All-World UCITS ETF (USD) Accumulating",
-      "pct": "19.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Accumulating",
-      "pct": "19.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard FTSE Developed World UCITS ETF (USD) Accumulating",
-      "pct": "18.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard USD Treasury Bond UCITS ETF EUR Hedged Accumulating",
-      "pct": "15.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard EUR Eurozone Government Bond UCITS ETF (EUR) Accumulating",
-      "pct": "10.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard USD Corporate Bond UCITS ETF EUR Hedged Accumulating",
-      "pct": "9.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard EUR Corporate Bond UCITS ETF (EUR) Accumulating",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard FTSE Emerging Markets UCITS ETF (USD) Accumulating",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vanguard U.K. Gilt UCITS ETF EUR Hedged Accumulating",
-      "pct": "1.9"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Accumulating",
+   "pct": "19.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard FTSE Developed World UCITS ETF (USD) Accumulating",
+   "pct": "18.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard USD Treasury Bond UCITS ETF EUR Hedged Accumulating",
+   "pct": "15.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard EUR Eurozone Government Bond UCITS ETF (EUR) Accumulating",
+   "pct": "10.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard USD Corporate Bond UCITS ETF EUR Hedged Accumulating",
+   "pct": "9.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard EUR Corporate Bond UCITS ETF (EUR) Accumulating",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard FTSE Emerging Markets UCITS ETF (USD) Accumulating",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vanguard U.K. Gilt UCITS ETF EUR Hedged Accumulating",
+   "pct": "1.9"
+  }
+ ]
 }

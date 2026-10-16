@@ -1,235 +1,235 @@
 {
-  "n": "198",
-  "isin": "IE00BFZ4RW27",
-  "nom": "(I/C)LAZARD RATHMORE ALTERNATIVE FUND C EUR",
-  "maison": "LAZARD FUND MANAGERS (IRELAND) LIMITED",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-03-13",
-  "date_creation": "2019-07-17",
-  "devise": "EUR",
-  "type_fonds": "Alternatif (arbitrage d'obligations convertibles)",
-  "compartiment": "A sub-fund of Lazard Global Investment Funds, an Irish UCITS investment fund company",
-  "gerants": "Sean H. Reynolds & Team",
-  "encours_millions": "2344.34",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "1.25",
-  "frais_courants": "1.35",
-  "sri": "2",
-  "indice": "HFRX Relative Value Fixed Income Convertible Arbitrage Index; S&P 500 Index; Russell 2000 Index; Bloomberg US Aggregate Index; ICE BofA Global 300 Convertible Index; ICE BofA US High Yield Index; and MSCI World Index",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "0.8 ans",
-  "qualite_emetteurs": "",
-  "disclaimer": "Past performance is not a reliable indicator of future results",
-  "politique_fr": "",
-  "politique_en": "Fund Objective\nThe investment objective of the Fund is to seek to achieve absolute returns through a combination of capital appreciation and income over a three year market cycle.\n\nFund Description\nLazard Rathmore Alternative Fund is a hedged convertibles portfolio, best described as convertible arbitrage, where typically a long convertible bond position is hedged with a short stock position in the same company. Position-level hedges are actively traded in order to monetize market volatility. In addition to generating returns from credit and volatility (\"betas\"), the team's specialized approach focuses on extracting value from special situations and events (\"alpha\"), which supplements the traditional drivers of return to convertible arbitrage strategies and allows for a strategic, long-term approach to investing in the space.",
-  "source_politique": "Factsheet",
-  "remarques": "Part C Acc EUR Hedged (couverte). Factsheet uniquement en anglais (politique en EN ; KID FR : « dégager des rendements absolus en combinant plus-values et revenus sur un cycle de marché de trois ans »). Date de création = « Share Class Launch Date 17/07/2019 » (fonds : 01/05/2018). Encours = « Fund AUM Class Currency €2,344.34m » (devise de base : $2,662.82m) ; pas de date propre (date de la factsheet). Frais de gestion = « Annual Management Fee 1.25% » ; frais courants = KID 1,35 % (factsheet « Ongoing charges 1.35% ») ; commission de performance 20 % du gain net au-delà d'un taux plancher plafonné à 5 % par an et d'un high water mark (0.8 % l'an dernier). Indice : liste d'indices du cadre « Benchmark » de la factsheet p.4, recopiée telle quelle ; la performance est « measured against the performance of any one or more » de ces indices (p.2 : « Bloomberg US Agg Total Return Value Unhedged USD » au lieu de « Bloomberg US Aggregate Index ») ; objectif de rendement absolu. Duration = « Portfolio Duration 0.8 years ». Qualité vide : notations NMV « NR 97.5 ». Exposition : LMV 156.8 %, SMV -119.8 %, NMV 37.0 %, delta 84.0 %. SFDR « Article 8 » (factsheet). Classification Défensif : arbitrage de convertibles à rendement absolu, SRI 2 — cas non évident (stratégie alternative). Allocations au 30/09/2026 : Positions = « Top Five Positions » en LMV (top 5 en NMV non repris : Akamai 2.2, Datadog 2.0, Cloudflare 2.0, Alibaba 1.6, Guidewire 1.6) ; Styles = composition par sous-stratégie en NMV (LMV : Hedged Credit 16.0, Special Situations 15.5, Volatility 68.5) ; Instruments = composition par type de titre, LMV/NAV (positifs) puis SMV/NAV (négatifs) ; Secteurs = colonne NMV/NAV (y compris couvertures négatives ; total 37.0) ; Capitalisations, Zones géographiques et Notations en NMV.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.4",
-    "devise": "factsheet p.4",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.4",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.4",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.4",
-    "sfdr": "factsheet p.4",
-    "duration": "factsheet p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1 et p.4"
+ "n": "198",
+ "isin": "IE00BFZ4RW27",
+ "nom": "(I/C)LAZARD RATHMORE ALTERNATIVE FUND C EUR",
+ "maison": "LAZARD FUND MANAGERS (IRELAND) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-13",
+ "date_creation": "2019-07-17",
+ "devise": "EUR",
+ "type_fonds": "Alternatif (arbitrage d'obligations convertibles)",
+ "compartiment": "A sub-fund of Lazard Global Investment Funds, an Irish UCITS investment fund company",
+ "gerants": "Sean H. Reynolds & Team",
+ "encours_millions": "2344.34",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.35",
+ "sri": "2",
+ "indice": "HFRX Relative Value Fixed Income Convertible Arbitrage Index; S&P 500 Index; Russell 2000 Index; Bloomberg US Aggregate Index; ICE BofA Global 300 Convertible Index; ICE BofA US High Yield Index; and MSCI World Index",
+ "classification": "Défensif",
+ "categorie": "Alternative Global Absolute Return",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "0.8 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future results",
+ "politique_fr": "",
+ "politique_en": "Fund Objective\nThe investment objective of the Fund is to seek to achieve absolute returns through a combination of capital appreciation and income over a three year market cycle.\n\nFund Description\nLazard Rathmore Alternative Fund is a hedged convertibles portfolio, best described as convertible arbitrage, where typically a long convertible bond position is hedged with a short stock position in the same company. Position-level hedges are actively traded in order to monetize market volatility. In addition to generating returns from credit and volatility (\"betas\"), the team's specialized approach focuses on extracting value from special situations and events (\"alpha\"), which supplements the traditional drivers of return to convertible arbitrage strategies and allows for a strategic, long-term approach to investing in the space.",
+ "source_politique": "Factsheet",
+ "remarques": "Part C Acc EUR Hedged (couverte). Factsheet uniquement en anglais (politique en EN ; KID FR : « dégager des rendements absolus en combinant plus-values et revenus sur un cycle de marché de trois ans »). Date de création = « Share Class Launch Date 17/07/2019 » (fonds : 01/05/2018). Encours = « Fund AUM Class Currency €2,344.34m » (devise de base : $2,662.82m) ; pas de date propre (date de la factsheet). Frais de gestion = « Annual Management Fee 1.25% » ; frais courants = KID 1,35 % (factsheet « Ongoing charges 1.35% ») ; commission de performance 20 % du gain net au-delà d'un taux plancher plafonné à 5 % par an et d'un high water mark (0.8 % l'an dernier). Indice : liste d'indices du cadre « Benchmark » de la factsheet p.4, recopiée telle quelle ; la performance est « measured against the performance of any one or more » de ces indices (p.2 : « Bloomberg US Agg Total Return Value Unhedged USD » au lieu de « Bloomberg US Aggregate Index ») ; objectif de rendement absolu. Duration = « Portfolio Duration 0.8 years ». Qualité vide : notations NMV « NR 97.5 ». Exposition : LMV 156.8 %, SMV -119.8 %, NMV 37.0 %, delta 84.0 %. SFDR « Article 8 » (factsheet). Classification Défensif : arbitrage de convertibles à rendement absolu, SRI 2 — cas non évident (stratégie alternative). Allocations au 30/09/2026 : Positions = « Top Five Positions » en LMV (top 5 en NMV non repris : Akamai 2.2, Datadog 2.0, Cloudflare 2.0, Alibaba 1.6, Guidewire 1.6) ; Styles = composition par sous-stratégie en NMV (LMV : Hedged Credit 16.0, Special Situations 15.5, Volatility 68.5) ; Instruments = composition par type de titre, LMV/NAV (positifs) puis SMV/NAV (négatifs) ; Secteurs = colonne NMV/NAV (y compris couvertures négatives ; total 37.0) ; Capitalisations, Zones géographiques et Notations en NMV. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part IE00BFZ4RX34 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.4",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.4",
+  "sfdr": "factsheet p.4",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1 et p.4"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Lumentum Holdings Inc. 0.375%",
+   "pct": "4.0"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Lumentum Holdings Inc. 0.375%",
-      "pct": "4.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "InterDigital Inc. 3.5%",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Snowflake Inc. 0%",
-      "pct": "3.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IREN Ltd. 3.5%",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Cloudflare Inc. 0%",
-      "pct": "2.3"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Hedged Credit",
-      "pct": "32.2"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Special Situations",
-      "pct": "8.7"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Volatility",
-      "pct": "59.1"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Bonds",
-      "pct": "155.3"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Equity",
-      "pct": "1.5"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Preferreds",
-      "pct": "0.0"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Bonds",
-      "pct": "-6.7"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Equity",
-      "pct": "-113.1"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Preferreds",
-      "pct": "0.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Small Cap (<$2bn)",
-      "pct": "13.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Mid Cap ($2bn – $10bn)",
-      "pct": "37.2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Large Cap ($10bn – $50bn)",
-      "pct": "34.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Mega Cap (> $50bn)",
-      "pct": "15.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "North America",
-      "pct": "79.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Rest of the World",
-      "pct": "20.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "24.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "4.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "4.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "3.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "2.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energy",
-      "pct": "1.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Real Estate",
-      "pct": "1.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication Services",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Staples",
-      "pct": "0.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "0.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Macro Equity Risk Hedge",
-      "pct": "-1.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Treasury Hedge",
-      "pct": "-6.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA to BBB",
-      "pct": "2.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB to B",
-      "pct": "0.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "CCC to C",
-      "pct": "0.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "NR",
-      "pct": "97.5"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "InterDigital Inc. 3.5%",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Snowflake Inc. 0%",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IREN Ltd. 3.5%",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare Inc. 0%",
+   "pct": "2.3"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Hedged Credit",
+   "pct": "32.2"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Special Situations",
+   "pct": "8.7"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Volatility",
+   "pct": "59.1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Bonds",
+   "pct": "155.3"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Equity",
+   "pct": "1.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Preferreds",
+   "pct": "0.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Bonds",
+   "pct": "-6.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Equity",
+   "pct": "-113.1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Preferreds",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small Cap (<$2bn)",
+   "pct": "13.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mid Cap ($2bn – $10bn)",
+   "pct": "37.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large Cap ($10bn – $50bn)",
+   "pct": "34.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega Cap (> $50bn)",
+   "pct": "15.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "North America",
+   "pct": "79.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Rest of the World",
+   "pct": "20.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "24.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Macro Equity Risk Hedge",
+   "pct": "-1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Treasury Hedge",
+   "pct": "-6.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA to BBB",
+   "pct": "2.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB to B",
+   "pct": "0.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC to C",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "97.5"
+  }
+ ]
 }

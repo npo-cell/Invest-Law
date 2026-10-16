@@ -1,74 +1,170 @@
 {
-  "n": "3",
-  "isin": "IE00BKSBGS44",
-  "nom": "(ETF)FIDELITY US EQUITY RESEARCH ENHANCED USD",
-  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-30",
-  "date_creation": "2020-05-21",
-  "devise": "USD",
-  "type_fonds": "Actions américaines",
-  "compartiment": "Compartiment de Fidelity UCITS ICAV",
-  "gerants": "",
-  "encours_millions": "1870.302",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.2",
-  "sri": "4",
-  "indice": "MSCI USA (Net Total Return) Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des résultats futurs et ne doivent pas constituer le seul critère de sélection d’un produit. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l’intégralité des montants investis au départ.",
-  "politique_fr": "Objectif Le Compartiment vise une croissance du capital à long terme à partir d’un portefeuille investi essentiellement dans des actions de sociétés des États-Unis.\n\nPolitique d’investissement Le Compartiment investit essentiellement dans des actions de sociétés domiciliées ou exerçant la majorité de leurs activités économiques aux États-Unis. Le Compartiment cherche à cibler un rendement brut annualisé de 1 % supérieur à la Référence sur une période de 5 ans ou plus. Le Compartiment peut utiliser des instruments dérivés à des fins de gestion efficace du portefeuille et de couverture de change.\n\nApproche de l'investissement Le Compartiment est géré activement et se compare à la Référence (telle que définie ci-dessous) dans le cadre de sa procédure d’investissement. Le Compartiment emploie une approche quantitative pour générer un portefeuille d’investissements qui sont généralement axés sur les recommandations d’actions les plus convaincantes que les analystes en recherche du Gérant de Portefeuille ont identifiées. Le Compartiment tiendra constamment compte d’un large éventail de caractéristiques environnementales et sociales comme l’intensité carbone, les émissions carbone, l’efficacité énergétique, la gestion de l’eau et des déchets, la biodiversité, la sécurité des produits, la chaîne d’approvisionnement, la santé et la sécurité, et les droits de l’homme. Le Compartiment cherche à ce que son portefeuille obtienne un score ESG supérieur à celui de sa Référence. Pour plus d’informations, consultez la section « Politique d’investissement durable et intégration ESG », ainsi que l’annexe « Durabilité » du Prospectus.\n\nIndice de référence MSCI USA (Net Total Return) Index (la « Référence »), un indice qui ne tient pas compte des caractéristiques ESG. Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance et l’empreinte carbone. Le Compartiment dispose d’une marge de manœuvre limitée par rapport à la Référence pour choisir les investissements. Il peut présenter des pondérations différentes de la Référence et investir dans des titres qui n’y sont pas inclus en vue d’exploiter des opportunités d’investissement. Cependant, les composantes de la Référence sont généralement représentatives du portefeuille du Compartiment. Par conséquent, le portefeuille et la performance du Compartiment devraient être très similaires à ceux de la Référence.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Politique prise du KID : la factsheet ne donne que la phrase d'objectif (« Le Compartiment vise une croissance du capital à long terme… »), sans politique d'investissement. Date de création : « Lancement de la Catégorie d’Actions: 21.05.20 » (année écrite sur 2 chiffres, lue 2020). Encours = « Actif net du Compartiment (mio): USD 1870,302 » ; actif net de la catégorie d'actions : USD 1743,074 mio. Frais : KID « Frais de gestion et autres frais administratifs et d'exploitation 0.2% » ; factsheet « Frais courants de la catégorie d’Actions: 0,20% » ; pas de frais de gestion séparés. Indice : nom du KID ; la factsheet écrit « Indice: MSCI US (N) ». Gérants : aucun nom dans les documents. SFDR article 8 (factsheet et KID), aucun % durable écrit. Allocations : colonne « Fonds » seulement (10 meilleurs avoirs, exposition sectorielle, exposition géographique).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "3",
+ "isin": "IE00BKSBGS44",
+ "nom": "(ETF)FIDELITY US EQUITY RESEARCH ENHANCED USD",
+ "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2020-05-21",
+ "devise": "USD",
+ "type_fonds": "Actions américaines",
+ "compartiment": "Compartiment de Fidelity UCITS ICAV",
+ "gerants": "",
+ "encours_millions": "1870.302",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.2",
+ "sri": "4",
+ "indice": "MSCI USA (Net Total Return) Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des résultats futurs et ne doivent pas constituer le seul critère de sélection d’un produit. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l’intégralité des montants investis au départ.",
+ "politique_fr": "Objectif Le Compartiment vise une croissance du capital à long terme à partir d’un portefeuille investi essentiellement dans des actions de sociétés des États-Unis.\n\nPolitique d’investissement Le Compartiment investit essentiellement dans des actions de sociétés domiciliées ou exerçant la majorité de leurs activités économiques aux États-Unis. Le Compartiment cherche à cibler un rendement brut annualisé de 1 % supérieur à la Référence sur une période de 5 ans ou plus. Le Compartiment peut utiliser des instruments dérivés à des fins de gestion efficace du portefeuille et de couverture de change.\n\nApproche de l'investissement Le Compartiment est géré activement et se compare à la Référence (telle que définie ci-dessous) dans le cadre de sa procédure d’investissement. Le Compartiment emploie une approche quantitative pour générer un portefeuille d’investissements qui sont généralement axés sur les recommandations d’actions les plus convaincantes que les analystes en recherche du Gérant de Portefeuille ont identifiées. Le Compartiment tiendra constamment compte d’un large éventail de caractéristiques environnementales et sociales comme l’intensité carbone, les émissions carbone, l’efficacité énergétique, la gestion de l’eau et des déchets, la biodiversité, la sécurité des produits, la chaîne d’approvisionnement, la santé et la sécurité, et les droits de l’homme. Le Compartiment cherche à ce que son portefeuille obtienne un score ESG supérieur à celui de sa Référence. Pour plus d’informations, consultez la section « Politique d’investissement durable et intégration ESG », ainsi que l’annexe « Durabilité » du Prospectus.\n\nIndice de référence MSCI USA (Net Total Return) Index (la « Référence »), un indice qui ne tient pas compte des caractéristiques ESG. Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance et l’empreinte carbone. Le Compartiment dispose d’une marge de manœuvre limitée par rapport à la Référence pour choisir les investissements. Il peut présenter des pondérations différentes de la Référence et investir dans des titres qui n’y sont pas inclus en vue d’exploiter des opportunités d’investissement. Cependant, les composantes de la Référence sont généralement représentatives du portefeuille du Compartiment. Par conséquent, le portefeuille et la performance du Compartiment devraient être très similaires à ceux de la Référence.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Politique prise du KID : la factsheet ne donne que la phrase d'objectif (« Le Compartiment vise une croissance du capital à long terme… »), sans politique d'investissement. Date de création : « Lancement de la Catégorie d’Actions: 21.05.20 » (année écrite sur 2 chiffres, lue 2020). Encours = « Actif net du Compartiment (mio): USD 1870,302 » ; actif net de la catégorie d'actions : USD 1743,074 mio. Frais : KID « Frais de gestion et autres frais administratifs et d'exploitation 0.2% » ; factsheet « Frais courants de la catégorie d’Actions: 0,20% » ; pas de frais de gestion séparés. Indice : nom du KID ; la factsheet écrit « Indice: MSCI US (N) ». Gérants : aucun nom dans les documents. SFDR article 8 (factsheet et KID), aucun % durable écrit. Allocations : colonne « Fonds » seulement (10 meilleurs avoirs, exposition sectorielle, exposition géographique).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "8.4"
   },
-  "allocations": [
-    {"type": "Positions", "libelle": "NVIDIA CORP", "pct": "8.4"},
-    {"type": "Positions", "libelle": "APPLE INC", "pct": "8.1"},
-    {"type": "Positions", "libelle": "MICROSOFT CORP", "pct": "6.2"},
-    {"type": "Positions", "libelle": "ALPHABET INC", "pct": "6.2"},
-    {"type": "Positions", "libelle": "AMAZON.COM INC", "pct": "4.3"},
-    {"type": "Positions", "libelle": "META PLATFORMS INC", "pct": "3.1"},
-    {"type": "Positions", "libelle": "BROADCOM INC", "pct": "2.9"},
-    {"type": "Positions", "libelle": "MICRON TECHNOLOGY INC", "pct": "2.1"},
-    {"type": "Positions", "libelle": "JPMORGAN CHASE & CO", "pct": "1.9"},
-    {"type": "Positions", "libelle": "ADVANCED MICRO DEVICES INC", "pct": "1.7"},
-    {"type": "Secteurs", "libelle": "Technologie de l’information", "pct": "41.00"},
-    {"type": "Secteurs", "libelle": "Services financiers", "pct": "11.60"},
-    {"type": "Secteurs", "libelle": "Services de communication", "pct": "10.90"},
-    {"type": "Secteurs", "libelle": "Santé", "pct": "9.90"},
-    {"type": "Secteurs", "libelle": "Biens de consommation cyclique", "pct": "8.30"},
-    {"type": "Secteurs", "libelle": "Industries", "pct": "7.30"},
-    {"type": "Secteurs", "libelle": "Énergie", "pct": "3.00"},
-    {"type": "Secteurs", "libelle": "Biens de consommation non-cyclique", "pct": "2.90"},
-    {"type": "Secteurs", "libelle": "Immobilier", "pct": "1.80"},
-    {"type": "Secteurs", "libelle": "Matériaux", "pct": "1.80"},
-    {"type": "Secteurs", "libelle": "Services collectifs", "pct": "1.60"},
-    {"type": "Zones géographiques", "libelle": "États-Unis d’Amérique", "pct": "99.70"},
-    {"type": "Zones géographiques", "libelle": "Canada", "pct": "0.30"},
-    {"type": "Zones géographiques", "libelle": "Australie", "pct": "0.10"}
-  ]
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS INC",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICRON TECHNOLOGY INC",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JPMORGAN CHASE & CO",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES INC",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "41.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "11.60"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "10.90"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "9.90"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation cyclique",
+   "pct": "8.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "7.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation non-cyclique",
+   "pct": "2.90"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.80"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "1.80"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services collectifs",
+   "pct": "1.60"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis d’Amérique",
+   "pct": "99.70"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "0.30"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Australie",
+   "pct": "0.10"
+  }
+ ]
 }

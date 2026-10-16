@@ -1,160 +1,160 @@
 {
-  "n": "256",
-  "isin": "LU1279334053",
-  "nom": "(I/C)PICTET ROBOTICS I EUR",
-  "maison": "Pictet Asset Management (Europe) S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-06-19",
-  "date_creation": "2015-10-07",
-  "devise": "EUR",
-  "type_fonds": "Actions thématiques (robotique)",
-  "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
-  "gerants": "",
-  "encours_millions": "12833",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.09",
-  "sri": "5",
-  "indice": "MSCI AC World (EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
-  "politique_fr": "Objectif\nAugmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit principalement en actions d’entreprises qui contribuent au développement de la robotique et des technologies habilitantes ou qui en tirent un avantage. Les entreprises ciblées seront actives, principalement mais pas exclusivement, dans les domaines suivants: les applications et composants robotiques, l’automatisation, les systèmes autonomes, les capteurs, les microcontrôleurs, l’impression 3D, le traitement des données, la technologie de commande, la reconnaissance d’image, de mouvement ou vocale, ainsi que d’autres technologies et logiciels génériques. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et s’efforce d’investir principalement dans des activités économiques qui contribuent à un objectif environnemental et social tout en évitant les activités ayant une incidence négative sur la société ou l’environnement. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du fonds avec celle de l'indice de référence peut varier.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Indice : « MSCI AC World (EUR) » = indice du tableau « Informations générales » de la part en EUR (retenu selon la consigne : devise du tableau de la part) ; les objectifs (factsheet p.1, repris du DIC) citent « MSCI AC World (USD) », « Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Date de création 07.10.2015 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part EUR, devise du compartiment USD. Encours « Taille du fonds (Mio) EUR 12 833 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 1.09 », identique au KID). Aucun gérant nommé. SFDR article 8, aucun % d'investissements durables écrit. Politique : texte de la factsheet (issu du DIC).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID",
-    "sri": "KID",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "256",
+ "isin": "LU1279334053",
+ "nom": "(I/C)PICTET ROBOTICS I EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2015-10-07",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (robotique)",
+ "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+ "gerants": "",
+ "encours_millions": "12833",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.09",
+ "sri": "5",
+ "indice": "MSCI AC World (EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity Global Information Technology",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+ "politique_fr": "Objectif\nAugmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit principalement en actions d’entreprises qui contribuent au développement de la robotique et des technologies habilitantes ou qui en tirent un avantage. Les entreprises ciblées seront actives, principalement mais pas exclusivement, dans les domaines suivants: les applications et composants robotiques, l’automatisation, les systèmes autonomes, les capteurs, les microcontrôleurs, l’impression 3D, le traitement des données, la technologie de commande, la reconnaissance d’image, de mouvement ou vocale, ainsi que d’autres technologies et logiciels génériques. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et s’efforce d’investir principalement dans des activités économiques qui contribuent à un objectif environnemental et social tout en évitant les activités ayant une incidence négative sur la société ou l’environnement. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du fonds avec celle de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Indice : « MSCI AC World (EUR) » = indice du tableau « Informations générales » de la part en EUR (retenu selon la consigne : devise du tableau de la part) ; les objectifs (factsheet p.1, repris du DIC) citent « MSCI AC World (USD) », « Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Date de création 07.10.2015 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part EUR, devise du compartiment USD. Encours « Taille du fonds (Mio) EUR 12 833 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 1.09 », identique au KID). Aucun gérant nommé. SFDR article 8, aucun % d'investissements durables écrit. Politique : texte de la factsheet (issu du DIC). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1279334210 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Salesforce Inc",
+   "pct": "5.48"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Salesforce Inc",
-      "pct": "5.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Servicenow Inc",
-      "pct": "5.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Asml Holding Nv",
-      "pct": "5.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet Inc",
-      "pct": "4.84"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Atlassian Corp",
-      "pct": "4.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nvidia Corp",
-      "pct": "4.24"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Snowflake Inc",
-      "pct": "4.10"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Lam Research Corp",
-      "pct": "3.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "pct": "3.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Workday Inc",
-      "pct": "3.46"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Automatisation",
-      "pct": "56.98"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies habilitantes",
-      "pct": "28.51"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Applications pour consommateurs et services",
-      "pct": "11.12"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Trésorerie et équivalents",
-      "pct": "3.39"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "États-Unis",
-      "pct": "75.85"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Allemagne",
-      "pct": "5.50"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pays-Bas",
-      "pct": "5.00"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "4.01"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Taïwan",
-      "pct": "3.79"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Corée du Sud",
-      "pct": "1.57"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Chine",
-      "pct": "0.89"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Trésorerie et équivalents",
-      "pct": "3.39"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Servicenow Inc",
+   "pct": "5.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Asml Holding Nv",
+   "pct": "5.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc",
+   "pct": "4.84"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Atlassian Corp",
+   "pct": "4.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "4.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Snowflake Inc",
+   "pct": "4.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lam Research Corp",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "3.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Workday Inc",
+   "pct": "3.46"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Automatisation",
+   "pct": "56.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies habilitantes",
+   "pct": "28.51"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Applications pour consommateurs et services",
+   "pct": "11.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "3.39"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "75.85"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "5.50"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "5.00"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "4.01"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taïwan",
+   "pct": "3.79"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "1.57"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "0.89"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "3.39"
+  }
+ ]
 }

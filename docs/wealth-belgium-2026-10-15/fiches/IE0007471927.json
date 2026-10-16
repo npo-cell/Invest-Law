@@ -1,122 +1,122 @@
 {
-  "n": "337",
-  "isin": "IE0007471927",
-  "nom": "(I/C)VANGUARD U.S. GOVERNMENT BOND INDEX FUND USD",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2002-01-31",
-  "devise": "USD",
-  "type_fonds": "Obligataire (emprunts d'État américains)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "U.S. Bond Index Team",
-  "encours_millions": "6610",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.12",
-  "sri": "3",
-  "indice": "Bloomberg U.S. Government Float Adjusted Bond Index",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "5.6 ans",
-  "qualite_emetteurs": "AA+",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et vise à répliquer la performance de l’indice Bloomberg U.S. Government Float Adjusted Bond (l’« Indice »).\n• L’Indice inclut des obligations d’État des États-Unis libellées en dollars US, assorties d’échéances supérieures à un an.\n• Le Fonds vise à : 1. Répliquer la performance de l’Indice en investissant dans un portefeuille de titres qui, dans la mesure du possible, constitue un échantillon représentatif des titres qui composent l’Indice. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « USD Acc » ; KID : « Vanguard U.S. Government Bond Index Fund (le \"Fonds\") - USD Accumulation Shares ». Date de création « 31 janvier 2002 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 6 610 $ » (fonds) ; encours de la classe d'actifs 851 $. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.12 % (identique au « Montant des frais courants (MFC) » 0,12 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. La factsheet précise : « L’indice de référence pour ce portefeuille était Bloomberg Global Aggregate U.S. Government Bond Index jusqu.au 30 juin 2010, Bloomberg Global Aggregate U.S. Government Float Adjusted Bond Index par la suite » (non repris dans la case Indice). Gérant : équipe « U.S. Bond Index Team » (rubrique « Gestionnaire de portefeuille », sous Vanguard Global Advisers, LLC). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Duration = « Duration moyenne » ; qualité = « Qualité moyenne » (tableau Caractéristiques, fonds). Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays ; « Ventilation par type d'emetteur » classée en Secteurs ; « Distribution en fonction des échéances » en Maturités ; « Répartition par qualité du crédit » en Notations.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1",
-    "duration": "factsheet p.3",
-    "qualite_emetteurs": "factsheet p.3"
+ "n": "337",
+ "isin": "IE0007471927",
+ "nom": "(I/C)VANGUARD U.S. GOVERNMENT BOND INDEX FUND USD",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2002-01-31",
+ "devise": "USD",
+ "type_fonds": "Obligataire (emprunts d'État américains)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "U.S. Bond Index Team",
+ "encours_millions": "6610",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.12",
+ "sri": "3",
+ "indice": "Bloomberg U.S. Government Float Adjusted Bond Index",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "5.6 ans",
+ "qualite_emetteurs": "AA+",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et vise à répliquer la performance de l’indice Bloomberg U.S. Government Float Adjusted Bond (l’« Indice »).\n• L’Indice inclut des obligations d’État des États-Unis libellées en dollars US, assorties d’échéances supérieures à un an.\n• Le Fonds vise à : 1. Répliquer la performance de l’Indice en investissant dans un portefeuille de titres qui, dans la mesure du possible, constitue un échantillon représentatif des titres qui composent l’Indice. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « USD Acc » ; KID : « Vanguard U.S. Government Bond Index Fund (le \"Fonds\") - USD Accumulation Shares ». Date de création « 31 janvier 2002 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 6 610 $ » (fonds) ; encours de la classe d'actifs 851 $. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.12 % (identique au « Montant des frais courants (MFC) » 0,12 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. La factsheet précise : « L’indice de référence pour ce portefeuille était Bloomberg Global Aggregate U.S. Government Bond Index jusqu.au 30 juin 2010, Bloomberg Global Aggregate U.S. Government Float Adjusted Bond Index par la suite » (non repris dans la case Indice). Gérant : équipe « U.S. Bond Index Team » (rubrique « Gestionnaire de portefeuille », sous Vanguard Global Advisers, LLC). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Duration = « Duration moyenne » ; qualité = « Qualité moyenne » (tableau Caractéristiques, fonds). Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays ; « Ventilation par type d'emetteur » classée en Secteurs ; « Distribution en fonction des échéances » en Maturités ; « Répartition par qualité du crédit » en Notations.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.3"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "99.8"
   },
-  "allocations": [
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "99.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "0.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Moins de 1 an",
-      "pct": "0.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "1 - 5 ans",
-      "pct": "57.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5 - 10 ans",
-      "pct": "21.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "10 - 15 ans",
-      "pct": "2.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "15 - 20 ans",
-      "pct": "7.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "20 - 25 ans",
-      "pct": "3.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Plus de 25 ans",
-      "pct": "7.3"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "99.8"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Sans notation",
-      "pct": "0.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Bons du Trésor/Obligations fédérales",
-      "pct": "98.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liés au gouvernement - agences",
-      "pct": "0.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités*",
-      "pct": "0.3"
-    }
-  ]
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "0.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Moins de 1 an",
+   "pct": "0.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 - 5 ans",
+   "pct": "57.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5 - 10 ans",
+   "pct": "21.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10 - 15 ans",
+   "pct": "2.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "15 - 20 ans",
+   "pct": "7.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20 - 25 ans",
+   "pct": "3.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Plus de 25 ans",
+   "pct": "7.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "99.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans notation",
+   "pct": "0.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bons du Trésor/Obligations fédérales",
+   "pct": "98.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liés au gouvernement - agences",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités*",
+   "pct": "0.3"
+  }
+ ]
 }

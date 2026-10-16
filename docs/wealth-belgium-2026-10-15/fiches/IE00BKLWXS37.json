@@ -1,202 +1,202 @@
 {
-  "n": "313",
-  "isin": "IE00BKLWXS37",
-  "nom": "(I/C)VANGUARD EMERGING MARKETS BOND FUND EUR",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2019-12-03",
-  "devise": "EUR",
-  "type_fonds": "Obligataire marchés émergents",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Global Fixed Income Team",
-  "encours_millions": "2306",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.60",
-  "sri": "3",
-  "indice": "J.P. Morgan EMBI Global Diversified Index in EUR",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "5.9 ans",
-  "qualite_emetteurs": "BB+",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds vise à générer un rendement total tout en dégageant un niveau de revenu modéré en investissant principalement dans des obligations d’émetteurs de pays à marché émergent.\n• Le Fonds a recours à une stratégie de « gestion active », et alors qu’il investira de manière dans des composantes de l’indice J.P. Morgan EMBI Global Diversified (l’« Indice »), son gestionnaire de portefeuille suivra des approches distinctes dans la gestion des actifs du Fonds.\n• Le Fonds investit dans des titres à revenu fixe d’échéances, de qualités et de rendements différents. Dans des circonstances normales, le Fonds investira au moins 80 % de ses actifs dans des titres à revenu fixe d’émetteurs qui sont économiquement liés aux pays à marché émergent. Le Fonds cherche à ce qu’une majorité de ses actifs soient libellés en dollar américain ou couverts dans cette devise, mais il peut investir dans des obligations libellées dans une devise locale sur une base non couverte. Les obligations des marchés émergents incluent les titres de créance souverains, qui comprennent des titres à revenu fixe émis ou garantis par des gouvernements étrangers ou leurs agences, administrations, sous-divisions politiques ou organismes, ou d’autres agences supranationales, ainsi que des titres de créance émis ou garantis par des sociétés ou des institutions financières étrangères.\n• Le Gestionnaire d’investissement peut, à son entière discrétion, restreindre l’ampleur de la déviation des participations du Fonds par rapport aux composantes de l’Indice en se basant sur la sélection de titres et le segment du revenu fixe. Le Fonds peut faire l’objet d’une gestion active basée sur les perspectives du Gestionnaire d’investissement en matière de revenu fixe, axée sur une sélection spécifique de titres obligataires. Le Gestionnaire d’investissement peut appliquer des contraintes pouvant limiter l’ampleur de la surperformance du Fonds par rapport à l’Indice, lesquelles sont susceptibles de réduire le potentiel de volatilité de l’écart entre le rendement du Fonds et celui de l’Indice. Le Gestionnaire d’investissement a toute discrétion pour modifier ou supprimer au besoin de telles contraintes, selon les environnements de marché.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Hedged Acc (KID : « Investor EUR Hedged Accumulation Shares »). Date de création « 03 décembre 2019 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : « Vanguard Global Advisers, LLC – Global Fixed Income Team » (équipe). Encours = « Encours total (million) 2 306 € » (encours de la classe : 422 €). Frais de gestion non indiqués ; frais courants 0,60 % (KID, = MFC factsheet). Indice : gestion active visant à « surperformer l’Indice J.P. Morgan EMBI Global Diversified Index » (KID) ; version couverte en EUR indiquée pour la classe dans la factsheet. Duration = « Duration moyenne 5,9 ans » ; « Qualité moyenne BB+ » ; rendement le plus défavorable 6,26 %. SFDR : aucun article mentionné dans la factsheet ni le KID. Classification Défensif : obligataire (marchés émergents), SRI 3. Politique : bloc « Objectifs et politique d'investissement » p.1 copié tel quel (« investira de manière dans des composantes » : coquille du document). Allocations au 31 août 2026 : 10 premiers marchés (type Pays, dont « Autres »), échéances, qualité de crédit et type d'émetteur (type « Instruments », « Autre » négatif conservé).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "duration": "factsheet p.3",
-    "qualite_emetteurs": "factsheet p.3",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "313",
+ "isin": "IE00BKLWXS37",
+ "nom": "(I/C)VANGUARD EMERGING MARKETS BOND FUND EUR",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2019-12-03",
+ "devise": "EUR",
+ "type_fonds": "Obligataire marchés émergents",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Global Fixed Income Team",
+ "encours_millions": "2306",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.60",
+ "sri": "3",
+ "indice": "J.P. Morgan EMBI Global Diversified Index in EUR",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "5.9 ans",
+ "qualite_emetteurs": "BB+",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds vise à générer un rendement total tout en dégageant un niveau de revenu modéré en investissant principalement dans des obligations d’émetteurs de pays à marché émergent.\n• Le Fonds a recours à une stratégie de « gestion active », et alors qu’il investira de manière dans des composantes de l’indice J.P. Morgan EMBI Global Diversified (l’« Indice »), son gestionnaire de portefeuille suivra des approches distinctes dans la gestion des actifs du Fonds.\n• Le Fonds investit dans des titres à revenu fixe d’échéances, de qualités et de rendements différents. Dans des circonstances normales, le Fonds investira au moins 80 % de ses actifs dans des titres à revenu fixe d’émetteurs qui sont économiquement liés aux pays à marché émergent. Le Fonds cherche à ce qu’une majorité de ses actifs soient libellés en dollar américain ou couverts dans cette devise, mais il peut investir dans des obligations libellées dans une devise locale sur une base non couverte. Les obligations des marchés émergents incluent les titres de créance souverains, qui comprennent des titres à revenu fixe émis ou garantis par des gouvernements étrangers ou leurs agences, administrations, sous-divisions politiques ou organismes, ou d’autres agences supranationales, ainsi que des titres de créance émis ou garantis par des sociétés ou des institutions financières étrangères.\n• Le Gestionnaire d’investissement peut, à son entière discrétion, restreindre l’ampleur de la déviation des participations du Fonds par rapport aux composantes de l’Indice en se basant sur la sélection de titres et le segment du revenu fixe. Le Fonds peut faire l’objet d’une gestion active basée sur les perspectives du Gestionnaire d’investissement en matière de revenu fixe, axée sur une sélection spécifique de titres obligataires. Le Gestionnaire d’investissement peut appliquer des contraintes pouvant limiter l’ampleur de la surperformance du Fonds par rapport à l’Indice, lesquelles sont susceptibles de réduire le potentiel de volatilité de l’écart entre le rendement du Fonds et celui de l’Indice. Le Gestionnaire d’investissement a toute discrétion pour modifier ou supprimer au besoin de telles contraintes, selon les environnements de marché.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Hedged Acc (KID : « Investor EUR Hedged Accumulation Shares »). Date de création « 03 décembre 2019 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : « Vanguard Global Advisers, LLC – Global Fixed Income Team » (équipe). Encours = « Encours total (million) 2 306 € » (encours de la classe : 422 €). Frais de gestion non indiqués ; frais courants 0,60 % (KID, = MFC factsheet). Indice : gestion active visant à « surperformer l’Indice J.P. Morgan EMBI Global Diversified Index » (KID) ; version couverte en EUR indiquée pour la classe dans la factsheet. Duration = « Duration moyenne 5,9 ans » ; « Qualité moyenne BB+ » ; rendement le plus défavorable 6,26 %. SFDR : aucun article mentionné dans la factsheet ni le KID. Classification Défensif : obligataire (marchés émergents), SRI 3. Politique : bloc « Objectifs et politique d'investissement » p.1 copié tel quel (« investira de manière dans des composantes » : coquille du document). Allocations au 31 août 2026 : 10 premiers marchés (type Pays, dont « Autres »), échéances, qualité de crédit et type d'émetteur (type « Instruments », « Autre » négatif conservé).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "duration": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.3",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "8.6"
   },
-  "allocations": [
-    {
-      "type": "Pays",
-      "libelle": "Mexique",
-      "pct": "8.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "6.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Turquie",
-      "pct": "5.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "L'Indonésie",
-      "pct": "5.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "L'Argentine",
-      "pct": "4.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Dominican Republic",
-      "pct": "4.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "3.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Saudi Arabia",
-      "pct": "3.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "L'Hongrie",
-      "pct": "3.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Afrique du Sud",
-      "pct": "3.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Moins de 1 an",
-      "pct": "9.1"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "1 - 5 ans",
-      "pct": "27.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5 - 10 ans",
-      "pct": "43.1"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "10 - 15 ans",
-      "pct": "5.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "15 - 20 ans",
-      "pct": "0.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "20 - 25 ans",
-      "pct": "4.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Plus de 25 ans",
-      "pct": "9.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "4.4"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "6.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "30.2"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Inférieur à BBB",
-      "pct": "51.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Sans notation",
-      "pct": "7.7"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Liés au gouvernement - souverains",
-      "pct": "71.9"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Liés au gouvernement - agences",
-      "pct": "12.5"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Bons du Trésor/Obligations fédérales",
-      "pct": "6.8"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Liquidités*",
-      "pct": "6.3"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Entreprise - Industrie",
-      "pct": "1.6"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Entreprise - services aux Collectivités",
-      "pct": "0.6"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Liés au gouvernement - collectivités locales",
-      "pct": "0.3"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Autre",
-      "pct": "-0.1"
-    }
-  ]
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "6.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Turquie",
+   "pct": "5.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "L'Indonésie",
+   "pct": "5.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "L'Argentine",
+   "pct": "4.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Dominican Republic",
+   "pct": "4.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "3.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Saudi Arabia",
+   "pct": "3.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "L'Hongrie",
+   "pct": "3.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du Sud",
+   "pct": "3.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Moins de 1 an",
+   "pct": "9.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 - 5 ans",
+   "pct": "27.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5 - 10 ans",
+   "pct": "43.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10 - 15 ans",
+   "pct": "5.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "15 - 20 ans",
+   "pct": "0.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20 - 25 ans",
+   "pct": "4.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Plus de 25 ans",
+   "pct": "9.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "4.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "6.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "30.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Inférieur à BBB",
+   "pct": "51.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans notation",
+   "pct": "7.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liés au gouvernement - souverains",
+   "pct": "71.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liés au gouvernement - agences",
+   "pct": "12.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Bons du Trésor/Obligations fédérales",
+   "pct": "6.8"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités*",
+   "pct": "6.3"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Entreprise - Industrie",
+   "pct": "1.6"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Entreprise - services aux Collectivités",
+   "pct": "0.6"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liés au gouvernement - collectivités locales",
+   "pct": "0.3"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Autre",
+   "pct": "-0.1"
+  }
+ ]
 }

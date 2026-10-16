@@ -1,97 +1,97 @@
 {
-  "n": "5",
-  "isin": "IE000RDRMSD1",
-  "nom": "(ETF)ISHARES BLOCKCHAIN TECHNOLOGY UCITS USD",
-  "maison": "BLACKROCK ASSET MANAGEMENT IRELAND LTD",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-07-07",
-  "date_creation": "2022-09-27",
-  "devise": "USD",
-  "type_fonds": "Actions thématiques (blockchain)",
-  "compartiment": "Le Fonds est un compartiment d’iShares III plc, une société à compartiments multiples constituée en Irlande, agréée par la Banque centrale d’Irlande en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
-  "gerants": "",
-  "encours_millions": "350.27",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.50",
-  "sri": "6",
-  "indice": "NYSE FactSet Global Blockchain Technologies Capped Index (USD)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi.",
-  "politique_fr": "Objectifs\nLa Catégorie d’actions est une catégorie d’actions d’un Fonds qui vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, qui soit similaire au rendement du NYSE FactSet Global Blockchain Technologies Capped Index, l’indice de référence du Fonds (Indice).\n\nLa Catégorie d’actions, par l’intermédiaire du Fonds, est passivement gérée et vise à investir, dans la mesure du possible, dans des titres de participation (par ex. des actions) qui constituent l’Indice.\n\nL’Indice mesure la performance de sociétés cotées à l’échelle mondiale impliquées dans la recherche, l’habilitation, le développement et le déploiement de technologies et d’applications de la blockchain et des cryptomonnaies qui répondent aux critères de taille, de liquidité et de flottant du fournisseur d’indices.\n\nLes titres de sociétés dont l’activité principale est la recherche, le développement et le déploiement de technologies de la blockchain, l’extraction et la négociation de cryptomonnaie, ainsi que les cas d’utilisation plus larges de la blockchain au-delà des cryptomonnaies sont classés dans la catégorie de Niveau 1. Les titres de sociétés qui conçoivent et fabriquent des processeurs graphiques (GPU) nécessaires à la validation (« extraction ») de blocs dans le réseau de la blockchain et les titres de sociétés dont les activités auxiliaires sont les technologies et applications de la blockchain (telles que décrites dans le cadre du Niveau 1 ci-dessus) sont classés dans la catégorie de Niveau 2.\n\nL’Indice vise à avoir au moins 75 % de titres de Niveau 1, sous réserve du plafonnement des pondérations de titres individuels (12 % pour les titres de Niveau 1, à condition que la pondération cumulée des titres de Niveau 1 dont les pondérations sont supérieures à 4,5 % ne dépasse pas 45 %, et 4 % pour les titres de Niveau 2) et du plafonnement supplémentaire des titres jugés moins liquides conformément aux critères du fournisseur d’indices.\n\nLe Fonds entend reproduire l’indice de référence en détenant les titres de participation qui composent l’Indice dans des proportions similaires à celles de cet indice. Le gestionnaire d’investissement peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) pour atteindre l’objectif d’investissement du Fonds. Les IFD (notamment les contrats de change à terme) peuvent être utilisés à des fins d’investissement direct.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Politique prise du KID (section « Objectifs ») : la factsheet ne contient qu'une phrase d'aperçu et des « principaux avantages » commerciaux. Date de création = date de lancement de la catégorie d'actions et du fonds (27-sept.-2022). Encours = « Encours sous gestion (M) : 350,27 USD » (actif net de la catégorie identique) au 30/09/2026. Frais : KID « Frais de gestion et autres coûts administratifs ou frais d’exploitation 0,50 % » ; factsheet « Ratio des charges totales : 0,50% » ; pas de frais de gestion séparés. SFDR : la factsheet indique « Classification SFDR : Autre » (ni article 8 ni 9) → vide. Gérants : aucun nom. ETF indiciel à réplication physique totale. Allocations : seules les 10 principales positions sont en texte ; les répartitions par secteurs et géographique sont des graphiques sans valeurs lisibles dans le texte du PDF (non reprises). Le nom One Life indique BLACKROCK ASSET MANAGEMENT IRELAND LTD ; la factsheet cite « Société de gestion : iShares III plc ».",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "disclaimer": "factsheet p.1-2",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "5",
+ "isin": "IE000RDRMSD1",
+ "nom": "(ETF)ISHARES BLOCKCHAIN TECHNOLOGY UCITS USD",
+ "maison": "BLACKROCK ASSET MANAGEMENT IRELAND LTD",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-07",
+ "date_creation": "2022-09-27",
+ "devise": "USD",
+ "type_fonds": "Actions thématiques (blockchain)",
+ "compartiment": "Le Fonds est un compartiment d’iShares III plc, une société à compartiments multiples constituée en Irlande, agréée par la Banque centrale d’Irlande en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "",
+ "encours_millions": "350.27",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.50",
+ "sri": "6",
+ "indice": "NYSE FactSet Global Blockchain Technologies Capped Index (USD)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. RISQUE DE PERTE EN CAPITAL: La valeur des investissements et les revenus qui en découlent peuvent baisser comme augmenter et ne sont pas garantis. Les investisseurs peuvent ne pas récupérer le montant initialement investi.",
+ "politique_fr": "Objectifs\nLa Catégorie d’actions est une catégorie d’actions d’un Fonds qui vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds, qui soit similaire au rendement du NYSE FactSet Global Blockchain Technologies Capped Index, l’indice de référence du Fonds (Indice).\n\nLa Catégorie d’actions, par l’intermédiaire du Fonds, est passivement gérée et vise à investir, dans la mesure du possible, dans des titres de participation (par ex. des actions) qui constituent l’Indice.\n\nL’Indice mesure la performance de sociétés cotées à l’échelle mondiale impliquées dans la recherche, l’habilitation, le développement et le déploiement de technologies et d’applications de la blockchain et des cryptomonnaies qui répondent aux critères de taille, de liquidité et de flottant du fournisseur d’indices.\n\nLes titres de sociétés dont l’activité principale est la recherche, le développement et le déploiement de technologies de la blockchain, l’extraction et la négociation de cryptomonnaie, ainsi que les cas d’utilisation plus larges de la blockchain au-delà des cryptomonnaies sont classés dans la catégorie de Niveau 1. Les titres de sociétés qui conçoivent et fabriquent des processeurs graphiques (GPU) nécessaires à la validation (« extraction ») de blocs dans le réseau de la blockchain et les titres de sociétés dont les activités auxiliaires sont les technologies et applications de la blockchain (telles que décrites dans le cadre du Niveau 1 ci-dessus) sont classés dans la catégorie de Niveau 2.\n\nL’Indice vise à avoir au moins 75 % de titres de Niveau 1, sous réserve du plafonnement des pondérations de titres individuels (12 % pour les titres de Niveau 1, à condition que la pondération cumulée des titres de Niveau 1 dont les pondérations sont supérieures à 4,5 % ne dépasse pas 45 %, et 4 % pour les titres de Niveau 2) et du plafonnement supplémentaire des titres jugés moins liquides conformément aux critères du fournisseur d’indices.\n\nLe Fonds entend reproduire l’indice de référence en détenant les titres de participation qui composent l’Indice dans des proportions similaires à celles de cet indice. Le gestionnaire d’investissement peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) pour atteindre l’objectif d’investissement du Fonds. Les IFD (notamment les contrats de change à terme) peuvent être utilisés à des fins d’investissement direct.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Politique prise du KID (section « Objectifs ») : la factsheet ne contient qu'une phrase d'aperçu et des « principaux avantages » commerciaux. Date de création = date de lancement de la catégorie d'actions et du fonds (27-sept.-2022). Encours = « Encours sous gestion (M) : 350,27 USD » (actif net de la catégorie identique) au 30/09/2026. Frais : KID « Frais de gestion et autres coûts administratifs ou frais d’exploitation 0,50 % » ; factsheet « Ratio des charges totales : 0,50% » ; pas de frais de gestion séparés. SFDR : la factsheet indique « Classification SFDR : Autre » (ni article 8 ni 9) → vide. Gérants : aucun nom. ETF indiciel à réplication physique totale. Allocations : seules les 10 principales positions sont en texte ; les répartitions par secteurs et géographique sont des graphiques sans valeurs lisibles dans le texte du PDF (non reprises). Le nom One Life indique BLACKROCK ASSET MANAGEMENT IRELAND LTD ; la factsheet cite « Société de gestion : iShares III plc ».",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "COINBASE GLOBAL INC CLASS A",
+   "pct": "12.73"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "COINBASE GLOBAL INC CLASS A",
-      "pct": "12.73"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CIRCLE INTERNET GROUP INC CLASS A",
-      "pct": "10.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IREN",
-      "pct": "8.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HUT CORP",
-      "pct": "6.11"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ADVANCED MICRO DEVICES",
-      "pct": "5.38"
-    },
-    {
-      "type": "Positions",
-      "libelle": "RIOT PLATFORMS",
-      "pct": "4.47"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA",
-      "pct": "4.17"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TENCENT HOLDINGS",
-      "pct": "4.09"
-    },
-    {
-      "type": "Positions",
-      "libelle": "APPLIED DIGITAL",
-      "pct": "4.09"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MASTERCARD CLASS A",
-      "pct": "4.00"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "CIRCLE INTERNET GROUP INC CLASS A",
+   "pct": "10.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IREN",
+   "pct": "8.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HUT CORP",
+   "pct": "6.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES",
+   "pct": "5.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RIOT PLATFORMS",
+   "pct": "4.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA",
+   "pct": "4.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TENCENT HOLDINGS",
+   "pct": "4.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLIED DIGITAL",
+   "pct": "4.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MASTERCARD CLASS A",
+   "pct": "4.00"
+  }
+ ]
 }

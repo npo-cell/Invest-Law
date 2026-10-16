@@ -1,292 +1,292 @@
 {
-  "n": "163",
-  "isin": "LU1165637460",
-  "nom": "(I/C)IVO EM CORPORATE DEBT I EUR",
-  "maison": "IVO Capital Partners",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-04-13",
-  "date_creation": "2015-04-24",
-  "devise": "EUR",
-  "type_fonds": "Obligataire",
-  "compartiment": "IVO EMERGING MARKETS CORPORATE DEBT est un compartiment d’IVO FUNDS, organisme de Placement Collectif en Valeurs Mobilières (OPCVM) soumis au droit luxembourgeois géré par IVO CAPITAL PARTNERS.",
-  "gerants": "",
-  "encours_millions": "1705.6",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "1",
-  "frais_courants": "1.16",
-  "sri": "2",
-  "indice": "",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "3.1 (sensibilité)",
-  "qualite_emetteurs": "BB-",
-  "disclaimer": "Les performances passées ne présagent pas des performances futures.",
-  "politique_fr": "IVO Emerging Markets Corporate Debt est un fonds de sélection d’obligations d’entreprises de pays émergents libellées en devises dures (EUR ou USD) et couvertes du risque de change, offrant un bon potentiel de valorisation et de portage. Son objectif est de profiter des inefficiences structurelles des marchés émergents en restant sélectif sur le risque crédit et prudent sur le risque de taux.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Rapport mensuel FR au 31/08/2026 (Part I cap EUR). Politique : paragraphe de présentation de la factsheet (p.1, contient l'objectif) ; le KID (13/04/2026) a une section « Objectifs / Politique d’investissement » plus détaillée, non reprise. Date de création = « Date de lancement de la part : 24 avril 2015 » (même date pour le fonds). Encours = « Actif net du fonds : €1705,6M ». Gérants : aucun nom dans les documents. Frais de gestion = « Part I cap EUR - 1% » ; frais courants = KID 1,16 % ; commission de surperformance 15 % au-delà de l'EURIBOR 3M + 200 bps (High Water Mark). Indice vide (divergence) : la factsheet affiche « Indice de référence : J.P. Morgan CEMBI Broad Diversified hedged in EUR » (comparaison des performances) alors que le KID fixe l'objectif de « performance supérieure à l’indicateur de référence suivant [...] : EURIBOR 3 mois ». SRI 2 selon le KID (« classe de risque 2 sur 7 »), malgré une notation moyenne BB- en dette émergente. Duration = « Sensibilité taux ajustée 3,1 » (le commentaire indique « une duration de 3,1 ans ») ; « Sensibilité crédit ajustée 2,6 » non reprise. Qualité = « Notation moyenne BB- ». Classification Défensif : fonds obligataire (dette d'entreprises émergentes, majoritairement haut rendement) — cas limite avec Agressif. Allocations lues sur graphiques : pays (Top 10) et secteurs appariés par position verticale (bbox), notations et durations appariées dans l'ordre de la légende et du sens du camembert ; « Répartition par duration » classée en Maturités ; « rang de séniorité » classé en Instruments. Positions = « Top 5 positions » ; pays et secteur non repris dans le libellé.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.2",
-    "compartiment": "KID p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.1",
-    "qualite_emetteurs": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "163",
+ "isin": "LU1165637460",
+ "nom": "(I/C)IVO EM CORPORATE DEBT I EUR",
+ "maison": "IVO Capital Partners",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-13",
+ "date_creation": "2015-04-24",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "IVO EMERGING MARKETS CORPORATE DEBT est un compartiment d’IVO FUNDS, organisme de Placement Collectif en Valeurs Mobilières (OPCVM) soumis au droit luxembourgeois géré par IVO CAPITAL PARTNERS.",
+ "gerants": "",
+ "encours_millions": "1705.6",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1",
+ "frais_courants": "1.16",
+ "sri": "2",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.1 (sensibilité)",
+ "qualite_emetteurs": "BB-",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures.",
+ "politique_fr": "IVO Emerging Markets Corporate Debt est un fonds de sélection d’obligations d’entreprises de pays émergents libellées en devises dures (EUR ou USD) et couvertes du risque de change, offrant un bon potentiel de valorisation et de portage. Son objectif est de profiter des inefficiences structurelles des marchés émergents en restant sélectif sur le risque crédit et prudent sur le risque de taux.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Rapport mensuel FR au 31/08/2026 (Part I cap EUR). Politique : paragraphe de présentation de la factsheet (p.1, contient l'objectif) ; le KID (13/04/2026) a une section « Objectifs / Politique d’investissement » plus détaillée, non reprise. Date de création = « Date de lancement de la part : 24 avril 2015 » (même date pour le fonds). Encours = « Actif net du fonds : €1705,6M ». Gérants : aucun nom dans les documents. Frais de gestion = « Part I cap EUR - 1% » ; frais courants = KID 1,16 % ; commission de surperformance 15 % au-delà de l'EURIBOR 3M + 200 bps (High Water Mark). Indice vide (divergence) : la factsheet affiche « Indice de référence : J.P. Morgan CEMBI Broad Diversified hedged in EUR » (comparaison des performances) alors que le KID fixe l'objectif de « performance supérieure à l’indicateur de référence suivant [...] : EURIBOR 3 mois ». SRI 2 selon le KID (« classe de risque 2 sur 7 »), malgré une notation moyenne BB- en dette émergente. Duration = « Sensibilité taux ajustée 3,1 » (le commentaire indique « une duration de 3,1 ans ») ; « Sensibilité crédit ajustée 2,6 » non reprise. Qualité = « Notation moyenne BB- ». Classification Défensif : fonds obligataire (dette d'entreprises émergentes, majoritairement haut rendement) — cas limite avec Agressif. Allocations lues sur graphiques : pays (Top 10) et secteurs appariés par position verticale (bbox), notations et durations appariées dans l'ordre de la légende et du sens du camembert ; « Répartition par duration » classée en Maturités ; « rang de séniorité » classé en Instruments. Positions = « Top 5 positions » ; pays et secteur non repris dans le libellé.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Continuum 2033 USD",
+   "pct": "1.9"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Continuum 2033 USD",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nova Ljubljanska EUR",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Cox Asset Mexico USD",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CGC 2030 USD",
-      "pct": "1.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Peru LNG 2030 USD",
-      "pct": "1.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique Latine",
-      "pct": "31.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe émergente",
-      "pct": "27.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Afrique Moyen-Orient",
-      "pct": "22.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie",
-      "pct": "11.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe",
-      "pct": "1.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "EM Diversifié",
-      "pct": "0.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "0.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Liquidités",
-      "pct": "5.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Brésil",
-      "pct": "12.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Turquie",
-      "pct": "10.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Inde",
-      "pct": "5.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Argentine",
-      "pct": "4.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Mexique",
-      "pct": "4.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Estonie",
-      "pct": "4.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "République tchèque",
-      "pct": "3.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Ouzbékistan",
-      "pct": "3.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Angola",
-      "pct": "2.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Colombie",
-      "pct": "2.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "24.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financières",
-      "pct": "17.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Pétrole & Gaz",
-      "pct": "12.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "10.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "TMT",
-      "pct": "7.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Transport",
-      "pct": "5.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Métaux & Minières",
-      "pct": "4.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobillier",
-      "pct": "3.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Infrastructure",
-      "pct": "3.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation",
-      "pct": "2.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Souverain",
-      "pct": "0.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autre",
-      "pct": "1.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "5.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Poche IG",
-      "pct": "3.2"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "32.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B",
-      "pct": "44.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "CCC",
-      "pct": "4.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Non noté",
-      "pct": "9.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Liquidités",
-      "pct": "5.5"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Senior Bonds",
-      "pct": "82.7"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Subordinated Bonds",
-      "pct": "17.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "0-3Y",
-      "pct": "55.1"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "3-5Y",
-      "pct": "39.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5-7Y",
-      "pct": "5.4"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "7-10Y",
-      "pct": "0.1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Nova Ljubljanska EUR",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cox Asset Mexico USD",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CGC 2030 USD",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Peru LNG 2030 USD",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "31.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe émergente",
+   "pct": "27.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique Moyen-Orient",
+   "pct": "22.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "11.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "EM Diversifié",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "0.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "5.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "12.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Turquie",
+   "pct": "10.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "5.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Argentine",
+   "pct": "4.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "4.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Estonie",
+   "pct": "4.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "République tchèque",
+   "pct": "3.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Ouzbékistan",
+   "pct": "3.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Angola",
+   "pct": "2.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Colombie",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "24.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "17.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pétrole & Gaz",
+   "pct": "12.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "10.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "TMT",
+   "pct": "7.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Transport",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Métaux & Minières",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobillier",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Infrastructure",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Souverain",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "5.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Poche IG",
+   "pct": "3.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "32.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "44.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "4.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "9.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "5.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Senior Bonds",
+   "pct": "82.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Subordinated Bonds",
+   "pct": "17.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-3Y",
+   "pct": "55.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5Y",
+   "pct": "39.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7Y",
+   "pct": "5.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10Y",
+   "pct": "0.1"
+  }
+ ]
 }

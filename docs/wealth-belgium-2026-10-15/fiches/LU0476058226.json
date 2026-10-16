@@ -1,158 +1,158 @@
 {
-  "n": "223",
-  "isin": "LU0476058226",
-  "nom": "(I/C)MERCLIN II PATRIMONIUM R EUR",
-  "maison": "Van Lanschot Kempen Investment Management NV",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-08-01",
-  "date_creation": "2009-12-31",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs",
-  "compartiment": "MercLan Patrimonium est un compartiment de Kempen International Funds",
-  "gerants": "",
-  "encours_millions": "4303.6",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.14",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Il s'agit de chiffres de rendement annuels basés sur des données historiques qui ne garantissent en aucun cas des rendements futurs et peuvent être trompeurs.",
-  "politique_fr": "MercLan Patrimonium a pour objectif d’augmenter la valeur de votre investissement sur le long terme. Dans des conditions normales de marché, le compartiment investit principalement dans un portefeuille diversifié d'actions, d'obligations, d'obligations convertibles, d'instruments du marché monétaire et dans d'autres fonds d'investissement. Les investissements en actions peuvent varier entre 0% et 75% de l'actif net. Afin de tirer parti ou de se couvrir contre des fluctuations de marché, ou encore pour une gestion de portefeuille efficace, le compartiment peut avoir recours à des instruments dérivés. Le compartiment est géré activement sans lien avec un quelconque indice de référence. Le gestionnaire choisit de manière flexible entre les différentes classes d’investissement, les secteurs et les pays sur base de critères macro-économiques et financiers.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Fonds devenu MercLan Patrimonium (compartiment de Kempen International Funds SICAV, successeur depuis le 31/03/2023 de Patrimonium de MercLin II SICAV créé le 21/12/2009) ; part = Classe R cap (LU0476058226), factsheet multi-parts. Date de création = date de référence « Depuis création » de la Classe R (« R: 31/12/2009 ») ; création du compartiment actuel : 31 mars 2023 — à confirmer. Gérant : aucun nom de personne (seul « Gestionnaire financier: Mercier Van Lanschot », société). Encours = « Encours 4303,6m EUR » (compartiment), sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,14 % (identique à la ligne « Frais de gestion et autres frais d'admin. ou d'exploitation » de la factsheet pour R cap) ; « Frais courants » factsheet R cap 1,30 % (y compris frais de transaction 0,16 %) ; pas de commission de gestion séparée. Indice « Aucun » : « géré activement sans lien avec un quelconque indice de référence » (factsheet) et « n'a pas d'indice de référence » (KID). SFDR article 8 (factsheet p.4 et KID), aucun % durable écrit. Classification Equilibré : actions entre 0 % et 75 % (55,0 % actuellement), SRI 3 ; cas limite avec Dynamique. Politique : premier paragraphe du bloc « Politique d'investissement » (paragraphe sur les investisseurs visés non repris). Disclaimer : phrase de la note 2 de la factsheet. Allocations : répartition sectorielle de la poche actions ; « Catégories d'obligations » repris en type Instruments ; « Rating des obligations » en Notations.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "KID p.1",
-    "compartiment": "factsheet p.4",
-    "encours_millions": "factsheet p.3",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.4",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "223",
+ "isin": "LU0476058226",
+ "nom": "(I/C)MERCLIN II PATRIMONIUM R EUR",
+ "maison": "Van Lanschot Kempen Investment Management NV",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-01",
+ "date_creation": "2009-12-31",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "MercLan Patrimonium est un compartiment de Kempen International Funds",
+ "gerants": "",
+ "encours_millions": "4303.6",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.14",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Balanced",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Il s'agit de chiffres de rendement annuels basés sur des données historiques qui ne garantissent en aucun cas des rendements futurs et peuvent être trompeurs.",
+ "politique_fr": "MercLan Patrimonium a pour objectif d’augmenter la valeur de votre investissement sur le long terme. Dans des conditions normales de marché, le compartiment investit principalement dans un portefeuille diversifié d'actions, d'obligations, d'obligations convertibles, d'instruments du marché monétaire et dans d'autres fonds d'investissement. Les investissements en actions peuvent varier entre 0% et 75% de l'actif net. Afin de tirer parti ou de se couvrir contre des fluctuations de marché, ou encore pour une gestion de portefeuille efficace, le compartiment peut avoir recours à des instruments dérivés. Le compartiment est géré activement sans lien avec un quelconque indice de référence. Le gestionnaire choisit de manière flexible entre les différentes classes d’investissement, les secteurs et les pays sur base de critères macro-économiques et financiers.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds devenu MercLan Patrimonium (compartiment de Kempen International Funds SICAV, successeur depuis le 31/03/2023 de Patrimonium de MercLin II SICAV créé le 21/12/2009) ; part = Classe R cap (LU0476058226), factsheet multi-parts. Date de création = date de référence « Depuis création » de la Classe R (« R: 31/12/2009 ») ; création du compartiment actuel : 31 mars 2023 — à confirmer. Gérant : aucun nom de personne (seul « Gestionnaire financier: Mercier Van Lanschot », société). Encours = « Encours 4303,6m EUR » (compartiment), sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,14 % (identique à la ligne « Frais de gestion et autres frais d'admin. ou d'exploitation » de la factsheet pour R cap) ; « Frais courants » factsheet R cap 1,30 % (y compris frais de transaction 0,16 %) ; pas de commission de gestion séparée. Indice « Aucun » : « géré activement sans lien avec un quelconque indice de référence » (factsheet) et « n'a pas d'indice de référence » (KID). SFDR article 8 (factsheet p.4 et KID), aucun % durable écrit. Classification Equilibré : actions entre 0 % et 75 % (55,0 % actuellement), SRI 3 ; cas limite avec Dynamique. Politique : premier paragraphe du bloc « Politique d'investissement » (paragraphe sur les investisseurs visés non repris). Disclaimer : phrase de la note 2 de la factsheet. Allocations : répartition sectorielle de la poche actions ; « Catégories d'obligations » repris en type Instruments ; « Rating des obligations » en Notations. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0819995118 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "KID p.1",
+  "compartiment": "factsheet p.4",
+  "encours_millions": "factsheet p.3",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.4",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "55.0"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "55.0"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligations",
-      "pct": "36.9"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités",
-      "pct": "3.5"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Autres",
-      "pct": "4.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "5.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "6.4"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "10.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "26.9"
-    },
-    {
-      "type": "Notations",
-      "libelle": "< BBB ou not rated",
-      "pct": "50.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Secteur financier",
-      "pct": "28.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l'information",
-      "pct": "25.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation discrétionnaire*",
-      "pct": "16.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "11.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens industriels",
-      "pct": "7.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins de santé",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "1.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base*",
-      "pct": "1.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "2.0"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "High Yield*",
-      "pct": "46.5"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Obligations d'entreprises",
-      "pct": "36.2"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Obligations d'États",
-      "pct": "2.7"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Autres",
-      "pct": "14.6"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "36.9"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "3.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "4.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "5.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "6.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "10.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "26.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "< BBB ou not rated",
+   "pct": "50.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Secteur financier",
+   "pct": "28.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "25.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire*",
+   "pct": "16.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "11.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens industriels",
+   "pct": "7.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base*",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "2.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "High Yield*",
+   "pct": "46.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations d'entreprises",
+   "pct": "36.2"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations d'États",
+   "pct": "2.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Autres",
+   "pct": "14.6"
+  }
+ ]
 }

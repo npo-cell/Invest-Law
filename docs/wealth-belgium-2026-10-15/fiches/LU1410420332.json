@@ -1,150 +1,150 @@
 {
-  "n": "246",
-  "isin": "LU1410420332",
-  "nom": "(I/C)PCFS PURE FIXED INCOME OPPORTUNITIES IC EUR",
-  "maison": "Pure Capital S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-08-20",
-  "date_creation": "2016-09-23",
-  "devise": "EUR",
-  "type_fonds": "Obligataire",
-  "compartiment": "Compartiment de la SICAV de droit luxembourgeois \"PCFS\", format UCITS",
-  "gerants": "Jean Philippe Vanderborght",
-  "encours_millions": "112.1",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.25",
-  "frais_courants": "0.70",
-  "sri": "2",
-  "indice": "Aucun",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "4.14 (duration modifiée portefeuille investi)",
-  "qualite_emetteurs": "",
-  "disclaimer": "La performance passée n'est pas un indicateur fiable des résultats futurs. Les performances peuvent varier au fil du temps. Les investissements dans ce compartiment sont soumis aux fluctuations des marchés et l’investisseur pourrait ne récupérer qu’un montant inférieur à celui qu’il a investi.",
-  "politique_fr": "OBJECTIFS & POLITIQUE D'INVESTISSEMENT\nL’objectif du compartiment est de maximiser le rendement d’un placement sur les marchés monétaires et obligataires internationaux. La politique d’investissement offre l’accès le plus large à l’ensemble des opportunités disponibles sur ces marchés, sans restriction sur la nature, la maturité, le rating ou la devise des instruments. La gestion est basée sur une approche flexible, dynamique et opportuniste, et attache une attention particulière à la diversification. L’allocation du portefeuille entre les différents segments des marchés monétaires et obligataires ou entre les différentes catégories de UCITS investis sur ces instruments peut varier significativement en fonction d’une analyse fondamentale de l’environnement macroéconomique et financier, tout en intégrant des éléments d’analyse quantitative. De même, les changements de pondérations dans les allocations géographiques, sectorielles, de ratings ou de maturités peuvent être substantiels. Spécifiquement, il n’y a pas de limites concernant les obligations à taux fixes ou à taux flottants, les obligations convertibles ou indexées à l’inflation, les titres de dettes transférables, les bons du trésor, y compris pour les pays émergents. Le compartiment pourra détenir du cash ou équivalent dans des proportions significatives, potentiellement jusqu’à 100% de la valeur liquidative. Le compartiment est destiné à tout investisseur désireux de profiter des opportunités qu’offrent les marchés monétaires et obligataires internationaux en termes de taux, de crédits et de devises. L’investisseur dispose d’un horizon d’investissement supérieur à 3 ans. Il est géré activement et sans référence à un indice de référence. Le compartiment est classé Article 6 du règlement SFDR. Le compartiment ne prend pas en compte les principaux impacts négatifs sur les facteurs de durabilité.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet institutionnelle du 31/08/2026. Date de création = « Lancement : 23-09-2016 » (VNI au lancement EUR 100). Encours « AUM: EUR 112.1 millions ». Frais de gestion 0,25% (factsheet). Frais courants : KID 0,70 % (« Frais de gestion et autres frais administratifs et d’exploitation ») retenu ; la factsheet indique « Frais courants (dont frais de gestion) 0,80% » (divergence). Indice « Aucun » (factsheet ; géré sans référence à un indice). SFDR article 6 (factsheet). Duration = « Duration modifiée portefeuille investi 4,14 » ; rendement moyen 4,02 % ; pas de notation moyenne. Part réservée aux investisseurs professionnels et institutionnels (min. EUR 250.000). Allocations : répartition par devise ; « Répartition par segment obligataire » reprise en Classes d'actifs ; top 10.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1"
+ "n": "246",
+ "isin": "LU1410420332",
+ "nom": "(I/C)PCFS PURE FIXED INCOME OPPORTUNITIES IC EUR",
+ "maison": "Pure Capital S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-08-20",
+ "date_creation": "2016-09-23",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "Compartiment de la SICAV de droit luxembourgeois \"PCFS\", format UCITS",
+ "gerants": "Jean Philippe Vanderborght",
+ "encours_millions": "112.1",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.25",
+ "frais_courants": "0.70",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "4.14 (duration modifiée portefeuille investi)",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée n'est pas un indicateur fiable des résultats futurs. Les performances peuvent varier au fil du temps. Les investissements dans ce compartiment sont soumis aux fluctuations des marchés et l’investisseur pourrait ne récupérer qu’un montant inférieur à celui qu’il a investi.",
+ "politique_fr": "OBJECTIFS & POLITIQUE D'INVESTISSEMENT\nL’objectif du compartiment est de maximiser le rendement d’un placement sur les marchés monétaires et obligataires internationaux. La politique d’investissement offre l’accès le plus large à l’ensemble des opportunités disponibles sur ces marchés, sans restriction sur la nature, la maturité, le rating ou la devise des instruments. La gestion est basée sur une approche flexible, dynamique et opportuniste, et attache une attention particulière à la diversification. L’allocation du portefeuille entre les différents segments des marchés monétaires et obligataires ou entre les différentes catégories de UCITS investis sur ces instruments peut varier significativement en fonction d’une analyse fondamentale de l’environnement macroéconomique et financier, tout en intégrant des éléments d’analyse quantitative. De même, les changements de pondérations dans les allocations géographiques, sectorielles, de ratings ou de maturités peuvent être substantiels. Spécifiquement, il n’y a pas de limites concernant les obligations à taux fixes ou à taux flottants, les obligations convertibles ou indexées à l’inflation, les titres de dettes transférables, les bons du trésor, y compris pour les pays émergents. Le compartiment pourra détenir du cash ou équivalent dans des proportions significatives, potentiellement jusqu’à 100% de la valeur liquidative. Le compartiment est destiné à tout investisseur désireux de profiter des opportunités qu’offrent les marchés monétaires et obligataires internationaux en termes de taux, de crédits et de devises. L’investisseur dispose d’un horizon d’investissement supérieur à 3 ans. Il est géré activement et sans référence à un indice de référence. Le compartiment est classé Article 6 du règlement SFDR. Le compartiment ne prend pas en compte les principaux impacts négatifs sur les facteurs de durabilité.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet institutionnelle du 31/08/2026. Date de création = « Lancement : 23-09-2016 » (VNI au lancement EUR 100). Encours « AUM: EUR 112.1 millions ». Frais de gestion 0,25% (factsheet). Frais courants : KID 0,70 % (« Frais de gestion et autres frais administratifs et d’exploitation ») retenu ; la factsheet indique « Frais courants (dont frais de gestion) 0,80% » (divergence). Indice « Aucun » (factsheet ; géré sans référence à un indice). SFDR article 6 (factsheet). Duration = « Duration modifiée portefeuille investi 4,14 » ; rendement moyen 4,02 % ; pas de notation moyenne. Part réservée aux investisseurs professionnels et institutionnels (min. EUR 250.000). Allocations : répartition par devise ; « Répartition par segment obligataire » reprise en Classes d'actifs ; top 10.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Federal Republic of Germany",
+   "pct": "5.78"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Federal Republic of Germany",
-      "pct": "5.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "US Treasury",
-      "pct": "3.92"
-    },
-    {
-      "type": "Positions",
-      "libelle": "European Union",
-      "pct": "3.47"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Belgium Kingdom",
-      "pct": "0.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Franklin Templeton Global Convertibles",
-      "pct": "0.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nordea European HY",
-      "pct": "0.75"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AXA IM FIIS EUR Short Duration HY",
-      "pct": "0.75"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Candriam Bonds Euro HY",
-      "pct": "0.72"
-    },
-    {
-      "type": "Positions",
-      "libelle": "JPMorgan EUR Ultra-Short Income",
-      "pct": "0.69"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UBAM Euro Corporate IG Solution",
-      "pct": "0.67"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "91.89"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "6.89"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Emergents",
-      "pct": "1.23"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Convertibles",
-      "pct": "0.91"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Emerging debt",
-      "pct": "1.75"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "CoCos/Hybrides",
-      "pct": "8.87"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Corporate High Yield",
-      "pct": "13.12"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Corporate Investment Grade",
-      "pct": "47.05"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Govies/Supranationals",
-      "pct": "21.53"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Cash",
-      "pct": "6.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "US Treasury",
+   "pct": "3.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "European Union",
+   "pct": "3.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Belgium Kingdom",
+   "pct": "0.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Franklin Templeton Global Convertibles",
+   "pct": "0.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nordea European HY",
+   "pct": "0.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXA IM FIIS EUR Short Duration HY",
+   "pct": "0.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Candriam Bonds Euro HY",
+   "pct": "0.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JPMorgan EUR Ultra-Short Income",
+   "pct": "0.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UBAM Euro Corporate IG Solution",
+   "pct": "0.67"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "91.89"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "6.89"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Emergents",
+   "pct": "1.23"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Convertibles",
+   "pct": "0.91"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emerging debt",
+   "pct": "1.75"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "CoCos/Hybrides",
+   "pct": "8.87"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Corporate High Yield",
+   "pct": "13.12"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Corporate Investment Grade",
+   "pct": "47.05"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Govies/Supranationals",
+   "pct": "21.53"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "6.8"
+  }
+ ]
 }

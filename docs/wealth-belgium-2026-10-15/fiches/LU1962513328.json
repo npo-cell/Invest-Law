@@ -1,102 +1,102 @@
 {
-  "n": "51",
-  "isin": "LU1962513328",
-  "nom": "(I/C)CANDRIAM ABS RETURN EM NEUTRAL I EUR",
-  "maison": "CANDRIAM LUXEMBOURG S.A",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-02-18",
-  "date_creation": "2020-06-10",
-  "devise": "EUR",
-  "type_fonds": "Alternatif (actions market neutral)",
-  "compartiment": "Ce produit est une classe d'actions (I) d'un compartiment (Equity Market Neutral) d'une société d'investissement à capital variable (SICAV) de droit luxembourgeois (Candriam Absolute Return), Organisme de Placement Collectif en Valeurs Mobilières (OPCVM).",
-  "gerants": "Celia Fseil, Damien Vergnaud, Sébastien De Gendre, Hugo Morrin",
-  "encours_millions": "180.85",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.80",
-  "frais_courants": "0.94",
-  "sri": "5",
-  "indice": "€STR (Euro Short Term Rate) Capitalized",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
-  "politique_fr": "Stratégie d'investissement\nCandriam Absolute Return Equity Market Neutral (ci-après «le fonds»), un compartiment de la SICAV Candriam Absolute Return, vise à utiliser une gestion discrétionnaire quantitative et qualitative pour bénéficier de la performance du marché actions mondial au travers d’un style de gestion «equity market neutral», et à surperformer l’indice de référence. Ce compartiment peut convenir aux investisseurs qui souhaitent atteindre cet objectif sur une période de détention de durée moyenne et qui connaissent, comprennent et sont en mesure d’assumer les risques spécifiques du compartiment tels qu'énoncés ci-dessous et définis dans la section «Facteurs de risque» du Prospectus. L’horizon d’investissement est de 3 ans. Le fonds est géré de manière active, en référence à l’indice visé à la section «Caractéristiques». Pour plus d’informations sur cet indice et son utilisation, veuillez consulter le document d’information clé (DIC) du fonds.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet réservée aux investisseurs professionnels. Date de création = « Date de lancement 10/06/2020 » (rubrique « Caractéristiques » de la factsheet de la classe I, sans préciser part ou compartiment). Encours « Actifs nets totaux (M EUR) 180,85 ». Frais de gestion = « Frais de gestion réels 0,80% » ; frais courants = KID 0,94 % (= « Frais courants 0,94% » factsheet) ; commission de performance 20 %. Indice €STR (Euro Short Term Rate) Capitalized : objectif de surperformance, comparaison de performance et calcul de la commission de performance (remplace l'Eonia Capi 7d depuis le 01/01/2022). SFDR « Article 6 » (factsheet ; le KID dit que le fonds ne promeut pas de caractéristiques environnementales et/ou sociales). Classification Dynamique : fonds alternatif actions « market neutral » (exposition nette 10,84 %, brute 252,15 %) non couvert par les règles de classification ; SRI 5 retenu comme repère (cas douteux). Politique : bloc « Stratégie d'investissement » de la factsheet (le KID détaille les actifs et la stratégie). Allocations : « Top 10 Exposition » en % d'exposition brute (positions longues ou courtes non précisées) ; « Allocation Géographique » et « Capitalisation Boursière » sont des graphiques sans valeurs extractibles ; « Allocation Portefeuille » (Index Rebalancing 174,41 % brute / -1,18 % nette ; Valeur relative 77,80 % / 12,05 %) non reprise (expositions par stratégie, pas une répartition).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.2",
-    "encours_millions": "factsheet p.2",
-    "encours_devise": "factsheet p.2",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "sfdr": "factsheet p.2",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.2",
-    "source_politique": "factsheet p.2"
+ "n": "51",
+ "isin": "LU1962513328",
+ "nom": "(I/C)CANDRIAM ABS RETURN EM NEUTRAL I EUR",
+ "maison": "CANDRIAM LUXEMBOURG S.A",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-18",
+ "date_creation": "2020-06-10",
+ "devise": "EUR",
+ "type_fonds": "Alternatif (actions market neutral)",
+ "compartiment": "Ce produit est une classe d'actions (I) d'un compartiment (Equity Market Neutral) d'une société d'investissement à capital variable (SICAV) de droit luxembourgeois (Candriam Absolute Return), Organisme de Placement Collectif en Valeurs Mobilières (OPCVM).",
+ "gerants": "Celia Fseil, Damien Vergnaud, Sébastien De Gendre, Hugo Morrin",
+ "encours_millions": "180.85",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.80",
+ "frais_courants": "0.94",
+ "sri": "5",
+ "indice": "€STR (Euro Short Term Rate) Capitalized",
+ "classification": "Dynamique",
+ "categorie": "Alternative Global Equity Market Neutral",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
+ "politique_fr": "Stratégie d'investissement\nCandriam Absolute Return Equity Market Neutral (ci-après «le fonds»), un compartiment de la SICAV Candriam Absolute Return, vise à utiliser une gestion discrétionnaire quantitative et qualitative pour bénéficier de la performance du marché actions mondial au travers d’un style de gestion «equity market neutral», et à surperformer l’indice de référence. Ce compartiment peut convenir aux investisseurs qui souhaitent atteindre cet objectif sur une période de détention de durée moyenne et qui connaissent, comprennent et sont en mesure d’assumer les risques spécifiques du compartiment tels qu'énoncés ci-dessous et définis dans la section «Facteurs de risque» du Prospectus. L’horizon d’investissement est de 3 ans. Le fonds est géré de manière active, en référence à l’indice visé à la section «Caractéristiques». Pour plus d’informations sur cet indice et son utilisation, veuillez consulter le document d’information clé (DIC) du fonds.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet réservée aux investisseurs professionnels. Date de création = « Date de lancement 10/06/2020 » (rubrique « Caractéristiques » de la factsheet de la classe I, sans préciser part ou compartiment). Encours « Actifs nets totaux (M EUR) 180,85 ». Frais de gestion = « Frais de gestion réels 0,80% » ; frais courants = KID 0,94 % (= « Frais courants 0,94% » factsheet) ; commission de performance 20 %. Indice €STR (Euro Short Term Rate) Capitalized : objectif de surperformance, comparaison de performance et calcul de la commission de performance (remplace l'Eonia Capi 7d depuis le 01/01/2022). SFDR « Article 6 » (factsheet ; le KID dit que le fonds ne promeut pas de caractéristiques environnementales et/ou sociales). Classification Dynamique : fonds alternatif actions « market neutral » (exposition nette 10,84 %, brute 252,15 %) non couvert par les règles de classification ; SRI 5 retenu comme repère (cas douteux). Politique : bloc « Stratégie d'investissement » de la factsheet (le KID détaille les actifs et la stratégie). Allocations : « Top 10 Exposition » en % d'exposition brute (positions longues ou courtes non précisées) ; « Allocation Géographique » et « Capitalisation Boursière » sont des graphiques sans valeurs extractibles ; « Allocation Portefeuille » (Index Rebalancing 174,41 % brute / -1,18 % nette ; Valeur relative 77,80 % / 12,05 %) non reprise (expositions par stratégie, pas une répartition). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1819523264 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.2",
+  "source_politique": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "DIPLOMA PLC",
+   "pct": "2.92"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "DIPLOMA PLC",
-      "pct": "2.92"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IBERDROLA SA",
-      "pct": "2.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ENGIE SA",
-      "pct": "2.56"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CORTEVA INC",
-      "pct": "2.47"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CHUBB LTD",
-      "pct": "2.41"
-    },
-    {
-      "type": "Positions",
-      "libelle": "VISA INC",
-      "pct": "2.41"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ABBOTT LABORATORIES",
-      "pct": "2.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "VALERO ENERGY CORP",
-      "pct": "2.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DEVON ENERGY CORP",
-      "pct": "2.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MARATHON PETROLEUM CORP",
-      "pct": "2.36"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "IBERDROLA SA",
+   "pct": "2.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENGIE SA",
+   "pct": "2.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CORTEVA INC",
+   "pct": "2.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHUBB LTD",
+   "pct": "2.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VISA INC",
+   "pct": "2.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBOTT LABORATORIES",
+   "pct": "2.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VALERO ENERGY CORP",
+   "pct": "2.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DEVON ENERGY CORP",
+   "pct": "2.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MARATHON PETROLEUM CORP",
+   "pct": "2.36"
+  }
+ ]
 }

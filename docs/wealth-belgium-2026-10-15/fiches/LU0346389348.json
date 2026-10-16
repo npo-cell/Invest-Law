@@ -1,261 +1,261 @@
 {
-  "n": "138",
-  "isin": "LU0346389348",
-  "nom": "(I/C)FIDELITY FUNDS GLOBAL TECHNOLOGY FUND Y EUR",
-  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-30",
-  "date_creation": "2008-03-17",
-  "devise": "EUR",
-  "type_fonds": "Actions sectorielles (technologie)",
-  "compartiment": "compartiment de la SICAV Fidelity Funds",
-  "gerants": "Hyunho Sohn",
-  "encours_millions": "33754",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.0",
-  "sri": "4",
-  "indice": "MSCI AC World Information Technology Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Les rendements du Compartiment peuvent varier à la hausse ou à la baisse selon les fluctuations des taux de change.",
-  "politique_fr": "Objectif: Le Compartiment cherche à atteindre une croissance du capital sur le long terme.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % (et normalement 75 %) de ses actifs dans des actions de sociétés du monde entier, y compris les marchés émergents, qui développent ou développeront des produits, procédés ou services apportant des avancées ou des améliorations technologiques ou bénéficiant de celles-ci. Le Compartiment peut également investir dans des instruments du marché monétaire à titre accessoire.\n\nApproche de l'investissement: Dans le cadre de sa gestion active du Compartiment, le Gérant de Portefeuille tient compte des paramètres de croissance et de valorisation, des données financières de la société, du rendement du capital, des flux de trésorerie et d’autres mesures, ainsi que de la gestion de la société, du secteur, des conditions économiques, et d’autres facteurs. Le Gérant de Portefeuille tient compte des caractéristiques ESG lorsqu’il évalue les risques et opportunités d’investissement. Le Gérant de Portefeuille prend en compte les notations ESG fournies par Fidelity ou des agences externes pour déterminer les caractéristiques ESG. Le Compartiment cherche à ce que son portefeuille obtienne un score ESG supérieur à celui de sa référence. Le Gérant de Portefeuille veille, par le biais de la procédure de gestion des investissements, à ce que les sociétés détenues dans le portefeuille respectent des pratiques de bonne gouvernance. Pour plus d’informations, consultez « Investissement durable et intégration ESG » ainsi que l’annexe « Durabilité ».\n\nPolitique en matière de dérivés: Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, de gestion efficace du portefeuille et d’investissement.\n\nl’indice de référence: MSCI AC World Information Technology Index, un indice de marché général qui ne prend pas les caractéristiques ESG en considération. Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance. Bien qu’il investisse dans les titres de la référence, la gestion du Compartiment étant libre, ce dernier peut investir dans des titres qui n’y sont pas présents, et sa performance peut s’éloigner fortement ou rester très proche de celle de la référence au cours d’une période.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = date de lancement de la classe « 17.03.08 » (compartiment lancé le 01.09.99). Encours « Encours du compartiment : € 33.754m » (encours du compartiment, en millions). Frais de gestion vide : la factsheet n'indique que les « Frais de gestion et autres frais administratifs et d’exploitation » (1,04%) ; frais courants = KID 1,0 % (arrondi ; factsheet 1,04%). Indice : « MSCI AC World Information Technology Index » (« Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance »). SFDR : « Catégorie SFDR » de la factsheet. Politique : bloc « Objectifs et politique d'Investissement » de la factsheet p.1 (la factsheet précise qu'il correspond exactement au libellé du DIC), sans la phrase sur la politique de distribution ; intertitres mis à la ligne. Allocations : expositions de la factsheet p.5 (% de l'actif net ; lignes « Exposition Totale » non reprises ; surpondérations/sous-pondérations non reprises). Classification Agressif : actions sectorielles technologie, SRI 4.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "factsheet p.2",
-    "gerants": "factsheet p.2",
-    "encours_millions": "factsheet p.2",
-    "encours_devise": "factsheet p.2",
-    "encours_date": "factsheet p.2",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.6",
-    "disclaimer": "factsheet p.3",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "138",
+ "isin": "LU0346389348",
+ "nom": "(I/C)FIDELITY FUNDS GLOBAL TECHNOLOGY FUND Y EUR",
+ "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2008-03-17",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (technologie)",
+ "compartiment": "compartiment de la SICAV Fidelity Funds",
+ "gerants": "Hyunho Sohn",
+ "encours_millions": "33754",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.0",
+ "sri": "4",
+ "indice": "MSCI AC World Information Technology Index",
+ "classification": "Agressif",
+ "categorie": "Equity Global Information Technology",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Les rendements du Compartiment peuvent varier à la hausse ou à la baisse selon les fluctuations des taux de change.",
+ "politique_fr": "Objectif: Le Compartiment cherche à atteindre une croissance du capital sur le long terme.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % (et normalement 75 %) de ses actifs dans des actions de sociétés du monde entier, y compris les marchés émergents, qui développent ou développeront des produits, procédés ou services apportant des avancées ou des améliorations technologiques ou bénéficiant de celles-ci. Le Compartiment peut également investir dans des instruments du marché monétaire à titre accessoire.\n\nApproche de l'investissement: Dans le cadre de sa gestion active du Compartiment, le Gérant de Portefeuille tient compte des paramètres de croissance et de valorisation, des données financières de la société, du rendement du capital, des flux de trésorerie et d’autres mesures, ainsi que de la gestion de la société, du secteur, des conditions économiques, et d’autres facteurs. Le Gérant de Portefeuille tient compte des caractéristiques ESG lorsqu’il évalue les risques et opportunités d’investissement. Le Gérant de Portefeuille prend en compte les notations ESG fournies par Fidelity ou des agences externes pour déterminer les caractéristiques ESG. Le Compartiment cherche à ce que son portefeuille obtienne un score ESG supérieur à celui de sa référence. Le Gérant de Portefeuille veille, par le biais de la procédure de gestion des investissements, à ce que les sociétés détenues dans le portefeuille respectent des pratiques de bonne gouvernance. Pour plus d’informations, consultez « Investissement durable et intégration ESG » ainsi que l’annexe « Durabilité ».\n\nPolitique en matière de dérivés: Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, de gestion efficace du portefeuille et d’investissement.\n\nl’indice de référence: MSCI AC World Information Technology Index, un indice de marché général qui ne prend pas les caractéristiques ESG en considération. Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance. Bien qu’il investisse dans les titres de la référence, la gestion du Compartiment étant libre, ce dernier peut investir dans des titres qui n’y sont pas présents, et sa performance peut s’éloigner fortement ou rester très proche de celle de la référence au cours d’une période.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = date de lancement de la classe « 17.03.08 » (compartiment lancé le 01.09.99). Encours « Encours du compartiment : € 33.754m » (encours du compartiment, en millions). Frais de gestion vide : la factsheet n'indique que les « Frais de gestion et autres frais administratifs et d’exploitation » (1,04%) ; frais courants = KID 1,0 % (arrondi ; factsheet 1,04%). Indice : « MSCI AC World Information Technology Index » (« Utilisée pour : la sélection des investissements, la surveillance des risques, la comparaison de performance »). SFDR : « Catégorie SFDR » de la factsheet. Politique : bloc « Objectifs et politique d'Investissement » de la factsheet p.1 (la factsheet précise qu'il correspond exactement au libellé du DIC), sans la phrase sur la politique de distribution ; intertitres mis à la ligne. Allocations : expositions de la factsheet p.5 (% de l'actif net ; lignes « Exposition Totale » non reprises ; surpondérations/sous-pondérations non reprises). Classification Agressif : actions sectorielles technologie, SRI 4. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1213836080 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "factsheet p.2",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.6",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "99.2"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "99.2"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Autres",
-      "pct": "0.0"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités non investies",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l’information",
-      "pct": "66.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "13.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation cyclique",
-      "pct": "7.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industries",
-      "pct": "4.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits financiers",
-      "pct": "3.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "2.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "1.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "0.6"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": ">10 milliard(s)",
-      "pct": "86.4"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "5-10 milliard(s)",
-      "pct": "6.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "1-5 milliard(s)",
-      "pct": "5.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "0-1 milliard(s)",
-      "pct": "0.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "53.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taiwan",
-      "pct": "11.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "8.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Chine",
-      "pct": "6.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Corée du Sud",
-      "pct": "3.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japon",
-      "pct": "3.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "2.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Hong Kong",
-      "pct": "2.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "1.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "1.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "3.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "53.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "22.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe (hors-RU)",
-      "pct": "15.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "3.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie Pacifique (hors-Japon)",
-      "pct": "2.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "1.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR MFG CO LTD",
-      "pct": "9.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICROSOFT CORP",
-      "pct": "7.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "APPLE INC",
-      "pct": "5.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ALPHABET INC",
-      "pct": "4.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML HOLDING NV",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TEXAS INSTRUMENTS INC",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AMAZON.COM INC",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "META PLATFORMS INC",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SAMSUNG ELECTRONICS CO LTD",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ORACLE CORP",
-      "pct": "2.1"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités non investies",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "66.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "13.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation cyclique",
+   "pct": "7.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits financiers",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "0.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">10 milliard(s)",
+   "pct": "86.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5-10 milliard(s)",
+   "pct": "6.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1-5 milliard(s)",
+   "pct": "5.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "0-1 milliard(s)",
+   "pct": "0.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "53.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "11.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "8.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "6.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "3.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "2.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "2.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "3.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "53.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "22.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe (hors-RU)",
+   "pct": "15.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "3.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie Pacifique (hors-Japon)",
+   "pct": "2.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MFG CO LTD",
+   "pct": "9.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "7.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "5.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TEXAS INSTRUMENTS INC",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS INC",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS CO LTD",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ORACLE CORP",
+   "pct": "2.1"
+  }
+ ]
 }

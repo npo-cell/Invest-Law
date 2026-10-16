@@ -1,183 +1,183 @@
 {
-  "n": "224",
-  "isin": "LU0379621559",
-  "nom": "(I/C)MERCLIN SICAV GLOBAL EQUITY R EUR",
-  "maison": "Van Lanschot Kempen Investment Management NV",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-08-01",
-  "date_creation": "2008-12-31",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "MercLan Global Equity est un compartiment de Kempen International Funds",
-  "gerants": "",
-  "encours_millions": "5549.6",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.14",
-  "sri": "4",
-  "indice": "MSCI AC World Euro Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Il s'agit de chiffres de rendement annuels basés sur des données historiques qui ne garantissent en aucun cas des rendements futurs et peuvent être trompeurs.",
-  "politique_fr": "MercLan Global Equity vise à augmenter la valeur de votre investissement à long terme. Il est géré activement et cherche à battre l'indice MSCI AC World Euro, dividendes inclus, en sélectionnant des actions sous-évaluées. La composition du portefeuille du compartiment peut différer considérablement de son indice de référence. Dans des conditions de marché normales, le compartiment investit principalement dans un portefeuille diversifié d'actions (au moins 70 % de ses actifs) et d'obligations d'entreprises de pays membres de l'OCDE. Le compartiment peut investir directement dans des actions ou des obligations ou indirectement via des parts d'autres fonds d'investissement.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Fonds devenu MercLan Global Equity (compartiment de Kempen International Funds SICAV, né le 31/03/2023 de l'absorption du compartiment Global Equity de MercLin SICAV créé le 04/07/2008) ; part = Classe R cap (LU0379621559), factsheet multi-parts. Date de création = date de référence « Depuis création » de la Classe R (« R: 31/12/2008 ») — à confirmer ; création du compartiment actuel : 31 mars 2023. Gérant : aucun nom de personne (seul « Gestionnaire financier: Mercier Van Lanschot », société). Encours = « Encours 5549,6m EUR » (compartiment), sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,14 % (identique à la factsheet pour R cap) ; « Frais courants » factsheet R cap 1,20 % (y compris frais de transaction 0,06 %) ; pas de commission de gestion séparée. Indice retenu : objectif de battre l'indice ; nom du KID « MSCI AC World Euro Index » (factsheet : « l'indice MSCI AC World Euro, dividendes inclus » ; graphique : « MSCI AC World Euro Index Div Reinvested »). SFDR article 8 (factsheet et KID), aucun % durable écrit. Classification Dynamique : actions mondiales diversifiées (99,9 % actions), SRI 4. Politique : premier paragraphe du bloc « Politique d'investissement » (paragraphe sur les investisseurs visés non repris). Disclaimer : phrase de la note 2 de la factsheet. Allocations : « Marchés Émergents* » et astérisques tels qu'écrits (renvoi aux définitions p.4).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "KID p.1",
-    "compartiment": "factsheet p.4",
-    "encours_millions": "factsheet p.3",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.4",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "224",
+ "isin": "LU0379621559",
+ "nom": "(I/C)MERCLIN SICAV GLOBAL EQUITY R EUR",
+ "maison": "Van Lanschot Kempen Investment Management NV",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-01",
+ "date_creation": "2008-12-31",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "MercLan Global Equity est un compartiment de Kempen International Funds",
+ "gerants": "",
+ "encours_millions": "5549.6",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.14",
+ "sri": "4",
+ "indice": "MSCI AC World Euro Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Il s'agit de chiffres de rendement annuels basés sur des données historiques qui ne garantissent en aucun cas des rendements futurs et peuvent être trompeurs.",
+ "politique_fr": "MercLan Global Equity vise à augmenter la valeur de votre investissement à long terme. Il est géré activement et cherche à battre l'indice MSCI AC World Euro, dividendes inclus, en sélectionnant des actions sous-évaluées. La composition du portefeuille du compartiment peut différer considérablement de son indice de référence. Dans des conditions de marché normales, le compartiment investit principalement dans un portefeuille diversifié d'actions (au moins 70 % de ses actifs) et d'obligations d'entreprises de pays membres de l'OCDE. Le compartiment peut investir directement dans des actions ou des obligations ou indirectement via des parts d'autres fonds d'investissement.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds devenu MercLan Global Equity (compartiment de Kempen International Funds SICAV, né le 31/03/2023 de l'absorption du compartiment Global Equity de MercLin SICAV créé le 04/07/2008) ; part = Classe R cap (LU0379621559), factsheet multi-parts. Date de création = date de référence « Depuis création » de la Classe R (« R: 31/12/2008 ») — à confirmer ; création du compartiment actuel : 31 mars 2023. Gérant : aucun nom de personne (seul « Gestionnaire financier: Mercier Van Lanschot », société). Encours = « Encours 5549,6m EUR » (compartiment), sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,14 % (identique à la factsheet pour R cap) ; « Frais courants » factsheet R cap 1,20 % (y compris frais de transaction 0,06 %) ; pas de commission de gestion séparée. Indice retenu : objectif de battre l'indice ; nom du KID « MSCI AC World Euro Index » (factsheet : « l'indice MSCI AC World Euro, dividendes inclus » ; graphique : « MSCI AC World Euro Index Div Reinvested »). SFDR article 8 (factsheet et KID), aucun % durable écrit. Classification Dynamique : actions mondiales diversifiées (99,9 % actions), SRI 4. Politique : premier paragraphe du bloc « Politique d'investissement » (paragraphe sur les investisseurs visés non repris). Disclaimer : phrase de la note 2 de la factsheet. Allocations : « Marchés Émergents* » et astérisques tels qu'écrits (renvoi aux définitions p.4).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "KID p.1",
+  "compartiment": "factsheet p.4",
+  "encours_millions": "factsheet p.3",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.4",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "99.9"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "99.9"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités",
-      "pct": "0.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Etats-Unis",
-      "pct": "56.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Zone Euro",
-      "pct": "21.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Canada",
-      "pct": "7.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés Émergents*",
-      "pct": "6.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Grande Bretagne",
-      "pct": "3.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "4.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Fairfax Financial",
-      "pct": "5.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Microsoft",
-      "pct": "5.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NXP Semiconductors",
-      "pct": "5.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet",
-      "pct": "4.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TSMC",
-      "pct": "4.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Booking Holdings",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Meta Platforms",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Littelfuse",
-      "pct": "3.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KKR",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amazon",
-      "pct": "3.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Secteur financier",
-      "pct": "28.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l'information",
-      "pct": "25.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation discrétionnaire*",
-      "pct": "16.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "11.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens industriels",
-      "pct": "7.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins de santé",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "1.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base*",
-      "pct": "1.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "1.9"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "0.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "56.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Zone Euro",
+   "pct": "21.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "7.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés Émergents*",
+   "pct": "6.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grande Bretagne",
+   "pct": "3.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fairfax Financial",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NXP Semiconductors",
+   "pct": "5.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Booking Holdings",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Littelfuse",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KKR",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Secteur financier",
+   "pct": "28.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "25.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire*",
+   "pct": "16.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "11.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens industriels",
+   "pct": "7.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base*",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "1.9"
+  }
+ ]
 }

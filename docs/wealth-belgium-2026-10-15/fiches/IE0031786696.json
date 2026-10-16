@@ -1,205 +1,205 @@
 {
-  "n": "314",
-  "isin": "IE0031786696",
-  "nom": "(I/C)VANGUARD EMRG MRKTS STOCK INDEX FUND ACC EUR",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2014-02-27",
-  "devise": "EUR",
-  "type_fonds": "Actions marchés émergents (indiciel)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Global Equity Index Management (GE)",
-  "encours_millions": "19140",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.23",
-  "sri": "4",
-  "indice": "MSCI Emerging Markets Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) par l’acquisition physique de titres et vise à reproduire la performance de l’Indice MSCI Emerging Markets Index (l’« Indice »).\n• L’Indice est un indice pondéré selon la capitalisation boursière, composé de titres de grandes et moyennes entreprises des marchés émergents.\n• Le Fonds s’efforce de : 1. Reproduire la performance de l’Indice en investissant, par l’acquisition physique de titres, dans tous ou pratiquement tous les titres composant l’Indice, dans les mêmes proportions que l’Indice. Lorsqu’il n’est pas possible de le reproduire entièrement, le Fonds recourt à un procédé d’échantillonnage. 2. Rester pleinement investi, sauf dans des conditions politiques, de marché ou autres extraordinaires dans lesquelles le Fonds peut s’écarter temporairement de cette politique d’investissement pour éviter les pertes.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Acc. Date de création « 27 février 2014 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : équipe « Global Equity Index Management (GE) ». Encours = « Encours total (million) 19 140 € » (encours de la classe : 2 165 €). Frais de gestion non indiqués ; frais courants 0,23 % (KID, = MFC factsheet). Indice : fonds indiciel répliquant le MSCI Emerging Markets Index. SFDR : aucun article mentionné dans la factsheet ni le KID. Classification Agressif : actions des marchés émergents, SRI 4. Allocations au 31 août 2026 : 10 principaux titres (38,2 % de l'actif net), exposition sectorielle, 10 premiers marchés (type Pays).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "314",
+ "isin": "IE0031786696",
+ "nom": "(I/C)VANGUARD EMRG MRKTS STOCK INDEX FUND ACC EUR",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2014-02-27",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents (indiciel)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Global Equity Index Management (GE)",
+ "encours_millions": "19140",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.23",
+ "sri": "4",
+ "indice": "MSCI Emerging Markets Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) par l’acquisition physique de titres et vise à reproduire la performance de l’Indice MSCI Emerging Markets Index (l’« Indice »).\n• L’Indice est un indice pondéré selon la capitalisation boursière, composé de titres de grandes et moyennes entreprises des marchés émergents.\n• Le Fonds s’efforce de : 1. Reproduire la performance de l’Indice en investissant, par l’acquisition physique de titres, dans tous ou pratiquement tous les titres composant l’Indice, dans les mêmes proportions que l’Indice. Lorsqu’il n’est pas possible de le reproduire entièrement, le Fonds recourt à un procédé d’échantillonnage. 2. Rester pleinement investi, sauf dans des conditions politiques, de marché ou autres extraordinaires dans lesquelles le Fonds peut s’écarter temporairement de cette politique d’investissement pour éviter les pertes.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe EUR Acc. Date de création « 27 février 2014 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : équipe « Global Equity Index Management (GE) ». Encours = « Encours total (million) 19 140 € » (encours de la classe : 2 165 €). Frais de gestion non indiqués ; frais courants 0,23 % (KID, = MFC factsheet). Indice : fonds indiciel répliquant le MSCI Emerging Markets Index. SFDR : aucun article mentionné dans la factsheet ni le KID. Classification Agressif : actions des marchés émergents, SRI 4. Allocations au 31 août 2026 : 10 principaux titres (38,2 % de l'actif net), exposition sectorielle, 10 premiers marchés (type Pays).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+   "pct": "15.1"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co. Ltd.",
-      "pct": "15.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics Co. Ltd.",
-      "pct": "8.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK hynix Inc.",
-      "pct": "5.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tencent Holdings Ltd.",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alibaba Group Holding Ltd.",
-      "pct": "2.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MediaTek Inc.",
-      "pct": "1.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Delta Electronics Inc.",
-      "pct": "0.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "China Construction Bank Corp.",
-      "pct": "0.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hon Hai Precision Industry Co. Ltd.",
-      "pct": "0.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HDFC Bank Ltd.",
-      "pct": "0.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'information",
-      "pct": "41.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "19.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discrétionnaire",
-      "pct": "8.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "6.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de Communication",
-      "pct": "6.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "3.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "2.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "2.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "1.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "1.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taiwan",
-      "pct": "27.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Corée",
-      "pct": "20.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Chine",
-      "pct": "20.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Inde",
-      "pct": "11.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Brésil",
-      "pct": "3.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Afrique du Sud",
-      "pct": "3.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Saudi Arabia",
-      "pct": "2.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Mexique",
-      "pct": "1.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United Arab Emirates",
-      "pct": "1.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Pologne",
-      "pct": "1.1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co. Ltd.",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK hynix Inc.",
+   "pct": "5.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd.",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd.",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MediaTek Inc.",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Delta Electronics Inc.",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "China Construction Bank Corp.",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hon Hai Precision Industry Co. Ltd.",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HDFC Bank Ltd.",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "41.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "19.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "8.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "6.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "27.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée",
+   "pct": "20.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "20.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "11.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "3.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du Sud",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Saudi Arabia",
+   "pct": "2.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "1.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Arab Emirates",
+   "pct": "1.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Pologne",
+   "pct": "1.1"
+  }
+ ]
 }

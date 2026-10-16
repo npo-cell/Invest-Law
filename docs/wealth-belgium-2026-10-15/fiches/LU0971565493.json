@@ -1,187 +1,187 @@
 {
-  "n": "286",
-  "isin": "LU0971565493",
-  "nom": "(I/C)ROBECO INDIAN EQUITIES F EUR",
-  "maison": "Robeco Institutional Asset Management B.V.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-30",
-  "date_creation": "2013-09-17",
-  "devise": "EUR",
-  "type_fonds": "Actions Inde",
-  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
-  "gerants": "Asia-Pacific Equities investment team",
-  "encours_millions": "438.691427",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.75",
-  "frais_courants": "1.06",
-  "sri": "4",
-  "indice": "MSCI India Index (Net Return, EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
-  "politique_fr": "À propos du fonds\nRobeco Indian Equities est un fonds à gestion active qui investit dans des actions cotées sur les grandes places boursières de l'Inde. La sélection de ces titres est basée sur une analyse fondamentale.Le fonds vise une performance supérieure à l'indice. Le fonds se concentre sur les actions à grande capitalisation, complétées par des actions à moyenne capitalisation et à forte conviction de premier choix. Géré par notre équipe Asie Pacifique à Hong Kong, le fonds associe l'expertise locale de notre conseiller en investissement Canara Robeco (Bombay), au savoir-faire opérationnel de Robeco en tant que gérant d'actifs international.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Gérant : équipe « Asia-Pacific Equities investment team ». Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Classification Agressif : pays unique (Inde), SRI 4. Frais courants factsheet 1,06 (identiques au KID) ; commission de service 0,26. Factsheet : « La performance avant la date de lancement est basée sur la performance d'une catégorie d'actions comparable ». Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 1,06 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "286",
+ "isin": "LU0971565493",
+ "nom": "(I/C)ROBECO INDIAN EQUITIES F EUR",
+ "maison": "Robeco Institutional Asset Management B.V.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2013-09-17",
+ "devise": "EUR",
+ "type_fonds": "Actions Inde",
+ "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+ "gerants": "Asia-Pacific Equities investment team",
+ "encours_millions": "438.691427",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "1.06",
+ "sri": "4",
+ "indice": "MSCI India Index (Net Return, EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity India",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+ "politique_fr": "À propos du fonds\nRobeco Indian Equities est un fonds à gestion active qui investit dans des actions cotées sur les grandes places boursières de l'Inde. La sélection de ces titres est basée sur une analyse fondamentale.Le fonds vise une performance supérieure à l'indice. Le fonds se concentre sur les actions à grande capitalisation, complétées par des actions à moyenne capitalisation et à forte conviction de premier choix. Géré par notre équipe Asie Pacifique à Hong Kong, le fonds associe l'expertise locale de notre conseiller en investissement Canara Robeco (Bombay), au savoir-faire opérationnel de Robeco en tant que gérant d'actifs international.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Gérant : équipe « Asia-Pacific Equities investment team ». Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Classification Agressif : pays unique (Inde), SRI 4. Frais courants factsheet 1,06 (identiques au KID) ; commission de service 0,26. Factsheet : « La performance avant la date de lancement est basée sur la performance d'une catégorie d'actions comparable ». Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 1,06 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0491217419 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "HDFC Bank Ltd",
+   "pct": "8.45"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "HDFC Bank Ltd",
-      "pct": "8.45"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Kotak Mahindra Bank Ltd",
-      "pct": "4.16"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ICICI Bank Ltd",
-      "pct": "3.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bharti Airtel Ltd",
-      "pct": "3.58"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Reliance Industries Ltd",
-      "pct": "3.58"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UltraTech Cement Ltd",
-      "pct": "3.15"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Avenue Supermarts Ltd",
-      "pct": "3.09"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tata Steel Ltd",
-      "pct": "2.90"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Axis Bank Ltd",
-      "pct": "2.68"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hindustan Unilever Ltd",
-      "pct": "2.52"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "98.7"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités",
-      "pct": "1.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "31.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériels",
-      "pct": "15.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation Discrétionnaire",
-      "pct": "15.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "9.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'Information",
-      "pct": "7.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de Consommation de Base",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "6.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "3.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "3.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux Collectivités",
-      "pct": "2.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Inde",
-      "pct": "100.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Roupie Indienne",
-      "pct": "98.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Euro",
-      "pct": "1.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar Américain",
-      "pct": "0.1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Kotak Mahindra Bank Ltd",
+   "pct": "4.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ICICI Bank Ltd",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bharti Airtel Ltd",
+   "pct": "3.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Reliance Industries Ltd",
+   "pct": "3.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UltraTech Cement Ltd",
+   "pct": "3.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Avenue Supermarts Ltd",
+   "pct": "3.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tata Steel Ltd",
+   "pct": "2.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Axis Bank Ltd",
+   "pct": "2.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hindustan Unilever Ltd",
+   "pct": "2.52"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "98.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "31.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "15.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "15.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "9.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "7.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "100.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie Indienne",
+   "pct": "98.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "1.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar Américain",
+   "pct": "0.1"
+  }
+ ]
 }

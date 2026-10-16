@@ -1,186 +1,186 @@
 {
-  "n": "290",
-  "isin": "LU0244355391",
-  "nom": "(I/C)SCHRODER INT SELECT FND CHINA OPP ACC C USD",
-  "maison": "Schroder Investment Management (Europe) S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-07-28",
-  "date_creation": "2006-02-17",
-  "devise": "USD",
-  "type_fonds": "Actions Chine",
-  "compartiment": "un compartiment de Schroder International Selection Fund",
-  "gerants": "Louisa Lo, Maggie Zheng",
-  "encours_millions": "975.98",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "1.29",
-  "sri": "5",
-  "indice": "MSCI China NR",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
-  "politique_fr": "Objectifs et politique d'investissement du fonds\nLe fonds vise à dégager une croissance du capital supérieure à MSCI China (Net TR) Index après déduction des frais sur une période de trois à cinq ans en investissant dans des actions de sociétés chinoises.\n\nLe fonds présente des caractéristiques environnementales et/ou sociales au sens de l’article 8 du Règlement (UE) 2019/2088 sur la publication d’informations en matière de durabilité dans le secteur des services financiers (le « Règlement SFDR »).",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet FR au 31/08/2026 (pas de septembre publiée). Nom : « Schroder International Selection Fund China Opportunities C de capitalisation USD » (KID : « China Opportunities, un compartiment de Schroder International Selection Fund, Catégorie C Capitalisation USD »). Date de création = « Date de lancement de la catégorie de parts 17.02.2006 » (identique à celle du fonds). Encours « Taille du fonds (en millions) USD 975,98 ». Frais de gestion non indiqués (factsheet : « Frais courants 1,29% ») ; frais courants KID 1,29 %. Indice : « MSCI China NR » (tableau de la factsheet) = indice cible de l'objectif (« supérieure à MSCI China (Net TR) Index ») ; « Indice de comparaison Morningstar China Equity Category » (comparaison seulement, non repris). Gérants « Louisa Lo, Maggie Zheng » (« Depuis le 19.07.2013 ; 01.07.2026 »). SFDR article 8 (factsheet), aucun % d'investissements durables écrit. Classification Agressif : actions d'un seul pays (Chine), SRI 5. Politique : bloc « Objectifs et politique d'investissement du fonds » de la factsheet (objectif + paragraphe SFDR) ; la phrase de renvoi au DIC n'est pas reprise ; le KID p.1 contient la politique complète. Allocations au 31/08/2026 : graphiques Fonds/Indice de référence (valeurs du fonds seulement, 1re valeur de chaque paire, totaux vérifiés) ; « Région » repris en Zones géographiques.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "290",
+ "isin": "LU0244355391",
+ "nom": "(I/C)SCHRODER INT SELECT FND CHINA OPP ACC C USD",
+ "maison": "Schroder Investment Management (Europe) S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-07-28",
+ "date_creation": "2006-02-17",
+ "devise": "USD",
+ "type_fonds": "Actions Chine",
+ "compartiment": "un compartiment de Schroder International Selection Fund",
+ "gerants": "Louisa Lo, Maggie Zheng",
+ "encours_millions": "975.98",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.29",
+ "sri": "5",
+ "indice": "MSCI China NR",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
+ "politique_fr": "Objectifs et politique d'investissement du fonds\nLe fonds vise à dégager une croissance du capital supérieure à MSCI China (Net TR) Index après déduction des frais sur une période de trois à cinq ans en investissant dans des actions de sociétés chinoises.\n\nLe fonds présente des caractéristiques environnementales et/ou sociales au sens de l’article 8 du Règlement (UE) 2019/2088 sur la publication d’informations en matière de durabilité dans le secteur des services financiers (le « Règlement SFDR »).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 31/08/2026 (pas de septembre publiée). Nom : « Schroder International Selection Fund China Opportunities C de capitalisation USD » (KID : « China Opportunities, un compartiment de Schroder International Selection Fund, Catégorie C Capitalisation USD »). Date de création = « Date de lancement de la catégorie de parts 17.02.2006 » (identique à celle du fonds). Encours « Taille du fonds (en millions) USD 975,98 ». Frais de gestion non indiqués (factsheet : « Frais courants 1,29% ») ; frais courants KID 1,29 %. Indice : « MSCI China NR » (tableau de la factsheet) = indice cible de l'objectif (« supérieure à MSCI China (Net TR) Index ») ; « Indice de comparaison Morningstar China Equity Category » (comparaison seulement, non repris). Gérants « Louisa Lo, Maggie Zheng » (« Depuis le 19.07.2013 ; 01.07.2026 »). SFDR article 8 (factsheet), aucun % d'investissements durables écrit. Classification Agressif : actions d'un seul pays (Chine), SRI 5. Politique : bloc « Objectifs et politique d'investissement du fonds » de la factsheet (objectif + paragraphe SFDR) ; la phrase de renvoi au DIC n'est pas reprise ; le KID p.1 contient la politique complète. Allocations au 31/08/2026 : graphiques Fonds/Indice de référence (valeurs du fonds seulement, 1re valeur de chaque paire, totaux vérifiés) ; « Région » repris en Zones géographiques.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd",
+   "pct": "9.3"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Alibaba Group Holding Ltd",
-      "pct": "9.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tencent Holdings Ltd",
-      "pct": "9.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ping An Insurance Group Co of China Ltd",
-      "pct": "4.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "China Construction Bank Corp",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Zijin Mining Group Co Ltd",
-      "pct": "3.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NetEase Inc",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Innovent Biologics Inc",
-      "pct": "2.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Contemporary Amperex Technology Co Ltd",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Industrial & Commercial Bank of China Ltd",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Zijin Gold International Co Ltd",
-      "pct": "2.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation cyclique",
-      "pct": "18.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "17.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l’information",
-      "pct": "13.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "12.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "11.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "11.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation non cyclique",
-      "pct": "3.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Actifs liquides",
-      "pct": "3.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "1.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "89.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique hors Japon",
-      "pct": "6.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Actifs liquides",
-      "pct": "3.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Monde",
-      "pct": "1.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amériques",
-      "pct": "0.0"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd",
+   "pct": "9.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ping An Insurance Group Co of China Ltd",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "China Construction Bank Corp",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Zijin Mining Group Co Ltd",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NetEase Inc",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Innovent Biologics Inc",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Contemporary Amperex Technology Co Ltd",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrial & Commercial Bank of China Ltd",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Zijin Gold International Co Ltd",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "18.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "17.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "13.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "12.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "11.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "11.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non cyclique",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Actifs liquides",
+   "pct": "3.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "89.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "6.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actifs liquides",
+   "pct": "3.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Monde",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amériques",
+   "pct": "0.0"
+  }
+ ]
 }

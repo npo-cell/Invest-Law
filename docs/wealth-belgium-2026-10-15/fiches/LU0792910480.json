@@ -1,217 +1,217 @@
 {
-  "n": "282",
-  "isin": "LU0792910480",
-  "nom": "(I/C)ROBECO CAPITAL GROWTH NW FIN F EUR",
-  "maison": "Robeco Institutional Asset Management B.V.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-30",
-  "date_creation": "2012-07-04",
-  "devise": "EUR",
-  "type_fonds": "Actions sectorielles (finance)",
-  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
-  "gerants": "Patrick Lemmens, Michiel van Voorst, Koos Burema",
-  "encours_millions": "297.955839",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.75",
-  "frais_courants": "0.96",
-  "sri": "4",
-  "indice": "MSCI All Country World Financials Index (Net Return, EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
-  "politique_fr": "À propos du fonds\nRobeco New World Financials est un fonds à gestion active qui investit dans des actions de pays développés et émergents du monde entier. La sélection de titres est basée sur une analyse fondamentale. Nos modèles de valorisation identifient les titres dotés de bonnes perspectives de bénéfices et d'une valorisation raisonnable. Le fonds investit dans des sociétés du secteur de la finance en se concentrant sur les tendances de croissance attractives à long terme, telles que la digitalisation des services financiers, la finance autour du vieillissement pour une retraite confortable et la pénétration croissante des services financiers dans les marchés émergents. Le fonds vise une performance supérieure à l'indice de référence.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Nom du fonds : « Robeco New World Financials F EUR » (nom One Life « ROBECO CAPITAL GROWTH NW FIN F EUR »). Gérants : « Patrick Lemmens, Michiel van Voorst CFA, Koos Burema » (titre CFA non repris). Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Classification Agressif : fonds sectoriel (finance), SRI 4. Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,96 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "282",
+ "isin": "LU0792910480",
+ "nom": "(I/C)ROBECO CAPITAL GROWTH NW FIN F EUR",
+ "maison": "Robeco Institutional Asset Management B.V.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2012-07-04",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (finance)",
+ "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+ "gerants": "Patrick Lemmens, Michiel van Voorst, Koos Burema",
+ "encours_millions": "297.955839",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "0.96",
+ "sri": "4",
+ "indice": "MSCI All Country World Financials Index (Net Return, EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity Global Financials",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+ "politique_fr": "À propos du fonds\nRobeco New World Financials est un fonds à gestion active qui investit dans des actions de pays développés et émergents du monde entier. La sélection de titres est basée sur une analyse fondamentale. Nos modèles de valorisation identifient les titres dotés de bonnes perspectives de bénéfices et d'une valorisation raisonnable. Le fonds investit dans des sociétés du secteur de la finance en se concentrant sur les tendances de croissance attractives à long terme, telles que la digitalisation des services financiers, la finance autour du vieillissement pour une retraite confortable et la pénétration croissante des services financiers dans les marchés émergents. Le fonds vise une performance supérieure à l'indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Nom du fonds : « Robeco New World Financials F EUR » (nom One Life « ROBECO CAPITAL GROWTH NW FIN F EUR »). Gérants : « Patrick Lemmens, Michiel van Voorst CFA, Koos Burema » (titre CFA non repris). Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Classification Agressif : fonds sectoriel (finance), SRI 4. Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,96 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0187077481 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Bank of America Corp",
+   "pct": "3.91"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Bank of America Corp",
-      "pct": "3.91"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Citigroup Inc",
-      "pct": "3.68"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HSBC Holdings PLC",
-      "pct": "3.27"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Royal Bank of Canada",
-      "pct": "3.24"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Coinbase Global Inc",
-      "pct": "2.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Capital One Financial Corp",
-      "pct": "2.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Visa Inc",
-      "pct": "2.69"
-    },
-    {
-      "type": "Positions",
-      "libelle": "US Bancorp",
-      "pct": "2.68"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BNP Paribas SA",
-      "pct": "2.66"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Standard Chartered PLC",
-      "pct": "2.51"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "98.5"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités",
-      "pct": "1.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Banks",
-      "pct": "42.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Marchés de Capitaux",
-      "pct": "32.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Assurance",
-      "pct": "11.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financial Services",
-      "pct": "7.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Crédit à la Consommation",
-      "pct": "3.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Médias et services interactifs",
-      "pct": "1.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Broadline Retail",
-      "pct": "0.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Logiciels",
-      "pct": "0.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services Professionnels",
-      "pct": "0.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Mortgage Real Estate Investment Trusts (REITs)",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amerique",
-      "pct": "50.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "l'Europe",
-      "pct": "33.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asia",
-      "pct": "16.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Afrique",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Moyen-Orient",
-      "pct": "0.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar Américain",
-      "pct": "45.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Euro",
-      "pct": "12.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar Canadien",
-      "pct": "7.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Yen japonais",
-      "pct": "6.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Livre Sterling",
-      "pct": "4.8"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "23.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Citigroup Inc",
+   "pct": "3.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HSBC Holdings PLC",
+   "pct": "3.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Royal Bank of Canada",
+   "pct": "3.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Coinbase Global Inc",
+   "pct": "2.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Capital One Financial Corp",
+   "pct": "2.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc",
+   "pct": "2.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Bancorp",
+   "pct": "2.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BNP Paribas SA",
+   "pct": "2.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Standard Chartered PLC",
+   "pct": "2.51"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "98.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banks",
+   "pct": "42.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Marchés de Capitaux",
+   "pct": "32.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "11.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financial Services",
+   "pct": "7.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Crédit à la Consommation",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Médias et services interactifs",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Broadline Retail",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Logiciels",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Professionnels",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Mortgage Real Estate Investment Trusts (REITs)",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amerique",
+   "pct": "50.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "l'Europe",
+   "pct": "33.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asia",
+   "pct": "16.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar Américain",
+   "pct": "45.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "12.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar Canadien",
+   "pct": "7.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "6.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre Sterling",
+   "pct": "4.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "23.8"
+  }
+ ]
 }

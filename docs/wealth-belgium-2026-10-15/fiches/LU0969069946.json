@@ -1,221 +1,221 @@
 {
-  "n": "117",
-  "isin": "LU0969069946",
-  "nom": "(I/C)ECHIQUIER WORLD EQUITY GROWTH FUND K EUR",
-  "maison": "La Financière de l'Echiquier",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-05-22",
-  "date_creation": "2014-01-17",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales (croissance)",
-  "compartiment": "Compartiment de la SICAV ECHIQUIER FUND gérée par La Financière de l'Echiquier",
-  "gerants": "David Ross, Louis Bersin, Emilie Deslogis",
-  "encours_millions": "87",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "1.00",
-  "frais_courants": "1.22",
-  "sri": "4",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
-  "politique_fr": "Echiquier World Equity Growth Fund est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur des valeurs de croissance des marchés internationaux. Le compartiment cherche à investir dans des valeurs présentant des positions affirmées de leadership global dans leur secteur. L’indice MSCI All Country World peut être utilisé comme indicateur de comparaison a posteriori de la performance. La gestion du compartiment s'appuie sur une sélection rigoureuse de titres « stock picking ». De plus, dans le cadre de la construction du portefeuille, l'équipe de gestion intègre de façon systématique une approche extra financière sans toutefois que cette dernière soit déterminante dans les décisions d'investissement.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Date de 1ère VNI 17/01/2014 » (compartiment créé le 08/11/2013). Compartiment : texte du KID. Frais de gestion = « Frais de gestion 1,00% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.22% » (identique à la factsheet « Frais au 30/09/2025 ») ; pas de commission de surperformance. Indice laissé vide : l'indice MSCI All Country World « peut être utilisé comme indicateur de comparaison a posteriori de la performance » (KID : « utilisé uniquement à titre » indicatif ; factsheet : MSCI ACWI NET RETURN EUR depuis le 01/01/2016). SFDR « Classification SFDR Article 8 », aucun % d'investissements durables écrit. Classification Dynamique : actions internationales de croissance diversifiées (SRI 4), portefeuille concentré (20 lignes). Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 2,5 %) ; graphiques lus par position des étiquettes (barre supérieure = compartiment, vérifié par les totaux) ; « Autres » pays = 0 % pour le compartiment ; secteur « Autres » sans valeur pour le compartiment, non repris ; graphique des devises sans colonne indice. Positions = 10 principales positions (62,8 %).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "117",
+ "isin": "LU0969069946",
+ "nom": "(I/C)ECHIQUIER WORLD EQUITY GROWTH FUND K EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-22",
+ "date_creation": "2014-01-17",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (croissance)",
+ "compartiment": "Compartiment de la SICAV ECHIQUIER FUND gérée par La Financière de l'Echiquier",
+ "gerants": "David Ross, Louis Bersin, Emilie Deslogis",
+ "encours_millions": "87",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.22",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "Equity Global",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "Echiquier World Equity Growth Fund est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur des valeurs de croissance des marchés internationaux. Le compartiment cherche à investir dans des valeurs présentant des positions affirmées de leadership global dans leur secteur. L’indice MSCI All Country World peut être utilisé comme indicateur de comparaison a posteriori de la performance. La gestion du compartiment s'appuie sur une sélection rigoureuse de titres « stock picking ». De plus, dans le cadre de la construction du portefeuille, l'équipe de gestion intègre de façon systématique une approche extra financière sans toutefois que cette dernière soit déterminante dans les décisions d'investissement.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de 1ère VNI 17/01/2014 » (compartiment créé le 08/11/2013). Compartiment : texte du KID. Frais de gestion = « Frais de gestion 1,00% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.22% » (identique à la factsheet « Frais au 30/09/2025 ») ; pas de commission de surperformance. Indice laissé vide : l'indice MSCI All Country World « peut être utilisé comme indicateur de comparaison a posteriori de la performance » (KID : « utilisé uniquement à titre » indicatif ; factsheet : MSCI ACWI NET RETURN EUR depuis le 01/01/2016). SFDR « Classification SFDR Article 8 », aucun % d'investissements durables écrit. Classification Dynamique : actions internationales de croissance diversifiées (SRI 4), portefeuille concentré (20 lignes). Allocations : colonne Compartiment seulement ; répartitions géographique, sectorielle et par capitalisation en % de l'actif net hors trésorerie (poche trésorerie 2,5 %) ; graphiques lus par position des étiquettes (barre supérieure = compartiment, vérifié par les totaux) ; « Autres » pays = 0 % pour le compartiment ; secteur « Autres » sans valeur pour le compartiment, non repris ; graphique des devises sans colonne indice. Positions = 10 principales positions (62,8 %). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0010859769 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "9.6"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Microsoft",
-      "pct": "9.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amazon",
-      "pct": "9.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Visa",
-      "pct": "7.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mastercard",
-      "pct": "7.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Itau Unibanco Pref",
-      "pct": "4.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nvidia",
-      "pct": "4.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TSMC ADR",
-      "pct": "4.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TE Connectivity",
-      "pct": "4.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Weg SA",
-      "pct": "4.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AIA",
-      "pct": "4.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "USA",
-      "pct": "64.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "BRA",
-      "pct": "9.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "JPN",
-      "pct": "8.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "KOR",
-      "pct": "5.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "TWN",
-      "pct": "5.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "HKG",
-      "pct": "4.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "DEU",
-      "pct": "2.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "IT",
-      "pct": "33.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Prod. financiers",
-      "pct": "26.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "14.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins de santé",
-      "pct": "11.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Conso. discr.",
-      "pct": "10.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Serv. de comm.",
-      "pct": "4.5"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": ">500Mds",
-      "pct": "51.8"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "100Mds - 500Mds",
-      "pct": "21.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "50Mds - 100Mds",
-      "pct": "15.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "10Mds - 50Mds",
-      "pct": "12.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "68.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "BRL",
-      "pct": "9.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "JPY",
-      "pct": "8.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "KRW",
-      "pct": "5.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "4.8"
-    },
-    {
-      "type": "Devises",
-      "libelle": "HKD",
-      "pct": "4.4"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Amazon",
+   "pct": "9.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa",
+   "pct": "7.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mastercard",
+   "pct": "7.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Itau Unibanco Pref",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TSMC ADR",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TE Connectivity",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Weg SA",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIA",
+   "pct": "4.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "USA",
+   "pct": "64.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "BRA",
+   "pct": "9.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "JPN",
+   "pct": "8.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "KOR",
+   "pct": "5.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "TWN",
+   "pct": "5.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "HKG",
+   "pct": "4.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DEU",
+   "pct": "2.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "33.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. financiers",
+   "pct": "26.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "14.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "11.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discr.",
+   "pct": "10.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. de comm.",
+   "pct": "4.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">500Mds",
+   "pct": "51.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "100Mds - 500Mds",
+   "pct": "21.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50Mds - 100Mds",
+   "pct": "15.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10Mds - 50Mds",
+   "pct": "12.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "68.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "BRL",
+   "pct": "9.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "8.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "KRW",
+   "pct": "5.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "4.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "4.4"
+  }
+ ]
 }

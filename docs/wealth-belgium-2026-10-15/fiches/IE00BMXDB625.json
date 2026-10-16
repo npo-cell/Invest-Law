@@ -1,239 +1,239 @@
 {
-  "n": "205",
-  "isin": "IE00BMXDB625",
-  "nom": "(I/C)LIONTRUST GF SUST FUTURE MULTI ASSET EUR",
-  "maison": "Liontrust Investment Partners LLP",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-08",
-  "date_creation": "2021-10-13",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs",
-  "compartiment": "un compartiment de Liontrust Global Funds plc (la Société)",
-  "gerants": "Simon Clements, Peter Michaelis",
-  "encours_millions": "55.5",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.50",
-  "frais_courants": "0.62",
-  "sri": "3",
-  "indice": "",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "9",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Past performance does not predict future returns. You may get back less than you originally invested.",
-  "politique_fr": "",
-  "politique_en": "The Ireland-domiciled and Article 9 Fund aims to deliver capital growth over the long term (5 years or more) using the Sustainable Future process and investing in a combination of global equities, bonds and cash. The investment process uses a thematic approach to identify the key structural growth trends that will shape the global economy of the future.",
-  "source_politique": "Factsheet",
-  "remarques": "Part A8 Acc EUR. Date de création = « Class launch date 13.10.21 » (année sur 2 chiffres, lue 2021 ; identique à « Fund launch date »). Encours = « Fund size^ €55.5m » (encours du fonds dans sa devise de base), sans date propre (date de la factsheet). Frais de gestion = « Annual Management Charge » 0.50 % (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,62 % (OCF factsheet identique). Indice laissé vide : le KID indique que l'indice composite (50 % MSCI World, 35 % Markit iBoxx EUR Overall Index, 15 % ESTR, « Liontrust SF Multi-Asset Global Index ») est utilisé « à des fins de comparaison de la performance » et n'est pas employé pour définir la composition du portefeuille. SFDR article 9 (factsheet « Article 9 Fund »), aucun % d'investissements durables écrit. Classification Equilibré : multi-actifs avec 58,6 % d'actions, SRI 3 (cas limite avec Dynamique). Politique en anglais (factsheet uniquement en anglais, bloc « THE FUND ») ; le KID FR contient une section « Objectifs » plus détaillée non reprise. Allocations : « Equity geographic breakdown » repris en type Zones géographiques (répartition par pays de la poche actions, avec « Other » et « Cash & Derivatives »).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "KID p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "205",
+ "isin": "IE00BMXDB625",
+ "nom": "(I/C)LIONTRUST GF SUST FUTURE MULTI ASSET EUR",
+ "maison": "Liontrust Investment Partners LLP",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-08",
+ "date_creation": "2021-10-13",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "un compartiment de Liontrust Global Funds plc (la Société)",
+ "gerants": "Simon Clements, Peter Michaelis",
+ "encours_millions": "55.5",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.50",
+ "frais_courants": "0.62",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Balanced",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance does not predict future returns. You may get back less than you originally invested.",
+ "politique_fr": "",
+ "politique_en": "The Ireland-domiciled and Article 9 Fund aims to deliver capital growth over the long term (5 years or more) using the Sustainable Future process and investing in a combination of global equities, bonds and cash. The investment process uses a thematic approach to identify the key structural growth trends that will shape the global economy of the future.",
+ "source_politique": "Factsheet",
+ "remarques": "Part A8 Acc EUR. Date de création = « Class launch date 13.10.21 » (année sur 2 chiffres, lue 2021 ; identique à « Fund launch date »). Encours = « Fund size^ €55.5m » (encours du fonds dans sa devise de base), sans date propre (date de la factsheet). Frais de gestion = « Annual Management Charge » 0.50 % (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,62 % (OCF factsheet identique). Indice laissé vide : le KID indique que l'indice composite (50 % MSCI World, 35 % Markit iBoxx EUR Overall Index, 15 % ESTR, « Liontrust SF Multi-Asset Global Index ») est utilisé « à des fins de comparaison de la performance » et n'est pas employé pour définir la composition du portefeuille. SFDR article 9 (factsheet « Article 9 Fund »), aucun % d'investissements durables écrit. Classification Equilibré : multi-actifs avec 58,6 % d'actions, SRI 3 (cas limite avec Dynamique). Politique en anglais (factsheet uniquement en anglais, bloc « THE FUND ») ; le KID FR contient une section « Objectifs » plus détaillée non reprise. Allocations : « Equity geographic breakdown » repris en type Zones géographiques (répartition par pays de la poche actions, avec « Other » et « Cash & Derivatives »). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part IE00BNGJKS90 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "KID p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Equities",
+   "pct": "58.6"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Equities",
-      "pct": "58.6"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Fixed Income",
-      "pct": "38.7"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "[Cash]",
-      "pct": "2.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "19.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "10.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "9.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "9.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "3.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "2.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication Services",
-      "pct": "2.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "0.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Real Estate",
-      "pct": "0.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Other",
-      "pct": "0.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "11.3"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "1.9"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "8.3"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "12.8"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "0.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "United States",
-      "pct": "38.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japan",
-      "pct": "4.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Canada",
-      "pct": "3.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Netherlands",
-      "pct": "2.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Taiwan",
-      "pct": "2.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "United Kingdom",
-      "pct": "2.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Denmark",
-      "pct": "1.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Germany",
-      "pct": "1.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Other",
-      "pct": "2.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Cash & Derivatives",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Government Of Germany 2.5% 15-feb-2035",
-      "pct": "10.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Liontrust GF Sustainable Future European Corporate Bond Fund",
-      "pct": "3.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
-      "pct": "2.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML Holding NV",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Waters Corporation",
-      "pct": "2.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Advantest Corp.",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Broadcom Inc.",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Visa Inc. Class A",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ringkjobing Landbobank A/S",
-      "pct": "1.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KLA Corporation",
-      "pct": "1.6"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fixed Income",
+   "pct": "38.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "[Cash]",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "19.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "10.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "0.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "11.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "1.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "8.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "12.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "0.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "United States",
+   "pct": "38.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japan",
+   "pct": "4.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "3.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Netherlands",
+   "pct": "2.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taiwan",
+   "pct": "2.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "United Kingdom",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Denmark",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Germany",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Other",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash & Derivatives",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Government Of Germany 2.5% 15-feb-2035",
+   "pct": "10.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Liontrust GF Sustainable Future European Corporate Bond Fund",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Waters Corporation",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Advantest Corp.",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc.",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc. Class A",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ringkjobing Landbobank A/S",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KLA Corporation",
+   "pct": "1.6"
+  }
+ ]
 }

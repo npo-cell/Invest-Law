@@ -1,184 +1,184 @@
 {
-  "n": "89",
-  "isin": "IE00B4MJ5D07",
-  "nom": "(I/C)DIMENSIONAL WORLD EQUITY EUR",
-  "maison": "DIMENSIONAL FUND ADVISORS LTD",
-  "factsheet_date": "2026-06-30",
-  "kid_date": "2026-08-10",
-  "date_creation": "2012-01-06",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "This is a sub-fund of Dimensional Funds plc (the \"Dimensional funds\") which is structured as an umbrella fund with segregated liability between sub-funds, established as an open-ended investment company with variable capital under the laws of Ireland with registration number 352043.",
-  "gerants": "",
-  "encours_millions": "6600",
-  "encours_devise": "EUR",
-  "encours_date": "2026-06-30",
-  "frais_gestion": "0.30",
-  "frais_courants": "0.35",
-  "sri": "4",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Investing involves risks such as loss of principal and fluctuating value. The investment return and principal value of an investment may fluctuate so that an investor's shares, when redeemed, may be worth more or less than their original value.",
-  "politique_fr": "",
-  "politique_en": "Objectives:\nThe aim is to increase the value of your investment over the long term and to earn income within the Fund.\nThe Fund is actively managed which means that the Investment Manager is actively making investment decisions for the Fund. The Fund is not managed in reference to a benchmark.\nThe Fund primarily invests in shares of companies traded in developed and/or emerging markets.\nThe Fund generally has a greater allocation to shares of smaller sized companies and value companies as compared to their representation in the general equity market universe. Value companies are those where, at the time of purchase, the Investment Manager believes that the share price is low compared to the accounting value of the company. The Fund may invest up to 20% of its net assets in emerging markets countries.\nThe composition of the Fund may be adjusted based on considerations such as the number of outstanding shares of public companies that are freely available to the investing public, the tendency of the price of a security/share to continue movement in a single direction, how readily available the shares are to buy and sell, liquidity management, size, value, profitability and investment characteristics.\nThe Fund may use financial contracts or instruments (derivatives) to manage risk, reduce costs or improve returns.\nThe Fund may invest in China- A Shares through Stock Connect.\nFund returns are primarily determined by the returns of the securities the Fund invests in, after fees. The performance of an investment in the Fund will be driven by the performance of the equity markets which the Fund focuses on, by the characteristics that the Fund emphasizes—such as exposure to the size, value and profitability premiums—as well as by implementation costs.",
-  "source_politique": "KID",
-  "remarques": "Factsheet trimestrielle en anglais « As of 30 June 2026 » (la plus récente) et KID en anglais : disclaimer et politique en EN. Politique : section « Objectives » du KID (la factsheet n'a qu'une phrase d'objectif « to achieve long-term total return » renvoyant au prospectus). Date de création = « Inception Date 6 January 2012 » (factsheet de la part EUR Acc ; non précisé part ou fonds). Compartiment : mentions légales de la factsheet (KID : « The Fund is a sub-fund of Dimensional Funds plc, a UCITS authorised by the Central Bank of Ireland. »). Encours « Fund Assets (All Share Classes) €6.6 Billion » converti en 6600 millions, sans date propre. Frais de gestion = « Annual Management Charge 0.30% » ; frais courants = KID « Management fees and other administrative or operating costs 0.35% » (= « Ongoing Charges Figure (UCITS) 0.35% » de la factsheet). Indice laissé vide : « The Fund is actively managed and is not managed in reference to a benchmark. The index is used for comparative purposes only. » (MSCI All Country World Index (net div., EUR)). SFDR non indiqué dans les documents. Aucun gérant nommé. Allocations : « Sector Allocation » (Secteurs), « Top Countries » (Pays, 5 premiers), « Top Holdings » (Positions, 10 premières, 15,38 % du fonds).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.3",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "89",
+ "isin": "IE00B4MJ5D07",
+ "nom": "(I/C)DIMENSIONAL WORLD EQUITY EUR",
+ "maison": "DIMENSIONAL FUND ADVISORS LTD",
+ "factsheet_date": "2026-06-30",
+ "kid_date": "2026-08-10",
+ "date_creation": "2012-01-06",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "This is a sub-fund of Dimensional Funds plc (the \"Dimensional funds\") which is structured as an umbrella fund with segregated liability between sub-funds, established as an open-ended investment company with variable capital under the laws of Ireland with registration number 352043.",
+ "gerants": "",
+ "encours_millions": "6600",
+ "encours_devise": "EUR",
+ "encours_date": "2026-06-30",
+ "frais_gestion": "0.30",
+ "frais_courants": "0.35",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Investing involves risks such as loss of principal and fluctuating value. The investment return and principal value of an investment may fluctuate so that an investor's shares, when redeemed, may be worth more or less than their original value.",
+ "politique_fr": "",
+ "politique_en": "Objectives:\nThe aim is to increase the value of your investment over the long term and to earn income within the Fund.\nThe Fund is actively managed which means that the Investment Manager is actively making investment decisions for the Fund. The Fund is not managed in reference to a benchmark.\nThe Fund primarily invests in shares of companies traded in developed and/or emerging markets.\nThe Fund generally has a greater allocation to shares of smaller sized companies and value companies as compared to their representation in the general equity market universe. Value companies are those where, at the time of purchase, the Investment Manager believes that the share price is low compared to the accounting value of the company. The Fund may invest up to 20% of its net assets in emerging markets countries.\nThe composition of the Fund may be adjusted based on considerations such as the number of outstanding shares of public companies that are freely available to the investing public, the tendency of the price of a security/share to continue movement in a single direction, how readily available the shares are to buy and sell, liquidity management, size, value, profitability and investment characteristics.\nThe Fund may use financial contracts or instruments (derivatives) to manage risk, reduce costs or improve returns.\nThe Fund may invest in China- A Shares through Stock Connect.\nFund returns are primarily determined by the returns of the securities the Fund invests in, after fees. The performance of an investment in the Fund will be driven by the performance of the equity markets which the Fund focuses on, by the characteristics that the Fund emphasizes—such as exposure to the size, value and profitability premiums—as well as by implementation costs.",
+ "source_politique": "KID",
+ "remarques": "Factsheet trimestrielle en anglais « As of 30 June 2026 » (la plus récente) et KID en anglais : disclaimer et politique en EN. Politique : section « Objectives » du KID (la factsheet n'a qu'une phrase d'objectif « to achieve long-term total return » renvoyant au prospectus). Date de création = « Inception Date 6 January 2012 » (factsheet de la part EUR Acc ; non précisé part ou fonds). Compartiment : mentions légales de la factsheet (KID : « The Fund is a sub-fund of Dimensional Funds plc, a UCITS authorised by the Central Bank of Ireland. »). Encours « Fund Assets (All Share Classes) €6.6 Billion » converti en 6600 millions, sans date propre. Frais de gestion = « Annual Management Charge 0.30% » ; frais courants = KID « Management fees and other administrative or operating costs 0.35% » (= « Ongoing Charges Figure (UCITS) 0.35% » de la factsheet). Indice laissé vide : « The Fund is actively managed and is not managed in reference to a benchmark. The index is used for comparative purposes only. » (MSCI All Country World Index (net div., EUR)). SFDR non indiqué dans les documents. Aucun gérant nommé. Allocations : « Sector Allocation » (Secteurs), « Top Countries » (Pays, 5 premiers), « Top Holdings » (Positions, 10 premières, 15,38 % du fonds).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "24.35"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "24.35"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "16.17"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "14.23"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "9.61"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "8.29"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication Services",
-      "pct": "6.12"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "5.82"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Staples",
-      "pct": "5.57"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energy",
-      "pct": "5.42"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "2.27"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "REITs",
-      "pct": "1.37"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Real Estate",
-      "pct": "0.80"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United States",
-      "pct": "61.74"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japan",
-      "pct": "5.87"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taiwan",
-      "pct": "3.43"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "3.34"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United Kingdom",
-      "pct": "3.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA Corp",
-      "pct": "2.63"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Microsoft Corp",
-      "pct": "2.57"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Apple Inc",
-      "pct": "2.35"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amazon.com Inc",
-      "pct": "1.70"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Micron Technology Inc",
-      "pct": "1.36"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Meta Platforms Inc",
-      "pct": "1.15"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet Inc",
-      "pct": "1.09"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "pct": "1.04"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Broadcom Inc",
-      "pct": "0.76"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics Co Ltd",
-      "pct": "0.72"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "16.17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "14.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "9.61"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "8.29"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "6.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "5.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "5.57"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "5.42"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "2.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "REITs",
+   "pct": "1.37"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "0.80"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "61.74"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "5.87"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "3.43"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "3.34"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "3.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "2.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "2.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc",
+   "pct": "2.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com Inc",
+   "pct": "1.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Micron Technology Inc",
+   "pct": "1.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms Inc",
+   "pct": "1.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc",
+   "pct": "1.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "1.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc",
+   "pct": "0.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co Ltd",
+   "pct": "0.72"
+  }
+ ]
 }

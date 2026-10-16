@@ -1,102 +1,102 @@
 {
-  "n": "279",
-  "isin": "FR0011847409",
-  "nom": "(I/C)R-CO VALOR P EUR",
-  "maison": "Rothschild & Co Asset Management Europe",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-02-16",
-  "date_creation": "2014-05-23",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs (à dominante actions)",
-  "compartiment": "OPCVM, constitué sous la forme d’une Société d’Investissement à Capital Variable (SICAV)",
-  "gerants": "Yoann IGNATIEW, Charles-Edouard BILBAULT, Henri CAPTIER",
-  "encours_millions": "10814.68",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.95",
-  "frais_courants": "1.10",
-  "sri": "4",
-  "indice": "Aucun",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
-  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nL’objectif de R-co Valor est la recherche de performance, en investissant essentiellement sur les marchés actions et de taux mondiaux, par la mise en oeuvre d’une gestion discrétionnaire reposant notamment sur la sélection d’instruments financiers fondée sur l’analyse financière des émetteurs.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "« SICAV Mixte » ; KID : « OPCVM, constitué sous la forme d’une Société d’Investissement à Capital Variable (SICAV) » (pas un compartiment). Factsheet FR d'août 2026 (une version EN de septembre existe, non retenue). Date de création = « Date de création 23/05/2014 » (« Date 1ère VL 13/06/2014 »). Encours « Actifs sous gestion 10 814,68 M€ ». Frais de gestion = « Frais de gestion financière 0,95% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,10 % (factsheet : « Frais courants ex-post 1,07% »). Indice « Aucun » : factsheet « Indice de référence - » et KID « la SICAV ne dispose pas d'indicateur de référence ». SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Dynamique : SICAV mixte investie essentiellement en actions (10 principales positions toutes actions), SRI 4. Politique : « STRATÉGIE D'INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations : classes d'actifs, capitalisation, secteurs et pays = graphiques en image non lisibles dans le texte du PDF → non repris ; seules les 10 principales positions sont reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.4",
-    "devise": "factsheet p.4",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.4",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.4",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "KID p.3",
-    "disclaimer": "factsheet p.7",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "279",
+ "isin": "FR0011847409",
+ "nom": "(I/C)R-CO VALOR P EUR",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-16",
+ "date_creation": "2014-05-23",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (à dominante actions)",
+ "compartiment": "OPCVM, constitué sous la forme d’une Société d’Investissement à Capital Variable (SICAV)",
+ "gerants": "Yoann IGNATIEW, Charles-Edouard BILBAULT, Henri CAPTIER",
+ "encours_millions": "10814.68",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.95",
+ "frais_courants": "1.10",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "Mixed Asset Global Flexible",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nL’objectif de R-co Valor est la recherche de performance, en investissant essentiellement sur les marchés actions et de taux mondiaux, par la mise en oeuvre d’une gestion discrétionnaire reposant notamment sur la sélection d’instruments financiers fondée sur l’analyse financière des émetteurs.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "« SICAV Mixte » ; KID : « OPCVM, constitué sous la forme d’une Société d’Investissement à Capital Variable (SICAV) » (pas un compartiment). Factsheet FR d'août 2026 (une version EN de septembre existe, non retenue). Date de création = « Date de création 23/05/2014 » (« Date 1ère VL 13/06/2014 »). Encours « Actifs sous gestion 10 814,68 M€ ». Frais de gestion = « Frais de gestion financière 0,95% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,10 % (factsheet : « Frais courants ex-post 1,07% »). Indice « Aucun » : factsheet « Indice de référence - » et KID « la SICAV ne dispose pas d'indicateur de référence ». SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Dynamique : SICAV mixte investie essentiellement en actions (10 principales positions toutes actions), SRI 4. Politique : « STRATÉGIE D'INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations : classes d'actifs, capitalisation, secteurs et pays = graphiques en image non lisibles dans le texte du PDF → non repris ; seules les 10 principales positions sont reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0011261197 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.4",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.3",
+  "disclaimer": "factsheet p.7",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "2.8"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Alphabet",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Freeport-mcmoran Inc",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Thermo Fisher Scientific Inc",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Ferrari Nv",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mercadolibre Inc",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tencent Holdings Ltd",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alibaba Group Holding Ltd",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Agnico Eagle Mines Ltd",
-      "pct": "2.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Lvmh",
-      "pct": "2.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Newmont Corp",
-      "pct": "2.3"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Freeport-mcmoran Inc",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Thermo Fisher Scientific Inc",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ferrari Nv",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mercadolibre Inc",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Agnico Eagle Mines Ltd",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lvmh",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Newmont Corp",
+   "pct": "2.3"
+  }
+ ]
 }

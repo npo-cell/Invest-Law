@@ -1,253 +1,253 @@
 {
-  "n": "311",
-  "isin": "LU0785618231",
-  "nom": "(I/C)TRIODOS IMPACT MIXED NEUTRAL Z EUR",
-  "maison": "Triodos Investment Management B.V.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-08",
-  "date_creation": "2013-01-04",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs (mixte neutre)",
-  "compartiment": "un compartiment de Triodos SICAV I",
-  "gerants": "Rob van Boeijen, Arjan Palthe, Jeroen van Herwaarden",
-  "encours_millions": "507.46424",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.65",
-  "frais_courants": "0.90",
-  "sri": "3",
-  "indice": "",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "9",
-  "durable_pct": "",
-  "duration": "4.07",
-  "qualite_emetteurs": "A",
-  "disclaimer": "Past performance does not predict future returns. Please note that the costs charged have an impact on your return.",
-  "politique_fr": "",
-  "politique_en": "Triodos Impact Mixed Fund - Neutral aims to generate positive impact and competitive returns from a concentrated portfolio of global equity positions and investment-grade corporate, sovereign and sub-sovereign bonds.\n\nThe fund invests in a balanced mix of bonds (including impact and other corporate bonds and government bonds) and equities of companies in developed countries. These companies and the proceeds of the impact and corporate bonds must contribute to, or finance projects in, at least one of the following transitions: resource transition, energy transition, food transition, societal transition or wellbeing transition. Bond investments must be investment grade and denominated in EUR.",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet en anglais « Z-cap | Factsheet September 2026 » (données au 30/09/2026). Date de création = « Share class inception date 04/01/2013 » (fonds : 24/06/2010). Gérants : « Rob van Boeijen (lead), Arjan Palthe , Jeroen van Herwaarden ». Encours « Net asset value EUR 507,464,240 » converti en millions. Frais de gestion 0.65 % (« Management fee ») ; frais courants 0,90 % (KID ; factsheet « Ongoing charges (incl. management fee) as of 30/06/2026 0.90% »). Indice vide : le KID indique qu'il « compare ses rendements » à 50 % Bloomberg Developed Markets Index, 30 % iBoxx Euro Corporates Overall Total Return et 20 % iBoxx Eurozone Sovereign 1-10 Total Return, « qu’il n’a pas pour objectif de reproduire ni de surperformer ». Duration = « Modified Duration 4.07 » (portefeuille obligataire) ; « Average rating A ». SFDR article 9 (factsheet et KID), aucun % d'investissements durables écrit. KID « Produit le: 08042026 ». Classification Equilibré : mixte actions 47,9 % / obligations 47,7 %, SRI 3. Allocations au 30/09/2026 : classes d'actifs (% of NAV), pays (% of portfolio), maturités (% of bonds), notations (% of bond portfolio), capitalisations (% of equity), positions = top 5 actions + top 5 obligations d'entreprises + top 5 obligations souveraines (% of portfolio).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.3",
-    "encours_devise": "factsheet p.3",
-    "encours_date": "factsheet p.3",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.3",
-    "qualite_emetteurs": "factsheet p.3",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "311",
+ "isin": "LU0785618231",
+ "nom": "(I/C)TRIODOS IMPACT MIXED NEUTRAL Z EUR",
+ "maison": "Triodos Investment Management B.V.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-08",
+ "date_creation": "2013-01-04",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (mixte neutre)",
+ "compartiment": "un compartiment de Triodos SICAV I",
+ "gerants": "Rob van Boeijen, Arjan Palthe, Jeroen van Herwaarden",
+ "encours_millions": "507.46424",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.65",
+ "frais_courants": "0.90",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Balanced",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "4.07",
+ "qualite_emetteurs": "A",
+ "disclaimer": "Past performance does not predict future returns. Please note that the costs charged have an impact on your return.",
+ "politique_fr": "",
+ "politique_en": "Triodos Impact Mixed Fund - Neutral aims to generate positive impact and competitive returns from a concentrated portfolio of global equity positions and investment-grade corporate, sovereign and sub-sovereign bonds.\n\nThe fund invests in a balanced mix of bonds (including impact and other corporate bonds and government bonds) and equities of companies in developed countries. These companies and the proceeds of the impact and corporate bonds must contribute to, or finance projects in, at least one of the following transitions: resource transition, energy transition, food transition, societal transition or wellbeing transition. Bond investments must be investment grade and denominated in EUR.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet en anglais « Z-cap | Factsheet September 2026 » (données au 30/09/2026). Date de création = « Share class inception date 04/01/2013 » (fonds : 24/06/2010). Gérants : « Rob van Boeijen (lead), Arjan Palthe , Jeroen van Herwaarden ». Encours « Net asset value EUR 507,464,240 » converti en millions. Frais de gestion 0.65 % (« Management fee ») ; frais courants 0,90 % (KID ; factsheet « Ongoing charges (incl. management fee) as of 30/06/2026 0.90% »). Indice vide : le KID indique qu'il « compare ses rendements » à 50 % Bloomberg Developed Markets Index, 30 % iBoxx Euro Corporates Overall Total Return et 20 % iBoxx Eurozone Sovereign 1-10 Total Return, « qu’il n’a pas pour objectif de reproduire ni de surperformer ». Duration = « Modified Duration 4.07 » (portefeuille obligataire) ; « Average rating A ». SFDR article 9 (factsheet et KID), aucun % d'investissements durables écrit. KID « Produit le: 08042026 ». Classification Equilibré : mixte actions 47,9 % / obligations 47,7 %, SRI 3. Allocations au 30/09/2026 : classes d'actifs (% of NAV), pays (% of portfolio), maturités (% of bonds), notations (% of bond portfolio), capitalisations (% of equity), positions = top 5 actions + top 5 obligations d'entreprises + top 5 obligations souveraines (% of portfolio). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0504302356 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.3",
+  "encours_devise": "factsheet p.3",
+  "encours_date": "factsheet p.3",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Equities",
+   "pct": "47.9"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Equities",
-      "pct": "47.9"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Bonds",
-      "pct": "47.7"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Investment Funds",
-      "pct": "4.0"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Cash",
-      "pct": "0.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United States",
-      "pct": "25.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "12.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Netherlands",
-      "pct": "9.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Germany",
-      "pct": "7.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Luxembourg",
-      "pct": "6.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United Kingdom",
-      "pct": "6.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Spain",
-      "pct": "5.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Denmark",
-      "pct": "4.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japan",
-      "pct": "4.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Other countries",
-      "pct": "19.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "0-2 year",
-      "pct": "23.4"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2-5 year",
-      "pct": "44.1"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5-10 year",
-      "pct": "24.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "10-15 year",
-      "pct": "5.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "> 15 year",
-      "pct": "2.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "16.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "15.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "41.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "26.7"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Large cap > USD 16bn",
-      "pct": "83.5"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Mid cap USD 6-16bn",
-      "pct": "16.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "PALO ALTO NETWOR",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMIC-ADR",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA CORP",
-      "pct": "2.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KLA CORP",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML HOLDING NV",
-      "pct": "1.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "COLOPLAST FINANC 2.75% 2030-05-19",
-      "pct": "0.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DANONE 0.395% 2029-06-10",
-      "pct": "0.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ESSITY AB 0.25% 2031-02-08",
-      "pct": "0.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "RELX FINANCE 3.75% 2031-06-12",
-      "pct": "0.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "REN FINANCE BV 0.5% 2029-04-16",
-      "pct": "0.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "REP OF AUSTRIA 2.9% 2029-05-23",
-      "pct": "0.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NETHERLANDS GOVT 0.5% 2040-01-15",
-      "pct": "0.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IRISH GOVT 1.35% 2031-03-18",
-      "pct": "0.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SPANISH GOV'T 1% 2042-07-30",
-      "pct": "0.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BTPS 4% 2031-10-30",
-      "pct": "0.6"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bonds",
+   "pct": "47.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Investment Funds",
+   "pct": "4.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "0.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "25.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "12.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "9.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "7.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "6.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "6.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "5.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Denmark",
+   "pct": "4.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "4.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other countries",
+   "pct": "19.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-2 year",
+   "pct": "23.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2-5 year",
+   "pct": "44.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-10 year",
+   "pct": "24.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10-15 year",
+   "pct": "5.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 15 year",
+   "pct": "2.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "16.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "15.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "41.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "26.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large cap > USD 16bn",
+   "pct": "83.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mid cap USD 6-16bn",
+   "pct": "16.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PALO ALTO NETWOR",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMIC-ADR",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KLA CORP",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COLOPLAST FINANC 2.75% 2030-05-19",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DANONE 0.395% 2029-06-10",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ESSITY AB 0.25% 2031-02-08",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RELX FINANCE 3.75% 2031-06-12",
+   "pct": "0.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REN FINANCE BV 0.5% 2029-04-16",
+   "pct": "0.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REP OF AUSTRIA 2.9% 2029-05-23",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NETHERLANDS GOVT 0.5% 2040-01-15",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IRISH GOVT 1.35% 2031-03-18",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SPANISH GOV'T 1% 2042-07-30",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BTPS 4% 2031-10-30",
+   "pct": "0.6"
+  }
+ ]
 }

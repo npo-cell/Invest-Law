@@ -1,205 +1,205 @@
 {
-  "n": "327",
-  "isin": "IE00B42W4L06",
-  "nom": "(I/C)VANGUARD GLOBAL SMALL CAP INDEX FUND EUR",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2012-12-11",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales (petites capitalisations)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Global Equity Index Management (GE)",
-  "encours_millions": "6973",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.30",
-  "sri": "4",
-  "indice": "MSCI World Small Cap Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI World Small Cap (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de petite taille des marchés développés.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Acc » ; KID : « Vanguard Global Small-Cap Index Fund (le \"Fonds\") - EUR Accumulation Shares ». Date de création « 11 décembre 2012 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 6 973 € » (fonds) ; encours de la classe d'actifs 1 266 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.30 % ; la factsheet indique un « Montant des frais courants (MFC) » de 0,29 % (écart entre les deux documents). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Global Equity Index Management (GE) » (rubrique « Gestionnaire de portefeuille »). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays (seuls les 10 principaux marchés sont donnés, total 93,7 %) ; « Exposition pondérée » (secteurs GICS) en Secteurs ; Positions = « 10 principaux titres » (données au 31 août 2026). Classification Dynamique : indice actions petites capitalisations des marchés développés, très diversifié (pas une niche sectorielle), SRI 4 ; cas limite avec Agressif.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "327",
+ "isin": "IE00B42W4L06",
+ "nom": "(I/C)VANGUARD GLOBAL SMALL CAP INDEX FUND EUR",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2012-12-11",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (petites capitalisations)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Global Equity Index Management (GE)",
+ "encours_millions": "6973",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.30",
+ "sri": "4",
+ "indice": "MSCI World Small Cap Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI World Small Cap (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de petite taille des marchés développés.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Acc » ; KID : « Vanguard Global Small-Cap Index Fund (le \"Fonds\") - EUR Accumulation Shares ». Date de création « 11 décembre 2012 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 6 973 € » (fonds) ; encours de la classe d'actifs 1 266 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.30 % ; la factsheet indique un « Montant des frais courants (MFC) » de 0,29 % (écart entre les deux documents). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Global Equity Index Management (GE) » (rubrique « Gestionnaire de portefeuille »). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays (seuls les 10 principaux marchés sont donnés, total 93,7 %) ; « Exposition pondérée » (secteurs GICS) en Secteurs ; Positions = « 10 principaux titres » (données au 31 août 2026). Classification Dynamique : indice actions petites capitalisations des marchés développés, très diversifié (pas une niche sectorielle), SRI 4 ; cas limite avec Agressif.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Sandisk Corp.",
+   "pct": "2.1"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Sandisk Corp.",
-      "pct": "2.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Moderna Inc.",
-      "pct": "0.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ATI Inc.",
-      "pct": "0.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "nVent Electric plc",
-      "pct": "0.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tenet Healthcare Corp.",
-      "pct": "0.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "US Foods Holding Corp.",
-      "pct": "0.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Carpenter Technology Corp.",
-      "pct": "0.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Royal Gold Inc.",
-      "pct": "0.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Roku Inc.",
-      "pct": "0.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Woodward Inc.",
-      "pct": "0.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "19.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "14.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'information",
-      "pct": "12.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "11.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discrétionnaire",
-      "pct": "10.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "8.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "7.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "5.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "4.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de Communication",
-      "pct": "3.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "2.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "61.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japon",
-      "pct": "12.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "4.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "4.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Australie",
-      "pct": "3.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Suède",
-      "pct": "1.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Israël",
-      "pct": "1.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "1.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Suisse",
-      "pct": "1.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "1.3"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Moderna Inc.",
+   "pct": "0.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ATI Inc.",
+   "pct": "0.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "nVent Electric plc",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tenet Healthcare Corp.",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Foods Holding Corp.",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Carpenter Technology Corp.",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Royal Gold Inc.",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roku Inc.",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Woodward Inc.",
+   "pct": "0.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "19.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "14.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "12.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "11.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "10.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "8.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "7.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "2.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "61.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "12.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "4.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "4.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Suède",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Israël",
+   "pct": "1.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "1.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Suisse",
+   "pct": "1.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "1.3"
+  }
+ ]
 }

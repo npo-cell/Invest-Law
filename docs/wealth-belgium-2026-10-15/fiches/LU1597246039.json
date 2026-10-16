@@ -1,215 +1,215 @@
 {
-  "n": "26",
-  "isin": "LU1597246039",
-  "nom": "(I/C)ALLIANZ GLOBAL ARTIFICIAL INTELLIGENCE RT EUR",
-  "maison": "Allianz Global Investors GmbH",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-05-11",
-  "date_creation": "2017-04-26",
-  "devise": "EUR",
-  "type_fonds": "Actions thématiques (intelligence artificielle)",
-  "compartiment": "Allianz Global Artificial Intelligence est un compartiment de la SICAV Allianz Global Investors Fund, une société d’investissement à capital variable régie par les lois de Luxembourg.",
-  "gerants": "Sebastian Thomas, James Chen, Stephen Jue",
-  "encours_millions": "8176.30",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.24",
-  "sri": "5",
-  "indice": "50% MSCI AC World (ACWI) Total Return Net + 50% MSCI World Information Technology Total Return Net (in EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "68.11",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs.",
-  "politique_fr": "Objectif d’investissement\nLe fonds investit au moins 70 % de ses actifs dans des actions d’entreprises internationales exerçant au moins une partie de leurs activités dans le ou étant liées au domaine de l’« intelligence artificielle » (intelligence manifestée par des machines). Son objectif d’investissement consiste à générer une croissance du capital sur le long terme.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet FR du 30/09/2026 (classe RT (EUR)) ; KID FR du 11/05/2026 au texte mal encodé (utilisé pour SRI, frais, rôle de l'indice, SFDR). Date de création = « Lancement catégorie d’actions 26/04/2017 » ; lancement du fonds 31/03/2017. Encours = « Taille du fonds 8 176,30 M USD » ; classe : 165,28 M EUR. Frais : « Commission forfaitaire (%) 1,18 (max 1,60) p.a. » (commission globale, pas une commission de gestion seule) → frais de gestion vide ; frais courants 1,24 % (KID, = « TFE (%) 1,24 »). Indice composite : sert à définir l'objectif de performance et à mesurer les performances (KID) → retenu. SFDR article 8 (KID). Investissements durables = « Proportion d’investissements durables Portefeuille 68,11% » (minimum KID : 10 %). Gestionnaire délégué : Voya Investment Management LLC. Avertissement AMF sur une communication disproportionnée sur les critères non financiers. Allocations : colonne « % poids du fonds » ; pays « République populaire de » tel qu'écrit (libellé tronqué dans le document).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "KID",
-    "durable_pct": "factsheet p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "26",
+ "isin": "LU1597246039",
+ "nom": "(I/C)ALLIANZ GLOBAL ARTIFICIAL INTELLIGENCE RT EUR",
+ "maison": "Allianz Global Investors GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-11",
+ "date_creation": "2017-04-26",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (intelligence artificielle)",
+ "compartiment": "Allianz Global Artificial Intelligence est un compartiment de la SICAV Allianz Global Investors Fund, une société d’investissement à capital variable régie par les lois de Luxembourg.",
+ "gerants": "Sebastian Thomas, James Chen, Stephen Jue",
+ "encours_millions": "8176.30",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.24",
+ "sri": "5",
+ "indice": "50% MSCI AC World (ACWI) Total Return Net + 50% MSCI World Information Technology Total Return Net (in EUR)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "68.11",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs.",
+ "politique_fr": "Objectif d’investissement\nLe fonds investit au moins 70 % de ses actifs dans des actions d’entreprises internationales exerçant au moins une partie de leurs activités dans le ou étant liées au domaine de l’« intelligence artificielle » (intelligence manifestée par des machines). Son objectif d’investissement consiste à générer une croissance du capital sur le long terme.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR du 30/09/2026 (classe RT (EUR)) ; KID FR du 11/05/2026 au texte mal encodé (utilisé pour SRI, frais, rôle de l'indice, SFDR). Date de création = « Lancement catégorie d’actions 26/04/2017 » ; lancement du fonds 31/03/2017. Encours = « Taille du fonds 8 176,30 M USD » ; classe : 165,28 M EUR. Frais : « Commission forfaitaire (%) 1,18 (max 1,60) p.a. » (commission globale, pas une commission de gestion seule) → frais de gestion vide ; frais courants 1,24 % (KID, = « TFE (%) 1,24 »). Indice composite : sert à définir l'objectif de performance et à mesurer les performances (KID) → retenu. SFDR article 8 (KID). Investissements durables = « Proportion d’investissements durables Portefeuille 68,11% » (minimum KID : 10 %). Gestionnaire délégué : Voya Investment Management LLC. Avertissement AMF sur une communication disproportionnée sur les critères non financiers. Allocations : colonne « % poids du fonds » ; pays « République populaire de » tel qu'écrit (libellé tronqué dans le document).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID",
+  "durable_pct": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "59.46"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l’information",
-      "pct": "59.46"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "11.81"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "10.71"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "9.93"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "3.88"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discrétionnaire",
-      "pct": "3.25"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "0.96"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "0.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "0.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "0.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.00"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "84.12"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taïwan",
-      "pct": "5.41"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "3.24"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "2.73"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Irlande",
-      "pct": "1.49"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Finlande",
-      "pct": "1.28"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Corée du Sud",
-      "pct": "1.15"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Hong Kong",
-      "pct": "0.30"
-    },
-    {
-      "type": "Pays",
-      "libelle": "République populaire de",
-      "pct": "0.29"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "0.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA CORP",
-      "pct": "7.62"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
-      "pct": "5.24"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BROADCOM INC",
-      "pct": "5.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ELI LILLY & CO",
-      "pct": "3.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LAM RESEARCH CORP",
-      "pct": "3.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICRON TECHNOLOGY INC",
-      "pct": "3.59"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FLEX LTD",
-      "pct": "3.38"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CATERPILLAR INC",
-      "pct": "3.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MORGAN STANLEY",
-      "pct": "2.90"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GE VERNOVA INC",
-      "pct": "2.85"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 10 Md",
-      "pct": "100"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "< 5 Md",
-      "pct": "0"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "11.81"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "10.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "9.93"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.88"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "3.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "0.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "84.12"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "5.41"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.24"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "1.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "1.28"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "1.15"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "0.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "République populaire de",
+   "pct": "0.29"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "0.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "7.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
+   "pct": "5.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "5.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ELI LILLY & CO",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LAM RESEARCH CORP",
+   "pct": "3.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICRON TECHNOLOGY INC",
+   "pct": "3.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FLEX LTD",
+   "pct": "3.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CATERPILLAR INC",
+   "pct": "3.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MORGAN STANLEY",
+   "pct": "2.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GE VERNOVA INC",
+   "pct": "2.85"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 10 Md",
+   "pct": "100"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 5 Md",
+   "pct": "0"
+  }
+ ]
 }
