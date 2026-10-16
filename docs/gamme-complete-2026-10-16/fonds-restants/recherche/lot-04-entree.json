@@ -1,0 +1,74 @@
+[
+ {
+  "n": 665,
+  "isin": "LU3283426263",
+  "nom": "LAIQON GLOBAL EQUITIES DYNAMIC R EUR",
+  "maison": "Universal-Investment-Luxembourg S.A",
+  "type_onelife": "Equity Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 720,
+  "isin": "LU3302264125",
+  "nom": "MANDARINE GLOBAL TARGET 2032 C EUR",
+  "maison": "MANDARINE GESTION",
+  "type_onelife": "Bond Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 2"
+ },
+ {
+  "n": 745,
+  "isin": "LU1849527939",
+  "nom": "ODDO BHF EXKLUSIV POLARIS BALANCED CR-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 770,
+  "isin": "LU0309035870",
+  "nom": "PICTET SHORT-TERM MONEY MARKET JPY R",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "type_onelife": "Money-Market Funds",
+  "devise": "JPY",
+  "risque_onelife": "LEVEL - 1"
+ },
+ {
+  "n": 797,
+  "isin": "LU0491217419",
+  "nom": "ROBECO INDIAN EQUITIES D EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "type_onelife": "Equity Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 832,
+  "isin": "LU0563142883",
+  "nom": "TEMPLETON GLOBAL TOTAL RETURN A SEK",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "type_onelife": "Bond Funds",
+  "devise": "SEK",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 833,
+  "isin": "LU0170475312",
+  "nom": "TEMPLETON GLOBAL TOTAL RETURN A USD",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "type_onelife": "Bond Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 838,
+  "isin": "FR001400UP68",
+  "nom": "TIKEHAU 2031 R EUR (FMB)",
+  "maison": "TIKEHAU INVESTMENT MANAGEMENT",
+  "type_onelife": "Bond Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ }
+]

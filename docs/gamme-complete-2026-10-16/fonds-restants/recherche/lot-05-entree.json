@@ -1,0 +1,191 @@
+[
+ {
+  "n": 538,
+  "isin": "XFCS000OL258",
+  "nom": "FIC ALL WEATHER GLOBAL BALANCED ALLOCATION A",
+  "maison": "First Trust Global Portfolios Limited",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 540,
+  "isin": "XFCS00OL1790",
+  "nom": "FIC DELCAP DIVERSIFIED BOND OPPORTUNITIES",
+  "maison": "DELCAP S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 541,
+  "isin": "XFCS00OL1641",
+  "nom": "FIC DELCAP LIFESTYLE",
+  "maison": "DELCAP S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 544,
+  "isin": "XFCS000OL284",
+  "nom": "FIC ESSENTIA EQUILIBRE B",
+  "maison": "Banque de Luxembourg Investissement (BLI)",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 545,
+  "isin": "XFCS000OL283",
+  "nom": "FIC ESSENTIA PRUDENT B",
+  "maison": "Banque de Luxembourg Investissement (BLI)",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 546,
+  "isin": "XFCS00OL2045",
+  "nom": "FIC FAIRWIN EVOLUTION",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 547,
+  "isin": "XFCS00OL2157",
+  "nom": "FIC GOLDMAN SACHS ALPHA ENHANCED ETF CAM",
+  "maison": "Invest4Growth Asset Management Ltd",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 548,
+  "isin": "XFCS000OL243",
+  "nom": "FIC HERMITAGE PATRIMOINE B",
+  "maison": "PRIVALUX MANAGEMENT S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 549,
+  "isin": "XFCS000OL309",
+  "nom": "FIC HORIZON B",
+  "maison": "Andbank Luxembourg",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 550,
+  "isin": "XFCS000OL271",
+  "nom": "FIC L HARMONY BOREAL FUND",
+  "maison": "PRIVALUX MANAGEMENT S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 551,
+  "isin": "XFCS00OL1425",
+  "nom": "FIC MONETARY PLUS STRATEGY FUND",
+  "maison": "Invest4Growth Asset Management Ltd",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 2"
+ },
+ {
+  "n": 553,
+  "isin": "XFCS000OL228",
+  "nom": "FIC MS REAL ESTATE FUND A",
+  "maison": "Montségur",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 5"
+ },
+ {
+  "n": 555,
+  "isin": "XFCS00OL1887",
+  "nom": "FIC PATRIMOINE LIFE DYNAMIC FUND A",
+  "maison": "Fiducenter S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 556,
+  "isin": "XFCS00OL1797",
+  "nom": "FIC PATRIMOINE LIFE PRUDENCE FUND",
+  "maison": "Fiducenter S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 2"
+ },
+ {
+  "n": 557,
+  "isin": "XFCS000OL264",
+  "nom": "FIC PATRIMONIAL ADVICE FUND",
+  "maison": "Andbank Luxembourg",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 558,
+  "isin": "XFCS00OL1454",
+  "nom": "FIC PURE EQUILIBRE 2.0",
+  "maison": "Pure Capital S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 559,
+  "isin": "XFCS000OL244",
+  "nom": "FIC SOLID CAPTAIN",
+  "maison": "GAM Investments",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 560,
+  "isin": "XFCS00OL2130",
+  "nom": "FIC SOLID COMPASS",
+  "maison": "CARMIGNAC_AM_FIC",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 561,
+  "isin": "XFCS000OL288",
+  "nom": "FIC SOLID SEA FUND",
+  "maison": "Lazard Frères Gestion",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 562,
+  "isin": "XFCS000OL247",
+  "nom": "FIC SOMAFI NEUTRAL B",
+  "maison": "PRIVALUX MANAGEMENT S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 563,
+  "isin": "XFCS00OL1729",
+  "nom": "FIC VIVACITY FLEXIBLE PORTFOLIO",
+  "maison": "INTESA SANPAOLO WEALTH MANAGEMENT",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ }
+]

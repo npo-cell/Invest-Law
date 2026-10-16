@@ -1,0 +1,74 @@
+[
+ {
+  "n": 149,
+  "isin": "LU1748854947",
+  "nom": "(I/C)FVS MULTIPLE OPPORTUNITIES II HT EUR",
+  "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 168,
+  "isin": "LU0129459060",
+  "nom": "(I/C)JPM AMERICA EQUITY C USD",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "type_onelife": "Equity Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 173,
+  "isin": "LU0079555370",
+  "nom": "(I/C)JPM GLOBAL BALANCED C EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "type_onelife": "Equity Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 176,
+  "isin": "LU0168343191",
+  "nom": "(I/C)JPM GLOBAL FOCUS C EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "type_onelife": "Equity Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 349,
+  "isin": "LU1146622755",
+  "nom": "ABERDEEN CHINA A SHARE SUSTAINABLE EQ FUND A USD",
+  "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 5"
+ },
+ {
+  "n": 350,
+  "isin": "LU0505663152",
+  "nom": "ABERDEEN WORLD RESOURCES EQUITY FUND A USD",
+  "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 351,
+  "isin": "LU0090865873",
+  "nom": "ABRDN LIQUIDITY FUND (LUX) A2 EUR",
+  "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+  "type_onelife": "Money-Market Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 1"
+ },
+ {
+  "n": 630,
+  "isin": "LU0046217351",
+  "nom": "JANUS HENDERSON HRZN PANEURPSMRCOMS A2 EUR",
+  "maison": "Janus Henderson Investors",
+  "type_onelife": "Equity Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ }
+]

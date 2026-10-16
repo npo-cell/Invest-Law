@@ -1,0 +1,74 @@
+[
+ {
+  "n": 380,
+  "isin": "LU0180621863",
+  "nom": "AVIVA EMERGING MARKETS BOND B USD",
+  "maison": "Aviva Investors Luxembourg S.A.",
+  "type_onelife": "Bond Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 381,
+  "isin": "LU0367993317",
+  "nom": "AVIVA GLOBAL HIGH YIELD BOND A USD",
+  "maison": "Aviva Investors Luxembourg S.A.",
+  "type_onelife": "Bond Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 2"
+ },
+ {
+  "n": 382,
+  "isin": "LU0047882062",
+  "nom": "AVIVA INVESTORS EM EQ INC B USD ACC",
+  "maison": "Aviva Investors Luxembourg S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 383,
+  "isin": "LU0010020310",
+  "nom": "AVIVA INVESTORS UK EQ UNCONSTR B GBP",
+  "maison": "Aviva Investors Luxembourg S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "GBP",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 400,
+  "isin": "LU0097036916",
+  "nom": "BGF US GROWTH A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "type_onelife": "Equity Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 404,
+  "isin": "LU0122379950",
+  "nom": "BGF WORLD HEALTHSCIENCE A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "type_onelife": "Equity Funds",
+  "devise": "USD",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 415,
+  "isin": "LU0162658883",
+  "nom": "BLACKROCK EURO CORPORATE BOND A2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "type_onelife": "Bond Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 2"
+ },
+ {
+  "n": 418,
+  "isin": "LU0012119433",
+  "nom": "CANDRIAM BDS INTERNATIONAL C EUR CAP",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "type_onelife": "Bond Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 2"
+ }
+]

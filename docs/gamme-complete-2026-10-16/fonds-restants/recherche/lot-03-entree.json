@@ -1,0 +1,74 @@
+[
+ {
+  "n": 497,
+  "isin": "LU0562934264",
+  "nom": "EAST CAPITAL GLOBAL EM MARKETS SUSTAINABLE SEK",
+  "maison": "East Capital Asset Management S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "SEK",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 498,
+  "isin": "LU1125674611",
+  "nom": "EAST CAPITAL GLOBAL FRONTIER MKTS A SEK",
+  "maison": "East Capital Asset Management S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "SEK",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 499,
+  "isin": "LU0944739340",
+  "nom": "EAST CAPITAL NEW EUROPE A SEK",
+  "maison": "East Capital Asset Management S.A.",
+  "type_onelife": "Equity Funds",
+  "devise": "SEK",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 529,
+  "isin": "FR0014019TC0",
+  "nom": "FAIRWIN EVOLUTION STRATEGY C EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 3"
+ },
+ {
+  "n": 614,
+  "isin": "NO0010072937",
+  "nom": "HOLBERG LIKVIDITET NOK",
+  "maison": "Holberg Fondene",
+  "type_onelife": "Money-Market Funds",
+  "devise": "NOK",
+  "risque_onelife": "LEVEL - 1"
+ },
+ {
+  "n": 625,
+  "isin": "LU0208850171",
+  "nom": "INVESTERUM GLOBAL GROWTH D EUR",
+  "maison": "ISEC Services AB (SE)",
+  "type_onelife": "Flexible Funds",
+  "devise": "EUR",
+  "risque_onelife": "LEVEL - 4"
+ },
+ {
+  "n": 672,
+  "isin": "SE0002686584",
+  "nom": "LANNEBO SVERIGE PLUS SEK",
+  "maison": "Lannebo Fonder",
+  "type_onelife": "Equity Funds",
+  "devise": "SEK",
+  "risque_onelife": "LEVEL - 5"
+ },
+ {
+  "n": 674,
+  "isin": "SE0000740672",
+  "nom": "LANNEBO TEKNIK SEK",
+  "maison": "Lannebo Fonder",
+  "type_onelife": "Equity Funds",
+  "devise": "SEK",
+  "risque_onelife": "LEVEL - 6"
+ }
+]
