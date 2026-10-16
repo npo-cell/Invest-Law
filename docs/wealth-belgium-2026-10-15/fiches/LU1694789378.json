@@ -1,133 +1,133 @@
 {
-  "n": "90",
-  "isin": "LU1694789378",
-  "nom": "(I/C)DNCA INVEST ALPHA BONDS I EUR",
-  "maison": "DNCA FINANCE",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-16",
-  "date_creation": "2017-12-14",
-  "devise": "EUR",
-  "type_fonds": "Obligataire",
-  "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
-  "gerants": "Pascal GILBERT, François COLLET, Fabien GEORGES, Paul LENTZ, Thibault CHRAPATY, Guillaume FRADIN",
-  "encours_millions": "33866",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.67",
-  "sri": "2",
-  "indice": "€STR + 2%",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "3.99",
-  "qualite_emetteurs": "A+",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
-  "politique_fr": "Objectif de gestion\nLe produit a pour objectif d'offrir, sur la durée de placement recommandée supérieure à trois ans, une performance supérieure, nette de tous frais, à celle de l'indice €STR plus 2%. Cet objectif de performance est recherché en l’associant à une volatilité annuelle inférieure à 5% dans des conditions normales de marché. L'attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux / sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Encours : « Actif net (m€) 33 866 » tel qu'écrit en p.1 (montant très élevé, à contrôler sur une autre source avant publication). Date de création « 14/12/2017 » : la factsheet ne précise pas s'il s'agit de la part I ou du compartiment. Frais de gestion : la factsheet ne donne pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 0,67% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà de €STR + 2 % (0,38 % en moyenne). Indice : « Indicateur de référence : €STR + 2% » (factsheet) ; le KID précise qu'il sert au calcul de la commission de performance et à la comparaison, mais il est aussi l'objectif de performance. Duration = « Sensibilité moyenne 3,99 » (pas de duration en années). Qualité = « Note moyenne A+ ». SFDR : article 8 (factsheet p.5 et KID p.3), aucun % d'investissements durables écrit. Allocations non reprises car pas des répartitions d'actifs en % : « Sensibilité taux par pays » (en années), « Contribution à la performance du mois », « Contribution à la volatilité », répartitions ESG (p.4). Notations et devises lues sur graphiques (positions des étiquettes vérifiées) ; total des notations 88,1 % (le reste n'est pas ventilé dans le document) ; « Exposition devise » = expositions hors EUR seulement.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.5",
-    "devise": "factsheet p.5",
-    "compartiment": "factsheet p.6",
-    "gerants": "factsheet p.5",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.5",
-    "sfdr": "factsheet p.5",
-    "duration": "factsheet p.1",
-    "qualite_emetteurs": "factsheet p.1",
-    "disclaimer": "factsheet p.6",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "90",
+ "isin": "LU1694789378",
+ "nom": "(I/C)DNCA INVEST ALPHA BONDS I EUR",
+ "maison": "DNCA FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2017-12-14",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+ "gerants": "Pascal GILBERT, François COLLET, Fabien GEORGES, Paul LENTZ, Thibault CHRAPATY, Guillaume FRADIN",
+ "encours_millions": "33866",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.67",
+ "sri": "2",
+ "indice": "€STR + 2%",
+ "classification": "Défensif",
+ "categorie": "Bond Global Absolute Return",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.99",
+ "qualite_emetteurs": "A+",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+ "politique_fr": "Objectif de gestion\nLe produit a pour objectif d'offrir, sur la durée de placement recommandée supérieure à trois ans, une performance supérieure, nette de tous frais, à celle de l'indice €STR plus 2%. Cet objectif de performance est recherché en l’associant à une volatilité annuelle inférieure à 5% dans des conditions normales de marché. L'attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux / sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Encours : « Actif net (m€) 33 866 » tel qu'écrit en p.1 (montant très élevé, à contrôler sur une autre source avant publication). Date de création « 14/12/2017 » : la factsheet ne précise pas s'il s'agit de la part I ou du compartiment. Frais de gestion : la factsheet ne donne pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 0,67% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà de €STR + 2 % (0,38 % en moyenne). Indice : « Indicateur de référence : €STR + 2% » (factsheet) ; le KID précise qu'il sert au calcul de la commission de performance et à la comparaison, mais il est aussi l'objectif de performance. Duration = « Sensibilité moyenne 3,99 » (pas de duration en années). Qualité = « Note moyenne A+ ». SFDR : article 8 (factsheet p.5 et KID p.3), aucun % d'investissements durables écrit. Allocations non reprises car pas des répartitions d'actifs en % : « Sensibilité taux par pays » (en années), « Contribution à la performance du mois », « Contribution à la volatilité », répartitions ESG (p.4). Notations et devises lues sur graphiques (positions des étiquettes vérifiées) ; total des notations 88,1 % (le reste n'est pas ventilé dans le document) ; « Exposition devise » = expositions hors EUR seulement. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1694789451 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.5",
+  "devise": "factsheet p.5",
+  "compartiment": "factsheet p.6",
+  "gerants": "factsheet p.5",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.5",
+  "sfdr": "factsheet p.5",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.6",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "6.1"
   },
-  "allocations": [
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "6.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "JPY",
-      "pct": "3.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "AUD",
-      "pct": "2.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "MXN",
-      "pct": "1.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "SEK",
-      "pct": "1.5"
-    },
-    {
-      "type": "Devises",
-      "libelle": "BRL",
-      "pct": "1.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "NOK",
-      "pct": "1.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "PLN",
-      "pct": "1.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "CLP",
-      "pct": "0.9"
-    },
-    {
-      "type": "Devises",
-      "libelle": "HUF",
-      "pct": "0.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "6.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "43.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "21.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "13.6"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "2.3"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B",
-      "pct": "0.3"
-    }
-  ]
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "3.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "AUD",
+   "pct": "2.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "MXN",
+   "pct": "1.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SEK",
+   "pct": "1.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "BRL",
+   "pct": "1.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NOK",
+   "pct": "1.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "PLN",
+   "pct": "1.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CLP",
+   "pct": "0.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HUF",
+   "pct": "0.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "6.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "43.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "21.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "13.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "2.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "0.3"
+  }
+ ]
 }

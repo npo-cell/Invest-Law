@@ -1,102 +1,102 @@
 {
-  "n": "119",
-  "isin": "LU1781816530",
-  "nom": "(I/C)EDMOND DE ROTHSCHILD FUND BIG DATA CR EUR",
-  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-07-01",
-  "date_creation": "2018-03-16",
-  "devise": "EUR",
-  "type_fonds": "Actions thématiques (technologie / Big Data)",
-  "compartiment": "compartiment de la Société d’Investissement à Capital Variable (SICAV) EDMOND DE ROTHSCHILD FUND de droit Luxembourgeois",
-  "gerants": "Xiadong BAO, Alexis BOSSARD",
-  "encours_millions": "2826.33",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.85",
-  "frais_courants": "1.35",
-  "sri": "4",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "61.16",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs.",
-  "politique_fr": "Objectif : L’objectif du Produit consiste à dégager une performance supérieure à celle de son indice sur un horizon de placement de 5 ans, en investissant sur les marchés de capitaux internationaux et par la sélection, entre autres, de sociétés du secteur technologique ou liées aux technologies d’analyse de pointe – Big Data.\n\nIndice de référence : L'indice de référence du Produit est l'indice MSCI World, calculé dividendes nets réinvestis. L'indice de référence sera exprimé dans la devise de la Catégorie.\n\nL’indice de référence sert uniquement à des fins de comparaison. Le Produit est géré activement.\n\nPolitique d’investissement : Le Gestionnaire d’investissement inclura systématiquement des facteurs environnementaux, sociaux et de gouvernance (ESG) dans son analyse financière afin de sélectionner les sociétés les mieux notées.\n\nAu moins 90 % des entreprises du portefeuille auront une notation ESG. À la fin de ce processus, le Produit aura une notation ESG supérieure à celle de son univers d’investissement.\n\nEn outre, le processus de sélection des titres comprend également un filtre d’exclusion visant les sociétés qui contribuent à la production d’armes controversées, conformément aux conventions internationales en la matière, ainsi que les sociétés exposées à des activités liées au charbon thermique ou au tabac, conformément à la politique d’exclusion du Groupe Edmond de Rothschild, disponible sur son site Internet : https://www.edmond-de-rothschild.com/fr/Pages/Responsible-investment.aspx, plus particulièrement sur le code de transparence du Produit.\n\nLe Produit est classé selon l’article 8, paragraphe 1, du règlement SFDR, car il promeut une combinaison de caractéristiques ESG, bien qu’aucun indice de référence n’a été désigné pour atteindre les caractéristiques environnementales ou sociales.\n\nDans le cadre de sa stratégie ESG, le Produit promeut des caractéristiques environnementales, mais n’investit pas dans des activités économiques durables sur le plan environnemental. Les investissements sous-jacents de ce Produit financier ne prennent pas en compte les critères de l’Union européenne en matière d’activités économiques durables sur le plan environnemental, dans le cadre du règlement sur la taxonomie.\n\nLe Produit investit au moins 51 % de ses actifs nets dans des titres émis par des sociétés du secteur technologique ou liées aux technologies d’analyse avancée – Big Data –.\n\nEntre 75 % à 110 % des actifs nets du Produit seront exposés directement ou indirectement aux marchés boursiers internationaux et à d’autres titres assimilés.\n\nLe Produit peut investir jusqu’à 30 % de ses actifs nets dans des Actions A chinoises par le biais du programme Shanghai Hong Kong Stock Connect.\n\nÀ des fins de gestion de trésorerie, le Produit peut investir jusqu’à 25 % de son actif net dans des titres de créance négociables, des Instruments du marché monétaire, des dépôts bancaire à terme et des Fonds monétaires. Le Produit recherchera des émissions d’émetteurs publics ou privés notées Investment Grade au moment de l’achat (c’est-à-dire ayant une notation supérieure ou égale à BBB- selon Standard & Poor’s, ou toute autre notation équivalente attribuée par une autre agence indépendante, ou, s’agissant de titres non notés, d’une notation interne jugée équivalente attribuée par le Gestionnaire d’investissement) et ayant une échéance à court terme inférieure à trois mois.\n\nLe Produit peut investir dans des instruments financiers dérivés pour atteindre son objectif d’investissement et à des fins de couverture.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Date de création = « Date de création de la classe : 16/03/2018 » (factsheet ; date de création du fonds 31/08/2015). Encours « ACTIF NET GLOBAL : 2 826,33 M.EUR ». Frais de gestion 0,85 % (factsheet, tableau CR - EUR) ; frais courants = KID « Frais de gestion et autres frais administratifs ou d’exploitation » 1,35 % (identique aux « Frais courants » de la factsheet) ; commission de surperformance 15 % (0,13 %). Indice vide : la factsheet cite « Indice de référence (Indice) : MSCI World (NR) (EUR) » et l'objectif vise à surperformer « son indice », mais le KID précise que « L’indice de référence sert uniquement à des fins de comparaison » (cas douteux). Investissements durables : « Proportion actuelle (%) 61,16 » (factsheet), engagement minimum 20 %. Classification Agressif : actions thématiques technologie/Big Data, malgré SRI 4. Politique : la factsheet ne donne que l'objectif (une phrase), donc section « Objectifs » du KID p.1. Disclaimer : le texte extrait du PDF de la factsheet perd les ligatures (« indicateur able », « peuvent tre ») ; texte rétabli tel qu'affiché (« fiable », « être »), d'où 2 écarts signalés par verif_fiche.py. Allocations : répartitions par type d'actifs, capitalisation, secteur et zone uniquement en images dans le PDF (non reprises) ; seules les 10 principales lignes (texte) sont reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.5",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "KID p.1",
-    "durable_pct": "factsheet p.3",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "119",
+ "isin": "LU1781816530",
+ "nom": "(I/C)EDMOND DE ROTHSCHILD FUND BIG DATA CR EUR",
+ "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-01",
+ "date_creation": "2018-03-16",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (technologie / Big Data)",
+ "compartiment": "compartiment de la Société d’Investissement à Capital Variable (SICAV) EDMOND DE ROTHSCHILD FUND de droit Luxembourgeois",
+ "gerants": "Xiadong BAO, Alexis BOSSARD",
+ "encours_millions": "2826.33",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.85",
+ "frais_courants": "1.35",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "Equity Global Information Technology",
+ "sfdr": "8",
+ "durable_pct": "61.16",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs.",
+ "politique_fr": "Objectif : L’objectif du Produit consiste à dégager une performance supérieure à celle de son indice sur un horizon de placement de 5 ans, en investissant sur les marchés de capitaux internationaux et par la sélection, entre autres, de sociétés du secteur technologique ou liées aux technologies d’analyse de pointe – Big Data.\n\nIndice de référence : L'indice de référence du Produit est l'indice MSCI World, calculé dividendes nets réinvestis. L'indice de référence sera exprimé dans la devise de la Catégorie.\n\nL’indice de référence sert uniquement à des fins de comparaison. Le Produit est géré activement.\n\nPolitique d’investissement : Le Gestionnaire d’investissement inclura systématiquement des facteurs environnementaux, sociaux et de gouvernance (ESG) dans son analyse financière afin de sélectionner les sociétés les mieux notées.\n\nAu moins 90 % des entreprises du portefeuille auront une notation ESG. À la fin de ce processus, le Produit aura une notation ESG supérieure à celle de son univers d’investissement.\n\nEn outre, le processus de sélection des titres comprend également un filtre d’exclusion visant les sociétés qui contribuent à la production d’armes controversées, conformément aux conventions internationales en la matière, ainsi que les sociétés exposées à des activités liées au charbon thermique ou au tabac, conformément à la politique d’exclusion du Groupe Edmond de Rothschild, disponible sur son site Internet : https://www.edmond-de-rothschild.com/fr/Pages/Responsible-investment.aspx, plus particulièrement sur le code de transparence du Produit.\n\nLe Produit est classé selon l’article 8, paragraphe 1, du règlement SFDR, car il promeut une combinaison de caractéristiques ESG, bien qu’aucun indice de référence n’a été désigné pour atteindre les caractéristiques environnementales ou sociales.\n\nDans le cadre de sa stratégie ESG, le Produit promeut des caractéristiques environnementales, mais n’investit pas dans des activités économiques durables sur le plan environnemental. Les investissements sous-jacents de ce Produit financier ne prennent pas en compte les critères de l’Union européenne en matière d’activités économiques durables sur le plan environnemental, dans le cadre du règlement sur la taxonomie.\n\nLe Produit investit au moins 51 % de ses actifs nets dans des titres émis par des sociétés du secteur technologique ou liées aux technologies d’analyse avancée – Big Data –.\n\nEntre 75 % à 110 % des actifs nets du Produit seront exposés directement ou indirectement aux marchés boursiers internationaux et à d’autres titres assimilés.\n\nLe Produit peut investir jusqu’à 30 % de ses actifs nets dans des Actions A chinoises par le biais du programme Shanghai Hong Kong Stock Connect.\n\nÀ des fins de gestion de trésorerie, le Produit peut investir jusqu’à 25 % de son actif net dans des titres de créance négociables, des Instruments du marché monétaire, des dépôts bancaire à terme et des Fonds monétaires. Le Produit recherchera des émissions d’émetteurs publics ou privés notées Investment Grade au moment de l’achat (c’est-à-dire ayant une notation supérieure ou égale à BBB- selon Standard & Poor’s, ou toute autre notation équivalente attribuée par une autre agence indépendante, ou, s’agissant de titres non notés, d’une notation interne jugée équivalente attribuée par le Gestionnaire d’investissement) et ayant une échéance à court terme inférieure à trois mois.\n\nLe Produit peut investir dans des instruments financiers dérivés pour atteindre son objectif d’investissement et à des fins de couverture.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Date de création = « Date de création de la classe : 16/03/2018 » (factsheet ; date de création du fonds 31/08/2015). Encours « ACTIF NET GLOBAL : 2 826,33 M.EUR ». Frais de gestion 0,85 % (factsheet, tableau CR - EUR) ; frais courants = KID « Frais de gestion et autres frais administratifs ou d’exploitation » 1,35 % (identique aux « Frais courants » de la factsheet) ; commission de surperformance 15 % (0,13 %). Indice vide : la factsheet cite « Indice de référence (Indice) : MSCI World (NR) (EUR) » et l'objectif vise à surperformer « son indice », mais le KID précise que « L’indice de référence sert uniquement à des fins de comparaison » (cas douteux). Investissements durables : « Proportion actuelle (%) 61,16 » (factsheet), engagement minimum 20 %. Classification Agressif : actions thématiques technologie/Big Data, malgré SRI 4. Politique : la factsheet ne donne que l'objectif (une phrase), donc section « Objectifs » du KID p.1. Disclaimer : le texte extrait du PDF de la factsheet perd les ligatures (« indicateur able », « peuvent tre ») ; texte rétabli tel qu'affiché (« fiable », « être »), d'où 2 écarts signalés par verif_fiche.py. Allocations : répartitions par type d'actifs, capitalisation, secteur et zone uniquement en images dans le PDF (non reprises) ; seules les 10 principales lignes (texte) sont reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1244893696 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.5",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "KID p.1",
+  "durable_pct": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "VEEVA SYSTEMS INC",
+   "pct": "4.29"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "VEEVA SYSTEMS INC",
-      "pct": "4.29"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ALPHABET INC",
-      "pct": "4.12"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA CORP",
-      "pct": "4.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "OVH GROUPE SA",
-      "pct": "3.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MATCH GROUP INC",
-      "pct": "3.91"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AKAMAI TECHNOLOGIES INC",
-      "pct": "3.74"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NETAPP INC",
-      "pct": "3.73"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ILLUMINA INC",
-      "pct": "3.70"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BRUKER CORP",
-      "pct": "3.63"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-      "pct": "3.60"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "4.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "4.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "OVH GROUPE SA",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MATCH GROUP INC",
+   "pct": "3.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AKAMAI TECHNOLOGIES INC",
+   "pct": "3.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NETAPP INC",
+   "pct": "3.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ILLUMINA INC",
+   "pct": "3.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BRUKER CORP",
+   "pct": "3.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "3.60"
+  }
+ ]
 }

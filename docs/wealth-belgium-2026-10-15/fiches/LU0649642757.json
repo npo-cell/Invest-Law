@@ -1,229 +1,229 @@
 {
-  "n": "247",
-  "isin": "LU0649642757",
-  "nom": "(I/C)PCFS PURE WEALTH IC EUR",
-  "maison": "Pure Capital S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-08-20",
-  "date_creation": "2012-03-15",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs flexible",
-  "compartiment": "Compartiment de la SICAV de droit luxembourgeois \"PCFS\", format UCITS",
-  "gerants": "Patrick Vander Eecken",
-  "encours_millions": "235.8",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.50",
-  "frais_courants": "0.92",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La performance passée n'est pas un indicateur fiable des résultats futurs. Les performances peuvent varier au fil du temps. Les investissements dans ce compartiment sont soumis aux fluctuations des marchés et l’investisseur pourrait ne récupérer qu’un montant inférieur à celui qu’il a investi.",
-  "politique_fr": "OBJECTIFS & POLITIQUE D'INVESTISSEMENT\nL’objectif du compartiment est d’assurer un rendement absolu à l’investisseur, indépendamment de la performance des marchés.\nLa politique d’investissement intègre le principe de diversification accrue des risques, un processus de construction de portefeuille élaboré ainsi qu’un haut niveau de flexibilité et de réactivité des décisions d’investissement.\nSe basant sur l’analyse fondamentale de l’environnement micro- et macroéconomique, le gestionnaire alloue l’exposition du portefeuille entre différentes classes d’actifs. Ainsi, des changements d’allocations géographiques, sectorielles, de ratings et de maturités se traduiront par des variations importantes dans les pondérations. Spécifiquement, au maximum 50% des actifs du compartiment seront directement ou indirectement exposés aux marchés actions. Il n’y a pas de limites concernant les obligations à taux fixes ou à taux flottants, les obligations convertibles ou indexées à l’inflation, les titres de dettes transférables et les bons du trésor. Le compartiment pourra, lors de situations bien précises, détenir du cash ou équivalent dans des proportions significatives. Le compartiment est destiné à tout investisseur désireux de profiter des opportunités qu’offrent les marchés internationaux en termes d’actions, de taux, de crédits, de devises, de matières premières et de tous supports financiers. L’investisseur dispose d’un horizon d’investissement à moyen terme (min. 3 ans).\nLe compartiment est géré activement et n'est pas géré en référence à un indice de référence. Il est classé Article 6 du règlement SFDR. Le compartiment ne prend pas en compte les principaux impacts négatifs sur les facteurs de durabilité.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Lancement : 15-03-12 » (VNI au lancement EUR 100 ; la factsheet ne précise pas s'il s'agit de la part IC ou du compartiment). Encours « AuM: EUR 235,8 millions ». Frais de gestion 0,50% (factsheet). Frais courants : KID 0,92 % retenu ; la factsheet indique « Frais courants (dont frais de gestion) : 1,11% » (divergence). Indice « Aucun ». SFDR article 6 (factsheet). Duration non reprise (fonds multi-actifs) : poche obligations « Duration moyenne (duration modifiée) 4,05 », rendement 4,47 %. Part institutionnelle (min. 250.000 €). Allocations : devises ; classes d'actifs telles qu'écrites (total 99,61 %, valeurs négatives gardées) ; segments obligataires (en % de la poche obligataire) repris en Classes d'actifs ; zones géographiques de la poche actions ; positions = « Top 10 actions » puis « Top 10 obligations ».",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1"
+ "n": "247",
+ "isin": "LU0649642757",
+ "nom": "(I/C)PCFS PURE WEALTH IC EUR",
+ "maison": "Pure Capital S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-20",
+ "date_creation": "2012-03-15",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible",
+ "compartiment": "Compartiment de la SICAV de droit luxembourgeois \"PCFS\", format UCITS",
+ "gerants": "Patrick Vander Eecken",
+ "encours_millions": "235.8",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.50",
+ "frais_courants": "0.92",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Conservative",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée n'est pas un indicateur fiable des résultats futurs. Les performances peuvent varier au fil du temps. Les investissements dans ce compartiment sont soumis aux fluctuations des marchés et l’investisseur pourrait ne récupérer qu’un montant inférieur à celui qu’il a investi.",
+ "politique_fr": "OBJECTIFS & POLITIQUE D'INVESTISSEMENT\nL’objectif du compartiment est d’assurer un rendement absolu à l’investisseur, indépendamment de la performance des marchés.\nLa politique d’investissement intègre le principe de diversification accrue des risques, un processus de construction de portefeuille élaboré ainsi qu’un haut niveau de flexibilité et de réactivité des décisions d’investissement.\nSe basant sur l’analyse fondamentale de l’environnement micro- et macroéconomique, le gestionnaire alloue l’exposition du portefeuille entre différentes classes d’actifs. Ainsi, des changements d’allocations géographiques, sectorielles, de ratings et de maturités se traduiront par des variations importantes dans les pondérations. Spécifiquement, au maximum 50% des actifs du compartiment seront directement ou indirectement exposés aux marchés actions. Il n’y a pas de limites concernant les obligations à taux fixes ou à taux flottants, les obligations convertibles ou indexées à l’inflation, les titres de dettes transférables et les bons du trésor. Le compartiment pourra, lors de situations bien précises, détenir du cash ou équivalent dans des proportions significatives. Le compartiment est destiné à tout investisseur désireux de profiter des opportunités qu’offrent les marchés internationaux en termes d’actions, de taux, de crédits, de devises, de matières premières et de tous supports financiers. L’investisseur dispose d’un horizon d’investissement à moyen terme (min. 3 ans).\nLe compartiment est géré activement et n'est pas géré en référence à un indice de référence. Il est classé Article 6 du règlement SFDR. Le compartiment ne prend pas en compte les principaux impacts négatifs sur les facteurs de durabilité.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Lancement : 15-03-12 » (VNI au lancement EUR 100 ; la factsheet ne précise pas s'il s'agit de la part IC ou du compartiment). Encours « AuM: EUR 235,8 millions ». Frais de gestion 0,50% (factsheet). Frais courants : KID 0,92 % retenu ; la factsheet indique « Frais courants (dont frais de gestion) : 1,11% » (divergence). Indice « Aucun ». SFDR article 6 (factsheet). Duration non reprise (fonds multi-actifs) : poche obligations « Duration moyenne (duration modifiée) 4,05 », rendement 4,47 %. Part institutionnelle (min. 250.000 €). Allocations : devises ; classes d'actifs telles qu'écrites (total 99,61 %, valeurs négatives gardées) ; segments obligataires (en % de la poche obligataire) repris en Classes d'actifs ; zones géographiques de la poche actions ; positions = « Top 10 actions » puis « Top 10 obligations ». | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0649640892 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC-CL C",
+   "pct": "0.64"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ALPHABET INC-CL C",
-      "pct": "0.64"
-    },
-    {
-      "type": "Positions",
-      "libelle": "APPLE INC",
-      "pct": "0.53"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML HOLDING NV",
-      "pct": "0.51"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
-      "pct": "0.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICROSOFT CORP",
-      "pct": "0.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BROADCOM INC",
-      "pct": "0.43"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ADVANCED MICRO DEVICES",
-      "pct": "0.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "VISA INC-CLASS A SHARES",
-      "pct": "0.39"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASM INTERNATIONAL NV",
-      "pct": "0.39"
-    },
-    {
-      "type": "Positions",
-      "libelle": "PALO ALTO NETWORKS INC",
-      "pct": "0.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BELFIUS SANV 3.875% 14-04-32",
-      "pct": "0.57"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NESTLE CAPITAL 4.5% 18-03-33",
-      "pct": "0.52"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KBN SOFRIND+0.41% 09-04-29",
-      "pct": "0.50"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LA MONDIALE 4.5% 01-09-42",
-      "pct": "0.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASS GENERALI 4.406% 03-06-37",
-      "pct": "0.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ARENA LUXEMBOURG FINANCE SARL 4.5% 30-06-31",
-      "pct": "0.41"
-    },
-    {
-      "type": "Positions",
-      "libelle": "INTERPARKING 3.875% 02-09-31",
-      "pct": "0.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AVIVA 4.75% 30-11-57 EMTN",
-      "pct": "0.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ORANGE 4.25% PERP EMTN",
-      "pct": "0.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SAP SE 1.625% 10-03-31",
-      "pct": "0.38"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "72"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "26"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "2"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Action",
-      "pct": "36"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligation",
-      "pct": "68"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Cash et cash équivalent",
-      "pct": "-4"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Autres",
-      "pct": "-0.39"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Govies/Supranationales",
-      "pct": "19.6"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Corporate Investment Grade",
-      "pct": "61.6"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Corporate High Yield",
-      "pct": "11.1"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "CoCos/Hybrides",
-      "pct": "7.7"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Convertibles",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe",
-      "pct": "36"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "États-Unis",
-      "pct": "58"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "0.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "0.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
+   "pct": "0.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "0.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "0.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES",
+   "pct": "0.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VISA INC-CLASS A SHARES",
+   "pct": "0.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASM INTERNATIONAL NV",
+   "pct": "0.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PALO ALTO NETWORKS INC",
+   "pct": "0.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BELFIUS SANV 3.875% 14-04-32",
+   "pct": "0.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NESTLE CAPITAL 4.5% 18-03-33",
+   "pct": "0.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KBN SOFRIND+0.41% 09-04-29",
+   "pct": "0.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LA MONDIALE 4.5% 01-09-42",
+   "pct": "0.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASS GENERALI 4.406% 03-06-37",
+   "pct": "0.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ARENA LUXEMBOURG FINANCE SARL 4.5% 30-06-31",
+   "pct": "0.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "INTERPARKING 3.875% 02-09-31",
+   "pct": "0.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AVIVA 4.75% 30-11-57 EMTN",
+   "pct": "0.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ORANGE 4.25% PERP EMTN",
+   "pct": "0.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP SE 1.625% 10-03-31",
+   "pct": "0.38"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "72"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "26"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Action",
+   "pct": "36"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligation",
+   "pct": "68"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash et cash équivalent",
+   "pct": "-4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "-0.39"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Govies/Supranationales",
+   "pct": "19.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Corporate Investment Grade",
+   "pct": "61.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Corporate High Yield",
+   "pct": "11.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "CoCos/Hybrides",
+   "pct": "7.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Convertibles",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "36"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "58"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "1"
+  }
+ ]
 }

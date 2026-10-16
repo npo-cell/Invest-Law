@@ -1,178 +1,178 @@
 {
-  "n": "180",
-  "isin": "LU0946219846",
-  "nom": "(I/C)JUPITER INDIA SELECT CLASS D EUR",
-  "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-06-25",
-  "date_creation": "2016-04-01",
-  "devise": "EUR",
-  "type_fonds": "Actions indiennes",
-  "compartiment": "Jupiter India Select (le « Fonds ») est un compartiment d'une SICAV (société d'investissement à capital variable), The Jupiter Global Fund, constituée au Luxembourg.",
-  "gerants": "AVINASH VAZIRANI, COLIN CROFT",
-  "encours_millions": "741",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.75",
-  "frais_courants": "0.96",
-  "sri": "4",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
-  "politique_fr": "Objectif et politique d'investissement du fonds\nLe Fonds a pour objectif de générer une croissance du capital sur le long terme. Le Fonds investira principalement dans les actions et titres similaires d’entreprises ayant leur siège social ou exerçant une part prépondérante de leurs activités économiques en Inde. Le Fonds peut également investir dans les actions de sociétés opérant ou établies au Pakistan, au Bangladesh, au Sri Lanka, au Bhoutan, au Népal et aux Maldives.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part D EUR ACC. Date de création = « Date de lancement de la Catégorie d'Actions: 01.04.2016 » (fonds : 02.05.2008). Encours « EUR 741m » (date de la factsheet). Frais de gestion = « Commission annuelle de gestion (max.) 0,75% » (maximum) ; frais courants = KID 0.96 % (factsheet : « Montant des frais courants 0,95% »). Indice vide : MSCI India - Net Total Return index est utilisé « uniquement à des fins de comparaison de la performance » (factsheet et KID). SFDR « Article 6 » (factsheet). Classification Agressif : actions d'un seul pays émergent (Inde), malgré SRI 4. Allocations au 31.08.2026 : capitalisations (sous-total « Total 97,2 » non repris), secteurs en « Netweight » (sous-total 97,3 non repris).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.2",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "sfdr": "factsheet p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "180",
+ "isin": "LU0946219846",
+ "nom": "(I/C)JUPITER INDIA SELECT CLASS D EUR",
+ "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-06-25",
+ "date_creation": "2016-04-01",
+ "devise": "EUR",
+ "type_fonds": "Actions indiennes",
+ "compartiment": "Jupiter India Select (le « Fonds ») est un compartiment d'une SICAV (société d'investissement à capital variable), The Jupiter Global Fund, constituée au Luxembourg.",
+ "gerants": "AVINASH VAZIRANI, COLIN CROFT",
+ "encours_millions": "741",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.75",
+ "frais_courants": "0.96",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
+ "politique_fr": "Objectif et politique d'investissement du fonds\nLe Fonds a pour objectif de générer une croissance du capital sur le long terme. Le Fonds investira principalement dans les actions et titres similaires d’entreprises ayant leur siège social ou exerçant une part prépondérante de leurs activités économiques en Inde. Le Fonds peut également investir dans les actions de sociétés opérant ou établies au Pakistan, au Bangladesh, au Sri Lanka, au Bhoutan, au Népal et aux Maldives.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part D EUR ACC. Date de création = « Date de lancement de la Catégorie d'Actions: 01.04.2016 » (fonds : 02.05.2008). Encours « EUR 741m » (date de la factsheet). Frais de gestion = « Commission annuelle de gestion (max.) 0,75% » (maximum) ; frais courants = KID 0.96 % (factsheet : « Montant des frais courants 0,95% »). Indice vide : MSCI India - Net Total Return index est utilisé « uniquement à des fins de comparaison de la performance » (factsheet et KID). SFDR « Article 6 » (factsheet). Classification Agressif : actions d'un seul pays émergent (Inde), malgré SRI 4. Allocations au 31.08.2026 : capitalisations (sous-total « Total 97,2 » non repris), secteurs en « Netweight » (sous-total 97,3 non repris).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Godfrey Phillips India Ltd",
+   "pct": "6.0"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Godfrey Phillips India Ltd",
-      "pct": "6.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "State Bank Of India",
-      "pct": "5.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Fortis Healthcare Ltd",
-      "pct": "4.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bharti Airtel Ltd",
-      "pct": "4.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Interglobe Aviation Ltd",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bharat Petroleum",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hdfc Bank",
-      "pct": "3.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Larsen And Toubro Ltd",
-      "pct": "3.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hcl Technologies Ltd",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Cartrade Tech",
-      "pct": "2.8"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Grande (>$10bn)",
-      "pct": "54.6"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moyenne ($2bn-$10bn)",
-      "pct": "29.4"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Petite (<$2bn)",
-      "pct": "13.2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Autre",
-      "pct": "0.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "28.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "13.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "12.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "10.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "9.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discrétionnaire",
-      "pct": "8.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "6.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Informatique",
-      "pct": "3.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "3.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "1.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Espèces",
-      "pct": "2.7"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "State Bank Of India",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fortis Healthcare Ltd",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bharti Airtel Ltd",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Interglobe Aviation Ltd",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bharat Petroleum",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hdfc Bank",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Larsen And Toubro Ltd",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hcl Technologies Ltd",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cartrade Tech",
+   "pct": "2.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grande (>$10bn)",
+   "pct": "54.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyenne ($2bn-$10bn)",
+   "pct": "29.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petite (<$2bn)",
+   "pct": "13.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Autre",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "28.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "13.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "12.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "10.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "9.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "8.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Informatique",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Espèces",
+   "pct": "2.7"
+  }
+ ]
 }

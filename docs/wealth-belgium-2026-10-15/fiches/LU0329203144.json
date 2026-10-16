@@ -1,221 +1,221 @@
 {
-  "n": "172",
-  "isin": "LU0329203144",
-  "nom": "(I/C)JPM GLOBAL DIVIDEND FUND C EUR",
-  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-27",
-  "date_creation": "2009-04-02",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "un compartiment de JPMorgan Investment Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
-  "gerants": "Helge Skibeli, Sam Witherow, Michael Rossi",
-  "encours_millions": "8095.7",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.78",
-  "sri": "4",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
-  "politique_fr": "Objectif d´investissement: Offrir une croissance du capital sur le long terme en investissant essentiellement dans des actions de sociétés du monde entier qui génèrent des revenus élevés et en hausse.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nProcessus d'investissement fondé sur l'analyse des actions par une équipe de recherche internationale.\nCherche à identifier les sociétés aux dividendes durablement élevés et/ou affichant un potentiel de croissance des dividendes durable.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part C (acc) EUR ; compartiment de JPMorgan Investment Funds. Factsheet FR au 30/09/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées). Date de création = « Lancement de la classe 2 Avr. 2009 » (fonds : 28 Nov. 2007). Encours = « Actifs net du fonds USD 8095,7m ». Gérants : la factsheet précise que Helge Skibeli prendra sa retraite et quittera le fonds en février 2028. Frais de gestion vide : la factsheet ne donne que « Frais courants 0,78% » ; frais courants = KID 0,78 %. Indice vide : « MSCI All Country World Index (Total Return Net) » est l'indice de référence de la classe, mais le KID indique comme seul recours « Comparaison des performances ». SFDR article 8 ; le KID prévoit « au moins 20% » d'investissements durables (minimum). Positions et capitalisations datées du 31 août 2026 ; « RÉGIONS » classée en Zones géographiques ; colonnes du fonds seulement. Les libellés « Technologie – Semi-conducteurs et matériel informatique » (secteur) et « Europe et Moyen-Orient hors R.-U. » (zone) sont imprimés en double (texte superposé) dans le PDF, d'où un écart signalé par verif_fiche.py.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "172",
+ "isin": "LU0329203144",
+ "nom": "(I/C)JPM GLOBAL DIVIDEND FUND C EUR",
+ "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-27",
+ "date_creation": "2009-04-02",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "un compartiment de JPMorgan Investment Funds\nCe produit est un fonds d'investissement. Il est organisé sous la forme d'une société anonyme de droit luxembourgeois, dotée du statut de société d’investissement à capital variable. Il est agréé en vertu de la Partie I de la Loi luxembourgeoise du 17 décembre 2010 et a le statut d'Organisme de placement collectif en valeurs mobilières (OPCVM).",
+ "gerants": "Helge Skibeli, Sam Witherow, Michael Rossi",
+ "encours_millions": "8095.7",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.78",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "Equity Global Income",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+ "politique_fr": "Objectif d´investissement: Offrir une croissance du capital sur le long terme en investissant essentiellement dans des actions de sociétés du monde entier qui génèrent des revenus élevés et en hausse.\n\nApproche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nProcessus d'investissement fondé sur l'analyse des actions par une équipe de recherche internationale.\nCherche à identifier les sociétés aux dividendes durablement élevés et/ou affichant un potentiel de croissance des dividendes durable.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part C (acc) EUR ; compartiment de JPMorgan Investment Funds. Factsheet FR au 30/09/2026. Politique : « Objectif d´investissement » et « Approche d’investissement » de la factsheet (puces retirées). Date de création = « Lancement de la classe 2 Avr. 2009 » (fonds : 28 Nov. 2007). Encours = « Actifs net du fonds USD 8095,7m ». Gérants : la factsheet précise que Helge Skibeli prendra sa retraite et quittera le fonds en février 2028. Frais de gestion vide : la factsheet ne donne que « Frais courants 0,78% » ; frais courants = KID 0,78 %. Indice vide : « MSCI All Country World Index (Total Return Net) » est l'indice de référence de la classe, mais le KID indique comme seul recours « Comparaison des performances ». SFDR article 8 ; le KID prévoit « au moins 20% » d'investissements durables (minimum). Positions et capitalisations datées du 31 août 2026 ; « RÉGIONS » classée en Zones géographiques ; colonnes du fonds seulement. Les libellés « Technologie – Semi-conducteurs et matériel informatique » (secteur) et « Europe et Moyen-Orient hors R.-U. » (zone) sont imprimés en double (texte superposé) dans le PDF, d'où un écart signalé par verif_fiche.py. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0329203573 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "6.7"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Microsoft",
-      "pct": "6.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TSMC",
-      "pct": "5.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nvidia",
-      "pct": "2.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mastercard",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nextera Energy",
-      "pct": "2.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Yum Brands",
-      "pct": "2.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Johnson & Johnson",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Shell",
-      "pct": "1.8"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 100 milliards",
-      "pct": "68.55"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 10 milliard < 100 milliards",
-      "pct": "30.35"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "> 1 milliards < 10 milliards",
-      "pct": "1.10"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "< 1 milliard",
-      "pct": "0.00"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Etats-Unis",
-      "pct": "58.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe et Moyen-Orient hors R.-U.",
-      "pct": "14.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "10.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "7.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "5.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique (hors Japon)",
-      "pct": "2.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Canada",
-      "pct": "0.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Liquidités",
-      "pct": "0.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie – Semi-conducteurs et matériel informatique",
-      "pct": "20.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Banques",
-      "pct": "11.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits pharmaceutiques",
-      "pct": "10.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Société industrielle",
-      "pct": "7.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie - logiciel",
-      "pct": "7.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "6.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Média",
-      "pct": "5.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "4.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "4.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Assurance",
-      "pct": "4.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "15.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "0.9"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mastercard",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nextera Energy",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Yum Brands",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Johnson & Johnson",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shell",
+   "pct": "1.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 100 milliards",
+   "pct": "68.55"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 10 milliard < 100 milliards",
+   "pct": "30.35"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 1 milliards < 10 milliards",
+   "pct": "1.10"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 1 milliard",
+   "pct": "0.00"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "58.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe et Moyen-Orient hors R.-U.",
+   "pct": "14.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "10.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "7.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "5.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique (hors Japon)",
+   "pct": "2.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie – Semi-conducteurs et matériel informatique",
+   "pct": "20.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "11.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits pharmaceutiques",
+   "pct": "10.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Société industrielle",
+   "pct": "7.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie - logiciel",
+   "pct": "7.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "6.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Média",
+   "pct": "5.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "4.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "15.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "0.9"
+  }
+ ]
 }

@@ -1,99 +1,99 @@
 {
-  "n": "34",
-  "isin": "FR0013334489",
-  "nom": "(I/C)ATHENA GLOBAL DYNAMIC BOND OPPORT IC EUR",
-  "maison": "ALIENOR CAPITAL",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-06-18",
-  "date_creation": "2018-06-06",
-  "devise": "EUR",
-  "type_fonds": "Obligataire (fonds de fonds)",
-  "compartiment": "FCP de droit français conforme à la directive 2014/91/UE modifiant la directive 2009/65/CE",
-  "gerants": "",
-  "encours_millions": "19.34",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.95",
-  "frais_courants": "1.45",
-  "sri": "2",
-  "indice": "",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent en rien des performances futures.",
-  "politique_fr": "Athena – Global Dynamic Bond Opportunities est un fonds obligataire qui adopte un style de gestion active et opportuniste en investissant son actif en parts et actions d’autres OPC. Son objectif est de superformer l’indicateur de référence composite constitué de 30% d’€STR capitalisé, de 50% de l’indice obligataire Solactive Eurozone Government Bond Index TR et de 20% de l’indice obligataire Solactive Euro HY Corp Index sur la durée de placement recommandée.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création : « Lancement 06/06/2018 » de la part IC (tableau historique de performance) ; le fonds a été créé le 6 septembre 2016 (agrément AMF 10 août 2016, mutation 26 février 2020). Devise EUR : VL et actif net en € (pas de champ « devise » explicite). Encours « Actif net du fonds 19 338 341,89 € » arrondi à 19.34 millions. Frais de gestion = « Frais de gestion max […] Part IC : 0,95%TTC » (maximum) ; frais courants = KID « Frais de gestion et autres coûts » 1,45 % ; commission de performance 10 % au-delà de l'indicateur + 0,25 % (High Water-mark). Indice laissé vide : documents contradictoires — la factsheet (texte p.1 et note p.1) donne un composite 30 % €STR capitalisé / 50 % Solactive Eurozone Government Bond Index TR / 20 % Solactive Euro HY Corp Index « depuis le 15 octobre 2024 », mais sa note p.2 et le KID (18/06/2026) donnent 30 % €STR capitalisé / 25 % Euro MTS 1-3 ans / 25 % Euro MTS 3-5 ans / 20 % Bloomberg Barclays Global High Yield EUR couvert (+0,25 % pour la part IC) ; le KID le qualifie aussi d'« indicateur de comparaison a posteriori ». Aucun gérant nommé, aucun article SFDR écrit. Fonds de fonds obligataire/alternatif (actions de -15 % à 25 % via OPC et convertibles selon le KID). Allocations : seules les dix premières lignes en OPC (p.2) sont reprises ; leur somme fait 65,64 % alors que le document indique « Poids des 10 premières lignes 66,38% » (écart du document) ; la « Répartition des actifs » (graphique en anneau p.1 : 23 %, 22 %, 24 %, 2 %, 21 %, 8 % pour 6 catégories) n'est pas reprise car la correspondance libellé/valeur n'est pas lisible de façon fiable (couleurs presque identiques). Politique : paragraphe d’introduction de la factsheet (objectif ; « superformer » tel qu’écrit) ; le KID donne une stratégie plus détaillée (non reprise).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.2",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "34",
+ "isin": "FR0013334489",
+ "nom": "(I/C)ATHENA GLOBAL DYNAMIC BOND OPPORT IC EUR",
+ "maison": "ALIENOR CAPITAL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-18",
+ "date_creation": "2018-06-06",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (fonds de fonds)",
+ "compartiment": "FCP de droit français conforme à la directive 2014/91/UE modifiant la directive 2009/65/CE",
+ "gerants": "",
+ "encours_millions": "19.34",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.95",
+ "frais_courants": "1.45",
+ "sri": "2",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "Bond Global",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent en rien des performances futures.",
+ "politique_fr": "Athena – Global Dynamic Bond Opportunities est un fonds obligataire qui adopte un style de gestion active et opportuniste en investissant son actif en parts et actions d’autres OPC. Son objectif est de superformer l’indicateur de référence composite constitué de 30% d’€STR capitalisé, de 50% de l’indice obligataire Solactive Eurozone Government Bond Index TR et de 20% de l’indice obligataire Solactive Euro HY Corp Index sur la durée de placement recommandée.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création : « Lancement 06/06/2018 » de la part IC (tableau historique de performance) ; le fonds a été créé le 6 septembre 2016 (agrément AMF 10 août 2016, mutation 26 février 2020). Devise EUR : VL et actif net en € (pas de champ « devise » explicite). Encours « Actif net du fonds 19 338 341,89 € » arrondi à 19.34 millions. Frais de gestion = « Frais de gestion max […] Part IC : 0,95%TTC » (maximum) ; frais courants = KID « Frais de gestion et autres coûts » 1,45 % ; commission de performance 10 % au-delà de l'indicateur + 0,25 % (High Water-mark). Indice laissé vide : documents contradictoires — la factsheet (texte p.1 et note p.1) donne un composite 30 % €STR capitalisé / 50 % Solactive Eurozone Government Bond Index TR / 20 % Solactive Euro HY Corp Index « depuis le 15 octobre 2024 », mais sa note p.2 et le KID (18/06/2026) donnent 30 % €STR capitalisé / 25 % Euro MTS 1-3 ans / 25 % Euro MTS 3-5 ans / 20 % Bloomberg Barclays Global High Yield EUR couvert (+0,25 % pour la part IC) ; le KID le qualifie aussi d'« indicateur de comparaison a posteriori ». Aucun gérant nommé, aucun article SFDR écrit. Fonds de fonds obligataire/alternatif (actions de -15 % à 25 % via OPC et convertibles selon le KID). Allocations : seules les dix premières lignes en OPC (p.2) sont reprises ; leur somme fait 65,64 % alors que le document indique « Poids des 10 premières lignes 66,38% » (écart du document) ; la « Répartition des actifs » (graphique en anneau p.1 : 23 %, 22 %, 24 %, 2 %, 21 %, 8 % pour 6 catégories) n'est pas reprise car la correspondance libellé/valeur n'est pas lisible de façon fiable (couleurs presque identiques). Politique : paragraphe d’introduction de la factsheet (objectif ; « superformer » tel qu’écrit) ; le KID donne une stratégie plus détaillée (non reprise). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0013166501 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "HELIUM SELECTION",
+   "pct": "9.23"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "HELIUM SELECTION",
-      "pct": "9.23"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TWELVE CAPITAL BOND FUND",
-      "pct": "8.18"
-    },
-    {
-      "type": "Positions",
-      "libelle": "M&G EMERGING MARKETS BONDS",
-      "pct": "8.15"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DNCA INVEST ALPHA BONDS",
-      "pct": "8.05"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CARMIGNAC PORTFOLIO EM DEBT",
-      "pct": "6.82"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LAZARD CDTOCREDIT OPPORTUNITIES PVC",
-      "pct": "5.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IVO FIXED INCOME",
-      "pct": "5.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CAPITAL GROUP GLOBAL HIGH INCOME",
-      "pct": "5.03"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LAZARD RATHMORE ALTERNATIVE",
-      "pct": "4.66"
-    },
-    {
-      "type": "Positions",
-      "libelle": "H2O MODERATO I",
-      "pct": "4.10"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "TWELVE CAPITAL BOND FUND",
+   "pct": "8.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "M&G EMERGING MARKETS BONDS",
+   "pct": "8.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DNCA INVEST ALPHA BONDS",
+   "pct": "8.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CARMIGNAC PORTFOLIO EM DEBT",
+   "pct": "6.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LAZARD CDTOCREDIT OPPORTUNITIES PVC",
+   "pct": "5.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IVO FIXED INCOME",
+   "pct": "5.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CAPITAL GROUP GLOBAL HIGH INCOME",
+   "pct": "5.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LAZARD RATHMORE ALTERNATIVE",
+   "pct": "4.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "H2O MODERATO I",
+   "pct": "4.10"
+  }
+ ]
 }

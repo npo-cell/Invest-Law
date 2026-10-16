@@ -1,99 +1,99 @@
 {
-  "n": "234",
-  "isin": "FR0011036920",
-  "nom": "(I/C)ODDO BHF AVENIR EUROPE CN EUR",
-  "maison": "Oddo BHF Asset Management SAS",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-07-10",
-  "date_creation": "2011-06-14",
-  "devise": "EUR",
-  "type_fonds": "Actions Europe petites et moyennes capitalisations",
-  "compartiment": "ODDO BHF Avenir Europe est un OPCVM relevant de la directive 2009/65/CE constitué sous la forme d'un Fonds Commun de Placement.",
-  "gerants": "Pascal Riegis, Grégory Deschamps, Frédéric Doussard, Sébastien Maillard",
-  "encours_millions": "1019",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "1.00",
-  "frais_courants": "0.96",
-  "sri": "4",
-  "indice": "MSCI Europe Smid EUR NR",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
-  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nODDO BHF Avenir Europe est un fonds actions européennes de moyennes et petites capitalisations, investi dans des sociétés ayant leur siège social au sein de l'Union Européenne ou d'un pays européen appartenant à l'OCDE. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne en priorité des sociétés parmi les plus performantes en Europe, cycliques ou non cycliques, qui ont souvent un rayonnement international, à un prix jugé attractif eu égard à leurs perspectives à long terme.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création de la part (1ère VL) 14/06/2011 ; fonds créé le 25/05/1999. Encours « Actif net du fonds 1 019 M€ ». Frais de gestion : « Frais de gestion fixes 1.00% maximum TTC » (factsheet, plafond). Frais courants : KID 0,96 % (« Frais de gestion et autres frais administratifs et d’exploitation ») ; la factsheet indique 1.06 % pour la même rubrique (divergence, KID retenu). Commission de surperformance max. 20 % de la surperformance vs l'indice. Indice : « MSCI Europe Smid EUR NR » (factsheet) = « MSCI Europe Smid Cap Net Return EUR » (KID), objectif de surperformance. Classification Dynamique : actions Europe moyennes/petites capitalisations diversifiées, SRI 4 (pourrait être vu comme Agressif, small/mid caps). SFDR article 8 (KID), aucun % d'investissements durables écrit. Allocations : seules les 10 principales lignes sont lisibles ; répartitions sectorielle, géographique et par capitalisation en graphiques sans texte (seule « Poche monétaire 13,0% » lisible), non reprises. Politique : bloc « Stratégie d'investissement » de la factsheet (l'objectif détaillé figure dans le KID).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.3",
-    "disclaimer": "factsheet p.1 et p.6",
-    "politique_fr": "factsheet p.1"
+ "n": "234",
+ "isin": "FR0011036920",
+ "nom": "(I/C)ODDO BHF AVENIR EUROPE CN EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-10",
+ "date_creation": "2011-06-14",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe petites et moyennes capitalisations",
+ "compartiment": "ODDO BHF Avenir Europe est un OPCVM relevant de la directive 2009/65/CE constitué sous la forme d'un Fonds Commun de Placement.",
+ "gerants": "Pascal Riegis, Grégory Deschamps, Frédéric Doussard, Sébastien Maillard",
+ "encours_millions": "1019",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "0.96",
+ "sri": "4",
+ "indice": "MSCI Europe Smid EUR NR",
+ "classification": "Dynamique",
+ "categorie": "Equity Europe Sm&Mid Cap",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nODDO BHF Avenir Europe est un fonds actions européennes de moyennes et petites capitalisations, investi dans des sociétés ayant leur siège social au sein de l'Union Européenne ou d'un pays européen appartenant à l'OCDE. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne en priorité des sociétés parmi les plus performantes en Europe, cycliques ou non cycliques, qui ont souvent un rayonnement international, à un prix jugé attractif eu égard à leurs perspectives à long terme.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création de la part (1ère VL) 14/06/2011 ; fonds créé le 25/05/1999. Encours « Actif net du fonds 1 019 M€ ». Frais de gestion : « Frais de gestion fixes 1.00% maximum TTC » (factsheet, plafond). Frais courants : KID 0,96 % (« Frais de gestion et autres frais administratifs et d’exploitation ») ; la factsheet indique 1.06 % pour la même rubrique (divergence, KID retenu). Commission de surperformance max. 20 % de la surperformance vs l'indice. Indice : « MSCI Europe Smid EUR NR » (factsheet) = « MSCI Europe Smid Cap Net Return EUR » (KID), objectif de surperformance. Classification Dynamique : actions Europe moyennes/petites capitalisations diversifiées, SRI 4 (pourrait être vu comme Agressif, small/mid caps). SFDR article 8 (KID), aucun % d'investissements durables écrit. Allocations : seules les 10 principales lignes sont lisibles ; répartitions sectorielle, géographique et par capitalisation en graphiques sans texte (seule « Poche monétaire 13,0% » lisible), non reprises. Politique : bloc « Stratégie d'investissement » de la factsheet (l'objectif détaillé figure dans le KID). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0000974149 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.3",
+  "disclaimer": "factsheet p.1 et p.6",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Gea Group Ag",
+   "pct": "4.81"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Gea Group Ag",
-      "pct": "4.81"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mtu Aero Engines Ag",
-      "pct": "4.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Andritz Ag",
-      "pct": "4.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "De'Longhi Spa",
-      "pct": "4.01"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Convatec Group Plc",
-      "pct": "3.84"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Imi Plc",
-      "pct": "3.70"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Livanova Plc",
-      "pct": "3.63"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Icon Plc",
-      "pct": "3.39"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Krones Ag",
-      "pct": "3.29"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nordex Se",
-      "pct": "3.17"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Mtu Aero Engines Ag",
+   "pct": "4.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Andritz Ag",
+   "pct": "4.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "De'Longhi Spa",
+   "pct": "4.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Convatec Group Plc",
+   "pct": "3.84"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Imi Plc",
+   "pct": "3.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Livanova Plc",
+   "pct": "3.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Icon Plc",
+   "pct": "3.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Krones Ag",
+   "pct": "3.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nordex Se",
+   "pct": "3.17"
+  }
+ ]
 }

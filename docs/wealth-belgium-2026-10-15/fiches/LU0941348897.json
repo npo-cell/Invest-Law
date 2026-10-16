@@ -1,185 +1,185 @@
 {
-  "n": "252",
-  "isin": "LU0941348897",
-  "nom": "(I/C)PICTET MULTI ASSET GLOBAL OPPS I EUR",
-  "maison": "Pictet Asset Management (Europe) S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-06-19",
-  "date_creation": "2013-08-21",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs",
-  "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
-  "gerants": "",
-  "encours_millions": "5983",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.78",
-  "sri": "3",
-  "indice": "EUR Short Term Rate (€STR)",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
-  "politique_fr": "Objectif\nAugmenter la valeur de votre investissement.\n\nIndice de référence\nEUR Short Term Rate (€STR), un indice qui ne tient pas compte des facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la mesure du rendement.\n\nActifs en portefeuille\nLe Fonds investit principalement dans un large éventail d’obligations, y compris des obligations convertibles, d’instruments du marché monétaire, d’actions et de dépôts. Le Fonds peut investir en Chine continentale et dans les marchés émergents. Le Fonds investit dans le monde entier et peut investir dans tout secteur, toute devise et toute qualité de crédit.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une approche à gestion des risques afin de trouver des opportunités supplémentaires de performance. Il applique une stratégie d’allocation d’actifs flexible. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celle de l'indice de référence peut varier.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Indice : « EUR Short Term Rate (€STR) » (objectifs de la factsheet p.1, repris du DIC : « Utilisé pour la mesure du rendement » ; tableau « Informations générales » : « Euro Short Term Rate ») ; retenu car utilisé pour la mesure du rendement (à confirmer : pas d'usage pour le risque ni d'objectif). Date de création 21.08.2013 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part et du compartiment EUR. Encours « Taille du fonds (Mio) EUR 5 983 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 0.78 », identique au KID) ; commission de performance 10.00 %. Aucun gérant nommé. SFDR article 8, aucun % d'investissements durables écrit. Classification Equilibré (multi-actifs flexible, actions 29,07 %, SRI 3). Pas de duration ni de notation moyenne écrites. Aucune liste de principales positions dans la factsheet. Allocations : allocation des actifs, devises, zones géographiques et notations telles qu'écrites (valeurs négatives gardées ; notations : « La répartition ne prend en compte que les instruments sujets à la notation »). Politique : texte de la factsheet (issu du DIC).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID",
-    "sri": "KID",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "252",
+ "isin": "LU0941348897",
+ "nom": "(I/C)PICTET MULTI ASSET GLOBAL OPPS I EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2013-08-21",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+ "gerants": "",
+ "encours_millions": "5983",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.78",
+ "sri": "3",
+ "indice": "EUR Short Term Rate (€STR)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+ "politique_fr": "Objectif\nAugmenter la valeur de votre investissement.\n\nIndice de référence\nEUR Short Term Rate (€STR), un indice qui ne tient pas compte des facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la mesure du rendement.\n\nActifs en portefeuille\nLe Fonds investit principalement dans un large éventail d’obligations, y compris des obligations convertibles, d’instruments du marché monétaire, d’actions et de dépôts. Le Fonds peut investir en Chine continentale et dans les marchés émergents. Le Fonds investit dans le monde entier et peut investir dans tout secteur, toute devise et toute qualité de crédit.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une approche à gestion des risques afin de trouver des opportunités supplémentaires de performance. Il applique une stratégie d’allocation d’actifs flexible. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celle de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Indice : « EUR Short Term Rate (€STR) » (objectifs de la factsheet p.1, repris du DIC : « Utilisé pour la mesure du rendement » ; tableau « Informations générales » : « Euro Short Term Rate ») ; retenu car utilisé pour la mesure du rendement (à confirmer : pas d'usage pour le risque ni d'objectif). Date de création 21.08.2013 (tableau de la part ; le glossaire la définit comme « la date prise en compte pour le début du calcul des performances »). Devise de la part et du compartiment EUR. Encours « Taille du fonds (Mio) EUR 5 983 ». Frais de gestion : non indiqués (seulement « Frais courants (OCR) 0.78 », identique au KID) ; commission de performance 10.00 %. Aucun gérant nommé. SFDR article 8, aucun % d'investissements durables écrit. Classification Equilibré (multi-actifs flexible, actions 29,07 %, SRI 3). Pas de duration ni de notation moyenne écrites. Aucune liste de principales positions dans la factsheet. Allocations : allocation des actifs, devises, zones géographiques et notations telles qu'écrites (valeurs négatives gardées ; notations : « La répartition ne prend en compte que les instruments sujets à la notation »). Politique : texte de la factsheet (issu du DIC).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "70.64"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Obligations",
-      "pct": "70.64"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "29.07"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Produits de base",
-      "pct": "4.49"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Non classé",
-      "pct": "0.00"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Trésorerie et équivalents",
-      "pct": "-4.21"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "79.29"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "6.15"
-    },
-    {
-      "type": "Devises",
-      "libelle": "JPY",
-      "pct": "-0.05"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "14.60"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "L'Europe",
-      "pct": "60.40"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amérique du Nord",
-      "pct": "21.64"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "12.54"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "2.48"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Asie-Pacifique",
-      "pct": "2.03"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "5.62"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Trésorerie et équivalents",
-      "pct": "-4.70"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "4.49"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "10.69"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "17.64"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "18.93"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "8.33"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B",
-      "pct": "2.95"
-    },
-    {
-      "type": "Notations",
-      "libelle": "CCC",
-      "pct": "0.57"
-    },
-    {
-      "type": "Notations",
-      "libelle": "CC",
-      "pct": "0.08"
-    },
-    {
-      "type": "Notations",
-      "libelle": "C",
-      "pct": "0.14"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Non noté",
-      "pct": "0.35"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Liquidités et équivalents",
-      "pct": "0.00"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "29.07"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Produits de base",
+   "pct": "4.49"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Non classé",
+   "pct": "0.00"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "-4.21"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "79.29"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "6.15"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "-0.05"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "14.60"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "L'Europe",
+   "pct": "60.40"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "21.64"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "12.54"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "2.48"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie-Pacifique",
+   "pct": "2.03"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "5.62"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "-4.70"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "4.49"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "10.69"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "17.64"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "18.93"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "8.33"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "2.95"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "0.57"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CC",
+   "pct": "0.08"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.14"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "0.35"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.00"
+  }
+ ]
 }

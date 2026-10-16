@@ -1,101 +1,101 @@
 {
-  "n": "46",
-  "isin": "LU0473185139",
-  "nom": "(I/C)BLACKROCK ESG MULTI ASSET D2 EUR",
-  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-04-22",
-  "date_creation": "2009-12-14",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs",
-  "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
-  "gerants": "Yasmin Meissner, Adam Ryan, Lucy Parker",
-  "encours_millions": "2907.46",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.65",
-  "frais_courants": "1.00",
-  "sri": "3",
-  "indice": "",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
-  "politique_fr": "Le Fonds vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds est activement géré et le niveau d’investissement du Fonds dans ces catégories d’actifs peut varier sans limite en fonction des conditions de marché et d’autres facteurs, à la discrétion du conseiller en investissement (CI). Lors de leur sélection, le CI peut prendre en considération un indice de référence composite composé à 25 % du MSCI World Index (couvert en EUR), à 25 % du MSCI World Index et à 50 % du Bloomberg Global Aggregate Bond Index (couvert en EUR) (l’« Indice ») à des fins de gestion des risques.\n\nLes investissements du Fonds peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales. Ceux-ci peuvent comprendre des titres qui ont une qualité de crédit relativement faible ou qui ne sont pas notés.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 14-déc.-2009 » (fonds lancé le 21-déc.-1998). Encours « Encours sous gestion (M) : 2.907,46 EUR ». Frais de gestion = « Commission de gestion annuelle : 0,65% » ; frais courants = KID « Frais de gestion et autres coûts administratifs ou d’exploitation » 1,00 % (la factsheet indique « Frais courants : 0,99% »). Indice laissé vide : le composite 25 % MSCI World Index (couvert en EUR) / 25 % MSCI World Index / 50 % Bloomberg Global Aggregate Bond Index (couvert en EUR) n'est pris en considération qu'« à des fins de gestion des risques » ; la factsheet n'affiche aucun indice de comparaison. SFDR « Article 8 » (factsheet), aucun % durable écrit. Duration laissée vide (fonds multi-actifs) : « Sensibilité (Modified duration) : 2,53 ans ». Notation ESG MSCI « AA » (indicateur ESG, non reprise comme qualité des émetteurs). Classification Equilibré : multi-actifs, SRI 3 (catégorie Morningstar « Allocation EUR Modérée - International »). Politique : « Aperçu du fonds » de la factsheet. Allocations : seules les 10 principales positions (p.3) ; « Exposition régionale » et « Notes de crédit » : « données […] pas disponibles pour l'instant » ; le graphique « Ventilation par type d'actif » a des étiquettes non extractibles en texte et n'est pas repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "46",
+ "isin": "LU0473185139",
+ "nom": "(I/C)BLACKROCK ESG MULTI ASSET D2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-22",
+ "date_creation": "2009-12-14",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Yasmin Meissner, Adam Ryan, Lucy Parker",
+ "encours_millions": "2907.46",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.65",
+ "frais_courants": "1.00",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Balanced",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds est activement géré et le niveau d’investissement du Fonds dans ces catégories d’actifs peut varier sans limite en fonction des conditions de marché et d’autres facteurs, à la discrétion du conseiller en investissement (CI). Lors de leur sélection, le CI peut prendre en considération un indice de référence composite composé à 25 % du MSCI World Index (couvert en EUR), à 25 % du MSCI World Index et à 50 % du Bloomberg Global Aggregate Bond Index (couvert en EUR) (l’« Indice ») à des fins de gestion des risques.\n\nLes investissements du Fonds peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales. Ceux-ci peuvent comprendre des titres qui ont une qualité de crédit relativement faible ou qui ne sont pas notés.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 14-déc.-2009 » (fonds lancé le 21-déc.-1998). Encours « Encours sous gestion (M) : 2.907,46 EUR ». Frais de gestion = « Commission de gestion annuelle : 0,65% » ; frais courants = KID « Frais de gestion et autres coûts administratifs ou d’exploitation » 1,00 % (la factsheet indique « Frais courants : 0,99% »). Indice laissé vide : le composite 25 % MSCI World Index (couvert en EUR) / 25 % MSCI World Index / 50 % Bloomberg Global Aggregate Bond Index (couvert en EUR) n'est pris en considération qu'« à des fins de gestion des risques » ; la factsheet n'affiche aucun indice de comparaison. SFDR « Article 8 » (factsheet), aucun % durable écrit. Duration laissée vide (fonds multi-actifs) : « Sensibilité (Modified duration) : 2,53 ans ». Notation ESG MSCI « AA » (indicateur ESG, non reprise comme qualité des émetteurs). Classification Equilibré : multi-actifs, SRI 3 (catégorie Morningstar « Allocation EUR Modérée - International »). Politique : « Aperçu du fonds » de la factsheet. Allocations : seules les 10 principales positions (p.3) ; « Exposition régionale » et « Notes de crédit » : « données […] pas disponibles pour l'instant » ; le graphique « Ventilation par type d'actif » a des étiquettes non extractibles en texte et n'est pas repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0093503497 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA",
+   "pct": "2.40"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA",
-      "pct": "2.40"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ISHARES PHYSICAL GOLD ETC",
-      "pct": "2.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "APPLE",
-      "pct": "2.24"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GERMANY (FEDERAL REPUBLIC OF) 2.1 04/12/2029",
-      "pct": "2.12"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UK CONV GILT 0.875 07/31/2033",
-      "pct": "2.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "THE SCHIEHALLION FD LTD SHARES",
-      "pct": "1.96"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICROSOFT",
-      "pct": "1.87"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE 4.625 02/15/2035",
-      "pct": "1.81"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AMAZON.COM INC",
-      "pct": "1.73"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GRESHAM HOUSE ENERGY STORAGE FUND",
-      "pct": "1.69"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "ISHARES PHYSICAL GOLD ETC",
+   "pct": "2.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE",
+   "pct": "2.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GERMANY (FEDERAL REPUBLIC OF) 2.1 04/12/2029",
+   "pct": "2.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UK CONV GILT 0.875 07/31/2033",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THE SCHIEHALLION FD LTD SHARES",
+   "pct": "1.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT",
+   "pct": "1.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE 4.625 02/15/2035",
+   "pct": "1.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "1.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GRESHAM HOUSE ENERGY STORAGE FUND",
+   "pct": "1.69"
+  }
+ ]
 }

@@ -1,237 +1,237 @@
 {
-  "n": "283",
-  "isin": "LU0209325462",
-  "nom": "(I/C)ROBECO EMERGING MARKETS EQUITIES I EUR",
-  "maison": "Robeco Institutional Asset Management B.V.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-30",
-  "date_creation": "2005-01-11",
-  "devise": "EUR",
-  "type_fonds": "Actions marchés émergents",
-  "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
-  "gerants": "Wim-Hein Pals, Dimitri Chatzoudis, Jaap van der Hart, Cornelis Vlooswijk",
-  "encours_millions": "1654.954917",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.80",
-  "frais_courants": "0.98",
-  "sri": "4",
-  "indice": "MSCI Emerging Markets Index (Net Return, EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
-  "politique_fr": "À propos du fonds\nRobeco Emerging Markets Equities est un fonds à gestion active qui investit mondialement dans des actions de pays émergents. La sélection de ces titres est basée sur une analyse fondamentale. Le fonds vise une performance supérieure à l'indice. La sélection des titres est basée sur une analyse pays top-down et une approche bottom-up. Les sociétés visées ont un business model sain, de solides perspectives de croissance et une valorisation raisonnable.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Classification Agressif : actions des pays émergents, SRI 4. Pas de tableau « Allocation d'actifs » dans la factsheet. Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,98 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "283",
+ "isin": "LU0209325462",
+ "nom": "(I/C)ROBECO EMERGING MARKETS EQUITIES I EUR",
+ "maison": "Robeco Institutional Asset Management B.V.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2005-01-11",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "compartiment de la SICAV Robeco Capital Growth Funds",
+ "gerants": "Wim-Hein Pals, Dimitri Chatzoudis, Jaap van der Hart, Cornelis Vlooswijk",
+ "encours_millions": "1654.954917",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.80",
+ "frais_courants": "0.98",
+ "sri": "4",
+ "indice": "MSCI Emerging Markets Index (Net Return, EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity Global Emerging Markets",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer.",
+ "politique_fr": "À propos du fonds\nRobeco Emerging Markets Equities est un fonds à gestion active qui investit mondialement dans des actions de pays émergents. La sélection de ces titres est basée sur une analyse fondamentale. Le fonds vise une performance supérieure à l'indice. La sélection des titres est basée sur une analyse pays top-down et une approche bottom-up. Les sociétés visées ont un business model sain, de solides perspectives de croissance et une valorisation raisonnable.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting mensuel » au 30/09/2026 (destinée aux investisseurs professionnels). Indice utilisé « à des fins d'allocation d'actifs » et objectif de surperformance (KID) → retenu. Classification Agressif : actions des pays émergents, SRI 4. Pas de tableau « Allocation d'actifs » dans la factsheet. Encours = « ACTIF DU FONDS » (fonds, en EUR, converti en millions) ; date de création = « DATE DE LANCEMENT » de la part. Frais de gestion = « Frais de gestion financière » ; frais courants KID 0,98 % (identiques aux « Frais courants » de la factsheet). SFDR article 8 (KID p.1), aucun % d'investissements durables écrit. Politique : « À propos du fonds » de la factsheet (= début de la section « Objectifs » du KID). Allocations : graphiques fonds/indice de la p.2 (seules les valeurs du fonds, 1re barre de chaque paire, appariement vérifié par les totaux) ; « Pays / Région » repris en Zones géographiques. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0187076913 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Lt",
+   "pct": "10.12"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Lt",
-      "pct": "10.12"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics Co Ltd",
-      "pct": "8.59"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK hynix Inc",
-      "pct": "7.10"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK Square Co Ltd",
-      "pct": "3.64"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alibaba Group Holding Ltd",
-      "pct": "2.94"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Wiwynn Corp",
-      "pct": "2.49"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASE Technology Holding Co Ltd",
-      "pct": "2.39"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Naspers Ltd",
-      "pct": "2.31"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hon Hai Precision Industry Co Ltd",
-      "pct": "2.14"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ICICI Bank Ltd ADR",
-      "pct": "2.12"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'Information",
-      "pct": "39.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "20.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation Discrétionnaire",
-      "pct": "11.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "9.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "4.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériels",
-      "pct": "4.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "3.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "2.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux Collectivités",
-      "pct": "1.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "1.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de Consommation de Base",
-      "pct": "1.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Corée du Sud",
-      "pct": "26.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Taiwan",
-      "pct": "22.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Chine",
-      "pct": "17.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Inde",
-      "pct": "8.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Brésil",
-      "pct": "5.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Afrique du Sud",
-      "pct": "3.7"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pologne",
-      "pct": "2.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Mexique",
-      "pct": "2.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Grèce",
-      "pct": "2.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "9.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Won Sud-Coréen",
-      "pct": "26.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar de Taiwan",
-      "pct": "21.8"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar de Hong Kong",
-      "pct": "11.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Roupie Indienne",
-      "pct": "8.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Euro",
-      "pct": "7.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "24.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co Ltd",
+   "pct": "8.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK hynix Inc",
+   "pct": "7.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Square Co Ltd",
+   "pct": "3.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd",
+   "pct": "2.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wiwynn Corp",
+   "pct": "2.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASE Technology Holding Co Ltd",
+   "pct": "2.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Naspers Ltd",
+   "pct": "2.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hon Hai Precision Industry Co Ltd",
+   "pct": "2.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ICICI Bank Ltd ADR",
+   "pct": "2.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "39.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "20.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "11.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "9.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "1.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "26.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taiwan",
+   "pct": "22.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "17.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "8.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Brésil",
+   "pct": "5.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique du Sud",
+   "pct": "3.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pologne",
+   "pct": "2.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Mexique",
+   "pct": "2.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "9.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won Sud-Coréen",
+   "pct": "26.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Taiwan",
+   "pct": "21.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Hong Kong",
+   "pct": "11.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie Indienne",
+   "pct": "8.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "7.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "24.8"
+  }
+ ]
 }

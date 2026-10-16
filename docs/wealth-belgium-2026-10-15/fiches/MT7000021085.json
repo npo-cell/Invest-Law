@@ -1,122 +1,122 @@
 {
-  "n": "226",
-  "isin": "MT7000021085",
-  "nom": "(I/C)MFP RAPHAELS FLEXIBLE EQUITY FUND A EUR",
-  "maison": "Invest4Growth Asset Management Ltd",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-06-26",
-  "date_creation": "2019-07-05",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "Compartiment de la sicav MFP Sicav p.l.c. de droit maltais",
-  "gerants": "",
-  "encours_millions": "",
-  "encours_devise": "",
-  "encours_date": "",
-  "frais_gestion": "0.75",
-  "frais_courants": "1.7",
-  "sri": "3",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les chiffres de rendement se réfèrent au passé. Les performances passées ne présagent pas des performances futures.",
-  "politique_fr": "L’objectif d’investissement du Compartiment est de générer une appréciation du capital sur un horizon à long terme en investissant dans des actions cotées du monde entier. Il n’y a aucune garantie que l’objectif d’investissement du Compartiment soit atteint et ce dernier est susceptible d’évoluer dans le temps. Les actifs du Compartiment sont investis dans des actions de sociétés axées sur l’environnement, la société et la gouvernance d’entreprise (ESG). Dans le cadre du processus de sélection des titres, le compartiment applique les stratégies généralement acceptées pour la mise en oeuvre de l'approche ESG. La performance ESG d'une entreprise est évaluée indépendamment du succès financier sur la base de divers indicateurs, qui tiennent compte d'objectifs écologiques et sociaux ainsi que de la gouvernance d'entreprise. Pour l'évaluation, la transparence ainsi que la gamme de produits et services d'une entreprise seront prises en compte. L’approche du Compartiment consiste à investir à long terme dans les actions sélectionnées. Il n'adoptera pas de stratégies de trading à court terme. Le processus d'investissement comprend deux ensembles différents de critères de sélection :\n\n(1)Le premier processus de sélection suivra des critères d’investissement rigoureux pour la sélection des titres du portefeuille du Compartiment. Ces critères visent à garantir que le Compartiment investisse dans des sociétés de haute qualité : qui réalisent un return sur investissement élevé et durable ; qui réalisent des flux de trésorerie disponibles élevés et durables ; qui disposent d’avantages concurrentiels difficiles à reproduire ; qui n'exigent pas de levier important pour générer des rendements ; avec un fort profil de croissance ; apte au changement, en particulier à l'innovation technologique ; dont la valorisation est jugée attrayante par le Gestionnaire\n\n(2)Dans une deuxième phase, les actions présélectionnées seront examinées en fonction des paramètres ESG et la sélection finale sera effectuée conformément à la politique ESG interne du Gestionnaire. Les investisseurs doivent être conscients que l’application de ces critères d’investissement limite considérablement le nombre d’investissements potentiels que le Compartiment jugera appropriés pour le portefeuille du Compartiment. Le Compartiment n'a pas de préférence géographique mais sera principalement composé de sociétés de marchés développés et cotées sur des bourses réglementées. Le Compartiment investira principalement dans des actions couvrant les sociétés à moyenne et grande capitalisation. Les investissements réalisés par le Compartiment feront l'objet d'une surveillance continue par le Gestionnaire. L’allocation des actifs du Compartiment peuvent être ajustée pour refléter le degré auquel un investissement répond aux critères ESG. Le Compartiment utilise des instruments financiers dérivés à des fins de couverture et/of de gestion efficiente du portefeuille. Ces instruments financiers dérivés doivent être négociés uniquement sur des marchés réglementés et sont limités aux options et aux contrats à terme standardisés sur indices boursiers et actions individuelles. Le Compartiment ne couvrira aucune exposition aux devises.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Classe A accumulation ; factsheet au 31/08/2026 (fichier de septembre absent). Date de création = « Date de création compartiment 05.07.2019 » (date du compartiment ; aucune date propre à la classe A ; le graphique VNI part du 30.06.2016). Gérant : aucun nom de personne (« Gestionnaire du portefeuille Invest4Growth AM Ltd. », société). Encours non indiqué dans la factsheet ni le KID. Frais de gestion = « Frais de gestion 0,75% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation [1,7%] » (factsheet « Frais courants 1,71% ») ; commission de performance 15 % High Watermark. Indice laissé vide : aucun indice de référence cité dans la factsheet ni le KID. SFDR article 8 (factsheet), aucun % durable écrit. Classification Dynamique : actions mondiales (catégorie « Flexible » dans la factsheet), SRI 3 dans le KID (cas limite). Politique : bloc « Objectif du fonds » de la factsheet (copie du KIID selon le document), césures de fin de ligne recollées (Com-partiment, entre-prise, gou-vernance, princi-palement, sur-veillance), dernière phrase « L'objectif d'investissement a été copié mot pour mot du KIID. » non reprise. Allocations : le tableau « Top 5 secteurs » reprend en réalité les pays (mêmes libellés et % que « Top 5 pays ») → non repris ; seuls « Top 10 positions » et « Top 5 pays » repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "226",
+ "isin": "MT7000021085",
+ "nom": "(I/C)MFP RAPHAELS FLEXIBLE EQUITY FUND A EUR",
+ "maison": "Invest4Growth Asset Management Ltd",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-06-26",
+ "date_creation": "2019-07-05",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Compartiment de la sicav MFP Sicav p.l.c. de droit maltais",
+ "gerants": "",
+ "encours_millions": "",
+ "encours_devise": "",
+ "encours_date": "",
+ "frais_gestion": "0.75",
+ "frais_courants": "1.7",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "Equity Global",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les chiffres de rendement se réfèrent au passé. Les performances passées ne présagent pas des performances futures.",
+ "politique_fr": "L’objectif d’investissement du Compartiment est de générer une appréciation du capital sur un horizon à long terme en investissant dans des actions cotées du monde entier. Il n’y a aucune garantie que l’objectif d’investissement du Compartiment soit atteint et ce dernier est susceptible d’évoluer dans le temps. Les actifs du Compartiment sont investis dans des actions de sociétés axées sur l’environnement, la société et la gouvernance d’entreprise (ESG). Dans le cadre du processus de sélection des titres, le compartiment applique les stratégies généralement acceptées pour la mise en oeuvre de l'approche ESG. La performance ESG d'une entreprise est évaluée indépendamment du succès financier sur la base de divers indicateurs, qui tiennent compte d'objectifs écologiques et sociaux ainsi que de la gouvernance d'entreprise. Pour l'évaluation, la transparence ainsi que la gamme de produits et services d'une entreprise seront prises en compte. L’approche du Compartiment consiste à investir à long terme dans les actions sélectionnées. Il n'adoptera pas de stratégies de trading à court terme. Le processus d'investissement comprend deux ensembles différents de critères de sélection :\n\n(1)Le premier processus de sélection suivra des critères d’investissement rigoureux pour la sélection des titres du portefeuille du Compartiment. Ces critères visent à garantir que le Compartiment investisse dans des sociétés de haute qualité : qui réalisent un return sur investissement élevé et durable ; qui réalisent des flux de trésorerie disponibles élevés et durables ; qui disposent d’avantages concurrentiels difficiles à reproduire ; qui n'exigent pas de levier important pour générer des rendements ; avec un fort profil de croissance ; apte au changement, en particulier à l'innovation technologique ; dont la valorisation est jugée attrayante par le Gestionnaire\n\n(2)Dans une deuxième phase, les actions présélectionnées seront examinées en fonction des paramètres ESG et la sélection finale sera effectuée conformément à la politique ESG interne du Gestionnaire. Les investisseurs doivent être conscients que l’application de ces critères d’investissement limite considérablement le nombre d’investissements potentiels que le Compartiment jugera appropriés pour le portefeuille du Compartiment. Le Compartiment n'a pas de préférence géographique mais sera principalement composé de sociétés de marchés développés et cotées sur des bourses réglementées. Le Compartiment investira principalement dans des actions couvrant les sociétés à moyenne et grande capitalisation. Les investissements réalisés par le Compartiment feront l'objet d'une surveillance continue par le Gestionnaire. L’allocation des actifs du Compartiment peuvent être ajustée pour refléter le degré auquel un investissement répond aux critères ESG. Le Compartiment utilise des instruments financiers dérivés à des fins de couverture et/of de gestion efficiente du portefeuille. Ces instruments financiers dérivés doivent être négociés uniquement sur des marchés réglementés et sont limités aux options et aux contrats à terme standardisés sur indices boursiers et actions individuelles. Le Compartiment ne couvrira aucune exposition aux devises.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Classe A accumulation ; factsheet au 31/08/2026 (fichier de septembre absent). Date de création = « Date de création compartiment 05.07.2019 » (date du compartiment ; aucune date propre à la classe A ; le graphique VNI part du 30.06.2016). Gérant : aucun nom de personne (« Gestionnaire du portefeuille Invest4Growth AM Ltd. », société). Encours non indiqué dans la factsheet ni le KID. Frais de gestion = « Frais de gestion 0,75% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation [1,7%] » (factsheet « Frais courants 1,71% ») ; commission de performance 15 % High Watermark. Indice laissé vide : aucun indice de référence cité dans la factsheet ni le KID. SFDR article 8 (factsheet), aucun % durable écrit. Classification Dynamique : actions mondiales (catégorie « Flexible » dans la factsheet), SRI 3 dans le KID (cas limite). Politique : bloc « Objectif du fonds » de la factsheet (copie du KIID selon le document), césures de fin de ligne recollées (Com-partiment, entre-prise, gou-vernance, princi-palement, sur-veillance), dernière phrase « L'objectif d'investissement a été copié mot pour mot du KIID. » non reprise. Allocations : le tableau « Top 5 secteurs » reprend en réalité les pays (mêmes libellés et % que « Top 5 pays ») → non repris ; seuls « Top 10 positions » et « Top 5 pays » repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part MT7000021101 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "5.98"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ASML HOLDING NV",
-      "pct": "5.98"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AGNICO EACGLE MINES LTD",
-      "pct": "5.47"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CISCO SYSTEMS INC",
-      "pct": "4.99"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
-      "pct": "4.60"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SCHNEIDER ELECTRIC SE",
-      "pct": "4.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UCB SA",
-      "pct": "3.99"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DEME",
-      "pct": "3.60"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AIR LIQUIDE SA",
-      "pct": "3.26"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MICROSOFT CORP US",
-      "pct": "3.15"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KLA CORP",
-      "pct": "3.11"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United States",
-      "pct": "18.76"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "13.25"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgium",
-      "pct": "10.37"
-    },
-    {
-      "type": "Pays",
-      "libelle": "The Netherlands",
-      "pct": "9.88"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Spain",
-      "pct": "6.24"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "AGNICO EACGLE MINES LTD",
+   "pct": "5.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CISCO SYSTEMS INC",
+   "pct": "4.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
+   "pct": "4.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SCHNEIDER ELECTRIC SE",
+   "pct": "4.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UCB SA",
+   "pct": "3.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DEME",
+   "pct": "3.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIR LIQUIDE SA",
+   "pct": "3.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP US",
+   "pct": "3.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KLA CORP",
+   "pct": "3.11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "18.76"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "13.25"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgium",
+   "pct": "10.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "The Netherlands",
+   "pct": "9.88"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "6.24"
+  }
+ ]
 }

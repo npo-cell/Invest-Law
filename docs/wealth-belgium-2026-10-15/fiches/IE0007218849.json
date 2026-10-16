@@ -1,175 +1,175 @@
 {
-  "n": "332",
-  "isin": "IE0007218849",
-  "nom": "(I/C)VANGUARD PACIFIC EX-JAPAN STOCK ACC USD",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2005-07-22",
-  "devise": "USD",
-  "type_fonds": "Actions Pacifique hors Japon",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Global Equity Index Management (GE)",
-  "encours_millions": "4009",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.16",
-  "sri": "4",
-  "indice": "MSCI Pacific ex Japan Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI Pacific ex Japan (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de moyenne et grande tailles des marchés développés de la région du Pacifique hors Japon.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « USD Acc » ; KID : « Vanguard Pacific ex-Japan Stock Index Fund (le \"Fonds\") - USD Accumulation Shares ». Date de création « 22 juillet 2005 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 4 009 $ » (fonds) ; encours de la classe d'actifs 174 $. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.16 % (identique au « Montant des frais courants (MFC) » 0,16 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Global Equity Index Management (GE) » (rubrique « Gestionnaire de portefeuille »). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays ; « Exposition pondérée » (secteurs GICS) en Secteurs ; Positions = « 10 principaux titres » (données au 31 août 2026). Classification Dynamique : actions de marchés développés de la région Pacifique hors Japon, SRI 4 ; cas limite avec Agressif (région concentrée).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "332",
+ "isin": "IE0007218849",
+ "nom": "(I/C)VANGUARD PACIFIC EX-JAPAN STOCK ACC USD",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2005-07-22",
+ "devise": "USD",
+ "type_fonds": "Actions Pacifique hors Japon",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Global Equity Index Management (GE)",
+ "encours_millions": "4009",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.16",
+ "sri": "4",
+ "indice": "MSCI Pacific ex Japan Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI Pacific ex Japan (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de moyenne et grande tailles des marchés développés de la région du Pacifique hors Japon.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « USD Acc » ; KID : « Vanguard Pacific ex-Japan Stock Index Fund (le \"Fonds\") - USD Accumulation Shares ». Date de création « 22 juillet 2005 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 4 009 $ » (fonds) ; encours de la classe d'actifs 174 $. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.16 % (identique au « Montant des frais courants (MFC) » 0,16 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Global Equity Index Management (GE) » (rubrique « Gestionnaire de portefeuille »). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays ; « Exposition pondérée » (secteurs GICS) en Secteurs ; Positions = « 10 principaux titres » (données au 31 août 2026). Classification Dynamique : actions de marchés développés de la région Pacifique hors Japon, SRI 4 ; cas limite avec Agressif (région concentrée).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BHP Group Ltd.",
+   "pct": "10.2"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "BHP Group Ltd.",
-      "pct": "10.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Commonwealth Bank of Australia",
-      "pct": "8.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DBS Group Holdings Ltd.",
-      "pct": "5.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AIA Group Ltd.",
-      "pct": "4.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "National Australia Bank Ltd.",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Westpac Banking Corp.",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Oversea-Chinese Banking Corp. Ltd.",
-      "pct": "3.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ANZ Group Holdings Ltd.",
-      "pct": "3.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hong Kong Exchanges & Clearing Ltd.",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Macquarie Group Ltd.",
-      "pct": "2.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "45.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "16.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "9.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discrétionnaire",
-      "pct": "6.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "3.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "3.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "3.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "2.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de Communication",
-      "pct": "2.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'information",
-      "pct": "0.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Australie",
-      "pct": "63.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Singapour",
-      "pct": "17.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Hong-Kong",
-      "pct": "17.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Nouvelle-Zélande",
-      "pct": "1.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Commonwealth Bank of Australia",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DBS Group Holdings Ltd.",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIA Group Ltd.",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "National Australia Bank Ltd.",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Westpac Banking Corp.",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oversea-Chinese Banking Corp. Ltd.",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANZ Group Holdings Ltd.",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hong Kong Exchanges & Clearing Ltd.",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Macquarie Group Ltd.",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "45.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "16.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "9.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "3.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "0.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "63.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "17.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong-Kong",
+   "pct": "17.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Nouvelle-Zélande",
+   "pct": "1.8"
+  }
+ ]
 }

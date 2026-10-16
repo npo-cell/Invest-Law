@@ -1,216 +1,216 @@
 {
-  "n": "33",
-  "isin": "LU1846577168",
-  "nom": "(I/C)ARTEMIS SMARTGARP GLOB EM I EUR",
-  "maison": "FundRock Management Company S.A",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-08-05",
-  "date_creation": "2018-09-05",
-  "devise": "EUR",
-  "type_fonds": "Actions marchés émergents",
-  "compartiment": "Ce produit est un compartiment d’Artemis Funds (Lux), une société d’investissement à capital variable (« SICAV ») de droit luxembourgeois.",
-  "gerants": "Raheel Altaf",
-  "encours_millions": "1360",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.96",
-  "sri": "4",
-  "indice": "MSCI Emerging Markets NR EUR",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Past performance is not a guide to the future. Your capital is at risk.",
-  "politique_fr": "Objectif\nAugmenter la valeur des investissements des actionnaires en combinant croissance du capital et revenus.\n\nPolitique d’investissement\nLe fonds fait l’objet d’une gestion active.\n\nLe fonds investit principalement dans des actions de sociétés cotées, ayant leur siège ou exerçant la majeure partie de leurs activités économiques dans des pays émergents.\n\nUn outil propriétaire appelé « SmartGARP » est utilisé comme base du processus d’investissement. Il passe au crible les caractéristiques financières des entreprises en identifiant celles qui connaissent une croissance plus rapide que le marché mais dont les valorisations sont inférieures à celles du marché. Le Gestionnaire d’investissement sélectionne des sociétés qui, dans l’ensemble, présentent de bonnes caractéristiques « SmartGARP ». Cela signifie que le portefeuille contient des actions dont les valorisations sont inférieures à la moyenne du marché, qui sont conformes aux prévisions de bénéfices et qui sont sous-détenues par la communauté des investisseurs, tout en bénéficiant des tendances positives de l’économie au sens large.\n\nLe fonds ne peut pas investir dans des entreprises (directement ou indirectement via des instruments dérivés) ayant une exposition au tabac, aux armes ou au charbon thermique, sous réserve des seuils de chiffre d’affaires définis dans le prospectus du fonds, ni dans des entreprises que le gestionnaire considère comme étant en violation des principes du Pacte mondial des Nations unies relatifs aux droits de l’homme, aux droits du travail, à l’environnement et à la lutte contre la corruption.\n\nLe Fonds promeut des caractéristiques environnementales et/ou sociales au sens de l’article 8 du Règlement sur la publication d’informations en matière de durabilité dans le secteur des services financiers. De plus amples informations sur les caractéristiques environnementales ou sociales de ce fonds figurent dans les informations précontractuelles sur les produits financiers visés à l’article 8 du SFDR contenues dans le prospectus du fonds.\n\nLe fonds investira dans des titres de participation directement ou indirectement par le biais d’instruments tels que, mais sans s’y limiter, des ADR, des GDR, des obligations participatives et des contrats sur différence.\n\nLes obligations participatives et contrats sur différence seront employés pour accéder à des marchés sur lesquels l’achat direct d’actions peut s’avérer difficile. Leur emploi n’a pas vocation à créer un effet de levier. Les investissements en obligations participatives et contrats sur différence ne dépasseront pas 20 % de la Valeur nette d’inventaire du fonds.\n\nLe fonds peut investir jusqu’à 20 % de sa Valeur nette d’inventaire dans des Actions A chinoises via les programmes Shanghai-Hong Kong Stock Connect et Shenzhen-Hong Kong Stock Connect.\n\nLe fonds peut utiliser des produits dérivés et d’autres techniques à des fins de gestion efficace du portefeuille. Les dérivés dans lesquels le fonds peut investir incluront, sans toutefois s’y limiter, des contrats à terme standardisés et des contrats de change à terme de gré à gré.\n\nSous réserve des limites énoncées dans la section « Restrictions d’investissement » du prospectus du fonds, le fonds peut également détenir des actifs liquides accessoires à des fins de trésorerie.\n\nLe fonds peut investir jusqu’à 10 % de sa Valeur nette d’inventaire dans d’autres organismes de placement collectif.\n\nIndice de référence : MSCI Emerging Markets NR EUR\nL’indice de référence constitue un point de référence par rapport auquel la performance du fonds peut être mesurée. La gestion du fonds n’est pas limitée par cet indice de référence. L’écart par rapport à l’indice de référence peut être important et le portefeuille du fonds peut parfois être notablement, voire totalement, différent de celui de l’indice de référence.\n\nL’indice de référence ne tient pas compte des caractéristiques environnementales et/ou sociales promues par le fonds.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Factsheet en anglais (31/08/2026), réservée aux investisseurs professionnels ; elle ne donne que l'objectif en une phrase et renvoie au site pour la politique → politique copiée du KID (sections « Objectif » et « Politique d’investissement », jusqu'à « Investisseurs de détail visés » ; texte en deux colonnes, ordre vérifié). Date de création : « Launch date 05 Sep 2018 » de la part I Acc EUR (= « Fund launch date 5 Sep 2018 »). Encours « Fund size €1.36bn » (fonds), sans date propre → date de la factsheet ; devise de base du fonds USD. Frais de gestion non indiqués ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,96 % (OCF factsheet 0.960%). Indice : KID « MSCI Emerging Markets NR EUR » (« point de référence par rapport auquel la performance du fonds peut être mesurée ») ; la factsheet l'appelle « MSCI EM (Emerging Markets) Index » (« NR EUR » dans le graphique). Classification Agressif (marchés émergents) bien que le SRI soit 4. SFDR article 8 (factsheet et KID), aucun % durable écrit. Allocations : top 10, secteurs et pays de la factsheet p.2 (libellés en anglais tels qu'écrits) ; le pays « Other » 5.8.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "33",
+ "isin": "LU1846577168",
+ "nom": "(I/C)ARTEMIS SMARTGARP GLOB EM I EUR",
+ "maison": "FundRock Management Company S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-08-05",
+ "date_creation": "2018-09-05",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "Ce produit est un compartiment d’Artemis Funds (Lux), une société d’investissement à capital variable (« SICAV ») de droit luxembourgeois.",
+ "gerants": "Raheel Altaf",
+ "encours_millions": "1360",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.96",
+ "sri": "4",
+ "indice": "MSCI Emerging Markets NR EUR",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a guide to the future. Your capital is at risk.",
+ "politique_fr": "Objectif\nAugmenter la valeur des investissements des actionnaires en combinant croissance du capital et revenus.\n\nPolitique d’investissement\nLe fonds fait l’objet d’une gestion active.\n\nLe fonds investit principalement dans des actions de sociétés cotées, ayant leur siège ou exerçant la majeure partie de leurs activités économiques dans des pays émergents.\n\nUn outil propriétaire appelé « SmartGARP » est utilisé comme base du processus d’investissement. Il passe au crible les caractéristiques financières des entreprises en identifiant celles qui connaissent une croissance plus rapide que le marché mais dont les valorisations sont inférieures à celles du marché. Le Gestionnaire d’investissement sélectionne des sociétés qui, dans l’ensemble, présentent de bonnes caractéristiques « SmartGARP ». Cela signifie que le portefeuille contient des actions dont les valorisations sont inférieures à la moyenne du marché, qui sont conformes aux prévisions de bénéfices et qui sont sous-détenues par la communauté des investisseurs, tout en bénéficiant des tendances positives de l’économie au sens large.\n\nLe fonds ne peut pas investir dans des entreprises (directement ou indirectement via des instruments dérivés) ayant une exposition au tabac, aux armes ou au charbon thermique, sous réserve des seuils de chiffre d’affaires définis dans le prospectus du fonds, ni dans des entreprises que le gestionnaire considère comme étant en violation des principes du Pacte mondial des Nations unies relatifs aux droits de l’homme, aux droits du travail, à l’environnement et à la lutte contre la corruption.\n\nLe Fonds promeut des caractéristiques environnementales et/ou sociales au sens de l’article 8 du Règlement sur la publication d’informations en matière de durabilité dans le secteur des services financiers. De plus amples informations sur les caractéristiques environnementales ou sociales de ce fonds figurent dans les informations précontractuelles sur les produits financiers visés à l’article 8 du SFDR contenues dans le prospectus du fonds.\n\nLe fonds investira dans des titres de participation directement ou indirectement par le biais d’instruments tels que, mais sans s’y limiter, des ADR, des GDR, des obligations participatives et des contrats sur différence.\n\nLes obligations participatives et contrats sur différence seront employés pour accéder à des marchés sur lesquels l’achat direct d’actions peut s’avérer difficile. Leur emploi n’a pas vocation à créer un effet de levier. Les investissements en obligations participatives et contrats sur différence ne dépasseront pas 20 % de la Valeur nette d’inventaire du fonds.\n\nLe fonds peut investir jusqu’à 20 % de sa Valeur nette d’inventaire dans des Actions A chinoises via les programmes Shanghai-Hong Kong Stock Connect et Shenzhen-Hong Kong Stock Connect.\n\nLe fonds peut utiliser des produits dérivés et d’autres techniques à des fins de gestion efficace du portefeuille. Les dérivés dans lesquels le fonds peut investir incluront, sans toutefois s’y limiter, des contrats à terme standardisés et des contrats de change à terme de gré à gré.\n\nSous réserve des limites énoncées dans la section « Restrictions d’investissement » du prospectus du fonds, le fonds peut également détenir des actifs liquides accessoires à des fins de trésorerie.\n\nLe fonds peut investir jusqu’à 10 % de sa Valeur nette d’inventaire dans d’autres organismes de placement collectif.\n\nIndice de référence : MSCI Emerging Markets NR EUR\nL’indice de référence constitue un point de référence par rapport auquel la performance du fonds peut être mesurée. La gestion du fonds n’est pas limitée par cet indice de référence. L’écart par rapport à l’indice de référence peut être important et le portefeuille du fonds peut parfois être notablement, voire totalement, différent de celui de l’indice de référence.\n\nL’indice de référence ne tient pas compte des caractéristiques environnementales et/ou sociales promues par le fonds.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet en anglais (31/08/2026), réservée aux investisseurs professionnels ; elle ne donne que l'objectif en une phrase et renvoie au site pour la politique → politique copiée du KID (sections « Objectif » et « Politique d’investissement », jusqu'à « Investisseurs de détail visés » ; texte en deux colonnes, ordre vérifié). Date de création : « Launch date 05 Sep 2018 » de la part I Acc EUR (= « Fund launch date 5 Sep 2018 »). Encours « Fund size €1.36bn » (fonds), sans date propre → date de la factsheet ; devise de base du fonds USD. Frais de gestion non indiqués ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,96 % (OCF factsheet 0.960%). Indice : KID « MSCI Emerging Markets NR EUR » (« point de référence par rapport auquel la performance du fonds peut être mesurée ») ; la factsheet l'appelle « MSCI EM (Emerging Markets) Index » (« NR EUR » dans le graphique). Classification Agressif (marchés émergents) bien que le SRI soit 4. SFDR article 8 (factsheet et KID), aucun % durable écrit. Allocations : top 10, secteurs et pays de la factsheet p.2 (libellés en anglais tels qu'écrits) ; le pays « Other » 5.8.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "8.6"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics",
-      "pct": "8.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing",
-      "pct": "7.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK hynix",
-      "pct": "4.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Wiwynn",
-      "pct": "3.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK Square Co",
-      "pct": "2.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Industrial and Commercial Bank of China",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Geely Automobile Holdings",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Petroleo Brasileiro",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "COSCO SHIPPING Holdings",
-      "pct": "2.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK Inc",
-      "pct": "1.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "31.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "18.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "12.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "10.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "10.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energy",
-      "pct": "9.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication Services",
-      "pct": "1.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "1.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "0.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Real Estate",
-      "pct": "0.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Staples",
-      "pct": "0.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Korea",
-      "pct": "25.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "China",
-      "pct": "23.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taiwan",
-      "pct": "18.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Brazil",
-      "pct": "7.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "India",
-      "pct": "5.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "South Africa",
-      "pct": "4.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Turkey",
-      "pct": "1.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Peru",
-      "pct": "1.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Colombia",
-      "pct": "1.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Poland",
-      "pct": "1.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Thailand",
-      "pct": "1.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Other",
-      "pct": "5.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing",
+   "pct": "7.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK hynix",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wiwynn",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Square Co",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrial and Commercial Bank of China",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Geely Automobile Holdings",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Petroleo Brasileiro",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COSCO SHIPPING Holdings",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Inc",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "31.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "18.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "12.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "10.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "9.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "0.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Korea",
+   "pct": "25.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "23.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "18.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brazil",
+   "pct": "7.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "India",
+   "pct": "5.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "South Africa",
+   "pct": "4.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Turkey",
+   "pct": "1.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Peru",
+   "pct": "1.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Colombia",
+   "pct": "1.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Poland",
+   "pct": "1.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Thailand",
+   "pct": "1.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other",
+   "pct": "5.8"
+  }
+ ]
 }

@@ -1,297 +1,297 @@
 {
-  "n": "265",
-  "isin": "IE00B1JC0H05",
-  "nom": "(I/C)PIMCO GIS DIVERSIFIED INCOME FUND EUR",
-  "maison": "PIMCO (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-04-29",
-  "date_creation": "2007-02-14",
-  "devise": "EUR",
-  "type_fonds": "Obligataire",
-  "compartiment": "un compartiment de PIMCO Funds: Global Investors Series plc",
-  "gerants": "Sonali Pier, Alfred Murata, Charles Watford, Regina Borromeo, Daniel J. Ivascyn",
-  "encours_millions": "9300",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.69",
-  "frais_courants": "0.69",
-  "sri": "2",
-  "indice": "",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "5.39 ans",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne constituent pas une garantie ou un indicateur fiable des performances futures. Par ailleurs, aucune garantie n'est donnée quant à l'obtention de rendements similaires à l'avenir.",
-  "politique_fr": "Description du Fonds\nLe fonds Diversified Income Fund fournit un accès à l’ensemble du marché du crédit international en investissant essentiellement dans un panier diversifié d’obligations et de marchés émergents de différentes maturités. Le fonds détient à la fois des titres libellés en dollar américain et dans d’autres devises.\n\nAtouts du Fonds\nLe fonds s’efforce de construire un portefeuille diversifié en s’appuyant sur les perspectives macro-économiques de PIMCO et ses convictions en matière de crédit, taux d’intérêt, sensibilité, devises et positionnement sur la courbe.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part Institutionnelle Capitalisation EUR (Hedged). Encours : « Actifs du fonds 9,3 (USD en milliards) » converti en 9300 millions ; pas de date propre (date de la factsheet). Frais de gestion = « Frais de gestion totaux 0,69% p.a. » (frais tout compris PIMCO) ; frais courants KID 0,69 % (identiques). Indice laissé vide : la factsheet dit « géré activement par rapport à l’Indice de référence » sans en donner le nom exact (description de 3 indices couverts en EUR, sans pondération) ; le KID p.1 le définit comme « une combinaison à pondération égale des indices Bloomberg Global Aggregate Credit ex-Emerging Markets, ICE BofAML BB-B Rated Developed Markets High Yield Constrained et JPMorgan EMBI Global [tous couverts en USD] », utilisé pour la duration, la VàR et la comparaison, « il ne sert pas non plus d’objectif de performance » ; devise de couverture différente (EUR/USD) : à trancher. Duration = « Sensibilité effective (années) 5,39 ». Qualité moyenne non indiquée. Gérant : 5 noms de la ligne « Gérant » ; « PIMCO Global Advisors (Ireland) Limited » figure aussi sous « Gérant » (société de gestion, non reprise). Catégorie Morningstar « Global Flexible Bond - EUR Hedged » non reprise (Catégorie laissée vide). Politique : « Description du Fonds » et « Atouts du Fonds » de la factsheet ; « Atouts pour les investisseurs » (argument commercial) non repris ; le KID p.1 contient une politique plus complète. Allocations : 10 principaux titres datés du 30/06/2026 (pas du 31/08), hors dérivés ; « Allocation sectorielle » = classes obligataires (total 100 avec -30,6 d'« Autres instruments à faible sensibilité ») ; tableau « Maturité » à vérifier (0,0 % sous 3 ans alors que la sensibilité montre 12,9 % sous 3 ans) ; « Expositions par devise » : libellés de pays tels qu'écrits, 10 principales seulement. Tableaux lus sur graphiques, positions vérifiées.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "duration": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "265",
+ "isin": "IE00B1JC0H05",
+ "nom": "(I/C)PIMCO GIS DIVERSIFIED INCOME FUND EUR",
+ "maison": "PIMCO (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-29",
+ "date_creation": "2007-02-14",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "un compartiment de PIMCO Funds: Global Investors Series plc",
+ "gerants": "Sonali Pier, Alfred Murata, Charles Watford, Regina Borromeo, Daniel J. Ivascyn",
+ "encours_millions": "9300",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.69",
+ "frais_courants": "0.69",
+ "sri": "2",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "Bond Global",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "5.39 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une garantie ou un indicateur fiable des performances futures. Par ailleurs, aucune garantie n'est donnée quant à l'obtention de rendements similaires à l'avenir.",
+ "politique_fr": "Description du Fonds\nLe fonds Diversified Income Fund fournit un accès à l’ensemble du marché du crédit international en investissant essentiellement dans un panier diversifié d’obligations et de marchés émergents de différentes maturités. Le fonds détient à la fois des titres libellés en dollar américain et dans d’autres devises.\n\nAtouts du Fonds\nLe fonds s’efforce de construire un portefeuille diversifié en s’appuyant sur les perspectives macro-économiques de PIMCO et ses convictions en matière de crédit, taux d’intérêt, sensibilité, devises et positionnement sur la courbe.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part Institutionnelle Capitalisation EUR (Hedged). Encours : « Actifs du fonds 9,3 (USD en milliards) » converti en 9300 millions ; pas de date propre (date de la factsheet). Frais de gestion = « Frais de gestion totaux 0,69% p.a. » (frais tout compris PIMCO) ; frais courants KID 0,69 % (identiques). Indice laissé vide : la factsheet dit « géré activement par rapport à l’Indice de référence » sans en donner le nom exact (description de 3 indices couverts en EUR, sans pondération) ; le KID p.1 le définit comme « une combinaison à pondération égale des indices Bloomberg Global Aggregate Credit ex-Emerging Markets, ICE BofAML BB-B Rated Developed Markets High Yield Constrained et JPMorgan EMBI Global [tous couverts en USD] », utilisé pour la duration, la VàR et la comparaison, « il ne sert pas non plus d’objectif de performance » ; devise de couverture différente (EUR/USD) : à trancher. Duration = « Sensibilité effective (années) 5,39 ». Qualité moyenne non indiquée. Gérant : 5 noms de la ligne « Gérant » ; « PIMCO Global Advisors (Ireland) Limited » figure aussi sous « Gérant » (société de gestion, non reprise). Catégorie Morningstar « Global Flexible Bond - EUR Hedged » non reprise (Catégorie laissée vide). Politique : « Description du Fonds » et « Atouts du Fonds » de la factsheet ; « Atouts pour les investisseurs » (argument commercial) non repris ; le KID p.1 contient une politique plus complète. Allocations : 10 principaux titres datés du 30/06/2026 (pas du 31/08), hors dérivés ; « Allocation sectorielle » = classes obligataires (total 100 avec -30,6 d'« Autres instruments à faible sensibilité ») ; tableau « Maturité » à vérifier (0,0 % sous 3 ans alors que la sensibilité montre 12,9 % sous 3 ans) ; « Expositions par devise » : libellés de pays tels qu'écrits, 10 principales seulement. Tableaux lus sur graphiques, positions vérifiées. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part IE00B1Z6D669 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "FNMA TBA 6.0% SEP 30YR",
+   "pct": "2.11"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "FNMA TBA 6.0% SEP 30YR",
-      "pct": "2.11"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FNMA TBA 4.0% SEP 30YR",
-      "pct": "1.93"
-    },
-    {
-      "type": "Positions",
-      "libelle": "U S TREASURY BOND",
-      "pct": "1.55"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FNMA TBA 5.0% AUG 30YR",
-      "pct": "1.39"
-    },
-    {
-      "type": "Positions",
-      "libelle": "REPUBLIC OF ARGENTINA",
-      "pct": "1.10"
-    },
-    {
-      "type": "Positions",
-      "libelle": "REPUBLIC OF SOUTH AFRICA",
-      "pct": "0.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "PEMEX SR UNSEC",
-      "pct": "0.71"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FNMA TBA 3.0% AUG 30YR",
-      "pct": "0.68"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FNMA TBA 6.0% AUG 30YR",
-      "pct": "0.63"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FNMA TBA 5.0% JUL 30YR",
-      "pct": "0.56"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Titres gouvernementaux",
-      "pct": "38.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits de titrisation",
-      "pct": "14.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Obligations investment grade",
-      "pct": "23.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Obligations à haut rendement",
-      "pct": "24.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Marchés émergents",
-      "pct": "29.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Obligations municipales/autres∆",
-      "pct": "0.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres instruments à faible sensibilité",
-      "pct": "-30.6"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Finance autre",
-      "pct": "6.0"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Technologie",
-      "pct": "4.5"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Banques",
-      "pct": "3.5"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Électricité",
-      "pct": "2.9"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Énergie et pétrole indépendants",
-      "pct": "2.7"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Pipelines",
-      "pct": "2.6"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Médias câblés",
-      "pct": "2.1"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Pétrole intégré",
-      "pct": "1.7"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Automobiles",
-      "pct": "1.2"
-    },
-    {
-      "type": "Industries",
-      "libelle": "Santé",
-      "pct": "1.0"
-    },
-    {
-      "type": "Sensibilité",
-      "libelle": "<1 an",
-      "pct": "1.7"
-    },
-    {
-      "type": "Sensibilité",
-      "libelle": "1 à 3 ans",
-      "pct": "11.2"
-    },
-    {
-      "type": "Sensibilité",
-      "libelle": "3 à 5 ans",
-      "pct": "22.4"
-    },
-    {
-      "type": "Sensibilité",
-      "libelle": "5 à 10 ans",
-      "pct": "45.5"
-    },
-    {
-      "type": "Sensibilité",
-      "libelle": "10 à 20 ans",
-      "pct": "19.1"
-    },
-    {
-      "type": "Sensibilité",
-      "libelle": "Plus de 20 ans",
-      "pct": "0.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "0 à 1 an",
-      "pct": "0.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "1 à 3 ans",
-      "pct": "0.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "3 à 5 ans",
-      "pct": "38.4"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5 à 10 ans",
-      "pct": "43.9"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "10 à 20 ans",
-      "pct": "10.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Plus de 20 ans",
-      "pct": "7.7"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Euro",
-      "pct": "99.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Brésil",
-      "pct": "1.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Inde",
-      "pct": "1.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Mexique",
-      "pct": "0.9"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Japon",
-      "pct": "0.5"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Israël",
-      "pct": "-0.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Canada",
-      "pct": "-0.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Suisse",
-      "pct": "-0.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Singapour",
-      "pct": "-1.0"
-    },
-    {
-      "type": "Devises",
-      "libelle": "États-Unis",
-      "pct": "-1.1"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "FNMA TBA 4.0% SEP 30YR",
+   "pct": "1.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "U S TREASURY BOND",
+   "pct": "1.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNMA TBA 5.0% AUG 30YR",
+   "pct": "1.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REPUBLIC OF ARGENTINA",
+   "pct": "1.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REPUBLIC OF SOUTH AFRICA",
+   "pct": "0.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PEMEX SR UNSEC",
+   "pct": "0.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNMA TBA 3.0% AUG 30YR",
+   "pct": "0.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNMA TBA 6.0% AUG 30YR",
+   "pct": "0.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNMA TBA 5.0% JUL 30YR",
+   "pct": "0.56"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Titres gouvernementaux",
+   "pct": "38.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de titrisation",
+   "pct": "14.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations investment grade",
+   "pct": "23.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations à haut rendement",
+   "pct": "24.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Marchés émergents",
+   "pct": "29.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations municipales/autres∆",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres instruments à faible sensibilité",
+   "pct": "-30.6"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Finance autre",
+   "pct": "6.0"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Technologie",
+   "pct": "4.5"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Banques",
+   "pct": "3.5"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Électricité",
+   "pct": "2.9"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Énergie et pétrole indépendants",
+   "pct": "2.7"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Pipelines",
+   "pct": "2.6"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Médias câblés",
+   "pct": "2.1"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Pétrole intégré",
+   "pct": "1.7"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Automobiles",
+   "pct": "1.2"
+  },
+  {
+   "type": "Industries",
+   "libelle": "Santé",
+   "pct": "1.0"
+  },
+  {
+   "type": "Sensibilité",
+   "libelle": "<1 an",
+   "pct": "1.7"
+  },
+  {
+   "type": "Sensibilité",
+   "libelle": "1 à 3 ans",
+   "pct": "11.2"
+  },
+  {
+   "type": "Sensibilité",
+   "libelle": "3 à 5 ans",
+   "pct": "22.4"
+  },
+  {
+   "type": "Sensibilité",
+   "libelle": "5 à 10 ans",
+   "pct": "45.5"
+  },
+  {
+   "type": "Sensibilité",
+   "libelle": "10 à 20 ans",
+   "pct": "19.1"
+  },
+  {
+   "type": "Sensibilité",
+   "libelle": "Plus de 20 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0 à 1 an",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 à 3 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3 à 5 ans",
+   "pct": "38.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5 à 10 ans",
+   "pct": "43.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10 à 20 ans",
+   "pct": "10.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Plus de 20 ans",
+   "pct": "7.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "99.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Brésil",
+   "pct": "1.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Inde",
+   "pct": "1.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Mexique",
+   "pct": "0.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Japon",
+   "pct": "0.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Israël",
+   "pct": "-0.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Canada",
+   "pct": "-0.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Suisse",
+   "pct": "-0.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Singapour",
+   "pct": "-1.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "États-Unis",
+   "pct": "-1.1"
+  }
+ ]
 }

@@ -1,202 +1,202 @@
 {
-  "n": "318",
-  "isin": "IE000CI5UY91",
-  "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX USD",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2022-10-25",
-  "devise": "USD",
-  "type_fonds": "Obligataire entreprises internationales (indiciel ESG)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Europe Bond Index Team",
-  "encours_millions": "539",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.20",
-  "sri": "2",
-  "indice": "Bloomberg MSCI Global Corporate Float-Adjusted Bond Screened Index in USD",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "5.5 ans",
-  "qualite_emetteurs": "A-",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) et cherche à atteindre la performance de l’indice Bloomberg MSCI Global Corporate Float Adjusted Bond Screened (l’« Indice »).\n• Le Fonds investira dans un portefeuille d’obligations d’entreprise de qualité « investment grade » assorties d’un taux fixe, libellées dans diverses devises et émises par des émetteurs de marchés développés et émergents, qui constitue un échantillon représentatif des titres composant l’Indice.\n• L’Indice est élaboré à partir de l’indice Bloomberg Global Aggregate Float-Adjusted Corporate (l’« Indice parent »), qui représente un univers d’investissement similaire et qui est ensuite examiné au regard de certains critères environnementaux, sociaux et de gouvernance (à savoir, liés aux controverses) (les « critères de présélection ») par Bloomberg en tant que promoteur de l’Indice, qui est indépendant de Vanguard.\n• En excluant de son portefeuille des obligations émises par des émetteurs privés sur le fondement des conséquences potentiellement néfastes de la conduite ou des produits de l’émetteur privé concerné sur la société et/ou l’environnement, le Fonds promeut certaines caractéristiques environnementales et sociales relatives aux normes sociales.\n• La méthodologie de l’Indice exclut les obligations d’émetteurs privés que MSCI détermine (a) comme étant engagées ou impliquées de façon spécifique dans la chaîne logistique et/ou (b) comme percevant des revenus (au-dessus d’un seuil spécifié par le Fournisseur d’indices) de certains segments liés aux activités suivantes : (i) les divertissement pour adultes, (ii) l’alcool, (iii) les jeux d’argent, (iv) le tabac, (v) les armes nucléaires, (vi) les armes controversées, (vii) les armes conventionnelles, (viii) les armes à feu civiles, (ix) l’énergie nucléaire ou (x) les combustibles fossiles (y compris le charbon thermique, le pétrole, le gaz, les sables bitumineux et pétrole ou le gaz dans l’Arctique). Il incombe au Fournisseur d’indices de définir ce qui caractérise l’« implication » dans l’une de ces activités. Une société peut notamment être considérée comme impliquée dans une activité au-delà d’un certain pourcentage de revenus perçus, ou si elle est liée d’une quelconque façon à une activité restreinte, quel que soit le montant des revenus perçus. L’implication portera sur des aspects spécifiques de la chaîne logistique.\n• L’implication de l’entreprise dans les produits et les comportements est surveillée chaque année par le fournisseur de l’indice et de nouvelles données sont mises à sa disposition.\n• Pour la stratégie d’investissement complète, veuillez consulter le prospectus.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe USD Hedged Acc. Date de création « 25 octobre 2022 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : « Vanguard Asset Management, Ltd. – Europe Bond Index Team » (équipe). Encours = « Encours total (million) 539 $ » (encours de la classe : 2 $). Frais de gestion non indiqués ; frais courants 0,20 % (KID, = MFC factsheet). Indice : fonds indiciel (indice Bloomberg MSCI Global Corporate Float Adjusted Bond Screened), version couverte de la classe selon le tableau de performance de la factsheet. Duration = « Duration moyenne 5,5 ans » ; « Qualité moyenne A- » ; rendement le plus défavorable 4,91 %. SFDR : aucun article mentionné (la politique indique que le Fonds « promeut certaines caractéristiques environnementales et sociales »). Classification Défensif : obligations d'entreprises investment grade, SRI 2. Allocations au 31 août 2026 : 10 premiers marchés (type Pays), échéances, qualité de crédit, type d'émetteur (type « Instruments », « Autre » négatif conservé).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "duration": "factsheet p.3",
-    "qualite_emetteurs": "factsheet p.3",
-    "disclaimer": "factsheet p.6",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "318",
+ "isin": "IE000CI5UY91",
+ "nom": "(I/C)VANGUARD ESG GLOBAL CORPORATE BOND INDEX USD",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2022-10-25",
+ "devise": "USD",
+ "type_fonds": "Obligataire entreprises internationales (indiciel ESG)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Europe Bond Index Team",
+ "encours_millions": "539",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.20",
+ "sri": "2",
+ "indice": "Bloomberg MSCI Global Corporate Float-Adjusted Bond Screened Index in USD",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "5.5 ans",
+ "qualite_emetteurs": "A-",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) et cherche à atteindre la performance de l’indice Bloomberg MSCI Global Corporate Float Adjusted Bond Screened (l’« Indice »).\n• Le Fonds investira dans un portefeuille d’obligations d’entreprise de qualité « investment grade » assorties d’un taux fixe, libellées dans diverses devises et émises par des émetteurs de marchés développés et émergents, qui constitue un échantillon représentatif des titres composant l’Indice.\n• L’Indice est élaboré à partir de l’indice Bloomberg Global Aggregate Float-Adjusted Corporate (l’« Indice parent »), qui représente un univers d’investissement similaire et qui est ensuite examiné au regard de certains critères environnementaux, sociaux et de gouvernance (à savoir, liés aux controverses) (les « critères de présélection ») par Bloomberg en tant que promoteur de l’Indice, qui est indépendant de Vanguard.\n• En excluant de son portefeuille des obligations émises par des émetteurs privés sur le fondement des conséquences potentiellement néfastes de la conduite ou des produits de l’émetteur privé concerné sur la société et/ou l’environnement, le Fonds promeut certaines caractéristiques environnementales et sociales relatives aux normes sociales.\n• La méthodologie de l’Indice exclut les obligations d’émetteurs privés que MSCI détermine (a) comme étant engagées ou impliquées de façon spécifique dans la chaîne logistique et/ou (b) comme percevant des revenus (au-dessus d’un seuil spécifié par le Fournisseur d’indices) de certains segments liés aux activités suivantes : (i) les divertissement pour adultes, (ii) l’alcool, (iii) les jeux d’argent, (iv) le tabac, (v) les armes nucléaires, (vi) les armes controversées, (vii) les armes conventionnelles, (viii) les armes à feu civiles, (ix) l’énergie nucléaire ou (x) les combustibles fossiles (y compris le charbon thermique, le pétrole, le gaz, les sables bitumineux et pétrole ou le gaz dans l’Arctique). Il incombe au Fournisseur d’indices de définir ce qui caractérise l’« implication » dans l’une de ces activités. Une société peut notamment être considérée comme impliquée dans une activité au-delà d’un certain pourcentage de revenus perçus, ou si elle est liée d’une quelconque façon à une activité restreinte, quel que soit le montant des revenus perçus. L’implication portera sur des aspects spécifiques de la chaîne logistique.\n• L’implication de l’entreprise dans les produits et les comportements est surveillée chaque année par le fournisseur de l’indice et de nouvelles données sont mises à sa disposition.\n• Pour la stratégie d’investissement complète, veuillez consulter le prospectus.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe USD Hedged Acc. Date de création « 25 octobre 2022 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : « Vanguard Asset Management, Ltd. – Europe Bond Index Team » (équipe). Encours = « Encours total (million) 539 $ » (encours de la classe : 2 $). Frais de gestion non indiqués ; frais courants 0,20 % (KID, = MFC factsheet). Indice : fonds indiciel (indice Bloomberg MSCI Global Corporate Float Adjusted Bond Screened), version couverte de la classe selon le tableau de performance de la factsheet. Duration = « Duration moyenne 5,5 ans » ; « Qualité moyenne A- » ; rendement le plus défavorable 4,91 %. SFDR : aucun article mentionné (la politique indique que le Fonds « promeut certaines caractéristiques environnementales et sociales »). Classification Défensif : obligations d'entreprises investment grade, SRI 2. Allocations au 31 août 2026 : 10 premiers marchés (type Pays), échéances, qualité de crédit, type d'émetteur (type « Instruments », « Autre » négatif conservé).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "duration": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.3",
+  "disclaimer": "factsheet p.6",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "60.6"
   },
-  "allocations": [
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "60.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "7.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "5.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "4.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "3.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japon",
-      "pct": "2.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "2.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "2.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Australie",
-      "pct": "1.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "1.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Moins de 1 an",
-      "pct": "1.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "1 - 5 ans",
-      "pct": "42.8"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5 - 10 ans",
-      "pct": "33.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "10 - 15 ans",
-      "pct": "7.1"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "15 - 20 ans",
-      "pct": "4.5"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "20 - 25 ans",
-      "pct": "4.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Plus de 25 ans",
-      "pct": "6.8"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "0.7"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "10.2"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "45.9"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "41.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Inférieur à BBB",
-      "pct": "0.0"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Sans notation",
-      "pct": "1.7"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Entreprise - Industrie",
-      "pct": "49.7"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Entreprise - institutions financiéres",
-      "pct": "45.9"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Entreprise - services aux Collectivités",
-      "pct": "2.8"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Liquidités*",
-      "pct": "1.6"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Bons du Trésor/Obligations fédérales",
-      "pct": "0.2"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Obligations provinciales/municipales",
-      "pct": "0.1"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Autre",
-      "pct": "-0.3"
-    }
-  ]
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "7.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "5.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "4.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "2.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "2.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "1.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Moins de 1 an",
+   "pct": "1.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 - 5 ans",
+   "pct": "42.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5 - 10 ans",
+   "pct": "33.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10 - 15 ans",
+   "pct": "7.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "15 - 20 ans",
+   "pct": "4.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20 - 25 ans",
+   "pct": "4.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Plus de 25 ans",
+   "pct": "6.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "0.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "10.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "45.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "41.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Inférieur à BBB",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans notation",
+   "pct": "1.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Entreprise - Industrie",
+   "pct": "49.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Entreprise - institutions financiéres",
+   "pct": "45.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Entreprise - services aux Collectivités",
+   "pct": "2.8"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités*",
+   "pct": "1.6"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Bons du Trésor/Obligations fédérales",
+   "pct": "0.2"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations provinciales/municipales",
+   "pct": "0.1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Autre",
+   "pct": "-0.3"
+  }
+ ]
 }

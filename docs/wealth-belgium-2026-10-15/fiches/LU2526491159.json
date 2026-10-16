@@ -1,244 +1,244 @@
 {
-  "n": "294",
-  "isin": "LU2526491159",
-  "nom": "(I/C)SCHRODER ISF GLOBAL SUSTAINABLE GROWTH C EUR",
-  "maison": "Schroder Investment Management (Europe) S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2022-09-21",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "un compartiment de Schroder International Selection Fund",
-  "gerants": "Charles Somers, Scott MacLennan",
-  "encours_millions": "4228.02",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.83",
-  "sri": "4",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
-  "politique_fr": "Objectif d'investissement\nLe fonds vise à dégager une croissance du capital en investissant dans des titres de sociétés du monde entier qui remplissent les critères du gestionnaire d'investissement en matière de durabilité.\n\nLe fonds est géré de façon active et investit au moins les deux tiers de ses actifs dans des titres de sociétés du monde entier.\n\nDe manière générale, le fonds détient moins de 50 sociétés en portefeuille.\n\nLe fonds investit les deux tiers de son actif dans des titres de sociétés du monde entier. Le fonds peut également investir, directement ou indirectement, jusqu'à un tiers de ses actifs dans d'autres titres (y compris d'autres catégories d'actifs), pays, régions, secteurs ou devises, fonds d'investissement, warrants et placements du marché monétaire, et détenir des liquidités (dans les limites énoncées dans le prospectus).\n\nLe fonds peut utiliser des instruments dérivés dans le but de réduire les risques ou de gérer le fonds de manière plus efficace.\n\nLe fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents.\n\nLe fonds maintient une note globale de durabilité plus élevée que celle de l'indice MSCI AC World (Net TR), selon le système de notation du gestionnaire d'investissement.\n\nLe fonds n'investit pas directement dans un certain nombre d'activités, de secteurs ou de groupes d'émetteurs mentionnés au-delà des limites indiquées dans la section « Informations en matière de durabilité » de la page Web du fonds, accessible via https://www.schroders.com/en/lu/private-investor/gfc.\n\nLe fonds investit dans des sociétés qui ont de bonnes pratiques en matière de gouvernance, telles que déterminées par les critères de notation du gestionnaire d'investissement. Le gestionnaire d'investissement peut également s'engager auprès de sociétés détenues par le fonds pour remettre en cause les points faibles identifiés sur les questions de durabilité. Pour en savoir plus sur l'approche du gestionnaire d'investissement en matière de durabilité, veuillez consulter le prospectus et la page Web suivante : https://www.schroders.com/en/lu/private-investor/strategic-capabilities/sustainability/disclosures.\n\nIndice de référence : Le fonds n'a pas d'indice de référence cible. La performance du fonds sera comparée à l'indice MSCI AC World (Net TR) Index. L'indice de référence comparateur n'est inclus qu'à des fins de comparaison des performances et n'a aucune influence sur la manière dont le gestionnaire d'investissement investit les actifs du fonds. L'univers d'investissement du fonds devrait se recouper de manière significative avec les composantes de l'indice de référence comparateur. Le gestionnaire d'investissement investit de manière discrétionnaire, et il n'existe aucune restriction quant à la mesure dans laquelle le portefeuille et la performance du fonds peuvent s'écarter de l'indice de référence comparateur. Le ou les indices de référence ne tient/tiennent pas compte des caractéristiques environnementales et sociales ou de l'objectif durable (selon le cas) du fonds. Veuillez vous reporter à l'annexe III du prospectus du fonds pour plus de détails.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Indice vide : le KID indique « Le fonds n'a pas d'indice de référence cible » ; le MSCI AC World (Net TR) Index (« MSCI ACWI NR » dans la factsheet) sert seulement à la comparaison des performances. Politique : la factsheet ne donne que l'objectif et renvoie au KID → section « Objectif d'investissement » + « Indice de référence » du KID p.1. Date de création = date de lancement de la catégorie de parts 21.09.2022 (fonds lancé le 23.11.2010). Devise de la part EUR, devise du fonds USD ; encours « Taille du fonds (en millions) USD 4.228,02 ». Frais de gestion non indiqués ; frais courants 0,83 % (KID, identique à la factsheet). SFDR article 8, aucun % d'investissements durables écrit. Factsheet « Données au 31.08.2026 ». Allocations : seules les valeurs du fonds (colonne « Indice de comparaison » écartée) ; lignes à 0,0 pour le fonds non reprises (Services aux collectivités, Énergie, Consommation non cyclique ; Autres en région).",
-  "sources": {
-    "factsheet_date": "factsheet p.4",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "294",
+ "isin": "LU2526491159",
+ "nom": "(I/C)SCHRODER ISF GLOBAL SUSTAINABLE GROWTH C EUR",
+ "maison": "Schroder Investment Management (Europe) S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2022-09-21",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "un compartiment de Schroder International Selection Fund",
+ "gerants": "Charles Somers, Scott MacLennan",
+ "encours_millions": "4228.02",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.83",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
+ "politique_fr": "Objectif d'investissement\nLe fonds vise à dégager une croissance du capital en investissant dans des titres de sociétés du monde entier qui remplissent les critères du gestionnaire d'investissement en matière de durabilité.\n\nLe fonds est géré de façon active et investit au moins les deux tiers de ses actifs dans des titres de sociétés du monde entier.\n\nDe manière générale, le fonds détient moins de 50 sociétés en portefeuille.\n\nLe fonds investit les deux tiers de son actif dans des titres de sociétés du monde entier. Le fonds peut également investir, directement ou indirectement, jusqu'à un tiers de ses actifs dans d'autres titres (y compris d'autres catégories d'actifs), pays, régions, secteurs ou devises, fonds d'investissement, warrants et placements du marché monétaire, et détenir des liquidités (dans les limites énoncées dans le prospectus).\n\nLe fonds peut utiliser des instruments dérivés dans le but de réduire les risques ou de gérer le fonds de manière plus efficace.\n\nLe fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents.\n\nLe fonds maintient une note globale de durabilité plus élevée que celle de l'indice MSCI AC World (Net TR), selon le système de notation du gestionnaire d'investissement.\n\nLe fonds n'investit pas directement dans un certain nombre d'activités, de secteurs ou de groupes d'émetteurs mentionnés au-delà des limites indiquées dans la section « Informations en matière de durabilité » de la page Web du fonds, accessible via https://www.schroders.com/en/lu/private-investor/gfc.\n\nLe fonds investit dans des sociétés qui ont de bonnes pratiques en matière de gouvernance, telles que déterminées par les critères de notation du gestionnaire d'investissement. Le gestionnaire d'investissement peut également s'engager auprès de sociétés détenues par le fonds pour remettre en cause les points faibles identifiés sur les questions de durabilité. Pour en savoir plus sur l'approche du gestionnaire d'investissement en matière de durabilité, veuillez consulter le prospectus et la page Web suivante : https://www.schroders.com/en/lu/private-investor/strategic-capabilities/sustainability/disclosures.\n\nIndice de référence : Le fonds n'a pas d'indice de référence cible. La performance du fonds sera comparée à l'indice MSCI AC World (Net TR) Index. L'indice de référence comparateur n'est inclus qu'à des fins de comparaison des performances et n'a aucune influence sur la manière dont le gestionnaire d'investissement investit les actifs du fonds. L'univers d'investissement du fonds devrait se recouper de manière significative avec les composantes de l'indice de référence comparateur. Le gestionnaire d'investissement investit de manière discrétionnaire, et il n'existe aucune restriction quant à la mesure dans laquelle le portefeuille et la performance du fonds peuvent s'écarter de l'indice de référence comparateur. Le ou les indices de référence ne tient/tiennent pas compte des caractéristiques environnementales et sociales ou de l'objectif durable (selon le cas) du fonds. Veuillez vous reporter à l'annexe III du prospectus du fonds pour plus de détails.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Indice vide : le KID indique « Le fonds n'a pas d'indice de référence cible » ; le MSCI AC World (Net TR) Index (« MSCI ACWI NR » dans la factsheet) sert seulement à la comparaison des performances. Politique : la factsheet ne donne que l'objectif et renvoie au KID → section « Objectif d'investissement » + « Indice de référence » du KID p.1. Date de création = date de lancement de la catégorie de parts 21.09.2022 (fonds lancé le 23.11.2010). Devise de la part EUR, devise du fonds USD ; encours « Taille du fonds (en millions) USD 4.228,02 ». Frais de gestion non indiqués ; frais courants 0,83 % (KID, identique à la factsheet). SFDR article 8, aucun % d'investissements durables écrit. Factsheet « Données au 31.08.2026 ». Allocations : seules les valeurs du fonds (colonne « Indice de comparaison » écartée) ; lignes à 0,0 pour le fonds non reprises (Services aux collectivités, Énergie, Consommation non cyclique ; Autres en région).",
+ "sources": {
+  "factsheet_date": "factsheet p.4",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "38.5"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l’information",
-      "pct": "38.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "15.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "13.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "12.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation cyclique",
-      "pct": "8.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "6.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "2.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Actifs liquides",
-      "pct": "1.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "53.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "8.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japon",
-      "pct": "7.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Taiwan (Republic of China)",
-      "pct": "5.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "4.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "3.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "3.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "3.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suisse",
-      "pct": "2.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "2.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Hong Kong",
-      "pct": "1.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Actifs liquides",
-      "pct": "1.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "1.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amériques",
-      "pct": "53.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe hors R.-U. / Moyen-Orient",
-      "pct": "21.4"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "8.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "7.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Marchés émergents",
-      "pct": "5.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique hors Japon",
-      "pct": "1.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Actifs liquides",
-      "pct": "1.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NVIDIA Corp",
-      "pct": "7.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Microsoft Corp",
-      "pct": "6.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet Inc",
-      "pct": "6.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "pct": "5.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Apple Inc",
-      "pct": "4.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASML Holding NV",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Recruit Holdings Co Ltd",
-      "pct": "3.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Arista Networks Inc",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Banco Bilbao Vizcaya Argentaria SA",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Roche Holding AG",
-      "pct": "2.3"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "15.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "13.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "12.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "8.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Actifs liquides",
+   "pct": "1.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "53.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "8.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "7.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan (Republic of China)",
+   "pct": "5.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "4.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "3.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "2.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Actifs liquides",
+   "pct": "1.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amériques",
+   "pct": "53.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe hors R.-U. / Moyen-Orient",
+   "pct": "21.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "8.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "7.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "5.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actifs liquides",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "7.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "6.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc",
+   "pct": "6.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Recruit Holdings Co Ltd",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Arista Networks Inc",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Bilbao Vizcaya Argentaria SA",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding AG",
+   "pct": "2.3"
+  }
+ ]
 }

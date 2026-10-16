@@ -1,103 +1,103 @@
 {
-  "n": "122",
-  "isin": "LU1160357403",
-  "nom": "(I/C)EDRF HEALTHCARE I EUR",
-  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT LUXEMBOURG",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-07-01",
-  "date_creation": "2009-08-06",
-  "devise": "EUR",
-  "type_fonds": "Actions sectorielles (santé)",
-  "compartiment": "compartiment de la Société d’Investissement à Capital Variable (SICAV) EDMOND DE ROTHSCHILD FUND de droit Luxembourgeois",
-  "gerants": "Adeline SALAT-BAROUX, Sébastien MALAFOSSE",
-  "encours_millions": "327.20",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.75",
-  "frais_courants": "1.22",
-  "sri": "4",
-  "indice": "MSCI AC World Health Care (NR) (EUR)",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "86.46",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs.",
-  "politique_fr": "Objectif : L’objectif du Produit consiste à surperformer son indice de référence en investissant dans des sociétés actives dans le secteur de la santé et répondant à des critères environnementaux, sociaux et de gouvernance.\n\nIndice de référence : Indice MSCI All Country World Health Care, dividendes nets réinvestis. L'indice de référence sera exprimé dans la devise de la Catégorie.\n\nL’indice de référence du Produit sert à des fins de comparaison et pour calculer les commissions de performance.\n\nLe Produit fait l’objet d’une gestion active et ne vise pas à suivre l’Indice. Par conséquent, la composition des participations du portefeuille n’est pas limitée par la composition de l’Indice, et l’écart entre les participations du portefeuille et l’Indice peut être significatif.\n\nPolitique d’investissement : Le Produit investit et/ou expose au minimum 75 % de ses actifs nets dans/à des titres émis par des sociétés opérant dans le secteur de la santé (biotechnologie, produits pharmaceutiques, technologie médicale, diagnostic médical, gestion d’hôpitaux et de centres de soins et autres services médicaux), ainsi que par des sociétés commercialisant ces produits ou services. Entre 75 % à 110 % des actifs nets du Produit seront exposés directement ou indirectement aux marchés boursiers internationaux et à d’autres titres assimilés : directement, par le biais d'OPC et/ou de contrats financiers.\n\nLe Produit vise à sélectionner des sociétés actives dans le secteur de la santé qui ont adopté une approche axée sur une bonne gestion des risques et opportunités environnementaux, sociaux et de gouvernance (ESG). Le processus d’investissement du Produit implique, à cette fin, une approche d’investissement exclusive responsable qui privilégie les sociétés bien classées dans la catégorie ESG, quels que soient leur capitalisation et basée soit sur une notation ESG propre à la société concernée, soit sur une notation fournie par une agence de notation externe. Au moins 90 % des entreprises du portefeuille recevront une notation ESG. De plus amples détails sur l'approche d'investissement responsable appliquée au Produit sont disponibles sur le site web du gestionnaire d’investissement : https://www.edmond-de-rothschild.com/en/Pages/Responsible-investment.aspx, plus particulièrement sur le code de transparence du Poduit.\n\nLe Produit est classé selon l’article 8, paragraphe 1, du règlement SFDR, car il promeut une combinaison de caractéristiques ESG, bien qu’aucun indice de référence n’a été désigné pour atteindre les caractéristiques environnementales ou sociales.\n\nDans le cadre de sa stratégie ESG, le Produit promeut des caractéristiques environnementales, mais n’investit pas dans des activités économiques durables sur le plan environnemental. Les investissements sous-jacents de ce produit financier ne prennent pas en compte les critères de l’Union européenne en matière d’activités économiques durables sur le plan environnemental, dans le cadre du règlement sur la taxonomie.\n\nÀ des fins de gestion de trésorerie, le Produit peut investir jusqu’à 25 % de son actif net dans des titres de créance négociables, des Instruments du marché monétaire, des dépôts bancaire à terme et des Fonds monétaires.\n\nLe Produit peut investir dans des instruments financiers dérivés pour atteindre son objectif d’investissement.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Date de création = « Date de création de la classe : 06/08/2009 » (factsheet) alors que la date de création du fonds est 03/07/2015 (la factsheet précise que le produit a pu changer de forme juridique depuis sa création). Encours « ACTIF NET GLOBAL : 327,20 M.EUR ». Frais de gestion 0,75 % (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs ou d’exploitation » 1,22 % (identique aux « Frais courants » factsheet) ; commission de surperformance 15 % (0,07 %). Indice : tableau factsheet « MSCI AC World Health Care (NR) (EUR) » ; KID : objectif de surperformer l'indice, qui sert « à des fins de comparaison et pour calculer les commissions de performance » (retenu). Investissements durables : « Proportion actuelle (%) 86,46 » (factsheet), engagement minimum 50 %. Classification Agressif : actions sectorielles santé, malgré SRI 4. Politique : la factsheet ne donne que l'objectif, donc section « Objectifs » du KID p.1 (« Poduit » : coquille du KID conservée). Disclaimer : le texte extrait du PDF perd les ligatures (« indicateur able », « peuvent tre ») ; texte rétabli tel qu'affiché, d'où 2 écarts signalés par verif_fiche.py. Allocations : répartitions par type d'actifs, capitalisation, secteur et zone uniquement en images (non reprises) ; seules les 10 principales lignes sont reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.5",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1 / KID p.1",
-    "sfdr": "KID p.1",
-    "durable_pct": "factsheet p.3",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "122",
+ "isin": "LU1160357403",
+ "nom": "(I/C)EDRF HEALTHCARE I EUR",
+ "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT LUXEMBOURG",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-01",
+ "date_creation": "2009-08-06",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (santé)",
+ "compartiment": "compartiment de la Société d’Investissement à Capital Variable (SICAV) EDMOND DE ROTHSCHILD FUND de droit Luxembourgeois",
+ "gerants": "Adeline SALAT-BAROUX, Sébastien MALAFOSSE",
+ "encours_millions": "327.20",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "1.22",
+ "sri": "4",
+ "indice": "MSCI AC World Health Care (NR) (EUR)",
+ "classification": "Agressif",
+ "categorie": "Equity Global Healthcare",
+ "sfdr": "8",
+ "durable_pct": "86.46",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs.",
+ "politique_fr": "Objectif : L’objectif du Produit consiste à surperformer son indice de référence en investissant dans des sociétés actives dans le secteur de la santé et répondant à des critères environnementaux, sociaux et de gouvernance.\n\nIndice de référence : Indice MSCI All Country World Health Care, dividendes nets réinvestis. L'indice de référence sera exprimé dans la devise de la Catégorie.\n\nL’indice de référence du Produit sert à des fins de comparaison et pour calculer les commissions de performance.\n\nLe Produit fait l’objet d’une gestion active et ne vise pas à suivre l’Indice. Par conséquent, la composition des participations du portefeuille n’est pas limitée par la composition de l’Indice, et l’écart entre les participations du portefeuille et l’Indice peut être significatif.\n\nPolitique d’investissement : Le Produit investit et/ou expose au minimum 75 % de ses actifs nets dans/à des titres émis par des sociétés opérant dans le secteur de la santé (biotechnologie, produits pharmaceutiques, technologie médicale, diagnostic médical, gestion d’hôpitaux et de centres de soins et autres services médicaux), ainsi que par des sociétés commercialisant ces produits ou services. Entre 75 % à 110 % des actifs nets du Produit seront exposés directement ou indirectement aux marchés boursiers internationaux et à d’autres titres assimilés : directement, par le biais d'OPC et/ou de contrats financiers.\n\nLe Produit vise à sélectionner des sociétés actives dans le secteur de la santé qui ont adopté une approche axée sur une bonne gestion des risques et opportunités environnementaux, sociaux et de gouvernance (ESG). Le processus d’investissement du Produit implique, à cette fin, une approche d’investissement exclusive responsable qui privilégie les sociétés bien classées dans la catégorie ESG, quels que soient leur capitalisation et basée soit sur une notation ESG propre à la société concernée, soit sur une notation fournie par une agence de notation externe. Au moins 90 % des entreprises du portefeuille recevront une notation ESG. De plus amples détails sur l'approche d'investissement responsable appliquée au Produit sont disponibles sur le site web du gestionnaire d’investissement : https://www.edmond-de-rothschild.com/en/Pages/Responsible-investment.aspx, plus particulièrement sur le code de transparence du Poduit.\n\nLe Produit est classé selon l’article 8, paragraphe 1, du règlement SFDR, car il promeut une combinaison de caractéristiques ESG, bien qu’aucun indice de référence n’a été désigné pour atteindre les caractéristiques environnementales ou sociales.\n\nDans le cadre de sa stratégie ESG, le Produit promeut des caractéristiques environnementales, mais n’investit pas dans des activités économiques durables sur le plan environnemental. Les investissements sous-jacents de ce produit financier ne prennent pas en compte les critères de l’Union européenne en matière d’activités économiques durables sur le plan environnemental, dans le cadre du règlement sur la taxonomie.\n\nÀ des fins de gestion de trésorerie, le Produit peut investir jusqu’à 25 % de son actif net dans des titres de créance négociables, des Instruments du marché monétaire, des dépôts bancaire à terme et des Fonds monétaires.\n\nLe Produit peut investir dans des instruments financiers dérivés pour atteindre son objectif d’investissement.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Date de création = « Date de création de la classe : 06/08/2009 » (factsheet) alors que la date de création du fonds est 03/07/2015 (la factsheet précise que le produit a pu changer de forme juridique depuis sa création). Encours « ACTIF NET GLOBAL : 327,20 M.EUR ». Frais de gestion 0,75 % (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs ou d’exploitation » 1,22 % (identique aux « Frais courants » factsheet) ; commission de surperformance 15 % (0,07 %). Indice : tableau factsheet « MSCI AC World Health Care (NR) (EUR) » ; KID : objectif de surperformer l'indice, qui sert « à des fins de comparaison et pour calculer les commissions de performance » (retenu). Investissements durables : « Proportion actuelle (%) 86,46 » (factsheet), engagement minimum 50 %. Classification Agressif : actions sectorielles santé, malgré SRI 4. Politique : la factsheet ne donne que l'objectif, donc section « Objectifs » du KID p.1 (« Poduit » : coquille du KID conservée). Disclaimer : le texte extrait du PDF perd les ligatures (« indicateur able », « peuvent tre ») ; texte rétabli tel qu'affiché, d'où 2 écarts signalés par verif_fiche.py. Allocations : répartitions par type d'actifs, capitalisation, secteur et zone uniquement en images (non reprises) ; seules les 10 principales lignes sont reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1160356009 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.5",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1 / KID p.1",
+  "sfdr": "KID p.1",
+  "durable_pct": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASTRAZENECA PLC",
+   "pct": "5.32"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ASTRAZENECA PLC",
-      "pct": "5.32"
-    },
-    {
-      "type": "Positions",
-      "libelle": "THERMO FISHER SCIENTIFIC INC",
-      "pct": "4.60"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NOVARTIS AG",
-      "pct": "4.38"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MERCK & CO",
-      "pct": "4.20"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BIOMARIN PHARMACEUTICAL INC",
-      "pct": "4.16"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ROCHE HOLDING AG",
-      "pct": "3.62"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SIEMENS HEALTHINEERS AG",
-      "pct": "3.59"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MEDTRONIC PLC",
-      "pct": "3.54"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ARGENX SE",
-      "pct": "3.49"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BEONE MEDICINES LTD",
-      "pct": "3.31"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "4.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVARTIS AG",
+   "pct": "4.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCK & CO",
+   "pct": "4.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BIOMARIN PHARMACEUTICAL INC",
+   "pct": "4.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROCHE HOLDING AG",
+   "pct": "3.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SIEMENS HEALTHINEERS AG",
+   "pct": "3.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MEDTRONIC PLC",
+   "pct": "3.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ARGENX SE",
+   "pct": "3.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BEONE MEDICINES LTD",
+   "pct": "3.31"
+  }
+ ]
 }

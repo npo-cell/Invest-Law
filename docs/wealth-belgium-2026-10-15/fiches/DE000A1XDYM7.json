@@ -1,99 +1,99 @@
 {
-  "n": "236",
-  "isin": "DE000A1XDYM7",
-  "nom": "(I/C)ODDO BHF GLOBAL EQUITY TREND CIW EUR",
-  "maison": "Oddo BHF Asset Management SAS",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-10-01",
-  "date_creation": "2025-08-01",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "Le Fonds est un OPCVM de droit allemand.",
-  "gerants": "Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA)",
-  "encours_millions": "372",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.74",
-  "frais_courants": "0.80",
-  "sri": "4",
-  "indice": "100% MSCI World (EUR, Net return)",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
-  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nUtilisant une approche quantitative propriétaire, ODDO BHF Global Equity Trend investit dans des actions mondiales. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques afin de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importance à la diversification et la gestion des risques en appliquant diverses contraintes d'optimisation.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création de la part (1ère VL) 01/08/2025 ; fonds créé le 02/01/1998 ; la factsheet précise que le fonds a modifié sa stratégie (approche momentum) à compter du 21 juillet 2025. Part réservée aux investisseurs professionnels/contreparties (min. 250 000 EUR, KID). Frais de gestion fixes 0,74% p.a. (factsheet) ; frais courants KID 0,80 % (factsheet 0.8 %). Indice « 100% MSCI World (EUR, Net return) » (factsheet) = « MSCI World (EUR, NR) » du KID, que le fonds vise à surperformer. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Allocations : 10 principales lignes seulement ; répartitions sectorielle et géographique en graphiques sans texte (seule « Poche monétaire 0,9% » lisible), non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.3",
-    "disclaimer": "factsheet p.1 et avertissement",
-    "politique_fr": "factsheet p.1"
+ "n": "236",
+ "isin": "DE000A1XDYM7",
+ "nom": "(I/C)ODDO BHF GLOBAL EQUITY TREND CIW EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-01",
+ "date_creation": "2025-08-01",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Le Fonds est un OPCVM de droit allemand.",
+ "gerants": "Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA)",
+ "encours_millions": "372",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.74",
+ "frais_courants": "0.80",
+ "sri": "4",
+ "indice": "100% MSCI World (EUR, Net return)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nUtilisant une approche quantitative propriétaire, ODDO BHF Global Equity Trend investit dans des actions mondiales. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques afin de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importance à la diversification et la gestion des risques en appliquant diverses contraintes d'optimisation.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création de la part (1ère VL) 01/08/2025 ; fonds créé le 02/01/1998 ; la factsheet précise que le fonds a modifié sa stratégie (approche momentum) à compter du 21 juillet 2025. Part réservée aux investisseurs professionnels/contreparties (min. 250 000 EUR, KID). Frais de gestion fixes 0,74% p.a. (factsheet) ; frais courants KID 0,80 % (factsheet 0.8 %). Indice « 100% MSCI World (EUR, Net return) » (factsheet) = « MSCI World (EUR, NR) » du KID, que le fonds vise à surperformer. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Allocations : 10 principales lignes seulement ; répartitions sectorielle et géographique en graphiques sans texte (seule « Poche monétaire 0,9% » lisible), non reprises.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.3",
+  "disclaimer": "factsheet p.1 et avertissement",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "5.83"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Nvidia Corp",
-      "pct": "5.83"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Apple Inc",
-      "pct": "4.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Microsoft Corp",
-      "pct": "3.13"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amazon.Com Inc",
-      "pct": "2.33"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet Inc-Cl A",
-      "pct": "2.27"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet Inc-Cl C",
-      "pct": "1.99"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Micron Technology Inc",
-      "pct": "1.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bank Of New York Mellon Corp",
-      "pct": "1.82"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Broadcom Inc",
-      "pct": "1.77"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Rolls-Royce Holdings Plc",
-      "pct": "1.52"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc",
+   "pct": "4.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "3.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.Com Inc",
+   "pct": "2.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc-Cl A",
+   "pct": "2.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc-Cl C",
+   "pct": "1.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Micron Technology Inc",
+   "pct": "1.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Of New York Mellon Corp",
+   "pct": "1.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc",
+   "pct": "1.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rolls-Royce Holdings Plc",
+   "pct": "1.52"
+  }
+ ]
 }

@@ -1,289 +1,289 @@
 {
-  "n": "207",
-  "isin": "LU1670618260",
-  "nom": "(I/C)M&G (LUX) ASIAN FUND C EUR",
-  "maison": "M&G Luxembourg S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-02-16",
-  "date_creation": "2018-10-26",
-  "devise": "EUR",
-  "type_fonds": "Actions Asie-Pacifique hors Japon",
-  "compartiment": "M&G (Lux) Asian Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1.",
-  "gerants": "David Perrett, Carl Vine",
-  "encours_millions": "1133.14",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "0.97",
-  "sri": "4",
-  "indice": "MSCI AC Asia Pacific ex Japan Net Return Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
-  "politique_fr": "Le fonds cherche à générer des revenus et une croissance du capital supérieurs à ceux du marché d’actions de la région Asie-Pacifique (hors Japon) (tel que mesuré par l’indice MSCI All Country Asia Pacific ex Japan Net Return Index) sur toute période de cinq années consécutives, tout en appliquant les critères environnementaux, sociaux et de gouvernance (ESG). Au moins 80 % du fonds sont investis dans les actions de sociétés domiciliées dans la région Asie-Pacifique (hors Japon) ou y menant la majeure partie de leur activité. Le fonds peut investir en Actions A chinoises via le Shanghai-Hong Kong Stock Connect et le Shenzhen-Hong Kong Stock Connect. La sélection d’actions repose sur une analyse approfondie de chaque société en mettant l’accent sur les bénéfices, la gouvernance d’entreprise et la valorisation. La sélection des actions se fait au profil de rentabilité distinct pour constituer un fonds susceptible de faire face à des conditions de marché diverses. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et une orientation positive ESG, comme prévu dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Catégorie C en EUR – Actions de capitalisation. Date de création = « Lancement de la catégorie de part 26 octobre 2018 » (identique à la date de lancement du fonds ; performances antérieures = fonds britannique absorbé M&G Asia Fund). Gérants : David Perrett (gérant), Carl Vine (gérant adjoint). Encours = « Encours du fonds (millions) € 1.133,14 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,97 % ; la factsheet indique « Frais de gestion et autres commissions 0,98% » (dépenses au 31/03/2026) ; pas de commission de gestion séparée → frais de gestion vide. Indice retenu : objectif de performance et mesure de la performance (« sert uniquement à mesurer la performance du fonds », ne limite pas le portefeuille) ; nom du tableau « Principales caractéristiques » (KID : « Indice MSCI AC Asia Pacific ex Japan Net Return »). Devise de référence du fonds USD. SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Classification Agressif : actions Asie-Pacifique hors Japon à forte part de pays émergents (Chine, Corée du Sud, Taïwan, Inde), SRI 4 (cas limite avec Dynamique). Allocations : colonne « Fonds » uniquement ; tableaux « Principales sur-expositions / sous-expositions » non repris (écarts à l'indice).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1 et p.3",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.5",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "207",
+ "isin": "LU1670618260",
+ "nom": "(I/C)M&G (LUX) ASIAN FUND C EUR",
+ "maison": "M&G Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-16",
+ "date_creation": "2018-10-26",
+ "devise": "EUR",
+ "type_fonds": "Actions Asie-Pacifique hors Japon",
+ "compartiment": "M&G (Lux) Asian Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1.",
+ "gerants": "David Perrett, Carl Vine",
+ "encours_millions": "1133.14",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.97",
+ "sri": "4",
+ "indice": "MSCI AC Asia Pacific ex Japan Net Return Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le fonds cherche à générer des revenus et une croissance du capital supérieurs à ceux du marché d’actions de la région Asie-Pacifique (hors Japon) (tel que mesuré par l’indice MSCI All Country Asia Pacific ex Japan Net Return Index) sur toute période de cinq années consécutives, tout en appliquant les critères environnementaux, sociaux et de gouvernance (ESG). Au moins 80 % du fonds sont investis dans les actions de sociétés domiciliées dans la région Asie-Pacifique (hors Japon) ou y menant la majeure partie de leur activité. Le fonds peut investir en Actions A chinoises via le Shanghai-Hong Kong Stock Connect et le Shenzhen-Hong Kong Stock Connect. La sélection d’actions repose sur une analyse approfondie de chaque société en mettant l’accent sur les bénéfices, la gouvernance d’entreprise et la valorisation. La sélection des actions se fait au profil de rentabilité distinct pour constituer un fonds susceptible de faire face à des conditions de marché diverses. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et une orientation positive ESG, comme prévu dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Catégorie C en EUR – Actions de capitalisation. Date de création = « Lancement de la catégorie de part 26 octobre 2018 » (identique à la date de lancement du fonds ; performances antérieures = fonds britannique absorbé M&G Asia Fund). Gérants : David Perrett (gérant), Carl Vine (gérant adjoint). Encours = « Encours du fonds (millions) € 1.133,14 », sans date propre (date de la factsheet). Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,97 % ; la factsheet indique « Frais de gestion et autres commissions 0,98% » (dépenses au 31/03/2026) ; pas de commission de gestion séparée → frais de gestion vide. Indice retenu : objectif de performance et mesure de la performance (« sert uniquement à mesurer la performance du fonds », ne limite pas le portefeuille) ; nom du tableau « Principales caractéristiques » (KID : « Indice MSCI AC Asia Pacific ex Japan Net Return »). Devise de référence du fonds USD. SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Classification Agressif : actions Asie-Pacifique hors Japon à forte part de pays émergents (Chine, Corée du Sud, Taïwan, Inde), SRI 4 (cas limite avec Dynamique). Allocations : colonne « Fonds » uniquement ; tableaux « Principales sur-expositions / sous-expositions » non repris (écarts à l'indice).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1 et p.3",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.5",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor",
+   "pct": "9.9"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Taiwan Semiconductor",
-      "pct": "9.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics",
-      "pct": "8.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SK Hynix",
-      "pct": "6.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HDFC Bank",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Tencent Holdings",
-      "pct": "2.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AIA",
-      "pct": "2.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Amcor",
-      "pct": "2.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alibaba Group Holding",
-      "pct": "2.3"
-    },
-    {
-      "type": "Positions",
-      "libelle": "United Overseas Bank",
-      "pct": "2.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "KE Holdings",
-      "pct": "1.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l'information",
-      "pct": "32.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Sociétés financières",
-      "pct": "21.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de cons. cycl.",
-      "pct": "13.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industries",
-      "pct": "8.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "6.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de cons. de base",
-      "pct": "4.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "4.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Stratégie",
-      "pct": "4.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "1.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins de santé",
-      "pct": "1.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services publics",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités",
-      "pct": "2.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Chine",
-      "pct": "24.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Corée du Sud",
-      "pct": "23.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Taïwan",
-      "pct": "17.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Hong-Kong",
-      "pct": "7.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Inde",
-      "pct": "7.1"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Australie",
-      "pct": "6.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Thaïlande",
-      "pct": "3.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Singapour",
-      "pct": "2.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "5.5"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Liquidités",
-      "pct": "2.6"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar de Hong-Kong",
-      "pct": "25.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Won sud-coréen",
-      "pct": "23.4"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Nouveau dollar de Taïwan",
-      "pct": "17.9"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar US",
-      "pct": "7.9"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Roupie indienne",
-      "pct": "7.1"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar australien",
-      "pct": "6.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Dollar de Singapour",
-      "pct": "4.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Baht thaïlandais",
-      "pct": "3.2"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Roupie indonésienne",
-      "pct": "2.4"
-    },
-    {
-      "type": "Devises",
-      "libelle": "Autres",
-      "pct": "2.4"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Méga-cap. (>50 Md$)",
-      "pct": "52.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Grandes cap. (10-50 Md$)",
-      "pct": "26.5"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moyennes cap. (2-10 Md$)",
-      "pct": "11.2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Petites cap. (>2 Md$)",
-      "pct": "4.4"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Autres",
-      "pct": "3.2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Liquidités",
-      "pct": "2.6"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Hynix",
+   "pct": "6.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HDFC Bank",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIA",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amcor",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Overseas Bank",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KE Holdings",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "32.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés financières",
+   "pct": "21.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. cycl.",
+   "pct": "13.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "8.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. de base",
+   "pct": "4.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Stratégie",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "24.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "23.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taïwan",
+   "pct": "17.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Hong-Kong",
+   "pct": "7.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "7.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Australie",
+   "pct": "6.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Thaïlande",
+   "pct": "3.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Singapour",
+   "pct": "2.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "5.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "2.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Hong-Kong",
+   "pct": "25.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won sud-coréen",
+   "pct": "23.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "17.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "7.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "7.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar australien",
+   "pct": "6.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Singapour",
+   "pct": "4.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Baht thaïlandais",
+   "pct": "3.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indonésienne",
+   "pct": "2.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "2.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Méga-cap. (>50 Md$)",
+   "pct": "52.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes cap. (10-50 Md$)",
+   "pct": "26.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes cap. (2-10 Md$)",
+   "pct": "11.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites cap. (>2 Md$)",
+   "pct": "4.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Autres",
+   "pct": "3.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "2.6"
+  }
+ ]
 }

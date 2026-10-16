@@ -1,102 +1,102 @@
 {
-  "n": "39",
-  "isin": "LU0827889485",
-  "nom": "(I/C)BGF WORLD HEALTHSCIENCE FUND D2 EUR",
-  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-04-29",
-  "date_creation": "2012-10-25",
-  "devise": "EUR",
-  "type_fonds": "Actions sectorielles (santé)",
-  "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
-  "gerants": "Erin Xie, Xiang Liu",
-  "encours_millions": "13132.90",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.75",
-  "frais_courants": "1.06",
-  "sri": "4",
-  "indice": "MSCI World Health Care Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
-  "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale la santé, la pharmacie, la technologie et les fournitures médicales et le développement de la biotechnologie.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site web de BlackRock à l’adresse www.blackrock.com/baselinescreens\n\nLe gestionnaire financier par délégation (GFD) peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de l construction du portefeuille du Fonds, le GFD prendra en considération le MSCI World Health Care Index (l’« Indice »), ainsi qu’à des fins de comparaison de la performance et de gestion des risques, comme décrit plus en détail dans le prospectus. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice et peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice. Toutefois, les exigences sectorielles de l’objectif et de la politique d’investissement peut limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet belge. Date de création = « Date de lancement : 25-oct.-2012 » (rubrique de la part ; fonds lancé le 06-avr.-2001). Encours « Actif net du Fonds (M) : 13.132,90 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,06 % (identique factsheet). Indice : « MSCI World Health Care Index » (texte de la politique : construction du portefeuille, comparaison de la performance et gestion des risques) ; le tableau de la factsheet écrit « Indice de référence 1 : MSCI World Health Care ». SFDR « Article 8 » (factsheet), aucun % durable écrit. Classification Agressif (actions sectorielles santé) malgré un SRI de 4. Politique : « Aperçu du fonds » jusqu'à la phrase sur l'indice, coquille du document « lors de l construction » conservée. Allocations : seules les 10 principales positions ; le graphique « Répartition géographique » a des étiquettes non extractibles en texte et n'est pas repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.2",
-    "encours_millions": "factsheet p.2",
-    "encours_devise": "factsheet p.2",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.2",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.2",
-    "disclaimer": "factsheet p.3",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "39",
+ "isin": "LU0827889485",
+ "nom": "(I/C)BGF WORLD HEALTHSCIENCE FUND D2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-29",
+ "date_creation": "2012-10-25",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (santé)",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Erin Xie, Xiang Liu",
+ "encours_millions": "13132.90",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.75",
+ "frais_courants": "1.06",
+ "sri": "4",
+ "indice": "MSCI World Health Care Index",
+ "classification": "Agressif",
+ "categorie": "Equity Global Healthcare",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale la santé, la pharmacie, la technologie et les fournitures médicales et le développement de la biotechnologie.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site web de BlackRock à l’adresse www.blackrock.com/baselinescreens\n\nLe gestionnaire financier par délégation (GFD) peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).\n\nLe Fonds est activement géré et le GFD a le pouvoir discrétionnaire de sélectionner les investissements du Fonds. Ce faisant, lors de l construction du portefeuille du Fonds, le GFD prendra en considération le MSCI World Health Care Index (l’« Indice »), ainsi qu’à des fins de comparaison de la performance et de gestion des risques, comme décrit plus en détail dans le prospectus. Le GFD n’est pas lié par les composantes ou la pondération de l’Indice et peut également utiliser son pouvoir discrétionnaire pour investir dans des titres non inclus dans l’Indice. Toutefois, les exigences sectorielles de l’objectif et de la politique d’investissement peut limiter la mesure dans laquelle les positions du portefeuille s’écarteront de l’Indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet belge. Date de création = « Date de lancement : 25-oct.-2012 » (rubrique de la part ; fonds lancé le 06-avr.-2001). Encours « Actif net du Fonds (M) : 13.132,90 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,06 % (identique factsheet). Indice : « MSCI World Health Care Index » (texte de la politique : construction du portefeuille, comparaison de la performance et gestion des risques) ; le tableau de la factsheet écrit « Indice de référence 1 : MSCI World Health Care ». SFDR « Article 8 » (factsheet), aucun % durable écrit. Classification Agressif (actions sectorielles santé) malgré un SRI de 4. Politique : « Aperçu du fonds » jusqu'à la phrase sur l'indice, coquille du document « lors de l construction » conservée. Allocations : seules les 10 principales positions ; le graphique « Répartition géographique » a des étiquettes non extractibles en texte et n'est pas repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0171307068 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ELI LILLY",
+   "pct": "9.46"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ELI LILLY",
-      "pct": "9.46"
-    },
-    {
-      "type": "Positions",
-      "libelle": "JOHNSON & JOHNSON",
-      "pct": "8.55"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ABBVIE",
-      "pct": "6.32"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MERCK & CO INC",
-      "pct": "5.58"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ROCHE PS PAR AG",
-      "pct": "4.75"
-    },
-    {
-      "type": "Positions",
-      "libelle": "NOVARTIS AG",
-      "pct": "4.28"
-    },
-    {
-      "type": "Positions",
-      "libelle": "THERMO FISHER SCIENTIFIC INC",
-      "pct": "3.74"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GILEAD SCIENCES",
-      "pct": "3.63"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UNITEDHEALTH GROUP INC",
-      "pct": "3.55"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AMGEN INC",
-      "pct": "3.32"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "JOHNSON & JOHNSON",
+   "pct": "8.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBVIE",
+   "pct": "6.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCK & CO INC",
+   "pct": "5.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROCHE PS PAR AG",
+   "pct": "4.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVARTIS AG",
+   "pct": "4.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "3.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GILEAD SCIENCES",
+   "pct": "3.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITEDHEALTH GROUP INC",
+   "pct": "3.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMGEN INC",
+   "pct": "3.32"
+  }
+ ]
 }

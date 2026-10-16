@@ -1,205 +1,205 @@
 {
-  "n": "320",
-  "isin": "IE0007987690",
-  "nom": "(I/C)VANGUARD EUROPEAN STOCK INDEX INV EUR",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "1999-10-08",
-  "devise": "EUR",
-  "type_fonds": "Actions Europe (indiciel)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Global Equity Index Management (GE)",
-  "encours_millions": "7525",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.12",
-  "sri": "4",
-  "indice": "MSCI Europe Index",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI Europe (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de moyenne et grande tailles des marchés développés en Europe.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe Investor EUR Acc ; « À compter du 19 juin 2020, ce produit est fermé aux nouveaux clients ». Date de création « 08 octobre 1999 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : équipe « Global Equity Index Management (GE) ». Encours = « Encours total (million) 7 525 € » (encours de la classe : 413 €). Frais de gestion non indiqués ; frais courants 0,12 % (KID, = MFC factsheet). Indice : fonds indiciel suivant l'indice MSCI Europe. SFDR : aucun article mentionné. Allocations au 31 août 2026 : 10 principaux titres (21,1 % de l'actif net), exposition sectorielle (GICS), 10 premiers marchés (type Pays).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.1",
-    "indice": "factsheet p.2",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "320",
+ "isin": "IE0007987690",
+ "nom": "(I/C)VANGUARD EUROPEAN STOCK INDEX INV EUR",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "1999-10-08",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe (indiciel)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Global Equity Index Management (GE)",
+ "encours_millions": "7525",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.12",
+ "sri": "4",
+ "indice": "MSCI Europe Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de « gestion passive » (ou indicielle) et cherche à fournir une croissance du capital à long terme en suivant la performance de l’indice MSCI Europe (l’« Indice »).\n• L’Indice est composé d’actions de sociétés de moyenne et grande tailles des marchés développés en Europe.\n• Le Fonds vise à : 1. répliquer la performance de l’Indice en investissant dans tous les titres composant l’Indice, dans les mêmes proportions que ce dernier. Lorsqu’il n’est pas possible de la répliquer intégralement, le fonds utilisera un procédé d’échantillonnage. 2. demeurer pleinement investi sauf situation exceptionnelle du marché, politique ou autre condition similaire.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information | 31 août 2026 », classe Investor EUR Acc ; « À compter du 19 juin 2020, ce produit est fermé aux nouveaux clients ». Date de création « 08 octobre 1999 » (indiquée sous le nom de la classe, sans préciser part ou fonds). Gérants : équipe « Global Equity Index Management (GE) ». Encours = « Encours total (million) 7 525 € » (encours de la classe : 413 €). Frais de gestion non indiqués ; frais courants 0,12 % (KID, = MFC factsheet). Indice : fonds indiciel suivant l'indice MSCI Europe. SFDR : aucun article mentionné. Allocations au 31 août 2026 : 10 principaux titres (21,1 % de l'actif net), exposition sectorielle (GICS), 10 premiers marchés (type Pays).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "4.5"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ASML Holding NV",
-      "pct": "4.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HSBC Holdings plc",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Roche Holding AG",
-      "pct": "2.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Novartis AG",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Shell plc",
-      "pct": "1.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nestle SA",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "AstraZeneca plc",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Siemens AG",
-      "pct": "1.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SAP SE",
-      "pct": "1.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Banco Santander SA",
-      "pct": "1.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "25.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "18.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "12.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'information",
-      "pct": "9.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation de base",
-      "pct": "8.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de consommation discrétionnaire",
-      "pct": "6.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "5.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "4.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux collectivités",
-      "pct": "4.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de Communication",
-      "pct": "3.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "22.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "15.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Suisse",
-      "pct": "14.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "13.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "8.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "6.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Suède",
-      "pct": "5.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "5.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Danemark",
-      "pct": "2.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Finlande",
-      "pct": "1.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "HSBC Holdings plc",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding AG",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novartis AG",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shell plc",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nestle SA",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AstraZeneca plc",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Siemens AG",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP SE",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander SA",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "25.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "18.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "12.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "8.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "6.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "4.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "4.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "22.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "15.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Suisse",
+   "pct": "14.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "13.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "8.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "6.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Suède",
+   "pct": "5.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "5.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "2.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "1.8"
+  }
+ ]
 }

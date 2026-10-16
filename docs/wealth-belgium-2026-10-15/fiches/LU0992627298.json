@@ -1,118 +1,118 @@
 {
-  "n": "72",
-  "isin": "LU0992627298",
-  "nom": "(I/C)CARMIGNAC PORTFOLIO LT EU EQUITIES F EUR",
-  "maison": "Carmignac Gestion Luxembourg",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-16",
-  "date_creation": "2013-11-15",
-  "devise": "EUR",
-  "type_fonds": "Alternatif (actions européennes long/short)",
-  "compartiment": "Carmignac Portfolio Long-Short European Equities est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
-  "gerants": "Malte Heininger",
-  "encours_millions": "852",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.15",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
-  "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Long-Short European Equities est un fonds alternatif (UCITS) mettant en œuvre une stratégie actions long/short fondée sur l’analyse fondamentale, dont l’exposition nette aux actions est gérée activement entre –20 % et 50 %. Les positions courtes sont mises en œuvre exclusivement au moyen d’instruments dérivés. Le processus d'investissement repose sur une analyse approfondie des entreprises, les allocations sectorielles et géographiques résultant principalement de la sélection de titres « bottom-up ». Le Fonds promeut des caractéristiques environnementales et sociales et vise à délivrer une performance absolue positive par la croissance du capital sur un horizon de placement recommandé de trois ans.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Nom One Life abrégé « LT EU EQUITIES » ; nom des documents : Carmignac Portfolio Long-Short European Equities. Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/11/2013, identique au lancement du compartiment) ; « Depuis le 31/12/2015, une nouvelle équipe a repris la gestion du fonds ». Gestionnaire financier délégué : White Creek Capital LLP ; gérant Malte Heininger depuis le 01/01/2016. Encours = « Actifs sous gestion du Fonds : 852M€ » (encours de la part : 284M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,15 % (= frais courants, identique au KID p.3) ; coûts de transaction 1,29 % ; commission liée aux résultats 20 % au-delà du High-Water Mark. Indice « Aucun » : KID « Le compartiment n'a pas d'indicateur de référence ». SRI 3 (KID : « classe de risque 3 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 0% ». Classification Equilibré : stratégie long/short, exposition nette actions entre -20 % et 50 % (10,5 % au 30/09/2026), SRI 3 — cas non standard. Allocations : « Expositions du portefeuille » reprises en classes d’actifs (long, short, nette, brute) ; expositions par secteur, zone et capitalisation non reprises (deux valeurs short/long par libellé) ; positions = « Principales expositions nettes - Long » ; expositions short anonymisées (région/secteur) non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "72",
+ "isin": "LU0992627298",
+ "nom": "(I/C)CARMIGNAC PORTFOLIO LT EU EQUITIES F EUR",
+ "maison": "Carmignac Gestion Luxembourg",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2013-11-15",
+ "devise": "EUR",
+ "type_fonds": "Alternatif (actions européennes long/short)",
+ "compartiment": "Carmignac Portfolio Long-Short European Equities est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+ "gerants": "Malte Heininger",
+ "encours_millions": "852",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.15",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Les rendements nets sont obtenus après déduction des frais et taxes applicables à un client de détail moyen ayant la qualité de personne physique résident belge. Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Long-Short European Equities est un fonds alternatif (UCITS) mettant en œuvre une stratégie actions long/short fondée sur l’analyse fondamentale, dont l’exposition nette aux actions est gérée activement entre –20 % et 50 %. Les positions courtes sont mises en œuvre exclusivement au moyen d’instruments dérivés. Le processus d'investissement repose sur une analyse approfondie des entreprises, les allocations sectorielles et géographiques résultant principalement de la sélection de titres « bottom-up ». Le Fonds promeut des caractéristiques environnementales et sociales et vise à délivrer une performance absolue positive par la croissance du capital sur un horizon de placement recommandé de trois ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nom One Life abrégé « LT EU EQUITIES » ; nom des documents : Carmignac Portfolio Long-Short European Equities. Date de création = « Date de la 1ère VL » de la part F EUR Acc (15/11/2013, identique au lancement du compartiment) ; « Depuis le 31/12/2015, une nouvelle équipe a repris la gestion du fonds ». Gestionnaire financier délégué : White Creek Capital LLP ; gérant Malte Heininger depuis le 01/01/2016. Encours = « Actifs sous gestion du Fonds : 852M€ » (encours de la part : 284M€). Frais de gestion : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,15 % (= frais courants, identique au KID p.3) ; coûts de transaction 1,29 % ; commission liée aux résultats 20 % au-delà du High-Water Mark. Indice « Aucun » : KID « Le compartiment n'a pas d'indicateur de référence ». SRI 3 (KID : « classe de risque 3 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 0% ». Classification Equilibré : stratégie long/short, exposition nette actions entre -20 % et 50 % (10,5 % au 30/09/2026), SRI 3 — cas non standard. Allocations : « Expositions du portefeuille » reprises en classes d’actifs (long, short, nette, brute) ; expositions par secteur, zone et capitalisation non reprises (deux valeurs short/long par libellé) ; positions = « Principales expositions nettes - Long » ; expositions short anonymisées (région/secteur) non reprises.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Exposition Long Actions",
+   "pct": "101.7"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Exposition Long Actions",
-      "pct": "101.7"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Exposition Short Actions",
-      "pct": "-91.2"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Exposition Nette Actions",
-      "pct": "10.5"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Exposition Brute Actions",
-      "pct": "192.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "PUBLIC POWER CORP SA",
-      "pct": "6.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FRESENIUS SE & CO KGAA",
-      "pct": "5.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "META PLATFORMS INC",
-      "pct": "5.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ASR NEDERLAND NV",
-      "pct": "4.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GEK TERNA SA",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SILTRONIC AG",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BELIMO HOLDING AG",
-      "pct": "3.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "THERMO FISHER SCIENTIFIC INC",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "EUROBANK SA",
-      "pct": "2.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SARTORIUS STEDIM BIOTECH",
-      "pct": "2.4"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Exposition Short Actions",
+   "pct": "-91.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Exposition Nette Actions",
+   "pct": "10.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Exposition Brute Actions",
+   "pct": "192.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PUBLIC POWER CORP SA",
+   "pct": "6.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FRESENIUS SE & CO KGAA",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS INC",
+   "pct": "5.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASR NEDERLAND NV",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GEK TERNA SA",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SILTRONIC AG",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BELIMO HOLDING AG",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROBANK SA",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SARTORIUS STEDIM BIOTECH",
+   "pct": "2.4"
+  }
+ ]
 }

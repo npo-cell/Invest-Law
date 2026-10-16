@@ -1,211 +1,211 @@
 {
-  "n": "155",
-  "isin": "LU1273028123",
-  "nom": "(I/C)GOLDMAN SACHS EUROZONE EQUITY INCOME R EUR",
-  "maison": "GOLDMAN SACHS AM",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-03-03",
-  "date_creation": "2015-09-14",
-  "devise": "EUR",
-  "type_fonds": "Actions zone euro",
-  "compartiment": "Goldman Sachs Eurozone Equity Income, un compartiment (ci-après dénommé le « Fonds ») de Goldman Sachs Funds III. Goldman Sachs Funds III est un organisme de placement collectif organisé en vertu des lois du Luxembourg en tant que société d’investissement à capital variable (S.I.C.A.V.) et est considéré comme un OPCVM.",
-  "gerants": "",
-  "encours_millions": "1919.10",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.75",
-  "frais_courants": "1.05",
-  "sri": "4",
-  "indice": "MSCI EMU Index (Net Total Return, Unhedged, EUR)",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "L’investissement implique un risque de perte potentielle de capital. Veuillez noter que la performance mentionnée ci-dessus est basée sur des données historiques, que la valeur de votre investissement peut évoluer à la hausse comme à la baisse et que la performance passée ne constitue pas une garantie de performance actuelle ou future.",
-  "politique_fr": "Politique d’investissement\nLe Fonds est classé comme produit financier en vertu de l’Article 8 du règlement européen SFDR sur la publication d’informations en matière de durabilité. Le Fonds promeut des caractéristiques environnementales ou sociales et a pour objectif un investissement durable partiel. Le Fonds intègre les facteurs et le risque ESG dans le processus d’investissement aux côtés des facteurs traditionnels. Des renseignements détaillés sur la publication d’informations du Fonds liées à la durabilité sont disponibles dans le Modèle d’informations précontractuelles (annexe du prospectus) dans la section relative au Fonds sur le site https://am.gs.com. Le fonds investit dans des sociétés cotées sur des Bourses de valeurs de la zone euro offrant un dividende attrayant et durable. Le fonds a recours à une gestion active pour cibler des sociétés qui versent des dividendes, dans le cadre de laquelle des limites de surpondération par rapport à l’indice de référence sont appliquées au niveau des secteurs et des pays. Sa composition au niveau des titres individuels différera donc sensiblement de celle de la valeur de référence. Notre objectif est de dépasser la performance de l’indice de référence MSCI EMU NR sur plusieurs années. L’indice de référence constitue une large représentation de notre univers d’investissement. Le fonds peut également inclure des investissements en titres ne relevant pas de l’univers de l’indice de référence. Le processus de sélection des titres du fonds repose sur l’analyse fondamentale et tient également compte de facteurs ESG.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet FR au 31/08/2026. Politique : bloc « Politique d’investissement » de la factsheet (tiré du DIC), sans les phrases sur les rachats quotidiens et la capitalisation. Date de création = « Lancement de la part 14/09/2015 » (compartiment : 08/04/1999). Encours = « Actifs du fonds (mio) EUR 1,919.10 » (part : 142.40). Gérants : aucun nom dans les documents. Frais de gestion = « Commission de gestion annuelle 0.75% » (plus « Commission de service fixe 0.25% ») ; frais courants = KID 1.05 % (identique à la factsheet). Indice : objectif « dépasser la performance de l’indice de référence MSCI EMU NR » ; nom repris du tableau « Informations clés ». Classification Dynamique : actions zone euro diversifiées (dividendes), SRI 4. Positions : la 9e ligne est écrite sur deux lignes dans le PDF (« Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen »).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.3",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "155",
+ "isin": "LU1273028123",
+ "nom": "(I/C)GOLDMAN SACHS EUROZONE EQUITY INCOME R EUR",
+ "maison": "GOLDMAN SACHS AM",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-03-03",
+ "date_creation": "2015-09-14",
+ "devise": "EUR",
+ "type_fonds": "Actions zone euro",
+ "compartiment": "Goldman Sachs Eurozone Equity Income, un compartiment (ci-après dénommé le « Fonds ») de Goldman Sachs Funds III. Goldman Sachs Funds III est un organisme de placement collectif organisé en vertu des lois du Luxembourg en tant que société d’investissement à capital variable (S.I.C.A.V.) et est considéré comme un OPCVM.",
+ "gerants": "",
+ "encours_millions": "1919.10",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.75",
+ "frais_courants": "1.05",
+ "sri": "4",
+ "indice": "MSCI EMU Index (Net Total Return, Unhedged, EUR)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "L’investissement implique un risque de perte potentielle de capital. Veuillez noter que la performance mentionnée ci-dessus est basée sur des données historiques, que la valeur de votre investissement peut évoluer à la hausse comme à la baisse et que la performance passée ne constitue pas une garantie de performance actuelle ou future.",
+ "politique_fr": "Politique d’investissement\nLe Fonds est classé comme produit financier en vertu de l’Article 8 du règlement européen SFDR sur la publication d’informations en matière de durabilité. Le Fonds promeut des caractéristiques environnementales ou sociales et a pour objectif un investissement durable partiel. Le Fonds intègre les facteurs et le risque ESG dans le processus d’investissement aux côtés des facteurs traditionnels. Des renseignements détaillés sur la publication d’informations du Fonds liées à la durabilité sont disponibles dans le Modèle d’informations précontractuelles (annexe du prospectus) dans la section relative au Fonds sur le site https://am.gs.com. Le fonds investit dans des sociétés cotées sur des Bourses de valeurs de la zone euro offrant un dividende attrayant et durable. Le fonds a recours à une gestion active pour cibler des sociétés qui versent des dividendes, dans le cadre de laquelle des limites de surpondération par rapport à l’indice de référence sont appliquées au niveau des secteurs et des pays. Sa composition au niveau des titres individuels différera donc sensiblement de celle de la valeur de référence. Notre objectif est de dépasser la performance de l’indice de référence MSCI EMU NR sur plusieurs années. L’indice de référence constitue une large représentation de notre univers d’investissement. Le fonds peut également inclure des investissements en titres ne relevant pas de l’univers de l’indice de référence. Le processus de sélection des titres du fonds repose sur l’analyse fondamentale et tient également compte de facteurs ESG.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 31/08/2026. Politique : bloc « Politique d’investissement » de la factsheet (tiré du DIC), sans les phrases sur les rachats quotidiens et la capitalisation. Date de création = « Lancement de la part 14/09/2015 » (compartiment : 08/04/1999). Encours = « Actifs du fonds (mio) EUR 1,919.10 » (part : 142.40). Gérants : aucun nom dans les documents. Frais de gestion = « Commission de gestion annuelle 0.75% » (plus « Commission de service fixe 0.25% ») ; frais courants = KID 1.05 % (identique à la factsheet). Indice : objectif « dépasser la performance de l’indice de référence MSCI EMU NR » ; nom repris du tableau « Informations clés ». Classification Dynamique : actions zone euro diversifiées (dividendes), SRI 4. Positions : la 9e ligne est écrite sur deux lignes dans le PDF (« Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen »).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "6.78"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ASML HOLDING NV",
-      "pct": "6.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Allianz SE",
-      "pct": "5.34"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Siemens AG",
-      "pct": "5.16"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Banco Santander SA",
-      "pct": "4.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Schneider Electric SE",
-      "pct": "4.47"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UniCredit SpA",
-      "pct": "4.36"
-    },
-    {
-      "type": "Positions",
-      "libelle": "BANCO BILBAO VIZCAYA ARGENTARIA SA",
-      "pct": "4.05"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Airbus SE",
-      "pct": "3.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
-      "pct": "3.86"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LOREAL SA",
-      "pct": "3.68"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "29.76"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "22.84"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "16.63"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "13.95"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "6.81"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Finlande",
-      "pct": "3.80"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Portugal",
-      "pct": "2.18"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Grèce",
-      "pct": "1.65"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Trésorerie et quasi-trésorerie",
-      "pct": "1.20"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgique",
-      "pct": "1.18"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "100.00"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Sociétés Financières",
-      "pct": "32.79"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "17.94"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services Publics",
-      "pct": "11.23"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "It",
-      "pct": "10.99"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation Discrétionnaire",
-      "pct": "6.20"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens De Consommation De Base",
-      "pct": "6.07"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Télécommunications",
-      "pct": "3.72"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "3.36"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "3.28"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins De Santé",
-      "pct": "3.22"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "1.20"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Allianz SE",
+   "pct": "5.34"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Siemens AG",
+   "pct": "5.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander SA",
+   "pct": "4.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric SE",
+   "pct": "4.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UniCredit SpA",
+   "pct": "4.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCO BILBAO VIZCAYA ARGENTARIA SA",
+   "pct": "4.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Airbus SE",
+   "pct": "3.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
+   "pct": "3.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LOREAL SA",
+   "pct": "3.68"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "29.76"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "22.84"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "16.63"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "13.95"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "6.81"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "3.80"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "2.18"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Grèce",
+   "pct": "1.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Trésorerie et quasi-trésorerie",
+   "pct": "1.20"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "1.18"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "100.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés Financières",
+   "pct": "32.79"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "17.94"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "11.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "It",
+   "pct": "10.99"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "6.20"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens De Consommation De Base",
+   "pct": "6.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "3.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins De Santé",
+   "pct": "3.22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "1.20"
+  }
+ ]
 }

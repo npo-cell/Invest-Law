@@ -1,182 +1,182 @@
 {
-  "n": "124",
-  "isin": "LU1111643711",
-  "nom": "(I/C)ELEVA EUROPEAN SELECTION R EUR",
-  "maison": "Eleva Capital SAS",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-03-13",
-  "date_creation": "2015-01-26",
-  "devise": "EUR",
-  "type_fonds": "Actions européennes",
-  "compartiment": "Compartiment d'Eleva UCITS Fund (le « Fonds »), une société anonyme de droit luxembourgeois qualifiée de société d'investissement à capital variable conformément à la partie I de la Loi de 2010",
-  "gerants": "Eric Bendahan",
-  "encours_millions": "9422.126017",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.9",
-  "frais_courants": "1.0",
-  "sri": "4",
-  "indice": "STOXX Europe 600 Net Return - SXXR",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent en rien des performances futures. L'OPC ne bénéficie d’aucune garantie ni protection, il se peut donc que le capital initialement investi ne soit pas intégralement restitué.",
-  "politique_fr": "Obtenir les meilleures performances ajustées du risque à long terme.\nInvestissements principalement en actions et en instruments apparentés aux actions au niveau européen.\nUtilisation d’une vision macroéconomique pour orienter le positionnement du portefeuille.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Date de lancement de la part : 26/01/2015 » (identique au compartiment). Encours « Encours du compartiment 9 422 126 017 € » converti en millions. Frais de gestion « 0.9% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 1,0 % (« Il s'agit d'une estimation ») ; commission de performance 15 % de la surperformance par rapport au SXXR. Indice : factsheet « STOXX Europe 600 Net Return - SXXR » ; KID « géré activement en référence à l'indice de référence Stoxx Europe 600 Net Return » (sert aussi à la commission de performance). SFDR article 8 ; investissements durables : « proportion minimale de 30 % » (KID, engagement minimal, non reporté). Politique : bloc « Objectif et approche d’investissement » de la factsheet (3 premières puces ; la puce sur le risque de perte en capital et la durée de placement ne sont pas reprises) ; dans le PDF les puces s'extraient « •a » (glyphe), supprimées (une ligne par puce) ; le KID contient une description plus détaillée. Allocations : répartitions géographique et sectorielle en % de la poche actions (graphiques fonds/indice SXXR : seule la valeur du fonds, barre supérieure, retenue, vérifiée par coordonnées) ; capitalisation boursière non reprise (camembert : seules deux valeurs 10.9 % et 89.1 % lisibles pour trois tranches).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "factsheet p.1 / KID p.1",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "124",
+ "isin": "LU1111643711",
+ "nom": "(I/C)ELEVA EUROPEAN SELECTION R EUR",
+ "maison": "Eleva Capital SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-13",
+ "date_creation": "2015-01-26",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes",
+ "compartiment": "Compartiment d'Eleva UCITS Fund (le « Fonds »), une société anonyme de droit luxembourgeois qualifiée de société d'investissement à capital variable conformément à la partie I de la Loi de 2010",
+ "gerants": "Eric Bendahan",
+ "encours_millions": "9422.126017",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.9",
+ "frais_courants": "1.0",
+ "sri": "4",
+ "indice": "STOXX Europe 600 Net Return - SXXR",
+ "classification": "Dynamique",
+ "categorie": "Equity Europe",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent en rien des performances futures. L'OPC ne bénéficie d’aucune garantie ni protection, il se peut donc que le capital initialement investi ne soit pas intégralement restitué.",
+ "politique_fr": "Obtenir les meilleures performances ajustées du risque à long terme.\nInvestissements principalement en actions et en instruments apparentés aux actions au niveau européen.\nUtilisation d’une vision macroéconomique pour orienter le positionnement du portefeuille.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de lancement de la part : 26/01/2015 » (identique au compartiment). Encours « Encours du compartiment 9 422 126 017 € » converti en millions. Frais de gestion « 0.9% » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 1,0 % (« Il s'agit d'une estimation ») ; commission de performance 15 % de la surperformance par rapport au SXXR. Indice : factsheet « STOXX Europe 600 Net Return - SXXR » ; KID « géré activement en référence à l'indice de référence Stoxx Europe 600 Net Return » (sert aussi à la commission de performance). SFDR article 8 ; investissements durables : « proportion minimale de 30 % » (KID, engagement minimal, non reporté). Politique : bloc « Objectif et approche d’investissement » de la factsheet (3 premières puces ; la puce sur le risque de perte en capital et la durée de placement ne sont pas reprises) ; dans le PDF les puces s'extraient « •a » (glyphe), supprimées (une ligne par puce) ; le KID contient une description plus détaillée. Allocations : répartitions géographique et sectorielle en % de la poche actions (graphiques fonds/indice SXXR : seule la valeur du fonds, barre supérieure, retenue, vérifiée par coordonnées) ; capitalisation boursière non reprise (camembert : seules deux valeurs 10.9 % et 89.1 % lisibles pour trois tranches). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1111642820 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1 / KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "5.78"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ASML Holding NV",
-      "pct": "5.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UniCredit SpA",
-      "pct": "3.38"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Banco Santander SA",
-      "pct": "3.35"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HSBC Holdings PLC",
-      "pct": "3.32"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Rolls-Royce Holdings PLC",
-      "pct": "3.17"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "22.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "France",
-      "pct": "19.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Suisse",
-      "pct": "11.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pays-Bas",
-      "pct": "10.6"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Italie",
-      "pct": "8.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Allemagne",
-      "pct": "7.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Espagne",
-      "pct": "6.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Grèce",
-      "pct": "3.0"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Suède",
-      "pct": "2.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Autres",
-      "pct": "9.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financières",
-      "pct": "26.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrielles",
-      "pct": "22.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "12.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie",
-      "pct": "10.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "7.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Utilities",
-      "pct": "6.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "5.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Cons. de base",
-      "pct": "5.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Cons. Disc.",
-      "pct": "2.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Télécoms",
-      "pct": "1.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.0"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "UniCredit SpA",
+   "pct": "3.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander SA",
+   "pct": "3.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HSBC Holdings PLC",
+   "pct": "3.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rolls-Royce Holdings PLC",
+   "pct": "3.17"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "22.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "19.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "11.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "10.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Italie",
+   "pct": "8.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "7.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espagne",
+   "pct": "6.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "3.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "2.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "9.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "26.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrielles",
+   "pct": "22.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "12.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "10.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "5.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. de base",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. Disc.",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécoms",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  }
+ ]
 }

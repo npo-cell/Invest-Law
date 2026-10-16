@@ -1,99 +1,99 @@
 {
-  "n": "230",
-  "isin": "LU0097890064",
-  "nom": "(I/C)NORDEA 1 - GLOBAL STABLE EQUITIES BI EUR",
-  "maison": "Nordea Investment Funds S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-10-09",
-  "date_creation": "2006-01-02",
-  "devise": "EUR",
-  "type_fonds": "Actions internationales",
-  "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
-  "gerants": "Stable Equities / Multi Assets Team",
-  "encours_millions": "1076.26",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.85",
-  "frais_courants": "1.03",
-  "sri": "4",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "La performance affichée est basée sur des données historiques. Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi.",
-  "politique_fr": "Objectif d'investissement\nLe processus de construction de portefeuille du fonds est unique. En effet, son objectif est d'identifier des actions « peu attrayantes » générant un rendement stable à partir d'un modèle quantitatif qui permet de filtrer les valeurs. Ce processus privilégiera les sociétés appartenant à des secteurs d'activité établis et générant de manière récurrente des bénéfices, des dividendes, des flux de trésorerie, etc., relativement stables. Cette stabilité permet de réduire la volatilité des cours de ces sociétés, et leur confère un degré de risque moindre que le marché dans son ensemble. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Nordea 1 – Global Stable Equity Fund, part BI-EUR (capitalisation). Date de création = « Date de lancement 02/01/2006 » (caractéristiques de la part ; identique au fonds). Gérant : « Stable Equities / Multi Assets Team » (nom d'équipe). Encours = « Encours sous gestion (Million EUR) 1 076,26 » (fonds) ; encours de la part 301,18 M EUR ; sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,85 » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1.03 % (factsheet « Frais courants (2025) 1,03% »). Indice laissé vide : « 70% MSCI World Index (Net Return) and 30% EURIBOR 1M (FX adjusted) » utilisé « uniquement à des fins de comparaison des performances » ; MSCI World (Net Return) et MSCI World Minimum Volatility (Net Return) pour la comparaison des risques uniquement (KID). SFDR article 8, aucun % durable écrit. Classification Dynamique : actions mondiales à faible volatilité, SRI 4. Politique : bloc « Objectif d'investissement » de la factsheet. Allocations : seules les 10 principales positions sont reprises ; les répartitions de la p.2 sont des graphiques (images) sans texte extractible.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "230",
+ "isin": "LU0097890064",
+ "nom": "(I/C)NORDEA 1 - GLOBAL STABLE EQUITIES BI EUR",
+ "maison": "Nordea Investment Funds S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-09",
+ "date_creation": "2006-01-02",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "Stable Equities / Multi Assets Team",
+ "encours_millions": "1076.26",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.85",
+ "frais_courants": "1.03",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "Equity Global",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance affichée est basée sur des données historiques. Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi.",
+ "politique_fr": "Objectif d'investissement\nLe processus de construction de portefeuille du fonds est unique. En effet, son objectif est d'identifier des actions « peu attrayantes » générant un rendement stable à partir d'un modèle quantitatif qui permet de filtrer les valeurs. Ce processus privilégiera les sociétés appartenant à des secteurs d'activité établis et générant de manière récurrente des bénéfices, des dividendes, des flux de trésorerie, etc., relativement stables. Cette stabilité permet de réduire la volatilité des cours de ces sociétés, et leur confère un degré de risque moindre que le marché dans son ensemble. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nordea 1 – Global Stable Equity Fund, part BI-EUR (capitalisation). Date de création = « Date de lancement 02/01/2006 » (caractéristiques de la part ; identique au fonds). Gérant : « Stable Equities / Multi Assets Team » (nom d'équipe). Encours = « Encours sous gestion (Million EUR) 1 076,26 » (fonds) ; encours de la part 301,18 M EUR ; sans date propre (date de la factsheet). Frais de gestion = « Frais de gestion 0,85 » (factsheet) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1.03 % (factsheet « Frais courants (2025) 1,03% »). Indice laissé vide : « 70% MSCI World Index (Net Return) and 30% EURIBOR 1M (FX adjusted) » utilisé « uniquement à des fins de comparaison des performances » ; MSCI World (Net Return) et MSCI World Minimum Volatility (Net Return) pour la comparaison des risques uniquement (KID). SFDR article 8, aucun % durable écrit. Classification Dynamique : actions mondiales à faible volatilité, SRI 4. Politique : bloc « Objectif d'investissement » de la factsheet. Allocations : seules les 10 principales positions sont reprises ; les répartitions de la p.2 sont des graphiques (images) sans texte extractible. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0112467450 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "3.46"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Microsoft",
-      "pct": "3.46"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Deutsche Telekom",
-      "pct": "3.35"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Sanofi",
-      "pct": "3.08"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Cigna Group/The",
-      "pct": "2.98"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Labcorp Holdings",
-      "pct": "2.97"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vinci",
-      "pct": "2.72"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Coca-Cola",
-      "pct": "2.47"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Verizon Communications",
-      "pct": "2.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CVS Health",
-      "pct": "2.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Kroger",
-      "pct": "2.04"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Deutsche Telekom",
+   "pct": "3.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sanofi",
+   "pct": "3.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cigna Group/The",
+   "pct": "2.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Labcorp Holdings",
+   "pct": "2.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vinci",
+   "pct": "2.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Coca-Cola",
+   "pct": "2.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Verizon Communications",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CVS Health",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kroger",
+   "pct": "2.04"
+  }
+ ]
 }

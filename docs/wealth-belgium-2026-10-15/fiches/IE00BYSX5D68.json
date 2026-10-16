@@ -1,207 +1,207 @@
 {
-  "n": "334",
-  "isin": "IE00BYSX5D68",
-  "nom": "(I/C)VANGUARD SRI EURO INVESTMENT GRADE BOND INDEX",
-  "maison": "Vanguard Group (Ireland) Limited",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2017-07-18",
-  "devise": "EUR",
-  "type_fonds": "Obligataire (crédit euro investment grade)",
-  "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
-  "gerants": "Europe Bond Index Team",
-  "encours_millions": "488",
-  "encours_devise": "EUR",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.16",
-  "sri": "2",
-  "indice": "Bloomberg EUR Non-Government Float Adjusted Bond Index",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "5.0 ans",
-  "qualite_emetteurs": "A+",
-  "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
-  "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) par l’acquisition physique de titres et vise à atteindre la performance de l’Indice Bloomberg EUR Non-Government Float Adjusted Bond Index (l’« Indice »).\n• L’Indice est un indice pondéré par le marché de titres à revenu fixe de qualité « investment grade » libellés en euros dont l’échéance est supérieure à un an et dont la taille d’émission minimale est de 300 millions EUR. L’Indice comprend des titres émis par des sociétés, des émetteurs titrisés et des émetteurs publics/supranationaux (notamment des émetteurs tels que l’Union européenne), mais il exclut les bons du Trésor de la zone euro ainsi que les obligations d’État de la zone euro. La zone euro désigne l’ensemble des pays de l’Union européenne ayant adopté l’euro comme devise.\n• Par le biais de l’exclusion d’obligations émises par des émetteurs privés de son portefeuille sur la base de l’incidence potentiellement préjudiciable de la conduite ou des produits de l’émetteur sur la société, le Fonds promeut certaines caractéristiques sociales relatives aux normes sociales.\n• Le Fonds s’efforce de : 1. S’aligner sur les expositions aux facteurs de risque de l’Indice en investissant dans un échantillon représentatif des titres qui composent l’Indice, à l’exception des titres qui ne répondent pas aux critères de sélection. Le processus de sélection vise à exclure les composants de l’Indice émis par des sociétés (y compris des émetteurs d’obligations sécurisées) qui (tel que déterminé par le Fournisseur d’indices) sont impliquées dans : (a) la production d’armes controversées telles que les armes à sous-munitions, les mines antipersonnel, les armes biologiques, les armes chimiques et/ou les armes nucléaires ; et/ou (b) la fabrication de produits à base de tabac. Le processus de sélection vise également à exclure les composants de l’Indice émis par des émetteurs privés (y compris les émetteurs d’obligations sécurisées) qui ont été directement impliqués, de façon supposée ou effective, dans de très graves controverses et/ou violations des normes et principes internationaux ayant une incidence environnementale, sociale et/ou de gouvernance négative supérieure à un seuil de gravité particulier (tel que déterminé par le Fournisseur d’indices à l’aide d’une méthodologie prédéfinie basée sur des règles). 2. Rester pleinement investi, sauf dans des conditions politiques, de marché ou autres extraordinaires dans lesquelles le Fonds peut s’écarter temporairement de cette politique d’investissement pour éviter les pertes.\n• L’implication des sociétés dans les produits et leur conduite est contrôlée chaque année par le fournisseur de l’Indice et à mesure que de nouvelles données sont mises à sa disposition.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Acc » ; KID : « Vanguard Selected Screened Euro Investment Grade Bond Index Fund (le \"Fonds\") - EUR Accumulation Shares ». Date de création « 18 juillet 2017 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 488 € » (fonds) ; encours de la classe d'actifs 461 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.16 % (identique au « Montant des frais courants (MFC) » 0,16 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Europe Bond Index Team » (rubrique « Gestionnaire de portefeuille », sous Vanguard Asset Management, Ltd.). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Duration = « Duration moyenne » ; qualité = « Qualité moyenne » (tableau Caractéristiques, fonds). Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays (seuls les 10 principaux marchés sont donnés, total 79,6 %) ; « Ventilation par type d'emetteur » classée en Secteurs ; « Distribution en fonction des échéances » en Maturités ; « Répartition par qualité du crédit » en Notations.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.2",
-    "disclaimer": "factsheet p.4",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1",
-    "duration": "factsheet p.3",
-    "qualite_emetteurs": "factsheet p.3"
+ "n": "334",
+ "isin": "IE00BYSX5D68",
+ "nom": "(I/C)VANGUARD SRI EURO INVESTMENT GRADE BOND INDEX",
+ "maison": "Vanguard Group (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2017-07-18",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (crédit euro investment grade)",
+ "compartiment": "Le Fonds est un compartiment de Vanguard Investment Series plc (« VIS »), un OPCVM agréé par la Banque centrale d’Irlande.",
+ "gerants": "Europe Bond Index Team",
+ "encours_millions": "488",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.16",
+ "sri": "2",
+ "indice": "Bloomberg EUR Non-Government Float Adjusted Bond Index",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "5.0 ans",
+ "qualite_emetteurs": "A+",
+ "disclaimer": "La valeur des investissements et les revenus en découlant peuvent varier à la baisse comme à la hausse et il se peut que les investisseurs ne recouvrent pas l’intégralité du montant investi. Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+ "politique_fr": "Objectifs et politique d'investissement\n• Le Fonds applique une approche de gestion passive (ou indicielle) par l’acquisition physique de titres et vise à atteindre la performance de l’Indice Bloomberg EUR Non-Government Float Adjusted Bond Index (l’« Indice »).\n• L’Indice est un indice pondéré par le marché de titres à revenu fixe de qualité « investment grade » libellés en euros dont l’échéance est supérieure à un an et dont la taille d’émission minimale est de 300 millions EUR. L’Indice comprend des titres émis par des sociétés, des émetteurs titrisés et des émetteurs publics/supranationaux (notamment des émetteurs tels que l’Union européenne), mais il exclut les bons du Trésor de la zone euro ainsi que les obligations d’État de la zone euro. La zone euro désigne l’ensemble des pays de l’Union européenne ayant adopté l’euro comme devise.\n• Par le biais de l’exclusion d’obligations émises par des émetteurs privés de son portefeuille sur la base de l’incidence potentiellement préjudiciable de la conduite ou des produits de l’émetteur sur la société, le Fonds promeut certaines caractéristiques sociales relatives aux normes sociales.\n• Le Fonds s’efforce de : 1. S’aligner sur les expositions aux facteurs de risque de l’Indice en investissant dans un échantillon représentatif des titres qui composent l’Indice, à l’exception des titres qui ne répondent pas aux critères de sélection. Le processus de sélection vise à exclure les composants de l’Indice émis par des sociétés (y compris des émetteurs d’obligations sécurisées) qui (tel que déterminé par le Fournisseur d’indices) sont impliquées dans : (a) la production d’armes controversées telles que les armes à sous-munitions, les mines antipersonnel, les armes biologiques, les armes chimiques et/ou les armes nucléaires ; et/ou (b) la fabrication de produits à base de tabac. Le processus de sélection vise également à exclure les composants de l’Indice émis par des émetteurs privés (y compris les émetteurs d’obligations sécurisées) qui ont été directement impliqués, de façon supposée ou effective, dans de très graves controverses et/ou violations des normes et principes internationaux ayant une incidence environnementale, sociale et/ou de gouvernance négative supérieure à un seuil de gravité particulier (tel que déterminé par le Fournisseur d’indices à l’aide d’une méthodologie prédéfinie basée sur des règles). 2. Rester pleinement investi, sauf dans des conditions politiques, de marché ou autres extraordinaires dans lesquelles le Fonds peut s’écarter temporairement de cette politique d’investissement pour éviter les pertes.\n• L’implication des sociétés dans les produits et leur conduite est contrôlée chaque année par le fournisseur de l’Indice et à mesure que de nouvelles données sont mises à sa disposition.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Fiche d'information » au 31/08/2026 (la plus récente publiée, réservée aux investisseurs professionnels) ; part « EUR Acc » ; KID : « Vanguard Selected Screened Euro Investment Grade Bond Index Fund (le \"Fonds\") - EUR Accumulation Shares ». Date de création « 18 juillet 2017 » indiquée sous le nom de la part dans la factsheet. Encours : « Encours total (million) 488 € » (fonds) ; encours de la classe d'actifs 461 €. Frais de gestion : non indiqués séparément ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0.16 % (identique au « Montant des frais courants (MFC) » 0,16 % de la factsheet). Indice : fonds indiciel qui vise à répliquer l'indice ; nom retenu = « Indice de référence » du résumé de performance de la factsheet pour la part. Gérant : équipe « Europe Bond Index Team » (rubrique « Gestionnaire de portefeuille », sous Vanguard Asset Management, Ltd.). SFDR : aucun article ni pourcentage d'investissements durables mentionné dans les documents. Duration = « Duration moyenne » ; qualité = « Qualité moyenne » (tableau Caractéristiques, fonds). Disclaimer : rubrique « Informations sur les risques des investissements » de la factsheet. Politique : rubrique « Objectifs et politique d'investissement » de la factsheet (puces conservées). Allocations : « Répartition des marchés » classée en Pays (seuls les 10 principaux marchés sont donnés, total 79,6 %) ; « Ventilation par type d'emetteur » classée en Secteurs ; « Distribution en fonction des échéances » en Maturités ; « Répartition par qualité du crédit » en Notations.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "disclaimer": "factsheet p.4",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.3"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Supranational",
+   "pct": "22.1"
   },
-  "allocations": [
-    {
-      "type": "Pays",
-      "libelle": "Supranational",
-      "pct": "22.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "13.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "12.4"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "10.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "5.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "3.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "3.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "3.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "3.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "La Suède",
-      "pct": "2.3"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Moins de 1 an",
-      "pct": "0.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "1 - 5 ans",
-      "pct": "49.5"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "5 - 10 ans",
-      "pct": "34.2"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "10 - 15 ans",
-      "pct": "7.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "15 - 20 ans",
-      "pct": "3.0"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "20 - 25 ans",
-      "pct": "1.7"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "Plus de 25 ans",
-      "pct": "3.4"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA",
-      "pct": "35.5"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "7.4"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "28.1"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "28.4"
-    },
-    {
-      "type": "Notations",
-      "libelle": "Sans notation",
-      "pct": "0.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Entreprise - Industrie",
-      "pct": "26.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Entreprise - institutions financiéres",
-      "pct": "22.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liés au gouvernement - supranationals",
-      "pct": "22.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Titrisés",
-      "pct": "16.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Entreprise - services aux Collectivités",
-      "pct": "4.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liés au gouvernement - souverains",
-      "pct": "3.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liés au gouvernement - agences",
-      "pct": "2.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liés au gouvernement - collectivités locales",
-      "pct": "1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Liquidités*",
-      "pct": "0.6"
-    }
-  ]
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "13.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "12.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "10.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "5.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "3.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "3.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "La Suède",
+   "pct": "2.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Moins de 1 an",
+   "pct": "0.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 - 5 ans",
+   "pct": "49.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5 - 10 ans",
+   "pct": "34.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10 - 15 ans",
+   "pct": "7.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "15 - 20 ans",
+   "pct": "3.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20 - 25 ans",
+   "pct": "1.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Plus de 25 ans",
+   "pct": "3.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "35.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "7.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "28.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "28.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans notation",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Entreprise - Industrie",
+   "pct": "26.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Entreprise - institutions financiéres",
+   "pct": "22.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liés au gouvernement - supranationals",
+   "pct": "22.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Titrisés",
+   "pct": "16.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Entreprise - services aux Collectivités",
+   "pct": "4.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liés au gouvernement - souverains",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liés au gouvernement - agences",
+   "pct": "2.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liés au gouvernement - collectivités locales",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités*",
+   "pct": "0.6"
+  }
+ ]
 }

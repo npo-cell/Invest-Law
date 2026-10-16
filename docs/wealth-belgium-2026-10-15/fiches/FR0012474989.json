@@ -1,330 +1,330 @@
 {
-  "n": "186",
-  "isin": "FR0012474989",
-  "nom": "(I/C)KEREN PATRIMOINE I EUR",
-  "maison": "KEREN FINANCE",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-29",
-  "date_creation": "",
-  "devise": "EUR",
-  "type_fonds": "Multi-actifs (mixte à dominante obligataire)",
-  "compartiment": "Compartiment de la SICAV Keren",
-  "gerants": "Raphaël Elmaleh",
-  "encours_millions": "317.77",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.75",
-  "frais_courants": "0.80",
-  "sri": "3",
-  "indice": "",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "63.3",
-  "duration": "2.55",
-  "qualite_emetteurs": "BB-",
-  "disclaimer": "L'OPCVM n’offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
-  "politique_fr": "Objectif d'investissement :\nAfin de réaliser l'objectif de gestion sur la durée de placement recommandée de 5 ans , L’OPCVM adopte une stratégie de gestion tempérée et discrétionnaire d’un portefeuille exposé principalement en instruments de taux (titres de créance, notamment High Yield, et instruments du marché monétaire) et pour le complément en actions de sociétés de la zone euro, en titres vifs ou via des OPCVM (35% max).",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part I. KID = DIC de la part I (pages 4-6 du fichier regroupant les DIC des parts C, I et N). Date de création vide : aucune date de lancement dans les documents. Encours = « AuM: 317.77 mEUR » sur la ligne de la part I (montant identique sur la factsheet de la part N : probablement l'encours du compartiment). Frais de gestion = « Frais de gestion annuels 0.75% TTC » (factsheet ; frais de service annuels 0.20 %) ; frais courants = KID « Frais de gestion fin. & autres coûts 0,80% » ; commission de surperformance 15 %. Indice vide : indicateur composite « 65% Bloomberg Barclays Euro Agg Treasury 3-5 ans + 20% Stoxx 600 DR + 15% €STR capitalisé » (KID ; factsheet « 65% LET3TREU + 20% SXXR + 15% €STR Cap », changé le 31/12/2025) « utilisé uniquement à titre de comparaison ». Duration « 2.55 » (sensibilité 2.52), « NOTATION MOYENNE BB- », maturité moyenne 2030, rendement actuariel 6.97 % — poche taux uniquement. Investissements durables : « Investissement durable 63.3% » (graphique p.5 ; alignement taxonomie 5.9 %). SFDR 8 (factsheet). Classification Equilibré : fonds mixte (classification AMF « Fonds Mixtes ») à dominante taux, actions 0 à 35 % (exposition nette actions 25.41 %), SRI 3 — cas limite avec Défensif. Allocations lues sur graphiques (positions des étiquettes vérifiées) : Classes d'actifs = « Exposition nette » (exposition brute : Taux 68.43, Actions 33.34, Monétaire 1.31, Diversifié 0.17) ; Devises en % de l'actif net ; Secteurs et Pays = portefeuille global (totaux 93.2 % et 96.45 % : le reste n'est pas ventilé) ; Positions = principales positions de la poche action (p.3) puis de la poche taux (p.4) ; Capitalisations = poche action ; Maturités (hors OPC) et Notations = poche taux, une barre de notation de 25.35 % sans étiquette (entre BBB+:BBB- et B+:B-, probablement BB) non reprise. Répartitions sectorielles et géographiques propres aux poches action et taux et contributions non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.4",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet (informations générales)",
-    "frais_courants": "KID p.6",
-    "sri": "KID p.5",
-    "sfdr": "factsheet p.1",
-    "durable_pct": "factsheet p.5",
-    "duration": "factsheet p.4",
-    "qualite_emetteurs": "factsheet p.4",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "186",
+ "isin": "FR0012474989",
+ "nom": "(I/C)KEREN PATRIMOINE I EUR",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (mixte à dominante obligataire)",
+ "compartiment": "Compartiment de la SICAV Keren",
+ "gerants": "Raphaël Elmaleh",
+ "encours_millions": "317.77",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "0.80",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Europe Conservative",
+ "sfdr": "8",
+ "durable_pct": "63.3",
+ "duration": "2.55",
+ "qualite_emetteurs": "BB-",
+ "disclaimer": "L'OPCVM n’offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Objectif d'investissement :\nAfin de réaliser l'objectif de gestion sur la durée de placement recommandée de 5 ans , L’OPCVM adopte une stratégie de gestion tempérée et discrétionnaire d’un portefeuille exposé principalement en instruments de taux (titres de créance, notamment High Yield, et instruments du marché monétaire) et pour le complément en actions de sociétés de la zone euro, en titres vifs ou via des OPCVM (35% max).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part I. KID = DIC de la part I (pages 4-6 du fichier regroupant les DIC des parts C, I et N). Date de création vide : aucune date de lancement dans les documents. Encours = « AuM: 317.77 mEUR » sur la ligne de la part I (montant identique sur la factsheet de la part N : probablement l'encours du compartiment). Frais de gestion = « Frais de gestion annuels 0.75% TTC » (factsheet ; frais de service annuels 0.20 %) ; frais courants = KID « Frais de gestion fin. & autres coûts 0,80% » ; commission de surperformance 15 %. Indice vide : indicateur composite « 65% Bloomberg Barclays Euro Agg Treasury 3-5 ans + 20% Stoxx 600 DR + 15% €STR capitalisé » (KID ; factsheet « 65% LET3TREU + 20% SXXR + 15% €STR Cap », changé le 31/12/2025) « utilisé uniquement à titre de comparaison ». Duration « 2.55 » (sensibilité 2.52), « NOTATION MOYENNE BB- », maturité moyenne 2030, rendement actuariel 6.97 % — poche taux uniquement. Investissements durables : « Investissement durable 63.3% » (graphique p.5 ; alignement taxonomie 5.9 %). SFDR 8 (factsheet). Classification Equilibré : fonds mixte (classification AMF « Fonds Mixtes ») à dominante taux, actions 0 à 35 % (exposition nette actions 25.41 %), SRI 3 — cas limite avec Défensif. Allocations lues sur graphiques (positions des étiquettes vérifiées) : Classes d'actifs = « Exposition nette » (exposition brute : Taux 68.43, Actions 33.34, Monétaire 1.31, Diversifié 0.17) ; Devises en % de l'actif net ; Secteurs et Pays = portefeuille global (totaux 93.2 % et 96.45 % : le reste n'est pas ventilé) ; Positions = principales positions de la poche action (p.3) puis de la poche taux (p.4) ; Capitalisations = poche action ; Maturités (hors OPC) et Notations = poche taux, une barre de notation de 25.35 % sans étiquette (entre BBB+:BBB- et B+:B-, probablement BB) non reprise. Répartitions sectorielles et géographiques propres aux poches action et taux et contributions non reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0000980427 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.4",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet (informations générales)",
+  "frais_courants": "KID p.6",
+  "sri": "KID p.5",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet p.5",
+  "duration": "factsheet p.4",
+  "qualite_emetteurs": "factsheet p.4",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Taux",
+   "pct": "68.43"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Taux",
-      "pct": "68.43"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions",
-      "pct": "25.41"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Monétaire",
-      "pct": "1.31"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Diversifié",
-      "pct": "0.17"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "86.04"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "10.61"
-    },
-    {
-      "type": "Devises",
-      "libelle": "CHF",
-      "pct": "2.17"
-    },
-    {
-      "type": "Devises",
-      "libelle": "GBP",
-      "pct": "0.62"
-    },
-    {
-      "type": "Devises",
-      "libelle": "NOK",
-      "pct": "0.34"
-    },
-    {
-      "type": "Devises",
-      "libelle": "SEK",
-      "pct": "0.23"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "26.46"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "15.38"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energy",
-      "pct": "9.21"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "8.96"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "7.53"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Staples",
-      "pct": "7.19"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "6.55"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "6.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Other",
-      "pct": "2.92"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Real Estate",
-      "pct": "2.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "66.74"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italy",
-      "pct": "5.04"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United States",
-      "pct": "5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Netherlands",
-      "pct": "4.21"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Germany",
-      "pct": "3.65"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Luxembourg",
-      "pct": "3.64"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Switzerland",
-      "pct": "2.16"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Spain",
-      "pct": "2.13"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United Kingdom",
-      "pct": "2.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Portugal",
-      "pct": "1.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Air Liquide",
-      "pct": "2.37"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LVMH SA",
-      "pct": "1.96"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hermes International",
-      "pct": "1.58"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Schneider Electric SA",
-      "pct": "1.56"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Technip Energies NV",
-      "pct": "1.33"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mobilux Finance 4.25% 15/07/2028",
-      "pct": "5.25"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Clariane 7.875% 27/06/2030",
-      "pct": "4.48"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Air France KLM float PERP",
-      "pct": "2.74"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Vallourec 7.5% 15/04/2032",
-      "pct": "2.63"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nexity 0.875% 19/04/2028 CV",
-      "pct": "2.28"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Grandes capitalisations",
-      "pct": "86.46"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moyennes capitalisations",
-      "pct": "12.27"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Petites Capitalisations",
-      "pct": "1.27"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2027",
-      "pct": "1.84"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2028",
-      "pct": "18.85"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2029",
-      "pct": "12.34"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2030",
-      "pct": "26.6"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2031",
-      "pct": "16.48"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2032",
-      "pct": "14.79"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2033",
-      "pct": "2.67"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "PERP",
-      "pct": "6.43"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AAA:A-",
-      "pct": "3.51"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB+:BBB-",
-      "pct": "7.04"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B+:B-",
-      "pct": "49.68"
-    },
-    {
-      "type": "Notations",
-      "libelle": "CCC+:C-",
-      "pct": "11.19"
-    },
-    {
-      "type": "Notations",
-      "libelle": "NR",
-      "pct": "0"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "25.41"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Monétaire",
+   "pct": "1.31"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Diversifié",
+   "pct": "0.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "86.04"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "10.61"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "2.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "0.62"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NOK",
+   "pct": "0.34"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SEK",
+   "pct": "0.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "26.46"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "15.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "9.21"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "8.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "7.53"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "7.19"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "6.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "2.92"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "2.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "66.74"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "5.04"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "4.21"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "3.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "3.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "2.16"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "2.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "2.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "1.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide",
+   "pct": "2.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LVMH SA",
+   "pct": "1.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hermes International",
+   "pct": "1.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric SA",
+   "pct": "1.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Technip Energies NV",
+   "pct": "1.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mobilux Finance 4.25% 15/07/2028",
+   "pct": "5.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Clariane 7.875% 27/06/2030",
+   "pct": "4.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air France KLM float PERP",
+   "pct": "2.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vallourec 7.5% 15/04/2032",
+   "pct": "2.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nexity 0.875% 19/04/2028 CV",
+   "pct": "2.28"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes capitalisations",
+   "pct": "86.46"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes capitalisations",
+   "pct": "12.27"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites Capitalisations",
+   "pct": "1.27"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2027",
+   "pct": "1.84"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2028",
+   "pct": "18.85"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2029",
+   "pct": "12.34"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2030",
+   "pct": "26.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2031",
+   "pct": "16.48"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2032",
+   "pct": "14.79"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2033",
+   "pct": "2.67"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "PERP",
+   "pct": "6.43"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA:A-",
+   "pct": "3.51"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB+:BBB-",
+   "pct": "7.04"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B+:B-",
+   "pct": "49.68"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC+:C-",
+   "pct": "11.19"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "0"
+  }
+ ]
 }

@@ -1,173 +1,173 @@
 {
-  "n": "185",
-  "isin": "FR0011274992",
-  "nom": "(I/C)KEREN ESSENTIELS I EUR",
-  "maison": "KEREN FINANCE",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-04-29",
-  "date_creation": "",
-  "devise": "EUR",
-  "type_fonds": "Actions petites et moyennes capitalisations (France / zone euro)",
-  "compartiment": "Compartiment de la SICAV Keren",
-  "gerants": "Stéphane Pasqualetti",
-  "encours_millions": "22.26",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "1.00",
-  "frais_courants": "1.02",
-  "sri": "4",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "92.2",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "L'OPCVM n’offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
-  "politique_fr": "Objectif d'investissement :\nAfin de réaliser l'objectif de gestion sur la durée de placement recommandée de 5 ans , La stratégie d’investissement consiste à réaliser un stock picking (1) sur les valeurs de PME et ETI (2). L’objectif est de profiter des opportunités d’investissement dans des sociétés en développement, essentiellement de la zone euro. La stratégie se base sur deux piliers : 1/ La définition d’une allocation stratégique de long terme à partir de l’analyse des fondamentaux économiques et boursiers 2/ La construction du portefeuille : la sélection des titres de petites valeurs est effectuée en fonction de critères quantitatifs et qualitatifs, (secteurs d’activité, barrières à l’entrée, stratégie, création de valeur et croissance des bénéfices à long terme, qualité des dirigeants, etc). Le gérant accordera une place prépondérante aux actions de capitalisation inférieure à 1 milliard d’euros et aux actions de PME-ETI et complétera cette part en instruments de taux. (1) Le stock picking désigne l’activité de sélection de titres, un par un, selon une batterie de critères d’analyse fondamentale. (2) L'ETI (entreprise de taille intermédiaire) est une catégorie d'entreprises située entre les PME et les grandes entreprises. Cette classification est effectuée en fonction du nombre de salariés, du chiffre d'affaires ou du total de bilan.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part I. KID = DIC de la part I, pages 4-6 du fichier « DIC & Prospectus » (84 p.). Date de création vide : aucune date de lancement dans les documents. Encours = « AuM: 22.26 mEUR » sur la ligne de la part I (part ou compartiment non précisé). Frais de gestion = « Frais de gestion annuels 1.00% TTC » (factsheet ; frais de service annuels 0.20 %) ; frais courants = KID « Frais de gestion fin. & autres coûts 1,02% » ; commission de surperformance 20 %. Indice vide : objectif de performance « supérieure à 7% annualisés » ; le CAC MID & SMALL dividendes réinvestis est cité « A titre indicatif et de comparaison a posteriori » et « utilisé uniquement à titre de comparaison » (KID). Investissements durables : « Investissement durable 92.2% » (graphique p.3 ; alignement taxonomie 11.3 %). SFDR 8 et « Label Relance » (factsheet). Classification Agressif : petites et moyennes capitalisations, majoritairement françaises (60 % à 100 % actions françaises), malgré SRI 4. Allocations de la « poche action » (en exposition, lues sur graphiques, positions des étiquettes vérifiées). Contributions à la performance non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.4",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet (informations générales)",
-    "frais_courants": "KID p.6",
-    "sri": "KID p.5",
-    "sfdr": "factsheet p.1",
-    "durable_pct": "factsheet p.3",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "185",
+ "isin": "FR0011274992",
+ "nom": "(I/C)KEREN ESSENTIELS I EUR",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Actions petites et moyennes capitalisations (France / zone euro)",
+ "compartiment": "Compartiment de la SICAV Keren",
+ "gerants": "Stéphane Pasqualetti",
+ "encours_millions": "22.26",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.02",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "Equity France Sm&Mid Cap",
+ "sfdr": "8",
+ "durable_pct": "92.2",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "L'OPCVM n’offre aucune garantie de rendement ou de performance et présente un risque de perte en capital. Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Objectif d'investissement :\nAfin de réaliser l'objectif de gestion sur la durée de placement recommandée de 5 ans , La stratégie d’investissement consiste à réaliser un stock picking (1) sur les valeurs de PME et ETI (2). L’objectif est de profiter des opportunités d’investissement dans des sociétés en développement, essentiellement de la zone euro. La stratégie se base sur deux piliers : 1/ La définition d’une allocation stratégique de long terme à partir de l’analyse des fondamentaux économiques et boursiers 2/ La construction du portefeuille : la sélection des titres de petites valeurs est effectuée en fonction de critères quantitatifs et qualitatifs, (secteurs d’activité, barrières à l’entrée, stratégie, création de valeur et croissance des bénéfices à long terme, qualité des dirigeants, etc). Le gérant accordera une place prépondérante aux actions de capitalisation inférieure à 1 milliard d’euros et aux actions de PME-ETI et complétera cette part en instruments de taux. (1) Le stock picking désigne l’activité de sélection de titres, un par un, selon une batterie de critères d’analyse fondamentale. (2) L'ETI (entreprise de taille intermédiaire) est une catégorie d'entreprises située entre les PME et les grandes entreprises. Cette classification est effectuée en fonction du nombre de salariés, du chiffre d'affaires ou du total de bilan.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part I. KID = DIC de la part I, pages 4-6 du fichier « DIC & Prospectus » (84 p.). Date de création vide : aucune date de lancement dans les documents. Encours = « AuM: 22.26 mEUR » sur la ligne de la part I (part ou compartiment non précisé). Frais de gestion = « Frais de gestion annuels 1.00% TTC » (factsheet ; frais de service annuels 0.20 %) ; frais courants = KID « Frais de gestion fin. & autres coûts 1,02% » ; commission de surperformance 20 %. Indice vide : objectif de performance « supérieure à 7% annualisés » ; le CAC MID & SMALL dividendes réinvestis est cité « A titre indicatif et de comparaison a posteriori » et « utilisé uniquement à titre de comparaison » (KID). Investissements durables : « Investissement durable 92.2% » (graphique p.3 ; alignement taxonomie 11.3 %). SFDR 8 et « Label Relance » (factsheet). Classification Agressif : petites et moyennes capitalisations, majoritairement françaises (60 % à 100 % actions françaises), malgré SRI 4. Allocations de la « poche action » (en exposition, lues sur graphiques, positions des étiquettes vérifiées). Contributions à la performance non reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0011271550 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.4",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet (informations générales)",
+  "frais_courants": "KID p.6",
+  "sri": "KID p.5",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Elis S.A.",
+   "pct": "5.31"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Elis S.A.",
-      "pct": "5.31"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ID Logistics Group",
-      "pct": "4.53"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Sopra Group SA",
-      "pct": "4.26"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Exail Technologies (Ex-Groupe Gorge)",
-      "pct": "3.62"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alten SA",
-      "pct": "3.28"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrials",
-      "pct": "28.36"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Information Technology",
-      "pct": "18.98"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Discretionary",
-      "pct": "16.45"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Telecommunication Services",
-      "pct": "8.34"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energy",
-      "pct": "8.23"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Health Care",
-      "pct": "6.87"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consumer Staples",
-      "pct": "4.99"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Materials",
-      "pct": "3.72"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financials",
-      "pct": "2.06"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Other",
-      "pct": "2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "84.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Netherlands",
-      "pct": "4.46"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Luxembourg",
-      "pct": "3.34"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Germany",
-      "pct": "3.25"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italy",
-      "pct": "2.64"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgium",
-      "pct": "2"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "2Mds-10Mds",
-      "pct": "59.23"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "300M-2Mds",
-      "pct": "27.65"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "50M-300M",
-      "pct": "12.32"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "<50M",
-      "pct": "0.8"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "ID Logistics Group",
+   "pct": "4.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sopra Group SA",
+   "pct": "4.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Exail Technologies (Ex-Groupe Gorge)",
+   "pct": "3.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alten SA",
+   "pct": "3.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "28.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "18.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "16.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Telecommunication Services",
+   "pct": "8.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "8.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "6.87"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "4.99"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "3.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "2.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "84.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "4.46"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "3.34"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "3.25"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "2.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgium",
+   "pct": "2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2Mds-10Mds",
+   "pct": "59.23"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "300M-2Mds",
+   "pct": "27.65"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50M-300M",
+   "pct": "12.32"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<50M",
+   "pct": "0.8"
+  }
+ ]
 }

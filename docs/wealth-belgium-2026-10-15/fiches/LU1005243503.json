@@ -1,101 +1,101 @@
 {
-  "n": "36",
-  "isin": "LU1005243503",
-  "nom": "(I/C)BGF FIXED INCOME GLOBAL OPP D2 EUR",
-  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-08-14",
-  "date_creation": "2013-12-18",
-  "devise": "EUR",
-  "type_fonds": "Obligataire",
-  "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
-  "gerants": "Rick Rieder, Jose Aguilar, Russell Brownback, Aidan Doyle, Max Huefner",
-  "encours_millions": "9105.92",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.50",
-  "frais_courants": "0.72",
-  "sri": "3",
-  "indice": "",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "3.43 ans",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
-  "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres à revenu fixe. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte).\n\nLes titres à revenu fixe sont libellés dans différentes devises et peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales (par ex. la Banque internationale pour la reconstruction et le développement).",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 18-déc.-2013 » (fonds lancé le 31-janv.-2007). Encours « Encours sous gestion (M) : 9.105,92 USD » (fonds) au 31-août-2026. Frais de gestion = « Commission de gestion annuelle : 0,50% » ; frais courants = KID 0,72 % (= « Frais courants : 0,72% » factsheet). Indice laissé vide : la factsheet ne donne qu'un « Comparateur 1 : BBG Global Aggregate Index (USD Hedged) in EUR » et le KID précise que le Fonds « n’est contraint par aucun indice de référence » et que les investisseurs peuvent utiliser l'indice Bloomberg Global Aggregate Bond Index (couvert en USD) pour comparer la performance. SFDR : « Classification SFDR : Autre » (ni article 8 ni 9) → vide. Duration = « Duration effective : 3,43 ans » ; maturité moyenne pondérée 5,70 ans ; aucune notation moyenne écrite. Politique : texte « Aperçu du fonds » de la factsheet (version abrégée de la section « Objectifs » du KID). Allocations : seules les 10 principales positions sont reprises ; les graphiques « Répartition des secteurs », « Échéances » et « Notes de crédit » (p.3) ont des étiquettes non extractibles en texte (dessinées) et ne sont pas repris.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "duration": "factsheet p.1",
-    "disclaimer": "factsheet p.2",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "36",
+ "isin": "LU1005243503",
+ "nom": "(I/C)BGF FIXED INCOME GLOBAL OPP D2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-08-14",
+ "date_creation": "2013-12-18",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Rick Rieder, Jose Aguilar, Russell Brownback, Aidan Doyle, Max Huefner",
+ "encours_millions": "9105.92",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.50",
+ "frais_courants": "0.72",
+ "sri": "3",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "Bond Global",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "3.43 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres à revenu fixe. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte).\n\nLes titres à revenu fixe sont libellés dans différentes devises et peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales (par ex. la Banque internationale pour la reconstruction et le développement).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 18-déc.-2013 » (fonds lancé le 31-janv.-2007). Encours « Encours sous gestion (M) : 9.105,92 USD » (fonds) au 31-août-2026. Frais de gestion = « Commission de gestion annuelle : 0,50% » ; frais courants = KID 0,72 % (= « Frais courants : 0,72% » factsheet). Indice laissé vide : la factsheet ne donne qu'un « Comparateur 1 : BBG Global Aggregate Index (USD Hedged) in EUR » et le KID précise que le Fonds « n’est contraint par aucun indice de référence » et que les investisseurs peuvent utiliser l'indice Bloomberg Global Aggregate Bond Index (couvert en USD) pour comparer la performance. SFDR : « Classification SFDR : Autre » (ni article 8 ni 9) → vide. Duration = « Duration effective : 3,43 ans » ; maturité moyenne pondérée 5,70 ans ; aucune notation moyenne écrite. Politique : texte « Aperçu du fonds » de la factsheet (version abrégée de la section « Objectifs » du KID). Allocations : seules les 10 principales positions sont reprises ; les graphiques « Répartition des secteurs », « Échéances » et « Notes de crédit » (p.3) ont des étiquettes non extractibles en texte (dessinées) et ne sont pas repris. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU1005243255 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "duration": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "UMBS 30YR TBA(REG A)",
+   "pct": "18.60"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "UMBS 30YR TBA(REG A)",
-      "pct": "18.60"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE 4.125 08/31/2028",
-      "pct": "2.44"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GNMA2 30YR TBA(REG C)",
-      "pct": "1.61"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FHLMC 30YR UMBS",
-      "pct": "1.42"
-    },
-    {
-      "type": "Positions",
-      "libelle": "TREASURY NOTE 4.25 08/15/2029",
-      "pct": "1.27"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SPAIN (KINGDOM OF) 3.3 04/30/2036",
-      "pct": "1.23"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ITALY (REPUBLIC OF) 2.85 02/01/2031",
-      "pct": "1.16"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ITALY (REPUBLIC OF) 3.45 02/01/2036",
-      "pct": "1.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "UNITED KINGDOM OF GREAT BRITAIN AN 4.375 03/07/2030",
-      "pct": "0.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FHLMC 30YR UMBS SUPER",
-      "pct": "0.76"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE 4.125 08/31/2028",
+   "pct": "2.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GNMA2 30YR TBA(REG C)",
+   "pct": "1.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FHLMC 30YR UMBS",
+   "pct": "1.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE 4.25 08/15/2029",
+   "pct": "1.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SPAIN (KINGDOM OF) 3.3 04/30/2036",
+   "pct": "1.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ITALY (REPUBLIC OF) 2.85 02/01/2031",
+   "pct": "1.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ITALY (REPUBLIC OF) 3.45 02/01/2036",
+   "pct": "1.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITED KINGDOM OF GREAT BRITAIN AN 4.375 03/07/2030",
+   "pct": "0.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FHLMC 30YR UMBS SUPER",
+   "pct": "0.76"
+  }
+ ]
 }

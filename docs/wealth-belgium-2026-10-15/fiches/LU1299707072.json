@@ -1,189 +1,189 @@
 {
-  "n": "156",
-  "isin": "LU1299707072",
-  "nom": "(I/C)GOLDMAN SACHS INDIA EQUITY FUND R EUR",
-  "maison": "GOLDMAN SACHS AM",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-08-03",
-  "date_creation": "2015-10-20",
-  "devise": "EUR",
-  "type_fonds": "Actions Inde",
-  "compartiment": "Goldman Sachs Funds est un organisme de placement collectif constitué conformément aux lois du Grand-Duché de Luxembourg organisé en société d'investissement à capital variable (S.I.C.A.V.) et répond aux critères d'un OPCVM.",
-  "gerants": "",
-  "encours_millions": "4013",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "0.85",
-  "frais_courants": "1.03",
-  "sri": "4",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
-  "politique_fr": "Objectif et politique d’investissement du Fonds\nLe Fonds vise à assurer la croissance du capital à long terme. Le Fonds cherche à atteindre son objectif en détenant des actions ou des instruments similaires relatifs à des sociétés indiennes. Ces sociétés sont basées en Inde ou tirent la majeure partie de leurs bénéfices ou de leur chiffre d’affaires d’activités en Inde. Le Fonds peut également investir dans des sociétés du monde entier.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet FR au 31/08/2026 (code 0826). Politique : bloc « Objectif et politique d’investissement du Fonds » de la factsheet (p.2) ; le PDF utilise des ligatures absentes du texte extrait (« bénéces ou de leur chire d’aaires ») : lettres fi/ff rétablies (« bénéfices », « chiffre d’affaires »), d'où un écart signalé par verif_fiche.py ; même cause pour le secteur « Valeurs financières » (extrait « Valeurs nancières »). Le KID (03/08/2026) contient une section « Objectifs » plus détaillée, non reprise. Compartiment : KID « Type » (le KID précise « Goldman Sachs India Equity Portfolio (le « Portefeuille »), un compartiment de Goldman Sachs Funds SICAV »). Date de création = « Date de lancement - Class R Shares (Acc) (EUR) 20-Oct-15 ». Encours = « Actif net (m) USD 4,013 » (fonds, en USD ; devise du portefeuille USD, part en EUR). Gérants vide : la ligne « Gérant » de la factsheet contient « MSCI India IMI, Net returns, Unhedged, EUR » (libellé manifestement erroné), aucun nom de gérant. Frais de gestion = « Commission de gestion (%) 0.85 » ; frais courants = KID 1.03 % (factsheet : « Frais courants (%) 1.03 »). Indice vide : le KID dit que le portefeuille « fait référence à MSCI India IMI Index (Net TR) (EUR) (l’« Indice de référence ») afin de fixer des seuils de risque internes » et la factsheet qu'il « n'a pas vocation à suivre son indice de référence » (MSCI India IMI, Net returns, Unhedged, EUR sert de comparaison des performances). SFDR vide : le KID dit que le portefeuille « promeut des caractéristiques environnementales et/ou sociales » et détiendra « une part minimale d’investissements durables », sans citer d'article ni de pourcentage. Classification Agressif : actions d'un pays émergent unique, malgré un SRI de 4. Capitalisations : colonne du fonds seulement (indice exclu). Positions : pays et activité non repris dans le libellé.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.2",
-    "devise": "factsheet p.2",
-    "compartiment": "KID p.1",
-    "encours_millions": "factsheet p.2",
-    "encours_devise": "factsheet p.2",
-    "encours_date": "factsheet p.2",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.2",
-    "source_politique": "factsheet p.2"
+ "n": "156",
+ "isin": "LU1299707072",
+ "nom": "(I/C)GOLDMAN SACHS INDIA EQUITY FUND R EUR",
+ "maison": "GOLDMAN SACHS AM",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-08-03",
+ "date_creation": "2015-10-20",
+ "devise": "EUR",
+ "type_fonds": "Actions Inde",
+ "compartiment": "Goldman Sachs Funds est un organisme de placement collectif constitué conformément aux lois du Grand-Duché de Luxembourg organisé en société d'investissement à capital variable (S.I.C.A.V.) et répond aux critères d'un OPCVM.",
+ "gerants": "",
+ "encours_millions": "4013",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "0.85",
+ "frais_courants": "1.03",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
+ "politique_fr": "Objectif et politique d’investissement du Fonds\nLe Fonds vise à assurer la croissance du capital à long terme. Le Fonds cherche à atteindre son objectif en détenant des actions ou des instruments similaires relatifs à des sociétés indiennes. Ces sociétés sont basées en Inde ou tirent la majeure partie de leurs bénéfices ou de leur chiffre d’affaires d’activités en Inde. Le Fonds peut également investir dans des sociétés du monde entier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR au 31/08/2026 (code 0826). Politique : bloc « Objectif et politique d’investissement du Fonds » de la factsheet (p.2) ; le PDF utilise des ligatures absentes du texte extrait (« bénéces ou de leur chire d’aaires ») : lettres fi/ff rétablies (« bénéfices », « chiffre d’affaires »), d'où un écart signalé par verif_fiche.py ; même cause pour le secteur « Valeurs financières » (extrait « Valeurs nancières »). Le KID (03/08/2026) contient une section « Objectifs » plus détaillée, non reprise. Compartiment : KID « Type » (le KID précise « Goldman Sachs India Equity Portfolio (le « Portefeuille »), un compartiment de Goldman Sachs Funds SICAV »). Date de création = « Date de lancement - Class R Shares (Acc) (EUR) 20-Oct-15 ». Encours = « Actif net (m) USD 4,013 » (fonds, en USD ; devise du portefeuille USD, part en EUR). Gérants vide : la ligne « Gérant » de la factsheet contient « MSCI India IMI, Net returns, Unhedged, EUR » (libellé manifestement erroné), aucun nom de gérant. Frais de gestion = « Commission de gestion (%) 0.85 » ; frais courants = KID 1.03 % (factsheet : « Frais courants (%) 1.03 »). Indice vide : le KID dit que le portefeuille « fait référence à MSCI India IMI Index (Net TR) (EUR) (l’« Indice de référence ») afin de fixer des seuils de risque internes » et la factsheet qu'il « n'a pas vocation à suivre son indice de référence » (MSCI India IMI, Net returns, Unhedged, EUR sert de comparaison des performances). SFDR vide : le KID dit que le portefeuille « promeut des caractéristiques environnementales et/ou sociales » et détiendra « une part minimale d’investissements durables », sans citer d'article ni de pourcentage. Classification Agressif : actions d'un pays émergent unique, malgré un SRI de 4. Capitalisations : colonne du fonds seulement (indice exclu). Positions : pays et activité non repris dans le libellé.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.2",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.2",
+  "source_politique": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ICICI Bank Ltd",
+   "pct": "5.6"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "ICICI Bank Ltd",
-      "pct": "5.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "HDFC Bank Ltd",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Reliance Industries Ltd",
-      "pct": "2.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mahindra & Mahindra Ltd",
-      "pct": "2.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Axis Bank Ltd",
-      "pct": "2.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Bajaj Finance Ltd",
-      "pct": "2.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Kotak Mahindra Bank Ltd",
-      "pct": "2.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Sun Pharmaceutical Industries Ltd",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Eternal Ltd",
-      "pct": "1.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "State Bank of India",
-      "pct": "1.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs financières",
-      "pct": "29.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "secteur de la consommation discrétionnaire",
-      "pct": "18.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "11.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Soins de santé",
-      "pct": "10.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "9.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l'information",
-      "pct": "6.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits de consommation courante",
-      "pct": "4.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Énergie",
-      "pct": "2.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "2.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de Communication",
-      "pct": "2.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux Collectivités",
-      "pct": "1.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Autres",
-      "pct": "0.4"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Trésorerie et quasi-trésorerie",
-      "pct": "0.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Grande capitalisation",
-      "pct": "56.9"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Moyenne capitalisation",
-      "pct": "16.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Petite capitalisation",
-      "pct": "27.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Trésorerie et quasi-trésorerie",
-      "pct": "0.1"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Non catégorisé",
-      "pct": "0.0"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "HDFC Bank Ltd",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Reliance Industries Ltd",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mahindra & Mahindra Ltd",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Axis Bank Ltd",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bajaj Finance Ltd",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kotak Mahindra Bank Ltd",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sun Pharmaceutical Industries Ltd",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eternal Ltd",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "State Bank of India",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs financières",
+   "pct": "29.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "secteur de la consommation discrétionnaire",
+   "pct": "18.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "11.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "10.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "9.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "6.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de consommation courante",
+   "pct": "4.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "2.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "1.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et quasi-trésorerie",
+   "pct": "0.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grande capitalisation",
+   "pct": "56.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyenne capitalisation",
+   "pct": "16.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petite capitalisation",
+   "pct": "27.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Trésorerie et quasi-trésorerie",
+   "pct": "0.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Non catégorisé",
+   "pct": "0.0"
+  }
+ ]
 }

@@ -1,137 +1,137 @@
 {
-  "n": "14",
-  "isin": "IE0002PG6CA6",
-  "nom": "(ETF)VANECK RARE EARTH AND STRATEGIC METALS EUR",
-  "maison": "VANECK_AM",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-03-27",
-  "date_creation": "2021-09-24",
-  "devise": "USD",
-  "type_fonds": "Actions thématiques (terres rares et métaux stratégiques)",
-  "compartiment": "un sous-fonds de VanEck UCITS ETFs plc, une société d’investissement à capital variable à compartiments multiples et à responsabilité limitée entre les sous-fonds",
-  "gerants": "",
-  "encours_millions": "1357.2",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "0.59",
-  "sri": "6",
-  "indice": "MVIS Global Rare Earth/Strategic Metals Index",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préfigurent pas les rendements futurs. L’investissement est soumis à des risques, y compris la perte possible du capital.",
-  "politique_fr": "Objectif : L’objectif d'investissement du Produit est de répliquer, avant les frais et les dépenses, l'indice MVIS Global Rare Earth/Strategic Metals Index (l’« Indice »).\n\nAfin d’atteindre cet objectif d’investissement, le Producteur utilise une stratégie de réplication en investissant directement dans les titres de participation sous-jacents de l’Indice, qu’il s’agisse d’actions, de certificats de dépôt américains (ADR) ou de certificats de dépôt mondiaux (GDR). Ces actions doivent être émises par des sociétés cotées ou négociées sur les marchés définis à l’annexe II du Prospectus, dont au moins 50 % des revenus proviennent de terres rares/métaux stratégiques, ou par des sociétés dont au moins 50 % des revenus proviennent de terres rares/métaux stratégiques par l’extraction de ressources minérales. Pour éviter toute ambiguïté, lorsque l’Indice détient déjà de tels titres de participation, l’Indice tentera de retirer le titre lorsque le pourcentage des revenus générés par les sociétés de terres rares/métaux stratégiques chutera sous la barre des 25 % des revenus de la société concernée.\n\nLe Produit peut investir jusqu’à 60% de sa Valeur liquidative directement dans des actions émises par des sociétés cotées à la Bourse de Shanghai ou à la Bourse de Shenzhen.\n\nLorsque la réplication totale de l'Indice n'est ni pratique ni rentable pour le Produit, l’Initiateur peut utiliser une méthodologie d'échantillonnage optimisée. Le Produit peut investir plus de 20 % de sa Valeur liquidative dans les marchés émergents et peut également (ou alternativement) investir dans des instruments financiers dérivés (IFD) liés à l’Indice ou aux composants de l’Indice. Les IFD que le Produit peut utiliser sont les contrats à terme, les options (de vente et d'achat), les contrats d'échange (contrats d'échange d'actions et contrats d'échange sur l'Indice), les contrats de change à terme de gré à gré et les contrats à terme de gré à gré non livrables (contrats à terme de gré à gré qui ne nécessitent pas de règlement à l’échéance) (NDF). Le Produit investit dans les titres sous-jacents (physiques) qui composent l’Indice et ne prend pas part aux prêts de titres.\n\nLe Produit peut également investir dans les liquidités à titre accessoire et les instruments du marché monétaire tels que les dépôts bancaires, les certificats d’actions, les certificats de dépôt, les instruments à taux fixe ou variable (bons du Trésor), les billets de trésorerie, les obligations à taux variable et les billets à ordre librement cessibles. Les liquidités à titre accessoire, les instruments monétaires et les IFD (autres que les investissements non cotés autorisés) seront cotés ou échangés sur les marchés répertoriés à l’annexe II du Prospectus. L’investissement dans les liquidités à titre accessoire et les instruments du marché monétaire peut être utilisé dans diverses situations, y compris, mais sans s’y limiter, dans la gestion de l’exposition totale aux liquidités et l’emprunt à court terme, et en prévision d'une participation à des droits préférentiels de souscription.\n\nLe Produit ne peut pas investir plus de 10 % de sa Valeur liquidative dans des plans de placement collectif à capital variable.\n\nEn outre, le Produit ne peut investir moins de 51 % de sa Valeur liquidative dans des titres de participation qui constituent une « participation au capital » au sens de la section 2, article 8 de la loi allemande sur la fiscalité des investissements.\n\nLe Produit, qui utilise une approche d’investissement « passive » ou indicielle, tente d’approcher la performance d’investissement de l’Indice en investissant dans un portefeuille de titres qui réplique généralement l’Indice. Le Producteur surveillera régulièrement l'exactitude du suivi du Produit. L’indice de déviation annualisé envisageable ne devrait pas dépasser 0,8% dans des conditions de marché normales.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Devise de base USD (« Devise de base USD » factsheet, « Dollar américain » KID) alors que le nom One Life se termine par EUR (cotation EUR sur Deutsche Börse et Borsa Italiana). Politique prise du KID : la factsheet ne donne qu'une phrase en anglais (« Fund Description »). Date de création = « Date de lancement 24 septembre 2021 » (date de l'ETF ; la part n'est pas distinguée). Encours = « Actif net USD 1357,2M » au 31/08/2026. Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation 0,59 % » ; factsheet « Frais courants réels 0,59% » ; pas de frais de gestion séparés. ETF indiciel à réplication physique complète. Aucun article SFDR ni % durable écrit. Gérants : aucun nom. Allocations : répartition par pays (avec « Autre/Espèces ») et 10 principales participations (sous-total top 10 : 62,38 %).",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.2",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "14",
+ "isin": "IE0002PG6CA6",
+ "nom": "(ETF)VANECK RARE EARTH AND STRATEGIC METALS EUR",
+ "maison": "VANECK_AM",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-03-27",
+ "date_creation": "2021-09-24",
+ "devise": "USD",
+ "type_fonds": "Actions thématiques (terres rares et métaux stratégiques)",
+ "compartiment": "un sous-fonds de VanEck UCITS ETFs plc, une société d’investissement à capital variable à compartiments multiples et à responsabilité limitée entre les sous-fonds",
+ "gerants": "",
+ "encours_millions": "1357.2",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "0.59",
+ "sri": "6",
+ "indice": "MVIS Global Rare Earth/Strategic Metals Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préfigurent pas les rendements futurs. L’investissement est soumis à des risques, y compris la perte possible du capital.",
+ "politique_fr": "Objectif : L’objectif d'investissement du Produit est de répliquer, avant les frais et les dépenses, l'indice MVIS Global Rare Earth/Strategic Metals Index (l’« Indice »).\n\nAfin d’atteindre cet objectif d’investissement, le Producteur utilise une stratégie de réplication en investissant directement dans les titres de participation sous-jacents de l’Indice, qu’il s’agisse d’actions, de certificats de dépôt américains (ADR) ou de certificats de dépôt mondiaux (GDR). Ces actions doivent être émises par des sociétés cotées ou négociées sur les marchés définis à l’annexe II du Prospectus, dont au moins 50 % des revenus proviennent de terres rares/métaux stratégiques, ou par des sociétés dont au moins 50 % des revenus proviennent de terres rares/métaux stratégiques par l’extraction de ressources minérales. Pour éviter toute ambiguïté, lorsque l’Indice détient déjà de tels titres de participation, l’Indice tentera de retirer le titre lorsque le pourcentage des revenus générés par les sociétés de terres rares/métaux stratégiques chutera sous la barre des 25 % des revenus de la société concernée.\n\nLe Produit peut investir jusqu’à 60% de sa Valeur liquidative directement dans des actions émises par des sociétés cotées à la Bourse de Shanghai ou à la Bourse de Shenzhen.\n\nLorsque la réplication totale de l'Indice n'est ni pratique ni rentable pour le Produit, l’Initiateur peut utiliser une méthodologie d'échantillonnage optimisée. Le Produit peut investir plus de 20 % de sa Valeur liquidative dans les marchés émergents et peut également (ou alternativement) investir dans des instruments financiers dérivés (IFD) liés à l’Indice ou aux composants de l’Indice. Les IFD que le Produit peut utiliser sont les contrats à terme, les options (de vente et d'achat), les contrats d'échange (contrats d'échange d'actions et contrats d'échange sur l'Indice), les contrats de change à terme de gré à gré et les contrats à terme de gré à gré non livrables (contrats à terme de gré à gré qui ne nécessitent pas de règlement à l’échéance) (NDF). Le Produit investit dans les titres sous-jacents (physiques) qui composent l’Indice et ne prend pas part aux prêts de titres.\n\nLe Produit peut également investir dans les liquidités à titre accessoire et les instruments du marché monétaire tels que les dépôts bancaires, les certificats d’actions, les certificats de dépôt, les instruments à taux fixe ou variable (bons du Trésor), les billets de trésorerie, les obligations à taux variable et les billets à ordre librement cessibles. Les liquidités à titre accessoire, les instruments monétaires et les IFD (autres que les investissements non cotés autorisés) seront cotés ou échangés sur les marchés répertoriés à l’annexe II du Prospectus. L’investissement dans les liquidités à titre accessoire et les instruments du marché monétaire peut être utilisé dans diverses situations, y compris, mais sans s’y limiter, dans la gestion de l’exposition totale aux liquidités et l’emprunt à court terme, et en prévision d'une participation à des droits préférentiels de souscription.\n\nLe Produit ne peut pas investir plus de 10 % de sa Valeur liquidative dans des plans de placement collectif à capital variable.\n\nEn outre, le Produit ne peut investir moins de 51 % de sa Valeur liquidative dans des titres de participation qui constituent une « participation au capital » au sens de la section 2, article 8 de la loi allemande sur la fiscalité des investissements.\n\nLe Produit, qui utilise une approche d’investissement « passive » ou indicielle, tente d’approcher la performance d’investissement de l’Indice en investissant dans un portefeuille de titres qui réplique généralement l’Indice. Le Producteur surveillera régulièrement l'exactitude du suivi du Produit. L’indice de déviation annualisé envisageable ne devrait pas dépasser 0,8% dans des conditions de marché normales.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Devise de base USD (« Devise de base USD » factsheet, « Dollar américain » KID) alors que le nom One Life se termine par EUR (cotation EUR sur Deutsche Börse et Borsa Italiana). Politique prise du KID : la factsheet ne donne qu'une phrase en anglais (« Fund Description »). Date de création = « Date de lancement 24 septembre 2021 » (date de l'ETF ; la part n'est pas distinguée). Encours = « Actif net USD 1357,2M » au 31/08/2026. Frais : KID « Frais de gestion et autres frais administratifs et d’exploitation 0,59 % » ; factsheet « Frais courants réels 0,59% » ; pas de frais de gestion séparés. ETF indiciel à réplication physique complète. Aucun article SFDR ni % durable écrit. Gérants : aucun nom. Allocations : répartition par pays (avec « Autre/Espèces ») et 10 principales participations (sous-total top 10 : 62,38 %).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "30.26"
   },
-  "allocations": [
-    {
-      "type": "Pays",
-      "libelle": "Chine",
-      "pct": "30.26"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Australie",
-      "pct": "24.06"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "17.87"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "10.48"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Chili",
-      "pct": "5.76"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Région de Taïwan",
-      "pct": "4.30"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "2.52"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autre/Espèces",
-      "pct": "4.76"
-    },
-    {
-      "type": "Positions",
-      "libelle": "PILBARA MINERALS LTD",
-      "pct": "8.29"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ALBEMARLE CORP",
-      "pct": "7.95"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LYNAS RARE EARTHS LTD",
-      "pct": "6.79"
-    },
-    {
-      "type": "Positions",
-      "libelle": "MP MATERIALS CORP",
-      "pct": "6.66"
-    },
-    {
-      "type": "Positions",
-      "libelle": "CHINA NORTHERN RARE EARTH GROUP HIGH-TE",
-      "pct": "6.60"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SOCIEDAD QUIMICA Y MINERA DE CHILE SA",
-      "pct": "5.76"
-    },
-    {
-      "type": "Positions",
-      "libelle": "ALMONTY INDUSTRIES INC",
-      "pct": "5.67"
-    },
-    {
-      "type": "Positions",
-      "libelle": "JINDUICHENG MOLYBDENUM CO LTD",
-      "pct": "5.28"
-    },
-    {
-      "type": "Positions",
-      "libelle": "XIAMEN TUNGSTEN CO LTD",
-      "pct": "5.09"
-    },
-    {
-      "type": "Positions",
-      "libelle": "LIANYOU METALS CO LTD",
-      "pct": "4.30"
-    }
-  ]
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "24.06"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "17.87"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "10.48"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chili",
+   "pct": "5.76"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Région de Taïwan",
+   "pct": "4.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "2.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre/Espèces",
+   "pct": "4.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PILBARA MINERALS LTD",
+   "pct": "8.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALBEMARLE CORP",
+   "pct": "7.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LYNAS RARE EARTHS LTD",
+   "pct": "6.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MP MATERIALS CORP",
+   "pct": "6.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHINA NORTHERN RARE EARTH GROUP HIGH-TE",
+   "pct": "6.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SOCIEDAD QUIMICA Y MINERA DE CHILE SA",
+   "pct": "5.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALMONTY INDUSTRIES INC",
+   "pct": "5.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JINDUICHENG MOLYBDENUM CO LTD",
+   "pct": "5.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "XIAMEN TUNGSTEN CO LTD",
+   "pct": "5.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LIANYOU METALS CO LTD",
+   "pct": "4.30"
+  }
+ ]
 }

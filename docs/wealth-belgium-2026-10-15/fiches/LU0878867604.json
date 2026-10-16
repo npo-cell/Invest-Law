@@ -1,186 +1,186 @@
 {
-  "n": "142",
-  "isin": "LU0878867604",
-  "nom": "(I/C)FIRST EAGLE AMUNDI INTERNATIONAL FD RU-C USD",
-  "maison": "Amundi Luxembourg S.A.",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-09-09",
-  "date_creation": "2013-03-01",
-  "devise": "USD",
-  "type_fonds": "Multi-actifs (diversifié, approche value)",
-  "compartiment": "Un Compartiment de First Eagle Amundi",
-  "gerants": "Matthew McLennan, Julien Albertini, Manish Gupta",
-  "encours_millions": "9727.23",
-  "encours_devise": "USD",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "1.30",
-  "frais_courants": "1.55",
-  "sri": "3",
-  "indice": "",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "6",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Past performance does not predict future returns",
-  "politique_fr": "",
-  "politique_en": "The Sub-Fund seeks to offer investors capital growth through diversification of its investments over all categories of assets and a policy of following a ‘value’ approach.\nTo pursue its goal, it invests at least two-thirds of its Net Assets in equities, Equity-linked Instruments and bonds without any restriction in terms of market capitalisation, geographical diversification or in terms of what part of the assets of the Sub-Fund may be invested in a particular class of assets or a particular market. The investment process is based on fundamental analysis of the financial and business situation of the issuers, market outlook and other elements.",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet EN uniquement (commune aux parts RU (A) capitalisation et (D) distribution ; notre part = (A) LU0878867604). Date de création = « Share-class inception date : 01/03/2013 » (compartiment lancé le 12/08/1996). Encours « Assets Under Management (AUM) : 9,727.23 ( million USD ) » au 30/09/2026. Frais de gestion = « Max. direct annual management fees (taxes incl.) 1.30% IAT » (maximum) ; frais courants = KID « Frais de gestion et autres frais » 1,55 % (identique à la factsheet). Indice vide : la factsheet indique « Benchmark : None » avec un « Comparative benchmark : 100.0% CAPITALIZED US SOFR + 4.3% (BASE 365) », et le KID indique que le SOFR (et le hurdle) sert a posteriori à évaluer la performance et à calculer la commission de performance, sans contrainte sur le portefeuille (cas douteux). SFDR article 6 (KID). Classification Dynamique : fonds diversifié à dominante actions (catégorie Morningstar « EAA FUND USD AGGRESSIVE ALLOCATION »), malgré SRI 3 (cas non évident). Politique : bloc « Objective and Investment Policy » de la factsheet p.1 (sans la phrase sur la protection FSCS des investisseurs britanniques) ; la factsheet est réservée aux investisseurs professionnels. Allocations : répartition géographique (pays, y compris lignes or, liquidités) et capitalisation (barres, texte) ; répartitions par classe d'actifs et par secteur en camemberts (valeurs non attribuables aux libellés, non reprises) ; positions = 10 principaux émetteurs actions.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "KID p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.2",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "encours_date": "factsheet p.1",
-    "frais_gestion": "factsheet p.5",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.2",
-    "sfdr": "KID p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_en": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "142",
+ "isin": "LU0878867604",
+ "nom": "(I/C)FIRST EAGLE AMUNDI INTERNATIONAL FD RU-C USD",
+ "maison": "Amundi Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-09",
+ "date_creation": "2013-03-01",
+ "devise": "USD",
+ "type_fonds": "Multi-actifs (diversifié, approche value)",
+ "compartiment": "Un Compartiment de First Eagle Amundi",
+ "gerants": "Matthew McLennan, Julien Albertini, Manish Gupta",
+ "encours_millions": "9727.23",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.30",
+ "frais_courants": "1.55",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "Mixed Asset Global Aggressive",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance does not predict future returns",
+ "politique_fr": "",
+ "politique_en": "The Sub-Fund seeks to offer investors capital growth through diversification of its investments over all categories of assets and a policy of following a ‘value’ approach.\nTo pursue its goal, it invests at least two-thirds of its Net Assets in equities, Equity-linked Instruments and bonds without any restriction in terms of market capitalisation, geographical diversification or in terms of what part of the assets of the Sub-Fund may be invested in a particular class of assets or a particular market. The investment process is based on fundamental analysis of the financial and business situation of the issuers, market outlook and other elements.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet EN uniquement (commune aux parts RU (A) capitalisation et (D) distribution ; notre part = (A) LU0878867604). Date de création = « Share-class inception date : 01/03/2013 » (compartiment lancé le 12/08/1996). Encours « Assets Under Management (AUM) : 9,727.23 ( million USD ) » au 30/09/2026. Frais de gestion = « Max. direct annual management fees (taxes incl.) 1.30% IAT » (maximum) ; frais courants = KID « Frais de gestion et autres frais » 1,55 % (identique à la factsheet). Indice vide : la factsheet indique « Benchmark : None » avec un « Comparative benchmark : 100.0% CAPITALIZED US SOFR + 4.3% (BASE 365) », et le KID indique que le SOFR (et le hurdle) sert a posteriori à évaluer la performance et à calculer la commission de performance, sans contrainte sur le portefeuille (cas douteux). SFDR article 6 (KID). Classification Dynamique : fonds diversifié à dominante actions (catégorie Morningstar « EAA FUND USD AGGRESSIVE ALLOCATION »), malgré SRI 3 (cas non évident). Politique : bloc « Objective and Investment Policy » de la factsheet p.1 (sans la phrase sur la protection FSCS des investisseurs britanniques) ; la factsheet est réservée aux investisseurs professionnels. Allocations : répartition géographique (pays, y compris lignes or, liquidités) et capitalisation (barres, texte) ; répartitions par classe d'actifs et par secteur en camemberts (valeurs non attribuables aux libellés, non reprises) ; positions = 10 principaux émetteurs actions. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0068578508 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "KID p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.5",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Shell",
+   "pct": "2.78"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Shell",
-      "pct": "2.78"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Alphabet",
-      "pct": "2.57"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Becton Dickinson",
-      "pct": "2.26"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Meta Platforms",
-      "pct": "2.18"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Samsung Electronics",
-      "pct": "2.07"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Workday",
-      "pct": "1.59"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Salesforce",
-      "pct": "1.56"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Elevance Health",
-      "pct": "1.52"
-    },
-    {
-      "type": "Positions",
-      "libelle": "SLB",
-      "pct": "1.38"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Oracle",
-      "pct": "1.34"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United States",
-      "pct": "39.95"
-    },
-    {
-      "type": "Pays",
-      "libelle": "United Kingdom",
-      "pct": "9.51"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japan",
-      "pct": "6.53"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "4.14"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "3.80"
-    },
-    {
-      "type": "Pays",
-      "libelle": "South Korea",
-      "pct": "3.37"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Mexico",
-      "pct": "2.85"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Switzerland",
-      "pct": "2.83"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Netherlands",
-      "pct": "2.76"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Other countries",
-      "pct": "9.37"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Gold-Related ETCs",
-      "pct": "9.14"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Cash Equivalents",
-      "pct": "3.65"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Cash",
-      "pct": "2.09"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": ">$20 billion",
-      "pct": "84.86"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "$10-$20 billion",
-      "pct": "7.94"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "$5-$10 billion",
-      "pct": "5.41"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "<$5 billion",
-      "pct": "1.79"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "2.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Becton Dickinson",
+   "pct": "2.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms",
+   "pct": "2.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Workday",
+   "pct": "1.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Salesforce",
+   "pct": "1.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Elevance Health",
+   "pct": "1.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SLB",
+   "pct": "1.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oracle",
+   "pct": "1.34"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "39.95"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "9.51"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "6.53"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "4.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "3.80"
+  },
+  {
+   "type": "Pays",
+   "libelle": "South Korea",
+   "pct": "3.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexico",
+   "pct": "2.85"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "2.83"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "2.76"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other countries",
+   "pct": "9.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Gold-Related ETCs",
+   "pct": "9.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash Equivalents",
+   "pct": "3.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "2.09"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">$20 billion",
+   "pct": "84.86"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$10-$20 billion",
+   "pct": "7.94"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$5-$10 billion",
+   "pct": "5.41"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<$5 billion",
+   "pct": "1.79"
+  }
+ ]
 }

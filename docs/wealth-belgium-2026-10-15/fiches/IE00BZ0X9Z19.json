@@ -1,142 +1,142 @@
 {
-  "n": "83",
-  "isin": "IE00BZ0X9Z19",
-  "nom": "(I/C)COMGEST GROWTH JAPAN Z EUR",
-  "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-03-20",
-  "date_creation": "2017-12-21",
-  "devise": "EUR",
-  "type_fonds": "Actions japonaises",
-  "compartiment": "Comgest Growth Japan, un compartiment de Comgest Growth plc (Société d'investissement à capital variable agréée par la Banque Centrale d'Irlande), est un Organisme de Placement Collectif en Valeurs Mobilières (OPCVM)",
-  "gerants": "",
-  "encours_millions": "727.3",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.90",
-  "frais_courants": "0.98",
-  "sri": "4",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées ne préjugent pas des performances futures. Investir implique des risques dont la perte du capital initialement investi.",
-  "politique_fr": "POLITIQUE D'INVESTISSEMENT\nL’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés de croissance sur le long terme et de qualité. Le Fonds investira au moins deux tiers de ses actifs dans des titres émis par des sociétés cotées ou négociées sur des marchés réglementés ayant leur siège social ou exerçant principalement leurs activités au Japon ou dans des titres émis ou garantis par le gouvernement japonais.\nLe Fonds est géré de manière dynamique. L'indice est utilisé à des fins de comparaison.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part EUR Z Acc (non couverte). Date de création « 21/12/2017 » (détails du fonds, document propre à la part) ; la factsheet précise que les données « depuis création » peuvent faire référence à la dernière date de lancement de la part. Devise de la part EUR, devise de base du fonds JPY. Encours = « Actif total du fonds (toutes classes, millions) 727,3€ ». Gérants : aucun nom (« Equipe d'investissement : Approche collégiale »). Frais de gestion « 0,90% de l’actif net » (inclus dans les frais courants) ; frais courants = KID 0,98 % (identique à la factsheet) ; pas de commission de surperformance. Indice vide : « Topix - Net Return » fourni « à titre indicatif et a posteriori », « utilisé à des fins de comparaison » (KID : pas géré par rapport à un indice de référence ; Topix (Net Total Return) à des fins de comparaison). SRI 4 (KID : « 4 sur 7 »). SFDR article 8 ; KID : proportion minimale de 25 % d’investissements durables (engagement minimal). Classification Agressif : actions d’un seul pays (Japon), SRI 4 — cas limite. Disclaimer : deux phrases de la factsheet (p.1 et rubrique Risques p.2). Politique : bloc « Politique d’investissement » p.1 sans la phrase sur les investisseurs visés. Allocations : colonne Fonds uniquement ; lignes « -- » non reprises ; « [Cash] » repris tel quel ; 5 principales positions publiées ; devises = devise de valorisation des positions.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.4",
-    "devise": "factsheet p.4",
-    "compartiment": "factsheet p.4",
-    "encours_millions": "factsheet p.3",
-    "frais_gestion": "factsheet p.4",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1-2",
-    "politique_fr": "factsheet p.1"
+ "n": "83",
+ "isin": "IE00BZ0X9Z19",
+ "nom": "(I/C)COMGEST GROWTH JAPAN Z EUR",
+ "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-20",
+ "date_creation": "2017-12-21",
+ "devise": "EUR",
+ "type_fonds": "Actions japonaises",
+ "compartiment": "Comgest Growth Japan, un compartiment de Comgest Growth plc (Société d'investissement à capital variable agréée par la Banque Centrale d'Irlande), est un Organisme de Placement Collectif en Valeurs Mobilières (OPCVM)",
+ "gerants": "",
+ "encours_millions": "727.3",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.90",
+ "frais_courants": "0.98",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Investir implique des risques dont la perte du capital initialement investi.",
+ "politique_fr": "POLITIQUE D'INVESTISSEMENT\nL’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés de croissance sur le long terme et de qualité. Le Fonds investira au moins deux tiers de ses actifs dans des titres émis par des sociétés cotées ou négociées sur des marchés réglementés ayant leur siège social ou exerçant principalement leurs activités au Japon ou dans des titres émis ou garantis par le gouvernement japonais.\nLe Fonds est géré de manière dynamique. L'indice est utilisé à des fins de comparaison.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part EUR Z Acc (non couverte). Date de création « 21/12/2017 » (détails du fonds, document propre à la part) ; la factsheet précise que les données « depuis création » peuvent faire référence à la dernière date de lancement de la part. Devise de la part EUR, devise de base du fonds JPY. Encours = « Actif total du fonds (toutes classes, millions) 727,3€ ». Gérants : aucun nom (« Equipe d'investissement : Approche collégiale »). Frais de gestion « 0,90% de l’actif net » (inclus dans les frais courants) ; frais courants = KID 0,98 % (identique à la factsheet) ; pas de commission de surperformance. Indice vide : « Topix - Net Return » fourni « à titre indicatif et a posteriori », « utilisé à des fins de comparaison » (KID : pas géré par rapport à un indice de référence ; Topix (Net Total Return) à des fins de comparaison). SRI 4 (KID : « 4 sur 7 »). SFDR article 8 ; KID : proportion minimale de 25 % d’investissements durables (engagement minimal). Classification Agressif : actions d’un seul pays (Japon), SRI 4 — cas limite. Disclaimer : deux phrases de la factsheet (p.1 et rubrique Risques p.2). Politique : bloc « Politique d’investissement » p.1 sans la phrase sur les investisseurs visés. Allocations : colonne Fonds uniquement ; lignes « -- » non reprises ; « [Cash] » repris tel quel ; 5 principales positions publiées ; devises = devise de valorisation des positions.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "factsheet p.4",
+  "encours_millions": "factsheet p.3",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Tokio Marine Holdings",
+   "pct": "3.9"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "Tokio Marine Holdings",
-      "pct": "3.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Daiichi Life Group",
-      "pct": "3.7"
-    },
-    {
-      "type": "Positions",
-      "libelle": "FAST RETAILING",
-      "pct": "3.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Hitachi",
-      "pct": "3.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mitsubishi Heavy",
-      "pct": "3.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie",
-      "pct": "21.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "19.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services financiers",
-      "pct": "15.1"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Conso. cyclique",
-      "pct": "14.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Pharma/Santé",
-      "pct": "7.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Conso. non cyclique",
-      "pct": "6.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de com.",
-      "pct": "6.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Produits de base",
-      "pct": "4.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "[Cash]",
-      "pct": "2.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "1.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "0.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Japon",
-      "pct": "97.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "[Cash]",
-      "pct": "2.3"
-    },
-    {
-      "type": "Devises",
-      "libelle": "JPY",
-      "pct": "100.0"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "Daiichi Life Group",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FAST RETAILING",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hitachi",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mitsubishi Heavy",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "21.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "19.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "15.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. cyclique",
+   "pct": "14.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma/Santé",
+   "pct": "7.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. non cyclique",
+   "pct": "6.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de com.",
+   "pct": "6.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de base",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "[Cash]",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "97.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "[Cash]",
+   "pct": "2.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "100.0"
+  }
+ ]
 }

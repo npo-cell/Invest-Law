@@ -1,351 +1,351 @@
 {
-  "n": "204",
-  "isin": "FR0013439890",
-  "nom": "(I/C)LF RENDEMENT GLOBAL 2028 PLUS T C EUR (FMB)",
-  "maison": "La Française Asset Management",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-10-05",
-  "date_creation": "2020-12-10",
-  "devise": "EUR",
-  "type_fonds": "Obligataire (fonds à échéance 2028)",
-  "compartiment": "Compartiment de la SICAV de droit français LA FRANCAISE",
-  "gerants": "Akram GHARBI, Aurore LE CROM, Paul TROUSSARD, Andreea JUSSELIN",
-  "encours_millions": "69.03",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "0.80",
-  "frais_courants": "0.76",
-  "sri": "3",
-  "indice": "15% MSCI World + 85% des obligations à échéance 2028 émises par l'Etat français et libellées en EUR",
-  "classification": "Défensif",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "2.42",
-  "qualite_emetteurs": "BB-",
-  "disclaimer": "Les chiffres cités ont trait aux années écoulées, et les performances passées ne sont pas un indicateur fiable des performances futures. Ces performances ne tiennent pas compte des commissions et frais liés aux émissions et rachats de parts.",
-  "politique_fr": "STRATEGIE D'INVESTISSEMENT\nL'objectif du fonds est d'obtenir une performance nette de frais supérieure à celle de l'indice de référence composite - 85% de la performance des obligations à échéance 2028 émises par l’Etat français et libellées en EUR + 15% de la performance de l’indice MSCI World, sur la période de placement recommandée de 9 ans à compter de la date de création du fonds jusqu'au 31/12/2028. La rentabilité éventuelle du fonds sera le fruit à la fois de la valorisation des coupons courus des obligations présentes en portefeuille, des variations de capital dues à la fluctuation des taux d'intérêt et des spreads de crédit ainsi que de la valorisation des instruments exposant le fonds au marchés actions.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Part T C EUR (KID : « action T C EUR »). Initiateur du DIC et société de gestion : Crédit Mutuel Asset Management (groupe La Française). Date de création = « Date de création : 10/12/2020 » (factsheet, sans préciser fonds ou part). Encours = « Actif sous gestion : 69,03M€ ». Frais de gestion = « Frais de gestion maximum : 0,80% TTC taux maximum » ; frais courants = KID « Frais de gestion et autres frais administratif et d’exploitation » 0,76 % maximum (identique à la factsheet). Indice composite de l'objectif de performance, tel qu'écrit dans les caractéristiques de la factsheet. Duration = « Duration 2,42 » (sensibilité taux 2,05) ; qualité = « Notation moyenne émetteur BB- » (notation moyenne émission BB- également) ; rendement à maturité 5,67 %, au pire 5,21 % ; exposition actions 10,35 %. SFDR article 8 (KID p.3 : « Article 8 SFDR ») ; aucun % durable écrit. Classification Défensif : obligataire à échéance 2028 (haut rendement) avec environ 10 % d'actions via futures, SRI 3. Allocations : Instruments en % d'exposition ; Styles = « STRATÉGIES » en % de l'actif (total 87,40 %) ; Devises, Pays, Maturités, Secteurs et Notations en % de la poche obligations, lus sur graphiques (positions des étiquettes vérifiées) ; Notations = série « Notations émetteurs » (barres claires vérifiées sur le rendu du graphique) ; série « Notations émissions » non reprise : AA 0,00 %, A 0,00 %, BBB 8,65 %, BB 59,79 %, B 30,69 %, NR 0,86 % ; Positions = 10 principaux émetteurs hors monétaire.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "sfdr": "KID p.3",
-    "duration": "factsheet p.2",
-    "qualite_emetteurs": "factsheet p.2",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "204",
+ "isin": "FR0013439890",
+ "nom": "(I/C)LF RENDEMENT GLOBAL 2028 PLUS T C EUR (FMB)",
+ "maison": "La Française Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-05",
+ "date_creation": "2020-12-10",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (fonds à échéance 2028)",
+ "compartiment": "Compartiment de la SICAV de droit français LA FRANCAISE",
+ "gerants": "Akram GHARBI, Aurore LE CROM, Paul TROUSSARD, Andreea JUSSELIN",
+ "encours_millions": "69.03",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.80",
+ "frais_courants": "0.76",
+ "sri": "3",
+ "indice": "15% MSCI World + 85% des obligations à échéance 2028 émises par l'Etat français et libellées en EUR",
+ "classification": "Défensif",
+ "categorie": "Bond Global Target Maturity 2030",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.42",
+ "qualite_emetteurs": "BB-",
+ "disclaimer": "Les chiffres cités ont trait aux années écoulées, et les performances passées ne sont pas un indicateur fiable des performances futures. Ces performances ne tiennent pas compte des commissions et frais liés aux émissions et rachats de parts.",
+ "politique_fr": "STRATEGIE D'INVESTISSEMENT\nL'objectif du fonds est d'obtenir une performance nette de frais supérieure à celle de l'indice de référence composite - 85% de la performance des obligations à échéance 2028 émises par l’Etat français et libellées en EUR + 15% de la performance de l’indice MSCI World, sur la période de placement recommandée de 9 ans à compter de la date de création du fonds jusqu'au 31/12/2028. La rentabilité éventuelle du fonds sera le fruit à la fois de la valorisation des coupons courus des obligations présentes en portefeuille, des variations de capital dues à la fluctuation des taux d'intérêt et des spreads de crédit ainsi que de la valorisation des instruments exposant le fonds au marchés actions.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part T C EUR (KID : « action T C EUR »). Initiateur du DIC et société de gestion : Crédit Mutuel Asset Management (groupe La Française). Date de création = « Date de création : 10/12/2020 » (factsheet, sans préciser fonds ou part). Encours = « Actif sous gestion : 69,03M€ ». Frais de gestion = « Frais de gestion maximum : 0,80% TTC taux maximum » ; frais courants = KID « Frais de gestion et autres frais administratif et d’exploitation » 0,76 % maximum (identique à la factsheet). Indice composite de l'objectif de performance, tel qu'écrit dans les caractéristiques de la factsheet. Duration = « Duration 2,42 » (sensibilité taux 2,05) ; qualité = « Notation moyenne émetteur BB- » (notation moyenne émission BB- également) ; rendement à maturité 5,67 %, au pire 5,21 % ; exposition actions 10,35 %. SFDR article 8 (KID p.3 : « Article 8 SFDR ») ; aucun % durable écrit. Classification Défensif : obligataire à échéance 2028 (haut rendement) avec environ 10 % d'actions via futures, SRI 3. Allocations : Instruments en % d'exposition ; Styles = « STRATÉGIES » en % de l'actif (total 87,40 %) ; Devises, Pays, Maturités, Secteurs et Notations en % de la poche obligations, lus sur graphiques (positions des étiquettes vérifiées) ; Notations = série « Notations émetteurs » (barres claires vérifiées sur le rendu du graphique) ; série « Notations émissions » non reprise : AA 0,00 %, A 0,00 %, BBB 8,65 %, BB 59,79 %, B 30,69 %, NR 0,86 % ; Positions = 10 principaux émetteurs hors monétaire. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part FR0013439817 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.3",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux fixe",
+   "pct": "86.05"
   },
-  "allocations": [
-    {
-      "type": "Instruments",
-      "libelle": "Obligations taux fixe",
-      "pct": "86.05"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Futures actions",
-      "pct": "10.29"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Fonds monétaires",
-      "pct": "8.61"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Liquidités",
-      "pct": "2.72"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Fonds obligataires",
-      "pct": "1.76"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Obligations taux variable",
-      "pct": "1.35"
-    },
-    {
-      "type": "Instruments",
-      "libelle": "Change",
-      "pct": "-0.05"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Crédit HY Euro",
-      "pct": "57.28"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Subordonnées perpétuelles",
-      "pct": "11.71"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Crédit HY US",
-      "pct": "8.82"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Crédit HY autres",
-      "pct": "4.97"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Crédit IG Euro",
-      "pct": "1.75"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Crédit Emergent",
-      "pct": "1.27"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Crédit IG US",
-      "pct": "0.81"
-    },
-    {
-      "type": "Styles",
-      "libelle": "Subordonnées non perpétuelles",
-      "pct": "0.79"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "77.92"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "14.29"
-    },
-    {
-      "type": "Devises",
-      "libelle": "GBP",
-      "pct": "7.78"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "20.13"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Etats-Unis",
-      "pct": "18.30"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume Uni",
-      "pct": "14.66"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "10.23"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "7.71"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suède",
-      "pct": "7.55"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Luxembourg",
-      "pct": "6.65"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "4.20"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgique",
-      "pct": "2.64"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "2.30"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "5.64"
-    },
-    {
-      "type": "Notations",
-      "libelle": "AA",
-      "pct": "1.20"
-    },
-    {
-      "type": "Notations",
-      "libelle": "A",
-      "pct": "5.66"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BBB",
-      "pct": "9.44"
-    },
-    {
-      "type": "Notations",
-      "libelle": "BB",
-      "pct": "49.11"
-    },
-    {
-      "type": "Notations",
-      "libelle": "B",
-      "pct": "29.57"
-    },
-    {
-      "type": "Notations",
-      "libelle": "NR",
-      "pct": "5.02"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2026",
-      "pct": "2.18"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2027",
-      "pct": "7.22"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2028",
-      "pct": "37.75"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2029",
-      "pct": "22.94"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2030",
-      "pct": "18.99"
-    },
-    {
-      "type": "Maturités",
-      "libelle": "2031",
-      "pct": "10.93"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommations Cycliques",
-      "pct": "28.22"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommations non-cycliques",
-      "pct": "20.43"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "15.53"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financières",
-      "pct": "14.75"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communications",
-      "pct": "12.06"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services Publics",
-      "pct": "4.61"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matières Premières",
-      "pct": "2.91"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie",
-      "pct": "0.89"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Diversifiés",
-      "pct": "0.60"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Enel",
-      "pct": "1.88"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Eurofins Scientific SE",
-      "pct": "1.58"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Iliad S.A.",
-      "pct": "1.52"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IHO Verwaltungs GmbH",
-      "pct": "1.50"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Playtech Plc",
-      "pct": "1.42"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Getlink Se",
-      "pct": "1.41"
-    },
-    {
-      "type": "Positions",
-      "libelle": "GATWICK AIRPORT FINANCE",
-      "pct": "1.39"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Verisure Holding AB",
-      "pct": "1.38"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Banijay Gaming Sas",
-      "pct": "1.35"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Adt Corp",
-      "pct": "1.32"
-    }
-  ]
+  {
+   "type": "Instruments",
+   "libelle": "Futures actions",
+   "pct": "10.29"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Fonds monétaires",
+   "pct": "8.61"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités",
+   "pct": "2.72"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Fonds obligataires",
+   "pct": "1.76"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux variable",
+   "pct": "1.35"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Change",
+   "pct": "-0.05"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Crédit HY Euro",
+   "pct": "57.28"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Subordonnées perpétuelles",
+   "pct": "11.71"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Crédit HY US",
+   "pct": "8.82"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Crédit HY autres",
+   "pct": "4.97"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Crédit IG Euro",
+   "pct": "1.75"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Crédit Emergent",
+   "pct": "1.27"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Crédit IG US",
+   "pct": "0.81"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Subordonnées non perpétuelles",
+   "pct": "0.79"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "77.92"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "14.29"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "7.78"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "20.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "18.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume Uni",
+   "pct": "14.66"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "10.23"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "7.71"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "7.55"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "6.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "4.20"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "2.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "2.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "5.64"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "1.20"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "5.66"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "9.44"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "49.11"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "29.57"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "5.02"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2026",
+   "pct": "2.18"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2027",
+   "pct": "7.22"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2028",
+   "pct": "37.75"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2029",
+   "pct": "22.94"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2030",
+   "pct": "18.99"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2031",
+   "pct": "10.93"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommations Cycliques",
+   "pct": "28.22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommations non-cycliques",
+   "pct": "20.43"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "15.53"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "14.75"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "12.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "4.61"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matières Premières",
+   "pct": "2.91"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "0.89"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Diversifiés",
+   "pct": "0.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Enel",
+   "pct": "1.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eurofins Scientific SE",
+   "pct": "1.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Iliad S.A.",
+   "pct": "1.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IHO Verwaltungs GmbH",
+   "pct": "1.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Playtech Plc",
+   "pct": "1.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Getlink Se",
+   "pct": "1.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GATWICK AIRPORT FINANCE",
+   "pct": "1.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Verisure Holding AB",
+   "pct": "1.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banijay Gaming Sas",
+   "pct": "1.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Adt Corp",
+   "pct": "1.32"
+  }
+ ]
 }

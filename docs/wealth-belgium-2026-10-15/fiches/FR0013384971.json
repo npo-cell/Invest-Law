@@ -1,247 +1,247 @@
 {
-  "n": "78",
-  "isin": "FR0013384971",
-  "nom": "(I/C)CM-AM CONVICTIONS S EUR",
-  "maison": "CREDIT MUTUEL ASSET MANAGEMENT",
-  "factsheet_date": "2026-09-30",
-  "kid_date": "2026-09-30",
-  "date_creation": "2006-10-30",
-  "devise": "EUR",
-  "type_fonds": "Actions zone euro",
-  "compartiment": "Compartiment de la SICAV de droit français CM-AM SICAV",
-  "gerants": "Jean-Louis DELHAY, Jean-Luc MENARD",
-  "encours_millions": "3270",
-  "encours_devise": "EUR",
-  "encours_date": "2026-09-30",
-  "frais_gestion": "",
-  "frais_courants": "1.22",
-  "sri": "4",
-  "indice": "Euro Stoxx Net Return",
-  "classification": "Dynamique",
-  "categorie": "",
-  "sfdr": "",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les chiffres cités ont trait aux années écoulées, et les performances passées ne sont pas un indicateur fiable des performances futures. Ces performances ne tiennent pas compte des commissions et frais liés aux émissions et rachats de parts.",
-  "politique_fr": "STRATEGIE D'INVESTISSEMENT\nCet OPCVM est géré activement et de manière discrétionnaire. Il a pour objectif de gestion la recherche d’une performance annuelle nette de frais supérieure à celle de son indicateur de référence EURO STOXX Net Return sur la durée de placement recommandée. La composition de l’OPCVM peut s’écarter significativement de la répartition de l’indicateur. L’indice est retenu en cours de clôture et exprimé en euro, dividendes réinvestis.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Nom des documents : « CM-AM CONVICTIONS EURO » (action S) ; nom One Life « CM-AM CONVICTIONS S EUR ». Géré jusqu’à la VL du 28/05/2019 par Milleis Investissements. Date de création « 30/10/2006 » (caractéristiques de la factsheet) : le document ne précise pas s’il s’agit de la part S ou du fonds (probablement la date du fonds) — à confirmer. Encours = « Actif sous gestion : 3,27Md€ » (= 3270 M€, sans date propre → date de la factsheet). Frais de gestion : la factsheet indique seulement « Frais de gestion maximum : 1,5% TTC maximum » (taux maximum, non repris) ; frais courants = « Frais de gestion et autres frais administratif et d’exploitation : 1.22% » (factsheet), identique au KID (1,22 %) ; droits d’entrée max 2 %. Indice « Euro Stoxx Net Return » (objectif de surperformance, factsheet et KID). SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR : aucun article indiqué pour ce fonds (la factsheet ne contient qu’une définition générale des articles 6/8/9) → vide. Classification Dynamique : actions zone euro, SRI 4. Allocations : secteurs, pays et devises « En % de la poche actions » (colonne Fonds ; la pondération relative à l’indice n’est pas reprise) ; classes d’actifs = « Types d’instrument » en % actif ; positions « Hors monétaire ».",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "factsheet p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.2",
-    "indice": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "factsheet p.1"
+ "n": "78",
+ "isin": "FR0013384971",
+ "nom": "(I/C)CM-AM CONVICTIONS S EUR",
+ "maison": "CREDIT MUTUEL ASSET MANAGEMENT",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-30",
+ "date_creation": "2006-10-30",
+ "devise": "EUR",
+ "type_fonds": "Actions zone euro",
+ "compartiment": "Compartiment de la SICAV de droit français CM-AM SICAV",
+ "gerants": "Jean-Louis DELHAY, Jean-Luc MENARD",
+ "encours_millions": "3270",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.22",
+ "sri": "4",
+ "indice": "Euro Stoxx Net Return",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les chiffres cités ont trait aux années écoulées, et les performances passées ne sont pas un indicateur fiable des performances futures. Ces performances ne tiennent pas compte des commissions et frais liés aux émissions et rachats de parts.",
+ "politique_fr": "STRATEGIE D'INVESTISSEMENT\nCet OPCVM est géré activement et de manière discrétionnaire. Il a pour objectif de gestion la recherche d’une performance annuelle nette de frais supérieure à celle de son indicateur de référence EURO STOXX Net Return sur la durée de placement recommandée. La composition de l’OPCVM peut s’écarter significativement de la répartition de l’indicateur. L’indice est retenu en cours de clôture et exprimé en euro, dividendes réinvestis.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nom des documents : « CM-AM CONVICTIONS EURO » (action S) ; nom One Life « CM-AM CONVICTIONS S EUR ». Géré jusqu’à la VL du 28/05/2019 par Milleis Investissements. Date de création « 30/10/2006 » (caractéristiques de la factsheet) : le document ne précise pas s’il s’agit de la part S ou du fonds (probablement la date du fonds) — à confirmer. Encours = « Actif sous gestion : 3,27Md€ » (= 3270 M€, sans date propre → date de la factsheet). Frais de gestion : la factsheet indique seulement « Frais de gestion maximum : 1,5% TTC maximum » (taux maximum, non repris) ; frais courants = « Frais de gestion et autres frais administratif et d’exploitation : 1.22% » (factsheet), identique au KID (1,22 %) ; droits d’entrée max 2 %. Indice « Euro Stoxx Net Return » (objectif de surperformance, factsheet et KID). SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR : aucun article indiqué pour ce fonds (la factsheet ne contient qu’une définition générale des articles 6/8/9) → vide. Classification Dynamique : actions zone euro, SRI 4. Allocations : secteurs, pays et devises « En % de la poche actions » (colonne Fonds ; la pondération relative à l’indice n’est pas reprise) ; classes d’actifs = « Types d’instrument » en % actif ; positions « Hors monétaire ».",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions en direct",
+   "pct": "95.84"
   },
-  "allocations": [
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Actions en direct",
-      "pct": "95.84"
-    },
-    {
-      "type": "Classes d'actifs",
-      "libelle": "Liquidités",
-      "pct": "4.16"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Finance",
-      "pct": "32.71"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industrie",
-      "pct": "26.27"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologie de l'information",
-      "pct": "16.04"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "6.01"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "5.14"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation Discrétionnaire",
-      "pct": "3.57"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services aux Collectivités",
-      "pct": "3.37"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "3.16"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Biens de Consommation de Base",
-      "pct": "2.82"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services de communication",
-      "pct": "0.91"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.00"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "23.29"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "21.38"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "20.36"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "11.48"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "9.65"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Irlande",
-      "pct": "3.16"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Belgique",
-      "pct": "2.57"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suisse",
-      "pct": "2.49"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autriche",
-      "pct": "1.87"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume Uni",
-      "pct": "1.26"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "2.48"
-    },
-    {
-      "type": "Devises",
-      "libelle": "EUR",
-      "pct": "95.72"
-    },
-    {
-      "type": "Devises",
-      "libelle": "CHF",
-      "pct": "2.49"
-    },
-    {
-      "type": "Devises",
-      "libelle": "GBP",
-      "pct": "1.26"
-    },
-    {
-      "type": "Devises",
-      "libelle": "USD",
-      "pct": "0.36"
-    },
-    {
-      "type": "Devises",
-      "libelle": "DKK",
-      "pct": "0.17"
-    },
-    {
-      "type": "Devises",
-      "libelle": "CAD",
-      "pct": "0.00"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Asml Holding Nv",
-      "pct": "9.44"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Siemens Ag-reg",
-      "pct": "5.50"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Schneider Sa",
-      "pct": "4.28"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Banco Santander Central Hisp",
-      "pct": "3.77"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Unicredit Spa",
-      "pct": "3.36"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Safran Sa",
-      "pct": "3.26"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Allianz Se-reg",
-      "pct": "2.83"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Air Liquide",
-      "pct": "2.83"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Iberdrola Sa",
-      "pct": "2.62"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Sap Se",
-      "pct": "2.54"
-    }
-  ]
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "4.16"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "32.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "26.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "16.04"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "6.01"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "3.57"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "3.37"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "3.16"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "2.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "0.91"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "23.29"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "21.38"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "20.36"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "11.48"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "9.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "3.16"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "2.57"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "2.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autriche",
+   "pct": "1.87"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume Uni",
+   "pct": "1.26"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "2.48"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "95.72"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "2.49"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "1.26"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "0.36"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "0.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "0.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Asml Holding Nv",
+   "pct": "9.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Siemens Ag-reg",
+   "pct": "5.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Sa",
+   "pct": "4.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander Central Hisp",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Unicredit Spa",
+   "pct": "3.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Safran Sa",
+   "pct": "3.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz Se-reg",
+   "pct": "2.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide",
+   "pct": "2.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Iberdrola Sa",
+   "pct": "2.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sap Se",
+   "pct": "2.54"
+  }
+ ]
 }

@@ -1,218 +1,218 @@
 {
-  "n": "293",
-  "isin": "LU2380233515",
-  "nom": "(I/C)SCHRODER ISF GLOBAL SUST FOOD AND WATER C USD",
-  "maison": "Schroder Investment Management (Europe) S.A.",
-  "factsheet_date": "2026-08-31",
-  "kid_date": "2026-09-29",
-  "date_creation": "2021-10-05",
-  "devise": "USD",
-  "type_fonds": "Actions thématiques (alimentation et eau durables)",
-  "compartiment": "un compartiment de Schroder International Selection Fund",
-  "gerants": "Alex Monk, Mark Lacey",
-  "encours_millions": "53.29",
-  "encours_devise": "USD",
-  "encours_date": "2026-08-31",
-  "frais_gestion": "",
-  "frais_courants": "1.06",
-  "sri": "4",
-  "indice": "",
-  "classification": "Agressif",
-  "categorie": "",
-  "sfdr": "9",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
-  "politique_fr": "Objectif d'investissement\nLe fonds vise à générer une croissance du capital en investissant dans des actions de sociétés du monde entier qui soutiennent la transition vers un approvisionnement durable en nourriture et en eau et que le gestionnaire d'investissement considère comme des investissements durables.\n\nLe fonds est géré activement et investit son actif dans (i) des investissements durables, à savoir des investissements dont le gestionnaire d'investissement attend qu'ils contribuent à la fourniture d'aliments et d'eau durables, y compris la gestion de l'eau, les équipements agricoles, les intrants agricoles, la sécurité alimentaire, la production alimentaire, la transformation, le conditionnement et la distribution de produits alimentaires, ainsi que la vente au détail et le recyclage des aliments et de l'eau, et (ii) des investissements que le gestionnaire d'investissement considère comme neutres au regard de ses critères de durabilité.\n\nLe fonds investit au moins les deux tiers de son actif dans une gamme concentrée de sociétés du monde entier. De manière générale, le fonds détient entre 35 et 60 sociétés en portefeuille.\n\nLe fonds peut également investir, directement ou indirectement, jusqu'à un tiers de son actif dans d'autres titres (y compris d'autres catégories d'actifs), pays, régions, secteurs ou devises, fonds d'investissement, warrants et placements du marché monétaire, et détenir des liquidités (dans les limites énoncées dans l'annexe I du prospectus du fonds).\n\nLe fonds peut utiliser des produits dérivés dans le but de réduire les risques ou de gérer le fonds de manière plus efficace.\n\nLe fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents.\n\nLe fonds n'investit pas directement dans un certain nombre d'activités, de secteurs ou de groupes d'émetteurs au-delà des limites indiquées dans la section « Informations en matière de durabilité » de la page Web du fonds, accessible via https://www.schroders.com/en/lu/private-investor/gfc.\n\nLe fonds investit dans des sociétés qui ne causent pas de préjudice environnemental ou social important et qui ont de bonnes pratiques en matière de gouvernance, telles que déterminées par les critères de notation du gestionnaire d'investissement. Le gestionnaire d'investissement peut également prendre contact avec des sociétés détenues par le fonds pour susciter la remise en question des points faibles identifiés en matière de durabilité. Pour de plus amples informations concernant l'approche du gestionnaire d'investissement en matière de durabilité et son engagement avec les sociétés, veuillez consulter la page Web suivante : https://www.schroders.com/en/lu/private-investor/strategic-capabilities/sustainability/disclosures.\n\nIndice de référence : Le fonds n'a pas d'indice de référence cible. Les performances du fonds devront être comparées à celles de l'indice MSCI AC World (Net TR) Index. L'indice de référence comparateur n'est inclus qu'à des fins de comparaison des performances et n'a aucune influence sur la manière dont le gestionnaire d'investissement investit les actifs du fonds. L'univers d'investissement du fonds devrait se recouper de manière significative avec les composantes de l'indice de référence comparateur. Le gestionnaire d'investissement investit de manière discrétionnaire, et il n'existe aucune restriction quant à la mesure dans laquelle le portefeuille et la performance du fonds peuvent s'écarter de l'indice de référence comparateur. Le ou les indices de référence ne tient/tiennent pas compte des caractéristiques environnementales et sociales ou de l'objectif durable (selon le cas) du fonds. Veuillez vous reporter à l'annexe III du prospectus du fonds pour plus de détails.",
-  "politique_en": "",
-  "source_politique": "KID",
-  "remarques": "Date de la factsheet : aucune date explicite dans le document (performances jusqu'à « Août 25 - Août 26 ») ; 2026-08-31 repris du nom du fichier. Indice vide : le KID indique « Le fonds n'a pas d'indice de référence cible » ; le MSCI AC World (Net TR) Index (« MSCI ACWI NR » dans la factsheet) sert seulement à la comparaison des performances. Politique : la factsheet ne donne que l'objectif et renvoie au KID → section « Objectif d'investissement » + « Indice de référence » du KID p.1. Frais courants = KID 1,06 % (la factsheet indique « Frais courants 1,09% ») ; frais de gestion non indiqués. Date de création = date de lancement de la catégorie de parts 05.10.2021 (identique au fonds). Encours « Taille du fonds (en millions) USD 53,29 ». SFDR article 9, aucun % d'investissements durables écrit. Classification Agressif : actions thématiques (alimentation et eau), SRI 4. Allocations : seules les valeurs du fonds (colonne « Indice de comparaison » écartée) ; lignes à 0,0 pour le fonds non reprises (Immobilier, Services aux collectivités, Énergie, Services de communication, Santé, Consommation cyclique, Finance ; Autres et Marchés émergents en région).",
-  "sources": {
-    "kid_date": "KID p.1",
-    "date_creation": "factsheet p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "encours_devise": "factsheet p.1",
-    "frais_courants": "KID p.3",
-    "sri": "KID p.2",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.1",
-    "politique_fr": "KID p.1",
-    "source_politique": "KID p.1"
+ "n": "293",
+ "isin": "LU2380233515",
+ "nom": "(I/C)SCHRODER ISF GLOBAL SUST FOOD AND WATER C USD",
+ "maison": "Schroder Investment Management (Europe) S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-29",
+ "date_creation": "2021-10-05",
+ "devise": "USD",
+ "type_fonds": "Actions thématiques (alimentation et eau durables)",
+ "compartiment": "un compartiment de Schroder International Selection Fund",
+ "gerants": "Alex Monk, Mark Lacey",
+ "encours_millions": "53.29",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.06",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "Equity Global Agribusiness",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances antérieures ne constituent pas un indicateur des performances futures et peuvent ne pas se répéter. La valeur des investissements et le revenu qu’ils génèrent peuvent évoluer à la hausse comme à la baisse. Les investisseurs peuvent ne pas récupérer l’intégralité des montants initialement investis.",
+ "politique_fr": "Objectif d'investissement\nLe fonds vise à générer une croissance du capital en investissant dans des actions de sociétés du monde entier qui soutiennent la transition vers un approvisionnement durable en nourriture et en eau et que le gestionnaire d'investissement considère comme des investissements durables.\n\nLe fonds est géré activement et investit son actif dans (i) des investissements durables, à savoir des investissements dont le gestionnaire d'investissement attend qu'ils contribuent à la fourniture d'aliments et d'eau durables, y compris la gestion de l'eau, les équipements agricoles, les intrants agricoles, la sécurité alimentaire, la production alimentaire, la transformation, le conditionnement et la distribution de produits alimentaires, ainsi que la vente au détail et le recyclage des aliments et de l'eau, et (ii) des investissements que le gestionnaire d'investissement considère comme neutres au regard de ses critères de durabilité.\n\nLe fonds investit au moins les deux tiers de son actif dans une gamme concentrée de sociétés du monde entier. De manière générale, le fonds détient entre 35 et 60 sociétés en portefeuille.\n\nLe fonds peut également investir, directement ou indirectement, jusqu'à un tiers de son actif dans d'autres titres (y compris d'autres catégories d'actifs), pays, régions, secteurs ou devises, fonds d'investissement, warrants et placements du marché monétaire, et détenir des liquidités (dans les limites énoncées dans l'annexe I du prospectus du fonds).\n\nLe fonds peut utiliser des produits dérivés dans le but de réduire les risques ou de gérer le fonds de manière plus efficace.\n\nLe fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents.\n\nLe fonds n'investit pas directement dans un certain nombre d'activités, de secteurs ou de groupes d'émetteurs au-delà des limites indiquées dans la section « Informations en matière de durabilité » de la page Web du fonds, accessible via https://www.schroders.com/en/lu/private-investor/gfc.\n\nLe fonds investit dans des sociétés qui ne causent pas de préjudice environnemental ou social important et qui ont de bonnes pratiques en matière de gouvernance, telles que déterminées par les critères de notation du gestionnaire d'investissement. Le gestionnaire d'investissement peut également prendre contact avec des sociétés détenues par le fonds pour susciter la remise en question des points faibles identifiés en matière de durabilité. Pour de plus amples informations concernant l'approche du gestionnaire d'investissement en matière de durabilité et son engagement avec les sociétés, veuillez consulter la page Web suivante : https://www.schroders.com/en/lu/private-investor/strategic-capabilities/sustainability/disclosures.\n\nIndice de référence : Le fonds n'a pas d'indice de référence cible. Les performances du fonds devront être comparées à celles de l'indice MSCI AC World (Net TR) Index. L'indice de référence comparateur n'est inclus qu'à des fins de comparaison des performances et n'a aucune influence sur la manière dont le gestionnaire d'investissement investit les actifs du fonds. L'univers d'investissement du fonds devrait se recouper de manière significative avec les composantes de l'indice de référence comparateur. Le gestionnaire d'investissement investit de manière discrétionnaire, et il n'existe aucune restriction quant à la mesure dans laquelle le portefeuille et la performance du fonds peuvent s'écarter de l'indice de référence comparateur. Le ou les indices de référence ne tient/tiennent pas compte des caractéristiques environnementales et sociales ou de l'objectif durable (selon le cas) du fonds. Veuillez vous reporter à l'annexe III du prospectus du fonds pour plus de détails.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Date de la factsheet : aucune date explicite dans le document (performances jusqu'à « Août 25 - Août 26 ») ; 2026-08-31 repris du nom du fichier. Indice vide : le KID indique « Le fonds n'a pas d'indice de référence cible » ; le MSCI AC World (Net TR) Index (« MSCI ACWI NR » dans la factsheet) sert seulement à la comparaison des performances. Politique : la factsheet ne donne que l'objectif et renvoie au KID → section « Objectif d'investissement » + « Indice de référence » du KID p.1. Frais courants = KID 1,06 % (la factsheet indique « Frais courants 1,09% ») ; frais de gestion non indiqués. Date de création = date de lancement de la catégorie de parts 05.10.2021 (identique au fonds). Encours « Taille du fonds (en millions) USD 53,29 ». SFDR article 9, aucun % d'investissements durables écrit. Classification Agressif : actions thématiques (alimentation et eau), SRI 4. Allocations : seules les valeurs du fonds (colonne « Indice de comparaison » écartée) ; lignes à 0,0 pour le fonds non reprises (Immobilier, Services aux collectivités, Énergie, Services de communication, Santé, Consommation cyclique, Finance ; Autres et Marchés émergents en région). | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU2380233275 du même fonds.",
+ "sources": {
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non cyclique",
+   "pct": "43.3"
   },
-  "allocations": [
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation non cyclique",
-      "pct": "43.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériaux",
-      "pct": "23.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Valeurs industrielles",
-      "pct": "23.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Actifs liquides",
-      "pct": "7.3"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies de l’information",
-      "pct": "2.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "États-Unis",
-      "pct": "37.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Norvège",
-      "pct": "17.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "11.2"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Actifs liquides",
-      "pct": "7.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Irlande",
-      "pct": "5.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "3.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "2.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Danemark",
-      "pct": "2.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Canada",
-      "pct": "2.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "2.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Finlande",
-      "pct": "1.9"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Singapour",
-      "pct": "1.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "4.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Amériques",
-      "pct": "39.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Europe hors R.-U. / Moyen-Orient",
-      "pct": "38.9"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Royaume-Uni",
-      "pct": "11.2"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Actifs liquides",
-      "pct": "7.3"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Pacifique hors Japon",
-      "pct": "1.8"
-    },
-    {
-      "type": "Zones géographiques",
-      "libelle": "Japon",
-      "pct": "1.4"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Nutrien Ltd",
-      "pct": "4.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "DSM-Firmenich AG",
-      "pct": "3.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Yara International ASA",
-      "pct": "3.6"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mowi ASA",
-      "pct": "3.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "J Sainsbury PLC",
-      "pct": "3.1"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Graphic Packaging Holding Co",
-      "pct": "3.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Mosaic Co/The",
-      "pct": "3.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Kerry Group PLC",
-      "pct": "3.0"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Carrefour SA",
-      "pct": "2.9"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Schouw & Co A/S",
-      "pct": "2.9"
-    }
-  ]
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "23.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "23.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Actifs liquides",
+   "pct": "7.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "37.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Norvège",
+   "pct": "17.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "11.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Actifs liquides",
+   "pct": "7.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "5.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "2.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "2.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "1.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "4.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amériques",
+   "pct": "39.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe hors R.-U. / Moyen-Orient",
+   "pct": "38.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "11.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actifs liquides",
+   "pct": "7.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nutrien Ltd",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DSM-Firmenich AG",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Yara International ASA",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mowi ASA",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "J Sainsbury PLC",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Graphic Packaging Holding Co",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mosaic Co/The",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kerry Group PLC",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Carrefour SA",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schouw & Co A/S",
+   "pct": "2.9"
+  }
+ ]
 }

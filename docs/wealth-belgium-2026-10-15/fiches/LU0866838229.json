@@ -1,199 +1,199 @@
 {
-  "n": "22",
-  "isin": "LU0866838229",
-  "nom": "(I/C)ALKEN ABSOLUTE RETURN EUROPE EU1 EUR",
-  "maison": "AFFM S.A.",
-  "factsheet_date": "2026-07-31",
-  "kid_date": "2026-02-20",
-  "date_creation": "",
-  "devise": "EUR",
-  "type_fonds": "Actions européennes long/short (performance absolue)",
-  "compartiment": "Un compartiment de la SICAV Alken Fund (Fonds)",
-  "gerants": "Nicolas Walewski, Marc Festa",
-  "encours_millions": "123",
-  "encours_devise": "EUR",
-  "encours_date": "2026-07-31",
-  "frais_gestion": "1.10",
-  "frais_courants": "1.45",
-  "sri": "3",
-  "indice": "Aucun",
-  "classification": "Equilibré",
-  "categorie": "",
-  "sfdr": "8",
-  "durable_pct": "",
-  "duration": "",
-  "qualite_emetteurs": "",
-  "disclaimer": "Les performances passées présentées dans ce document ne constituent pas un indicateur ou une garantie fiable des performances futures. Toute souscription dans le Fonds comporte des risques, y compris la perte éventuelle du montant principal investi.",
-  "politique_fr": "Objectif et Univers d'investissement\nVise une appréciation du capital et une performance absolue sur le long terme au travers d’expositions longues et courtes sur les marchés européens. Le portefeuille du fonds est géré activement sur les marchés actions via des expositions longues et courtes, principalement via des valeurs mobilières, des dérivés financiers linéaires « delta one » (i.e. des contrats de différence (CFD) ou des swaps de portefeuille) et des futures sur indices.",
-  "politique_en": "",
-  "source_politique": "Factsheet",
-  "remarques": "Factsheet FR du 31/07/2026 (la plus récente trouvée), réservée aux investisseurs professionnels. Date de création laissée vide : la factsheet donne « Date de lancement Feb-13 » pour la part EU1 (sans jour) et « 18 Decembre 2012 » pour le lancement de la performance. Encours = « Actif du fonds: EUR 123m ». Frais de gestion = « Frais de Gestion : 1.10% » (parts EU1, US1, CH1, GB1) ; commission de surperformance 20 % (par rapport au highwatermark) ; frais courants = KID « Coûts de gestion et autres coûts administratifs et opérationnels 1.45% ». Indice « Aucun » : le KID indique « géré de manière active sans référence à un indice de référence ». SFDR article 8 (factsheet « Art.8 » et KID). Classification Equilibré : fonds actions long/short à performance absolue, exposition nette 30,0 % (longue 83,8 %, courte -53,8 %, brute 137,6 %), SRI 3. Allocations : expositions nettes (valeurs négatives gardées) ; « Cinq Principales Positions » anonymisées par secteur telles qu'écrites ; capitalisations lues sur le graphique (étiquettes associées par position horizontale : Mega Cap -34,4 %, Large Cap 13,0 %, Mid Cap 46,9 %, Small Cap 4,5 %) ; contributions non reprises.",
-  "sources": {
-    "factsheet_date": "factsheet p.1",
-    "kid_date": "KID p.1",
-    "devise": "factsheet p.1",
-    "compartiment": "KID p.1",
-    "gerants": "factsheet p.1",
-    "encours_millions": "factsheet p.1",
-    "frais_gestion": "factsheet p.1",
-    "frais_courants": "KID p.2",
-    "sri": "KID p.1",
-    "indice": "KID p.1",
-    "sfdr": "factsheet p.1",
-    "disclaimer": "factsheet p.3",
-    "politique_fr": "factsheet p.1",
-    "source_politique": "factsheet p.1"
+ "n": "22",
+ "isin": "LU0866838229",
+ "nom": "(I/C)ALKEN ABSOLUTE RETURN EUROPE EU1 EUR",
+ "maison": "AFFM S.A.",
+ "factsheet_date": "2026-07-31",
+ "kid_date": "2026-02-20",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes long/short (performance absolue)",
+ "compartiment": "Un compartiment de la SICAV Alken Fund (Fonds)",
+ "gerants": "Nicolas Walewski, Marc Festa",
+ "encours_millions": "123",
+ "encours_devise": "EUR",
+ "encours_date": "2026-07-31",
+ "frais_gestion": "1.10",
+ "frais_courants": "1.45",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "Alternative Europe Absolute Return",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées présentées dans ce document ne constituent pas un indicateur ou une garantie fiable des performances futures. Toute souscription dans le Fonds comporte des risques, y compris la perte éventuelle du montant principal investi.",
+ "politique_fr": "Objectif et Univers d'investissement\nVise une appréciation du capital et une performance absolue sur le long terme au travers d’expositions longues et courtes sur les marchés européens. Le portefeuille du fonds est géré activement sur les marchés actions via des expositions longues et courtes, principalement via des valeurs mobilières, des dérivés financiers linéaires « delta one » (i.e. des contrats de différence (CFD) ou des swaps de portefeuille) et des futures sur indices.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR du 31/07/2026 (la plus récente trouvée), réservée aux investisseurs professionnels. Date de création laissée vide : la factsheet donne « Date de lancement Feb-13 » pour la part EU1 (sans jour) et « 18 Decembre 2012 » pour le lancement de la performance. Encours = « Actif du fonds: EUR 123m ». Frais de gestion = « Frais de Gestion : 1.10% » (parts EU1, US1, CH1, GB1) ; commission de surperformance 20 % (par rapport au highwatermark) ; frais courants = KID « Coûts de gestion et autres coûts administratifs et opérationnels 1.45% ». Indice « Aucun » : le KID indique « géré de manière active sans référence à un indice de référence ». SFDR article 8 (factsheet « Art.8 » et KID). Classification Equilibré : fonds actions long/short à performance absolue, exposition nette 30,0 % (longue 83,8 %, courte -53,8 %, brute 137,6 %), SRI 3. Allocations : expositions nettes (valeurs négatives gardées) ; « Cinq Principales Positions » anonymisées par secteur telles qu'écrites ; capitalisations lues sur le graphique (étiquettes associées par position horizontale : Mega Cap -34,4 %, Large Cap 13,0 %, Mid Cap 46,9 %, Small Cap 4,5 %) ; contributions non reprises. | Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (31/03/2026), reprise de la part LU0572586591 du même fonds.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "C. Services (single stock)",
+   "pct": "9.2"
   },
-  "allocations": [
-    {
-      "type": "Positions",
-      "libelle": "C. Services (single stock)",
-      "pct": "9.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IT (single stock)",
-      "pct": "5.2"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Financials (single stock)",
-      "pct": "3.8"
-    },
-    {
-      "type": "Positions",
-      "libelle": "IT (single stock)",
-      "pct": "3.5"
-    },
-    {
-      "type": "Positions",
-      "libelle": "Industrials (single stock)",
-      "pct": "3.5"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Communication",
-      "pct": "11.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Technologies",
-      "pct": "8.9"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Industriel",
-      "pct": "7.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Energie",
-      "pct": "5.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation Discrétionnaire",
-      "pct": "3.2"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Services Publics",
-      "pct": "2.7"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Matériels",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Immobilier",
-      "pct": "0.0"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Financières",
-      "pct": "-1.6"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Consommation de Base",
-      "pct": "-2.8"
-    },
-    {
-      "type": "Secteurs",
-      "libelle": "Santé",
-      "pct": "-4.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Royaume-Uni",
-      "pct": "14.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "France",
-      "pct": "11.6"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Autres",
-      "pct": "10.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Danemark",
-      "pct": "4.1"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suisse",
-      "pct": "1.7"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Pays-Bas",
-      "pct": "1.5"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Italie",
-      "pct": "0.8"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Suède",
-      "pct": "-0.3"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Espagne",
-      "pct": "-3.0"
-    },
-    {
-      "type": "Pays",
-      "libelle": "Allemagne",
-      "pct": "-11.3"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Mega Cap",
-      "pct": "-34.4"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Large Cap",
-      "pct": "13.0"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Mid Cap",
-      "pct": "46.9"
-    },
-    {
-      "type": "Capitalisations",
-      "libelle": "Small Cap",
-      "pct": "4.5"
-    }
-  ]
+  {
+   "type": "Positions",
+   "libelle": "IT (single stock)",
+   "pct": "5.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Financials (single stock)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IT (single stock)",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrials (single stock)",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication",
+   "pct": "11.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies",
+   "pct": "8.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industriel",
+   "pct": "7.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "-1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de Base",
+   "pct": "-2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "-4.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "14.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "11.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "10.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "4.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "1.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "1.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "0.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "-0.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "-3.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "-11.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega Cap",
+   "pct": "-34.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large Cap",
+   "pct": "13.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mid Cap",
+   "pct": "46.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small Cap",
+   "pct": "4.5"
+  }
+ ]
 }
