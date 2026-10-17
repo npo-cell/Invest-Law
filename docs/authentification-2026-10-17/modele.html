@@ -1,0 +1,287 @@
+<title>Authentification gamme One Life</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,500;7..72,650&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Rapport de contrôle : verdict d'abord, puis causes, puis registre détaillé filtrable (une colonne, largeur de lecture) */
+:root{
+  --paper:#f6f7f9; --card:#ffffff; --ink:#1b2430; --muted:#5d6878; --rule:#dde2e9; --accent:#2b5b84;
+  --ok:#1f7a4d; --ok-bg:#e3f2ea; --warn:#9a6200; --warn-bg:#fbf0d9; --bad:#b3342b; --bad-bg:#f9e3e1; --none-bg:#eceff3;
+  --f-display:"Literata",Georgia,"Times New Roman",serif; --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#12171d; --card:#1a2028; --ink:#e4e8ee; --muted:#9aa5b4; --rule:#2c3440; --accent:#7fb0dc;
+  --ok:#6cc79a; --ok-bg:#16301f; --warn:#e2b25a; --warn-bg:#352a12; --bad:#ef8a80; --bad-bg:#3a1c1a; --none-bg:#232a33; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#12171d; --card:#1a2028; --ink:#e4e8ee; --muted:#9aa5b4; --rule:#2c3440; --accent:#7fb0dc;
+  --ok:#6cc79a; --ok-bg:#16301f; --warn:#e2b25a; --warn-bg:#352a12; --bad:#ef8a80; --bad-bg:#3a1c1a; --none-bg:#232a33; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:15px/1.55 var(--f-body);}
+.wrap{max-width:1040px;margin:0 auto;padding-block:40px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:40px}
+h1,h2{font-family:var(--f-display);font-weight:650;text-wrap:balance;margin:0;line-height:1.2}
+h1{font-size:clamp(28px,4.4vw,40px)}
+h2{font-size:22px}
+p{margin:0;max-width:68ch}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.mono{font-family:var(--f-mono);font-size:.92em}
+.num{font-variant-numeric:tabular-nums}
+header{display:grid;gap:14px}
+.answer{font-size:17px;max-width:72ch}
+.answer strong{font-weight:600}
+section{display:grid;gap:16px;min-width:0}
+.lead{color:var(--muted);max-width:72ch}
+/* verdict par origine */
+.verdicts{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.vcard{background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:16px;display:grid;gap:10px;align-content:start}
+.vcard h3{margin:0;font-size:15px;font-weight:600}
+.vcard .big{font-family:var(--f-display);font-size:30px;font-weight:650;line-height:1}
+.vcard .big small{font-size:15px;color:var(--muted);font-family:var(--f-body);font-weight:400}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;background:var(--none-bg)}
+.bar span{display:block}
+.legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:13px;color:var(--muted)}
+.dot{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:5px;vertical-align:baseline}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.p-ok{background:var(--ok-bg);color:var(--ok)} .p-part{background:var(--warn-bg);color:var(--warn)}
+.p-fix{background:var(--bad-bg);color:var(--bad)} .p-none{background:var(--none-bg);color:var(--muted)}
+.c-ok{background:var(--ok)} .c-part{background:var(--warn)} .c-fix{background:var(--bad)} .c-none{background:var(--muted);opacity:.45}
+/* chiffres des cases */
+.cells{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:8px;overflow:hidden}
+.cells div{background:var(--card);padding:12px 14px;display:grid;gap:2px}
+.cells b{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.cells span{font-size:13px;color:var(--muted)}
+/* causes */
+.causes{display:grid;gap:12px}
+.cause{background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:14px 16px;display:grid;gap:6px}
+.cause h3{margin:0;font-size:15px;font-weight:600;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.cause p{color:var(--muted);font-size:14px}
+details.more summary{cursor:pointer;color:var(--accent);font-size:14px}
+details.more ul{margin:8px 0 0;padding-left:18px;font-size:13px;display:grid;gap:3px}
+/* champs */
+.fields{display:grid;gap:6px}
+.frow{display:grid;grid-template-columns:minmax(120px,190px) 1fr 74px;gap:10px;align-items:center;font-size:14px}
+.ftrack{display:flex;height:12px;background:var(--none-bg);border-radius:3px;overflow:hidden}
+.ftrack .d{background:var(--bad)} .ftrack .a{background:var(--warn)}
+.frow .n{color:var(--muted);font-size:13px;text-align:right}
+/* méthode */
+ol.method{margin:0;padding-left:20px;display:grid;gap:6px;max-width:76ch}
+/* registre */
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:end}
+.filters label{display:grid;gap:4px;font-size:12px;color:var(--muted);font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+select,input[type=search]{font:inherit;font-size:14px;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:7px 10px;min-width:0}
+input[type=search]{width:min(300px,100%)}
+select:focus-visible,input:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{font-size:14px;color:var(--muted);margin-left:auto}
+.tablebox{overflow-x:auto;background:var(--card);border:1px solid var(--rule);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{position:sticky;top:0;background:var(--card);text-align:left;font-size:12px;color:var(--muted);font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:10px 12px;border-bottom:1px solid var(--rule);white-space:nowrap}
+td{padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
+tr.fund{cursor:pointer}
+tr.fund:hover td{background:color-mix(in srgb,var(--accent) 6%,transparent)}
+tr.fund td:first-child{white-space:nowrap}
+.fname{font-weight:500}
+.sub{color:var(--muted);font-size:12.5px}
+tr.det td{background:color-mix(in srgb,var(--paper) 60%,var(--card));padding:12px 16px 16px}
+.issues{display:grid;gap:8px}
+.issue{display:grid;grid-template-columns:150px 1fr;gap:4px 12px;font-size:13.5px;padding-bottom:8px;border-bottom:1px dashed var(--rule)}
+.issue:last-child{border-bottom:0;padding-bottom:0}
+.issue .k{font-weight:600}
+.issue .k .pill{margin-top:4px}
+.issue dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:2px 10px;min-width:0}
+.issue dt{color:var(--muted)} .issue dd{margin:0;overflow-wrap:anywhere}
+.flag{font-size:13px;margin:0 0 8px;padding:6px 10px;border-radius:6px;background:var(--warn-bg);color:var(--ink)}
+.flag.bad{background:var(--bad-bg)}
+.more-btn{font:inherit;font-size:14px;color:var(--accent);background:none;border:1px solid var(--rule);border-radius:6px;padding:8px 14px;cursor:pointer;justify-self:center}
+@media (max-width:620px){
+  .frow{grid-template-columns:110px 1fr 64px}
+  .issue{grid-template-columns:1fr}
+  .hide-sm{display:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Contrôle du 17/10/2026 · classeur « Gamme One Life complète »</div>
+    <h1>Authentification de la gamme One Life</h1>
+    <p class="answer" id="answer"></p>
+  </header>
+
+  <section aria-labelledby="h-origine">
+    <h2 id="h-origine">Verdict par origine des fiches</h2>
+    <p class="lead">Une fiche est authentifiée quand chaque case vérifiable se retrouve dans sa factsheet la plus récente ou dans son KID, et que ses allocations correspondent.</p>
+    <div class="verdicts" id="verdicts"></div>
+    <div class="legend">
+      <span><i class="dot c-ok"></i>Authentifiée</span>
+      <span><i class="dot c-part"></i>Source incomplète : des cases n'apparaissent dans aucun des deux documents</span>
+      <span><i class="dot c-fix"></i>À corriger : au moins une valeur contredit le document</span>
+      <span><i class="dot c-none"></i>Sans document</span>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-cases">
+    <h2 id="h-cases">Les cases une par une</h2>
+    <div class="cells" id="cells"></div>
+    <p class="lead" id="cells-note"></p>
+  </section>
+
+  <section aria-labelledby="h-causes">
+    <h2 id="h-causes">D'où viennent les écarts</h2>
+    <div class="causes" id="causes"></div>
+  </section>
+
+  <section aria-labelledby="h-champs">
+    <h2 id="h-champs">Champs les plus touchés</h2>
+    <p class="lead">Nombre de cases par champ. <span style="color:var(--bad)">■</span> contredit le document, <span style="color:var(--warn)">■</span> absent des deux documents.</p>
+    <div class="fields" id="fields"></div>
+  </section>
+
+  <section aria-labelledby="h-registre">
+    <h2 id="h-registre">Registre des 852 fonds</h2>
+    <div class="filters">
+      <label for="f-origine">Origine
+        <select id="f-origine">
+          <option value="">Toutes</option>
+          <option value="site">Fiches invest-law.eu</option>
+          <option value="wb">Préparées Wealth Belgium</option>
+          <option value="new">Préparées le 16/10</option>
+          <option value="none">Sans document</option>
+        </select></label>
+      <label for="f-verdict">Verdict
+        <select id="f-verdict">
+          <option value="">Tous</option>
+          <option value="fix">À corriger</option>
+          <option value="part">Source incomplète</option>
+          <option value="ok">Authentifiée</option>
+          <option value="none">Sans document</option>
+        </select></label>
+      <label for="f-fresh">Factsheet
+        <select id="f-fresh">
+          <option value="">Toutes</option>
+          <option value="old">Une plus récente existe</option>
+        </select></label>
+      <label for="f-q">Recherche
+        <input type="search" id="f-q" placeholder="Nom ou ISIN"></label>
+      <span class="count num" id="count"></span>
+    </div>
+    <div class="tablebox">
+      <table>
+        <thead><tr><th>Verdict</th><th>Fonds</th><th class="hide-sm">Origine</th><th class="hide-sm">Factsheet</th><th>Cases conformes</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <button class="more-btn" id="more" type="button" hidden>Afficher plus</button>
+  </section>
+
+  <section aria-labelledby="h-methode">
+    <h2 id="h-methode">Comment le contrôle a été fait</h2>
+    <ol class="method">
+      <li>Pour chaque fonds, la factsheet utilisée dans le classeur (la dernière publiée sur invest-law.eu, ou celle rangée dans le dépôt) et le KID ont été lus. Pour les fiches du site, le KID publié sur fundinfo a été ajouté.</li>
+      <li>Un script a cherché chaque case remplie dans le texte de ces documents : dates sous toutes leurs écritures, nombres avec virgule ou point, phrases des textes une à une, SRI, article SFDR, gérants, libellés et pourcentages d'allocation. 7 853 cases ont été retrouvées ainsi.</li>
+      <li>Les 1 685 cases et 384 blocs d'allocations non retrouvés ont été relus un par un dans les PDF, images des pages comprises, par huit relecteurs travaillant chacun sur 71 fonds. Chaque verdict porte une note avec la page ou la formulation exacte du document.</li>
+      <li>La fraîcheur des documents a été comparée à la liste fundinfo des rapports mensuels et KID disponibles en français ou en anglais.</li>
+      <li>Le type de fonds et la classification (Défensif à Agressif) sont des synthèses : ils ont été contrôlés par cohérence avec le SRI, pas par recopie. La catégorie est contrôlée contre le fichier OneLife Fund Classification.</li>
+    </ol>
+  </section>
+</div>
+
+<script>
+const D=/*DATA*/null;
+const M=/*META*/null;
+const ORIG={site:'invest-law.eu',wb:'Wealth Belgium',new:'Préparée le 16/10',none:'Sans document'};
+const VLAB={ok:'Authentifiée',part:'Source incomplète',fix:'À corriger',none:'Sans document'};
+const fmt=n=>n.toLocaleString('fr-FR');
+const pct=(a,b)=>b?Math.round(a/b*100):0;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fdate=s=>s?s.split('-').reverse().join('/'):'—';
+const by=(o)=>{const c={ok:0,part:0,fix:0,none:0};D.filter(x=>o.includes(x.o)).forEach(x=>c[x.v]++);return c};
+
+/* réponse */
+const prep=by(['wb','new']),site=by(['site']);
+const prepN=prep.ok+prep.part+prep.fix,siteN=site.ok+site.part+site.fix;
+const fresh=D.filter(x=>x.fr).length,freshSite=D.filter(x=>x.fr&&x.o==='site').length;
+document.getElementById('answer').innerHTML=
+ `<strong>Les fiches que nous avons préparées sont correctes</strong> : ${fmt(prep.ok)} sur ${fmt(prepN)} (Wealth Belgium et fiches du 16/10) reprennent fidèlement leur factsheet ou leur KID. `+
+ `<strong>Les fiches déjà en ligne sur invest-law.eu ne le sont qu'en partie</strong> : ${fmt(site.ok)} sur ${fmt(siteN)} sont authentifiées, ${fmt(site.fix)} contiennent au moins une valeur qui contredit le document et ${fmt(site.part)} ont des cases qui ne figurent dans aucun des deux. `+
+ `Par ailleurs, ${fmt(fresh)} fonds ont une factsheet plus récente publiée depuis, dont ${fmt(freshSite)} fiches du site.`;
+
+/* cartes */
+const cards=[
+ {t:'Préparées Wealth Belgium',o:['wb']},{t:'Préparées le 16/10',o:['new']},
+ {t:'Fiches invest-law.eu',o:['site']},{t:'Sans document public',o:['none']}];
+document.getElementById('verdicts').innerHTML=cards.map(c=>{
+  const v=by(c.o),n=v.ok+v.part+v.fix+v.none;
+  const main=c.o[0]==='none'?`${fmt(n)} <small>fonds</small>`:`${fmt(v.ok)} <small>sur ${fmt(n)} authentifiées</small>`;
+  const seg=['ok','part','fix','none'].filter(k=>v[k]).map(k=>`<span class="c-${k}" style="width:${v[k]/n*100}%" title="${VLAB[k]} : ${v[k]}"></span>`).join('');
+  const detail=['fix','part','ok','none'].filter(k=>v[k]).map(k=>`<span class="pill p-${k}">${VLAB[k]} ${fmt(v[k])}</span>`).join(' ');
+  return `<div class="vcard"><h3>${c.t}</h3><div class="big num">${main}</div><div class="bar">${seg}</div><div>${detail}</div></div>`}).join('');
+
+/* cases */
+const T=M.tot,tv=T.CONFORME+T.DIFFERENT+T.ABSENT+(T.AUTRE_SOURCE||0);
+document.getElementById('cells').innerHTML=[
+ [T.CONFORME,`conformes (${pct(T.CONFORME,tv)} % des cases vérifiables)`],
+ [T.DIFFERENT,'contredisent le document'],[T.ABSENT,'absentes de la factsheet et du KID'],
+ [T.AUTRE_SOURCE||0,'catégories du site hors fichier One Life'],[T.JUGEMENT,'synthèses (type, classification)'],
+ [M.alloc_lignes,"lignes d'allocation contrôlées"]].map(([n,l])=>`<div><b>${fmt(n)}</b><span>${l}</span></div>`).join('');
+const A=M.alloc;
+document.getElementById('cells-note').textContent=
+ `Allocations, par fonds : ${fmt(A.CONFORME||0)} conformes, ${fmt(A.PARTIEL||0)} partielles, ${fmt(A.DIFFERENT||0)} d'une autre date ou d'autres pourcentages, ${fmt(A.ABSENT||0)} absentes du document. Toutes les cases contrôlées des fiches préparées par nos soins sont conformes ; les écarts portent sur les fiches du site.`;
+
+/* causes */
+const ap=D.filter(x=>x.ap),dk=D.filter(x=>x.dk),fr=D.filter(x=>x.fr),rn=D.filter(x=>x.rn);
+const li=(arr,f)=>arr.map(x=>`<li><span class="mono">${x.i}</span> ${esc(x.m)} : ${esc(f(x))}</li>`).join('');
+const causes=[
+ {p:'fix',n:ap.length,t:"Factsheet d'une autre part",d:"Le PDF utilisé (publié sur le site) est celui d'une autre classe de part du même fonds. Les frais, la date de création et parfois l'indice ne correspondent donc pas à la part de la gamme.",l:li(ap,x=>x.ap)},
+ {p:'fix',n:D.reduce((s,x)=>s+x.x.filter(i=>i[0]==='Encours'&&i[1]==='D').length,0),t:"Encours d'une autre date",d:"Sur les fiches du site, l'encours noté est souvent celui du mois précédent, ou celui de la part au lieu du fonds. C'est l'écart le plus fréquent ; il touche aussi la duration, la qualité des émetteurs et les allocations.",l:''},
+ {p:'part',n:dk.length,t:'Pas de factsheet sur le site, seulement un KID',d:"Pour ces fiches, le dernier document publié sur invest-law.eu est un KID. Les encours, gérants, date de création, duration et allocations notés ne peuvent pas venir de ce document.",l:li(dk,x=>'dernier document du '+fdate(x.f))},
+ {p:'part',n:fr.length,t:'Factsheet plus récente disponible',d:"Fundinfo publie une factsheet plus récente que celle du classeur, en général celle de fin septembre parue après nos recherches. Pour les fiches préparées, les chiffres sont justes à la date de leur document mais ne sont plus les derniers.",l:li(fr,x=>x.fr)},
+ {p:'part',n:D.filter(x=>x.x.some(i=>i[1]==='A'&&/Politique|Disclaimer/.test(i[0]))).length,t:'Textes rédigés ou résumés sur le site',d:"Des politiques d'investissement et des disclaimers du site sont des résumés, des traductions libres ou des extraits du prospectus : ils ne se retrouvent pas tels quels dans la factsheet ni dans le KID.",l:''},
+ {p:'none',n:rn.length,t:'Fonds renommés (pas une erreur)',d:"Le document porte le nouveau nom du fonds, avec le même ISIN.",l:li(rn,x=>x.rn)}];
+document.getElementById('causes').innerHTML=causes.map(c=>`<div class="cause"><h3><span class="pill p-${c.p} num">${fmt(c.n)} fonds</span>${c.t}</h3><p>${c.d}</p>${c.l?`<details class="more"><summary>Voir la liste</summary><ul>${c.l}</ul></details>`:''}</div>`).join('')
+ .replace('<span class="pill p-fix num">'+fmt(causes[1].n)+' fonds</span>','<span class="pill p-fix num">'+fmt(causes[1].n)+' cases</span>');
+
+/* champs */
+const mx=Math.max(...M.champs.map(c=>c[1]+c[2]));
+document.getElementById('fields').innerHTML=M.champs.filter(c=>c[1]+c[2]>0).map(([k,d,a])=>
+ `<div class="frow"><span>${k}</span><div class="ftrack" role="img" aria-label="${k} : ${d} différentes, ${a} absentes"><span class="d" style="width:${d/mx*100}%"></span><span class="a" style="width:${a/mx*100}%"></span></div><span class="n num">${d} · ${a}</span></div>`).join('');
+
+/* registre */
+const ORD={fix:0,part:1,none:3,ok:2};
+const all=D.slice().sort((a,b)=>ORD[a.v]-ORD[b.v]||b.x.length-a.x.length||a.n-b.n);
+let shown=60;
+const els={o:document.getElementById('f-origine'),v:document.getElementById('f-verdict'),f:document.getElementById('f-fresh'),q:document.getElementById('f-q')};
+function issueHtml(x){
+  let h='';
+  if(x.ap) h+=`<p class="flag bad">Document d'une autre part : ${esc(x.ap)}</p>`;
+  if(x.rn) h+=`<p class="flag">${esc(x.rn)}</p>`;
+  if(x.dk) h+=`<p class="flag">Le dernier document publié sur le site pour ce fonds est un KID, pas une factsheet.</p>`;
+  if(x.fr) h+=`<p class="flag">${esc(x.fr)}</p>`;
+  const it=x.x.map(i=>{const st=i[1]==='D'?['fix','Contredit le document']:i[1]==='A'?['part','Absent des documents']:['none','Autre source'];
+    return `<div class="issue"><div class="k">${esc(i[0])}<br><span class="pill p-${st[0]}">${st[1]}</span></div><dl><dt>Classeur</dt><dd>${esc(i[2])||'—'}</dd>${i[3]?`<dt>Document</dt><dd>${esc(i[3])}</dd>`:''}${i[4]?`<dt>Note</dt><dd>${esc(i[4])}</dd>`:''}</dl></div>`}).join('');
+  const al=x.a?`<div class="issue"><div class="k">Allocations<br><span class="pill p-${x.a[0]==='DIFFERENT'?'fix':'part'}">${x.a[0]==='DIFFERENT'?'Autres chiffres':x.a[0]==='PARTIEL'?'Partielles':'Absentes du document'}</span></div><dl><dt>Lignes</dt><dd>${x.al}</dd>${x.a[1]?`<dt>Note</dt><dd>${esc(x.a[1])}</dd>`:''}</dl></div>`:'';
+  if(!it&&!al&&!h) return `<p class="sub">${x.v==='none'?"Aucune factsheet ni KID public en français ou en anglais : seules les données One Life figurent dans le classeur.":'Toutes les cases contrôlées et les allocations se retrouvent dans la factsheet ou le KID.'}</p>`;
+  return h+`<div class="issues">${it}${al}</div>`;
+}
+function render(){
+  const q=els.q.value.trim().toLowerCase();
+  const list=all.filter(x=>(!els.o.value||x.o===els.o.value)&&(!els.v.value||x.v===els.v.value)&&(!els.f.value||x.fr)&&(!q||x.m.toLowerCase().includes(q)||x.i.toLowerCase().includes(q)));
+  document.getElementById('count').textContent=`${fmt(list.length)} fonds`;
+  document.getElementById('rows').innerHTML=list.slice(0,shown).map(x=>
+   `<tr class="fund" tabindex="0" data-i="${x.i}" aria-expanded="false"><td><span class="pill p-${x.v}">${VLAB[x.v]}</span></td><td><div class="fname">${esc(x.m)}</div><div class="sub mono">${x.i} · ligne ${x.n}</div></td><td class="hide-sm">${ORIG[x.o]}</td><td class="hide-sm num">${fdate(x.f)}${x.fr?' <span class="pill p-part">plus récente</span>':''}</td><td class="num">${x.t?`${x.c} / ${x.t}`:'—'}</td></tr>`).join('');
+  document.getElementById('more').hidden=list.length<=shown;
+}
+document.getElementById('rows').addEventListener('click',e=>{toggle(e.target.closest('tr.fund'))});
+document.getElementById('rows').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle(e.target.closest('tr.fund'))}});
+function toggle(tr){
+  if(!tr) return;
+  const next=tr.nextElementSibling;
+  if(next&&next.classList.contains('det')){next.remove();tr.setAttribute('aria-expanded','false');return}
+  const x=D.find(d=>d.i===tr.dataset.i);
+  const d=document.createElement('tr');d.className='det';d.innerHTML=`<td colspan="5">${issueHtml(x)}</td>`;
+  tr.after(d);tr.setAttribute('aria-expanded','true');
+}
+document.getElementById('more').addEventListener('click',()=>{shown+=100;render()});
+Object.values(els).forEach(el=>el.addEventListener('input',()=>{shown=60;render()}));
+render();
+</script>
