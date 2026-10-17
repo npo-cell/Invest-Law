@@ -1385,5 +1385,176 @@
    "verdict": "CONFORME",
    "note": "16/16 p.1 tableaux « Sector » et « Country » (Industrials 28.0 … Cash 0.8 ; USA 54.4 … Ireland 2.4)"
   }
+ },
+ {
+  "isin": "FR0013393295",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Encours du Fonds EUR 461,287,933 »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1.51",
+    "note": "p.1 « Frais Fixes 1.51% » (pas d'autre chiffre de frais courants)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : ESTER capitalisé quotidiennement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 structure bilancielle : Cash & monétaires 65.1 %, Titres-actions listés 5.4 %"
+  }
+ },
+ {
+  "isin": "IE00BD4LCP84",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "factsheet (part USD-I IE00BD4LCS16, en anglais) : « Legal framework : Irish Collective Asset-management Vehicle » ; le nom « H2O Global Strategies ICAV » n'y figure pas"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Fund AUM USD 49,585,972 » (encours du fonds, en USD)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Reference index : 50% JPM GBI EM GD + 50% EMBIGD »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Average Rating BBB- »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Past performance is not a reliable indicator of future performance » ; « the risk of capital loss … The capital invested is not guaranteed »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français du KID/supplément ; la factsheet (part USD-I, en anglais) ne contient qu'un résumé de stratégie de 3 lignes"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 « Balance sheet allocation » : Cash bonds 61.4 %, Cash & money market 38.6 % (factsheet de la part USD-I, mêmes données de fonds)"
+  }
+ },
+ {
+  "isin": "FR0013393345",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Encours du Fonds EUR 1,516,081,410 » (factsheet de la part R EUR FR0013393329, pas de la part R H USD)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frais Fixes 1.76% » (arrondi 1,8) — chiffre de la part R EUR, la factsheet R H USD n'a pas été fournie"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "ESTER",
+    "note": "la factsheet utilisée est celle de la part R EUR (FR0013393329) : « Indice de référence ESTER » ; aucun document de la part R H USD (SOFR)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 « Cash & monétaires 24.9% »"
+  }
+ },
+ {
+  "isin": "FR0013393329",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Encours du Fonds EUR 1,516,081,410 »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frais Fixes 1.76% » (arrondi 1,8)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence ESTER »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 « Cash & monétaires 24.9% »"
+  }
+ },
+ {
+  "isin": "FR0011978238",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Encours du Fonds EUR 290,731,072 » (factsheet de la part R EUR FR0010923383)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "ESTER",
+    "note": "la factsheet utilisée est celle de la part R EUR (FR0010923383) : « Indice de référence ESTER » ; aucun document de la part R USD (SOFR)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Notation moyenne BBB+ »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 structure bilancielle : Cash & monétaires 49.0 %, Titres-actions listés 5.7 %"
+  }
+ },
+ {
+  "isin": "LU1112771503",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2664",
+    "note": "p.1 « Encours du fonds 2664 Millions € » (au 31 août 2026)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 graphique « Euro Short-term Rate Capitalized » ; commission de performance par rapport à l'Euro Short-term Rate"
+   }
+  }
+ },
+ {
+  "isin": "LU2275633894",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "10/10 p.2 (Cash 10.6, Commodities (ETCs) 10.5, Others -0.1 ; obligations d'État USA/Norvège/Allemagne 15.98, 9.55, 9.45, 7.74, 3.99, 3.23, 2.88 %)"
+  }
+ },
+ {
+  "isin": "FR0010601971",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 seulement « Compartiment de SICAV française » ; HMG FINANCE y figure comme société de gestion, le nom « SICAV HMG Finance » n'est pas écrit"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Co-Gérants : Marc GIRAULT depuis le 16 avril 1993, Jean-François DELCAIRE, CIIA depuis le 3 septembre 2012 »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Actif Net du compartiment au 30/09/2026 : 188 993 759,98 € »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 échelle de risque : 3 surligné (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Document à caractère commercial. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DICI pour plus d'informations » ; p.2 « Les performances passées ne préjugent pas des performances futures »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 « Actions Etrangères 1,2% »"
+  }
  }
 ]
