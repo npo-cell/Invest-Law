@@ -1,0 +1,1079 @@
+[
+ {
+  "isin": "LU0217139020",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Pictet - <nom> », Forme juridique « Compartiment d'une SICAV », Domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  }
+ },
+ {
+  "isin": "LU1279334210",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Pictet - <nom> », Forme juridique « Compartiment d'une SICAV », Domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  }
+ },
+ {
+  "isin": "LU0128499588",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) p.1 : « Pictet - Short-Term Money Market CHF », Legal form « Sub-fund of a SICAV », Domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet p.2 : « Past performance may not be a reliable guide to future performance ... can fall as well as rise and you may not get back the original amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé en français à partir de la factsheet anglaise ; plusieurs éléments absents des PDF (« filiale à 100% du Groupe Pictet », « période de détention recommandée 1 mois »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "28 lignes retrouvées en anglais p.2-3 (Commercial papers 38.84, Certificates of deposit 33.93, Bank 57.52, Switzerland 11.24, Others 19.29...)"
+  }
+ },
+ {
+  "isin": "LU0503634221",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Compartiment de la Sicav de droit luxembourgeois Pictet »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Les rendements passés ainsi que l'évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs ... La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0340559557",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Compartiment de la Sicav de droit luxembourgeois Pictet »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Les rendements passés ainsi que l'évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs ... La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU2957443596",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartiment de la Sicav de droit luxembourgeois Pictet TR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Les rendements passés ainsi que l'évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs ... La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU2496444717",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Pictet TR - Sirius », Forme juridique « Compartiment d'une SICAV », Domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Avertissements en matière de performance : « performances passées ne préjugent pas des performances futures ... La valeur et les revenus éventuels de vos investissements peuvent fluctuer ... vos investissements peuvent perdre tout ou partie de leur valeur »"
+   }
+  }
+ },
+ {
+  "isin": "LU0255977455",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Compartiment de la Sicav de droit luxembourgeois Pictet »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Les rendements passés ainsi que l'évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs ... La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0386882277",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Compartiment de la Sicav de droit luxembourgeois Pictet »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Les rendements passés ainsi que l'évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs ... La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0270904781",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Pictet - <nom> », Forme juridique « Compartiment d'une SICAV », Domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  }
+ },
+ {
+  "isin": "LU0104884860",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Pictet - <nom> », Forme juridique « Compartiment d'une SICAV », Domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  }
+ },
+ {
+  "isin": "IE00B1Z6D669",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.5 : « PIMCO Funds: Global Investors Series plc is an open-ended investment company with variable capital ... authorised in Ireland ... UCITS »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 About the Benchmark : les trois indices cités (Bloomberg Global Aggregate Credit ex EM EUR Hedged, ICE BofA BB-B DM HY Constrained EUR Hedged, JPMorgan EMBI Global EUR Hedged)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance is not a guarantee or a reliable indicator of future results », « principal value will fluctuate », « Changes in exchange rates may cause the value of investments to decrease or increase »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction fidèle de la factsheet p.1 (Fund Description, Potential Investor Benefits, Fund Advantage, About the Benchmark, risques, ESG Category Article 6, Manager/Investment Advisor)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sector Allocation / Top 10 Industries en anglais : Government Related 38.4, EM 29.7, HY 24.5, IG 23.5, Securitized 14.4, Municipal/Other 0.1, Net Other Short Duration -30.6, Financial Other 6.0 ... Healthcare 1.0"
+  }
+ },
+ {
+  "isin": "LU1554376936",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet (NL) : « Introductiedatum 25 augustus 2017 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Geografische spreiding 30/09/2026 : Verenigde Staten 39.0, Ierland 13.7, Frankrijk 6.4, VK 4.5, Japan 3.9, Zweden 3.3, Zwitserland 2.6, Contant geld en anderen 12.7"
+  }
+ },
+ {
+  "isin": "LU0260464168",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Launch Date 8/1/2006 » (format US)"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "aucun indice de référence dans la factsheet (seulement Morningstar) ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "résumé rédigé ; le document dit « previous performance ... cannot be taken as a reliable indicator », « risk of price losses and currency losses », « no assurance can be provided that the above-stated objectives ... will be achieved »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé (description du portefeuille, public visé) ; la factsheet ne contient que le court paragraphe « Fund Features »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 en anglais : Equities 46.4, Bonds 35.3, Investment funds 9.6, Deposits 7.1, Participation certificate 1.6 ; top 10 ; pays et industries (Other industrial sector 51.4 ...)"
+  }
+ },
+ {
+  "isin": "DE000A1JCWX9",
+  "cases": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "PTAM Global Allocation (R) – FCP domicilié en Allemagne, société de gestion Hanseatische Investment-GmbH",
+    "note": "factsheet p.1-2 : fonds « PTAM Global Allocation R », Forme juridique « FCP / OGAW » ; la mention « UI » n'apparaît pas"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "p.3 : seul « Fund Partner : PT Asset Management GmbH » ; aucune mention du Prof. Stefan Duchateau"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "336,51 Mio. EUR (volume du fonds) ; 223,73 Mio. EUR (classe)",
+    "note": "p.2 Compte de résultat, au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,80 %",
+    "note": "p.1 « Commission de gestion max. par an 1,80% »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,77 %",
+    "note": "p.1 « Frais courants/TER 1,77% »"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "4",
+    "note": "p.1 échelle SRI, case 4 surlignée (image)"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Duration modifiée 126,58 % (sic) ; date d'échéance 7,73",
+    "note": "p.3 Ratios au 31/08/2026 ; 6,78 n'apparaît pas"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "note": "aucune notation moyenne du portefeuille dans la factsheet"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "résumé rédigé ; le document dit « Aucune garantie ne peut être donnée que les investisseurs récupéreront le montant investi » (p.4)"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "Classes p.1 : Actions 76,82, Revenu fixe 13,07, fonds 2,22+1,87, change à terme -0,44 concordent mais Liquidités 7,27 (classeur 6,5) ; secteurs p.2 : Informatique 38,23, Finance 11,44, Industrie 9,27, Matériaux 8,74, Santé 6,32, Conso 2,81 (≠ classeur) ; pas de top 10 ni de zones Amériques/Europe/Asie dans la factsheet"
+  }
+ },
+ {
+  "isin": "LU1171478784",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "rapport annuel 31/12/2024 p.1 : « QUEST MANAGEMENT, SICAV ... Investment Company (SICAV) pursuant to Part I of the amended Luxembourg Law of December 17, 2010 »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "rapport annuel : Net assets 31/12/2024 Quest Cleantech Fund 74,045,635.88 EUR"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,73 % (TER part R, hors commission de performance)",
+    "note": "rapport annuel p.4 « Total expense ratio (TER) ... QUEST CLEANTECH FUND (R) 1.73 % »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "le seul PDF est le rapport annuel 2024 : pas de SRI ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "seule la 1re idée figure : « Past performance is not necessarily a guide to the future performance of the fund » ; la phrase sur la perte de tout ou partie de l'investissement (formulation KID) est absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID (initiateur PRIIP, période de détention 6 ans, avertissement « produit pas simple »), KID non fourni ; le rapport annuel ne contient pas ces phrases"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "rapport annuel, Assets as per 31/12/2024 : Bank deposits 4.26, Liabilities -0.14, Belgium 16.92, United States 14.02, Ireland 13.69, Netherlands 13.19, Sweden 13.19, Germany 6.72, Austria 6.47"
+  }
+ },
+ {
+  "isin": "FR0007009139",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « R-co Conviction Convertibles Europe », « FCP Obligations Convertibles » ; p.4 Forme Juridique FCP, Domicile France"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques Exposition nette par secteur et par pays lus sur l'image : toutes les valeurs concordent (Services Financiers 22,8 ... Autres Zone Euro 0,7 ; Île de Jersey 1,7)"
+  }
+ },
+ {
+  "isin": "FR0010537423",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Le compartiment ... » R-co Conviction Club ; Forme Juridique SICAV, Domicile France"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5,63 (sensibilité de la poche taux)",
+    "note": "p.4 « Sensibilité : 5,63 » ; aucune duration 5,31"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "sept. 2026, graphiques p.2-3 : Taux 56,2 / Actions 47,9 / Liquidités -4,1 (classeur 55,7/47,6/-3,3) ; secteurs Finance 27,8, Industrie 15,7, Techno 14,2, Télécoms 12,1, Énergie 11,3, Santé 9,0, Conso 8,5 ; zones France 19,6, États-Unis 18,9, Allemagne 16,4, Monde 10,0, Pays-Bas 9,9, Italie 6,2... Seuls Services 1,4, Asie ex Japon 4,8 concordent"
+  }
+ },
+ {
+  "isin": "FR0007001581",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « SICAV Actions Or » ; mentions légales : « Société d'Investissement à Capital Variable de droit français “R-Co” » ; Forme Juridique SICAV"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 pastille « SFDR Article 6 » (image)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (fourchettes 60-100 %, 0-40 %, exposition 110 %, sensibilité -1 à 9) ; la factsheet ne contient que la courte « Stratégie d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques lus sur l'image : Actions 99,8 / Liquidités 0,2 ; secteurs 33,2 / 32,7 / 27,3 / 5,8 ; pays Canada 68,2 ... Pays émergents 0,4"
+  }
+ },
+ {
+  "isin": "FR0010035592",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « R-co OPAL 4Change Global Trends » ; Forme Juridique FCP, Domicile France"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "46,07 M€",
+    "note": "p.1 « Actifs sous gestion 46,07 M€ » au 30/09/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI Daily TR Net World en euro, dividendes nets réinvestis » ; caractéristiques « MSCI World NTR EUR »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "sept. 2026 p.2 (graphiques) : Actions Pan Européen 39,6, Thém. Eau 10,0, Thém. Immobilier 8,7, Thém. Monde 8,3, Asie-Pacifique 8,1, Bois et forêts 5,6, Agrobusiness 4,8, Énergies alternatives 2,6 ; pays Monde 48,2, Europe 43,7, Asie ex Japon 8,1. Seule « Actions Europe 4,0 » concorde"
+  }
+ },
+ {
+  "isin": "FR001400SE57",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "factsheet (EN) : « sub-fund », « Bond and other €debt securities SICAV », mention légale générique SICAV « R-Co » ; le nom « R-co 3 » n'apparaît pas"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 pastille « SFDR Article 8 » (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des mentions p.3 : « the value of the fund shares may decrease or increase and the capital may not be returned in full ... Past performance is not a reliable indicator of future performance »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (étapes de constitution/détention/monétisation, 80 %, 200 %, souscriptions fermées au 01/01/2027) ; la factsheet n'a que l'objectif de gestion"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN, image) : Non-financial bonds 92,7, Financial 6,9, Cash/derivatives 0,4, Convertible 0,1 ; secteurs Industrial Goods 15,2 ... Bank 0,8 ; zones France 24,4 ... Canada 0,7"
+  }
+ },
+ {
+  "isin": "FR0014008M99",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Le compartiment R-co Thematic Blockchain Global Equity », « SICAV » ; le nom de la SICAV « R-co 2 » n'apparaît pas (seule mention légale générique « R-Co »)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "140,82 M€",
+    "note": "p.1 « Actifs sous gestion 140,82 M€ » au 30/09/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « indice MSCI Daily TR Net World dividendes réinvestis (MSDEWIN) en Euro » ; « MSCI World NTR EUR »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 pastille « SFDR Article 8 » (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "sept. 2026 p.2 (graphiques) : Actions 98,5 / Liquidités 1,5 (classeur 1) ; Actifs digitaux 47,5, Infrastructure 30,4, Applications industrielles 11,3, Web 3.0 6,5 ; États-Unis 75,4, Canada 10,9, Asie ex Japon 6,6, R-U 1,8, France 1,4, Am. latine 1,0. Concordent seulement Transport 4,3, Japon 1,6, Moyen-Orient 0,9, Suisse 0,3"
+  }
+ },
+ {
+  "isin": "FR0010909531",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Le compartiment R-co Thematic Silver Plus » ; Forme Juridique SICAV, Domicile France"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "sept. 2026 p.2 (graphiques) : Actions 96,8 / Liquidités 3,2 (classeur 98/2) ; Pharmacie 35,5, Finance 19,4, Produits de santé 10,6, Services à la santé 6,0 ... ; France 33,3, Allemagne 19,9, Italie 15,3, Autres zone euro 14,2, Suisse 7,4... : autre date"
+  }
+ },
+ {
+  "isin": "FR0013367281",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "R-co Valor Balanced ; Forme Juridique SICAV, Domicile France (le mot « compartiment » n'apparaît pas)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "août 2026 p.2-3 graphiques : Actions 40,7, Liquidités 9,0 ; secteurs et zones de la poche actions identiques (Techno/Internet 29,5 ... Royaume-Uni 2,4)"
+  }
+ },
+ {
+  "isin": "FR0011253624",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.6 Forme Juridique SICAV, Domicile France ; fonds « R-co Valor »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "factsheet sept. 2026 p.2 (graphiques) : Actions 74,4 / Liquidités & Autres 25,6 (classeur 76,5/23,5) ; secteurs Techno/Internet 27,4, Minière 16,8, Santé 14,7, Finance/Assurance 12,9, Industrie 10,0, Biens conso/Luxe 7,6 ; pays États-Unis 35,4, Asie ex Japon 24,3, Canada 12,0, Am. latine 6,5, Suisse 4,5, Italie 3,1, R-U 2,7. Seules France 11,5, Transport 3,2, Services publics 1,8, OPCVM actions 0,1, Autres zone euro 0,1 concordent : allocations d'une autre date"
+  }
+ },
+ {
+  "isin": "FR0012406163",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.6 Forme Juridique SICAV, Domicile France ; fonds « R-co Valor »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "10 436,24 M€",
+    "note": "p.1 « Actifs sous gestion 10 436,24 M€ » au 30/09/2026"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "factsheet sept. 2026 p.2 (graphiques) : Actions 74,4 / Liquidités & Autres 25,6 (classeur 76,5/23,5) ; secteurs Techno/Internet 27,4, Minière 16,8, Santé 14,7, Finance/Assurance 12,9, Industrie 10,0, Biens conso/Luxe 7,6 ; pays États-Unis 35,4, Asie ex Japon 24,3, Canada 12,0, Am. latine 6,5, Suisse 4,5, Italie 3,1, R-U 2,7. Seules France 11,5, Transport 3,2, Services publics 1,8, OPCVM actions 0,1, Autres zone euro 0,1 concordent : allocations d'une autre date"
+  }
+ },
+ {
+  "isin": "FR0011261197",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.6 Forme Juridique SICAV, Domicile France ; fonds « R-co Valor »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "factsheet sept. 2026 p.2 (graphiques) : Actions 74,4 / Liquidités & Autres 25,6 (classeur 76,5/23,5) ; secteurs Techno/Internet 27,4, Minière 16,8, Santé 14,7, Finance/Assurance 12,9, Industrie 10,0, Biens conso/Luxe 7,6 ; pays États-Unis 35,4, Asie ex Japon 24,3, Canada 12,0, Am. latine 6,5, Suisse 4,5, Italie 3,1, R-U 2,7. Seules France 11,5, Transport 3,2, Services publics 1,8, OPCVM actions 0,1, Autres zone euro 0,1 concordent : allocations d'une autre date"
+  }
+ },
+ {
+  "isin": "LU0203975437",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 Statut juridique : « SICAV de droit luxembourgeois ... Le fonds est un compartiment de la SICAV Robeco Capital Growth Funds » ; UCITS V : Oui"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "8 793,25 M EUR (actif du fonds) ; 3 107,41 M EUR (part)",
+    "note": "p.1 « ACTIF DU FONDS EUR 8.793.251.559 » au 30/09/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 Benchmark « MSCI World Index (Net Return, EUR) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "« Ceci est une communication marketing » ; « Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer » ; « le capital initial n'est pas garanti »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphique Pays/Région (barre Fonds) : Amérique 45,0"
+  }
+ },
+ {
+  "isin": "LU0187076913",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) p.1 Legal status : « Investment company with variable capital incorporated under Luxembourg law (SICAV) ... subfund of Robeco Capital Growth Funds » ; UCITS V : Yes"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « TOTAL SIZE OF FUND EUR 1,647,487,241 »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "la factsheet Robeco ne mentionne pas de SRI ; pas de KID fourni"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI Emerging Markets Index (Net Return, EUR) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet (EN) : « This is a marketing communication », « Past performance is no guarantee of future results. The value of your investments may fluctuate », « the initial capital is not guaranteed »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé : seul le paragraphe « About the fund » et « active currency policy » figurent ; utilisation de l'indice pour l'allocation, limites de risque relatif, exclusions, période de détention 5 ans absents de la factsheet"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « About the fund » repris mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (barres Fonds, image) : IT 37,7, Conso discr. 12,4 ... Biens conso de base 1,0 ; Corée 25,5, Taïwan 21,4, Chine 18,4 ... Autres 9,3"
+  }
+ },
+ {
+  "isin": "LU0491217419",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « ACTIF DU FONDS EUR 438.691.427 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0187077481",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) p.1 Legal status : « Investment company with variable capital incorporated under Luxembourg law (SICAV) ... subfund of Robeco Capital Growth Funds » ; UCITS V : Yes"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "la factsheet Robeco ne mentionne pas de SRI ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet (EN) : « This is a marketing communication », « Past performance is no guarantee of future results. The value of your investments may fluctuate », « the initial capital is not guaranteed »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé : la factsheet n'a que « About the fund » et la description des trois tendances ; l'usage de l'indice, la couverture de change, les exclusions et la période de détention 5 ans n'y figurent pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (barres Fonds, image ; le texte extrait donne les valeurs de l'indice) : Banks 42,0, Capital Markets 32,3, Insurance 12,1, Financial Services 7,2, Consumer Finance 3,7 ... ; America 50,4, Asia 15,9 ; Cash 1,0"
+  }
+ },
+ {
+  "isin": "LU2145461757",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 Statut juridique : « SICAV de droit luxembourgeois ... Le fonds est un compartiment de la SICAV Robeco Capital Growth Funds » ; UCITS V : Oui"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « ACTIF DU FONDS EUR 4.986.771.952 »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "la factsheet Robeco ne mentionne pas de SRI ; pas de KID fourni"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI All Country World Index (Net Return, EUR) » (depuis le 16/07/2026)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "« Ceci est une communication marketing » ; « Les performances passées ne préjugent pas des performances futures. La valeur de vos investissements peut fluctuer » ; « le capital initial n'est pas garanti »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphique Région (barre Fonds) : Amerique 46,6"
+  }
+ },
+ {
+  "isin": "FR0010568683",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : les trois paragraphes figurent mot pour mot (mise en page en colonne)"
+   }
+  }
+ },
+ {
+  "isin": "LU0248172537",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 graphiques (barres Fonds, image) : Actifs liquides 2,5 (secteur et pays), Taiwan 34,0, Korea (South) 22,5"
+  }
+ },
+ {
+  "isin": "LU0903425840",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1-2 Comparator : « 30% MSCI AC World Index (USD), 40% Barclays Global Aggregate Corporate Bond Index (USD) and 30% Barclays Global High Yield excl CMBS & EMG 2% index (USD) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 (EN) Asset class / Sector / Region : Equity 43,6, High Yield 21,8, Investment Grade 13,7, Securitised Debt 9,7, Alternatives 7,5, Hybrids 1,3, Fixed Income Risk -10,8, Financials 26,4, North America 39,4, Europe ex UK 21,7, etc."
+  }
+ },
+ {
+  "isin": "LU2380233275",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 graphique Secteur (barres Fonds) : Consommation non cyclique 43,3, Consommation cyclique 0,0"
+  }
+ },
+ {
+  "isin": "LU2382957772",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de comparaison MSCI ACWI NR » (part en EUR)"
+   }
+  }
+ },
+ {
+  "isin": "LU0140636845",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 graphiques (barres Fonds) : Actifs liquides 1,3 (secteur et région), Pacifique hors Japon 5,2"
+  }
+ },
+ {
+  "isin": "LU0935228691",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « ESTR capitalisé » (objectif : surperformer de plus de 3,5 % l'ESTR quotidien capitalisé)"
+   }
+  }
+ },
+ {
+  "isin": "FR001400S409",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 « Energie 5,3% », « Etats-Unis 3,5% »"
+  }
+ },
+ {
+  "isin": "LU1932703363",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.4 : « Storebrand SICAV ... investment company with variable capital ... Grand Duchy of Luxembourg. It qualifies as a UCITS » ; p.1 « Storebrand SICAV - SKAGEN ... »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1 : « Historical returns are no guarantee for future returns. Future returns will depend, inter alia, on market developments, the fund manager's skills, the fund's risk profile and subscription and management fees. The return may become negative ... you could lose some or all of your investment »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction fidèle d'éléments de la factsheet : mention légale p.4 (Storebrand SICAV, FundRock, Storebrand AM), gérants, Investment strategy, Benchmark MSCI ACWI, encadré SFDR Article 8 et quatre piliers, date de lancement 26/06/2019"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Investment strategy » mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 (EN) Sector / Country exposure : Materials 26.8, Consumer discretionary 19.8, Industrials 19.5, Communication Services 4.6, Consumer Staples 1.2 ; South Korea 22.6, United States 21.1, Germany 10.1, Japan 7.8, Mexico 4.0, Netherlands 3.5, Spain 2.9"
+  }
+ },
+ {
+  "isin": "LU1932713917",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.4 : « Storebrand SICAV ... investment company with variable capital ... Grand Duchy of Luxembourg. It qualifies as a UCITS » ; p.1 « Storebrand SICAV - SKAGEN ... »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark index: MSCI All Country World Index »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "phrases du KID ; la factsheet ne contient que « This product does not include any protection from future market performance so you could lose some or all of your investment » ; « ne convient pas aux clients qui ne peuvent supporter aucune perte en capital » absent"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID (initiateur PRIIP, dépositaire J.P. Morgan SE, 10 % en fonds, pas de dérivés, écart de suivi > 4 %, détention 5 ans) ; ces éléments ne figurent pas dans la factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "15/18 retrouvées p.3 (EN) : position Muenchener Rück 4.5, 6 secteurs (Industrials 34.7 ...), 8 pays (United States 46.8 ...) ; absentes : classes d'actifs Actions 99,4, Liquidités 0,99, Autres actifs et passifs nets -0,39"
+  }
+ },
+ {
+  "isin": "LU1932684985",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.4 : « Storebrand SICAV ... investment company with variable capital ... Grand Duchy of Luxembourg. It qualifies as a UCITS » ; p.1 « Storebrand SICAV - SKAGEN ... »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark index: MSCI Emerging Markets Index »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "phrases du KID ; la factsheet ne contient que « This product does not include any protection from future market performance so you could lose some or all of your investment » ; « ne convient pas aux clients qui ne peuvent supporter aucune perte en capital » absent"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID (initiateur PRIIP, dépositaire J.P. Morgan SE, 10 % en fonds, pas de dérivés, écart de suivi > 4 %, détention 5 ans) ; ces éléments ne figurent pas dans la factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "15/19 retrouvées p.3 (EN) : 8 secteurs (Information technology 24.4 ...) et 7 pays (South Korea 20.3, Taiwan 14.1, Brazil 11.5 ...) ; absentes : classes d'actifs Actions 95,03, Liquidités 5,49, FIA 1,32, Autres -1,84"
+  }
+ },
+ {
+  "isin": "LU0556665551",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "rapport semestriel 30/06/2025 p.1 : « SMART VALUE INVESTORS Investment Company with variable capital (SICAV) with multiple sub-funds, Luxembourg ... Part I of the law of 17th December 2010 »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "rapport semestriel : Equity Flexible « Net assets at the end of the period 170,276,775.43 » au 30/06/2025"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = rapport semestriel 2025, sans SRI ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "phrase type KID absente du rapport semestriel"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID (51 % minimum en actions, 25 % matières premières, détention 8 ans...) ; absent du rapport semestriel"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "rapport semestriel au 30/06/2025 : Cash at banks 5.69, Certif Gold 1.96, Other net assets 0.40, Netherlands 0.25% 4.70, L'Oréal 3.91, classification industrielle (Countries and governments 24.00 ...) et géographique (USA 22.91 ... Denmark 1.83)"
+  }
+ },
+ {
+  "isin": "FR0010914358",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de réf.: 70% ESTR Capitalized + 30% BLOOMBERG EUR FRN IND »"
+   }
+  }
+ },
+ {
+  "isin": "LU2181906426",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI AC World Info. Tech. 10-40 NR »"
+   }
+  }
+ },
+ {
+  "isin": "FR0014010IG3",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 libellés abrégés : Services conso 9, Telecom 9, Serv. aux collect. 8, Conso. Discrétion. 7, Services comm & pro 7, Autos & comp. 6, Biens d'équipement 5, Medias 5, Produits domest. 2, Produits chimiques 1, Etats-Unis 7"
+  }
+ },
+ {
+  "isin": "LU0316493583",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : Umbrella « Franklin Templeton Investment Funds » ; « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Franklin Templeton ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1/p.3 : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Sector Allocation et Geographic Allocation, colonne Fund : toutes les valeurs listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0128522157",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : Umbrella « Franklin Templeton Investment Funds » ; « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Franklin Templeton ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1/p.3 : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Sector Allocation et Geographic Allocation, colonne Fund : toutes les valeurs listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0390135332",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : Umbrella « Franklin Templeton Investment Funds » ; « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Franklin Templeton ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1/p.3 : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Sector Allocation et Geographic Allocation, colonne Fund : toutes les valeurs listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0390136736",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : Umbrella « Franklin Templeton Investment Funds » ; « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "345,58 M USD",
+    "note": "p.1 « Total Net Assets (USD) $345.58 Million » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Franklin Templeton ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1/p.3 : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Sector Allocation et Geographic Allocation, colonne Fund : toutes les valeurs listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0128525929",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : Umbrella « Franklin Templeton Investment Funds » ; « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Franklin Templeton ; pas de KID fourni"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark(s) MSCI All Country World Index-NR. Used for performance comparison only »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1/p.3 : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Sector Allocation et Geographic Allocation, colonne Fund : toutes les valeurs listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0128520375",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : Umbrella « Franklin Templeton Investment Funds » ; « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Franklin Templeton ; pas de KID fourni"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI All Country World Index-NR and MSCI ACWI Investable Market Index-NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction p.1/p.3 : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Sector Allocation et Geographic Allocation, colonne Fund : toutes les valeurs listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0563142883",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR p.1 « Objectif d'investissement » et « Politique d'investissement » repris mot pour mot"
+   }
+  }
+ },
+ {
+  "isin": "LU0294221097",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : « Luxembourg-domiciled SICAV Franklin Templeton Investment Funds » ; « prospectus of the UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance does not predict future returns. The value of shares in the Fund and income received from it can go down as well as up, and investors may not get back the full amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID (politique, public visé, période de détention 3 ans) ; KID non fourni et ces phrases ne figurent pas dans la factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (EN) Geographic Allocation, colonne Fund : Others 45.21, Cash 18.33, Malaysia 11.63, Brazil 8.33, Mexico 7.53, United States -0.43"
+  }
+ },
+ {
+  "isin": "LU0757431068",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Fonds à compartiments multiples : Columbia Threadneedle (Lux) I », « Domicile du Fonds : Luxembourg », « prospectus de l'OPCVM »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1-2 : « Les performances passées ne permettent pas de prédire les rendements futurs » ; « La valeur des investissements peut baisser ou augmenter, et les investisseurs peuvent ne pas récupérer la totalité du capital initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Pondérations (Fonds) : Pharma/Santé 12,5, Produits de base 7,3, Conso. Cyclique 4,1, Conso. Non Cyclique 3,3, Energie 1,6"
+  }
+ },
+ {
+  "isin": "LU0640488994",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (IT) p.1 : « Fondo multicomparto : Columbia Threadneedle (Lux) I », « Domicilio fondo : Lussemburgo », « prospetto dell'OICVM »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 « SRI PRIIP », case 3 surlignée, « livello pari a 3 su 7 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI ACWI NR Index (50%), ICE BofA European Currency High Yield Excluding Subordinated Financials Constrained Index (USD Hedged) (30%), Bloomberg Global Aggregate Index (USD Hedged) (20%) »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "phrases du KID (capital non garanti, perte jusqu'à 100 %, pas de protection) absentes de la factsheet italienne"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction fidèle de « Obiettivo e politica del fondo » p.1 (40-60 % actions / 40-60 % obligations, dérivés, indice composite), société de gestion et période de 5 ans également p.1"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 (IT) Pesi et 10 posizioni principali : Azioni nordamericane 40,3, Credito HY 29,4, Credito IG 15,6, Estremo Oriente 9,0 ... Liquidità e cambi -7,0 ; Sub-portafoglio North American Equities 34,9, European Short-Term HY 19,8, EM 9,0, European ex-UK 7,2"
+  }
+ },
+ {
+  "isin": "LU0570870567",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Fonds à compartiments multiples : Columbia Threadneedle (Lux) I », « Domicile du Fonds : Luxembourg »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1-2 : « Les performances passées ne permettent pas de prédire les rendements futurs » ; « La valeur des investissements peut baisser ou augmenter, et les investisseurs peuvent ne pas récupérer la totalité du capital initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Pondérations (Fonds) : Pharma/Santé 11,4, Conso. Cyclique 8,6, Energie 5,8, Conso. Non Cyclique 3,9"
+  }
+ }
+]

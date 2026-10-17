@@ -1,0 +1,1041 @@
+[
+ {
+  "isin": "FR0010147603",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, échelle de risque « 3* » (échelle du KID)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « 50% MSCI AC World NR index + 50% €STR » (Capitalized Index, p.3)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : sous Pays émergents « Asie 25,1% », « Europe de l'Est 0,3% » ; sous Pays développés « Europe 13,6% », « Asie Pacifique 3,5% » ; « Liquidités, emplois de trésorerie et opérations sur dérivés 5,7% »"
+  }
+ },
+ {
+  "isin": "FR0010149203",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "208 M€",
+    "note": "factsheet p.1 : « Encours de la part : 208M€ » ; pas d'encours du fonds"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, « 3* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « 40% MSCI AC World NR index + 40% ICE BofA Global Government Index + 20% €STR Capitalized » ; classeur écrit « ICE Boga Gbl » (coquille)"
+   }
+  }
+ },
+ {
+  "isin": "FR0010135103",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5938 M€",
+    "note": "factsheet p.1 : « Encours de la part : 5938M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 3* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « 40% MSCI AC World NR index + 40% ICE BofA Global Government Index + 20% €STR Capitalized Index » ; « Boga » = coquille"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Monétaire 3,9% », « Liquidités, emplois de trésorerie et opérations sur dérivés 6,6% », « Etats-Unis 46,9% »"
+  }
+ },
+ {
+  "isin": "FR0011269067",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 3* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1/p.3 : « 40% MSCI AC World NR index + 40% ICE BofA Global Government Index + 20% €STR Capitalized Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Monétaire 3,9% », « Etats-Unis 46,9% »"
+  }
+ },
+ {
+  "isin": "LU1623762843",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 2* »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : les 7 secteurs du classeur sont la somme des poches « Emprunts privés pays développés » + « pays émergents » (Finance 46,3+4,6=50,9 ; Energie 9,6+1,5 ; Immobilier 7,2+1,0 ; Industrie 3,3+1,4 ; Services aux collectivités 4,2+0,1 ; Communication 1,9+0,4 ; Conso de base 1,4+0,3) ; chiffres non écrits tels quels"
+  }
+ },
+ {
+  "isin": "LU0336084032",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 2* »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Monétaire 18,7% », « Etats-Unis 10,5% »"
+  }
+ },
+ {
+  "isin": "LU0336083497",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "209 M€",
+    "note": "p.1 : « Encours de la part : 209M€ » ; pas d'encours du fonds"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 2* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « JPM Global Government Bond index »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : « Obligations 82,9% » (classeur 84,1), « Credit Default Swap -20,4% » (classeur -20,3)"
+  }
+ },
+ {
+  "isin": "LU1966631001",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 4* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « MSCI World NR index »"
+   }
+  }
+ },
+ {
+  "isin": "LU2715954504",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 3* »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : Obligations et monétaire 77,0% (cl. 77,8) ; Taux d'exposition nette actions 36,7% (cl. 33,6) ; Matières premières 11,1% (cl. 13,2) ; Liquidités... 12,0% (cl. 9) ; UNITED STATES 3.88% 15/08/2033 4,6% (cl. 4,7) ; FRANCE 3.50% 25/11/2033 1,0% (cl. 1,1)"
+  }
+ },
+ {
+  "isin": "LU1744628287",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 3* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1/p.3 : « 40% MSCI Europe NR index + 40% ICE BofA All Maturity All Euro Government index + 20% €STR Capitalized Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : Actions 40,5% (cl. 40,2) ; Monétaire 30,6% (cl. 34,5) ; Obligations 26,6% (cl. 25,4) ; Credit Default Swap -24,2% (cl. -23,2)"
+  }
+ },
+ {
+  "isin": "LU2809794220",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 5* »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Liquidités, emplois de trésorerie et opérations sur dérivés 5,1% », « Israel 0,6% »"
+  }
+ },
+ {
+  "isin": "LU0592698954",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "232 M€",
+    "note": "p.1 : « Encours de la part : 232M€ » ; pas d'encours du fonds"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 3* »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « 40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : Obligations 45,1% (cl. 51,5) ; Actions 47,2% (cl. 43,9) ; Liquidités... 7,7% (cl. 4,6) ; Credit Default Swap -25,4% (cl. -25,5)"
+  }
+ },
+ {
+  "isin": "LU1317704051",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 3* »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : « Exposition Long Actions 101,7% » (cl. 102,7) ; « Exposition Short Actions -91,2% » (cl. -82,4)"
+  }
+ },
+ {
+  "isin": "FR0010149120",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1, « 2* »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Monétaire 0,2% », « Emprunts d'Etat à taux fixe 12,8% », « Emprunts d'Etat à taux indexé inflation 6,3% »"
+  }
+ },
+ {
+  "isin": "LU1100076550",
+  "cases": {
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « LES GÉRANTS : G. Brisset, N. Descoqs, M. Goueffon » (texte PDF encodé avec décalage de lettres, décodé)"
+   },
+   "frais_gestion": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « 2,00% de l'actif net / an dont 1,80 % de frais de gestion »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 Stratégie globale, mot pour mot (texte encodé avec décalage, décodé)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013384963",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de référence : Euro Stoxx Net Return »"
+   }
+  }
+ },
+ {
+  "isin": "FR00140077E1",
+  "cases": {
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 Gérant(s) : « Valentin VERGNAUD, Jean-Luc MENARD »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de référence : S&P 500 Net Total Return » (S&P 500 TRNE)"
+   }
+  }
+ },
+ {
+  "isin": "IE00B65D2871",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « COMGEST GROWTH EMERGING MARKETS EUR R ACC » ; dernière page « un compartiment de Comgest Growth plc »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice : MSCI Emerging Markets - Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 : Conso. cyclique 9,3 ; Services de com. 7,3 ; Conso. non cyclique 4,3 ; [Cash] 1,9 ; Corée 18,8"
+  }
+ },
+ {
+  "isin": "IE00B6X8T619",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice : MSCI Europe - Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 : Technologie 16,2 ; Conso. cyclique 14,1 ; Produits de base 12,0 (= Matériaux) ; Conso. non cyclique 5,6 ; Services de com. 3,5 ; [Cash] 0,9"
+  }
+ },
+ {
+  "isin": "IE000CQAZ1P1",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice : MSCI AC World - Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 : Conso. cyclique 14,4 ; Services de com. 5,1 ; Conso. non cyclique 4,8 ; [Cash] 0,8 ; Etats-Unis 47,0"
+  }
+ },
+ {
+  "isin": "IE00BD5HXK71",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice : MSCI AC World - Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 : Conso. cyclique 7,7 ; Produits de base 7,6 ; Services de com. 6,8 ; Conso. non cyclique 3,1 ; [Cash] 2,7 ; Etats-Unis 57,1"
+  }
+ },
+ {
+  "isin": "FR0000284689",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice : MSCI AC World - Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 : Conso. cyclique 7,5 ; Services de com. 6,8 ; [Cash] 3,6 ; Conso. non cyclique 3,0 ; Etats-Unis 56,4"
+  }
+ },
+ {
+  "isin": "FR0010097667",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "factsheet (4 p.) : ni « FCP » ni « OPCVM » ; seulement « Classification AMF : Non applicable » ; pas de KID fourni"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice Reference : 100% ESTR CAPITALISE (OIS) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune mention SFDR / article 8 dans les 4 pages (vérifié sur images)"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche ; pas de « protection contre les aléas » ni « Lire le DIC »"
+   }
+  }
+ },
+ {
+  "isin": "LU2570611322",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Forme juridique : Compartiment de SICAV », « Norme européenne : OPCVM » ; p.5 « un compartiment de CPR INVEST (la « SICAV ») ... Luxembourg »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "texte recomposé : éléments épars (p.1 « Le capital et/ou le rendement n'est (ne sont) pas garanti(s) », « vous pourriez perdre tout ou partie de votre investissement », « Avant toute souscription, veuillez prendre connaissance du Document d'Informations Clés et du prospectus ») mais pas la formulation du classeur"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.4 graphiques : Technologies de l'info. 13,23 (portefeuille) ; Europe ex-EMU 7,83 %"
+  }
+ },
+ {
+  "isin": "LU1530899142",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « CPR INVEST - Global Disruptive Opportunities », « Forme juridique : SICAV de droit luxembourgeois », « Directive : UCITS IV »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice Reference : 100% MSCI WORLD GROWTH INDEX » (lu sur image)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune mention SFDR / article dans la factsheet ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques : Technologies de l'info. 55,94 ; Conso Cyclique 10,24 ; Conso non Cyclique 0,08 ; Europe ex-EMU 0,35"
+  }
+ },
+ {
+  "isin": "LU2389405163",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « CPR INVEST - HYDROGEN », « Forme juridique : SICAV de droit luxembourgeois », « Directive : UCITS IV » ; attention : la factsheet est celle de la part A EUR Acc (LU2389405080), pas A2"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,96%",
+    "note": "p.1 « Frais de gestion et autres coûts administratifs ou d'exploitation : 1,96% » — factsheet de la part A EUR Acc LU2389405080, pas de la part A2 du classeur"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 indicateur de risque 4 (part A EUR Acc LU2389405080)"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; la factsheet ne mentionne ni la catégorie A2 ni cette formulation ; stratégie p.1 : « L'objectif du compartiment consiste à surperformer les marchés d'actions mondiaux... l'économie de l'hydrogène »"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "3/4 trouvées p.2 (Technologies & Composantes 47,96 ; Energie Verte 21,95 ; Europe ex-EMU 7,35) ; « Actions 92,97 » non écrit (seulement « Liquidités en % de l'actif 7,03% »)"
+  }
+ },
+ {
+  "isin": "LU1103787690",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Forme juridique : SICAV de droit luxembourgeois », « Directive : UCITS IV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 indicateur de risque 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice Reference : 100% ESTR CAPITALISE (OIS) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune mention SFDR / article dans la factsheet"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 exposition actions : Europe ex-EMU 0,64 % ; Asie hors-Japon 0,31 %"
+  }
+ },
+ {
+  "isin": "LU1103786700",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "factsheet : titre « CPR INVEST - SILVER AGE », « Le compartiment est nourricier du FCP de droit français CPR Silver Age » ; ni SICAV, ni Luxembourg, ni OPCVM"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun gérant nommé dans les 4 pages (vérifié sur images)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 indicateur de risque 4 (image)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune mention SFDR / article"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche ; p.2 « le capital investi n'est pas garanti »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 répartition sectorielle : Epargne financière 25,59 ; Equipements de santé 5,43"
+  }
+ },
+ {
+  "isin": "LU1878469607",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 : Conso. Cyclique 9,4 ; Conso. Non Cyclique 6,5 ; Energie 5,7 ; Produits de base 4,4"
+  }
+ },
+ {
+  "isin": "LU0080347536",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 : « Danish Government 2.25% 15.11.2033 14.4% », « Danish Government 2.25% 15.11.2035 3.3% »"
+  }
+ },
+ {
+  "isin": "LU0323041763",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de référence : MSCI Europe NR »"
+   }
+  }
+ },
+ {
+  "isin": "LU1694789451",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « DNCA INVEST ALPHA BONDS » ; dernière page « Nom du compartiment : Alpha Bonds »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : €STR + 1.40% »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU1907594748",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg ; « Nom du compartiment : Sustain Alterosa »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Romain AVICE, David TISSANDIER, Nolwenn LE ROUX, CFA, Florent EYROULET »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "164 M€",
+    "note": "p.1 « Actif net (m€) 164 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 30% MSCI All Countries World NR + 70% Bloomberg Barclays Pan European Corporate Euro Hedged Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 répartition géographique : « Taiwan 1,7% », « Nouvelle Zélande 0,6% »"
+  }
+ },
+ {
+  "isin": "LU2254337392",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : Euro Stoxx NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Liquidités et autres 9,9% », « Bâtiment et matériaux de construction 11,6% »"
+  }
+ },
+ {
+  "isin": "LU1907595398",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "377 M€",
+    "note": "p.1 « Actif net (m€) 377 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : EURO STOXX NR »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID (p.5 : seulement alignement taxonomie 15,7%, fonds article 9)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0284393930",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Ismaël LECANU, Jean-Marc FRELET, CFA, Nolwenn LE ROUX, CFA, Baptiste PLANCHARD, CFA »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2377 M€",
+    "note": "p.1 « Actif net (m€) 2 377 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : Bloomberg Euro Aggregate Corporate Index »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "traduction fidèle de l'objectif de gestion p.1 (en français) : « maximiser le rendement total ... surperformer l'indice Bloomberg Euro-Aggregate Corporate (ticker Bloomberg : LECPTREU Index) ... gestion discrétionnaire active »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 (31/08/2026) : Obligations crédit 94,5% (cl. 95,7) ; Liquidités et autres 0,9% (cl. 2) ; Banques 30,9% (cl. 31,2) ; Services aux collectivités 9,4% (cl. 9) ; Biens et services industriels 8,0% (cl. 7,8) ; Immobilier 6,0% (cl. 6,1) ; France 16,2% (cl. 17,4) ; Etats-Unis 10,9% (cl. 11,4) ; Allemagne 10,4% (cl. 10,3) ; positions : Microsoft 1,11% (cl. 1,13), TUI 0,80% (cl. 0,83), Vonovia 0,85% (cl. 0,78), LEG Properties BV 0,82% (cl. LEG Immobilien 0,83), BPER absent du top ; conformes : EEW 0,95, AT&T 0,85, Gatwick 0,73"
+  }
+ },
+ {
+  "isin": "LU1515062757",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet en anglais : « Name of the SICAV: DNCA INVEST », « Fund domicile country: Luxembourg », « Legal form: SICAV », « Fund type: UCITS »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Portfolio Managers: Carl AUFFRET, CFA, Alexandre STEENMAN, Ronan POUPON, Kevin TRAN »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "674 M€",
+    "note": "p.1 « Net assets (€M) 674 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Reference Index: STOXX Europe 600 EUR NR »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation absente ; le document (anglais) dit « Past performance is not a reliable indicator of future performance » et « risk of loss of capital »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction de l'Investment objective p.1 (anglais) ; dernière phrase du classeur (« Veuillez prendre connaissance des limites d'investissement... ») absente"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "30/32 conformes p.2 (secteurs ICB et pays traduits de l'anglais) ; 2 écarts : Equities 99,2% (cl. Actions 99,3) ; classe d'actifs Cash and equivalents 0,4% (cl. 0,3)"
+  }
+ },
+ {
+  "isin": "LU0284394235",
+  "cases": {
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Romain GRANDIS, CFA, Damien LANTERNIER, CFA, Adrien LE CLAINCHE, Nicolas COULON »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 20% EURO STOXX 50 + 80% Bloomberg Euro Aggregate 1-10 Year »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation absente ; le document dit « Les performances passées ne sont pas un indicateur fiable des performances futures » et « risque de perte en capital »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : CDS Index -0,1% ; European Union 1% 2032 2,32% ; Spain 3.45% 2034 2,27% ; European Union 2.5% 2031 2,27% ; European Union 3.13% 2030 1,61% ; Spain 2.55% 2032 1,59% ; Etats-Unis 4,6%"
+  }
+ },
+ {
+  "isin": "LU0284394664",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg ; « Nom du compartiment : Evolutif »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 25% MSCI World NR EUR + 25 MSCI Europe NR EUR + 50% Bloomberg Euro Govt Inflation Linked 1-10 years »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Deutsche Bundesrepublik Inflation Linked 0.5% 2030 5,35% ; Spain Inflation Linked 1% 2030 5,09% ; European Union 2.5% 2031 4,50% ; BTP 1.5% 2029 2,89% ; BTP 1.6% 2028 2,10% ; Taiwan 1,7%"
+  }
+ },
+ {
+  "isin": "LU3077228958",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Taiwan 5,3% »"
+  }
+ },
+ {
+  "isin": "LU1490785091",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 35 % MSCI Nordic, 25 % DAX, 15 % SMI, 15 % AEX, 10 % MSCI UK TR UK Net Local Currency, libellé en Euro »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU1490785505",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : European Union 3.13% 2030 2,67% ; Spain 2.4% 2028 2,25% ; Spain 1.25% 2030 2,11% ; Spain 2.35% 2029 1,38% ; Etats-Unis 5,9%"
+  }
+ },
+ {
+  "isin": "LU0870553020",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg ; titre « DNCA INVEST SRI EUROPE GROWTH »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Carl AUFFRET, CFA, Alexandre STEENMAN, Ronan POUPON, Kevin TRAN »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : STOXX Europe 600 EUR NR »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "formulation « Les rendements cités ont trait aux années écoulées » absente ; le document dit « Les performances passées ne préjugent pas des performances futures » et « risque de perte en capital »"
+   }
+  }
+ },
+ {
+  "isin": "LU2707622630",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Nom de la SICAV : DNCA INVEST », « Forme juridique : SICAV », « Type de fonds : OPCVM », domicile Luxembourg"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0284396016",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « DNCA INVEST VALUE EUROPE », « Part A-EUR »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1768 M€",
+    "note": "p.1 « Actif net (m€) 1 768 » (VL 377,16)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : STOXX Europe 600 EUR NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des performances futures » ; dernière page « Veuillez-vous référer au Prospectus de l'OPC et au Document d'Informations Clés avant de prendre toute décision finale d'investissement »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « OPCVM 2,0% », « Liquidités et autres 0,6% »"
+  }
+ },
+ {
+  "isin": "LU1515062674",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet anglaise : « Name of the SICAV: DNCA INVEST », « Fund domicile country: Luxembourg », « Legal form: SICAV », « Fund type: UCITS »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Reference Index: STOXX Europe 600 EUR NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Marketing material », « Past performance is not a reliable indicator of future performance », « Investments in the sub-fund entail risks, in particular the risk of loss of capital resulting in the loss of all or part of the amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction de l'Investment objective p.1 ; « (5 ans) » non écrit (« over the recommend investment term »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : les 32 lignes figurent (libellés anglais : Industrial Goods and Services 16,9, Banks 15,9 ... United Kingdom 13,5, Germany 11,6 ... UCITS 2,0, Cash and equivalents 0,6)"
+  }
+ },
+ {
+  "isin": "BE6227496963",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 3 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Energie 3.6 », « EMU 15.0 », « Europe Ex-EMU 7.6 »"
+  }
+ },
+ {
+  "isin": "BE6227494943",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 3 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Energie 3.4 », « EMU 14.4 », « Europe Ex-EMU 7.7 »"
+  }
+ },
+ {
+  "isin": "BE6227492921",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 3 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Energie 4.1 », « EMU 14.2 », « Europe Ex-EMU 7.9 »"
+  }
+ },
+ {
+  "isin": "BE0057451271",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark: MSCI Europe Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Nestlé 5.6 », « Energie 4.5 »"
+  }
+ },
+ {
+  "isin": "BE0058185829",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 4 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Energie 0.0 »"
+  }
+ },
+ {
+  "isin": "BE0940002729",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark: MSCI Europe Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Nestlé 4.0 », « Energie 0.0 »"
+  }
+ },
+ {
+  "isin": "BE0946564383",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark: MSCI World Net Return »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Europe ex-EMU 8.3 »"
+  }
+ },
+ {
+  "isin": "BE0947764743",
+  "cases": {
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3",
+    "note": "p.1 ISR : case 3 surlignée (image, « ISR établi conformément au Règlement PRIIPs »)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Politique d'investissement du compartiment », mot pour mot (« issue du KID »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « B2C Food 12.6 », « B2B Food 1.0 », « Etats-Unis 30.5 »"
+  }
+ },
+ {
+  "isin": "BE0058187841",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Self Storage 3.9 », « Student Housing 2.7 »"
+  }
+ },
+ {
+  "isin": "LU0215993790",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « EMU 64.8 », « Europe ex-EMU 9.8 »"
+  }
+ },
+ {
+  "isin": "LU0907927338",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 3 (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU0138645519",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 2 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Obligations d'Etat 11.4 », « Energie 1.2 »"
+  }
+ },
+ {
+  "isin": "LU0138643068",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 ISR 2 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stratégies : Obl. gouv. nominales 47.0 ; Obl. de sociétés à beta faible 11.1 ; à beta élevé 8.4 ; Obl. liées à l'inflation 7.8 ; Secteurs : Obligations d'Etat 54.5 ; Energie 1.4"
+  }
+ },
+ {
+  "isin": "LU1125674611",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "KID (17/02/2026) rubrique « Objectives », mot pour mot, y compris le paragraphe Benchmark"
+   }
+  }
+ }
+]

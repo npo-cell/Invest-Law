@@ -1,0 +1,962 @@
+[
+ {
+  "isin": "FR0010859769",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1240",
+    "note": "factsheet p.1 : « 1 240 M€ Actif net » (au 30/09/2026)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice MSCI ACWI NET RETURN EUR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Les rendements indiqués sont nets de frais de gestion mais bruts d'impôts pour l'investisseur »"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "9/10 retrouvées p.1-2 (trésorerie 2,3 %, Itau Unibanco Pref 4,9, Prod. financiers 26,2 %, USA 64,6, JPN 8,5, KOR 5,4, TWN 5,0, HKG 4,7, DEU 2,1) ; Actions 97,7 non écrit (seulement déductible de la poche trésorerie 2,3 %)"
+  }
+ },
+ {
+  "isin": "LU1244893696",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 : case 4 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de référence : MSCI World (NR) (EUR) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "22/22 lues sur les graphiques p.2 (type d'actifs, zones, secteurs)"
+  }
+ },
+ {
+  "isin": "FR00140120M2",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « EDR SICAV - MILLESIMA 2032 », pied de page « Edmond de Rothschild SICAV »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "49/49 : 10 principales lignes (tableau p.1) et pays/secteurs lus sur les graphiques p.1"
+  }
+ },
+ {
+  "isin": "FR001400RZ04",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « EDR SICAV - GLOBAL RESILIENCE », pied de page « Edmond de Rothschild SICAV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 : case 4 surlignée (image)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Orientation de gestion » reprise mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "21/21 lues sur les graphiques p.2"
+  }
+ },
+ {
+  "isin": "FR0010588343",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « EDR SICAV - TRICOLORE CONVICTIONS » (nouveau nom du fonds, même ISIN), pied de page « Edmond de Rothschild SICAV »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « SBF 120 NR (Net Return soit Dividendes nets réinvestis) » ; « Indice de référence : SBF 120 (NR) (EUR) »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Orientation de gestion » reprise mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "17/17 lues sur les graphiques p.2"
+  }
+ },
+ {
+  "isin": "LU1161526576",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « 50% BarCap Euro-Aggregate Treasury (EUR) + 50% Bloomberg Barclays Euro Aggregate Corporates TR (EUR) » (même composition, ancien nom Barclays)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « L'objectif du Produit est d'offrir aux investisseurs une performance annualisée supérieure à son indice de référence. »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "40/40 : poches et pays lus sur les graphiques p.2, 10 principales lignes (tableau p.2)"
+  }
+ },
+ {
+  "isin": "LU1160356009",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "18/18 lues sur les graphiques p.2"
+  }
+ },
+ {
+  "isin": "LU1331971769",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "la factsheet indique seulement « Structure Légale : Luxembourg SICAV - UCITS » ; « Eleva UCITS Fund » n'y figure pas (pas de KID)"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Encours du compartiment 4 979 879 820 € »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 : case 2 surlignée (image)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 : pastille « Art 8. » (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Utilities 4.1% » (répartition sectorielle nette)"
+  }
+ },
+ {
+  "isin": "LU1111642820",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Encours du compartiment 9 563 332 116 € »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 : case 4 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de référence : STOXX Europe 600 Net Return - SXXR »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 : pastille « Art 8. » (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Utilities 6.6%, Cons. Disc. 3.1%"
+  }
+ },
+ {
+  "isin": "LU1920214563",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Encours du compartiment 481 227 617 € »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 : case 4 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de référence : STOXX Europe Small 200 Index Net Return - SCXR »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 : pastille « Art 8. » (image)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectif et approche d'investissement », 5 puces reprises mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : D'Ieteren 2.54%, Utilities 4.8%, Cons. de base 2.7%"
+  }
+ },
+ {
+  "isin": "FR0010868901",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 dans le tableau des principales positions (Schneider 4.57%, Cellnex 4.06%, Vonovia 3.84%, Soitec 3.62%, Legrand 3.05%)"
+  }
+ },
+ {
+  "isin": "LI1317659301",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « Class R is launched November 6 th 2024 » (fonds : inception 22 May 2024)"
+   }
+  }
+ },
+ {
+  "isin": "SE0022243614",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 : Immobilie (7%), Opérateurs télécoms (5%), Biens durables (4%), Produits de consommation courante (1%) — libellés traduits"
+  }
+ },
+ {
+  "isin": "LU0431139764",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.3 « Risk profile » : 3 sur 7 (image)"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "9.43",
+    "note": "p.2 « Modified duration 9.43 (9.43) »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "BBB+ to A-",
+    "note": "p.2 « Average rating BBB+ to A- »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais (pas de KID) : la stratégie décrite p.1 est différente ; seules les exclusions (tabac, pornographie, charbon, Pacte mondial, Freedom House), l'article 8 et les limites 49 %/20 % se retrouvent p.1 et p.3 ; « plus-value raisonnable », « certificats et dépôts à terme », « autres fonds limité à 10 % », « OCDE » absents"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "15/20 conformes p.2 (classes d'actifs, secteurs, Asie oblig. 0,9, Autres oblig. 0,9, Autres actions 0,4) ; 5 zones différentes : USA actions nettes 37,8 → 33,3 ; Europe oblig. 35,8 → 21,4 ; USA oblig. 16,7 → 16,8 ; Europe actions 3,1 → 1,6 ; Asie actions 1,1 → 6,6"
+  }
+ },
+ {
+  "isin": "LU0455735596",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Investment strategy » + « Investment objective » repris mot pour mot (césure « Ethna-DYNAMISCH »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "11/11 lues sur les graphiques p.2"
+  }
+ },
+ {
+  "isin": "FR0014019TC0",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs » repris (texte en deux colonnes, y compris « Le FCP est investi… » et « Entre 25 et 65 %… »)"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531785",
+  "cases": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Actifs nets de la part $ 413 419,71 » (fonds : $ 20 786 434,07)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frais de gestion et autres frais administratifs et d'exploitation 2,08% »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « géré activement sans référence à un indice »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "75",
+    "note": "p.1 « Répartition des actifs durables : Environnement 37,6% / Social 37,4% » (= 75,0 %) ; minimum 80 %"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé différent p.1"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 secteurs : Industrie 30,5 (classeur 30,2), Soins de santé 32,1 (29), Technologies 35,1 (28,6), Matériaux 2,3 (0), Consommation de base 0,0 (2,4) ; seule Énergie 0 concorde"
+  }
+ },
+ {
+  "isin": "LU2612530977",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « FFG - BLI EUROPEAN IMPACT EQUITIES (R ACC) EN EUR, compartiment de la SICAV FFG »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "14.86",
+    "note": "p.1 « Actifs nets du fonds 14 863 708,73 € », « Actifs nets de la part 615 836,85 € » ; aucune valeur 611,5"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frais de gestion et autres frais administratifs et d'exploitation 2,32% »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « géré activement sans référence à un indice »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "89.3",
+    "note": "p.1 « Environnement 42,1% / Social 47,2% » (= 89,3 %)"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé différent p.1"
+   }
+  }
+ },
+ {
+  "isin": "LU2612532759",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2024-03-12",
+    "note": "p.1 « Lancement de la part 12/03/2024 » (stratégie 01/01/2022)"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « FFG - BLI GLOBAL IMPACT EQUITIES (R ACC) EN EUR, compartiment de la SICAV FFG »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "71.0",
+    "note": "p.1 « Actifs nets de la part 70 998 670,25 € », « Actifs nets du fonds 118 764 707,00 € »"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3",
+    "note": "p.2 « Classe de risque » : 3 surligné ; « classe de risque 3 sur 7 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « géré activement sans référence à un indice »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "86.4",
+    "note": "p.1 « Environnement 38,35% / Social 48,07% » (= 86,42 %)"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé différent p.1"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : Technologies 32,4 (classeur 34,8), Industrie 19,9 (29,2), Soins de santé 38,9 (21,8), Énergie 0 ok ; United States 46 + Canada 2 (Amérique du Nord 50,3), Japan 7 (7,8), Taiwan 3 (Asie dév. 2,7)"
+  }
+ },
+ {
+  "isin": "LU0945616984",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "27.18",
+    "note": "p.1 « Actifs nets du fonds 27 176 717,68 € » ; part R : 15 555 034,09 €"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frais de gestion et autres frais administratifs et d'exploitation 1,91% »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « géré activement … sans référence à un indice »"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte anglais (approche, classification ESG) absent ; la factsheet en français a un texte différent p.1"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : classes d'actifs Actions 33,1 / Obligations 57,3 / Liquidités 9,5 (classeur Obligations 56,11, Actions 17,02, OPCVM 21,86…) ; les positions, la répartition par pays et par secteur d'émetteur du classeur ne figurent pas dans la factsheet (seulement secteurs et régions des actions, types d'émetteurs)"
+  }
+ },
+ {
+  "isin": "LU2736456596",
+  "cases": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : Orcadia Asset Management »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Actifs nets du fonds € 69 205 046,15 »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "aucun pourcentage d'investissements durables ; p.1 seulement « objectif d'investissement durable … article 9 du SFDR »"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un texte différent p.1"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 secteurs : Technologies 35,5 (classeur 34,5), Finance 17,5 (17,3), Conso. discrétionnaire 15,9 (14,46), Santé 9,6 (11,23), Conso. de base 4,6 (6,5), Matériaux 2,4 (3,45), Services de communication 1,7 (1,27), Immobilier 1,4 (0,43) ; zones Asie développée 3,6 et Pays émergents 0,1 conformes ; classes d'actifs (Actions 97,81, fonds fermés 1,33, avoirs bancaires 0,86) absentes"
+  }
+ },
+ {
+  "isin": "LU2059537873",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "54.39",
+    "note": "p.1 « Actifs nets du fonds 54 393 940,66 € » ; part R : 49 217 931,90 €"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frais de gestion et autres frais administratifs et d'exploitation 2,05% » (arrondi 2,1)"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "p.2 seulement « minimum de 5% de ses actifs nets dans des actifs durables » ; aucune proportion actuelle"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "pas de version anglaise ; la factsheet donne p.1 un texte français de même contenu (indice MSCI World NR EUR, 20 %, 10 % non cotées, 20 à 50 actions, art. 8 min. 5 %)"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 secteurs : Finance 24,1 (classeur 25,41), Technologies 27,8 (24,78), Conso. discrétionnaire 5,9 (14,62), Industrie 16,4 (13,43), Santé 12,2 (10,18), Conso. de base 4,6 (5,39), Matériaux 5,2 (4,5), Énergie 0,0 (1,5) ; répartition par pays absente (seulement régions : Japon 8,0 contre 7,21) ; Actions 99,8 absent"
+  }
+ },
+ {
+  "isin": "LU1697917083",
+  "cases": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments s.a. »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Actifs nets du fonds € 166 870 460,20 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « gérée de manière active sans considération d'un indice de référence »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "p.1 seulement « minimum de 5% de ses actifs nets dans des actifs durables » ; aucune proportion actuelle"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé plus court p.1"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.2 : Actions 83,5 (classeur 95,1), Obligations 3,3 (0,01), Or 12,5 (Autres 2,5), Cash 0,7 (2,5) ; top 10 : TSMC 3,33 (4,09), Roche 3,04 (3,45), Relx 2,99 (3,06), SAP 3,89 (2,9), Tencent 2,53 (2,6), Larrainvial 2,26 (2,37), Sumitomo 3,77 (2,18), Novo Nordisk et Eastspring absents ; secteurs différents (Industrie 23, Santé 35…) ; répartition par pays absente (seulement régions)"
+  }
+ },
+ {
+  "isin": "LU0275693405",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais) : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "761",
+    "note": "p.1 « Fund size: $ 761m » (au 30.09.26 ; fonds renommé « US Equity Fund »)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises p.1/p.2 : « Past performance does not predict future returns. » et « The value of your investment may fall as well as rise and you may get back less than you originally invested. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : dépositaire, ESG, dérivés) ; la factsheet est en anglais et ne contient que « Strategy / Objective / Investment Policy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "15/15 dans les tableaux p.2 (Uninvested Cash 0.6, Other 0.0, secteurs GICS, United States 97.4, Netherlands 2.0, UK 0.0, Switzerland 0.0)"
+  }
+ },
+ {
+  "isin": "LU0594300096",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "13/13 dans les tableaux p.2 (Uninvested Cash 0.2, secteurs GICS, Netherlands 2.0, South Africa 1.9, United Arab Emirates 0.4)"
+  }
+ },
+ {
+  "isin": "LU0261950470",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Market index from 30.12.00: MSCI Emerging Markets Index (Net) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "17/17 dans les tableaux p.2 (Uninvested Cash 3.5, secteurs GICS, pays dont Others 11.0)"
+  }
+ },
+ {
+  "isin": "LU0296857971",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Ongoing Charges Figure (OCF) per year: 1.89% (30.04.26) »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Market index from 01.01.20: MSCI Europe Index (Net) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "21/23 conformes p.2 (secteurs, pays) ; Actions 99,4 → document « Equity 99.5 », Liquidités non investies 0,6 → « Uninvested Cash 0.5 »"
+  }
+ },
+ {
+  "isin": "LU0261950553",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Informations importantes » : « Le Compartiment promeut des caractéristiques environnementales et/ou sociales » (définition de l'article 8 ; le numéro d'article n'est pas écrit)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Instrument dérivé sur titre à obligation 2,7 », « Industries 12,6 », « Biens de consommation non-cyclique 2,3 »"
+  }
+ },
+ {
+  "isin": "LU0261951528",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Strategy », « Objective », « Investment Policy » repris mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "22/22 dans les tableaux p.2 (Uninvested Cash 0.4, Other 0.0, secteurs GICS, Other Index / Unclassified 0.4, pays)"
+  }
+ },
+ {
+  "isin": "LU0688698975",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Active STrategy (‘FAST’ or the ‘Fund’) is an open-ended investment company (SICAV) established in Luxembourg … registered under Part I of the Luxembourg Law of 17 December 2010 » (Partie I = OPCVM)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "23/24 conformes p.2-3 (colonne Net des tableaux secteurs/pays, Other 0.0, Uninvested Cash 0.0) ; Actions (exposition nette) 109,3 → document « Net Equity 107.4 »"
+  }
+ },
+ {
+  "isin": "LU1048657123",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Active STrategy (‘FAST’ or the ‘Fund’) is an open-ended investment company (SICAV) established in Luxembourg … registered under Part I of the Luxembourg Law of 17 December 2010 » (Partie I = OPCVM)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "21/21 p.2-3 : Long Equity 126.7, Short Equity -29.8, Uninvested Cash 3.1, colonne Net des secteurs et pays"
+  }
+ },
+ {
+  "isin": "LU0251130554",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   }
+  }
+ },
+ {
+  "isin": "LU2834349156",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 indice de marché : « Euro Short Term Rate Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2-3 : Actions Longues 115,1, Actions Courtes -114,3 ; secteurs (net) Technologie 1,6, Services collectifs 0,7, Conso. non-cyclique -2,8"
+  }
+ },
+ {
+  "isin": "LU1116430247",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Informations importantes » : « Le Compartiment promeut des caractéristiques environnementales et/ou sociales » (définition de l'article 8 ; le numéro d'article n'est pas écrit)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Instrument dérivé sur titre à obligation 2,8 ; Technologie 5,3 ; Conso. non-cyclique 1,1 ; Services collectifs 0,7 ; Asie Pacifique (hors-Japon) 15,4 ; Europe (hors R.-U.) 15,4"
+  }
+ },
+ {
+  "isin": "LU1213836080",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Market index from 30.09.06: MSCI ACWI Information Technology Index (Net) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Past performance does not predict future returns » (p.1) ; « This fund targets specific industries. This can make it more volatile… you may get back less than you originally invested » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "15/17 conformes p.2 (secteurs, pays) ; Actions 99,3 → « Equity 99.2 » ; Liquidités non investies 0,7 → « Uninvested Cash 0.8 »"
+  }
+ },
+ {
+  "isin": "LU0987487336",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Informations importantes » : « Le Compartiment promeut des caractéristiques environnementales et/ou sociales » (définition de l'article 8 ; le numéro d'article n'est pas écrit)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Instrument dérivé sur titre à obligation 2,8 ; Technologie 5,3 ; Conso. non-cyclique 1,1 ; Services collectifs 0,7 ; Asie Pacifique (hors-Japon) 15,4 ; Europe (hors R.-U.) 15,4"
+  }
+ },
+ {
+  "isin": "LU0905233846",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Informations importantes » : « Le Compartiment promeut des caractéristiques environnementales et/ou sociales » (définition de l'article 8 ; le numéro d'article n'est pas écrit)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français) p.1 : « Les performances passées ne sont pas une indication de rendements futurs » ; p.1 « La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Instrument dérivé sur titre à obligation 2,8 ; Technologie 5,3 ; Conso. non-cyclique 1,1 ; Services collectifs 0,7 ; Asie Pacifique (hors-Japon) 15,4 ; Europe (hors R.-U.) 15,4"
+  }
+ },
+ {
+  "isin": "LU0251132253",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français), dernière page : « Fidelity Funds (« FF ») est une société d'investissement à capital variable (OPCVM) enregistrée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 indice de marché : « MSCI ACWI Index (Net) »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Informations importantes » : « Le Compartiment promeut des caractéristiques environnementales et/ou sociales » (définition de l'article 8 ; le numéro d'article n'est pas écrit)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (français) p.1 : « Les performances passées ne sont pas une indication de rendements futurs » ; p.1 « La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Obligation 1,7 »"
+  }
+ },
+ {
+  "isin": "LU1805238398",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "11/11 dans les tableaux p.2 (Uninvested Cash 2.8, secteurs GICS, USA 5.5)"
+  }
+ },
+ {
+  "isin": "LU1805238125",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "710",
+    "note": "p.1 « Fund size: € 710m » (fonds renommé « Global Consumer Brands Fund »)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Market index from 04.10.21: MSCI ACWI Index (Net) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "22/22 dans les tableaux p.2"
+  }
+ },
+ {
+  "isin": "LU0261951288",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "11/11 dans les tableaux p.2 (Other 0.0, Uninvested Cash 0.0, secteurs, Switzerland 100.4)"
+  }
+ },
+ {
+  "isin": "LU1261432659",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais), dernière page : « Fidelity Funds “FF” is an open-ended investment company (UCITS) established in Luxembourg » ; « Fund legal structure: SICAV »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "7212",
+    "note": "p.1 « Fund size: € 7,212m »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Market index from 14.06.14: MSCI World Index (Net) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction des phrases anglaises de la factsheet : « Past performance does not predict future returns. » (p.1) et « The value of your investment may fall as well as rise and you may get back less than you originally invested. » (p.2)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "19/19 dans les tableaux p.2"
+  }
+ },
+ {
+  "isin": "LU0433182416",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "mentions légales (dernière page) : « un compartiment de First Eagle Amundi (le «Fonds»), un organisme de placement collectif en valeurs mobilières régi par la partie I de la loi luxembourgeoise du 17 décembre 2010, constitué sous la forme d'une «société d'investissement à capital variable» »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indicateur de risque » : 3 surligné (image)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR / article 6 dans la factsheet (texte et images)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales : « La valeur et les revenus d'un investissement … sont susceptibles de varier à la hausse comme à la baisse. … les performances passées ne sont ni une assurance ni un indicateur fiable des rendements futures » ; la fin « vous pourriez perdre tout ou partie de votre investissement » n'est pas écrite"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.3 (AHE) / p.2 (AU), données au 30/09/2026 : Actions US 39,25 (classeur 39,24), Actions Europe 22,75 (22,62), Autres actions 12,46 (11,86), ETC or 9,14 (9,39), Actions Japon 6,53 (6,38), Actions liées à l'or 4,12 (4,35), Oblig. d'État CT 3,65 (3,48), Liquidités 2,09 (2,68) ; secteurs aussi différents (Finance 12,61 contre 12,92, Technologies 11,28 contre 11,06…) ; seule la zone « Oblig. d'Etats CT 3,65 » concorde"
+  }
+ },
+ {
+  "isin": "LU0068578508",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "mentions légales (dernière page) : « un compartiment de First Eagle Amundi (le «Fonds»), un organisme de placement collectif en valeurs mobilières régi par la partie I de la loi luxembourgeoise du 17 décembre 2010, constitué sous la forme d'une «société d'investissement à capital variable» »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indicateur de risque » : 3 surligné (image)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR / article 6 dans la factsheet (texte et images)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales : « La valeur et les revenus d'un investissement … sont susceptibles de varier à la hausse comme à la baisse. … les performances passées ne sont ni une assurance ni un indicateur fiable des rendements futures » ; la fin « vous pourriez perdre tout ou partie de votre investissement » n'est pas écrite"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "p.3 (AHE) / p.2 (AU), données au 30/09/2026 : Actions US 39,25 (classeur 39,24), Actions Europe 22,75 (22,62), Autres actions 12,46 (11,86), ETC or 9,14 (9,39), Actions Japon 6,53 (6,38), Actions liées à l'or 4,12 (4,35), Oblig. d'État CT 3,65 (3,48), Liquidités 2,09 (2,68) ; secteurs aussi différents (Finance 12,61 contre 12,92, Technologies 11,28 contre 11,06…) ; seule la zone « Oblig. d'Etats CT 3,65 » concorde ; positions : Shell 2,78 (2,55), Alphabet 2,57 (2,41), Meta 2,18 (1,64), Samsung 2,07 (1,86) ; Salesforce, SLB, Workday, Elevance, Oracle hors du top 5 publié dans cette factsheet AU"
+  }
+ }
+]
