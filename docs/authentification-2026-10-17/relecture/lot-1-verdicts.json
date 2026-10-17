@@ -1,0 +1,931 @@
+[
+ {
+  "isin": "IE00BKSBGS44",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris quasi intégralement ; seuls les intertitres « Objectif » / « Utilisée pour » sont mis en page différemment"
+   }
+  }
+ },
+ {
+  "isin": "IE000UFAX9L6",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Total Fund Assets (m) 357 » ; « All performance and holdings data as at 31-Aug-26 »"
+   }
+  }
+ },
+ {
+  "isin": "IE000RDRMSD1",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement du Fonds : 27-sept.-2022 » (catégorie idem)"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « l'actif net au 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BDBRDM35",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement du Fonds : 21-nov.-2017 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « l'actif net au 30-sept.-2026 »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris ; phrase sur les IFD présente (césure « c'est-/à-dire »)"
+   }
+  }
+ },
+ {
+  "isin": "IE00B4L5Y983",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement du Fonds : 25-sept.-2009 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « l'actif net au 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "IE000I8KRLL9",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement du Fonds : 03-août-2021 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « l'actif net au 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "IE000BMZP0I6",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement du Fonds : 26-juin-2025 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « l'actif net au 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "IE0006SEWKA2",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Lancement de la classe 15 Oct. 2024 » (fonds lancé le 6 déc. 2018)"
+   }
+  }
+ },
+ {
+  "isin": "IE000N6I8IU2",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Lancement de la classe 29 Oct. 2024 » / « Lancement du fonds 29 Oct. 2024 »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BMVB5K07",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « n'est pas géré par rapport à un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BMVB5M21",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « n'est pas géré par rapport à un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU0866838229",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « géré de manière active sans référence à un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU2286301101",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, graphique « Risk indicator » : case 5 surlignée (lue sur l'image)"
+   }
+  }
+ },
+ {
+  "isin": "LU1211506388",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, « Indicateur de risque » : case 4 surlignée (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU1597246039",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, « Indicateur de risque » : case 5 surlignée (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU1997245417",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, « Indicateur de risque » : case 5 surlignée (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU2009012159",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, « Risk indicator » : case 4 surlignée (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU1846577168",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris, y compris « jusqu'à 20 % ... Actions A chinoises via ... Stock Connect » (coupé par la mise en page)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013334489",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actif net du fonds 19 338 341,89 € » (= 19,34 M€)"
+   }
+  }
+ },
+ {
+  "isin": "LU0087657408",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Type » : phrase identique, coupée sur deux colonnes"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris ; phrase « large pouvoir discrétionnaire... » présente, coupée par la mise en page"
+   }
+  }
+ },
+ {
+  "isin": "LU1005243503",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 18-déc.-2013 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0329592538",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 12-nov.-2007 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris, phrase « Les titres RF incluent... » présente"
+   }
+  }
+ },
+ {
+  "isin": "LU0252968424",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « Date de lancement : 19-mai-2006 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0827889485",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « Date de lancement : 25-oct.-2012 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0252963383",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « Date de lancement : 19-mai-2006 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0376438312",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 22-juil.-2008 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0495651787",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « géré activement ... sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris (phrase sur les facteurs de durabilité coupée par la mise en page)"
+   }
+  }
+ },
+ {
+  "isin": "LU0439765164",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « sans utiliser une valeur de référence (benchmark) »"
+   }
+  }
+ },
+ {
+  "isin": "LU1484763815",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « sans utiliser une valeur de référence (benchmark) »"
+   }
+  }
+ },
+ {
+  "isin": "LU0379366346",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris (phrases coupées par la mise en page)"
+   }
+  }
+ },
+ {
+  "isin": "LU0473185139",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 14-déc.-2009 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0252969075",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 19-mai-2006 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1304596841",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 14-oct.-2015 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1304596684",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : date de lancement de la catégorie d'actions « 14-oct.-2015 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1962513328",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « RAPPORT 30 | 09 | 2026 » ; « Actifs nets totaux »"
+   }
+  }
+ },
+ {
+  "isin": "LU1797472195",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « RAPPORT 31 | 08 | 2026 » ; « Actifs nets totaux »"
+   }
+  }
+ },
+ {
+  "isin": "LU0206982331",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « RAPPORT 30 | 09 | 2026 » ; « Actifs nets totaux »"
+   }
+  }
+ },
+ {
+  "isin": "LU0206982414",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « RAPPORT 30 | 09 | 2026 » ; « Actifs nets totaux »"
+   }
+  }
+ },
+ {
+  "isin": "LU1434524259",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « RAPPORT 30 | 09 | 2026 » ; « Actifs nets totaux »"
+   }
+  }
+ },
+ {
+  "isin": "FR0014008223",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le fonds n'a pas d'indicateur de référence » ; factsheet : « Non benchmarké »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Notation moyenne A- »"
+   }
+  }
+ },
+ {
+  "isin": "FR001400KAX0",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le fonds n'a pas d'indicateur de référence » ; factsheet : « Non benchmarké »"
+   }
+  }
+ },
+ {
+  "isin": "FR001400U4U9",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le fonds n'a pas d'indicateur de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU0992631647",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "15/11/2013 (date de la 1ère VL de la part F EUR Acc) ; fonds lancé le 31/03/2011",
+    "note": "factsheet p.1 : « Date de la 1ère VL : 15/11/2013 », « Date de lancement du Fonds : 31/03/2011 » ; 30/12/2013 n'apparaît nulle part"
+   },
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Carmignac Portfolio Emerging Patrimoine F EUR Acc",
+    "note": "factsheet p.1 : la part de l'ISIN LU0992631647 est F EUR Acc, pas A EUR Acc"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "385 M€ (actifs sous gestion du fonds) ; encours de la part 64 M€",
+    "note": "factsheet p.1 au 30/09/2026 : « Actifs sous gestion du Fonds : 385M€ / 437M$ », « Encours de la part : 64M€ » ; 1 247 M absent"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3",
+    "note": "factsheet p.1 : échelle 1 2 3* 4 5 6 7 ; KID : « classe de risque 3 sur 7 »"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR Capitalized Index",
+    "note": "factsheet p.1 « Indicateur de référence » et KID « Objectif » ; S&P500 absent"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "KID : investi principalement en actions et obligations des pays émergents ; exposition actions limitée à 50% de l'actif net ; 40% à 100% d'obligations",
+    "note": "texte anglais du classeur absent des PDF (KID en français) et contredit le KID : « jusqu'à 100% en actions » vs « L'exposition du portefeuille aux actions sera limitée à 50% de l'actif net »"
+   }
+  }
+ },
+ {
+  "isin": "LU0992627298",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le compartiment n'a pas d'indicateur de référence » (la factsheet cite 75% MSCI Europe + 25% S&P 500 seulement pour la comparaison carbone)"
+   }
+  }
+ },
+ {
+  "isin": "LU1744630424",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 « Capitalisation » : « Moyennes (2000 - 10000MEUR) 9,4% » (libellé coupé sur deux lignes)"
+  }
+ },
+ {
+  "isin": "LU0992624949",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Notation moyenne A- »"
+   }
+  }
+ },
+ {
+  "isin": "LU1100076717",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 (image) : « Date de création 02/03/2015 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 (image) « Les gérants » : G. Brisset, N. Descoqs, M. Goueffon"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « Actif net du compartiment 893 M€ »"
+   },
+   "frais_gestion": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 (image) : « 1,36 % de l'actif net / an dont 1,20 % de frais de gestion »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « géré activement sans se référer à un indice de référence » (indice Morningstar seulement a posteriori)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « LES PERFORMANCES PASSÉES NE PRÉJUGENT PAS DES PERFORMANCES FUTURES »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "20/20 lignes lues sur l'image p.1 : composition (Actions Europe 73,6 / France 20,3 / Amérique du Nord 5,2 / Liquidités 0,6), principales positions, répartition sectorielle"
+  }
+ },
+ {
+  "isin": "LU1731919103",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "15/15 lignes lues sur les graphiques p.2 « Répartition des actifs au 30/09/2026 » (pays, secteurs, capitalisation)"
+  }
+ },
+ {
+  "isin": "BE6309878286",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Aucun benchmark n'est utilisé dans la gestion du compartiment »"
+   }
+  }
+ },
+ {
+  "isin": "BE6309882320",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Aucun benchmark n'est utilisé »"
+   }
+  }
+ },
+ {
+  "isin": "BE6299350734",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Aucun benchmark n'est utilisé dans la gestion du compartiment »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BYZJ5G02",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Inception 1st September 2011 » ; « inception of the fund on 1st September 2011 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « August 2026 » : « Fund AUM $862 Million »"
+   }
+  }
+ },
+ {
+  "isin": "LU1781816530",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs. » (ligature « fi » mal extraite par pdftotext)"
+   }
+  }
+ },
+ {
+  "isin": "FR001400RZ53",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs. » (ligature « fi » mal extraite par pdftotext)"
+   }
+  }
+ },
+ {
+  "isin": "FR00140120Q3",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs. » (ligature « fi » mal extraite par pdftotext)"
+   }
+  }
+ },
+ {
+  "isin": "LU1160357403",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs. » (ligature « fi » mal extraite par pdftotext)"
+   }
+  }
+ },
+ {
+  "isin": "LU1331973468",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Encours du compartiment 4 957 341 528 € » (= 4 957,341528 M€)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « géré de manière active, sans référence à un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU1111643711",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Encours du compartiment 9 422 126 017 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indice de référence : STOXX Europe 600 Net Return - SXXR » (sur deux lignes)"
+   }
+  }
+ },
+ {
+  "isin": "LI1317660325",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Class I is launched September 24th 2025 » (fonds : 22 May 2024)"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531868",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « FFG - BLI AMERICAN IMPACT EQUITIES (I ACC) EN USD »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments) ni le KID ne nomment de gérant personne physique"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) au 31/08/26 : « Actifs nets de la part $ 20 373 014,36 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « géré activement sans référence à un indice » ; KID : « sans utiliser une valeur de référence (benchmark) »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "75 % (actifs durables : Environnement 37,6 % + Social 37,4 % ; 75,0 % des revenus alignés ODD)",
+    "note": "factsheet p.1 (image) « Répartition des actifs durables » ; 86 n'apparaît pas"
+   },
+   "politique_en": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "minimum 75% en actions de sociétés cotées sur les marchés réglementés américains (factsheet et KID, en français)",
+    "note": "texte anglais (prospectus) absent des PDF ; il indique « at least 80% » alors que factsheet et KID disent « minimum 75% »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531355",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « FFG - BLI EUROPEAN IMPACT EQUITIES (I ACC) EN EUR »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments) ni le KID ne nomment de gérant personne physique"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) au 31/08/26 : « Actifs nets de la part 14 172 591,37 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « géré activement sans référence à un indice » ; KID : « sans utiliser une valeur de référence (benchmark) »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "89,3 % (Environnement 42,1 % + Social 47,2 % ; 89,3 % des revenus alignés ODD)",
+    "note": "factsheet p.1 (image) ; 93 n'apparaît pas"
+   },
+   "politique_en": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "minimum 75% en actions de sociétés cotées sur un marché réglementé européen (factsheet et KID)",
+    "note": "texte anglais (prospectus) absent des PDF ; « at least 80% » contre « minimum 75% » dans factsheet et KID"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "la factsheet du 31/08/26 ne donne pas de répartition géographique (seulement secteurs, capitalisations, 10 positions) ; les 10 lignes « Zones géographiques » ne figurent pas"
+  }
+ },
+ {
+  "isin": "LU2612532833",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « FFG - BLI GLOBAL IMPACT EQUITIES (I ACC) EN EUR »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments) ni le KID ne nomment de gérant personne physique"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « Actifs nets de la part 33 564 725,91 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « géré activement sans référence à un indice » ; KID : « sans utiliser une valeur de référence (benchmark) »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "86,4 % (Environnement 38,35 % + Social 48,07 % ; 86,4 % des revenus alignés ODD)",
+    "note": "factsheet p.1 (image) ; 93 n'apparaît pas"
+   },
+   "politique_en": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "minimum 75% en actions, sans restriction géographique, sectorielle et monétaire (factsheet et KID)",
+    "note": "texte anglais (prospectus) absent des PDF ; « minimum of 80% » contre « minimum 75% »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "factsheet p.2 donne une répartition par pays (United States 46 %, France 11 %, Japan 7 %, ..., Liquidités 4 %), pas par zones ; Japon 7 % (≠ 4,7), liquidités 4 % (≠ 2,5) ; Amérique du Nord 50,1 / Europe 40,1 / EEMEA absents"
+  }
+ },
+ {
+  "isin": "LU0945617289",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « FFG GLOBAL DEFENSIVE (I ACC) EN EUR »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : Orcadia Asset Management) ni le KID ne nomment de gérant personne physique"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « Actifs nets de la part I Acc 11 621 683,59 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « géré activement ... sans référence à un indice »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "aucune part d'investissements durables chiffrée dans la factsheet ; KID : seulement « un minimum de 10% » ; 87 absent"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "1/11 retrouvée : « Liquidités et marché monétaire 9,5 % » (p.2, image) ; les 10 lignes « Positions » sont absentes (pas de liste de positions dans la factsheet)"
+  }
+ },
+ {
+  "isin": "LU2736456919",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « Actifs nets du fonds 69 205 046,15 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID et factsheet : géré sans valeur de référence (benchmark) ; MSCI World NR EUR = univers d'investissement initial seulement"
+   }
+  }
+ },
+ {
+  "isin": "LU2059537956",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « FFG GLOBAL EQUITY CONVICTIONS (I ACC) EN EUR »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « Actifs nets de la part 4 955 192,19 € »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "factsheet p.2 : seulement « un minimum de 5% de ses actifs nets dans des actifs durables » ; 76 absent"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "pas de répartition par classes d'actifs (Actions 99,37 / Liquidités 0,63) dans la factsheet (secteurs, géographie, capitalisations, positions seulement)"
+  }
+ },
+ {
+  "isin": "LU1697917166",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « FFG GLOBAL FLEXIBLE CONVICTIONS (I ACC) EN EUR »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments s.a.) ni le KID ne nomment de gérant personne physique"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « Actifs nets de la part 34 638 605,61 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (image) : « géré de manière active sans considération d'un indice de référence »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "note": "factsheet : seulement « un minimum de 5% de ses actifs nets dans des actifs durables » ; 79 absent"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "traduction anglaise fidèle du paragraphe « Objectifs » et des critères ESG du KID (rendement > placement obligataire en euro, ETC 20 %, OPC 10 %, actions A 10 %, minimum 5 % durable)"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "factsheet p.2 (image) au 31/08/26 : Industrie 23 %, Soins de santé 35 %, Technologies de l'information 11 %, Conso. discrétionnaire 11 %, Matériaux 7 %, Finance 6 %, Services de communication 2 %, Conso. de base 4 % ; aucune des 8 valeurs du classeur (23,84 / 23,12 / 14,89 / 12,14 ...)"
+  }
+ },
+ {
+  "isin": "LU0690374029",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « The Fund is not managed with reference to any benchmark » (MSCI World cité comme simple comparateur)"
+   }
+  }
+ },
+ {
+  "isin": "LU2423020796",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris ; phrases coupées par la mise en colonnes / césures"
+   }
+  }
+ },
+ {
+  "isin": "LU1481584016",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « There is no comparison with a benchmark index »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "KID : texte repris (césure « sub-/fund »)"
+   }
+  }
+ },
+ {
+  "isin": "LU2312730000",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : phrase identique, coupée par la mise en page"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « actively managed and not benchmarked against an index »"
+   }
+  }
+ },
+ {
+  "isin": "LU3201875161",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « No index is used for comparison purposes » ; « without benchmarking »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "factsheet : texte repris (césures « sub-/fund »)"
+   }
+  }
+ }
+]

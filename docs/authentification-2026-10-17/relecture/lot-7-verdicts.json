@@ -1,0 +1,1602 @@
+[
+ {
+  "isin": "FR0013439817",
+  "cases": {
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3",
+    "note": "factsheet p.1, échelle SRI : case 3 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : 15% MSCI World + 85% des obligations à échéance 2028 émises par l'Etat français et libellées en EUR »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Secteurs (poche obligations) : Consommations Cycliques 27,83% ; Consommations non-cycliques 22,33%"
+  }
+ },
+ {
+  "isin": "IE00BNGJKS90",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Asset allocation : Equity 57.8%, Fixed Income 36.2%, Mutual Fund 3.4%, [Cash] 2.6% (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU1480991469",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Secteurs : Consommation non essentielle 10.4, Communications et services 6.7, Energie 2.3"
+  }
+ },
+ {
+  "isin": "LU0159201655",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « composé de 2 indices FTSE Russell Convertible: 2/3 FTSE Russell Global Focus couvert et 1/3 FTSE Russell Global Focus IG couvert »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Répartition géographique : Etats-Unis 45.19, Autres (Liquidités compris) 18.82, Taiwan 1.50, Singapore 0.77"
+  }
+ },
+ {
+  "isin": "LU2346313575",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Secteurs en anglais : Consumer Cyclicals 20.5, Consumer Non-Cyclical 6.2, Energie 3.6, Financial Other 3.3, Industrial Other 1.1, Government-Related 0.9 ; Géographie Asia 2.5"
+  }
+ },
+ {
+  "isin": "LU1809976522",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI World ND EUR » (ND = net dividendes = NR)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Consommation non essentielle 13.9, Communications et services 13.1, Biens de consom. de base 9.7 ; Pays : Etats-Unis 77.2, Cash 2.8"
+  }
+ },
+ {
+  "isin": "LU2596536651",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 60% MSCI ACWI NET TR USD / 40% BLOOMBERG GLOBAL-AGGREGATE TOTAL RETURN INDEX VALUE UNHEDGED USD »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Politique d'investissement », texte repris mot pour mot (puces)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Secteurs : Produits financiers 19,7 ; Produits de première nécessité 1,8"
+  }
+ },
+ {
+  "isin": "LU1670618187",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« The M&G (Lux) Asian Fund is a sub-fund of M&G (Lux) Investment Funds 1. »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Fund manager David Perrett ; Deputy fund manager Carl Vine"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Benchmark « MSCI AC Asia Pacific ex Japan Net Return Index »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "Number of companies 77"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent dans la factsheet p.1-4 : perte en capital, marchés émergents, Actions A chinoises via Stock Connect, Marketing Communication, sub-fund de M&G (Lux) Investment Funds 1, fusion du 26/10/2018 de l'OEIC lancé le 14/09/1973"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; 2e partie traduite d'un prospectus/KID (SAVS 5 %, QFI) absente de la factsheet anglaise, pas de KID fourni"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "« Fund description » p.1, mot pour mot (césure Shenzhen-/Hong Kong)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "20/21 retrouvées (secteurs, pays, cash 0,7) ; Actions 99,3 % absent (pas de répartition par classe d'actifs, valeur déduite)"
+  }
+ },
+ {
+  "isin": "LU1582988058",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« sub-fund of M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Fund manager Craig Moran ; Deputy Christophe Machu"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2034.20",
+    "note": "Fund size (millions) € 2.034,20 au 31/08/2026"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "A+ ; YTM 3,31% ; 1175 positions",
+    "note": "Average credit rating A+, Yield to maturity 3,31%, Number of holdings 1175"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1 : perte en capital, levier 250 %, devises (dérivés pour minimiser l'impact), marchés émergents, obligations (taux, inflation, notation), Marketing Communication, sub-fund"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet (anglaise)"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "« Fund description » p.1, y compris la phrase sur le levier moyen de 250 %"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "8/12 : classes d'actifs nettes retrouvées (Equity 37,4, Gov 36,2, Cash 15,7, Corp 4,7, Infra 3,8, Conv 2,2, Property 0, Other 0) ; absentes : Actions Chine 3,8, Asie 56,11, Amériques 35,49, Europe 8,4"
+  }
+ },
+ {
+  "isin": "LU1670631016",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« sub-fund of M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Charles de Quinsonas, Nick Smallwood, Carlos Carranza ; tenure from 01 March 2024"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3441.16",
+    "note": "Fund size € 3.441,16 au 31/08/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 1/3 JPM EMBI Global Diversified Index, 1/3 JPM CEMBI Broad Diversified Index, 1/3 JPM GBI-EM Global Diversified Index »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "BBB- ; YTM 7,95% ; YTW 7,78% ; 209 émetteurs",
+    "note": "Key information p.1"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1 : perte en capital, EM (political, tax, economic, foreign exchange, liquidity, regulatory), bonds, currencies, levier 150 %, sub-fund"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet (anglaise)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Asset, Industry, Geographic breakdown et Largest issuers p.3 : toutes les lignes listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU3149167358",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "la factsheet porte sur la part EUR S-H (LU1670714226, lancée le 26/10/2018) ; 23/09/2025 absent"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« sub-fund of M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Gautam Samarth, Stuart Canning, Tristan Hanson ; tenure from 01 October 2024"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "document pour investisseurs professionnels sans indicateur de risque (vérifié sur l'image p.1)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "objectif : « 4-8% per year above the Secured Overnight Financing Rate (SOFR) » ; à noter, Benchmark de la part S-H : ESTR + 4-8%"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "Average credit rating A+, YTM 4,83%, Number of holdings 27"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1-5 : perte en capital, bonds, levier 350 %, concentration, EM, hedging/change, sub-fund"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet (anglaise)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "10/12 : classes d'actifs nettes et positions (UK Gov 5Y 24,1, Brazil 10Y 4,5, Indonesia Equity 4,0) retrouvées ; Amériques 75,32 et Asie 24,68 absentes"
+  }
+ },
+ {
+  "isin": "LU1670707527",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« M&G (Lux) European Strategic Value Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Gérant Richard Halle depuis le 31 janvier 2008 ; adjoint Shane Kelly"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "8393.87",
+    "note": "Encours du fonds (millions) € 8.393,87 au 31/08/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Europe Net Return Index »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "98 entreprises ; turnover non indiqué",
+    "note": "« Nombre d'entreprises 98 » ; aucune rotation 21,54 % dans la factsheet"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "résumé rédigé ; la factsheet dit « Communication commerciale » sans réserve aux professionnels ; fusion du 7 décembre 2018 mentionnée p.4"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "2/3 : Biens de cons. de base 10,6 et Biens de cons. cycl. 10,0 retrouvés ; Actions 98,9 absent (pas de répartition par classe d'actifs ; liquidités 1,1)"
+  }
+ },
+ {
+  "isin": "LU1670713335",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 » (factsheet au nom de M&G (Lux) Global Credit Investment Fund)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Ben Lord, Jamie Hamilton », prise de fonction 05 septembre 2013"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "350.40",
+    "note": "Encours € 350,40 au 31/08/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Bloomberg Global Aggregate Corporate Index EUR Hedged »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "A+ ; YTM 3,91% ; YTW 3,97% ; 305 émetteurs",
+    "note": "Principales caractéristiques p.1"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 : perte en capital, taux/inflation/notation, haut rendement, levier 250 % (description), données ESG de fournisseurs externes, couverture de change"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Obligations d'entreprises 79,0 ; Emprunts d'État 10,5 ; Obligations d'entreprises à haut rendement 1,1"
+  }
+ },
+ {
+  "isin": "LU1670618690",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Michael Bourke depuis le 30 septembre 2018 ; adjoint Will Nicklin"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "824.52",
+    "note": "Encours € 824,52 au 31/08/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Emerging Markets Net Return Index »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "98 entreprises",
+    "note": "« Nombre d'entreprises 98 »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 et p.4 : perte en capital, marchés émergents, devises, acquisition de parts et non d'un actif sous-jacent, compartiment, fusion du 26/10/2018"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "2/3 : Biens de cons. cycl. 18,4 et Biens de cons. de base 2,3 retrouvés ; Actions 97,2 absent (seules les liquidités 2,8 figurent)"
+  }
+ },
+ {
+  "isin": "LU1665237704",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Alex Araujo depuis le 05 octobre 2017 ; adjoints Nicholas Cunningham, Son Tung Nguyen"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI ACWI Net Return Index » (indice supplémentaire FTSE Global Core Infra 50/50 NR USD)"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "résumé ; la factsheet cite la concentration (« petit nombre d'investissements »), les devises, les données ESG tiers et les EM, mais pas « moins de 50 titres »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "Actions 97,2 : pas de répartition par classe d'actifs (seules les liquidités 2,8 figurent)"
+  }
+ },
+ {
+  "isin": "LU1670715207",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "John William Olsen depuis le 30 juin 2014 ; adjoints Randeep Somel, Jasveet Brar"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "284.96",
+    "note": "Encours € 284,96 au 31/08/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI World Net Return Index »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "résumé ; « moins de 40 sociétés », devises, fusion du 9/11/2018 figurent, mais le risque lié aux données ESG externes n'est pas dans la liste des risques de ce fonds"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "3/4 : Industries 18,5, Biens de cons. cycl. 5,8, Biens de cons. de base 5,4 retrouvés ; Actions 98,9 absent (liquidités 0,9)"
+  }
+ },
+ {
+  "isin": "LU1670628491",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« The M&G (Lux) Global Themes Fund is a sub-fund of M&G (Lux) Investment Funds 1. » (factsheet Singapour, en anglais)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Alex Araujo, tenure from 19 March 2019 ; Deputy Nicholas Cunningham"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "factsheet Singapour sans indicateur de risque ; pas de KID"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Benchmark « MSCI ACWI Net Return Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1-4 : perte en capital, EM, marché onshore chinois, sub-fund, « the Fund is not listed and you can redeem only on Singapore business days »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet (anglaise)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "19/20 : secteurs, pays et Cash 1,3 retrouvés p.3 ; Actions 98,7 absent (pas de répartition par classe d'actifs)"
+  }
+ },
+ {
+  "isin": "LU1582984818",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« M&G (Lux) Income Allocation Fund est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Stefano Amato depuis le 19 décembre 2022 ; adjoints Maria Municchi, William Hayes"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "637.61",
+    "note": "Encours € 637,61 au 31/08/2026"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "3/17 : positions US Fixed 12,4, US Government 10Y 5,8, Supranational Fixed 3,3 retrouvées ; les 11 « secteurs » à 2 décimales (liquidités 30,95, Obligations d'État 15,86 alors que la factsheet donne Emprunts d'État 32,3, Action - …) et les zones Amériques 41,06 / Asie 33,17 / Europe 25,77 absents"
+  }
+ },
+ {
+  "isin": "LU1670724373",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Richard Woolnough, Stefan Isaacs, Ben Lord », prise de fonction 20 avril 2007"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "7340.09",
+    "note": "Encours € 7.340,09 au 31/08/2026"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "A+ ; YTM 4,40% ; YTW 4,20% ; 165 émetteurs (VaR, coupon moyen, spread duration non indiqués)",
+    "note": "Principales caractéristiques p.1"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 : perte en capital, taux/inflation/notation, haut rendement, levier, EM, devises, données ESG tiers"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Emprunts d'État 46,7 ; Obligations d'entreprises 38,8 ; Obligations d'entreprises à haut rendement 4,5"
+  }
+ },
+ {
+  "isin": "LU1900799617",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« est un compartiment de la SICAV de M&G (Lux) Investment Funds 1 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Maria Municchi depuis le 29 novembre 2018"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "236.65",
+    "note": "Encours € 236,65 au 31/07/2026"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "AA ; YTM 2,48% ; YTW 2,47% ; 131 positions"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 : perte en capital, taux/inflation/notation, devises, levier 100 % (description), EM, données ESG tiers"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "7/16 : Action 45,3, Emprunts d'État 32,4, Obligations d'entreprise 13,9, positions Supranational 9,7, Germany Equity 4,4, UK Gov 10Y 4,3, Germany Gov 10Y 3,2 retrouvées ; les 9 « secteurs » (Obligations d'État 36,5, Action - Technologie 13,59, Obligations de sociétés 13,4…) absents"
+  }
+ },
+ {
+  "isin": "LU2415445837",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« sub-fund of M&G (Lux) Investment Funds 1 » ; la mention « fonds maître » n'y figure pas"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1017.39",
+    "note": "Fund size € 1.017,39 au 31/08/2026 (factsheet part W)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Benchmark « 1-month Euribor + 3.5% »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "résumé rédigé ; « risque de concentration … mentionné dans le KID » et « suspension temporaire » absents de la factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet (anglaise)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "27/35 : 4 classes d'actifs et 23 secteurs retrouvés ; les 8 positions obligataires à 2 décimales (Allemagne 0,5% 5,45…) absentes (la factsheet liste les émetteurs hors emprunts d'État)"
+  }
+ },
+ {
+  "isin": "LU2482630675",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Benchmark « 1-month Euribor »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Asset, Industry et Geographic breakdown p.3 : toutes les lignes listées retrouvées (libellés anglais)"
+  }
+ },
+ {
+  "isin": "LU0390221256",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« MAINFIRST - GERMANY FUND (A) », « sub-fund », Domicile Luxembourg (le nom « MainFirst SICAV » n'est pas écrit en toutes lettres)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Benchmark « Deutsche Börse AG HDAX (HDAX) » p.2"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet (texte et images p.1-2) ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "phrases types du KID en français ; la factsheet (anglaise) dit seulement « Past performance cannot be taken as a guarantee of future performance » et « Any investment involves a general risk of loss of capital »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus/KID en français (art. 41 loi 2010, art. 8 SFDR, commission de performance) ; la factsheet n'a qu'un court objectif en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Sector allocation p.2 : Industrial 26.11%, Pharma & Healthcare 12.26%, Consumer 11.12%, Commodities 5.06%, Utilities 2.93%"
+  }
+ },
+ {
+  "isin": "LU0308864023",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« MAINFIRST - Top European Ideas Fund (A) », « sub-fund », home country Luxembourg (le nom « MainFirst SICAV » n'est pas écrit en toutes lettres)"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "« outperform the Benchmark (Sales Prospectus …) » sans nommer l'indice ; aucun indice sur les graphiques p.1 (image)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "phrases types du KID en français, absentes de la factsheet anglaise"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus/KID en français, absent de la factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Sector allocation et Countries p.2 (30/06/2026) : Consumer 29.36, Commodities 6.96, Energy 4.17, Industrial 2.78, Pharma 2.45, Technology 0.60 ; Germany 43.68, Austria 11.01, Denmark 5.72, UK 4.99, Italy 4.83, Netherlands 4.31, Spain 2.61"
+  }
+ },
+ {
+  "isin": "FR0010687749",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "la factsheet n'indique que « Frais de gestion 2.10% » ; pas de frais courants 2,25 ; pas de KID"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Exposition actions 95.0% ; Cash & Autres 4.9% ; Services conso. 8.0% ; Grande-Bretagne 4.4%"
+  }
+ },
+ {
+  "isin": "FR0011668730",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« MONÉTAIRE & LIQUIDITÉS 21.7% » ; « DEVISES −4.9% »"
+  }
+ },
+ {
+  "isin": "FR0014009BP1",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Conso. cyclique 21.5%, Biens de conso. 5.1%, Cash & Autres 6.4% ; Etats-Unis 18.0%, Grande-Bretagne 2.4%"
+  }
+ },
+ {
+  "isin": "LU1329694266",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Services conso. 11.7%, Biens de conso. 2.7%, Energie 1.2%, Cash & Autres 4.4% ; Etats-Unis 25.6%, Grande-Bretagne 6.5%, Hong-Kong 1.3%"
+  }
+ },
+ {
+  "isin": "LU2257980289",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : MSCI All Countries World Index NR EUR »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Cash & Autres 12.0% (secteurs) et 6.8% (zones), Services conso. 1.2%, Biens de conso. 0.5%, Émergents 3.1%"
+  }
+ },
+ {
+  "isin": "MT7000016366",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "objectif et politique repris mot pour mot p.1 (césure « Sub- Fund »)"
+   }
+  }
+ },
+ {
+  "isin": "MT7000021101",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1, texte repris mot pour mot (« taken verbatim from the KIID », césure « Su b-Fund »)"
+   }
+  }
+ },
+ {
+  "isin": "FR0010871830",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« * inception 22 of March, 2010 » (performances de la part R) ; à noter, « Inception date 22-Dec.-06 » dans Fund information"
+   }
+  }
+ },
+ {
+  "isin": "LU0552385295",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Un compartiment de Morgan Stanley Investment Funds », Structure Luxembourg SICAV"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucune échelle SRI dans la factsheet (texte et images p.1-2) ; pas de KID"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indice de référence : MSCI All Country World Net Index »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "1re phrase présente (« Les performances passées ne sont pas un indicateur fiable des résultats futurs. ») ; la 2e (pas de protection contre les aléas de marché) absente"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Biens de consommation discrétionnaires 26,48 ; Europe (hors zone EURO) 9,78"
+  }
+ },
+ {
+  "isin": "LU0225737302",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Un compartiment de Morgan Stanley Investment Funds », Structure Luxembourg SICAV"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Dennis Lynch, Sam Chainani, Jason Yeung, Armistead Nash, Alexander Norton (Head of Counterpoint Global…)"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucune échelle SRI dans la factsheet (texte et image p.2) ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "1re phrase présente ; la 2e (pas de protection contre les aléas de marché) absente"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Biens de consommation discrétionnaires 16,49"
+  }
+ },
+ {
+  "isin": "LU0119620416",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« A Sub-Fund of Morgan Stanley Investment Funds — Global Brands Fund », Share Class A, Structure Luxembourg SICAV"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucune échelle SRI dans la factsheet ; pas de KID"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Index MSCI World Net Index »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte (en anglais) absent : la factsheet dit « Long-term growth of your investment » et « high quality companies built on dominant market positions and underpinned by powerful intangible assets… »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Sector Allocation et Top Countries p.2 : IT 17.41, Consumer Staples 13.54, Cons. Discr. 12.39, Industrials 12.34, Health Care 12.14, Comm. Services 10.04, Cash 2.40 ; US 69.62, UK 7.96, Taiwan 5.82, Italy 3.55, Germany 3.15"
+  }
+ },
+ {
+  "isin": "LU1951204046",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Natixis International Funds (Lux) I », Forme juridique « Compartiment de SICAV »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Gérants de portefeuille : Paul BETHELL, Walid Azar Atallah (Mirova)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "605.5 (USD m)",
+    "note": "« Actif net USDm 605,5 » au 30/09/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI ACWI NET TR USD INDEX »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « …NE SONT PAS UNE GARANTIE DES RÉSULTATS FUTURS » ; « La valeur du capital et les rendements évoluant au fil du temps… » (perte possible exprimée par « prix de rachat … inférieur »)"
+   }
+  }
+ },
+ {
+  "isin": "LU2169560799",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Natixis International Funds (Lux) I », « Compartiment de SICAV »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "Michael Hayward, Sanjay Ayer (WCM)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1327.3 (USD m)",
+    "note": "« Actif net USDm 1 327,3 » au 30/09/2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI ACWI NET TR USD INDEX »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "« …NE SONT PAS UNE GARANTIE DES RÉSULTATS FUTURS » ; « La valeur du capital et les rendements évoluant au fil du temps… »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Répartition sectorielle : Produits financiers 10,4 ; Energie 2,7"
+  }
+ },
+ {
+  "isin": "LU0445386369",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Les fonds mentionnés font partie de Nordea 1, SICAV une société d'investissement à capital variable basée au Luxembourg »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent aucunement des résultats futurs… La valeur de votre investissement peut évoluer à la hausse comme à la baisse, et vous pourriez perdre une partie ou la totalité du capital… »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Fx Forward net -38,17 ; FX forward GBP 14,45, NOK 10,41, BRL 10,27, AUD 9,62 ; Répartition géographique : Europe 70,87, Amérique du Nord 42,10, Middle East & Africa 15,18, Autres 5,64, Europe (émergents) 0,82"
+  }
+ },
+ {
+  "isin": "LU0602539602",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Emerging Markets Index (Net Return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Allocation d'actifs (graphique p.2, image) : Actions (99,9 %), Liquidités nettes (0,1 %)"
+  }
+ },
+ {
+  "isin": "LU0348926287",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI World Index (Net Return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Allocation d'actifs (graphique p.2, image) : Liquidités nettes (0,0 %)"
+  }
+ },
+ {
+  "isin": "LU2463526074",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indice: MSCI ACWI Index (Net Return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Allocation d'actifs (image p.2) : Actions (99,1 %), Liquidités nettes (0,9 %)"
+  }
+ },
+ {
+  "isin": "LU0078812822",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 50% NIBOR 3M and 50% Norway FI - RM123FRN » (Regular Market secteurs 1-2-3, FRN)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Allocation d'actifs (image p.2) : Obligations (98,7 %), Liquidités nettes (1,3 %)"
+  }
+ },
+ {
+  "isin": "LU0227384020",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Fx Forward net -81,66 ; US Treasury 4.5% 2036 5,79, 4.5% 2033 4,11, 4.125% 2036 3,87 ; FX forward BRL 3,59, NOK 3,43, PLN 3,39, AUD 3,36 ; Amérique du Nord 91,42, Europe 36,63, Asia Pacific 2,54 / 2,33, Latin America 0,71"
+  }
+ },
+ {
+  "isin": "LU3076185084",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Europe IMI Index » (Net Return)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Allocation d'actifs (image p.2) : Actions (99,5 %), Liquidités nettes (0,5 %)"
+  }
+ },
+ {
+  "isin": "LU0112467450",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« font partie de Nordea 1, SICAV … basée au Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 70% MSCI World Index (Net Return) and 30% EURIBOR 1M (FX adjusted) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1, même formulation"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Allocation d'actifs (image p.2) : Actions (98,7 %), Liquidités nettes (1,3 %)"
+  }
+ },
+ {
+  "isin": "FR0000299356",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "Legal Form SICAV, Legal Domicile France (factsheet en anglais)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "301.77",
+    "note": "« Total net assets 301.77 M€ » au 08-2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : case 4 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Nordic 10/40 Index. The benchmark index is expressed in EUR. »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "seule « Past performance is no guarantee of future performance » figure (en anglais) ; pas de phrase sur l'absence de protection"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du prospectus en français (changement de nom 22/10/2025, univers ≥ 250 M€, 75 % actions…) ; la factsheet ne reprend que l'objectif en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "positions avec d'autres poids p.2 : NOVO-NORDISK 7.1% (classeur 5,82), SPOTIFY 6.6% (5,28), ATLAS COPCO 5.3% (5,15), VOLVO 4.8% (4,42), NOKIA 4.2% (4,07), NOVONESIS 4.0% (3,59), NORDEA 4.0% (4,72) ; Norden Small, DSV, Sampo hors top 10 ; secteurs par sous-industrie (Machines 23,61…) et classes d'actifs (Actions 93,4, OPC 6,54) absents (la factsheet donne des secteurs GICS : Industrials 38, Financials 21…)"
+  }
+ },
+ {
+  "isin": "LU1919842267",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1180 (M$)",
+    "note": "« Actif net du fonds 1 180 M$ » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« Frais de gestion et autres frais administratifs et d'exploitation 1.702 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 5 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : MSCI World (NR) in EUR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée : risque de perte en capital (liste des risques), « Les performances passées ne présagent pas… », « Durée d'investissement conseillée 5 ans »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 (image) avec d'autres valeurs : Logiciels et Services 21,3 (classeur 20,7), Médias 10,8 (9,1), Distribution 7,4 (8,2), Matériel 8,0 (7,8), Pharma 3,4 (4,4), Télécom 2,3 (1,8), Autres 3,0 (3,1) ; Etats-Unis 70,8 (67,3), Chine 4,2 (6,3), Pays-Bas 4,2 (3,4), Japon 3,5 (3,8), Taiwan 3,8 (3,7), Corée 3,8 (3,4), Canada 1,3 (1,2), Autres 0,9 (2,6), Uruguay absent ; Actions 94,9 cohérent avec poche monétaire 5,1"
+  }
+ },
+ {
+  "isin": "FR0000989899",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 10,00% ESTER European Short Term Rate + 8.5 BP + 90,00% MSCI France Smid Cap Loc Net »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée : risque de perte en capital, performances passées, « L'atteinte des objectifs de gestion en termes de risque ne peut être garantie »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Industrie 26,8 (classeur 27,8), Santé 22,0 (22,6), Finance 5,5 (6,3), Services de communication 5,5 (5,9), Énergie 3,5 (2,8), Matériels 1,3 (1,4) ; France 71,6 (72), Allemagne 15,5 (14,3), Pays-Bas 2,2 (2,8), Espagne 0,6 (1) ; poche monétaire 8,4 (classeur Actions 91,64 / Liquidités 5,68 / Obligations 2,68 absents) ; seule Biomérieux 4,09 identique"
+  }
+ },
+ {
+  "isin": "FR0000990095",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI EMU SMID Cap (NR) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "risque de perte en capital et « Les performances passées ne présagent pas des performances futures »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Industrie 44,7 (classeur 45,3), Technologies de l'Inf. 14,3 (12,9), Santé 19,8 (identique) ; Allemagne 31,7 (29,8), France 26,2 (26,3), Finlande 3,2 (4,2), Pays-Bas 2,2 (2,6) ; pas de Tracker ni Luxembourg 8,1 ; poche monétaire 12,8 (classeur Actions 87,2)"
+  }
+ },
+ {
+  "isin": "FR0000974149",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Europe Smid EUR NR »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "perte en capital et performances passées figurent, mais aucune restriction pour ressortissants/résidents russes et biélorusses dans la factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Industrie 39,2 (classeur 39,8), Santé 27,0 (27,7), TI 12,0 (10,7), Cons. discr. 5,0 (4,6), Finance 1,1 (1,5), Services de communication 0,4 (0,5) ; Allemagne 22,2 (21,1), Royaume-Uni 14,8 (16,3), France 12,7 (12,5), Suisse 6,3 (6,1), Danemark 6,0 (5,8), Irlande 6,9 (4,8), Autriche 4,4 (4,3), Autres 4,8 (8,9) ; pas de Tracker ni Luxembourg 8,1 ; poche monétaire 13,0 (classeur Actions 92,83 / Liquidités 6,52)"
+  }
+ },
+ {
+  "isin": "LU1493433004",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date of the fund 12/16/16 » (part : 12/31/13)"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Sub-fund of the ODDO BHF SICAV Lux. Umbrella (UCITS) »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Management company (by delegation) Wellington Management International Ltd, UK »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "« Assets Under Management 48 M€ » (arrondi de 48,24)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Thomson Reuters Global Focus Hedged Convertible Bond Index » (même indice, devenu FTSE Global Focus Hedged CB)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "Breakdown by rating p.2 (image) : NR 80,7 % ; >= A 8,3 % ; BBB 9,7 % ; B 1,3 %"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "la liste des risques p.2 correspond, mais aucune restriction Russie/Biélorussie dans la factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé (explication des convertibles, description du portefeuille), absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "23/26 : secteurs, zones (p.2, image) et 5 positions retrouvés ; Convertible 94,31, Liquidités 1,97, Obligations 1,48 absents"
+  }
+ },
+ {
+  "isin": "DE0009772988",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "372",
+    "note": "« Actif net du fonds 372 M€ » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 100% MSCI World (EUR, Net return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation : « risque de perte en capital », performances passées, « risque de modèle, risques opérationnels, y compris les risques de dépositaire, risques de change, risque de durabilité »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Technologie 32,8 (classeur 31,2), Banques 10,0 (10,6), Biens et services indus. 9,1 (8,5), Vente au détail 7,5 (7,1), Santé 7,3 (6,7), Assurances 5,2 (5,9), Services financiers 4,4 (4,1), Construction 3,3 (3,4), Soins perso 3,2 (3,7), Autres 11,0 (12,5) ; Etats-Unis 66,9 (65,9), Japon 6,3 (6,4), Royaume-Uni 4,1 (=), Canada 3,5 (3,8), Italie 3,4 (3,8), Espagne 3,0 (=), Israël 1,8 (1,9), Allemagne 1,7 (1,8), Irlande 1,0 (1,1)"
+  }
+ },
+ {
+  "isin": "LU1864504425",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 12/3/18 » (fonds : 10/23/07)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Portfolio managers ODDO BHF SE, Tilo Wannow »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« Management fees and other administrative or operating costs 1.581 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 20% MSCI USA NET in EUR + 25% MSCI Europe (Net Return) + 5% MSCI Emerging Markets Daily Net TR EUR + 5% JPM Cash Index Euro Currency 1M + 45% Bloomberg Euro Aggregate TR Unhedged 1-10 »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 : Investment Grade bonds 35.41%, High Yield 2.11%, Emerging Markets Bonds 0.69%"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "les risques (custody, target fund, currency, sustainability) figurent, mais aucune restriction Russie/Biélorussie"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; la factsheet (anglaise) n'a qu'une courte stratégie d'investissement"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Bonds 38.20, Xetra Gold 3.78, Cash & Others 3.47 ; p.5 (image) secteurs et pays de la poche actions ; top holdings : Ishr Stoxx Eur 600 Banks 1.8, Taiwan Semiconductor ADR 1.6, Visa 1.5"
+  }
+ },
+ {
+  "isin": "LU1849528234",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 1/25/19 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« ODDO BHF SE, Nils Bosse Parra »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« … operating costs 1.673 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 50% MSCI Europe (Net Return) + 30% MSCI USA NET in EUR + 10% MSCI Emerging Markets Daily Net TR EUR + 10% JPM Cash Index Euro Currency 1M »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "les risques figurent, mais aucune restriction Russie/Biélorussie"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Cash & Others 5.90 ; top holdings Visa 2.8, Alphabet 2.8 ; secteurs et pays p.5 (image) identiques"
+  }
+ },
+ {
+  "isin": "LU1874836890",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 2/13/19 »"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "nom du fonds ODDO BHF Polaris Flexible CRw-EUR ; Legal structure « FCP »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« ODDO BHF SE, Patrick Suck »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« … operating costs 1.694 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 3 (image)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 : Investment Grade 20.52%, High Yield 2.22%, Emerging Markets Bonds 2.04%"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "perte en capital (disclaimer), « Past performance is not an indication of future results », « Recommended investment horizon 5 Years »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Bonds 24.79, Cash & Others 9.37, Xetra Gold 2.64 ; top holdings Visa 2.3, Alphabet 2.0, DPAM Bonds EMK 2.0 ; secteurs et pays p.5 (image) identiques"
+  }
+ },
+ {
+  "isin": "DE000A2JJ1W5",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 12/10/18 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« ODDO BHF SE, Peter Rieth »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 15% MSCI Europe (Net Return) + 8% MSCI USA NET in EUR + 2% MSCI Emerging Markets Daily Net TR EUR + 10% JPM Cash Index Euro Currency 1M + 65% Bloomberg Euro Aggregate TR… »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 : IG 30.02%, Government 18.64%, Covered 14.68%, EM 3.64%, HY 1.41%"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "perte en capital, performances passées, « Recommended investment horizon 3 Years »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Bonds 68.39, Cash & Others 4.18, Xetra Gold 1.81 ; top holdings DPAM 3.6, Alphabet 1.0, iShares Banks 1.0 ; secteurs et pays p.5 (image) identiques"
+  }
+ },
+ {
+  "isin": "LU1833929729",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "Statut juridique « Compartiment de SICAV Lux. ODDO BHF » (la loi de 2010 n'est pas citée)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« Frais de gestion et autres frais administratifs et d'exploitation 1.312 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 100% S&P 500 EUR Net Total Return Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "liste des risques p.4 : perte en capital, crédit, taux, pays émergents, contrepartie, liquidité, actions, change, volatilité, durabilité, modèle quantitatif"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 (image) avec d'autres valeurs : Technologie 45,1 (classeur 42), Vente au détail 8,7 (9,1), Santé 8,1 (7,9), Biens et services indus. 6,4 (6,9), Gaz & Pétrole 5,3 (4,7), Services financiers 4,9 (4,7), Soins perso 4,0 (4,3), Télécom 2,8 (2,9), Assurances 2,3 (2,7), Autres 8,6 (9,8) ; Etats-Unis 97,9 (96,5), Irlande 1,7 (2,2), poche monétaire 0,1 (1,1) ; Suisse 0,2 et Singapour 0,1 identiques"
+  }
+ },
+ {
+  "isin": "FR0014008NN3",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Libellé de la SICAV Global SICAV ; Libellé du compartiment Ofi Invest Energy Strategic Metals » (nom actuel plus long que celui du classeur)"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5",
+    "note": "Profil de risque p.1 : case 5 surlignée (image)"
+   }
+  }
+ },
+ {
+  "isin": "FR0011170182",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Libellé de la SICAV Global SICAV ; Libellé du compartiment Ofi Invest Precious Metals »"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5",
+    "note": "Profil de risque p.1 : case 5 surlignée (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Swap sur indice OFI Invest Precious… 125,0%"
+  }
+ },
+ {
+  "isin": "FR0010564351",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 25 % Bloomberg Barclays Capital Euro Aggregate Corporate + 25 % Bloomberg US Corporate Bond Euro Hedged + 50 % MSCI World 100% Hedged to EUR »"
+   }
+  }
+ },
+ {
+  "isin": "FR0013357704",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "rapport semestriel au 30/06/2026 : actif net 33 227 385,71 €"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "le document fourni est un rapport semestriel (état du patrimoine, inventaire) sans frais ; pas de KID"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "absent du rapport semestriel ; pas de KID"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur de référence dans le rapport semestriel"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans le rapport semestriel"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "objectif et politique (prospectus) absents du rapport semestriel"
+   }
+  }
+ },
+ {
+  "isin": "LU1417813323",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "« Actifs net: EUR 673 569 072 »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Indicateur de risque p.2 : case 3 grisée (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.4 PROTEA-ORCA.EQ.EUR.SUS.EX-FOS.B EUR 2.8% ; p.3 Actions et assimilés (image) USA 52.5%"
+  }
+ },
+ {
+  "isin": "NO0010297898",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "« PRIIPs KID risk score from 1 (low) to 7 (high): 4 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Financials 28%, Industrials 19%, Consumer staples 17%, Energy 15%, Materials 15%, Cash 4%, Consumer discretionary 3%"
+  }
+ },
+ {
+  "isin": "LU1608101579",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "« PRIIPs KID risk score from 1 (low) to 7 (high): 2 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Financials 33%, Energy 21%, Industrials 10%, Consumer 8%, Shipping 8%, Cash 5%, Diversified 4%, Real Estate 4%, Business services 3%, Public Services 1%"
+  }
+ },
+ {
+  "isin": "LU0922130215",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "« PRIIPs KID risk score from 1 (low) to 7 (high): 2 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "mêmes secteurs que la part EUR, dont TMT 2% et Public Services 1%"
+  }
+ },
+ {
+  "isin": "LU0649640892",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Cash et cash équivalent -4% »"
+  }
+ },
+ {
+  "isin": "LU0280435388",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », Domicile Luxembourg, « Pictet - Clean Energy Transition »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5147",
+    "note": "« Taille du fonds (Mio) EUR 5 147 » au 30.09.2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens, formulation voisine : « Les performances passées ne préjugent pas des performances futures… vos investissements peuvent perdre tout ou partie de leur valeur »"
+   }
+  }
+ },
+ {
+  "isin": "LU0340554913",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Compartiment de la Sicav de droit luxembourgeois Pictet »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "Avertissement p.1 : « …ne constituent pas un indicateur fiable des rendements futurs… soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0130732364",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "129",
+    "note": "« Taille du fonds (Mio) EUR 129 » au 30.09.2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indice actuel: MSCI AC World (EURO) valable à partir du 29.05.2020 »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens : « La performance passée ne saurait préjuger… il est possible que les investisseurs ne récupèrent pas la totalité du montant initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Biens de consommation… 15.38 »"
+  }
+ },
+ {
+  "isin": "LU0503631714",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "4644",
+    "note": "« Taille du fonds (Mio) EUR 4 644 » au 30.09.2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens : « La performance passée ne saurait préjuger… ne récupèrent pas la totalité du montant initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Approvisionnement en eau &… 7.53 » (libellé tronqué dans la factsheet)"
+  }
+ },
+ {
+  "isin": "LU0366534344",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "359",
+    "note": "« Taille du fonds (Mio) EUR 359 » au 30.09.2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens : « La performance passée ne saurait préjuger… ne récupèrent pas la totalité du montant initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Norvege 4.29 »"
+  }
+ }
+]

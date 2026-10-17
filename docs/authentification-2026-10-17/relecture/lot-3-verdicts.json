@@ -1,0 +1,1779 @@
+[
+ {
+  "isin": "LU1594335520",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Allianz Dynamic Multi Asset Strategy SRI 75 », classe d'actions AT (EUR)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.4 : « Notation moyenne AA- » (section obligations)"
+   }
+  }
+ },
+ {
+  "isin": "LU1093406186",
+  "cases": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Allianz Dynamic Multi Asset Strategy SRI 50 AT (EUR)",
+    "note": "factsheet p.1 : « Allianz Dynamic Multi Asset Strategy SRI 50 », classe AT (EUR) ; « Allianz Strategy 50 NT » n'apparaît pas"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.4 : « Notation moyenne A »"
+   }
+  }
+ },
+ {
+  "isin": "LU1981791327",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : indicateur de risque 4"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indice de réf. MSCI AC World (ACWI) Total Return »"
+   }
+  }
+ },
+ {
+  "isin": "LU1481687926",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Benchmark SOFR (hedged into EUR) »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.3 : « Average rating AAA »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "25/25 : classes d'actifs lues sur le graphique p.2 (57.52 / 12.53 / 9.93 / -69.51), top 10 p.2 (US TREASURY N/B FIX + échéances), secteurs et régions p.3 (en anglais)"
+  }
+ },
+ {
+  "isin": "FR0010785865",
+  "cases": {
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "0,12",
+    "note": "factsheet p.2 : « Duration eff. incl. liquid. & dériv. 0,12 »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Notation moyenne A+ »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 : répartition des actifs p.2 (Corporate 67,73 / Government 19,85), allocation sectorielle p.3 (Corporate 58,51 / Government related 1,83), principaux émetteurs p.3 (Electricite de France SA 3,71)"
+  }
+ },
+ {
+  "isin": "FR0010188383",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF disponible = KID (10/02/2026), sans date de création"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul, pas d'encours"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « l'indice MSCI Emerging Markets Free » ; p.3 : « 100% MSCI EM (EMERGING MARKETS) NR Close »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte (« Au moyen d'une gestion active fondamentale… Top down / Bottom up ») absent du KID, qui décrit une stratégie nourricière d'AMUNDI FUNDS EMERGING WORLD EQUITY ; pas de factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "40/40 non retrouvées : seul le KID est disponible, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU1956955550",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID (pas de factsheet) ; aucune date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID : Polen Capital n'est cité que dans le nom du compartiment, pas comme gestionnaire délégué"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul, pas d'encours"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « Indice MSCI World All Countries (ACWI) (Net dividend) »"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Atteindre une croissance du capital à long terme. […] Le Compartiment est géré activement et utilise l'Indice MSCI ACWI (Net dividend) a posteriori comme indicateur […] Il n'existe aucune contrainte relative à un tel Indice de référence qui limite la construction du portefeuille.",
+    "note": "KID p.1 : autre version ; le classeur dit au contraire que le compartiment est géré par rapport à l'indice, qu'il cherche à surperformer, et principalement exposé à ses émetteurs"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "32/32 : seul le KID est disponible, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU1883849603",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "KID seul, pas de date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte anglais d'une autre version (Bloomberg Barclays, 25 % convertibles, 20 % HY, 10 % actions) ; le KID FR p.1 (indice Bloomberg US Aggregate) ne reprend pas ces phrases"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "10/10 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0272941971",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "KID seul (22/05/2026), pas de date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « Euro Short Term Rate (ESTER) + 3 % par an » ; commission de performance : « 100 % ESTR CAPITALISE (OIS) »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : mêmes phrases et même contenu (rendement absolu, options Euro Stoxx 50, ESTER +3 %, volatilité de la volatilité), traduction légèrement différente"
+   }
+  }
+ },
+ {
+  "isin": "LU1894680757",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « Indice ICE BofA US 3-Month Treasury Bill »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "valeur « gsgs » (saisie parasite), absente du KID"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte détaillé (20 % ABS/MBS, 10 % CoCo, 30 % émergents) absent du KID du 22/05/2026, rédigé autrement"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "16/16 : KID seul"
+  }
+ },
+ {
+  "isin": "IE00B61N8946",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "KID seul, pas de date de lancement"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « a nommé Metori Capital Management en tant que Gestionnaire d'investissement par délégation »"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID ne donne que « Frais de gestion et autres frais administratifs et d'exploitation 1,92 % » (frais courants), pas la commission de gestion"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   }
+  }
+ },
+ {
+  "isin": "FR0010156604",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "KID seul (18/08/2026)"
+   },
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "AMUNDI OBLIG INTERNATIONALES FLEXIBLE EUR - P (C)",
+    "note": "KID p.1, nom du produit"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,18",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs 1,18 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « €STER capitalisé OIS » (objectif : +1,65 %)"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "KID seul (fourchette de sensibilité 0 à +9,5 seulement)"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "La SICAV a pour objectif d'obtenir, sur la période de placement recommandée de minimum 3 ans, […] une performance supérieure de 1,65 % à celle du taux du marché monétaire au jour le jour, €STER capitalisé OIS.",
+    "note": "KID p.1 ; le classeur cite l'ancien objectif (JP Morgan GBI Broad, tracking-error 7 %)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "20/20 : KID seul"
+  }
+ },
+ {
+  "isin": "BE0058285850",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Aphilion Q² - Equities », « Sicav de droit belge » (« QA » = « Q² » mal encodé)"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "factsheet sans encours (776.43 = VNI) ; pas de KID"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur de risque dans la factsheet (vérifié sur l'image p.1)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (commission de performance) : « indice Bloomberg Developed Markets Large & Mid Cap NR (Bloomberg : DMNE Index) »"
+   }
+  }
+ },
+ {
+  "isin": "FR001400R6D5",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "23.06",
+    "note": "factsheet p.1 : « Actif net du fonds 23.06 M€ » (09-2026)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « MSCI AC WORLD EUR » ; « MSCI World All Countries… exprimé en EUR » (code MDWD non cité)"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 (image) : Technologie 30 (classeur 26), Conso. Disc. 12 (7), Télécommunications 4 (Services de communication 7), Conso. Non Cyclique 3 (6), Etats-Unis 57 (55) ; seuls Matériaux 3 et Immobilier 2 concordent"
+  }
+ },
+ {
+  "isin": "FR0013166501",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actif net du fonds 19 221 619,08 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « 30% d'€STR capitalisé, 50% Solactive Eurozone Government Bond Index TR et 20% Solactive Euro HY Corp Index » (depuis le 15/10/2024)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013261765",
+  "cases": {
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "factsheet (2 p., vérifiée sur image) sans actif net ; pas de KID"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « 75% MSCI World AC EUR NR + 25% Ester »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 : répartition sectorielle et géographique p.1 (IT 19.6 %, Conso. Discrétionnaire 8.2 %, Serv. aux Collectivités 4.7 %, Cash et assimilés 2.9 %)"
+  }
+ },
+ {
+  "isin": "FR0013358793",
+  "cases": {
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "factsheet sans actif net ; pas de KID"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « MSCI World AC EUR NR »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 : p.1 IT 23.4 %, Conso. Discrétionnaire 5.3 %, Cash et assimilés 3.6 % (secteurs et zones), Serv. aux Collectivités 2.1 %"
+  }
+ },
+ {
+  "isin": "FR0013173374",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « 75% MSCI ACWI EUR NR + 25% Ester »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 : p.1 IT 30.6 %, Conso. de base 8.4 %, Cash et assimilés 4.6 % (secteurs) et 4.7 % (zones) ; la ligne « classe d'actifs liquidités 4.7 » reprend le 4.7 % de la répartition géographique"
+  }
+ },
+ {
+  "isin": "FR001400BM31",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1, objectif de gestion : « 20% EURO STOXX 50 Net Return EUR + 10% MSCI Daily Net TR World Euro + 60% Bloomberg Global-Aggregate Total Return Index Value Hedged EUR + 10% Bloomberg Global High Yield Total Return Index Value Hedged EUR »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Objectif de gestion » : texte repris mot pour mot (colonne gauche, mise en page sur plusieurs lignes)"
+   }
+  }
+ },
+ {
+  "isin": "FR0014002RJ5",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « 50% Euro Stoxx 50 (EUR - Net Return) + 30% Bloomberg Euro Aggregate Treasury - 3-5 Year + 20% S&P 500 (EUR - Net Return) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "3/3 : p.2 « Evolution des expositions » au 30/09/2026 : Cash 13 %, Future de change 5 % ; principales positions : BIOMERIEUX 2,32 %"
+  }
+ },
+ {
+  "isin": "LU0047882062",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris, y compris « Dans certaines conditions, il est possible que le Sous-fonds s'écarte de cette fourchette » (mise en page en deux colonnes)"
+   }
+  }
+ },
+ {
+  "isin": "LU2429106052",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.77% » (frais courants), pas la commission de gestion"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « l'indice MSCI AC World Total Return Net »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "27/27 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0179866438",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.45% » (frais courants), pas la commission de gestion"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.4 : « 0-100% €STR + 8.5 bps cap + 200 bps »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet) (fourchette de sensibilité -4 à 8 seulement)"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris mot pour mot, sauf la phrase d'introduction « Le fonds est géré de manière active avec une déviation qui pourra être importante… » (sens repris : « l'écart avec l'Indice de référence est susceptible d'être significatif »)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "32/32 : KID seul"
+  }
+ },
+ {
+  "isin": "LU2485150747",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), « Equity QI Team » non cité"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.52% » (frais courants), pas la commission de gestion"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « l'indice MSCI World Total Return Net »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris mot pour mot (lien d'exclusion vers bnpparibas-am.com compris)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "35/35 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0087657150",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.76% » (frais courants), pas la commission de gestion"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « 60 % du SPI Middle Caps Total Return et 40 % du SPI Large Caps Total Return »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris mot pour mot, sauf la phrase d'introduction « Le fonds est géré de manière active avec une déviation… » (même sens dans le KID)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "20/20 : KID seul"
+  }
+ },
+ {
+  "isin": "LU1157401305",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.68% » (frais courants), pas la commission de gestion"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « géré de manière active indépendamment de tout indice de référence »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "15/15 : KID seul"
+  }
+ },
+ {
+  "isin": "LU1319655087",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « géré de manière active indépendamment de tout indice de référence »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris mot pour mot ; la 1re phrase « géré de manière active, sans référence à un indice » reformule « indépendamment de tout indice de référence »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "33/33 : KID seul"
+  }
+ },
+ {
+  "isin": "IE00BK5TWD80",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID, sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID : aucun nom de gérant (seulement Baillie Gifford Investment Management (Europe) Limited, le Gestionnaire)"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.65 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « catégorie 6 sur une échelle de 7 »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte anglais (« We are bottom-up, growth investors… ») absent du KID FR"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "20/20 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0093503497",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID (22/04/2026), sans date de lancement"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « ESG Multi-Asset Fund (le « Fonds ») Class A2 EUR », compartiment de BlackRock Global Funds"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,55 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,55",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 1,55 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "15/15 : KID seul"
+  }
+ },
+ {
+  "isin": "LU1005243255",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement de la Catégorie d'Actions : 18-déc.-2013 »"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « BGF Fixed Income Global Opportunities Fund PART A2 Euro »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Comparateur 1 : BBG Global Aggregate Index (USD Hedged) in EUR »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "12/12 : principales positions p.3 (texte) et répartition des secteurs lue sur le graphique p.3 (Obligations titrisées 34,87, Government Bond 19,87, HY 18,67, IG 14,92, Cash 8,66, Agency MBS 3,01)"
+  }
+ },
+ {
+  "isin": "LU0212925753",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID (17/09/2026), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,78 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « S&P 500 (36 %), FTSE World (ex-US) (24 %), ICE BofAML Current 5 Yr US Treasury Index (24 %), FTSE Non-USD World Government Bond Index (16 %) »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : même contenu phrase par phrase (70 % actions/RF, IFD, indice composite, FTSE World pour comparaison), traduction antérieure (« GFD » au lieu de « CI »)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "26/26 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0072462426",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement de la Catégorie d'Actions : 03-janv.-1997 »"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « BGF Global Allocation Fund PART A2 U.S. Dollar »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Contrainte 1 : 36SP500 24FWXUS 24ML5 16FWGBIX Index » (codes du même indice composite)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "16/16 : ventilation par type d'actif et allocation régionale lues sur les graphiques p.3 (Actions 60,17, Obligations 21,41, Liquidités 15,26, Commodities 3,14, EQ nord-américaines 42,89, etc.)"
+  }
+ },
+ {
+  "isin": "LU0567554463",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1.46 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « ICE BofAML Global High Yield Constrained USD Hedged Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "18/18 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0425308169",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 0,99 % »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « Bloomberg World Government Inflation-Linked 1-20yr Index USD Hedged »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "13/13 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0072463663",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.08 % »"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "MSCI Emerging Markets Latin America Index",
+    "note": "KID p.1 : « le GFD se référera au MSCI Emerging Markets Latin America Index » (pas de version 10/40)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "26/26 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0124384867",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,97 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "21/21 : KID seul"
+  }
+ },
+ {
+  "isin": "LU0097036916",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement de la Catégorie d'Actions : 30-avr.-1999 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : actif net « en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0122376428",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2,06 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « MSCI World Energy 30% Buffer 10-40 Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "25/25 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0326422689",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2.07",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « FTSE Gold Mines Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "20/20 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0055631609",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.08 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2.08",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.08 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « FTSE Gold Mines Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "20/20 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0122379950",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement de la Catégorie d'Actions : 06-avr.-2001 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : actif net « en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0171307068",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,81 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « World Healthscience Fund (le « Fonds ») Class A2 EUR », compartiment de BlackRock Global Funds"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « le MSCI World Health Care Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "27/27 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0326424115",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2.07",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « MSCI ACWI Metals and Mining 30% Buffer 10/40 Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "30/30 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0075056555",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2.07",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « MSCI ACWI Metals and Mining 30% Buffer 10/40 Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "31/31 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0171310443",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,81 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 1,81 % » (arrondi à 1.8)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « MSCI AC World Information Technology 10/40 Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "28/28 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0309191657",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID : « Ce compartiment a été lancé en … et cette classe d'actions en 2007 » (année seulement, jour non précisé)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (145 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,5 (145 EUR pour 10 000 EUR, soit 1,45 %)",
+    "note": "KID p.2 : « Frais de gestion et autres frais administratifs et d'exploitation 1,5% », 145 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "12/12 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU1305479153",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID : « Ce compartiment a été lancé en … et cette classe d'actions en 2016 » (année seulement, jour non précisé)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,6% » (160 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,6 (160 EUR pour 10 000 EUR)",
+    "note": "KID p.2 : « Frais de gestion et autres frais administratifs et d'exploitation 1,6% », 160 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "27/27 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0048292394",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID : « Ce compartiment a été lancé en … et cette classe d'actions en 1993 » (année seulement, jour non précisé)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (155 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "KID p.2 : 1,5%, soit 155 EUR pour 10 000 EUR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte anglais (« The objective of this mixed … fund … ») absent du KID FR"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "19/19 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0048292808",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID : « Ce compartiment a été lancé en … et cette classe d'actions en 1993 » (année seulement, jour non précisé)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,4% » (144 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "KID p.2 : 1,4%, soit 144 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte anglais (« The objective of this mixed … fund … ») absent du KID FR"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "27/27 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0117287580",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID : « Ce compartiment a été lancé en … et cette classe d'actions en 2000 » (année seulement, jour non précisé)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (145 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "KID p.2 : 1,5%, soit 145 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "22/22 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0211340665",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID : « Ce compartiment a été lancé en … et cette classe d'actions en 2005 » (année seulement, jour non précisé)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,4% » (142 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "KID p.2 : 1,4%, soit 142 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID : « BL Global Flexible EUR, classe B »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "26/26 : KID seul, aucune répartition"
+  }
+ },
+ {
+  "isin": "LU0162658883",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date de lancement de la Catégorie d'Actions : 31-juil.-2006 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : actif net « en date du : 31-août-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BLF9YH30",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = KID (15/04/2026), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « le GI se référera au MSCI World Index (l'Indice) à des fins de gestion des risques »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris mot pour mot (césure « c'est-à-dire » sur la dernière phrase)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "21/21 : KID seul"
+  }
+ },
+ {
+  "isin": "IE00B4Z6HC18",
+  "cases": {
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Gérant Aron Pataki/ Nick Pope/ Trevor Holder », gestionnaire de portefeuille Newton Investment Management"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "factsheet : seulement « Frais de gestion annuels 1,50% » ; pas de frais courants ; pas de KID"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : SRI Euro A (Acc.) = 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « EURIBOR à 1 mois +4 % par an » (Cash (1mth EURIBOR) + 4% per annum)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "10/10 : 10 principales positions p.1 (libellés en anglais, ex. « Govt. of (Brazil) 0% LTN 01/01/2030 4,1 ») et exposition action régionale lue sur le graphique p.1 (Amérique du Nord 18,0, Europe hors RU 3,8, Emerging Asia 1,5, Asia Pacific ex Japan 0,5)"
+  }
+ },
+ {
+  "isin": "LU0012119433",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : rapport au 30/09/2026, « Actifs nets totaux (M EUR) 95,69 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1502282632",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3 573,45 M USD",
+    "note": "factsheet p.2 (30/09/2026) : « Total net assets (M USD) 3,573.45 »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : indicateur de risque 5 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Benchmark MSCI World (Net Return) »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "résumé rédigé en français ; la factsheet (en anglais) décrit la stratégie autrement ; pas de KID"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "7/14 : les 7 pays figurent p.3 (United States 70.41, Japan 7.19, Germany 5.40, Taiwan 5.22, Netherlands 3.72, Korea 2.16, China 0.59) ; absents : Actions 96.91 et les 6 secteurs (Électronique et semi-conducteurs 44.5, Internet 33.46, Électrotechnique 12.72, Banques 2.61, Pharmacie 2, Machines 1.61) — la factsheet ne donne qu'un graphique GICS sans valeurs"
+  }
+ },
+ {
+  "isin": "LU0049341216",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : indice de référence « Effective Federal Funds (Rate) »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Rating moyen LT A+ », « Rating moyen CT A-1 » (colonne portefeuille)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "1/1 : top 10 p.3 : « UNITED STATES OF AMERICA 8,72 Souverain(e) »"
+  }
+ },
+ {
+  "isin": "LU0093583077",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 et p.4 : « €STR (Euro Short Term Rate) Capitalized »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Rating moyen LT A », « Rating moyen CT A-1 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1434527435",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2 020,61",
+    "note": "factsheet p.2 (30/09/2026) : « Actifs nets totaux (M EUR) 2 020,61 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Indice de référence MSCI World (Net Return) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "1/1 : top 10 pays p.3 : « Etats-Unis 70,59 »"
+  }
+ },
+ {
+  "isin": "LU1006075656",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "27/27 : tableau de répartition p.2 (Actions/Obligations par secteur et par région : Gouvernement 16,9, Finance 13,5, Technologies de l'info. 11,5, …, Amérique du Nord 38,0 / 15,6, Autres 0,9, Oblig. high yield 0,0, Instruments dérivés 0,0)"
+  }
+ },
+ {
+  "isin": "LU0110451209",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Current index: 50% Bloomberg US Corporate High Yield 2% Issuer Capped Total Return, 20% JPM EMBI Total Return, 20% JPM GBI-EM Global Diversified Total Return and 10% JPM CEMBI Broad Diversified Total Return »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "résumé français (titres en difficulté 10 %, levier 75 %, article 8…) ; la factsheet (en anglais) ne contient que l'objectif ; pas de KID"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "28/28 : p.2 (en anglais) : 10 principaux émetteurs (Mexico Government 4,9…India Government 1,5), secteurs (Emerging market debt 45,8, High yield 40,7, US high yield 37,4…), pays (United States 45,3, Other 34,0, Mexico 7,4…)"
+  }
+ },
+ {
+  "isin": "LU1295551144",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indice actuel: MSCI AC World (dividendes nets réinvestis) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "2/2 : p.2 : « Technologies de l'info. 31,2 », « Conso. discrétionnaire 11,7 »"
+  }
+ },
+ {
+  "isin": "FR0010149179",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU0336083810",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "255",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 255M€ / 289M$ » (part : 152M€)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "1/1 : p.3 : « Viet Nam 2,3% »"
+  }
+ },
+ {
+  "isin": "FR0010149161",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = reporting monétaire d'une page (07/10/2026), sans date de création ; pas de KID"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1 146,52",
+    "note": "reporting p.1 (valorisation 01/10/2026) : « Encours total 1146516573.6 » EUR ; encours de la part 1 136 166 049,51"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur de risque dans le reporting"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "aucun indice de référence cité dans le reporting"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé (€STER, WAM 60 j, WAL 120 j, article 8…) absent du reporting d'une page"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "2/2 : 10 plus importantes positions : « NEUCP BANQUE FEDERATIVE DU CREDIT MUTUEL SA » 2027-03-08 1.77 et 2027-05-10 1.76"
+  }
+ },
+ {
+  "isin": "FR00140081Y1",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "5/9 : les 5 secteurs se retrouvent p.2 en additionnant emprunts privés pays développés + pays émergents (Finance 55,7+6,9=62,6 ; Industrie 7,5+0,4=7,9 ; Energie 6,8+0,2=7,0 ; Conso. discrétionnaire 2,9+1,4=4,3 ; Santé 0,8+0,3=1,1) ; les 4 zones diffèrent (document, poids rebasés : Europe 79,0 au lieu de 79.1, Amérique du Nord 10,2 / 10.1, Europe de l'Est 6,0 / 5.9, Moyen-Orient 1,0 / 1.1)"
+  }
+ },
+ {
+  "isin": "FR001400KAV4",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "4/4 : p.2, somme pays développés + émergents : Finance 45,7+6,5=52,2 ; Energie 8,4+1,1=9,5 ; Immobilier 4,9+0,6=5,5 ; Services aux Collectivités 3,8+0,3=4,1"
+  }
+ },
+ {
+  "isin": "FR001400U4S3",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1516",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 1516M€ » ; « Encours de la part : 1127M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 : p.2, somme pays développés + émergents : Finance 42,4+5,5=47,9 ; Energie 7,6+2,1=9,7 ; Conso. discrétionnaire 3,2+1,1=4,3 ; Industrie 2,6+1,6=4,2 ; Biens de conso. de base 2,2+0,3=2,5"
+  }
+ },
+ {
+  "isin": "FR0010149302",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1565",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 1565M€ » ; « Encours de la part : 1503M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4* (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indicateur de référence MSCI EM NR index »"
+   }
+  }
+ },
+ {
+  "isin": "LU0099161993",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4* (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indicateur de référence MSCI Europe NR index »"
+   }
+  }
+ },
+ {
+  "isin": "FR0010148981",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5420",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 5420M€ » ; « Encours de la part : 4395M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4* (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indicateur de référence MSCI AC World NR index »"
+   }
+  }
+ }
+]

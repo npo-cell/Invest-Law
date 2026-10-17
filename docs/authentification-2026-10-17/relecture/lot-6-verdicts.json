@@ -1,0 +1,1925 @@
+[
+ {
+  "isin": "FR0010241240",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 seulement « Compartiment de SICAV française » / « le compartiment HMG Globetrotter » ; nom de SICAV « HMG Finance » non cité (HMG Finance = société de gestion)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "162,37 M€",
+    "note": "p.1 « Actif net du compartiment Au 30/09/2026 162 368 789,44 € »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 échelle 1-7, case 3 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « indice de référence du compartiment est le MSCI Emerging Markets net en EUR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 bandeau gauche, même texte ; p.2 « Les performances passées ne préjugent pas des performances futures »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Par région d'activité : Afrique/Moyen Orient 18,6 %, Europe Emergente 5,7 %"
+  }
+ },
+ {
+  "isin": "FR0007495049",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Compartiment de SICAV française », nom de SICAV non cité"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 Actif net du compartiment au 30/09/2026 : 39 208 602,07 €"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 échelle, case 3 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "aucun indice de référence ; comparaison à la « Cat. Allocation EUR Modérée » Morningstar"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Sans notation : 30,1 %",
+    "note": "p.1 Par notation financière : Sans notation 30,1 % (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 bandeau gauche ; p.2 pied de page"
+   }
+  }
+ },
+ {
+  "isin": "FR001400SC42",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Indice de référence MSCI World Net Total Return EUR Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Répartition sectorielle en anglais (Information Technology 78,2 %, Industrials 11,7 %, Consumer Discretionary 5,1 %, Communication Services 4,0 %, Unknown 1,0 %) ; géographie Taiwan 2,8 %"
+  }
+ },
+ {
+  "isin": "LU0482497442",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Legal status: Luxembourg SICAV with UCITS status » ; mentions légales « Invesco Funds SICAV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk indicator, case 4 surlignée (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark index MSCI AC Asia ex Japan Index (USD) » (NR non précisé)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment risks, version anglaise : « The value of investments and any income will fluctuate (this may partly be the result of exchange rate fluctuations) and investors may not get back the full amount invested » ; « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais : seul l'objectif figure (« long-term capital appreciation by investing primarily in equity securities of Asian companies… domestic consumption… excluding Japan ») ; prêt de titres, dérivés, gestion active vs indice, article 8 non repris dans ces termes"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Sector breakdown et p.2 Top countries lus sur les graphiques (IT 50.0, Financials 14.3, … Taiwan 36.2, China 18.6, South Korea 16.7…) ; liquidités 2.5 = Cash p.2"
+  }
+ },
+ {
+  "isin": "LU0432616737",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Legal status: Luxembourg SICAV with UCITS status » ; mentions légales « Invesco Funds SICAV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk indicator, case 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Benchmark index: 50% Bloomberg Germany Govt. Over 10 Year Index (Total Return), 25% MSCI World Index EUR-Hedged (Net Total Return) & 25% S&P Goldman Sachs Commodity Index EUR-Hedged (Total Return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment risks, version anglaise : « The value of investments and any income will fluctuate (this may partly be the result of exchange rate fluctuations) and investors may not get back the full amount invested » ; « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais : seul l'objectif court figure (« aims to achieve a positive total return over a market cycle with a low to moderate correlation… via exposure to equities, debt and commodities ») ; notation B-, trois phases du cycle, prêt de titres, dérivés/levier, description de l'indice absents (texte du KID/prospectus)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Portfolio breakdown : Bonds 108.2, Equities 49.9, Commodities 37.0"
+  }
+ },
+ {
+  "isin": "LU0482498762",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Legal status: Luxembourg SICAV with UCITS status » ; mentions légales « Invesco Funds SICAV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk indicator, case 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Benchmark index: 50% Bloomberg Germany Govt. Over 10 Year Index (Total Return), 25% MSCI World Index EUR-Hedged (Net Total Return) & 25% S&P Goldman Sachs Commodity Index EUR-Hedged (Total Return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment risks, version anglaise : « The value of investments and any income will fluctuate (this may partly be the result of exchange rate fluctuations) and investors may not get back the full amount invested » ; « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais : seul l'objectif court figure (« aims to achieve a positive total return over a market cycle with a low to moderate correlation… via exposure to equities, debt and commodities ») ; notation B-, trois phases du cycle, prêt de titres, dérivés/levier, description de l'indice absents (texte du KID/prospectus)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Portfolio breakdown : Bonds 108.2, Equities 49.9, Commodities 37.0"
+  }
+ },
+ {
+  "isin": "LU1775967950",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Legal status: Luxembourg SICAV with UCITS status » ; mentions légales « Invesco Funds SICAV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk indicator, case 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark index Bloomberg Global High Yield Corporate USD Hedged Index »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Avg credit rating BB- »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment risks, version anglaise : « The value of investments and any income will fluctuate (this may partly be the result of exchange rate fluctuations) and investors may not get back the full amount invested » ; « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais : seul l'objectif court figure (« high level of income together with long term capital growth… primarily in global non-investment grade debt securities ») ; le reste (prêt de titres, dérivés, gestion active vs indice, article 8…) vient du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Investment categories (Sub-IG Corporate 86.2, Govt/Agency 6.1, IG 5.0, Cash & Deriv. 2.5) et Sector breakdown (Industrial 75.6, Financials 16.3, Sovereign 5.1, Utility 1.8, Non-US Agencies 1.2)"
+  }
+ },
+ {
+  "isin": "LU1097688714",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Legal status: Luxembourg SICAV with UCITS status » ; mentions légales « Invesco Funds SICAV »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk indicator, case 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Benchmark index: 40% MSCI World Index (EUR hedged) (Net Total Return), 10% ICE BofA Global Corporate Index (EUR hedged) (Total Return), 40% ICE BofA Global High Yield Index (EUR hedged) (Total Return) and 10% J.P. Morgan EMBI Global Diversified Composite Index (Total Return) »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Avg credit rating BB+ »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment risks, version anglaise : « The value of investments and any income will fluctuate (this may partly be the result of exchange rate fluctuations) and investors may not get back the full amount invested » ; « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais : seul l'objectif court figure (« combination of income and capital growth over the medium-to long term… flexible allocation to debt securities and global equities ») ; le reste (prêt de titres, dérivés, gestion active vs indice, article 8…) vient du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Investment categories, Top 5 bond issuers, Equity sectors : tous les % listés figurent (noms en anglais)"
+  }
+ },
+ {
+  "isin": "LU1775964932",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Legal status: Luxembourg SICAV with UCITS status » ; mentions légales « Invesco Funds SICAV »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark index MSCI China 10/40 Index (USD) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment risks, version anglaise : « The value of investments and any income will fluctuate (this may partly be the result of exchange rate fluctuations) and investors may not get back the full amount invested » ; « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "factsheet en anglais : seul l'objectif court figure (« long-term capital growth by investing in shares of companies with substantial exposure to mainland China ») ; le reste (prêt de titres, dérivés, gestion active vs indice, article 8…) vient du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Sector breakdown et p.2 Top countries lus sur les graphiques (Consumer Discr. 23.1, Financials 21.7… China 92.1, Hong Kong 2.7, UK 1.7, US 1.4, Macau 0.9) ; Cash 1.1 p.2"
+  }
+ },
+ {
+  "isin": "FR001400Z404",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de « frais courants » dans la factsheet ; p.1 « Frais de gestion max. : 1,15 % TTC (Part A) » + « Frais de fonctionnement : 0,15% » (somme 1,30 %, cohérente)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « *OAT 2031 » et « obligations émises par l'Etat français libellées en euro d'échéance 2031 » ; précision 25/11/2031 et ISIN FR0014002WK3 absentes"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Répartition par notation (notation Alienor Capital) : A- 1 %, BBB+ 3 %, BBB 6 %, BBB- 36 %, BB+ 15 %, BB 25 %, BB- 10 %, B+ 3 %, B- 1 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Principaux risques liés à l'investissement : risque de perte en capital, risque lié à la gestion discrétionnaire, risque de crédit, risque de taux, risque sectoriel » ; p.1 « Les performances passées ne préjugent pas des performances futures »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 portefeuille (10 lignes, maturités et poids identiques) ; secteurs lus sur le graphique : Auto et équipement 6 %, Energie 4 %, Telecom 2 %, Alim & Boissons 2 %, Voyages & Loisirs 1 %"
+  }
+ },
+ {
+  "isin": "FR0011554294",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de « frais courants » ; p.1 « Frais de gestion max. : 1,15 % TTC (Part C) » + « Frais de fonctionnement : 0,2% » (somme 1,35 %, cohérente)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « *Indice de référence : €STR capitalisé +2.5 % annuel depuis le 06/01/2020 »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 « BB+ (HY) Notation moyenne Alienor »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.2 « risque de perte en capital, risque lié à la gestion discrétionnaire, risque de crédit, risque de taux, risque sectoriel, risque actions et risque de change » ; p.1 « Les performances passées ne préjugent pas des performances futures »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 vue éclatée (Obligation Perpétuelle 9 %, lu sur le graphique) et principales lignes par poche (Renault perp. 9,43 %, Clariane 3,91 %… EDF call 2028 1,86 %)"
+  }
+ },
+ {
+  "isin": "LU0208850171",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "seul document = KID EN du 30/10/2025 (« Investerum Global Value D ») : « invests without reference to a particular benchmark » ; « does not track and is not managed by reference to any particular benchmark »"
+   }
+  }
+ },
+ {
+  "isin": "FR001400SJA2",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Répartition sectorielle : Utilities 20,6 %, Pétrole & Gaz 15,0 %, Immobillier 7,6 %, Métaux & Minières 2,3 %, Pâtes & Papiers 0,1 %"
+  }
+ },
+ {
+  "isin": "IE00BK26DX94",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « l'indice «équilibré» (60 % S&P 500 + 40 % Bloomberg US Aggregate Bond) » ; p.3 changement d'indice au 31/07/2024"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Liquidités & équivalents 2,06 ; Technologie de l'information 24,01 ; Agency MBS 8,08 ; Investment Grade Corporate 7,31 ; Non-Agency MBS 3,28 ; CLO 1,99 ; High Yield Corporate 1,66"
+  }
+ },
+ {
+  "isin": "LU0264738294",
+  "cases": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Horizon Global Property Equities Fund (compartiment de Janus Henderson Horizon Fund, SICAV luxembourgeoise)",
+    "note": "p.1 titre « HORIZON GLOBAL PROPERTY EQUITIES FUND » ; p.4 « Le Janus Henderson Horizon Fund (le « Fonds ») est une SICAV de droit luxembourgeois » ; nom du classeur sans « Horizon » et « Equity » au singulier"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "928,20 M USD",
+    "note": "p.1 « Total de l'actif nette 928.20m », devise de base USD, au 31/08/2026"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur SRI dans les 4 pages de la factsheet (vérifié sur les images) ; pas de KID"
+   }
+  }
+ },
+ {
+  "isin": "LU0210528500",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "7 740,6 M USD",
+    "note": "p.1 « Fund assets 7 740,6 M USD » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Ongoing charge 1.69% »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) au 31/08/2026, libellés anglais traduits ; tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0117867159",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2.75%",
+    "note": "p.1 « Ongoing charge 2.75% »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark: MSCI China 10/40 Index (Total Return Net) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) au 31/08/2026, libellés anglais traduits ; tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0862449690",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1 454,9 M USD",
+    "note": "p.1 « Fund assets 1 454,9 M USD » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) et Regions (%) au 31/08/2026 : tous les % listés figurent (China 24.3, Taiwan 22.8, Korea 21.7…)"
+  }
+ },
+ {
+  "isin": "LU1001747408",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "4 972,9 M EUR",
+    "note": "p.1 « Fund assets 4 972,9 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1.73%",
+    "note": "p.1 « Ongoing charge 1.73% »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 3 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « Performance fee 15.00% » + « SFDR classification: Article 8 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Overall market exposure (Long 76.4, Short -64.9, Net 11.5), Sector exposure Net et Regional exposure Net : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0210532015",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "432,1 M EUR",
+    "note": "p.1 « Fund assets 432,1 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1.75%",
+    "note": "p.1 « Ongoing charge 1.75% »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) et Regions (%) : tous les % listés figurent (libellés anglais) (IT Hardware 58.6, IT Software & Service 36.5… Germany 22.6, Netherlands 20.7…)"
+  }
+ },
+ {
+  "isin": "LU0070177588",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « JPMorgan Liquidity Funds - … », « Fund legal structure SICAV/UCITS », « Domicile Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « ICE BofA Sterling 3-Month Government Bill Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « past performance is not a reliable indicator of current and future results… The value of your investments and any income from them may fall as well as rise… You may not get back the full amount you invested »"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "WAM 146 jours ; WAL 189 jours (au 30/09/26)",
+    "note": "objectif et approche = traduction du texte p.1 ; mais p.2 « Weighted Average Maturity in days As at 30/09/26 146 days », « Weighted Average Life… 189 days » au lieu de 140 / 178 jours au 31/08/2026"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective et Investor profile (« This liquidity Sub-Fund uses high quality short-term Debt Securities… to enhance returns »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Top 10 holdings (dates et %), Sectors (%) et Regions (%) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0210533179",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Bond quality breakdown au 31/08/2026 : AAA 21.69 %, AA 28.79 %, A 20.39 %, BBB 19.30 %, < BBB 6.96 %, Non Rated -0.22 %, Cash 3.08 % ; Yield to maturity 5.36 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Top 10, Sectors (%) et Regions (%) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0070212591",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Investment Funds - … », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2 458,2 M EUR",
+    "note": "p.1 « Fund assets 2 458,2 M EUR » au 30/09/2026"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Bond quality breakdown : AAA 3.83 %, AA 44.82 %, A 38.67 %, BBB 12.69 % ; Yield to maturity 4.21 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Current positioning (%) et Top 10 holdings : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0329203573",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Investment Funds - … », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "8 095,7 M USD",
+    "note": "p.1 « Fund assets 8 095,7 M USD » au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun frais de gestion annuel dans la factsheet (seulement « Ongoing charge 2.50% », entrée/sortie)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2.50%",
+    "note": "p.1 « Ongoing charge 2.50% »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) et Regions (%) au 31/08/2026 : tous les % listés figurent (libellés anglais : Industrial Cyclicals, Pharm/Medtech…)"
+  }
+ },
+ {
+  "isin": "LU0210534227",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "8 535,9 M EUR",
+    "note": "p.1 « Fund assets 8 535,9 M EUR » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) et Regions (%) au 31/08/2026 : tous les % listés figurent (libellés anglais : Industrial Cyclicals, Pharm/Medtech…)"
+  }
+ },
+ {
+  "isin": "LU0740858229",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Investment Funds - … », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "19 363,2 M EUR",
+    "note": "p.1 « Fund assets 19 363,2 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1.40%",
+    "note": "p.1 « Ongoing charge 1.40% »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Bond quality breakdown : AAA 3.36 %, AA 3.51 %, A 1.80 %, BBB 14.96 %, < BBB 73.35 %, Non Rated 3.01 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Asset allocation (%), Regions (%) et Top 10 (CCO Holding 4.75 01 Mar 2030 0.4) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0095938881",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Investment Funds - … », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Current Positioning - Physical (Equity 29.4, Cash/cash for margin 15.5), Theme Risk Breakdown et Regional Risk Breakdown : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0208853274",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet ; p.1 seulement « ESG approach - Integrated » (« not designed for investors who are looking for a product that meets specific ESG goals »)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais ; la mention « Classification SFDR : Article 6 » n'y figure pas"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) et Regions (%) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0210534813",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "347,5 M USD",
+    "note": "p.1 « Fund assets 347,5 M USD » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) et Regions (%) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU1041599587",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "14 141,0 M USD",
+    "note": "p.1 « Fund assets 14 141,0 M USD » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 2 surlignée (image)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Bond quality breakdown : AAA 41.08 %, AA 2.36 %, A 2.00 %, BBB 11.24 %, < BBB 33.86 %, Cash 9.46 % ; Yield to maturity (USD) 6.98 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Top 10 (GNMA/FHLM/FNMA, dates et %), Sectors (%) et Regions (%) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0323456466",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Investment Funds - … », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "832,2 M USD",
+    "note": "p.1 « Fund assets 832,2 M USD » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 2 surlignée (image)"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet ; p.1 seulement « ESG approach - Integrated »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Bond quality breakdown : AAA 2.72 %, AA 12.15 %, A 25.49 %, BBB 5.06 %, < BBB 1.59 %, Non Rated 3.19 %, Cash 49.81 % ; Yield to maturity 3.92 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « Performance fee 20.00% » ; la mention « Classification SFDR : Article 6 » n'y figure pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Top 10, Sectors (%) et Regions (%) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0210527361",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « JPMorgan Funds - … », « Sub-Fund », « Domicile Luxembourg » (le mot SICAV n'est pas écrit)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "529 223,0 M JPY",
+    "note": "p.1 « Fund assets 529 223,0 M JPY » au 30/09/2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 Performance Disclosures, version anglaise : « Past performance is not a guide to current and future performance. The value of your investments and any income from them may fall as well as rise and you may not get back the full amount you invested. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 traduction de l'Investment objective et de l'Investment approach anglais + « SFDR classification: Article 8 »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Investment objective / Investment approach, texte identique (césures « long--term », « bottom--up » dans l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sectors (%) : Electric Appliances 20.4, Others 16.6, Banks 14.7, Retail Trade 8.3, Precision Instruments 5.8, Machinery 5.4 (« Ingénierie »), Other Products 4.7, Wholesale Trade 4.1, Non-Ferrous Metals 4.1, Cash 2.0"
+  }
+ },
+ {
+  "isin": "LU2760873047",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Structure juridique SICAV » ; p.3 « JSS Investmentfonds SICAV (le «Fonds») est un OPCVM organisé sous la forme d'une SICAV de droit luxembourgeois »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans les 3 pages (texte et images) ; seulement « Ce produit intègre les critères ESG tout au long du processus d'investissement obligataire »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Fixed Income Collateral Portfolio : « Ø-Rating AA », « Rendement à l'échéance 4.22 % »"
+   }
+  }
+ },
+ {
+  "isin": "LU2752693106",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Structure juridique SICAV » ; p.4 « JSS Investmentfonds II SICAV (le «Fonds») est un OPCVM organisé sous la forme d'une SICAV de droit luxembourgeois »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Top positions : « Freeport McMor Copp & Gold -B- 3.71% », « Contemporary Amperex Techn. 2.50% »"
+  }
+ },
+ {
+  "isin": "LU0853555380",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB-FUND OF THE JUPITER GLOBAL FUND SICAV » ; fonds domicilié au Luxembourg"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 3 surlignée (image)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Credit Rating (%) : AAA 13.8, AA 8.6, A 0.0, BBB 16.4, BB 22.6, B 25.0, CCC 4.5, CC 0.3, C 0.1, D 0.0, NR 2.5 ; Average credit rating BBB- ; Yield to maturity 7.22 %"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is no indication of current or future performance. Performance data does not take into account commissions and costs incurred on the issue and redemption of shares. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : seul le début (objectif, points (i) à (v), 30 % autres valeurs ; « Benchmark Information » et « SFDR Rating: Article 6 » figurent aussi) ; les limites 30 % CoCo, 10 % titres en difficulté, 20 % titrisations, 30 % China Bond Connect, 20 % non notées, 30 % perpétuelles) traduit la factsheet ; le reste du texte (KID/prospectus) n'y figure pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Asset Allocation, Top Ten Holdings et Regional Allocation : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0260085492",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB-FUND OF THE JUPITER GLOBAL FUND SICAV » ; fonds domicilié au Luxembourg"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is no indication of current or future performance. Performance data does not take into account commissions and costs incurred on the issue and redemption of shares. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction de « Fund Objective and Investment Policy » (p.1), de « Benchmark Information » et de « SFDR Rating » (fiche) ; absents : « (y compris au Royaume-Uni)… sous-évaluées », « approche essentiellement bottom-up », « L'indice… n'a pas été conçu aux fins de réaliser les Caractéristiques ESG »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Top Ten (Loreal Sa 3.0), Industry Allocation et Country Allocation : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0262307480",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB-FUND OF THE JUPITER GLOBAL FUND SICAV » ; fonds domicilié au Luxembourg"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 5 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is no indication of current or future performance. Performance data does not take into account commissions and costs incurred on the issue and redemption of shares. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction de « Fund Objective and Investment Policy » (p.1), de « Benchmark Information » et de « SFDR Rating » (fiche) ; dérivés repris de la section Risks ; nom complet « MSCI ACWI Financials - Net Total Return Index » donné « MSCI ACWI/ Financials »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sector Allocation et Regional Allocation : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "IE00BYVJR916",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB FUND OF JUPITER ASSET MANAGEMENT SERIES PLC » ; réglementé par la Central Bank of Ireland (p.3)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 6 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance does not predict future returns… The performance data shown does not take account of the commissions and costs incurred on the issue and redemption of units. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : seul le début (objectif, indice composite 50 % Gold Spot / 50 % FTSE Gold Mines, 70 % en actions ; phrase sur l'argent hors indice p.2) ; bullion trusts, moins de 60 sociétés, dérivés, gestion active, ratio or/argent) traduit la factsheet ; le reste du texte (KID/prospectus) n'y figure pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Asset Allocation (Equity 83.0, Bullion 17.1, Fund 0.4, Warrant 0.0, Cash -0.6) et Top Ten (Sprott Physical Gld Slvr 5.8, Sprott Physical Gold 4.0)"
+  }
+ },
+ {
+  "isin": "LU0329070915",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB-FUND OF THE JUPITER GLOBAL FUND SICAV » ; fonds domicilié au Luxembourg"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is no indication of current or future performance. Performance data does not take into account commissions and costs incurred on the issue and redemption of shares. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction de « Fund Objective and Investment Policy » (p.1), de « Benchmark Information » et de « SFDR Rating » (fiche) (« Comparator Benchmark: MSCI India - Net Total Return index »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 secteurs (Netweight) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0425092995",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB-FUND OF THE JUPITER GLOBAL FUND SICAV » ; fonds domicilié au Luxembourg"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 4 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is no indication of current or future performance. Performance data does not take into account commissions and costs incurred on the issue and redemption of shares. »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "traduction de « Fund Objective and Investment Policy » (p.1), de « Benchmark Information » et de « SFDR Rating » (fiche) ; seule absente : « L'indice… n'a pas été conçu aux fins de réaliser les Caractéristiques ESG »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 secteurs : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "IE00BLP5S460",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB FUND OF JUPITER ASSET MANAGEMENT SERIES PLC » ; réglementé par la Central Bank of Ireland (p.3)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 2 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance does not predict future returns… The performance data shown does not take account of the commissions and costs incurred on the issue and redemption of units. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : seul le début (objectif, rendement absolu, taux cible, volatilité 6 %, 51 % actions ; « Performance Fee 20.00% » et « SFDR Rating: Article 8 » figurent aussi) ; position neutre au marché, long/short, levier, construction systématique, caractéristiques E/S, politique de couverture) traduit la factsheet ; le reste du texte (KID/prospectus) n'y figure pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Net Exposure -0.8 %, Gross Exposure 196.5 %, Long 97.9 / Short -98.6 / Cash 100.8, secteurs et régions Long/Short, Ping An 1.0 : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "IE00BLP5S353",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "en-tête « A SUB FUND OF JUPITER ASSET MANAGEMENT SERIES PLC » ; réglementé par la Central Bank of Ireland (p.3)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Summary Risk Indicator, case 2 surlignée (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance does not predict future returns… The performance data shown does not take account of the commissions and costs incurred on the issue and redemption of units. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : seul le début (objectif, rendement absolu, US Effective Federal Funds Rate, volatilité 6 %, 51 % actions ; « Performance Fee 20.00% » et « SFDR Rating: Article 8 » figurent aussi) ; position neutre au marché, long/short, levier, construction systématique, caractéristiques E/S) traduit la factsheet ; le reste du texte (KID/prospectus) n'y figure pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Net Exposure -0.8 %, Gross Exposure 196.5 %, Long 97.9 / Short -98.6 / Cash 100.8, secteurs et régions Long/Short, Ping An 1.0 : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR001400J5O4",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; p.5 « Frais de gestion annuels 1.20% TTC », « Frais de service annuels 0.12% »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "65,1 %",
+    "note": "p.3 Indicateurs SFDR : « Investissement durable 65.1% »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,25",
+    "note": "p.2 « DURATION 2.25 » (sensibilité 2.24)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne BBB- ; 86 lignes ; rendement actuariel 4,94 % (au worst 4,78 %) ; maturité moyenne 2030",
+    "note": "p.2 bandeau chiffres clés au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectif d'investissement » repris mot pour mot ; « Commission de surperformance : 15% » (p.5) et « SFDR 8 » (en-tête)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) et principales positions (BBG IG EUR Corp SRI Future 18 décembre 2026 3.07 %)"
+  }
+ },
+ {
+  "isin": "FR0014013NN3",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 1.2% TTC », « Frais de service annuels 0.12% » (somme 1,32 %)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3,11",
+    "note": "p.2 « DURATION 3.11 » (sensibilité 3.07)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne B+ ; 65 lignes ; rendement actuariel 6,63 % (au worst 6,33 %) ; maturité moyenne 2030",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectif d'investissement » repris mot pour mot ; « Commission de surperformance : 15% » (dernière page), « SFDR 8 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0010697532",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 1.20% TTC », « Frais de service annuels 0.12% » (somme 1,32 %)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « * Indice : Bloomberg Barclays EuroAgg Treasury 3-5 ans TR »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne BBB- ; 91 lignes ; rendement actuariel 5,40 % (au worst 5,24 %) ; maturité moyenne 2031",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : seul le 1er paragraphe (« Keren Corporate adopte un style de gestion active… types de valeurs ») figure p.1 ; les paragraphes sur l'analyse des écarts de rémunération, le choix des signatures et des maturités n'y figurent pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0014000W38",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « l'indice Bloomberg EuroAgg Corporate Total Return » ; « * Indice : Bloomberg Barclays EuroAggregate Corporate Total Return »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête « SFDR 8- Label ISR »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,85",
+    "note": "p.2 « DURATION 2.85 » (sensibilité 2.78)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne BBB+ ; 72 lignes ; rendement actuariel 4,33 % (au worst 4,18 %) ; maturité moyenne 2031",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectif d'investissement » : mêmes phrases (le document ajoute « publique, souveraine » et « hors pays émergents »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0011271550",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 2.00% TTC », « Frais de service annuels 0.20% » (somme 2,20 %)"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "la factsheet compare à un « Indice » sans jamais le nommer (texte et image p.1)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête « SFDR 8- Label Relance »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "92,2 %",
+    "note": "p.3 Indicateurs SFDR : « Investissement durable 92.2% »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0000980427",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 1.50% TTC », « Frais de service annuels 0.20% » (somme 1,70 %)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « * Indice : 65% LET3TREU + 20% SXXR + 15% €STR Cap. » (codes Bloomberg Euro Agg Treasury 3-5Y et STOXX Europe 600 NR), depuis le 31/12/2025"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "63,3 %",
+    "note": "Indicateurs SFDR : « Investissement durable 63.3% »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,55",
+    "note": "poche taux « DURATION 2.55 » (sensibilité 2.52)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Poche taux : notation moyenne BB- ; 68 lignes ; rendement actuariel 6,97 % (au worst 6,76 %) ; maturité moyenne 2030",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "long texte du prospectus/KID (fourchettes d'investissement, approche taux/actions) ; la factsheet n'a qu'une phrase : « stratégie de gestion tempérée et discrétionnaire… actions de sociétés de la zone euro… (35% max) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU0864714000",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Asset Manager LAIQON Asset Management GmbH »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stocks (net) 48.80 %, Commodity 14.61 %, Cash 3.76 % ; Sector Allocation et Country Allocation (Other 29.0, US 28.8, Japan 6.4, Korea 4.1)"
+  }
+ },
+ {
+  "isin": "LU0864709349",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Asset Manager LAIQON Asset Management GmbH »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark MSCI World NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sector Allocation (Discretionary 20.7, Industrials 7.8, Materials 6.3, Financials 4.0, Health Care 3.5) et Country Allocation (US 42.9, Korea 12.3, Japan 10.2, Taiwan 6.8, Other 5.9)"
+  }
+ },
+ {
+  "isin": "LU1856130205",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark MSCI World NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stocks 96.8 %, Cash 3.2 %, Sector et Country Allocation : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU2381585830",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,48 % (part C1)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la part « MF - Megatrends Asia - C1 », ISIN LU2381586309, devise EUR, et non de la part A USD LU2381585830 ; « Ongoing Charges [TER] 1.48% »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark MSCI AC Asia ex Japan NR Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stocks 99.81 %, Cash 0.19 %, Sector et Country Allocation : tous les % listés figurent (données du compartiment, factsheet de la part C1)"
+  }
+ },
+ {
+  "isin": "SE0000493504",
+  "cases": {
+   "devise": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Fondförmögenhet 2510 mkr » (millions de couronnes) ; « räntepapper noterade i svenska kronor »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Geografisk fördelning : Sverige 96.4 %, Likviditet 3.6 %"
+  }
+ },
+ {
+  "isin": "SE0000740706",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Jämförelseindex 50%SIX Portfolio Return Index 50% Solactive SEK IG Credit Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Geografisk fördelning : Sverige 66.7, Finland 9.9, Norge 8.6, Danmark 5.5, Storbritannien 3.7, Tyskland 1.2, Luxemburg 0.2, Likviditet 4.2"
+  }
+ },
+ {
+  "isin": "SE0000740698",
+  "cases": {
+   "devise": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Fondförmögenhet 25950 mkr » (couronnes suédoises)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Jämförelseindex Carnegie Small Cap Return Index Sweden »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Branschfördelning et Geografisk fördelning (suédois) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "SE0000740680",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Branschfördelning et Geografisk fördelning (suédois) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "IE0009FUD0M1",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « A sub-fund of Lazard Global Active Funds PLC, an Irish UCITS investment fund company »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk Rating, case 4 surlignée (image)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : la « Fund Description » anglaise reprend l'univers (petites capitalisations US 250 M$-10 Md$, marchés réglementés US, 10 % hors US, Russell 2000 Net of Tax) et « SFDR Category Article 8 » ; l'approche systématique propriétaire, les dérivés et la description de la part (couverture, durée 5 ans) n'y figurent pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sector Breakdown (IT 20.5, Financials 18.8, Health Care 11.2, Cons. Discr. 8.8, Materials 5.6, Real Estate 5.3, Energy 3.8, Comm. Services 2.5, Other 1.8) ; Cash 0.7 dans Market Cap Breakdown"
+  }
+ },
+ {
+  "isin": "FR0010858498",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « FTSE Global Focus Convertible EUR » ; objectif « l'indice de référence, le FTSE Convertible Global Focus en euros »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,71",
+    "note": "p.2 Caractéristiques du portefeuille : « Sensibilité taux Fonds 1.71 » ; commentaire « sensibilité taux de 1,71 en fin de période »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Rating moyen BBB »"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "p.2 graphiques (image) au 30/09/2026 : secteurs Technologies 34, Services financiers 10, Serv. aux collect. 8, Matériaux de base 5, Télécom 4, Conso. non cyclique 1 conformes, mais Pétrole & Gaz 3 (classeur 2) ; pays : Europe 11 conforme, mais USA 56 (55), Asie ex Japan 26 (27), Japon 7 (6)"
+  }
+ },
+ {
+  "isin": "FR0014015UW4",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV », « Le compartiment… » ; le nom de la SICAV (Lazard Funds) n'est pas cité"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Frais courants DIC PRIIPS Néant » (fonds lancé le 25/03/2026) ; « Frais de gestion (max) 1.90% »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Échelle de risque, case 2 (image)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Rating Emissions BB », « Rating Emetteurs BB+ »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (image) : secteurs Banques 19, Industrie de base 11, Télécoms 10, Biens d'équip. 7, Automobiles 6, Immobilier 6, Loisirs 6, Transport 5, Vente au détail 5 ; États-Unis 6"
+  }
+ },
+ {
+  "isin": "FR0010752543",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 40% ICE BofA Euro Subordinated Financial Index ; 40% ICE BofA Euro Financial High Yield Index ; 20% ICE BofA Contingent Capital Index », composantes « hedgées dans la devise de référence de la part »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "4,0",
+    "note": "p.2 « Sensibilité taux 4.0 » (sensibilité crédit 4.1) au 30/09/2026"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne des émissions BBB-, des émetteurs BBB+",
+    "note": "p.2 « Rating Emissions BBB- », « Rating Emetteurs BBB+ »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "partiel : seule la 1re phrase figure p.1 (« Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée ») ; « Ce produit ne prévoyant pas de protection… tout ou partie de votre investissement » (formule du KID) absent"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "p.2 graphiques (image) : conformes Financières Senior 12, Legacy Tier 1 1, Serv. financiers 5, Grèce 6, Hongrie 5 ; différents AT1/RT1 21 (classeur 20), Cash & assimilés 1 (3), Roumanie 6 (5)"
+  }
+ },
+ {
+  "isin": "FR0010230490",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV », « Domicile juridique France » ; le nom de la SICAV (Lazard Funds) n'est pas cité"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indicateur de référence €ster capi +1,25% depuis le 04/11/2019 »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "partiel : seule la 1re phrase figure p.1 (« Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée ») ; la formule « Ce produit ne prévoyant pas de protection… » (KID) est absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : la factsheet ne reprend que l'objectif (surperformer €STR capitalisé + marge sur 3 ans) ; la stratégie (fourchette de sensibilité -5 à +10, limites 100 %/60 %/10 %/5 %/50 %…) vient du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (image) : subordination (AT1/RT1 30, Corporate HY Senior 24, Tier 2 23, Corp. HY Hybrid 10, Cash 4, Corp. IG Hybrid 3, Financières Senior 3, OPC obligataires 3, Corp. IG Senior 2), secteurs et pays (Grèce 7, États-Unis 3)"
+  }
+ },
+ {
+  "isin": "IE00BX9C2459",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Un compartiment de Lazard Global Active Funds PLC, une société irlandaise de fonds d'investissement OPCVM »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.3 « Gérants du compartiment Bertrand Cliquet & Team »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Évaluation du risque, case 3 (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des résultats futurs » ; « Il n'existe aucune garantie de capital ni aucune protection de la valeur du Compartiment… il est possible que vous ne récupériez pas le montant total que vous avez investi »"
+   }
+  }
+ },
+ {
+  "isin": "FR0000292302",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Lazard Patrimoine Croissance », « Forme juridique SICAV », « Domicile juridique France »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frédéric BUZARE Guillaume MUET »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 34% Stoxx600; 34% SP500; 4.5% MSCI Emerging; 2.5% TOPIX; 15% €STER capitalisé; 10% EMU »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "partiel : seule la 1re phrase figure p.1 (« Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée ») ; la formule « Ce produit ne prévoyant pas de protection… » (KID) est absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "la factsheet ne contient ni objectif de gestion ni stratégie (seulement « Environnement économique » et commentaire) ; texte issu du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (image) : classes d'actifs (Monétaire 12, Alternatifs et Structurés 2), secteurs de la poche actions (Technologie 24, Industries 21, Santé 13…) et géographie (Europe 50, Amérique du Nord 40, Émergentes 6, Japon 3)"
+  }
+ },
+ {
+  "isin": "FR0007028543",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV » et « le Compartiment » ; le nom de la SICAV (Lazard Multi Assets) n'est pas cité"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,60 %",
+    "note": "p.1 « Frais courants DIC PRIIPS 1.60% » (factsheet la plus récente : 10-2025)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 50% MSCI World All Countries + 50% ICE BofAML Euro Broad Market Index (Code Bloomberg : EMU0) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet 10-2025 : p.2 Exposition nette 43.8 %, Actions US 20.8 %, Émergentes 5.1 %, Obligations d'État et quasi-souveraines 24.2 % ; p.3 Répartition sectorielle (image) IT 24, Industries 19, Conso. non cyclique 5, Matériaux 4, Services aux collectivités 0"
+  }
+ },
+ {
+  "isin": "FR0012355139",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV » et « le Compartiment » ; le nom de la SICAV (Lazard Multi Assets) n'est pas cité"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Échelle de risque, case 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 20% MSCI World All Countries NR € + 80% ICEBofAML Euro Broad Market Index TR € »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Exposition nette 18.0 %, Actions US 11.6 %, Émergentes 2.2 %, Obligations d'État 33.0 % ; p.3 Répartition sectorielle (image) IT 23, Industries 22, Santé 11, Conso. discr. 9, non cyclique 5, Matériaux 4"
+  }
+ },
+ {
+  "isin": "IE00BFZ4RX34",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « A sub-fund of Lazard Global Investment Funds, an Irish UCITS investment fund company »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Fund Managers Sean H. Reynolds & Team »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk Rating, case 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « HFRX Relative Value Fixed Income Convertible Arbitrage Index, S&P 500 Index, Russell 2000 Index, Bloomberg US Agg Total Return Value Unhedged USD, ICE BofA Global 300 Convertible Index, ICE BofA US High Yield Index and MSCI World Index »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Credit Breakdown by Rating (NMV) : AAA to BBB 2.1, BB to B 0.8, CCC to C 0.0, NR 97.1"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is not a reliable indicator of future results » ; « There is no capital guarantee or protection of the value of the Fund… you may not get back the amount you originally invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (deux sous-stratégies, liste d'actifs, > 20 % émergents, couverture USD, effet de levier 200-800 % / 1200 %, ventes à découvert) ; la factsheet n'a que la « Fund Description » anglaise et la phrase sur le Benchmark"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Fund Description et p.2 phrase « This Fund is actively managed… », texte identique"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Security Type (Bonds 143.4 / -6.7, Equity 0.7 / -102.7), NMV 34.7 %, Sector NMV et Geographic Composition (North America 80.8, Rest of the World 19.2)"
+  }
+ },
+ {
+  "isin": "FR0014004IP7",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Composition de l'indicateur de référence : ESTR Capitalisé 100% »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Swaps Inflation 0,07 %, Swaps de Taux -0,06 %, Forward -0,13 %, CDS -0,21 %"
+  }
+ },
+ {
+  "isin": "BE6370437590",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "04/03/2026 (classe R)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6370436584 », pas de la classe PA BE6370437590 ; « Date de Lancement: 4 Mars 2026 » / « Le fonds ayant été lancé le 4 mars 2026 »"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6370436584 », pas de la classe PA BE6370437590 ; la classe PA n'est pas mentionnée (le document dit « Un compartiment de Leleux Invest, SICAV… »)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,28 % (classe R, estimés)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6370436584 », pas de la classe PA BE6370437590 ; p.3 « Frais courants estimés : 2,28% »"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "p.1/p.2 (factsheet classe R, mêmes actifs) : Cash Net 3,61 % et Alternatif 3,60 % conformes ; les 5 positions ont le même poids (8,43 / 8,34 / 7,99 / 7,75 / 7,09) mais le document ne donne que le gestionnaire (Black Rock, DNCA Finance, Keren Finance, State Street, M&G), pas le nom des fonds ; « Actions 61,92 % » non indiqué (somme des poches actions 21,47+25,53+5,95+8,98 = 61,93)"
+  }
+ },
+ {
+  "isin": "BE6202762975",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "p.3 « Date de Lancement: 17 sept 2010 »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "84,91 M€",
+    "note": "p.2 « Encours sous gestion du compartiment en millions € 84,91 » au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet (seulement frais courants)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "conformes : 5 positions (poids 13,64 / 10,07 / 9,06 / 8,32 / 7,93 avec les mêmes gestionnaires) et Asie et pays émergents 10,13 ; « Actions 94,45 » non écrit mais égal à la somme des poches actions (12,56+10,13+34,41+37,35) ; les 13 lignes sectorielles (Finance 16,71, IT 16,18…) ne figurent pas dans la factsheet"
+  }
+ },
+ {
+  "isin": "BE6327306930",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "08/09/2014 (classe R Distribution)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Distribution - BE6269807184 », pas de la classe PA ; « Date de Lancement: 8 sept 2014 »"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Distribution - BE6269807184 », pas de la classe PA"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet (seulement frais courants)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,39 % (classe R, au 31/12/2025)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Distribution », pas de la classe PA ; « Frais courants (31/12/2025) : 2,39%/an »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet (texte et image p.1)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "conformes : classes d'actifs lues sur le graphique p.1 (Obligations 32,95, Actions 32,65, Alternatif à faible volatilité 17,94, Alternatif directionnel 14,88, Cash Net 1,57) et poids des 5 positions (11,32 / 11,07 / 10,80 / 8,11 / 6,07, gestionnaires seulement) ; absentes : répartition sectorielle (Obligations d'État 29,04, Finance 18,48…) et zones (Global 71,27, Europe 18,11, États-Unis 10,61, Asie 0)"
+  }
+ },
+ {
+  "isin": "BE6327307946",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "12/06/2018 (classe R)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6304593781 », pas de la classe PA ; « Date de Lancement: 12 Juin 2018 »"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6304593781 », pas de la classe PA"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet (seulement frais courants)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,07 % (classe R, au 31/12/2025)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation », pas de la classe PA ; « Frais courants (31/12/2025) : 2,07%/an »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet (texte et image p.1)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "conformes : graphique p.1 (Obligations 16,59, Cash Net 8,74, Actions Europe 38,38, Monde 21,01, Amérique du Nord 9,67, Asie et pays émergents 5,61 ; Actions 74,67 = somme) et poids des 5 positions (gestionnaires seulement : Allianz GI, T. Rowe Price, Crédit Mutuel AM, BlackRock, Lazard) ; absente : répartition sectorielle (Finance 20,25, Industrie 17,7…)"
+  }
+ }
+]

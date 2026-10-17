@@ -1,0 +1,804 @@
+[
+ {
+  "isin": "LU1748854947",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « deliberately does not follow any benchmark index » ; KID : « pas de comparaison avec un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU1038809049",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « deliberately does not follow any benchmark index » ; KID : « pas de comparaison avec un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU1299707072",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Date de lancement - Class R Shares (Acc) (EUR) 20-Oct-15 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « participations s'entendent au 31-Aug-26 », Actif net USD 4,013 m"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "factsheet, encadré « Objectif et politique d’investissement du Fonds » repris mot pour mot (ligatures fi/ff perdues dans le texte extrait)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet « Allocation sectorielle » : « 29.6% Valeurs financières » (ligature fi perdue à l'extraction)"
+  }
+ },
+ {
+  "isin": "LU1931806399",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID FR rubrique « Type » : « Le produit est une classe d'actions du compartiment HESPER FUND - GLOBAL SOLUTIONS qui fait partie d'HESPER FUND, SICAV… qualifié d'OPCVM » (texte en colonne)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « pas géré en utilisant un indice comme base de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU0248041781",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 26 Oct. 2012 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1001748711",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 2 Sept. 2014 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0512952267",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 2 Fév. 2012 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 SECTEURS : « Technologie – Semi-conducteurs et matériel informatique 23,7 » (libellé coupé sur 3 lignes)"
+  }
+ },
+ {
+  "isin": "LU0079555370",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 21 Jan. 1998 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0248009978",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 3 Oct. 2013 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0329203144",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 2 Avr. 2009 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 : « Technologie – Semi-conducteurs et matériel informatique 20,8 » et « Europe et Moyen-Orient hors R.-U. 14,3 » (libellés coupés sur plusieurs lignes)"
+  }
+ },
+ {
+  "isin": "LU0168343191",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 20 Jan. 2006 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 : « Technologie – Semi-conducteurs et matériel informatique 25,4 » et « Europe et Moyen-Orient hors R.-U. 11,9 »"
+  }
+ },
+ {
+  "isin": "LU0248053109",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 : « Technologie – Semi-conducteurs et matériel informatique 25,4 » et « Europe et Moyen-Orient hors R.-U. 11,9 »"
+  }
+ },
+ {
+  "isin": "LU0248010471",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Lancement de la classe 8 Fév. 2016 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet : « Swap de taux d’intérêt 39,9 » (apostrophe mal encodée dans le PDF)"
+  }
+ },
+ {
+  "isin": "LU0208853860",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 RÉGIONS : « Europe et Moyen-Orient hors R.-U. 7,0 »"
+  }
+ },
+ {
+  "isin": "LU1599544043",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : objectif + « Approche d’investissement » repris intégralement (puces et césure « bottom-up », « top-down » coupées dans le texte extrait)"
+   }
+  }
+ },
+ {
+  "isin": "IE00BLP5S791",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet « Allocation régionale » : « Marchés émergents Europe, Moyen-Orient et Afrique » Court -1,2 / Longue 1,8"
+  }
+ },
+ {
+  "isin": "FR0014013NO1",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « SEPTEMBRE 2026 … AuM: 65.91 mEUR » (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0010700401",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « SEPTEMBRE 2026 … AuM: 408.28 mEUR » (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0011274992",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « SEPTEMBRE 2026 … AuM: 22.26 mEUR » (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0012474989",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « SEPTEMBRE 2026 … AuM: 317.77 mEUR » (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013301090",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « SEPTEMBRE 2026 … AuM: 317.77 mEUR » (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0014015UU8",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « 08-2026 », Actif net du fonds 50.57 M€ (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0010235507",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « 08-2026 », Actif net du fonds 1472,05 M€ (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013409463",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « 08-2026 », Actif net du fonds 480.34 M€ (rapport mensuel ; date fin de mois)"
+   }
+  }
+ },
+ {
+  "isin": "BE6370440628",
+  "cases": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "rapport mensuel 29/05/2026 (seul PDF) : aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3,80 M€",
+    "note": "p.2 : « Encours sous gestion du compartiment en millions € 3,80 » au 29/05/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "p.3 donne seulement « Frais courants estimés : 1,59% » ; pas de frais de gestion"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune mention SFDR / article 8 dans le rapport mensuel (vérifié sur les images des pages)"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "rapport 29/05/2026 p.1 (camembert) : Instruments du marché monétaire 7,22 ; Obligations 25,77 ; Cash Net 12,90 ; Actions Europe 20,31 ; Actions Amérique du Nord 18,61 ; Actions Monde 6,81 ; Actions Asie et pays émergents 8,39 (classeur : Actions 61,92, Obligations 25,99, Monétaire 4,88, Liquidités 3,61, Alternatif 3,6 ; Amérique du Nord 25,53, Europe 21,47, Asie 8,98, Monde 5,95). Les 5 positions (fonds iShares, DNCA Alpha, Keren Corporate, SPDR, M&G) absentes : p.2 ne liste que des gestionnaires (DNCA Finance 9,46 ; Black rock 8,55 ; Lazard 7,98 ; Amundi 7,22 ; Oddo BHF 6,93)"
+  }
+ },
+ {
+  "isin": "BE6288463506",
+  "cases": {},
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "aucun PDF (ni factsheet ni KID) fourni pour ce fonds dans le lot ; 24 lignes non vérifiables"
+  }
+ },
+ {
+  "isin": "BE6288478652",
+  "cases": {},
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "aucun PDF (ni factsheet ni KID) fourni pour ce fonds dans le lot ; 27 lignes non vérifiables"
+  }
+ },
+ {
+  "isin": "BE6304594797",
+  "cases": {},
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "aucun PDF (ni factsheet ni KID) fourni pour ce fonds dans le lot ; 25 lignes non vérifiables"
+  }
+ },
+ {
+  "isin": "LU1582988488",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Notation moyenne de crédit1 AA- »"
+   }
+  }
+ },
+ {
+  "isin": "LU1670631958",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Notation moyenne de crédit1 BBB- »"
+   }
+  }
+ },
+ {
+  "isin": "LU2509757758",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR rubrique « Objectifs » reprise mot pour mot (« Investissement principal : au moins 70 % du Fonds… » présent, coupé par une césure « c’est-à-/dire »)"
+   }
+  }
+ },
+ {
+  "isin": "LU1417812945",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs net: EUR 673 569 072 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet top positions : « PROTEA-ORCA.EQ.EUR.SUS.EX-FOS.B EUR 2.8% » (libellé sur 2 lignes)"
+  }
+ },
+ {
+  "isin": "LU2436819366",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs net: EUR 191 699 161 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet top positions : « PROTEA-ORCA.EQ.EUR.SUS.EX-FOS.B EUR 8.7% » (libellé sur 2 lignes)"
+  }
+ },
+ {
+  "isin": "LU1410420332",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Indice de référence : Aucun »"
+   }
+  }
+ },
+ {
+  "isin": "LU0649642757",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Indice de référence : Aucun »"
+   }
+  }
+ },
+ {
+  "isin": "LU2858866861",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet et KID : « Indice de référence Aucun. »"
+   }
+  }
+ },
+ {
+  "isin": "LU2376225616",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Date first price calculation 9/16/2021 » (date de la part ; « Launch Date 8/1/2006 » = fonds)"
+   }
+  }
+ },
+ {
+  "isin": "LU0952275542",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le compartiment n'est pas géré en référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU2595720298",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le compartiment n'est pas géré en référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU0508821286",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le compartiment n'est pas géré en référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU1208675808",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 8.793.251.559 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0792910480",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 297.955.839 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0209325462",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 1.654.954.917 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0792910563",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 4.408.322.432 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0971565493",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 438.691.427 »"
+   }
+  }
+ },
+ {
+  "isin": "LU2145462300",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 4.986.771.952 »"
+   }
+  }
+ },
+ {
+  "isin": "LU2146192377",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « ACTIF DU FONDS EUR 2.162.471.803 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0638557669",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « 31 mai 26 ENCOURS €4 251,7M »"
+   }
+  }
+ },
+ {
+  "isin": "LU0244355391",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (bandeau image) : « Données au 31.08.2026 », Taille du fonds USD 975,98 M"
+   }
+  }
+ },
+ {
+  "isin": "LU2016063229",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (bandeau) : « Données au 31.08.2026 » (même gabarit Schroders, métadonnée RecordDate=2026-08-31), Taille du fonds USD 868,73 M"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet Région : « Europe hors R.-U. / Moyen-Orient 40,1 »"
+  }
+ },
+ {
+  "isin": "LU0837757185",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR, rubrique Objectifs : texte repris ; la phrase « Le fonds est évalué en fonction de la valeur liquidative des actifs sous-jacents » y figure (coupée par une césure « sous-/jacents »)"
+   }
+  }
+ },
+ {
+  "isin": "LU2380233515",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet (bandeau Schroders) « Données au 31.08.2026 », Taille du fonds USD 53,29 M"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR Objectifs : texte repris ; phrase « évalué en fonction de la valeur liquidative des actifs sous-jacents » présente (césure)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet Région : « Europe hors R.-U. / Moyen-Orient 38,9 »"
+  }
+ },
+ {
+  "isin": "LU2526491159",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR Objectifs : texte repris ; phrase « évalué en fonction de la valeur liquidative des actifs sous-jacents » présente (césure)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet Région : « Europe hors R.-U. / Moyen-Orient 21,4 »"
+  }
+ },
+ {
+  "isin": "FR0013202140",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID FR (produit nommé « Sextant Credit Opportunities Action N ») : performance supérieure à l'indice « €STR (OIS-Ester) capitalisé +190 bp » (césure OIS-/Ester)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR rubrique « Objectifs » reprise mot pour mot (1re phrase coupée par la césure « €STR (OIS-/Ester) »)"
+   }
+  }
+ },
+ {
+  "isin": "LU3319943323",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "KID EN « Product objectives / Investment approach / Investment policy / Benchmark » repris ; texte en colonne mêlé à la colonne voisine dans l'extraction"
+   }
+  }
+ },
+ {
+  "isin": "LU2038885625",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Valeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR « Objectifs » repris mot pour mot (1re phrase coupée par la césure « au-/delà »)"
+   }
+  }
+ },
+ {
+  "isin": "LU2038885468",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR « Objectifs » repris mot pour mot (1re phrase coupée par les césures « au-/delà », « obli-/gataires »)"
+   }
+  }
+ },
+ {
+  "isin": "FR0014010IF5",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indice de référence Aucun »"
+   }
+  }
+ },
+ {
+  "isin": "LU0140637140",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet (bandeau Schroders) données au 30.09.2026, Taille du fonds USD 2.672,48 M"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR Objectifs : texte repris ; phrase « évalué en fonction de la valeur liquidative des actifs sous-jacents » présente (césure)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013230042",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR « Objectifs » repris ; la phrase « LBP AM et LFDE restent ainsi seuls juges… » y figure (coupée en fin de ligne « extra-/financière »)"
+   }
+  }
+ },
+ {
+  "isin": "LU0785618231",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet EN : « Net asset value EUR 507,464,240 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet : « Mid cap USD 6-16bn 16.5 » et « COLOPLAST FINANC 2.75% 2030-05-19 … 0.8 » (libellés coupés sur 2 lignes)"
+  }
+ },
+ {
+  "isin": "LU0569863755",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Factsheet | September 2026 », « Fund's AUM USD 9,400.13 mio »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Average credit rating BB- »"
+   }
+  }
+ },
+ {
+  "isin": "LU2435784934",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « The Sub-Fund is actively managed without reference to a benchmark »"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "KID EN « Investment objective » repris ; « The Sub-Fund may reach a maximum of 40% derivatives exposure (netted). » présent (coupé sur 2 lignes)"
+   }
+  }
+ },
+ {
+  "isin": "LU1003295067",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « géré de manière active sans référence à un indice de référence »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR « Objectif d’investissement » repris ; phrase « Nonobstant la disposition ci-dessus… » présente (césure « ci-/dessus »)"
+   }
+  }
+ },
+ {
+  "isin": "LU3236037076",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID FR repris ; phrase « Le Fonds exclura complètement… classification sectorielle GICS » présente (césure « sous-/secteurs »)"
+   }
+  }
+ },
+ {
+  "isin": "LU0231459107",
+  "cases": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = factsheet EN 31/08/2026 ; le texte du classeur est une présentation rédigée en français (« est un fonds d'actions géré par Aberdeen Investments… », part A Acc, risque de change pour l'investisseur en euro) qui résume l'objectif EN sans en reprendre les phrases"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet EN p.2 : Sector (%) IT 27,1 ; Consumer Discretionary 10,7 ; Health Care 9,7 ; Materials 8,6 ; Consumer Staples 6,2 ; Other 6,1 ; Financials 4,9 ; Real Estate 4,0 ; Cash 1,5 — Country (%) Taiwan 24,6 ; Korea (South) 17,5 ; Australia 15,0 ; China 10,7 ; Other 3,7 ; USA 3,5 ; Thailand 2,5 ; Cash 1,5 (libellés traduits)"
+  }
+ },
+ {
+  "isin": "DE000A0X7541",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "le seul PDF (DE000A0X7541__site.pdf) est le KID FR du 15/06/2026 (pas de factsheet) ; aucune date de lancement"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul : aucun encours"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d’exploitation 1,8% » (total), pas de frais de gestion isolés à 1,65"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « L’indice de référence suivi par le fonds est le: 50% ESTR TR (EUR), 50% MSCI World GR (EUR) » ; même composition, mais l'ISIN EU000A2X2A25 et les renvois (r)1/2 du classeur n'y figurent pas"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "note": "KID seul : aucune notation moyenne"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "note": "texte anglais (54 critères de durabilité, seuil de 10 % à mi-2022) absent ; le KID FR décrit seulement l'approche « Value Investing » / « Event driven Value »"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "KID seul, aucune répartition ni position ; 14 lignes non vérifiables"
+  }
+ },
+ {
+  "isin": "FR0011829159",
+  "cases": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "le seul PDF (FR0011829159__site.pdf) est le KID du 20/05/2026 : aucun nom de gérant (seulement SAPIENTA GESTION)"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "note": "KID seul : aucun encours"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d’exploitation 2,75 % » (total), pas de 1,8"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune mention SFDR / article 6 dans le KID"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID rubrique OBJECTIFS : les 3 phrases du classeur en sont extraites et abrégées (« fonds discrétionnaire dont l’objectif est de réaliser une performance nette de frais de 6,5% minimum par an sur un horizon de cinq ans », exposition actions/obligations internationales principalement par le biais d’OPC, approches top-down / bottom-up)"
+   }
+  },
+  "allocations": {
+   "verdict": "ABSENT",
+   "note": "KID seul, aucune répartition ni position ; 15 lignes non vérifiables"
+  }
+ },
+ {
+  "isin": "FR0010526061",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "rapport mensuel 31/08/2026 : « Depuis le 02/06/2025, l’indice de référence est composé de 15% d’Euro Stoxx 50 Net Total Return (SX5T Index), de 10% MSCI World Net Total Return (MSDEWIN Index), de 35% … Solactive Eurozone Government Bond Index TR (SOLEUSOV Index), de 40% d’€STR Capitalisé (OISESTR Index) »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "commentaire de gestion p.1 : « avec une notation moyenne de BB+ » (poche obligataire)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Principales lignes : RENAULT PERP 9,61 % ; AKUO ENERGY 2028 2,25 % ; CLARIANE 2031 2,12 % ; « SK HYNIC » 1,85 % (coquille du document) ; Répartition géographique : USA 32 %"
+  }
+ },
+ {
+  "isin": "FR00140144O8",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "rapport 31/08/2026 p.1 ne donne pas de frais courants : « Frais de gestion max : 2% TTC (Parts C & D) » et « Frais de fonctionnement : 0,15% TTC » ; 2,15 = somme calculée, non écrite"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "répartition sectorielle : « Utilities 8% » (= Services aux collectivités) et « Petrole 2% »"
+  }
+ },
+ {
+  "isin": "LU1997245177",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "rapport 31/08/2026 p.1, image : case 5 surlignée sous « INDICATEUR DE RISQUE » (le « 3 » du texte est un renvoi de note)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 : « Indice de réf. MSCI China A Onshore Total Return Net (in USD) »"
+   }
+  }
+ }
+]
