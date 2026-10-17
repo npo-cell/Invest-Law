@@ -1089,5 +1089,93 @@
    "verdict": "CONFORME",
    "note": "11/11 p.2 (Bonds 10.37, Gold (indirect) 9.27, Cash 6.06, Other -0.59 ; secteurs)"
   }
+ },
+ {
+  "isin": "IE00B57XTG52",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « a sub-fund of the Gavekal UCITS Fund, an open-ended umbrella unit trust established as an undertaking for collective investment in transferable securities » ; Domicile Ireland"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur de risque SRI dans la factsheet (4 pages vérifiées en image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « The benchmark (MSCI AC Asia Pacific TR) is used as a comparator benchmark » (p.1 cite aussi « MSCI AC (All Country) Pacific Index »)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction approchée de la factsheet anglaise p.1 : « Past performance is not a reliable indicator of future results » ; « the ability to bear potential capital losses. It is not suitable for investors seeking capital protection »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : FundRock, dépositaire Société Générale Dublin, Stock Connect, détention 3 ans) ; la factsheet est en anglais"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Product Summary » et « What Makes the Product Unique » repris (y compris « Against this landscape… »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 camembert pays : Japan 42.14 %, Korea 22.00 %, Taiwan 9.63 %, China 4.94 %"
+  }
+ },
+ {
+  "isin": "IE00BYRGXY37",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "dernière page : « a sub-fund of the Gavekal UCITS Fund, an open-ended umbrella unit trust established as an undertaking for collective investment in transferable securities » ; Domicile Ireland"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1.23",
+    "note": "p.2 tableau « Total Expense Ratio (2025) » : C EUR 1.23% (frais de gestion C 1.02%)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 échelle de risque : 3 surligné (« USD A Class, based on Feb 2026 KID »)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Benchmark : 65% Bloomberg Onshore China Treasury 1-10 years (I33620CN) and 35% Markit iBoxx ALBI China Offshore RMB Non-Government IG Total Return Index (IBXXCNNI) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction approchée de la factsheet anglaise p.1 : « Past performance is not a reliable indicator of future results » ; « the ability to bear potential capital losses. It is not suitable for investors seeking capital protection »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : FundRock, dépositaire Société Générale Dublin, Stock Connect, détention 3 ans) ; la factsheet est en anglais"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Product Summary » et « What Makes the Product Unique » repris"
+   }
+  }
+ },
+ {
+  "isin": "FR0013291861",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 : Consommation Durable 10,9 %, Internet & Cloud 3,0 %, Energie 2,5 %, Métaux & Matériaux 1,8 %, Telecom 1,8 %, Corée 27,1"
+  }
+ },
+ {
+  "isin": "FR0011268705",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : MSCI Emerging Markets (dividendes nets réinvestis) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 : Consommation Durable 6,1 %, Energie 4,0 %, Telecom 1,5 %, Corée 24,0 %, Autres - Moyen Orient 1,2 %"
+  }
  }
 ]

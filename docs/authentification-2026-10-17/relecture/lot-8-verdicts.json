@@ -1283,5 +1283,93 @@
    "verdict": "CONFORME",
    "note": "p.2 « Équipements et instruments électroniques 4.72% »"
   }
+ },
+ {
+  "isin": "LU0558384706",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Fund Name: Vector Flexible », « Domicile & Legal Status: Luxembourg, UCITS5 », « The sub-fund is classified ... »"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "la factsheet couvre les parts C1, P et I1 (ISIN LU0558384458 / LU1030155458 / LU1013276123), pas la part C3 ; Ongoing Charges C1 2,05 %, P 2,05 %, I1 1,40 % : aucun 2,15 %"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk Indicator, case 3 surlignée (image) — indicateur de la part C1"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "60% MSCI ACWI + 40% Eonia",
+    "note": "p.2 « Performance Benchmark: 60% MSCI ACWI + 40% Eonia » ; ni €STR ni ESTCINDX/MDWD dans la factsheet"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.2 « The sub-fund is classified as an Article 6 product ... (SFDR) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance is not a reliable indicator of future performance » ; « The value of any investment can fall as well as rise and you may not get back the amount you invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "le cœur (approche Flexible/Navigator, 2 700 sociétés, bêta 0,5-0,7, exposition jusqu'à 0 %) est traduit de la factsheet, mais une partie vient du KID (durée indéterminée, seuil de commission de performance, indice 60/40 avec taux court terme euro) ; KID non fourni"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Top Holdings (Fortinet 1.81, Microsoft 1.59), Equity Sectors et Regional Exposure (Technology 35.7 ... Europe emrg 0.7) — fonds Vector Flexible, part C1"
+  }
+ },
+ {
+  "isin": "LU0366797354",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Fund Name: Vector Navigator », « Domicile & Legal Status: Luxembourg, UCITS5 », « The sub-fund ... »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Fund Size 158,192,821.00 » (EUR)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk Indicator, case 4 surlignée (image) — part C1 (la factsheet ne couvre pas la part C3)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Performance Fee: 20% vs MSCI ACWI € » ; fonds géré en référence à un indice"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.2 « The sub-fund is classified as an Article 6 product ... (SFDR) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance is not a reliable indicator of future performance » ; « The value of any investment can fall as well as rise and you may not get back the amount you invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "description traduite de la factsheet, complétée d'éléments du KID (durée indéterminée, seuil de commission de performance, détention 7 ans présente seulement comme « investment horizon of at least seven years ») ; KID non fourni"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 Asset Allocation Stock 98.4 / Cash 1.6 ; Fortinet 1.84, Microsoft 1.62 ; secteurs et régions identiques (Technology 35.7 ... Europe emrg 0.7)"
+  }
+ },
+ {
+  "isin": "LU3236036771",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « MSCI ACWI NET TR USD INDEX »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 « Energie 2,7 » (colonne fonds)"
+  }
  }
 ]

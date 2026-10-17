@@ -1570,5 +1570,103 @@
    "verdict": "PARTIEL",
    "note": "p.2 graphiques (image) au 30/09/2026 : secteurs Technologies 34, Services financiers 10, Serv. aux collect. 8, Matériaux de base 5, Télécom 4, Conso. non cyclique 1 conformes, mais Pétrole & Gaz 3 (classeur 2) ; pays : Europe 11 conforme, mais USA 56 (55), Asie ex Japan 26 (27), Japon 7 (6)"
   }
+ },
+ {
+  "isin": "FR0014015UW4",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV », « Le compartiment… » ; le nom de la SICAV (Lazard Funds) n'est pas cité"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Frais courants DIC PRIIPS Néant » (fonds lancé le 25/03/2026) ; « Frais de gestion (max) 1.90% »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Échelle de risque, case 2 (image)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Rating Emissions BB », « Rating Emetteurs BB+ »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (image) : secteurs Banques 19, Industrie de base 11, Télécoms 10, Biens d'équip. 7, Automobiles 6, Immobilier 6, Loisirs 6, Transport 5, Vente au détail 5 ; États-Unis 6"
+  }
+ },
+ {
+  "isin": "FR0010752543",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 40% ICE BofA Euro Subordinated Financial Index ; 40% ICE BofA Euro Financial High Yield Index ; 20% ICE BofA Contingent Capital Index », composantes « hedgées dans la devise de référence de la part »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "4,0",
+    "note": "p.2 « Sensibilité taux 4.0 » (sensibilité crédit 4.1) au 30/09/2026"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne des émissions BBB-, des émetteurs BBB+",
+    "note": "p.2 « Rating Emissions BBB- », « Rating Emetteurs BBB+ »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "partiel : seule la 1re phrase figure p.1 (« Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée ») ; « Ce produit ne prévoyant pas de protection… tout ou partie de votre investissement » (formule du KID) absent"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "p.2 graphiques (image) : conformes Financières Senior 12, Legacy Tier 1 1, Serv. financiers 5, Grèce 6, Hongrie 5 ; différents AT1/RT1 21 (classeur 20), Cash & assimilés 1 (3), Roumanie 6 (5)"
+  }
+ },
+ {
+  "isin": "FR0010230490",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV », « Domicile juridique France » ; le nom de la SICAV (Lazard Funds) n'est pas cité"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indicateur de référence €ster capi +1,25% depuis le 04/11/2019 »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "partiel : seule la 1re phrase figure p.1 (« Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée ») ; la formule « Ce produit ne prévoyant pas de protection… » (KID) est absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : la factsheet ne reprend que l'objectif (surperformer €STR capitalisé + marge sur 3 ans) ; la stratégie (fourchette de sensibilité -5 à +10, limites 100 %/60 %/10 %/5 %/50 %…) vient du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (image) : subordination (AT1/RT1 30, Corporate HY Senior 24, Tier 2 23, Corp. HY Hybrid 10, Cash 4, Corp. IG Hybrid 3, Financières Senior 3, OPC obligataires 3, Corp. IG Senior 2), secteurs et pays (Grèce 7, États-Unis 3)"
+  }
+ },
+ {
+  "isin": "IE00BX9C2459",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Un compartiment de Lazard Global Active Funds PLC, une société irlandaise de fonds d'investissement OPCVM »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.3 « Gérants du compartiment Bertrand Cliquet & Team »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Évaluation du risque, case 3 (image)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Les performances passées ne préjugent pas des résultats futurs » ; « Il n'existe aucune garantie de capital ni aucune protection de la valeur du Compartiment… il est possible que vous ne récupériez pas le montant total que vous avez investi »"
+   }
+  }
  }
 ]

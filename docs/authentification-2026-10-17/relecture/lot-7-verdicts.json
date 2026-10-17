@@ -1178,5 +1178,161 @@
    "verdict": "DIFFERENT",
    "note": "graphiques p.2 avec d'autres valeurs : Technologie 32,8 (classeur 31,2), Banques 10,0 (10,6), Biens et services indus. 9,1 (8,5), Vente au détail 7,5 (7,1), Santé 7,3 (6,7), Assurances 5,2 (5,9), Services financiers 4,4 (4,1), Construction 3,3 (3,4), Soins perso 3,2 (3,7), Autres 11,0 (12,5) ; Etats-Unis 66,9 (65,9), Japon 6,3 (6,4), Royaume-Uni 4,1 (=), Canada 3,5 (3,8), Italie 3,4 (3,8), Espagne 3,0 (=), Israël 1,8 (1,9), Allemagne 1,7 (1,8), Irlande 1,0 (1,1)"
   }
+ },
+ {
+  "isin": "LU1864504425",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 12/3/18 » (fonds : 10/23/07)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Portfolio managers ODDO BHF SE, Tilo Wannow »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« Management fees and other administrative or operating costs 1.581 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 3 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 20% MSCI USA NET in EUR + 25% MSCI Europe (Net Return) + 5% MSCI Emerging Markets Daily Net TR EUR + 5% JPM Cash Index Euro Currency 1M + 45% Bloomberg Euro Aggregate TR Unhedged 1-10 »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 : Investment Grade bonds 35.41%, High Yield 2.11%, Emerging Markets Bonds 0.69%"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "les risques (custody, target fund, currency, sustainability) figurent, mais aucune restriction Russie/Biélorussie"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé ; la factsheet (anglaise) n'a qu'une courte stratégie d'investissement"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Bonds 38.20, Xetra Gold 3.78, Cash & Others 3.47 ; p.5 (image) secteurs et pays de la poche actions ; top holdings : Ishr Stoxx Eur 600 Banks 1.8, Taiwan Semiconductor ADR 1.6, Visa 1.5"
+  }
+ },
+ {
+  "isin": "LU1849528234",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 1/25/19 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« ODDO BHF SE, Nils Bosse Parra »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« … operating costs 1.673 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 50% MSCI Europe (Net Return) + 30% MSCI USA NET in EUR + 10% MSCI Emerging Markets Daily Net TR EUR + 10% JPM Cash Index Euro Currency 1M »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "les risques figurent, mais aucune restriction Russie/Biélorussie"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Cash & Others 5.90 ; top holdings Visa 2.8, Alphabet 2.8 ; secteurs et pays p.5 (image) identiques"
+  }
+ },
+ {
+  "isin": "LU1874836890",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 2/13/19 »"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "nom du fonds ODDO BHF Polaris Flexible CRw-EUR ; Legal structure « FCP »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« ODDO BHF SE, Patrick Suck »"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« … operating costs 1.694 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 3 (image)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 : Investment Grade 20.52%, High Yield 2.22%, Emerging Markets Bonds 2.04%"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "perte en capital (disclaimer), « Past performance is not an indication of future results », « Recommended investment horizon 5 Years »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Bonds 24.79, Cash & Others 9.37, Xetra Gold 2.64 ; top holdings Visa 2.3, Alphabet 2.0, DPAM Bonds EMK 2.0 ; secteurs et pays p.5 (image) identiques"
+  }
+ },
+ {
+  "isin": "DE000A2JJ1W5",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date (1st NAV) 12/10/18 »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« ODDO BHF SE, Peter Rieth »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Risk scale p.1 : 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 15% MSCI Europe (Net Return) + 8% MSCI USA NET in EUR + 2% MSCI Emerging Markets Daily Net TR EUR + 10% JPM Cash Index Euro Currency 1M + 65% Bloomberg Euro Aggregate TR… »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 : IG 30.02%, Government 18.64%, Covered 14.68%, EM 3.64%, HY 1.41%"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "perte en capital, performances passées, « Recommended investment horizon 3 Years »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Bonds 68.39, Cash & Others 4.18, Xetra Gold 1.81 ; top holdings DPAM 3.6, Alphabet 1.0, iShares Banks 1.0 ; secteurs et pays p.5 (image) identiques"
+  }
  }
 ]
