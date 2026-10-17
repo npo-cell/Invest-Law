@@ -1334,5 +1334,269 @@
    "verdict": "CONFORME",
    "note": "Bonds 68.39, Cash & Others 4.18, Xetra Gold 1.81 ; top holdings DPAM 3.6, Alphabet 1.0, iShares Banks 1.0 ; secteurs et pays p.5 (image) identiques"
   }
+ },
+ {
+  "isin": "LU1833929729",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "Statut juridique « Compartiment de SICAV Lux. ODDO BHF » (la loi de 2010 n'est pas citée)"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« Frais de gestion et autres frais administratifs et d'exploitation 1.312 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 100% S&P 500 EUR Net Total Return Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "liste des risques p.4 : perte en capital, crédit, taux, pays émergents, contrepartie, liquidité, actions, change, volatilité, durabilité, modèle quantitatif"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 (image) avec d'autres valeurs : Technologie 45,1 (classeur 42), Vente au détail 8,7 (9,1), Santé 8,1 (7,9), Biens et services indus. 6,4 (6,9), Gaz & Pétrole 5,3 (4,7), Services financiers 4,9 (4,7), Soins perso 4,0 (4,3), Télécom 2,8 (2,9), Assurances 2,3 (2,7), Autres 8,6 (9,8) ; Etats-Unis 97,9 (96,5), Irlande 1,7 (2,2), poche monétaire 0,1 (1,1) ; Suisse 0,2 et Singapour 0,1 identiques"
+  }
+ },
+ {
+  "isin": "FR0014008NN3",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Libellé de la SICAV Global SICAV ; Libellé du compartiment Ofi Invest Energy Strategic Metals » (nom actuel plus long que celui du classeur)"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5",
+    "note": "Profil de risque p.1 : case 5 surlignée (image)"
+   }
+  }
+ },
+ {
+  "isin": "FR0011170182",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Libellé de la SICAV Global SICAV ; Libellé du compartiment Ofi Invest Precious Metals »"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5",
+    "note": "Profil de risque p.1 : case 5 surlignée (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Swap sur indice OFI Invest Precious… 125,0%"
+  }
+ },
+ {
+  "isin": "FR0010564351",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 25 % Bloomberg Barclays Capital Euro Aggregate Corporate + 25 % Bloomberg US Corporate Bond Euro Hedged + 50 % MSCI World 100% Hedged to EUR »"
+   }
+  }
+ },
+ {
+  "isin": "FR0013357704",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "rapport semestriel au 30/06/2026 : actif net 33 227 385,71 €"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "le document fourni est un rapport semestriel (état du patrimoine, inventaire) sans frais ; pas de KID"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "absent du rapport semestriel ; pas de KID"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur de référence dans le rapport semestriel"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans le rapport semestriel"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "objectif et politique (prospectus) absents du rapport semestriel"
+   }
+  }
+ },
+ {
+  "isin": "LU1417813323",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "« Actifs net: EUR 673 569 072 »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Indicateur de risque p.2 : case 3 grisée (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.4 PROTEA-ORCA.EQ.EUR.SUS.EX-FOS.B EUR 2.8% ; p.3 Actions et assimilés (image) USA 52.5%"
+  }
+ },
+ {
+  "isin": "NO0010297898",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "« PRIIPs KID risk score from 1 (low) to 7 (high): 4 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Financials 28%, Industrials 19%, Consumer staples 17%, Energy 15%, Materials 15%, Cash 4%, Consumer discretionary 3%"
+  }
+ },
+ {
+  "isin": "LU1608101579",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "« PRIIPs KID risk score from 1 (low) to 7 (high): 2 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "Financials 33%, Energy 21%, Industrials 10%, Consumer 8%, Shipping 8%, Cash 5%, Diversified 4%, Real Estate 4%, Business services 3%, Public Services 1%"
+  }
+ },
+ {
+  "isin": "LU0922130215",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "« PRIIPs KID risk score from 1 (low) to 7 (high): 2 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "mêmes secteurs que la part EUR, dont TMT 2% et Public Services 1%"
+  }
+ },
+ {
+  "isin": "LU0649640892",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Cash et cash équivalent -4% »"
+  }
+ },
+ {
+  "isin": "LU0280435388",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », Domicile Luxembourg, « Pictet - Clean Energy Transition »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5147",
+    "note": "« Taille du fonds (Mio) EUR 5 147 » au 30.09.2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens, formulation voisine : « Les performances passées ne préjugent pas des performances futures… vos investissements peuvent perdre tout ou partie de leur valeur »"
+   }
+  }
+ },
+ {
+  "isin": "LU0340554913",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Compartiment de la Sicav de droit luxembourgeois Pictet »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "Avertissement p.1 : « …ne constituent pas un indicateur fiable des rendements futurs… soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l'intégralité de votre investissement »"
+   }
+  }
+ },
+ {
+  "isin": "LU0130732364",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "129",
+    "note": "« Taille du fonds (Mio) EUR 129 » au 30.09.2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indice actuel: MSCI AC World (EURO) valable à partir du 29.05.2020 »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens : « La performance passée ne saurait préjuger… il est possible que les investisseurs ne récupèrent pas la totalité du montant initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Biens de consommation… 15.38 »"
+  }
+ },
+ {
+  "isin": "LU0503631714",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "4644",
+    "note": "« Taille du fonds (Mio) EUR 4 644 » au 30.09.2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens : « La performance passée ne saurait préjuger… ne récupèrent pas la totalité du montant initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Approvisionnement en eau &… 7.53 » (libellé tronqué dans la factsheet)"
+  }
+ },
+ {
+  "isin": "LU0366534344",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Forme juridique Compartiment d'une SICAV », domicile Luxembourg"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "359",
+    "note": "« Taille du fonds (Mio) EUR 359 » au 30.09.2026"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "même sens : « La performance passée ne saurait préjuger… ne récupèrent pas la totalité du montant initialement investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "« Norvege 4.29 »"
+  }
  }
 ]

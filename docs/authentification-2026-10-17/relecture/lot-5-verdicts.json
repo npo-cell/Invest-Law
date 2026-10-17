@@ -1177,5 +1177,213 @@
    "verdict": "CONFORME",
    "note": "p.1 : Consommation Durable 6,1 %, Energie 4,0 %, Telecom 1,5 %, Corée 24,0 %, Autres - Moyen Orient 1,2 %"
   }
+ },
+ {
+  "isin": "LU2102358418",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "le nom « Goldman Sachs Funds III » n'apparaît pas dans cette factsheet ; seulement « The Luxembourg funds mentioned in this document are sub-funds of SICAVs … established in Luxembourg »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Past performance is not a reliable indicator of future performance » ; « the value of any investment may rise or fall and that past performance is not indicative of future results » (la fin « ne pas récupérer le montant initialement investi » n'est pas écrite)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention) ; la factsheet est en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "13/13 p.2 (Corporate-Inv.Grade 93.79, Emerging Market Debt 2.87, Corporate - High Yield 2.47, Cash 0.87, pays dont Others 21.90)"
+  }
+ },
+ {
+  "isin": "LU0127786431",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartment of the ICVC : Goldman Sachs Funds III » ; mentions légales : « sub-funds of SICAVs … established in Luxembourg … authorized by the CSSF » ; société de gestion « UCITS/AIF management company »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Investing sustains risk which may include the risk of capital loss. … the value of your investment may rise or fall and that past performance is no guarantee of current or future performance »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention) ; la factsheet est en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "18/18 p.2 (secteurs GICS, Cash & equivalents 1.20, pays)"
+  }
+ },
+ {
+  "isin": "LU2596602545",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Inception Date - Base Shares (Acc.) 13-Jun-23 »"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « A sub-fund of Goldman Sachs Funds, SICAV » ; « Fund Domicile Luxembourg » ; mentions « UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur SRI dans cette factsheet (« Monthly Fund Update », pages vérifiées en texte et en image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Reference Benchmark : MSCI World Index (Net Total Return, Unhedged, USD) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction exacte de p.1 : « Past performance does not predict future returns. The value of investments and the income derived from investments will fluctuate and can go down as well as up. A loss of capital may occur. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, ADR/EDR/GDR, seuils de risque internes) ; la factsheet est en anglais"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 « The fund is designed for… » et p.2 « Fund Objective and Investment Policy » repris"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "9/9 p.2 « By Theme Allocation » (Supply Chain Security 51.3, Resource Security 28.7, National Security 16.8, Other 1.7, Cash 1.5) et « Region Allocation » (North America 77.9, Asia/Pacific Ex Japan 2.5, Japan 2.0, Cash 1.5)"
+  }
+ },
+ {
+  "isin": "LU0119216553",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartment of the ICVC : Goldman Sachs Funds III » ; mentions légales « sub-funds of SICAVs … established in Luxembourg »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark : MSCI World Index - EUR » ; « aim to beat the performance of the benchmark MSCI World NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Investing sustains risk which may include the risk of capital loss. … the value of your investment may rise or fall and that past performance is no guarantee of current or future performance »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention) ; la factsheet est en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "14/14 p.2 (secteurs GICS, Cash & equivalents 0.87, North America 68.41, Japan 5.46, Asia-Pacific ex Japan 3.08)"
+  }
+ },
+ {
+  "isin": "LU0333810850",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Inception Date - Class E Shares 26-Mar-08 »"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « A sub-fund of Goldman Sachs Funds, SICAV » ; « Fund Domicile Luxembourg »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur SRI dans cette factsheet (« Monthly Fund Update »)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Reference Benchmark : MSCI India IMI, Net returns, Unhedged, EUR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction exacte de p.1 : « Past performance does not predict future returns. The value of investments and the income derived from investments will fluctuate and can go down as well as up. A loss of capital may occur. »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, dérivés, seuils de risque internes, ESG) ; la factsheet est en anglais"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Fund Objective and Investment Policy » repris mot pour mot"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "11/11 p.2 « Sector Allocation » (Consumer Discretionary 18.6 … Other 0.4, Cash 0.1)"
+  }
+ },
+ {
+  "isin": "LU1444115874",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartment of the ICVC : Goldman Sachs Funds V » ; mentions légales « sub-funds of SICAVs … established in Luxembourg »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Investing sustains risk which may include the risk of capital loss. … the value of your investment may rise or fall and that past performance is no guarantee of current or future performance »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention 7 ans) ; la factsheet est en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Bonds 51.80 %, Cash 1.18 %, Synthetic Cash -5.99 %, L'OREAL 1.31 %"
+  }
+ },
+ {
+  "isin": "IE00BYQ67K80",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 titre « GuardCap Global Equity Fund – Class S EUR », « Forme juridique UCITS »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur SRI dans la factsheet (4 pages, texte et images)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : MSCI World Index (Net) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « Consommation Discr. : 7,73 % », « Liquidité : 1,09 % » (secteurs et pays)"
+  }
+ },
+ {
+  "isin": "IE00BGHQF631",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de lancement de la part C EUR ; la factsheet donne seulement « Fund launch 31.12.2010 » et « Strategy launch 31.12.2010 »"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur SRI dans la factsheet (3 pages, texte et images)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de p.1 « Risks » : « The value of an investment and the income from it can fall as well as rise as a result of market and currency movement; you may not get back the amount originally invested » + « Past performance does not predict future returns »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français (probablement du KID) ; la factsheet anglaise dit seulement « Income and long-term capital growth » et « An equity fund investing primarily in global equities which provide a yield above the yield of the benchmark (MSCI World Index) » ; la phrase sur les obligations d'État / investment grade est absente"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "16/16 p.1 tableaux « Sector » et « Country » (Industrials 28.0 … Cash 0.8 ; USA 54.4 … Ireland 2.4)"
+  }
  }
 ]

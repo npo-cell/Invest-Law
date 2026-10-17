@@ -1668,5 +1668,258 @@
     "note": "p.1 « Les performances passées ne préjugent pas des résultats futurs » ; « Il n'existe aucune garantie de capital ni aucune protection de la valeur du Compartiment… il est possible que vous ne récupériez pas le montant total que vous avez investi »"
    }
   }
+ },
+ {
+  "isin": "FR0000292302",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Lazard Patrimoine Croissance », « Forme juridique SICAV », « Domicile juridique France »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Frédéric BUZARE Guillaume MUET »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 34% Stoxx600; 34% SP500; 4.5% MSCI Emerging; 2.5% TOPIX; 15% €STER capitalisé; 10% EMU »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "partiel : seule la 1re phrase figure p.1 (« Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée ») ; la formule « Ce produit ne prévoyant pas de protection… » (KID) est absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "la factsheet ne contient ni objectif de gestion ni stratégie (seulement « Environnement économique » et commentaire) ; texte issu du KID/prospectus"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphiques (image) : classes d'actifs (Monétaire 12, Alternatifs et Structurés 2), secteurs de la poche actions (Technologie 24, Industries 21, Santé 13…) et géographie (Europe 50, Amérique du Nord 40, Émergentes 6, Japon 3)"
+  }
+ },
+ {
+  "isin": "FR0007028543",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV » et « le Compartiment » ; le nom de la SICAV (Lazard Multi Assets) n'est pas cité"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,60 %",
+    "note": "p.1 « Frais courants DIC PRIIPS 1.60% » (factsheet la plus récente : 10-2025)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 50% MSCI World All Countries + 50% ICE BofAML Euro Broad Market Index (Code Bloomberg : EMU0) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet 10-2025 : p.2 Exposition nette 43.8 %, Actions US 20.8 %, Émergentes 5.1 %, Obligations d'État et quasi-souveraines 24.2 % ; p.3 Répartition sectorielle (image) IT 24, Industries 19, Conso. non cyclique 5, Matériaux 4, Services aux collectivités 0"
+  }
+ },
+ {
+  "isin": "FR0012355139",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Forme juridique SICAV » et « le Compartiment » ; le nom de la SICAV (Lazard Multi Assets) n'est pas cité"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Échelle de risque, case 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 20% MSCI World All Countries NR € + 80% ICEBofAML Euro Broad Market Index TR € »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Exposition nette 18.0 %, Actions US 11.6 %, Émergentes 2.2 %, Obligations d'État 33.0 % ; p.3 Répartition sectorielle (image) IT 23, Industries 22, Santé 11, Conso. discr. 9, non cyclique 5, Matériaux 4"
+  }
+ },
+ {
+  "isin": "IE00BFZ4RX34",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « A sub-fund of Lazard Global Investment Funds, an Irish UCITS investment fund company »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Fund Managers Sean H. Reynolds & Team »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk Rating, case 2 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.2 « HFRX Relative Value Fixed Income Convertible Arbitrage Index, S&P 500 Index, Russell 2000 Index, Bloomberg US Agg Total Return Value Unhedged USD, ICE BofA Global 300 Convertible Index, ICE BofA US High Yield Index and MSCI World Index »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 Credit Breakdown by Rating (NMV) : AAA to BBB 2.1, BB to B 0.8, CCC to C 0.0, NR 97.1"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 version anglaise : « Past performance is not a reliable indicator of future results » ; « There is no capital guarantee or protection of the value of the Fund… you may not get back the amount you originally invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (deux sous-stratégies, liste d'actifs, > 20 % émergents, couverture USD, effet de levier 200-800 % / 1200 %, ventes à découvert) ; la factsheet n'a que la « Fund Description » anglaise et la phrase sur le Benchmark"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "p.1 Fund Description et p.2 phrase « This Fund is actively managed… », texte identique"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Security Type (Bonds 143.4 / -6.7, Equity 0.7 / -102.7), NMV 34.7 %, Sector NMV et Geographic Composition (North America 80.8, Rest of the World 19.2)"
+  }
+ },
+ {
+  "isin": "FR0014004IP7",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Composition de l'indicateur de référence : ESTR Capitalisé 100% »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : Swaps Inflation 0,07 %, Swaps de Taux -0,06 %, Forward -0,13 %, CDS -0,21 %"
+  }
+ },
+ {
+  "isin": "BE6370437590",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "04/03/2026 (classe R)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6370436584 », pas de la classe PA BE6370437590 ; « Date de Lancement: 4 Mars 2026 » / « Le fonds ayant été lancé le 4 mars 2026 »"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6370436584 », pas de la classe PA BE6370437590 ; la classe PA n'est pas mentionnée (le document dit « Un compartiment de Leleux Invest, SICAV… »)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,28 % (classe R, estimés)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6370436584 », pas de la classe PA BE6370437590 ; p.3 « Frais courants estimés : 2,28% »"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "p.1/p.2 (factsheet classe R, mêmes actifs) : Cash Net 3,61 % et Alternatif 3,60 % conformes ; les 5 positions ont le même poids (8,43 / 8,34 / 7,99 / 7,75 / 7,09) mais le document ne donne que le gestionnaire (Black Rock, DNCA Finance, Keren Finance, State Street, M&G), pas le nom des fonds ; « Actions 61,92 % » non indiqué (somme des poches actions 21,47+25,53+5,95+8,98 = 61,93)"
+  }
+ },
+ {
+  "isin": "BE6202762975",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "p.3 « Date de Lancement: 17 sept 2010 »"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "84,91 M€",
+    "note": "p.2 « Encours sous gestion du compartiment en millions € 84,91 » au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet (seulement frais courants)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "conformes : 5 positions (poids 13,64 / 10,07 / 9,06 / 8,32 / 7,93 avec les mêmes gestionnaires) et Asie et pays émergents 10,13 ; « Actions 94,45 » non écrit mais égal à la somme des poches actions (12,56+10,13+34,41+37,35) ; les 13 lignes sectorielles (Finance 16,71, IT 16,18…) ne figurent pas dans la factsheet"
+  }
+ },
+ {
+  "isin": "BE6327306930",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "08/09/2014 (classe R Distribution)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Distribution - BE6269807184 », pas de la classe PA ; « Date de Lancement: 8 sept 2014 »"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Distribution - BE6269807184 », pas de la classe PA"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet (seulement frais courants)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,39 % (classe R, au 31/12/2025)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Distribution », pas de la classe PA ; « Frais courants (31/12/2025) : 2,39%/an »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet (texte et image p.1)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "conformes : classes d'actifs lues sur le graphique p.1 (Obligations 32,95, Actions 32,65, Alternatif à faible volatilité 17,94, Alternatif directionnel 14,88, Cash Net 1,57) et poids des 5 positions (11,32 / 11,07 / 10,80 / 8,11 / 6,07, gestionnaires seulement) ; absentes : répartition sectorielle (Obligations d'État 29,04, Finance 18,48…) et zones (Global 71,27, Europe 18,11, États-Unis 10,61, Asie 0)"
+  }
+ },
+ {
+  "isin": "BE6327307946",
+  "cases": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "12/06/2018 (classe R)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6304593781 », pas de la classe PA ; « Date de Lancement: 12 Juin 2018 »"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation - BE6304593781 », pas de la classe PA"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "note": "aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "note": "aucun taux de frais de gestion dans la factsheet (seulement frais courants)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,07 % (classe R, au 31/12/2025)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la « Classe R - Capitalisation », pas de la classe PA ; « Frais courants (31/12/2025) : 2,07%/an »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR dans la factsheet (texte et image p.1)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "conformes : graphique p.1 (Obligations 16,59, Cash Net 8,74, Actions Europe 38,38, Monde 21,01, Amérique du Nord 9,67, Asie et pays émergents 5,61 ; Actions 74,67 = somme) et poids des 5 positions (gestionnaires seulement : Allianz GI, T. Rowe Price, Crédit Mutuel AM, BlackRock, Lazard) ; absente : répartition sectorielle (Finance 20,25, Industrie 17,7…)"
+  }
  }
 ]
