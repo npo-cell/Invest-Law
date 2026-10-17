@@ -958,5 +958,136 @@
    "verdict": "DIFFERENT",
    "note": "p.3 (AHE) / p.2 (AU), données au 30/09/2026 : Actions US 39,25 (classeur 39,24), Actions Europe 22,75 (22,62), Autres actions 12,46 (11,86), ETC or 9,14 (9,39), Actions Japon 6,53 (6,38), Actions liées à l'or 4,12 (4,35), Oblig. d'État CT 3,65 (3,48), Liquidités 2,09 (2,68) ; secteurs aussi différents (Finance 12,61 contre 12,92, Technologies 11,28 contre 11,06…) ; seule la zone « Oblig. d'Etats CT 3,65 » concorde ; positions : Shell 2,78 (2,55), Alphabet 2,57 (2,41), Meta 2,18 (1,64), Samsung 2,07 (1,86) ; Salesforce, SLB, Workday, Elevance, Oracle hors du top 5 publié dans cette factsheet AU"
   }
+ },
+ {
+  "isin": "LU0109392836",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "19/19 dans les tableaux p.2 (secteurs GICS dont Others 15.01, Cash 1.25 ; pays)"
+  }
+ },
+ {
+  "isin": "LU0690374615",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "pied de page : « Fundsmith SICAV is an investment company organised under the laws of the Grand Duchy of Luxembourg as a société d'investissement à capital variable. The SICAV is governed by Part I of the UCI Law and qualifies as a UCITS »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.2 encadré « Don't take any unnecessary risks » : 4 surligné (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 comparateur « MSCI World Index (€ Net) » ; p.3 « comparator benchmark index (MSCI World) » ; la factsheet précise « The Fund is not managed with reference to any benchmark »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise p.1 : « Past performance is not a guide to future performance », « the value of the Fund, will rise and fall, and there is no guarantee that you will get your investment back », « may therefore rise or fall purely on account of exchange rate movements »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : FundRock, dépositaire, exposition globale, cut-off) ; la factsheet en anglais ne contient que l'« Investment objective » et les critères"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "11/11 p.1 « Sector Split » et « Geographic Split » (Health Care 17.5 … Cash 2.0 ; US 81.5, Spain 5.3, UK 3.8)"
+  }
+ },
+ {
+  "isin": "FR0013113198",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Encours du fonds 27 094 835,53€ »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : 50% CAC 40 NR + 50% ESTER Capitalisé »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.1 répartition sectorielle : Energie 3,50 %, Telecoms 3,50 %, Loisirs et Voyages 3,50 %"
+  }
+ },
+ {
+  "isin": "LU1481583711",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Flossbach von Storch - Bond Opportunities », Domicile Luxembourg, « Type de fonds / forme juridique : UCITS / FCP »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "9.26",
+    "note": "p.2 « Durée 9.26 ans » (au 30.09.26)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "dernière page « Les performances passées ne sont pas un indicateur fiable des performances futures » ; « La valeur de tout investissement peut aussi bien baisser que monter et vous risquez de ne pas récupérer le montant que vous avez investi »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 : « -1.10 % Autres (entre autres dérivés) » ; principaux émetteurs États-Unis d'Amérique 14.73 %, Nouvelle-Zélande 7.84 %, République d'Allemagne 5.09 %, Royaume d'Espagne 2.40 % (libellés allemands du classeur traduits)"
+  }
+ },
+ {
+  "isin": "LU2473801830",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartiment du fonds d'investissement de droit luxembourgeois Flossbach von Storch (fonds commun de placement) » ; « Type de fonds / forme juridique : UCITS / FCP »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « L'évolution historique de la performance n'est pas un indicateur fiable pour l'évolution future » ; dernière page « La valeur de tout placement peut augmenter ou baisser et vous percevrez éventuellement moins d'argent que le montant investi »"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectifs et politique d'investissement » repris mot pour mot"
+   }
+  }
+ },
+ {
+  "isin": "LU2673417882",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartiment du fonds d'investissement de droit luxembourgeois Flossbach von Storch (fonds commun de placement) » ; « Type de fonds / forme juridique : UCITS / FCP »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Indice de référence : MSCI World Net Total Return EUR Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1 « L'évolution historique de la performance n'est pas un indicateur fiable pour l'évolution future » ; dernière page « La valeur de tout placement peut augmenter ou baisser et vous percevrez éventuellement moins d'argent que le montant investi »"
+   }
+  }
+ },
+ {
+  "isin": "LU1038809395",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (anglais) p.1 : « Flossbach von Storch - Multiple Opportunities II », Domicile Luxembourg, « Fund type UCITS / FCP »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction de la factsheet anglaise : « Past performance is not a reliable indicator of future performance » ; « The value of any investment can fall as well as rise and you may not get back the amount invested »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, certificats Delta-1, détention 4 ans) ; la factsheet est en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "11/11 p.2 (Bonds 10.37, Gold (indirect) 9.27, Cash 6.06, Other -0.59 ; secteurs)"
+  }
  }
 ]

@@ -1075,5 +1075,126 @@
    "verdict": "CONFORME",
    "note": "p.2 Pondérations (Fonds) : Pharma/Santé 11,4, Conso. Cyclique 8,6, Energie 5,8, Conso. Non Cyclique 3,9"
   }
+ },
+ {
+  "isin": "LU2638914734",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « STRUCTURE LEGALE : SICAV luxembourgeoise UCITS », fonds « TOBAM MDP Global Blockchain Equity Fund » ; le nom « Most Diversified Portfolio SICAV » n'est pas écrit en toutes lettres"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,90 %",
+    "note": "p.1 « FRAIS EFFECTIFS 1,90% » (factsheet 28/11/2025)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.2 échelle : case 6 surlignée (image) ; attention, le texte voisin dit « classe de risque 4 sur 7 » (document incohérent)"
+   }
+  }
+ },
+ {
+  "isin": "FR0013230059",
+  "cases": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "note": "p.1 « Compartiment », « Caractéristiques de la SICAV », société de gestion LBP AM ; le nom « LFDE Funds » n'apparaît pas (seul le logo LFDE)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1 989,51 M€ (actif net global)",
+    "note": "p.1 au 30/09/2026"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "seule la 1re phrase figure (« Les performances passées ne présagent pas des performances futures ») ; la phrase « Ce produit ne prévoit pas de protection ... perdre tout ou partie » est absente"
+   }
+  }
+ },
+ {
+  "isin": "LU2434354473",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : « Legal status : Open-ended sub fund of Triodos SICAV I », Domicile Luxembourg, Supervisor CSSF"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "128,77 M EUR",
+    "note": "p.3 « Net asset value EUR 128,766,014 » fin septembre 2026"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Triodos ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance does not predict future returns » ; « does not include any protection from future market performance so you could lose some or all of your investment »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID/prospectus (redemption gate, swing pricing, période de détention, filiale à 100 % de Triodos Bank) ; la factsheet ne contient que la courte description du fonds"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 (EN) : Equities 99.9, Cash 0.1 ; secteurs (Health Care 25.0 ... Real Estate 1.8) ; pays (United States 39.6 ... Other countries 20.0)"
+  }
+ },
+ {
+  "isin": "LU0504302356",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : « Legal status : Open-ended sub fund of Triodos SICAV I », Domicile Luxembourg, Supervisor CSSF"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "507,46 M EUR",
+    "note": "p.3 « Net asset value EUR 507,464,240 » fin septembre 2026"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « 50% Bloomberg Developed Markets Index EUR, 30% iBoxx Euro Corporates Overall Total Return, 20% iBoxx Eurozone Sovereign 1-10 Total Return » (« 110 » du classeur = « 1-10 »)"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance does not predict future returns » ; « does not include any protection from future market performance so you could lose some or all of your investment »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID/prospectus (redemption gate, swing pricing, période de détention, filiale à 100 % de Triodos Bank) ; la factsheet ne contient que la courte description du fonds"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 (EN) : Equities 47.9, Bonds 47.7, Investment Funds 4.0, Cash 0.4, Coloplast 0.8 ; pays United States 25.3 ... Japan 4.0, Other countries 19.2"
+  }
+ },
+ {
+  "isin": "LU0278272843",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "factsheet (EN) : « Legal status : Open-ended sub fund of Triodos SICAV I », Domicile Luxembourg, Supervisor CSSF"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun SRI dans la factsheet Triodos ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "traduction : « Past performance does not predict future returns » ; « does not include any protection from future market performance so you could lose some or all of your investment »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé d'après le KID/prospectus (redemption gate, swing pricing, période de détention, filiale à 100 % de Triodos Bank) ; la factsheet ne contient que la courte description du fonds"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.3 (EN) : Equities 99.2, Investment Funds 0.8, Cash 0.0 ; secteurs Industrials 39.7 ... Materials 2.9 ; pays United States 55.5 ... Denmark 1.6"
+  }
  }
 ]

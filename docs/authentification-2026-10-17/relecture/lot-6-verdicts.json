@@ -1367,5 +1367,208 @@
    "verdict": "CONFORME",
    "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
   }
+ },
+ {
+  "isin": "LU0864714000",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Asset Manager LAIQON Asset Management GmbH »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stocks (net) 48.80 %, Commodity 14.61 %, Cash 3.76 % ; Sector Allocation et Country Allocation (Other 29.0, US 28.8, Japan 6.4, Korea 4.1)"
+  }
+ },
+ {
+  "isin": "LU0864709349",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Asset Manager LAIQON Asset Management GmbH »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark MSCI World NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sector Allocation (Discretionary 20.7, Industrials 7.8, Materials 6.3, Financials 4.0, Health Care 3.5) et Country Allocation (US 42.9, Korea 12.3, Japan 10.2, Taiwan 6.8, Other 5.9)"
+  }
+ },
+ {
+  "isin": "LU1856130205",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark MSCI World NR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stocks 96.8 %, Cash 3.2 %, Sector et Country Allocation : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "LU2381585830",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "fonds nommé « MF - … » / « MainFirst - … » (mentions légales), « Domicil Luxemburg », société de gestion ETHENEA (le mot SICAV n'est pas écrit)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,48 % (part C1)",
+    "note": "ATTENTION : la factsheet utilisée est celle de la part « MF - Megatrends Asia - C1 », ISIN LU2381586309, devise EUR, et non de la part A USD LU2381585830 ; « Ongoing Charges [TER] 1.48% »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Benchmark MSCI AC Asia ex Japan NR Index »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "mentions légales en anglais, même sens : « The value of your investment may fall or rise, and you must expect as an investor not to recover the amount invested, or at least not in full… past performance… is not a reliable indicator of future performance » (la formule « ne prévoyant pas de protection contre les aléas de marché » est celle du KID)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte du KID (objectif, gestion active, commission de performance, SHSC…) ; la factsheet n'a qu'une « Investment Philosophy » rédigée autrement, en anglais"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Stocks 99.81 %, Cash 0.19 %, Sector et Country Allocation : tous les % listés figurent (données du compartiment, factsheet de la part C1)"
+  }
+ },
+ {
+  "isin": "SE0000493504",
+  "cases": {
+   "devise": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Fondförmögenhet 2510 mkr » (millions de couronnes) ; « räntepapper noterade i svenska kronor »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Geografisk fördelning : Sverige 96.4 %, Likviditet 3.6 %"
+  }
+ },
+ {
+  "isin": "SE0000740706",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Jämförelseindex 50%SIX Portfolio Return Index 50% Solactive SEK IG Credit Index »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Geografisk fördelning : Sverige 66.7, Finland 9.9, Norge 8.6, Danmark 5.5, Storbritannien 3.7, Tyskland 1.2, Luxemburg 0.2, Likviditet 4.2"
+  }
+ },
+ {
+  "isin": "SE0000740698",
+  "cases": {
+   "devise": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Fondförmögenhet 25950 mkr » (couronnes suédoises)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "Fondfakta « Jämförelseindex Carnegie Small Cap Return Index Sweden »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Branschfördelning et Geografisk fördelning (suédois) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "SE0000740680",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Branschfördelning et Geografisk fördelning (suédois) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "IE0009FUD0M1",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « A sub-fund of Lazard Global Active Funds PLC, an Irish UCITS investment fund company »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 Risk Rating, case 4 surlignée (image)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : la « Fund Description » anglaise reprend l'univers (petites capitalisations US 250 M$-10 Md$, marchés réglementés US, 10 % hors US, Russell 2000 Net of Tax) et « SFDR Category Article 8 » ; l'approche systématique propriétaire, les dérivés et la description de la part (couverture, durée 5 ans) n'y figurent pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Sector Breakdown (IT 20.5, Financials 18.8, Health Care 11.2, Cons. Discr. 8.8, Materials 5.6, Real Estate 5.3, Energy 3.8, Comm. Services 2.5, Other 1.8) ; Cash 0.7 dans Market Cap Breakdown"
+  }
+ },
+ {
+  "isin": "FR0010858498",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « FTSE Global Focus Convertible EUR » ; objectif « l'indice de référence, le FTSE Convertible Global Focus en euros »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1,71",
+    "note": "p.2 Caractéristiques du portefeuille : « Sensibilité taux Fonds 1.71 » ; commentaire « sensibilité taux de 1,71 en fin de période »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "p.2 « Rating moyen BBB »"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "p.2 graphiques (image) au 30/09/2026 : secteurs Technologies 34, Services financiers 10, Serv. aux collect. 8, Matériaux de base 5, Télécom 4, Conso. non cyclique 1 conformes, mais Pétrole & Gaz 3 (classeur 2) ; pays : Europe 11 conforme, mais USA 56 (55), Asie ex Japan 26 (27), Japon 7 (6)"
+  }
  }
 ]

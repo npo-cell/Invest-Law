@@ -104,8 +104,8 @@
     "note": "Number of companies 77"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé en français ; éléments présents en anglais dans la factsheet (risques EM, Actions A chinoises/Stock Connect, sub-fund, fusion 2018 de l'OEIC lancé en 1973)"
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent dans la factsheet p.1-4 : perte en capital, marchés émergents, Actions A chinoises via Stock Connect, Marketing Communication, sub-fund de M&G (Lux) Investment Funds 1, fusion du 26/10/2018 de l'OEIC lancé le 14/09/1973"
    },
    "politique_fr": {
     "verdict": "ABSENT",
@@ -143,8 +143,8 @@
     "note": "Average credit rating A+, Yield to maturity 3,31%, Number of holdings 1175"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé ; risques (levier 250 %, devises, EM, crédit/taux) présents en anglais p.1"
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1 : perte en capital, levier 250 %, devises (dérivés pour minimiser l'impact), marchés émergents, obligations (taux, inflation, notation), Marketing Communication, sub-fund"
    },
    "politique_fr": {
     "verdict": "ABSENT",
@@ -186,8 +186,8 @@
     "note": "Key information p.1"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé ; risques (levier 150 %, EM, change, crédit) présents en anglais p.1"
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1 : perte en capital, EM (political, tax, economic, foreign exchange, liquidity, regulatory), bonds, currencies, levier 150 %, sub-fund"
    },
    "politique_fr": {
     "verdict": "ABSENT",
@@ -227,8 +227,8 @@
     "note": "Average credit rating A+, YTM 4,83%, Number of holdings 27"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé ; risques (levier 350 %, concentration, EM, change) présents en anglais"
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1-5 : perte en capital, bonds, levier 350 %, concentration, EM, hedging/change, sub-fund"
    },
    "politique_fr": {
     "verdict": "ABSENT",
@@ -301,8 +301,8 @@
     "note": "Principales caractéristiques p.1"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé des risques de la p.1"
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 : perte en capital, taux/inflation/notation, haut rendement, levier 250 % (description), données ESG de fournisseurs externes, couverture de change"
    }
   },
   "allocations": {
@@ -336,8 +336,8 @@
     "note": "« Nombre d'entreprises 98 »"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé des risques de la p.1 ; fusion du 26 octobre 2018 mentionnée"
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 et p.4 : perte en capital, marchés émergents, devises, acquisition de parts et non d'un actif sous-jacent, compartiment, fusion du 26/10/2018"
    }
   },
   "allocations": {
@@ -362,7 +362,7 @@
    },
    "disclaimer": {
     "verdict": "ABSENT",
-    "note": "résumé rédigé des risques de la p.1"
+    "note": "résumé ; la factsheet cite la concentration (« petit nombre d'investissements »), les devises, les données ESG tiers et les EM, mais pas « moins de 50 titres »"
    }
   },
   "allocations": {
@@ -392,7 +392,7 @@
    },
    "disclaimer": {
     "verdict": "ABSENT",
-    "note": "résumé rédigé des risques ; fusion du 9 novembre 2018 (M&G Global Select Fund) mentionnée"
+    "note": "résumé ; « moins de 40 sociétés », devises, fusion du 9/11/2018 figurent, mais le risque lié aux données ESG externes n'est pas dans la liste des risques de ce fonds"
    }
   },
   "allocations": {
@@ -420,8 +420,8 @@
     "note": "Benchmark « MSCI ACWI Net Return Index »"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé ; éléments en anglais p.1 (EM, marché onshore chinois, « the Fund is not listed and you can redeem only on Singapore business days »)"
+    "verdict": "CONFORME",
+    "note": "traduction condensée ; tous les éléments figurent p.1-4 : perte en capital, EM, marché onshore chinois, sub-fund, « the Fund is not listed and you can redeem only on Singapore business days »"
    },
    "politique_fr": {
     "verdict": "ABSENT",
@@ -477,8 +477,8 @@
     "note": "Principales caractéristiques p.1"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé des risques de la p.1"
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 : perte en capital, taux/inflation/notation, haut rendement, levier, EM, devises, données ESG tiers"
    }
   },
   "allocations": {
@@ -507,8 +507,8 @@
     "note": "AA ; YTM 2,48% ; YTW 2,47% ; 131 positions"
    },
    "disclaimer": {
-    "verdict": "ABSENT",
-    "note": "résumé rédigé des risques de la p.1"
+    "verdict": "CONFORME",
+    "note": "reformulation condensée ; tous les éléments figurent p.1 : perte en capital, taux/inflation/notation, devises, levier 100 % (description), EM, données ESG tiers"
    }
   },
   "allocations": {
@@ -1017,6 +1017,166 @@
   "allocations": {
    "verdict": "DIFFERENT",
    "note": "positions avec d'autres poids p.2 : NOVO-NORDISK 7.1% (classeur 5,82), SPOTIFY 6.6% (5,28), ATLAS COPCO 5.3% (5,15), VOLVO 4.8% (4,42), NOKIA 4.2% (4,07), NOVONESIS 4.0% (3,59), NORDEA 4.0% (4,72) ; Norden Small, DSV, Sampo hors top 10 ; secteurs par sous-industrie (Machines 23,61…) et classes d'actifs (Actions 93,4, OPC 6,54) absents (la factsheet donne des secteurs GICS : Industrials 38, Financials 21…)"
+  }
+ },
+ {
+  "isin": "LU1919842267",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1180 (M$)",
+    "note": "« Actif net du fonds 1 180 M$ » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "CONFORME",
+    "note": "« Frais de gestion et autres frais administratifs et d'exploitation 1.702 % »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 5 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indicateur de référence : MSCI World (NR) in EUR »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée : risque de perte en capital (liste des risques), « Les performances passées ne présagent pas… », « Durée d'investissement conseillée 5 ans »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 (image) avec d'autres valeurs : Logiciels et Services 21,3 (classeur 20,7), Médias 10,8 (9,1), Distribution 7,4 (8,2), Matériel 8,0 (7,8), Pharma 3,4 (4,4), Télécom 2,3 (1,8), Autres 3,0 (3,1) ; Etats-Unis 70,8 (67,3), Chine 4,2 (6,3), Pays-Bas 4,2 (3,4), Japon 3,5 (3,8), Taiwan 3,8 (3,7), Corée 3,8 (3,4), Canada 1,3 (1,2), Autres 0,9 (2,6), Uruguay absent ; Actions 94,9 cohérent avec poche monétaire 5,1"
+  }
+ },
+ {
+  "isin": "FR0000989899",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 10,00% ESTER European Short Term Rate + 8.5 BP + 90,00% MSCI France Smid Cap Loc Net »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation condensée : risque de perte en capital, performances passées, « L'atteinte des objectifs de gestion en termes de risque ne peut être garantie »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Industrie 26,8 (classeur 27,8), Santé 22,0 (22,6), Finance 5,5 (6,3), Services de communication 5,5 (5,9), Énergie 3,5 (2,8), Matériels 1,3 (1,4) ; France 71,6 (72), Allemagne 15,5 (14,3), Pays-Bas 2,2 (2,8), Espagne 0,6 (1) ; poche monétaire 8,4 (classeur Actions 91,64 / Liquidités 5,68 / Obligations 2,68 absents) ; seule Biomérieux 4,09 identique"
+  }
+ },
+ {
+  "isin": "FR0000990095",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI EMU SMID Cap (NR) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "risque de perte en capital et « Les performances passées ne présagent pas des performances futures »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Industrie 44,7 (classeur 45,3), Technologies de l'Inf. 14,3 (12,9), Santé 19,8 (identique) ; Allemagne 31,7 (29,8), France 26,2 (26,3), Finlande 3,2 (4,2), Pays-Bas 2,2 (2,6) ; pas de Tracker ni Luxembourg 8,1 ; poche monétaire 12,8 (classeur Actions 87,2)"
+  }
+ },
+ {
+  "isin": "FR0000974149",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« MSCI Europe Smid EUR NR »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "perte en capital et performances passées figurent, mais aucune restriction pour ressortissants/résidents russes et biélorusses dans la factsheet"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Industrie 39,2 (classeur 39,8), Santé 27,0 (27,7), TI 12,0 (10,7), Cons. discr. 5,0 (4,6), Finance 1,1 (1,5), Services de communication 0,4 (0,5) ; Allemagne 22,2 (21,1), Royaume-Uni 14,8 (16,3), France 12,7 (12,5), Suisse 6,3 (6,1), Danemark 6,0 (5,8), Irlande 6,9 (4,8), Autriche 4,4 (4,3), Autres 4,8 (8,9) ; pas de Tracker ni Luxembourg 8,1 ; poche monétaire 13,0 (classeur Actions 92,83 / Liquidités 6,52)"
+  }
+ },
+ {
+  "isin": "LU1493433004",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "« Inception date of the fund 12/16/16 » (part : 12/31/13)"
+   },
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "« Sub-fund of the ODDO BHF SICAV Lux. Umbrella (UCITS) »"
+   },
+   "gerants": {
+    "verdict": "CONFORME",
+    "note": "« Management company (by delegation) Wellington Management International Ltd, UK »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "« Assets Under Management 48 M€ » (arrondi de 48,24)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Thomson Reuters Global Focus Hedged Convertible Bond Index » (même indice, devenu FTSE Global Focus Hedged CB)"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "Breakdown by rating p.2 (image) : NR 80,7 % ; >= A 8,3 % ; BBB 9,7 % ; B 1,3 %"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "note": "la liste des risques p.2 correspond, mais aucune restriction Russie/Biélorussie dans la factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé (explication des convertibles, description du portefeuille), absent de la factsheet anglaise"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "23/26 : secteurs, zones (p.2, image) et 5 positions retrouvés ; Convertible 94,31, Liquidités 1,97, Obligations 1,48 absents"
+  }
+ },
+ {
+  "isin": "DE0009772988",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "372",
+    "note": "« Actif net du fonds 372 M€ » au 30/09/2026"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "Echelle de risque p.1 : 4 (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« 100% MSCI World (EUR, Net return) »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "reformulation : « risque de perte en capital », performances passées, « risque de modèle, risques opérationnels, y compris les risques de dépositaire, risques de change, risque de durabilité »"
+   }
+  },
+  "allocations": {
+   "verdict": "DIFFERENT",
+   "note": "graphiques p.2 avec d'autres valeurs : Technologie 32,8 (classeur 31,2), Banques 10,0 (10,6), Biens et services indus. 9,1 (8,5), Vente au détail 7,5 (7,1), Santé 7,3 (6,7), Assurances 5,2 (5,9), Services financiers 4,4 (4,1), Construction 3,3 (3,4), Soins perso 3,2 (3,7), Autres 11,0 (12,5) ; Etats-Unis 66,9 (65,9), Japon 6,3 (6,4), Royaume-Uni 4,1 (=), Canada 3,5 (3,8), Italie 3,4 (3,8), Espagne 3,0 (=), Israël 1,8 (1,9), Allemagne 1,7 (1,8), Irlande 1,0 (1,1)"
   }
  }
 ]

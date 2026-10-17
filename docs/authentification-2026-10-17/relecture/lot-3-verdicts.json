@@ -1595,5 +1595,185 @@
    "verdict": "CONFORME",
    "note": "27/27 : tableau de répartition p.2 (Actions/Obligations par secteur et par région : Gouvernement 16,9, Finance 13,5, Technologies de l'info. 11,5, …, Amérique du Nord 38,0 / 15,6, Autres 0,9, Oblig. high yield 0,0, Instruments dérivés 0,0)"
   }
+ },
+ {
+  "isin": "LU0110451209",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Current index: 50% Bloomberg US Corporate High Yield 2% Issuer Capped Total Return, 20% JPM EMBI Total Return, 20% JPM GBI-EM Global Diversified Total Return and 10% JPM CEMBI Broad Diversified Total Return »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "résumé français (titres en difficulté 10 %, levier 75 %, article 8…) ; la factsheet (en anglais) ne contient que l'objectif ; pas de KID"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "28/28 : p.2 (en anglais) : 10 principaux émetteurs (Mexico Government 4,9…India Government 1,5), secteurs (Emerging market debt 45,8, High yield 40,7, US high yield 37,4…), pays (United States 45,3, Other 34,0, Mexico 7,4…)"
+  }
+ },
+ {
+  "isin": "LU1295551144",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indice actuel: MSCI AC World (dividendes nets réinvestis) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "2/2 : p.2 : « Technologies de l'info. 31,2 », « Conso. discrétionnaire 11,7 »"
+  }
+ },
+ {
+  "isin": "FR0010149179",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  }
+ },
+ {
+  "isin": "LU0336083810",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "255",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 255M€ / 289M$ » (part : 152M€)"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4 (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "1/1 : p.3 : « Viet Nam 2,3% »"
+  }
+ },
+ {
+  "isin": "FR0010149161",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "seul PDF = reporting monétaire d'une page (07/10/2026), sans date de création ; pas de KID"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1 146,52",
+    "note": "reporting p.1 (valorisation 01/10/2026) : « Encours total 1146516573.6 » EUR ; encours de la part 1 136 166 049,51"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "note": "aucun indicateur de risque dans le reporting"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "aucun indice de référence cité dans le reporting"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "texte rédigé (€STER, WAM 60 j, WAL 120 j, article 8…) absent du reporting d'une page"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "2/2 : 10 plus importantes positions : « NEUCP BANQUE FEDERATIVE DU CREDIT MUTUEL SA » 2027-03-08 1.77 et 2027-05-10 1.76"
+  }
+ },
+ {
+  "isin": "FR00140081Y1",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "5/9 : les 5 secteurs se retrouvent p.2 en additionnant emprunts privés pays développés + pays émergents (Finance 55,7+6,9=62,6 ; Industrie 7,5+0,4=7,9 ; Energie 6,8+0,2=7,0 ; Conso. discrétionnaire 2,9+1,4=4,3 ; Santé 0,8+0,3=1,1) ; les 4 zones diffèrent (document, poids rebasés : Europe 79,0 au lieu de 79.1, Amérique du Nord 10,2 / 10.1, Europe de l'Est 6,0 / 5.9, Moyen-Orient 1,0 / 1.1)"
+  }
+ },
+ {
+  "isin": "FR001400KAV4",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "4/4 : p.2, somme pays développés + émergents : Finance 45,7+6,5=52,2 ; Energie 8,4+1,1=9,5 ; Immobilier 4,9+0,6=5,5 ; Services aux Collectivités 3,8+0,3=4,1"
+  }
+ },
+ {
+  "isin": "FR001400U4S3",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1516",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 1516M€ » ; « Encours de la part : 1127M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 2* (image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "5/5 : p.2, somme pays développés + émergents : Finance 42,4+5,5=47,9 ; Energie 7,6+2,1=9,7 ; Conso. discrétionnaire 3,2+1,1=4,3 ; Industrie 2,6+1,6=4,2 ; Biens de conso. de base 2,2+0,3=2,5"
+  }
+ },
+ {
+  "isin": "FR0010149302",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "1565",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 1565M€ » ; « Encours de la part : 1503M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4* (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indicateur de référence MSCI EM NR index »"
+   }
+  }
+ },
+ {
+  "isin": "LU0099161993",
+  "cases": {
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4* (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indicateur de référence MSCI Europe NR index »"
+   }
+  }
+ },
+ {
+  "isin": "FR0010148981",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "5420",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 5420M€ » ; « Encours de la part : 4395M€ »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : échelle de risque, case 4* (image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Indicateur de référence MSCI AC World NR index »"
+   }
+  }
  }
 ]
