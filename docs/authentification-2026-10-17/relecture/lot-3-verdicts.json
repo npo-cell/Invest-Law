@@ -1569,5 +1569,31 @@
     "note": "factsheet p.2 : « Rating moyen LT A », « Rating moyen CT A-1 »"
    }
   }
+ },
+ {
+  "isin": "LU1434527435",
+  "cases": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2 020,61",
+    "note": "factsheet p.2 (30/09/2026) : « Actifs nets totaux (M EUR) 2 020,61 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 : « Indice de référence MSCI World (Net Return) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "1/1 : top 10 pays p.3 : « Etats-Unis 70,59 »"
+  }
+ },
+ {
+  "isin": "LU1006075656",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "27/27 : tableau de répartition p.2 (Actions/Obligations par secteur et par région : Gouvernement 16,9, Finance 13,5, Technologies de l'info. 11,5, …, Amérique du Nord 38,0 / 15,6, Autres 0,9, Oblig. high yield 0,0, Instruments dérivés 0,0)"
+  }
  }
 ]

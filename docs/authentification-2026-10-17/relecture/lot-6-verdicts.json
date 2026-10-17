@@ -1193,5 +1193,179 @@
    "verdict": "CONFORME",
    "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) et principales positions (BBG IG EUR Corp SRI Future 18 décembre 2026 3.07 %)"
   }
+ },
+ {
+  "isin": "FR0014013NN3",
+  "cases": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 1.2% TTC », « Frais de service annuels 0.12% » (somme 1,32 %)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "3,11",
+    "note": "p.2 « DURATION 3.11 » (sensibilité 3.07)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne B+ ; 65 lignes ; rendement actuariel 6,63 % (au worst 6,33 %) ; maturité moyenne 2030",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectif d'investissement » repris mot pour mot ; « Commission de surperformance : 15% » (dernière page), « SFDR 8 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0010697532",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 1.20% TTC », « Frais de service annuels 0.12% » (somme 1,32 %)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « * Indice : Bloomberg Barclays EuroAgg Treasury 3-5 ans TR »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne BBB- ; 91 lignes ; rendement actuariel 5,40 % (au worst 5,24 %) ; maturité moyenne 2031",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "partiel : seul le 1er paragraphe (« Keren Corporate adopte un style de gestion active… types de valeurs ») figure p.1 ; les paragraphes sur l'analyse des écarts de rémunération, le choix des signatures et des maturités n'y figurent pas"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0014000W38",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « l'indice Bloomberg EuroAgg Corporate Total Return » ; « * Indice : Bloomberg Barclays EuroAggregate Corporate Total Return »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête « SFDR 8- Label ISR »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,85",
+    "note": "p.2 « DURATION 2.85 » (sensibilité 2.78)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Notation moyenne BBB+ ; 72 lignes ; rendement actuariel 4,33 % (au worst 4,18 %) ; maturité moyenne 2031",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Objectif d'investissement » : mêmes phrases (le document ajoute « publique, souveraine » et « hors pays émergents »)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0011271550",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 2.00% TTC », « Frais de service annuels 0.20% » (somme 2,20 %)"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "note": "la factsheet compare à un « Indice » sans jamais le nommer (texte et image p.1)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête « SFDR 8- Label Relance »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "92,2 %",
+    "note": "p.3 Indicateurs SFDR : « Investissement durable 92.2% »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
+ },
+ {
+  "isin": "FR0000980427",
+  "cases": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "note": "aucune date de création/lancement dans la factsheet (seulement colonne « Création » des performances)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "pas de frais courants dans la factsheet ; dernière page « Frais de gestion annuels 1.50% TTC », « Frais de service annuels 0.20% » (somme 1,70 %)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "p.1 « * Indice : 65% LET3TREU + 20% SXXR + 15% €STR Cap. » (codes Bloomberg Euro Agg Treasury 3-5Y et STOXX Europe 600 NR), depuis le 31/12/2025"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "en-tête de chaque page « SFDR 8 »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "63,3 %",
+    "note": "Indicateurs SFDR : « Investissement durable 63.3% »"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "2,55",
+    "note": "poche taux « DURATION 2.55 » (sensibilité 2.52)"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "valeur_document": "Poche taux : notation moyenne BB- ; 68 lignes ; rendement actuariel 6,97 % (au worst 6,76 %) ; maturité moyenne 2030",
+    "note": "p.2 bandeau NOTATION MOYENNE / LIGNES / RENDEMENT ACTUARIEL / MATURITE MOYENNE au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "note": "long texte du prospectus/KID (fourchettes d'investissement, approche taux/actions) ; la factsheet n'a qu'une phrase : « stratégie de gestion tempérée et discrétionnaire… actions de sociétés de la zone euro… (35% max) »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Allocation par secteur et par zone géographique (libellés anglais) : tous les % listés figurent"
+  }
  }
 ]
