@@ -1196,5 +1196,92 @@
    "verdict": "CONFORME",
    "note": "p.3 (EN) : Equities 99.2, Investment Funds 0.8, Cash 0.0 ; secteurs Industrials 39.7 ... Materials 2.9 ; pays United States 55.5 ... Denmark 1.6"
   }
+ },
+ {
+  "isin": "FR0007072160",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Fonds Commun de Placement UCITS » ; « Le FCP » p.3 ; société de gestion Auris Gestion (Paris, agrément AMF)"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "note": "la factsheet ne donne que « Frais de gestion financière 1,20% » ; aucun frais courants"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "note": "aucune classification SFDR (article) dans la factsheet ; seule mention : « Le FCP ne prend pas en compte les principales incidences négatives »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "p.1-2 : « Les performances passées ne constituent pas un indicateur fiable des performances futures » ; « l'OPCVM ... n'offre aucune garantie de rendement ou de performance et le capital n'est pas garanti »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 graphique Répartition par type : Cash 1 %"
+  }
+ },
+ {
+  "isin": "FR0011230549",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "« Indice de référence : ESTER Capitalisé + 200bps » (depuis le 30/04/2021)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "principales lignes : Romanian Government Bond 2,0% 28-01-2032 3,07 %, Oman 6,25% 2031 2,80 %, Oman 6,0% 2029 2,76 % ; secteur « Consommation non-cyclique 5,51% »"
+  }
+ },
+ {
+  "isin": "IE00BDH6RQ67",
+  "allocations": {
+   "verdict": "PARTIEL",
+   "note": "1/2 : Cash & Equivalents 2.63 % figure (Market Capitalisation p.1) ; « Actions 97,37 » n'est pas affiché (seulement Large 58.49 + Mid 27.07 + Small 11.81 = 97.37)"
+  }
+ },
+ {
+  "isin": "LU2358389745",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartiment de la SICAV Varenne UCITS » ; « Domiciliation du Compartiment Luxembourg »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 échelle de risque, case 4 surlignée (image)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Classification SFDR : Article 8 » (pastille, image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 Répartition par sous-industrie : « Équipements et instruments électroniques 7.13% »"
+  }
+ },
+ {
+  "isin": "LU2358392376",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Compartiment de la SICAV Varenne UCITS » ; « Domiciliation du Compartiment Luxembourg »"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "p.1 échelle de risque, case 3 surlignée (image)"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "p.1 « Classification SFDR : Article 8 » (pastille, image)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "p.2 « Équipements et instruments électroniques 4.72% »"
+  }
  }
 ]
