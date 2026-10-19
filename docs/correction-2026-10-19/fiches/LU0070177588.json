@@ -1,0 +1,237 @@
+{
+ "n": "636",
+ "isin": "LU0070177588",
+ "nom": "JPM GBP STANDARD MONEY MARKET VNAV A GBP",
+ "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-24",
+ "date_creation": "1996-04-15",
+ "devise": "GBP",
+ "type_fonds": "Monétaire GBP",
+ "compartiment": "un compartiment de JPMorgan Liquidity Funds",
+ "gerants": "Neil Hutchison, Joseph McConnell, Rustam Muradov",
+ "encours_millions": "1411.6",
+ "encours_devise": "GBP",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.45",
+ "sri": "1",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Il convient de garder à l'esprit que les performances passées ne constituent pas un indicateur fiable des résultats actuels ou futurs. Le Fonds n'est pas un véhicule d'investissement garanti.",
+ "politique_fr": "Objectif Le Compartiment cherche à offrir un rendement dans sa Devise de référence supérieur aux taux du marché monétaire en GBP tout en cherchant à préserver un capital en adéquation avec les taux du marché monétaire en vigueur et à maintenir un degré de liquidité élevé.\n\nIndice de référence de la Classe d'Actions ICE BofA Sterling 3-Month Government Bill Index L'indice de référence est un point de référence par rapport auquel la performance de la Classe d'Actions peut être mesurée. Le Compartiment est géré activement.\n\nPolitique d'investissement Le Compartiment investira ses actifs dans des Titres de créance et des dépôts auprès d’établissements de crédit. Le Compartiment peut être exposé à des investissements à rendement nul ou négatif dans des conditions de marché défavorables. L'échéance moyenne pondérée des investissements du Compartiment n'excédera pas 6 mois et l'échéance initiale ou résiduelle des Titres de créance individuels au moment de leur acquisition ne dépassera pas 2 ans, avec un délai de mise à jour de 397 jours. En plus de bénéficier d'une évaluation positive de leur qualité de crédit dans le cadre des Procédures d’évaluation interne de la qualité de crédit de la Société de gestion, les Titres de créance de longue échéance seront notés au minimum « BBB » et les Titres de créance de courte échéance au minimum « A-2 » selon les critères de Standard & Poor's ou assortis d'une note équivalente octroyée par une autre agence de notation indépendante. Le Compartiment pourra également investir dans des Titres de créance non notés de qualité comparable à ceux visés ci-dessus. Le Compartiment peut investir dans des parts ou actions d'autres fonds monétaires. Le Compartiment peut également avoir recours à des Contrats de prise en pension. Le Compartiment investira au moins 67% de ses actifs en GBP. Il pourra toutefois acquérir des actifs libellés dans n'importe quelle devise et l'exposition à d'autres devises que la GBP sera couverte en GBP. Le Compartiment peut avoir recours à des produits financiers dérivés à des fins de couverture des risques de taux d'intérêt ou de change inhérents à d'autres investissements. Le Compartiment s'efforcera de conserver une qualité de crédit moyenne de « AA » ou équivalente telle qu'assignée par au moins une agence de notation. Un minimum de 51% des actifs sont investis dans des émetteurs présentant des caractéristiques environnementales et/ou sociales positives et appliquant des pratiques de bonne gouvernance, tel qu'évalué à l'aune de la méthodologie de notation ESG propriétaire du Gestionnaire financier et/ou de données de tiers. En outre, le Compartiment incorpore au processus d'investissement un ensemble personnalisé de données sur l'Engagement des Employés et la Diversité (EE&D), qui tient compte des critères suivants au niveau de l'émetteur : mixité du personnel, programmes de diversité, score ethnique et score en matière d'égalité salariale. Les données retenues peuvent évoluer, mais seront directement liées à l’EE&D. Le Compartiment investit au moins 51% des actifs faisant l'objet d'une notation EE&D dans des émetteurs dont le score en la matière est supérieur à un seuil prédéfini. Le Compartiment investit au moins 10% de ses actifs dans des Investissements durables au sens du SFDR, contribuant à des objectifs environnementaux ou sociaux. Le Compartiment exclut certains secteurs, entreprises/émetteurs ou pratiques de l’univers d’investissement en fonction de politiques de filtrage basées sur des valeurs ou des normes spécifiques. Ces politiques établissent des limites ou des exclusions totales pour certains secteurs et certaines sociétés sur la base de critères ESG spécifiques et/ou de normes minimales en matière de pratiques commerciales reposant sur des standards internationaux. Pour l’assister dans ce filtrage, il s’appuie sur un ou plusieurs fournisseur(s) tiers qui identifie(nt) la participation d’un émetteur à des activités qui ne correspondent pas aux filtrages selon des valeurs ou des normes, ou le chiffre d’affaires de l’émetteur lié à ces activités. L'exactitude et/ou l'exhaustivité des données de tiers ne sont pas garanties. La politique d’exclusion du Compartiment peut être obtenue sur le site Internet de la Société de gestion (www.jpmorganassetmanagement.lu). Le Compartiment inclut systématiquement l'analyse ESG dans ses décisions d'investissement pour au moins 90% des titres achetés. Ce Compartiment constitue un « Fonds monétaire à valeur liquidative variable » au sens du Règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires, tel que modifié ou remplacé en tant que de besoin, et respectera dès lors ce Règlement.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet FR 30/09/2026 et KID du 24/04/2026 (classe « JPM GBP Standard Money Market VNAV A (acc.) », ISIN conforme). Corrigé : indice « ICE BofA Sterling 3-Month Government Bill Index » retiré : le KID le présente comme « un point de référence par rapport auquel la performance de la Classe d'Actions peut être mesurée » (comparaison seulement, sans usage pour le risque ni la construction du portefeuille) ; compartiment → libellé du KID ; politique remplacée par la section « Objectifs, processus et politiques » du KID (objectif, indice, politique d'investissement), sans l'approche ESG, le rachat ni la distribution. Date de création = « Lancement de la classe 15 Avr. 1996 » (fonds VNAV lancé le 3 Déc. 2018 par échange d'actions du fonds précédent). Encours = « Actifs net du fonds GBP 1411,6m ». Frais courants : KID « 0,45 % » (factsheet identique) ; pas de frais de gestion séparés. SRI 1 (KID). SFDR article 8 ; « au moins 10% » d'investissements durables (minimum, non repris). Duration vide : la factsheet donne seulement l'« Echéance moyenne pondérée en nombre de jours au 30.09.26 146 Jours » (pas de duration ni de sensibilité). Qualité des émetteurs vide : seule la notation du fonds « Fitch Fund Rating AAf/S1 » est donnée (le KID vise une qualité de crédit moyenne « AA », objectif et non mesure). Disclaimer : deux premières phrases des « Informations importantes ». Allocations : 10 principales positions, régions, secteurs et échéances (libellé « 13-24 Months » écrit ainsi en anglais).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1 / KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Citigroup",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JPMorgan Chase",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank of Nova Scotia",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wells Fargo",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LVMH",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Morgan Stanley",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Toronto Dominion Bank",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Royal Bank of Canada",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "National Bank of Canada",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Groupe BPCE",
+   "pct": "1.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "24.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "13.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "12.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Australie",
+   "pct": "6.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Finlande",
+   "pct": "4.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée",
+   "pct": "3.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espagne",
+   "pct": "3.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "2.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Certificats de dépôt",
+   "pct": "26.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Oblig. d'entreprises financières",
+   "pct": "25.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Billet de trésorerie Sociétés financières",
+   "pct": "17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Oblig. d'entreprises non financières",
+   "pct": "12.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Au jour le jour",
+   "pct": "9.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Billet de trésorerie Sociétés non financières",
+   "pct": "4.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Billet de trésorerie adossé à des actifs",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres investissements European Medium Term Note",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "1.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 jour",
+   "pct": "10.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2 à 7 jours",
+   "pct": "2.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "8 à 30 jours",
+   "pct": "4.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 à 3 mois",
+   "pct": "13.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "4 à 6 mois",
+   "pct": "26.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7 à 9 mois",
+   "pct": "14.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10 à 12 mois",
+   "pct": "20.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "13-24 Months",
+   "pct": "7.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__KID_FR_2026-04-24.pdf"
+}

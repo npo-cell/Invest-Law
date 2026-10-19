@@ -1,0 +1,217 @@
+{
+ "n": "633",
+ "isin": "LU0862449690",
+ "nom": "JPM EMERGING MKT DIV FUND A EUR",
+ "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-07",
+ "date_creation": "2012-12-11",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "un compartiment de JPMorgan Funds",
+ "gerants": "Omar Negyal, Shuyu Gao",
+ "encours_millions": "1454.9",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.81",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+ "politique_fr": "Objectif Générer un rendement en investissant essentiellement dans des actions de sociétés des marchés émergents qui distribuent des dividendes, tout en participant à la croissance du capital sur le long terme.\n\nProcessus d'investissement Approche d’investissement\nApplique un processus fondamental de sélection de titres bottom-up.\nUtilise une approche basée sur de fortes convictions en vue d’identifier les meilleures idées d’investissement.\nCherche à concilier rendement attrayant et appréciation du capital.\n\nIndice de référence de la Classe d'Actions MSCI Emerging Markets Index (Total Return Net)\n\nRecours à un indice de référence et similitude\nComparaison des performances.\n\nLe Compartiment est géré activement. Bien que la majorité des positions du Compartiment (hors produits dérivés) soient susceptibles de faire partie de l'indice de référence, le Gestionnaire financier a toute latitude pour s'écarter des composantes, des pondérations et du profil de risque de ce dernier. Le degré de ressemblance du Compartiment avec la composition et le profil de risque de l'indice de référence évoluera avec le temps et sa performance pourra s'écarter sensiblement de celle de ce dernier.\n\nPrincipale exposition Au moins 67% des actifs sont investis dans des actions à dividende de sociétés domiciliées dans un pays émergent ou qui y exercent la majeure partie de leur activité économique. Le Compartiment peut investir dans des petites entreprises. Le Compartiment peut investir jusqu'à 20% de ses actifs dans des Actions A chinoises par le biais des Programmes Stock Connect entre la Chine et Hong Kong. Un minimum de 51% des actifs sont investis dans des entreprises présentant des caractéristiques environnementales et/ou sociales positives et appliquant des pratiques de bonne gouvernance, tel qu'évalué à l'aune de la méthodologie de notation ESG propriétaire du Gestionnaire financier et/ou de données de tiers. Le Compartiment consacre au moins 20% de ses actifs à des Investissements durables, tels que définis dans le règlement SFDR, contribuant à des objectifs environnementaux ou sociaux. Le Compartiment exclut certains secteurs, entreprises/émetteurs ou pratiques de l’univers d’investissement en fonction de politiques de filtrage basées sur des valeurs ou des normes spécifiques. Ces politiques établissent des limites ou des exclusions totales pour certains secteurs et certaines sociétés sur la base de critères ESG spécifiques et/ou de normes minimales en matière de pratiques commerciales reposant sur des standards internationaux. Pour l’assister dans ce filtrage, il s’appuie sur un ou plusieurs fournisseurs tiers qui identifient la participation d’un émetteur à des activités qui ne correspondent pas aux filtrages selon des valeurs ou des normes, ou le chiffre d’affaires de l’émetteur lié à ces activités. L'exactitude et/ ou l'exhaustivité des données de tiers ne sont pas garanties. La politique d’exclusion du Compartiment peut être obtenue sur le site Internet de la Société de gestion (www.jpmorganassetmanagement.lu ). Le Compartiment inclut systématiquement l'analyse ESG dans ses décisions d'investissement pour au moins 75% des titres achetés.\n\nAutres expositions Les Dépôts auprès d'établissements de crédit, les instruments du marché monétaire et les fonds monétaires pour la gestion des souscriptions et des rachats en espèces ainsi que pour les paiements courants et exceptionnels.\n\nTechniques et instruments Prêt de titres : prévision : 0% à 10% ; maximum 10%.\n\nDevises Devise de référence du Compartiment : USD. Devises de libellé des actifs : toutes. Approche en matière de couverture de risque : exposition généralement non couverte.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet FR 30/09/2026 et KID du 07/10/2026 (part « JPM Emerging Markets Dividend A (acc) - EUR », ISIN conforme). Corrigé : encours 1390.4 → 1454.9 (« Actifs du fonds USD 1454,9m », factsheet 30/09/2026) ; indice retiré ; classification Dynamique → Agressif ; compartiment → libellé du KID ; politique remplacée par celle du KID. Indice « MSCI Emerging Markets Index (Total Return Net) » non retenu : la factsheet précise « L'indice de référence est utilisé à des fins comparatives uniquement » et le KID ne lui donne que l'usage « Comparaison des performances ». Politique = section « Objectifs, processus et politiques » du KID, sans le rachat ni la distribution (la factsheet en donne une version abrégée, texte PDF aux apostrophes doublées). Date de création de la catégorie de parts et du fonds : 11 Déc. 2012. Encours = « Actifs du fonds USD 1454,9m » (devise du fonds, la part est en EUR). Frais courants : KID « 1,81 % » (factsheet identique) ; pas de frais de gestion séparés. SRI 4 (KID). Classification Agressif : actions des pays émergents (SRI 4). SFDR article 8 ; « au moins 20% » des actifs consacrés à des investissements durables (minimum, non repris). Allocations : 10 principales positions, régions et secteurs (colonne fonds ; libellé « Technologies de I'information » écrit ainsi).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1 / KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "KID p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "9.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "8.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Hynix",
+   "pct": "5.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MediaTek",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lenovo",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASE Technology",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Advantech",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Petroleo Brasileiro",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lite-On Technology",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taïwan",
+   "pct": "24.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée",
+   "pct": "22.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "22.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Brésil",
+   "pct": "6.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "5.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique du Sud",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Mexique",
+   "pct": "3.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Arabie Saoudite",
+   "pct": "2.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "1.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Indonésie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "5.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de I'information",
+   "pct": "41.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Institutions financières",
+   "pct": "26.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation durables",
+   "pct": "7.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "5.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés industrielles",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.2"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__KID_FR_2026-10-07.pdf"
+}
