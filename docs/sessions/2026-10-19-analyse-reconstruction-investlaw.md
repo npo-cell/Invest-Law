@@ -32,3 +32,14 @@ Précisions de l'utilisatrice et changements apportés au prompt :
 - **« Tout contrôler »** signifie avoir accès au compte Data, au compte gestionnaire (Responsable) et au compte mère. Ajouts :
   - **dans le prompt**, une section 3 bis sur les trois niveaux d'accès : comptes d'infrastructure, rôle Administrateur, jetons d'API. Elle comprend le mode « Voir comme », l'impossibilité de supprimer le dernier Administrateur, une procédure de secours et le fichier `docs/ACCES.md` ;
   - **dans l'analyse**, une section 7 qui liste les accès à demander dès maintenant au développeur sur le site actuel : compte Responsable, droits du compte mère (aujourd'hui liés à son email dans le code), accès propriétaire à l'infrastructure, export complet.
+
+## Prompt « page blanche » (même jour)
+
+- **Demande** : un second prompt, écrit comme si l'on partait de zéro. Il ne mentionne ni le site actuel, ni la migration, ni les détails techniques (« comment faire »), mais il doit aboutir à une plateforme très proche d'invest-law.
+- **Fichier** : `docs/livrables/2026-10-19-prompt-creation-plateforme.md`.
+- **Contenu** :
+  - vision, rôles et trois niveaux d'accès, menu et charte graphique ;
+  - fonctions détaillées : fonds, sélection et simulateur, fiche à 5 onglets, maisons, banques, actualités, documentation, arbre LAW, simulation fiscale, outils intégrés, administration ;
+  - qualité attendue.
+  - Seules contraintes techniques indiquées : GitHub, Vercel et Supabase.
+- Le prompt détaillé (`2026-10-19-prompt-reconstruction-investlaw.md`) reste disponible si l'on veut migrer les données ou garder l'API existante.
