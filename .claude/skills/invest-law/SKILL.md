@@ -10,6 +10,7 @@ description: Toute tâche sur le site invest-law.eu (fiches fonds, rapports de g
 3. Outils :
    - `tools/investlaw.py` : `fund`, `set` (simulation par défaut, `--apply` pour enregistrer), `delete-report`, `call METHODE chemin [corps.json]` ;
    - `tools/investlaw_upload.py` : upload en masse des factsheets, procédure dans `INVESTLAW/LISEZMOI.md`.
+   - `tools/zimbra_mail.py` : lecture seule de la boîte Zimbra (mails des maisons de gestion, VNI, factsheets en pièce jointe) ; réglage par personne dans `docs/2026-10-19-guide-zimbra.md`.
 4. Règles :
    - montrer ancien → nouveau avant toute modification de fiche ;
    - `PUT /api/funds/{id}` remplace toute la fiche : passer par `set` ;
