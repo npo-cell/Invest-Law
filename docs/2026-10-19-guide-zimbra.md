@@ -1,6 +1,7 @@
 # Connecter Claude à la boîte mail Zimbra d'invest-law
 
 But : Claude lit les mails Zimbra (VNI, factsheets, nouvelles des maisons de gestion) et les reporte sur invest-law.eu.
+C'est la boîte « data » d'invest-law : la plupart des données y arrivent, notamment les VNI quotidiennes et mensuelles. C'est sa raison d'être principale.
 Claude ne voit pas les onglets du navigateur : il se connecte à Zimbra (OVH, `zimbra1.mail.ovh.net`) par son adresse web, avec des identifiants rangés dans les réglages de l'environnement cloud.
 L'IMAP ne marche pas : le proxy des sessions cloud ne laisse passer que HTTPS.
 
