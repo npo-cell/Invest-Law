@@ -13,3 +13,12 @@
 - **Fichiers** : `resultat.json` (verdict par case), `ecarts.csv` (tous les écarts, avec valeur du document et note), `passage-automatique.json`, page `authentification-gamme-one-life.html`.
 - **Artefact** : https://claude.ai/artifact/7GsXisc2YK4wPHHni72WLx (privé tant qu'il n'est pas partagé).
 - Rien modifié sur invest-law.eu ni dans le Google Sheet.
+
+## Suite : correction du classeur (19/10/2026, en cours, arrêtée à la demande de l'utilisatrice)
+- **Demande** : « corrige tout ce qu'il faut pour avoir un document des plus véridiques possibles ».
+- **Méthode** (`docs/correction-2026-10-19/`, `CONSIGNE.md`) : 417 fonds repris (374 fiches du site à écarts / autre part / KID seul / factsheet dépassée, 43 fiches préparées dont la factsheet a été remplacée). Pour chacun : dernière factsheet et dernier KID de la part exacte (fundinfo, 740 PDF rangés dans `INVESTLAW/`, plus quelques-uns trouvés chez les gestionnaires), fiche refaite selon `CONSIGNE-fiches.md`, contrôle `verif_fiche.py`. 8 lots parallèles.
+- **État à l'arrêt** : fiches refaites dans `docs/correction-2026-10-19/fiches/` (lots 1, 3, 6, 7 terminés ; 2, 4, 5, 8 interrompus). Liste des fonds restants : `docs/correction-2026-10-19/reste-a-faire.txt`.
+- Générateur du classeur déjà adapté (`docs/gamme-complete-2026-10-16/construire.py` : les fiches de `correction-2026-10-19/fiches` sont prioritaires, origine « Corrigée le 19/10 »).
+- **Reste à faire pour reprendre** : 1) terminer les fonds de `reste-a-faire.txt` (même consigne, entrées dans `lots/lot-K-entree.json`) ; 2) remplir la catégorie (fichier OneLife Fund Classification sur le Drive, même ISIN ou autre part du même fonds ; catégorie du site gardée avec remarque sinon) ; 3) `construire.py` puis réimport dans le Google Sheet (IMPORTDATA, voir note du 16/10) et contrôle cellule par cellule ; 4) relancer `authentifier.py` / `consolider.py` et republier l'artefact (même lien).
+- Décisions à valider : CPR Hydrogen A2 (seule factsheet de la part datée de 2024, non retenue, fiche sur le KID) ; M&G Sustainable Macro Flexible Credit P (factsheet de la part W dont le tableau donne la ligne de la part P) ; fiches vides faute de document de la part (Leleux parts P et PA, Conviction Patrimoine B).
+- Ni le Google Sheet ni invest-law.eu n'ont encore été modifiés par cette correction.
