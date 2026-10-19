@@ -11,7 +11,7 @@ Seuls 23 de ces ISIN ont une fiche sur le site. Le contrôle porte sur ces 23 fi
 
 **Aucune valeur fausse.** Les 8 VNI présentes à la fois dans les mails et sur le site sont identiques (Leleux, 07/10). Les mails en double donnent les mêmes valeurs.
 
-**Mais la plupart des VNI des mails ne sont pas sur le site.** Il manque 159 valeurs ; elles sont prêtes à importer dans `docs/controle-vni-2026-10-19/vni-manquantes.csv`, au format `ISIN,Date,VNI`.
+**Mais la plupart des VNI des mails ne sont pas sur le site.** Il manque 159 valeurs ; elles ont été importées le 19/10 (159/159 vérifiées) depuis `docs/controle-vni-2026-10-19/vni-manquantes.csv`, au format `ISIN,Date,VNI`.
 
 ### Leleux Invest (CACEIS) : 8 fiches, à jour jusqu'au 07/10
 Il manque les VNI des 08, 09, 12, 13 et 14/10, soit 40 valeurs.
