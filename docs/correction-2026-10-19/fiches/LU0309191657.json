@@ -27,7 +27,7 @@
  "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des sociétés de qualité cotées sur les marchés boursiers mondiaux. Les sociétés sélectionnées bénéficient d’avantages compétitifs pérennes et offrent des dividendes attrayants, soutenables et en croissance. Le fonds vise à générer des rendements ajustés au risque supérieurs à ceux de son univers de référence sur un cycle de marché complet.\n\nLe fonds s’engage à investir minimum 30% de ses actifs en actifs durables.\n\nLe gérant du fonds met en œuvre une stratégie active et de long terme reposant sur des convictions solides.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR de septembre 2026. Date de création : « Date de lancement de la classe 30/10/2007 ». Encours « Actifs nets € 472,35 mio ». Frais : classe B « Frais de gestion 1.25% » et « Frais courants 1.44% » (tableau des classes de la factsheet) ; frais courants 1,5 % retenus du KID (« Frais de gestion et autres frais administratifs et d'exploitation 1,5% »). Indice : la factsheet affiche le « MSCI AC World NR EUR » mais précise que « les références à un indice de marché … sont faites uniquement à des fins de comparaison » ; le KID indique une gestion sans valeur de référence : non retenu. Gérants : Jérémie Fastnacht (gestionnaire) et Guy Wagner (suppléant). SFDR 8 (« Classification SFDR 8 »). Investissements durables : « Actifs durables 56% » (engagement minimal de 30 %). Classification Dynamique : actions mondiales de qualité à dividendes (SRI 3). Allocations : 10 principales positions, devises (tableau texte), secteurs, pays et capitalisations (graphiques, valeurs du fonds lues sur l'image de la page 2). Corrigé : encours 507.06 → 472.35 (factsheet 30/09/2026) ; frais courants 1.44 → 1.5 (KID) ; indice → vide (comparaison seulement) ; SFDR 8 et investissements durables 56 ajoutés ; classification Dynamique ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "remarques": "Factsheet FR de septembre 2026. Date de création : « Date de lancement de la classe 30/10/2007 ». Encours « Actifs nets € 472,35 mio ». Frais : classe B « Frais de gestion 1.25% » et « Frais courants 1.44% » (tableau des classes de la factsheet) ; frais courants 1,5 % retenus du KID (« Frais de gestion et autres frais administratifs et d'exploitation 1,5% »). Indice : la factsheet affiche le « MSCI AC World NR EUR » mais précise que « les références à un indice de marché … sont faites uniquement à des fins de comparaison » ; le KID indique une gestion sans valeur de référence : non retenu. Gérants : Jérémie Fastnacht (gestionnaire) et Guy Wagner (suppléant). SFDR 8 (« Classification SFDR 8 »). Investissements durables : « Actifs durables 56% » (engagement minimal de 30 %). Classification Dynamique : actions mondiales de qualité à dividendes (SRI 3). Allocations : 10 principales positions, devises (tableau texte), secteurs, pays et capitalisations (graphiques, libellés et valeurs du fonds lus sur l’image de la page 2 ; les libellés étant écrits à la verticale, le contrôle automatique ne retrouve pas certains libellés (« Materiaux », « États-Unis »…) : artefact d’extraction). Corrigé : encours 507.06 → 472.35 (factsheet 30/09/2026) ; frais courants 1.44 → 1.5 (KID) ; indice → vide (comparaison seulement) ; SFDR 8 et investissements durables 56 ajoutés ; classification Dynamique ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
  "factsheet_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__KID_FR_2026-02-06.pdf",
  "sources": {
@@ -136,7 +136,7 @@
   },
   {
    "type": "Secteurs",
-   "libelle": "Matériaux",
+   "libelle": "Materiaux",
    "pct": "9.3"
   },
   {
@@ -171,7 +171,7 @@
   },
   {
    "type": "Secteurs",
-   "libelle": "Services de télécom",
+   "libelle": "Services de télécom.",
    "pct": "0.0"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
    "type": "Pays",
-   "libelle": "Etats-Unis",
+   "libelle": "États-Unis",
    "pct": "33.4"
   },
   {
@@ -216,7 +216,7 @@
   },
   {
    "type": "Pays",
-   "libelle": "Taïwan",
+   "libelle": "Taiwan",
    "pct": "3.8"
   },
   {
