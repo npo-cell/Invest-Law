@@ -18,3 +18,17 @@
   - RUNBOOK et guides d'administration ;
   - migration idempotente des données.
 - **À faire par l'équipe** : vérifier le contrat avec le développeur (point 6 de l'analyse) avant de lancer la reconstruction.
+
+## Mise à jour du prompt (même jour)
+
+Précisions de l'utilisatrice et changements apportés au prompt :
+- **Infrastructure** : code sur **GitHub**, qui reste le seul chemin vers la production ; application sur **Vercel** ; base de données, authentification et fichiers sur **Supabase**. Cela s'est traduit par :
+  - Supabase Auth avec MFA ;
+  - RLS sur toutes les tables ;
+  - Storage privé ;
+  - migrations versionnées appliquées par GitHub Actions ;
+  - projets `prod` et `staging` à Francfort ;
+  - plans Pro de Vercel et de Supabase.
+- **« Tout contrôler »** signifie avoir accès au compte Data, au compte gestionnaire (Responsable) et au compte mère. Ajouts :
+  - **dans le prompt**, une section 3 bis sur les trois niveaux d'accès : comptes d'infrastructure, rôle Administrateur, jetons d'API. Elle comprend le mode « Voir comme », l'impossibilité de supprimer le dernier Administrateur, une procédure de secours et le fichier `docs/ACCES.md` ;
+  - **dans l'analyse**, une section 7 qui liste les accès à demander dès maintenant au développeur sur le site actuel : compte Responsable, droits du compte mère (aujourd'hui liés à son email dans le code), accès propriétaire à l'infrastructure, export complet.

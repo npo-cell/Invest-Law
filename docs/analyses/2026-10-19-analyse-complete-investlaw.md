@@ -96,3 +96,20 @@ L'indépendance tient d'abord à la propriété, avant la technique. À vérifie
 4. **Export complet des données** : dump de la base, fichiers et utilisateurs. Ce sont les données de la société.
 
 Si le contrat le permet, **récupérer le code et le dump** peut suffire à devenir autonome plus vite qu'une reconstruction. Le prompt reste utile dans les deux cas : reconstruction propre, ou reprise d'un code existant selon les mêmes exigences.
+
+## 7. Accès complet : sur l'ancien site maintenant, sur le nouveau ensuite
+
+L'objectif, précisé le 19/10/2026, est d'avoir accès au compte Data, au compte gestionnaire (Responsable) et au « compte mère » qui a accès à tout.
+
+**Sur le site actuel**, nous n'avons que le compte Data (`npo@lifeb2b.com`). Le reste dépend du développeur. À lui demander par écrit, dès maintenant :
+1. **Un compte Responsable** au nom de l'utilisatrice. Il donne l'Admin : utilisateurs, activité et relances.
+2. **Les droits du « compte mère ».** Ils sont aujourd'hui attachés à `omar@xsreturn.com`, inscrit directement dans le code de 4 pages. Le développeur doit soit ajouter l'adresse de l'utilisatrice à ce test, soit le remplacer par un rôle. Sans ce changement de code, aucun autre compte ne peut publier les nouvelles, gérer la documentation, attribuer les rôles Data/Responsable ou lire les journaux.
+3. **Un accès « propriétaire »** (et non « membre ») aux comptes d'infrastructure : DigitalOcean (serveur, base, stockage Spaces), registrar du domaine, boîte info@invest-law.eu, application pb.invest-law.eu.
+4. **Un export complet** : dump de la base, fichiers, liste des utilisateurs. Le code source aussi, si le contrat le permet.
+
+Ces demandes ne bloquent pas la reconstruction, mais elles sécurisent la période de transition. L'export (point 4) rend aussi la migration plus simple et plus fiable que la lecture par l'API.
+
+**Sur le nouveau site** (section 3 bis du prompt), les trois niveaux sont prévus dès le départ :
+- **Compte mère d'infrastructure** : Owner de GitHub, de Vercel et de Supabase, ainsi que du domaine et du fournisseur d'emails.
+- **Rôle Administrateur dans le site** : tous les droits, jamais codé en dur, impossible de supprimer le dernier, avec une procédure de secours et un mode « Voir comme ».
+- **Rôles Responsable et Data** : comptes de test créés pour l'utilisatrice dès la phase 2.
