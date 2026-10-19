@@ -1,0 +1,2344 @@
+[
+ {
+  "n": 787,
+  "isin": "FR0010035592",
+  "nom": "R-CO OPAL 4CHANGE SUSTAINABLE TRENDS C EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010035592/FR0010035592__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010035592/FR0010035592__KID_FR_2026-07-02.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010035592/FR0010035592__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010035592/FR0010035592__KID_FR_2026-07-02.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010035592__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "46,07 M€",
+    "note": "p.1 « Actifs sous gestion 46,07 M€ » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2004-01-05",
+   "devise": "EUR",
+   "type_fonds": "Fonds de fonds actions internationales thématiques (développement durable)",
+   "compartiment": "R-co OPAL 4Change Global Trends (FCP de droit français)",
+   "gerants": "Thomas Ayache, Marc Terras",
+   "encours": "46.99",
+   "frais_gestion": "2",
+   "frais_courants": "2.47",
+   "sri": "3",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Equilibré",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "R-co OPAL 4Change Sustainable Trends a pour objectif de gestion, sur une durée de placement recommandée de 5 ans minimum, d’obtenir une performance nette de frais supérieure à celle de l’indicateur de référence, le MSCI Daily TR Net World en euro, dividendes nets réinvestis, en investissant dans des OPC (y compris les OPC cotés / ETF) exposés aux tendances structurelles liées au développement dura",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 788,
+  "isin": "FR001400SE57",
+  "nom": "R-CO TARGET 2029 HY C EUR (FMB)",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SE57/FR001400SE57__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SE57/FR001400SE57__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SE57/FR001400SE57__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SE57/FR001400SE57__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SE57/FR001400SE57__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400SE57__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet (EN) : « sub-fund », « Bond and other €debt securities SICAV », mention légale générique SICAV « R-Co » ; le nom « R-co 3 » n'apparaît pas"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (étapes de constitution/détention/monétisation, 80 %, 200 %, souscriptions fermées au 01/01/2027) ; la factsheet n'a que l'objectif de gestion"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-11-21",
+   "devise": "EUR",
+   "type_fonds": "Obligations à échéance 2029 haut rendement en euro",
+   "compartiment": "R-co 3 (SICAV de droit français), compartiment R-co Target 2029 HY",
+   "gerants": "Kristell Agaesse, Michaël Longeard",
+   "encours": "438.18",
+   "frais_gestion": "1",
+   "frais_courants": "1.11",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Majoritairement obligations",
+   "sfdr": "8",
+   "duration": "2.65",
+   "qualite": "BB",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "R-co Target 2029 HY est un compartiment de la SICAV de droit français R-co 3, OPCVM géré par Rothschild & Co Asset Management, classé \"Obligations et autres titres de créance libellés en euro\". Le document décrit l'action C EUR, action de capitalisation.Le compartiment a pour objectif, au moment de la souscription et jusqu'au 31/12/2029, d'obtenir une performance nette de frais liée à l'évolution ",
+   "politique_en": "The sub-fund's management objective, at the time of subscription and until 31/12/2029, is to achieve a performance net of fees linked to trends on the euro-denominated fixed income markets by investing in speculative (high-yield) securities.The average maturity of the portfolio will be between January and December 2029.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 789,
+  "isin": "FR0014008M99",
+  "nom": "R-CO THEMATIC BLOCKCHAIN GLOBAL EQUITY C EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014008M99/FR0014008M99__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014008M99/FR0014008M99__KID_FR_2026-03-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014008M99/FR0014008M99__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014008M99/FR0014008M99__KID_FR_2026-03-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0014008M99__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 « Le compartiment R-co Thematic Blockchain Global Equity », « SICAV » ; le nom de la SICAV « R-co 2 » n'apparaît pas (seule mention légale générique « R-Co »)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "140,82 M€",
+    "note": "p.1 « Actifs sous gestion 140,82 M€ » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-07-08",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (blockchain)",
+   "compartiment": "R-co 2 (SICAV de droit français), compartiment R-co Thematic Blockchain Global Equity",
+   "gerants": "Charles-Edouard Bilbault, Klara Sok",
+   "encours": "140.77",
+   "frais_gestion": "2",
+   "frais_courants": "1.75",
+   "sri": "6",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "Le compartiment R-co Thematic Blockchain Global Equity a pour objectif de gestion de réaliser, sur la durée de placement recommandée (supérieure ou égale à cinq ans), une performance nette de frais supérieure à celle de son indicateur de référence, l’indice MSCI Daily TR Net World dividendes réinvestis (MSDEWIN) en Euro, en cherchant à investir dans des actions des entreprises actives sur les thém",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 790,
+  "isin": "FR0010909531",
+  "nom": "R-CO THEMATICS SILVER PLUS C EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010909531/FR0010909531__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010909531/FR0010909531__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010909531/FR0010909531__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010909531/FR0010909531__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010909531__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2018-11-30",
+   "devise": "EUR",
+   "type_fonds": "Actions zone euro (thématique)",
+   "compartiment": "R-co (SICAV de droit français), compartiment R-co Thematic Silver Plus",
+   "gerants": "Nathalie Bourdoncle, Valérie Oelhoffen",
+   "encours": "62.99",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.77",
+   "sri": "4",
+   "indice": "Euro Stoxx ® NR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Healthcare",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "Le compartiment R-co Thematic Silver Plus a pour objectif de gestion de surperformer, sur une période égale ou supérieure à 5 ans, l'indice Dow Jones Eurostoxx dividendes nets réinvestis des marchés d'actions de la zone euro via la mise en place d’une gestion discrétionnaire.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 791,
+  "isin": "FR0013367281",
+  "nom": "R-CO VALOR BALANCED F EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367281/FR0013367281__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367281/FR0013367281__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367281/FR0013367281__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367281/FR0013367281__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367281/FR0013367281__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013367281__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2018-10-24",
+   "devise": "EUR",
+   "type_fonds": "Mixte international équilibré (actions et taux)",
+   "compartiment": "R-co (SICAV de droit français), compartiment R-co Valor Balanced",
+   "gerants": "Yoann Ignatiew, Emmanuel Petit, Philippe Lomne",
+   "encours": "955.63",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.73",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "4.45",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "Recherche d'une croissance du capital, sur une durée de placement recommandée comprise entre 3 et 5 ans, en s'exposant aux marchés actions et taux avec un profil équilibré mettant en œuvre une allocation d'actifs discrétionnaire et une sélection de titres financiers fondée sur l'analyse financière des émetteurs.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 792,
+  "isin": "FR0011253624",
+  "nom": "R-CO VALOR C EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011253624/FR0011253624__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011253624/FR0011253624__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011253624/FR0011253624__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011253624/FR0011253624__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0011253624__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-10-03",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible international (actions et taux)",
+   "compartiment": "R-co Valor (SICAV de droit français)",
+   "gerants": "Yoann Ignatiew, Charles-Edouard Bilbault, Henri Captier",
+   "encours": "10436.24",
+   "frais_gestion": "1.45",
+   "frais_courants": "1.57",
+   "sri": "4",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "L’objectif de R-co Valor est la recherche de performance, en investissant essentiellement sur les marchés actions et de taux mondiaux, par la mise en oeuvre d’une gestion discrétionnaire reposant notamment sur la sélection d’instruments financiers fondée sur l’analyse financière des émetteurs.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 793,
+  "isin": "FR0012406163",
+  "nom": "R-CO VALOR C USD",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0012406163/FR0012406163__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0012406163/FR0012406163__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0012406163/FR0012406163__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0012406163/FR0012406163__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0012406163__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "10 436,24 M€",
+    "note": "p.1 « Actifs sous gestion 10 436,24 M€ » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2015-01-05",
+   "devise": "USD",
+   "type_fonds": "Mixte flexible international (actions et taux)",
+   "compartiment": "R-co Valor (SICAV de droit français)",
+   "gerants": "Yoann Ignatiew, Charles-Edouard Bilbault, Henri Captier",
+   "encours": "10814.68",
+   "frais_gestion": "1.45",
+   "frais_courants": "1.57",
+   "sri": "4",
+   "classification": "Dynamique",
+   "categorie": "Mixte (multi-actifs)",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "L’objectif de R-co Valor est la recherche de performance, en investissant essentiellement sur les marchés actions et de taux mondiaux, par la mise en oeuvre d’une gestion discrétionnaire reposant notamment sur la sélection d’instruments financiers fondée sur l’analyse financière des émetteurs.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 794,
+  "isin": "FR0011261197",
+  "nom": "R-CO VALOR F EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011261197/FR0011261197__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011261197/FR0011261197__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011261197/FR0011261197__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011261197/FR0011261197__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0011261197__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-10-03",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible international (actions et taux)",
+   "compartiment": "R-co Valor (SICAV de droit français)",
+   "gerants": "Yoann Ignatiew, Charles-Edouard Bilbault, Henri Captier",
+   "encours": "10436.24",
+   "frais_gestion": "1.8",
+   "frais_courants": "1.91",
+   "sri": "4",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "L’objectif de R-co Valor est la recherche de performance, en investissant essentiellement sur les marchés actions et de taux mondiaux, par la mise en oeuvre d’une gestion discrétionnaire reposant notamment sur la sélection d’instruments financiers fondée sur l’analyse financière des émetteurs.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 795,
+  "isin": "LU0203975437",
+  "nom": "ROBECO BP GLOBAL PREMIUM EQUITIES D EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0203975437/LU0203975437__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0203975437/LU0203975437__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0203975437/LU0203975437__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0203975437/LU0203975437__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0203975437__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "8 793,25 M EUR (actif du fonds) ; 3 107,41 M EUR (part)",
+    "note": "p.1 « ACTIF DU FONDS EUR 8.793.251.559 » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2004-12-13",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales value",
+   "compartiment": "Robeco Capital Growth Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Christopher Hart CFA, Joshua Jones CFA, Soyoun Song",
+   "encours": "8962.61",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.46",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Communication marketing. Les performances passées ne préjugent pas des résultats futurs. La valeur de vos investissements peut fluctuer et le capital initial n'est pas garanti.",
+   "politique_fr": "Robeco BP Global Premium Equities est un fonds All Cap Value mondial géré de manière active et sans contrainte. La sélection de ces titres « Value » est basée sur une analyse fondamentale. Le fonds se concentre sur des sociétés à la valorisation attractive, dont les fondamentaux sont convaincants et dont le momentum commercial s'améliore, indépendamment de la capitalisation boursière, de la région",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 796,
+  "isin": "LU0187076913",
+  "nom": "ROBECO EMERGING MARKETS EQUITIES D EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187076913/LU0187076913__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187076913/LU0187076913__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187076913/LU0187076913__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187076913/LU0187076913__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187076913/LU0187076913__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0187076913__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé : seul le paragraphe « About the fund » et « active currency policy » figurent ; utilisation de l'indice pour l'allocation, limites de risque relatif, exclusions, période de détention 5 ans absents de la factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1994-11-29",
+   "devise": "EUR",
+   "type_fonds": "Actions marchés émergents",
+   "compartiment": "Robeco Capital Growth Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Wim-Hein Pals, Dimitri Chatzoudis, Jaap van der Hart, Cornelis Vlooswijk",
+   "encours": "1647.49",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.76",
+   "sri": "4",
+   "indice": "MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Emerging Markets",
+   "sfdr": "8",
+   "disclaimer": "Communication marketing. Les performances passées ne préjugent pas des résultats futurs. La valeur de vos investissements peut fluctuer et le capital initial n'est pas garanti.",
+   "politique_fr": "Robeco Emerging Markets Equities est un compartiment de Robeco Capital Growth Funds, SICAV de droit luxembourgeois relevant de la réglementation OPCVM, géré par Robeco Institutional Asset Management B.V. La part D EUR est une part de capitalisation libellée en euro.Le fonds est géré activement et investit dans des actions de pays émergents du monde entier. La sélection des titres repose sur l'anal",
+   "politique_en": "Robeco Emerging Markets Equities is an actively managed fund that invests in stocks in emerging countries across the world. The selection of these stocks is based on fundamental analysis. The fund's objective is to achieve a better return than the index.\n\nThe fund selects investments based on top-down country analysis and bottom-up stock ideas. The focus is on companies with a sound business model",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 798,
+  "isin": "LU0187077481",
+  "nom": "ROBECO NEW WORLD FINANCIAL EQUITIES D EUR",
+  "maison": "Robeco Institutional Asset Management B.V.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187077481/LU0187077481__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187077481/LU0187077481__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187077481/LU0187077481__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187077481/LU0187077481__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROBECO_INSTITUTIONAL_ASSET_MANAGEMENT_B_V/LU0187077481/LU0187077481__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0187077481__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé : la factsheet n'a que « About the fund » et la description des trois tendances ; l'usage de l'indice, la couverture de change, les exclusions et la période de détention 5 ans n'y figurent pas"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1998-06-03",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales sectorielles (financières)",
+   "compartiment": "Robeco Capital Growth Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Patrick Lemmens, Michiel van Voorst CFA, Koos Burema",
+   "encours": "319.8",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.71",
+   "sri": "4",
+   "indice": "MSCI All Country World Financials Index (Net Return, EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Financials",
+   "sfdr": "8",
+   "disclaimer": "Communication marketing. Les performances passées ne préjugent pas des résultats futurs. La valeur de vos investissements peut fluctuer et le capital initial n'est pas garanti.",
+   "politique_fr": "Robeco New World Financials est un compartiment de Robeco Capital Growth Funds, SICAV de droit luxembourgeois relevant de la réglementation OPCVM, géré par Robeco Institutional Asset Management B.V. La part D EUR est une part de capitalisation libellée en euro.Le fonds est géré activement et investit dans des actions de pays développés et émergents du monde entier, dans le secteur financier. La sé",
+   "politique_en": "Robeco New World Financials is an actively managed fund that invests in equities from developed and emerging countries all over the world. The stock selection is based on a fundamental analysis. Proprietary valuation models are used to select stocks with good earnings prospects and a reasonable valuation.\n\nThe fund invests in companies in the financial sector with a focus on attractive long-term g",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 809,
+  "isin": "LU2228414459",
+  "nom": "SHELTER UCITS CORE SATELLITE FUND 60 IC EUR",
+  "maison": "SHELTER INVESTMENT MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/SHELTER_INVESTMENT_MANAGEMENT/LU2228414459/LU2228414459__KID_FR_2026-01-02.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/SHELTER_INVESTMENT_MANAGEMENT/LU2228414459/LU2228414459__KID_FR_2026-01-02.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Fonds de fonds mixte international (cible 60 % actions)",
+   "compartiment": "ShelteR UCITS (SICAV de droit luxembourgeois, OPCVM)",
+   "frais_courants": "1.5",
+   "sri": "3",
+   "indice": "60% Morningstar Global Target Market Exposure Index & 40% Morningstar Global Core Bond Hedged EUR Index",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "disclaimer": "Ce produit ne comporte aucune protection contre les performances futures du marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "ShelteR UCITS Core-Satellite 60 Fund est un compartiment de ShelteR UCITS, SICAV de droit luxembourgeois constituée sous forme d'OPCVM, dont l'initiateur est ShelteR Investment Management, agréée au Luxembourg et réglementée par la CSSF. Le dépositaire est Banque de Luxembourg S.A.L'objectif du compartiment est d'offrir aux investisseurs un rendement équilibré entre celui des grands marchés action",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 810,
+  "isin": "LU2880650804",
+  "nom": "SHELTER UCITS GARDANTO CORE FUND IC EUR",
+  "maison": "SHELTER INVESTMENT MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Fonds de fonds mixte international (actions et obligations, dont thématiques)",
+   "compartiment": "ShelteR UCITS (SICAV de droit luxembourgeois, OPCVM)",
+   "frais_courants": "2.1",
+   "sri": "3",
+   "indice": "60% Morningstar Global Target Market Exposure Index & 40% Morningstar Global Core Bond Hedged EUR Index",
+   "classification": "Equilibré",
+   "categorie": "Mixte (multi-actifs)",
+   "sfdr": "8",
+   "disclaimer": "Ce produit ne comporte aucune protection contre les performances futures du marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "ShelteR UCITS Gardanto Core Fund est un compartiment de ShelteR UCITS, SICAV de droit luxembourgeois constituée sous forme d'OPCVM à capital variable (fonds ouvert), dont l'initiateur est ShelteR Investment Management, agréée au Luxembourg et réglementée par la CSSF. Le dépositaire est Banque de Luxembourg S.A.L'objectif du compartiment est d'offrir un rendement équilibré entre, d'une part, les ma",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-28."
+  }
+ },
+ {
+  "n": 811,
+  "isin": "LU2880681270",
+  "nom": "SHELTER UCITS GARDANTO DYNAMIC FUND IC EUR",
+  "maison": "SHELTER INVESTMENT MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Fonds de fonds actions internationales (dont thématiques)",
+   "compartiment": "ShelteR UCITS (SICAV de droit luxembourgeois, OPCVM)",
+   "frais_courants": "2.2",
+   "sri": "3",
+   "indice": "100% Morningstar Global Target Market Exposure Index",
+   "classification": "Equilibré",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Ce produit ne comporte aucune protection contre les performances futures du marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "ShelteR UCITS Gardanto Dynamic Fund est un compartiment de ShelteR UCITS, SICAV de droit luxembourgeois constituée sous forme d'OPCVM à capital variable (fonds ouvert), dont l'initiateur est ShelteR Investment Management, agréée au Luxembourg et réglementée par la CSSF. Le dépositaire est Banque de Luxembourg S.A.L'objectif du compartiment est d'offrir un rendement fondé sur les marchés actions la",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-28."
+  }
+ },
+ {
+  "n": 812,
+  "isin": "LU1932703363",
+  "nom": "SKAGEN FOCUS LUX A EUR",
+  "maison": "FundRock Management Company S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932703363/LU1932703363__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932703363/LU1932703363__KID_FR_2026-02-28.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932703363/LU1932703363__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932703363/LU1932703363__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932703363/LU1932703363__KID_FR_2026-02-28.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1932703363__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-06-26",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (petites et moyennes capitalisations, approche value)",
+   "compartiment": "Storebrand SICAV (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Jonas Edholm, David Harris",
+   "encours": "4",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.75",
+   "sri": "4",
+   "indice": "MSCI All Country World Index",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne garantissent pas les rendements futurs, qui dépendent notamment des marchés, du gérant, du profil de risque et des frais. Le rendement peut devenir négatif et vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "SKAGEN Focus Lux est un compartiment de Storebrand SICAV, société d'investissement à capital variable de droit luxembourgeois qualifiée d'OPCVM et placée sous la surveillance de la CSSF. Storebrand SICAV a désigné FundRock Management Company S.A. comme société de gestion, laquelle a nommé Storebrand Asset Management AS gestionnaire d'investissement et distributeur global. Le fonds est géré par Jon",
+   "politique_en": "SKAGEN Focus Lux is a high conviction equity fund that seeks to generate long-term capital growth by investing in a portfolio of global companies with a bias towards small and mid-cap stocks. The fund is actively managed and applies a contrarian and price-driven investment process to create a portfolio which typically trades at a steep discount to the broader market based on traditional valuation ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 813,
+  "isin": "LU1932713917",
+  "nom": "SKAGEN GLOBAL LUX A EUR",
+  "maison": "FundRock Management Company S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932713917/LU1932713917__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932713917/LU1932713917__KID_FR_2026-02-28.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932713917/LU1932713917__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932713917/LU1932713917__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932713917/LU1932713917__KID_FR_2026-02-28.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1932713917__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "phrases du KID ; la factsheet ne contient que « This product does not include any protection from future market performance so you could lose some or all of your investment » ; « ne convient pas aux clients qui ne peuvent supporter aucune perte en capital » absent"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID (initiateur PRIIP, dépositaire J.P. Morgan SE, 10 % en fonds, pas de dérivés, écart de suivi > 4 %, détention 5 ans) ; ces éléments ne figurent pas dans la factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-06-24",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (approche value)",
+   "compartiment": "Storebrand SICAV (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Knut Gezelius, Midhat Syed",
+   "encours": "10",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.75",
+   "sri": "5",
+   "indice": "MSCI All Countries World Daily Net (EUR)",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Ce produit ne prévoit pas de protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement. Il ne convient pas aux clients qui ne peuvent supporter aucune perte en capital.",
+   "politique_fr": "SKAGEN Global Lux est un compartiment de Storebrand SICAV, SICAV de droit luxembourgeois qualifiée d'OPCVM. L'initiateur du PRIIP et la société de gestion est FundRock Management Company S.A. ; la gestion d'investissement est assurée par Storebrand Asset Management AS. Le dépositaire est J.P. Morgan SE, succursale de Luxembourg.Le compartiment vise à générer pour ses actionnaires le meilleur rende",
+   "politique_en": "SKAGEN Global Lux is a high conviction equity fund that seeks to generate long-term capital growth by investing in a portfolio of global companies believed to be undervalued. The fund is actively managed, and the portfolio managers typically look beyond stocks that may be optically cheap to create a portfolio whose core long-term holdings are typically undervalued 'structural winners' which are ex",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 814,
+  "isin": "LU1932684985",
+  "nom": "SKAGEN KON-TIKI LUX A EUR",
+  "maison": "FundRock Management Company S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932684985/LU1932684985__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932684985/LU1932684985__KID_FR_2026-02-28.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932684985/LU1932684985__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932684985/LU1932684985__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDROCK_MANAGEMENT_COMPANY_S_A/LU1932684985/LU1932684985__KID_FR_2026-02-28.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1932684985__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "phrases du KID ; la factsheet ne contient que « This product does not include any protection from future market performance so you could lose some or all of your investment » ; « ne convient pas aux clients qui ne peuvent supporter aucune perte en capital » absent"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID (initiateur PRIIP, dépositaire J.P. Morgan SE, 10 % en fonds, pas de dérivés, écart de suivi > 4 %, détention 5 ans) ; ces éléments ne figurent pas dans la factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-08-27",
+   "devise": "EUR",
+   "type_fonds": "Actions marchés émergents (approche value)",
+   "compartiment": "Storebrand SICAV (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Fredrik Bjelland, Espen Klette",
+   "encours": "114",
+   "frais_gestion": "2",
+   "frais_courants": "2.25",
+   "sri": "4",
+   "indice": "MSCI Emerging Markets Net Total Return",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Emerging Markets",
+   "sfdr": "8",
+   "disclaimer": "Ce produit ne prévoit pas de protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement. Il ne convient pas aux clients qui ne peuvent supporter aucune perte en capital.",
+   "politique_fr": "SKAGEN Kon-Tiki Lux est un compartiment de Storebrand SICAV, SICAV de droit luxembourgeois qualifiée d'OPCVM. L'initiateur du PRIIP et la société de gestion est FundRock Management Company S.A. ; la gestion d'investissement est assurée par Storebrand Asset Management AS. Le dépositaire est J.P. Morgan SE, succursale de Luxembourg.Le compartiment vise à générer pour ses actionnaires le meilleur ren",
+   "politique_en": "SKAGEN Kon-Tiki Lux is a value-based emerging markets equity fund that seeks to generate long-term capital growth by investing in a high conviction portfolio of companies which are listed in, or have significant exposure to, developing markets.\n\nThe fund is actively managed and applies a contrarian and price-driven investment process to create a portfolio that is typically biased towards small- an",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 815,
+  "isin": "LU0556665551",
+  "nom": "SMART VALUE INVESTORS EQUITY FLEXIBLE A EUR",
+  "maison": "Conventum Asset Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU0556665551/LU0556665551__KID_FR_2026-01-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU0556665551/LU0556665551__KID_FR_2026-01-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0556665551__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID (51 % minimum en actions, 25 % matières premières, détention 8 ans...) ; absent du rapport semestriel"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Actions internationales flexibles (minimum 51 % actions)",
+   "compartiment": "Smart Value Investors (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "170.28",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.5",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Equity Global",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "SMART VALUE INVESTORS Equity Flexible est un compartiment de la SICAV luxembourgeoise SMART VALUE INVESTORS, organisme de placement collectif en valeurs mobilières (OPCVM). L'initiateur et la société de gestion est BLI, Banque de Luxembourg Investments, opérant sous le nom commercial Conventum Third Party Solutions ; la gestion d'investissement est déléguée à SMART PRIVATE MANAGERS (Luxembourg) S.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 816,
+  "isin": "LU0407238897",
+  "nom": "SMART VALUE INVESTORS PATRIMOINE FLEXIBLE A EUR",
+  "maison": "Conventum Asset Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU0407238897/LU0407238897__KID_FR_2026-01-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU0407238897/LU0407238897__KID_FR_2026-01-30.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2009-07-01",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Mixed Fund, Flexible Allocation",
+   "compartiment": "Patrimoine Flexible",
+   "encours": "45230000",
+   "sri": "4",
+   "indice": "S&P500",
+   "categorie": "Mixed Asset Global Aggressive",
+   "politique_fr": "The fund seeks long-term capital appreciation through flexible allocation between equities (0-100%), bonds (0-100%), and alternative investments. Focus on European markets with value investing approach. May use derivatives for hedging and investment purposes.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 817,
+  "isin": "BE6291427076",
+  "nom": "SPM GLOBAL FLEXIBLE Y EUR",
+  "maison": "Montségur",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-12-29",
+   "devise": "EUR",
+   "type_fonds": "Allocation flexible internationale (0 à 100 % actions, via OPC indiciels)",
+   "compartiment": "SPM Funds (SICAV publique de droit belge)",
+   "frais_gestion": "1.5",
+   "frais_courants": "2.04",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Global Flexible est un compartiment de SPM Funds, société d'investissement à capital variable (SICAV) publique de droit belge, organisme de placement collectif autorisé en Belgique et régulé par la FSMA. L'initiateur du PRIIP est Montségur Finance, société de gestion autorisée en France et régulée par l'AMF. Le dépositaire est CACEIS Bank, Belgium Branch.Le produit est investi entre 0 % et 100 % e",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 818,
+  "isin": "FR0010283838",
+  "nom": "STRATEGIE EURO DIV RESPONSABLES P EUR",
+  "maison": "ROCHE-BRUNE ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/ROCHE_BRUNE_ASSET_MANAGEMENT/FR0010283838/FR0010283838__KID_FR_2025-02-14.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROCHE_BRUNE_ASSET_MANAGEMENT/FR0010283838/FR0010283838__KID_FR_2025-02-14.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Actions zone euro (sociétés à dividendes, ISR)",
+   "compartiment": "Fonds commun de placement (FCP) de droit français, OPCVM",
+   "frais_courants": "1.68",
+   "sri": "4",
+   "indice": "MSCI EMU (dividendes nets réinvestis)",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Income",
+   "sfdr": "8",
+   "disclaimer": "L'OPC n'est pas garanti en capital. L'investisseur doit accepter de supporter une perte totale du capital investi.",
+   "politique_fr": "Stratégie Euro Dividendes Responsable est un fonds commun de placement (FCP) de droit français constitué sous forme d'OPCVM, géré par APICIL Asset Management (groupe APICIL), société de gestion agréée par l'AMF. Le dépositaire est CACEIS Bank. Le produit est autorisé à la distribution en France et au Luxembourg. Classification AMF : actions des pays de la zone euro.L'objectif est d'obtenir, par un",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 819,
+  "isin": "FR0000016172",
+  "nom": "STRATEGIE RENDEMENT P EUR",
+  "maison": "APICIL ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/APICIL_ASSET_MANAGEMENT/FR0000016172/FR0000016172__KID_FR_2025-09-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/APICIL_ASSET_MANAGEMENT/FR0000016172/FR0000016172__KID_FR_2025-09-30.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-22."
+  }
+ },
+ {
+  "n": 820,
+  "isin": "FR0010237503",
+  "nom": "STRATEGIE SOUVERAINETE EUROPEENNE P EUR",
+  "maison": "APICIL ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/APICIL_ASSET_MANAGEMENT/FR0010237503/FR0010237503__KID_FR_2025-05-28.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/APICIL_ASSET_MANAGEMENT/FR0010237503/FR0010237503__KID_FR_2025-05-28.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "categorie": "Equity Europe",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 821,
+  "isin": "FR0010914358",
+  "nom": "SWISS LIFE FUNDS BOND ESG 6M P EUR",
+  "maison": "SWISS LIFE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__KID_FR_2026-05-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__KID_FR_2026-05-05.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010914358__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2010-06-30",
+   "devise": "EUR",
+   "encours": "2275.94",
+   "frais_gestion": "0.4",
+   "frais_courants": "0.42",
+   "indice": "70% €STR capitalisé + 30% Bloomberg EUR FRN Index Unhedged EUR",
+   "politique_fr": "Le fonds est un fonds obligataire court terme investissant dans des émissions notées Investment Grades d’une durée de vie résiduelle inférieure à 3 ans.\n\nLa maturité moyenne pondérée des titres en portefeuille (WAM) est inférieure à 6 mois et leur durée de vie moyenne pondérée (WAL) est de 18 mois maximum. L’horizon de placement recommandé du FCP est de 6 mois minimum.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 825,
+  "isin": "IE00BF2F6B09",
+  "nom": "TC NEW HORIZON GLOBAL BALANCED FUND C EUR",
+  "maison": "Treasury Capital Fund Solutions",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "categorie": "Mixed Asset Global Flexible",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 826,
+  "isin": "LU0316493583",
+  "nom": "TEMPLETON ASIAN GROWTH A EUR-H1",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0316493583/LU0316493583__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0316493583/LU0316493583__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0316493583/LU0316493583__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0316493583/LU0316493583__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0316493583/LU0316493583__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0316493583__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-09-03",
+   "devise": "EUR",
+   "type_fonds": "Actions Asie hors Japon",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Eric Mok, Sukumar Rajah, Yi Ping Liao, Ferdinand Cheuk",
+   "encours": "2460",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI AC Asia ex-Japan 10/40 Index-NR - Linked",
+   "classification": "Dynamique",
+   "categorie": "Equity Asia ex Japan Emerging Markets",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Asian Growth Fund est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) EUR-H1.Le fonds vise une croissance de l'investissement à long terme, par la croissance d",
+   "politique_en": "To seek long-term investment growth, through growth of capital. The Fund mainly invests in equities of companies of any market capitalisation that are located or listed in, or derive significant business from, Asia (excluding Australia, New Zealand and Japan).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 827,
+  "isin": "LU0128522157",
+  "nom": "TEMPLETON ASIAN GROWTH A USD",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0128522157__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-05-14",
+   "devise": "USD",
+   "type_fonds": "Actions Asie hors Japon",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Eric Mok, Sukumar Rajah, Yi Ping Liao, Ferdinand Cheuk",
+   "encours": "2460",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI AC Asia ex-Japan 10/40 Index-NR - Linked",
+   "classification": "Dynamique",
+   "categorie": "Equity Asia Pacific ex Japan",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Asian Growth Fund est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) USD.Le fonds vise une croissance de l'investissement à long terme, par la croissance du c",
+   "politique_en": "To seek long-term investment growth, through growth of capital. The Fund mainly invests in equities of companies of any market capitalisation that are located or listed in, or derive significant business from, Asia (excluding Australia, New Zealand and Japan).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 828,
+  "isin": "LU0390135332",
+  "nom": "TEMPLETON ASIAN SMALLER COMPANIES A USD",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0390135332__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-10-14",
+   "devise": "USD",
+   "type_fonds": "Actions Asie hors Japon petites capitalisations",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Vikas Chiranewal, Chetan Sehgal",
+   "encours": "750.65",
+   "frais_courants": "2.15",
+   "sri": "4",
+   "indice": "MSCI AC Asia ex-Japan Small Cap Index-NR",
+   "classification": "Dynamique",
+   "categorie": "Equity Asia Pacific ex Japan Sm&Mid Cap",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Asian Smaller Companies Fund est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) USD.Le fonds vise une croissance de l'investissement à long terme, par la croi",
+   "politique_en": "To seek long-term investment growth, through growth of capital. The Fund mainly invests in equities of companies of small market capitalisation that are located in, or derive significant business from, Asia (excluding Japan).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 829,
+  "isin": "LU0390136736",
+  "nom": "TEMPLETON FRONTIER MARKETS A USD",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0390136736__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "345,58 M USD",
+    "note": "p.1 « Total Net Assets (USD) $345.58 Million » au 30/09/2026"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-10-14",
+   "devise": "USD",
+   "type_fonds": "Actions marchés frontières",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Bassel Khatoun, Ahmed Awny",
+   "encours": "351.66",
+   "frais_courants": "2.58",
+   "sri": "3",
+   "indice": "MSCI Frontier Emerging Markets Select Countries Capped Index-NR",
+   "classification": "Equilibré",
+   "categorie": "Equity Frontier Markets",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Frontier Markets Fund est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) USD.Le fonds vise une croissance de l'investissement à long terme, par la croissance ",
+   "politique_en": "To seek long-term investment growth, through growth of capital. The Fund mainly invests in equities of companies of any market capitalisation that are located in, or derive significant business from, frontier markets (emerging markets that are less developed and less accessible).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 830,
+  "isin": "LU0128525929",
+  "nom": "TEMPLETON GLOBAL A USD",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__KID_FR_2026-06-08.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__KID_FR_2026-06-08.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0128525929__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-05-14",
+   "devise": "USD",
+   "type_fonds": "Actions internationales",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "James A Bristow, Peter Sartori, Warren Pustam, Christopher Peel",
+   "encours": "563.36",
+   "frais_courants": "1.83",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Global Focus Fund (anciennement Templeton Global Fund, renommé le 8 juin 2026) est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) USD.Le fonds vise une croiss",
+   "politique_en": "To seek long-term investment growth, through growth of capital. The Fund mainly invests in equities of companies of any market capitalisation anywhere in the world, including emerging markets.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 831,
+  "isin": "LU0128520375",
+  "nom": "TEMPLETON GLOBAL CLIMATE CHANGE A EUR",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0128520375__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (méthodologie ESG, exclusions, couverture, période de détention 5 ans...) ; la factsheet ne contient que l'Investment Overview d'une phrase et les mentions SFDR/benchmark"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-05-14",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (climat)",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Craig Cameron, Tina Sadler",
+   "encours": "1320",
+   "frais_courants": "1.82",
+   "sri": "4",
+   "indice": "MSCI All Country World Index-NR, MSCI ACWI Investable Market Index-NR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "9",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Global Climate Change Fund est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) EUR.Le fonds vise une croissance de l'investissement à long terme, principalemen",
+   "politique_en": "To seek long-term investment growth, mainly through growth of capital, while contributing to climate change mitigation and adaptation. The Fund aims to contribute to the Paris Climate Agreement's long-term global warming target of 1.5 degrees primarily through investments in solutions to reduce greenhouse gas (GHG) emissions, and secondarily through investments in companies aligning their business",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 834,
+  "isin": "LU0294221097",
+  "nom": "TEMPLETON GLOBAL TTL RET A EUR H1",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0294221097__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID (politique, public visé, période de détention 3 ans) ; KID non fourni et ces phrases ne figurent pas dans la factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-04-10",
+   "devise": "EUR",
+   "type_fonds": "Obligations internationales flexibles (rendement total)",
+   "compartiment": "Franklin Templeton Investment Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Michael Hasenstab, Calvin Ho",
+   "encours": "1610",
+   "frais_courants": "1.37",
+   "sri": "3",
+   "indice": "Bloomberg Multiverse Index",
+   "classification": "Equilibré",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "3.89",
+   "qualite": "BBB+",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des actions et le revenu qui en découle peuvent baisser comme monter, et l'investisseur peut ne pas récupérer le montant investi.",
+   "politique_fr": "Templeton Global Total Return Fund est un compartiment de Franklin Templeton Investment Funds, société d'investissement à capital variable (SICAV) de droit luxembourgeois qualifiée d'OPCVM. La société de gestion est Franklin Templeton International Services S.à r.l. (FTIS). La présente fiche concerne la part A (acc) EUR-H1.Le fonds cherche à maximiser le revenu et la croissance du capital (rendeme",
+   "politique_en": "To seek to maximise income and growth of capital (total return). The Fund mainly invests in corporate and government bonds denominated in any currency and in currencies themselves. These investments may be from anywhere in the world, including China (through the Bond Connect or directly) and other emerging markets, and some of them may be below investment grade.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 835,
+  "isin": "LU0757431068",
+  "nom": "THREADNEEDLE (CT) GLOBAL FOCUS CLASS AU EUR",
+  "maison": "Threadneedle Management Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0757431068/LU0757431068__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0757431068/LU0757431068__KID_FR_2026-02-23.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0757431068/LU0757431068__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0757431068/LU0757431068__KID_FR_2026-02-23.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0757431068__site.pdf",
+  "probleme_document": "factsheet de la catégorie AE (le classeur vise AU)",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2005-12-06",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (portefeuille concentré)",
+   "compartiment": "Columbia Threadneedle (Lux) I (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "David Dudding, Alex Lee",
+   "encours": "4206.7",
+   "frais_courants": "1.7",
+   "sri": "4",
+   "indice": "MSCI ACWI",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs. La valeur des investissements peut baisser ou augmenter et les investisseurs peuvent ne pas récupérer la totalité du capital initialement investi.",
+   "politique_fr": "Le Fonds vise à accroître la valeur de votre investissement à long terme. Le Fonds investit au moins deux tiers de ses actifs dans des actions de sociétés du monde entier. Le Fonds peut investir dans des marchés émergents et développés.\n\nL’approche d’investissement « ciblée » du Fonds implique qu’il détiendra normalement un nombre limité d’investissements en comparaison avec d’autres fonds. Le Fon",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 836,
+  "isin": "LU0640488994",
+  "nom": "THREADNEEDLE (CT) GLOBAL MULTI ASSET INC AEH EUR",
+  "maison": "Threadneedle Management Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__KID_FR_2026-04-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__Factsheet_IT_2026-08-31.pdf",
+   "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__KID_FR_2026-04-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0640488994__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "phrases du KID (capital non garanti, perte jusqu'à 100 %, pas de protection) absentes de la factsheet italienne"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-09-18",
+   "devise": "EUR",
+   "type_fonds": "Mixte international orienté revenu (40 à 60 % actions)",
+   "compartiment": "Columbia Threadneedle (Lux) I (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Ben Rodriguez",
+   "encours": "92.3",
+   "frais_courants": "1.57",
+   "sri": "3",
+   "indice": "MSCI ACWI NR (50 %), ICE BofA European Currency High Yield Excluding Subordinated Financials Constrained Index (USD Hedged) (30 %), Bloomberg Global Aggregate Index (USD Hedged) (20 %)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "Votre capital n'est pas garanti : les investisseurs sont susceptibles de perdre jusqu'à 100 % du montant investi. Ce produit ne prévoit pas de protection contre les performances futures du marché.",
+   "politique_fr": "CT (Lux) Global Multi Asset Income est un compartiment de Columbia Threadneedle (Lux) I, SICAV de droit luxembourgeois qualifiée d'OPCVM, dont l'initiateur et la société de gestion est Threadneedle Management Luxembourg S.A. (groupe Columbia Threadneedle Investments). La devise du fonds est l'USD ; la catégorie AEH Accumulation EUR Hedged est libellée en EUR et couverte contre le risque de change.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 840,
+  "isin": "LU2638914734",
+  "nom": "TOBAM GLOBAL BLOCKCHAIN EQUITY FUND B2 EUR",
+  "maison": "TOBAM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/TOBAM/LU2638914734/LU2638914734__KID_FR_2025-06-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/TOBAM/LU2638914734/LU2638914734__KID_FR_2025-06-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2638914734__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 « STRUCTURE LEGALE : SICAV luxembourgeoise UCITS », fonds « TOBAM MDP Global Blockchain Equity Fund » ; le nom « Most Diversified Portfolio SICAV » n'est pas écrit en toutes lettres"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1,90 %",
+    "note": "p.1 « FRAIS EFFECTIFS 1,90% » (factsheet 28/11/2025)"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-09-21",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (Bitcoin et blockchain)",
+   "compartiment": "Most Diversified Portfolio SICAV (SICAV de droit luxembourgeois)",
+   "encours": "13.04",
+   "frais_courants": "1.95",
+   "sri": "6",
+   "indice": "Bloomberg Developed Markets Large & Mid Cap Net Return",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de votre investissement et de ses revenus varie et le capital initial investi n'est pas garanti.",
+   "politique_fr": "L'objectif d'investissement du Produit est de chercher à obtenir un rendement en investissant dans des sociétés internationales en lien avec le Bitcoin et la blockchain. Le Produit n'investit ni directement ni indirectement (en utilisant des instruments financiers dérivés ou des fonds avec un investissement sous-jacent dans des cryptoactifs) dans le Bitcoin et la blockchain. Les variations de la v",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 841,
+  "isin": "FR0013230059",
+  "nom": "TOCQUEVILLE VALUE EURO ISR R EUR",
+  "maison": "LBPAM Funds",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230059/FR0013230059__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230059/FR0013230059__KID_FR_2026-04-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LBPAM_FUNDS/FR0013230059/FR0013230059__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LBPAM_FUNDS/FR0013230059/FR0013230059__KID_FR_2026-04-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013230059__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 « Compartiment », « Caractéristiques de la SICAV », société de gestion LBP AM ; le nom « LFDE Funds » n'apparaît pas (seul le logo LFDE)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1 989,51 M€ (actif net global)",
+    "note": "p.1 au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seule la 1re phrase figure (« Les performances passées ne présagent pas des performances futures ») ; la phrase « Ce produit ne prévoit pas de protection ... perdre tout ou partie » est absente"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-02-16",
+   "devise": "EUR",
+   "type_fonds": "Actions zone euro style value (ISR)",
+   "compartiment": "LFDE Funds (SICAV de droit français)",
+   "gerants": "Yann Giordmaina, Pierre Coiffet",
+   "encours": "2015.08",
+   "frais_courants": "1.45",
+   "sri": "4",
+   "indice": "MSCI EMU NR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne présagent pas des performances futures. Ce produit ne prévoit pas de protection contre les aléas du marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif de gestion du Compartiment est double : - chercher à obtenir, sur un horizon d’investissement minimum de 5 ans, une performance nette de frais de gestion supérieure au marché actions de la zone euro en investissant dans les actions de sociétés offrant un profil dit « Value » : et - mettre en œuvre une stratégie d’investissement socialement responsable (ISR).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 842,
+  "isin": "LU2434354473",
+  "nom": "TRIODOS FUTURE GENERATIONS FUND R EUR",
+  "maison": "Triodos Investment Management B.V.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__KID_FR_2026-04-11.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__KID_FR_2026-04-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2434354473__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "128,77 M EUR",
+    "note": "p.3 « Net asset value EUR 128,766,014 » fin septembre 2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID/prospectus (redemption gate, swing pricing, période de détention, filiale à 100 % de Triodos Bank) ; la factsheet ne contient que la courte description du fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-04-04",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques à impact (bien-être des enfants)",
+   "compartiment": "Triodos SICAV I (SICAV de droit luxembourgeois)",
+   "gerants": "Sjoerd Rozing",
+   "encours": "129.78",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.85",
+   "sri": "3",
+   "indice": "Bloomberg Developed markets Mid & Small Cap",
+   "classification": "Equilibré",
+   "categorie": "Majoritairement actions",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas une indication fiable des performances futures. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Triodos Future Generations Fund est un compartiment de type ouvert de Triodos SICAV I, société d'investissement à capital variable de droit luxembourgeois (OPCVM), géré par Triodos Investment Management B.V., filiale à 100 % de Triodos Bank N.V. La fiche porte sur la classe R-cap, part de capitalisation qui réinvestit les revenus nets réalisés.Le fonds vise à accroître la valeur de l'investissemen",
+   "politique_en": "Triodos Future Generations Fund invests in shares of listed companies that support an ecosystem of equal opportunity, health and well-being, education and safety for children.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 843,
+  "isin": "LU0504302356",
+  "nom": "TRIODOS IMPACT MIXED NEUTRAL EUR R",
+  "maison": "Triodos Investment Management B.V.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__KID_FR_2026-04-08.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__KID_FR_2026-04-08.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0504302356__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "507,46 M EUR",
+    "note": "p.3 « Net asset value EUR 507,464,240 » fin septembre 2026"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID/prospectus (redemption gate, swing pricing, période de détention, filiale à 100 % de Triodos Bank) ; la factsheet ne contient que la courte description du fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-10-06",
+   "devise": "EUR",
+   "type_fonds": "Mixte équilibré à impact (actions pays développés et obligations EUR investment grade)",
+   "compartiment": "Triodos SICAV I (SICAV de droit luxembourgeois)",
+   "gerants": "Rob van Boeijen, Arjan Palthe, Jeroen van Herwaarden",
+   "encours": "516.79",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.5",
+   "sri": "3",
+   "indice": "50% Bloomberg Developed Markets Index, 30% iBoxx Euro Corporates Overall Total Return, 20% iBoxx Euro Eurozone Sovereign 110 Total Return",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas une indication fiable des performances futures. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Triodos Impact Mixed Fund - Neutral est un compartiment de type ouvert de Triodos SICAV I, société d'investissement à capital variable de droit luxembourgeois (OPCVM), géré par Triodos Investment Management B.V., filiale à 100 % de Triodos Bank N.V. La fiche porte sur la classe R-cap, part de capitalisation qui réinvestit les revenus nets réalisés.Le fonds vise à accroître la valeur de l'investiss",
+   "politique_en": "Triodos Impact Mixed Fund - Neutral aims to generate positive impact and competitive returns from a concentrated portfolio of global equity positions and investment-grade corporate, sovereign and sub-sovereign bonds.\n\nThe fund invests in a balanced mix of bonds (including impact and other corporate bonds and government bonds) and equities of companies in developed countries. These companies and th",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 844,
+  "isin": "LU0278272843",
+  "nom": "TRIODOS PIONEER IMPACT FONDS R EUR",
+  "maison": "Triodos Investment Management B.V.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0278272843/LU0278272843__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0278272843/LU0278272843__KID_FR_2026-04-08.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0278272843/LU0278272843__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0278272843/LU0278272843__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0278272843/LU0278272843__KID_FR_2026-04-08.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0278272843__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID/prospectus (redemption gate, swing pricing, période de détention, filiale à 100 % de Triodos Bank) ; la factsheet ne contient que la courte description du fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-03-09",
+   "devise": "EUR",
+   "type_fonds": "Actions pays développés thématiques à impact (transitions durables)",
+   "compartiment": "Triodos SICAV I (SICAV de droit luxembourgeois)",
+   "gerants": "Dimitri Willems, Fabian Meijs",
+   "encours": "695.34",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.85",
+   "sri": "4",
+   "indice": "Bloomberg Developed markets Mid & Small Cap",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas une indication fiable des performances futures. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Triodos Pioneer Impact Fund est un compartiment de type ouvert de Triodos SICAV I, société d'investissement à capital variable de droit luxembourgeois (OPCVM), géré par Triodos Investment Management B.V., filiale à 100 % de Triodos Bank N.V. La fiche porte sur la classe R-cap, part de capitalisation qui réinvestit les revenus nets réalisés.Le fonds vise à accroître la valeur de l'investissement à ",
+   "politique_en": "Triodos Pioneer Impact Fund aims to generate positive impact and competitive financial returns from a concentrated portfolio of small- and mid-cap companies pioneering the transition to a sustainable society.\n\nWe select companies for their contribution to our seven sustainable transition themes. In an integrated financial and sustainability analysis we identify the impact of material ESG issues on",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 845,
+  "isin": "FR0007072160",
+  "nom": "TRUSTEAM OPTIMUM A EUR",
+  "maison": "TrusTeam Finance",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/TRUSTEAM_FINANCE/FR0007072160/FR0007072160__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/TRUSTEAM_FINANCE/FR0007072160/FR0007072160__KID_FR_2025-12-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/TRUSTEAM_FINANCE/FR0007072160/FR0007072160__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/TRUSTEAM_FINANCE/FR0007072160/FR0007072160__KID_FR_2025-12-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0007072160__site.pdf",
+  "probleme_document": "factsheet de la part R (le classeur vise la part A)",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "la factsheet ne donne que « Frais de gestion financière 1,20% » ; aucun frais courants"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2002-05-31",
+   "devise": "EUR",
+   "type_fonds": "Allocation flexible prudente à dominante obligataire euro",
+   "compartiment": "Trusteam Optimum (FCP de droit français)",
+   "gerants": "Marie-Laurence Biswang, Matthieu Bernard",
+   "encours": "117.66",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.4",
+   "sri": "2",
+   "indice": "Euro MTS 1-3 ans",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Europe Conservative",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. L'OPCVM n'offre aucune garantie de rendement ou de performance et le capital n'est pas garanti.",
+   "politique_fr": "L'objectif de gestion est d'investir parmi les sociétés les plus orientées Client au sein de l'univers d'investissement, afin d'obtenir sur une période supérieure à un an, une performance nette de frais, supérieure à celle de son indicateur de référence, l'Euro MTS 1-3 ans, avec une volatilité 5 ans cible de 3%, L'engagement de prise en compte des critères extra financier est en \"sélectivité\" par ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 847,
+  "isin": "IE00BDH6RQ67",
+  "nom": "UTI INDIA DYNAMIC EQUITY FUND EUR",
+  "maison": "UTI International Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/UTI_INTERNATIONAL_LIMITED/IE00BDH6RQ67/IE00BDH6RQ67__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/UTI_INTERNATIONAL_LIMITED/IE00BDH6RQ67/IE00BDH6RQ67__KID_FR_2026-03-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/UTI_INTERNATIONAL_LIMITED/IE00BDH6RQ67/IE00BDH6RQ67__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/UTI_INTERNATIONAL_LIMITED/IE00BDH6RQ67/IE00BDH6RQ67__KID_FR_2026-03-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BDH6RQ67__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-08-29",
+   "devise": "EUR",
+   "frais_gestion": "1.7",
+   "indice": "MSCI India NR USD",
+   "categorie": "Equity India",
+   "politique_en": "The investment objective of the Fund is to achieve medium to long-term growth of the portfolio of assets through investment primarily in growth oriented Indian stocks which are listed on the Bombay Stock Exchange and the National Stock Exchange in India.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 848,
+  "isin": "LU2358389745",
+  "nom": "VARENNE UCITS GLOBAL A EUR",
+  "maison": "Varenne Capital Partners",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358389745/LU2358389745__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358389745/LU2358389745__KID_FR_2026-02-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358389745/LU2358389745__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358389745/LU2358389745__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358389745/LU2358389745__KID_FR_2026-02-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2358389745__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2014-01-31",
+   "devise": "EUR",
+   "type_fonds": "Flexible international à dominante actions (long/short, arbitrage de fusions, couverture)",
+   "compartiment": "Varenne UCITS (SICAV de droit luxembourgeois)",
+   "encours": "498.51",
+   "frais_gestion": "1.95",
+   "frais_courants": "1.98",
+   "sri": "4",
+   "indice": "EURO STR (€STR) capitalisé (moyenne sur 12 mois glissants) + 300 points de base",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "VARENNE GLOBAL a pour objectif de rechercher sur la durée de placement recommandée, une performance annualisée supérieure à l'EURO STR (€STR) capitalisé (moyenne sur 12 mois glissants) + 300 points de base, au moyen d’une gestion discrétionnaire. Le Compartiment est géré activement et fait référence à l'EURO STR (€STR) capitalisé (moyenne sur 12 mois glissants) + 300 points de base à des fins de c",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 849,
+  "isin": "LU2358392376",
+  "nom": "VARENNE UCITS VALEUR A-EUR",
+  "maison": "Varenne Capital Partners",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__KID_FR_2026-02-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__KID_FR_2026-02-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2358392376__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2003-01-31",
+   "devise": "EUR",
+   "type_fonds": "Flexible à dominante actions (long/short, arbitrage de fusions, couverture)",
+   "compartiment": "Varenne UCITS (SICAV de droit luxembourgeois)",
+   "encours": "1455.44",
+   "frais_gestion": "1.794",
+   "frais_courants": "1.89",
+   "sri": "3",
+   "indice": "Euro Short Term Rate (€STR) capitalisé (moyenne sur 12 mois glissants)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "VARENNE VALEUR a pour objectif de rechercher une performance annualisée supérieure à l'Euro Short Term Rate (€STR) capitalisé (moyenne sur 12 mois glissants) sur la période d'investissement recommandée, en s'appuyant sur une gestion discrétionnaire. Le Compartiment est géré activement et se réfère à l'Euro Short Term Rate (€STR) capitalisé en (moyenne sur 12 mois glissants) à des fins de comparais",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 850,
+  "isin": "LU0558384706",
+  "nom": "VECTOR FLEXIBLE C3 EUR",
+  "maison": "Vector Asset Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/VECTOR_ASSET_MANAGEMENT_S_A/LU0558384706/LU0558384706__KID_EN_2026-02-12.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/VECTOR_ASSET_MANAGEMENT_S_A/LU0558384706/LU0558384706__KID_EN_2026-02-12.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0558384706__site.pdf",
+  "probleme_document": "factsheet des parts C1, P, I1 (pas C3)",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "60% MSCI ACWI + 40% Eonia",
+    "note": "p.2 « Performance Benchmark: 60% MSCI ACWI + 40% Eonia » ; ni €STR ni ESTCINDX/MDWD dans la factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "le cœur (approche Flexible/Navigator, 2 700 sociétés, bêta 0,5-0,7, exposition jusqu'à 0 %) est traduit de la factsheet, mais une partie vient du KID (durée indéterminée, seuil de commission de performance, indice 60/40 avec taux court terme euro) ; KID non fourni"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Allocation flexible actions internationales",
+   "compartiment": "Vector, compartiment Flexible (OPCVM de droit luxembourgeois)",
+   "gerants": "Werner Smets, Thierry Vandeghinste",
+   "encours": "25.62",
+   "frais_courants": "2.15",
+   "sri": "3",
+   "indice": "60% MSCI World All Countries en Euro (MDWD) + 40% taux à court terme en Euro (ESTCINDX)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. La valeur d'un investissement peut baisser comme monter et vous pourriez ne pas récupérer le montant investi.",
+   "politique_fr": "Vector Flexible est un compartiment d'un OPCVM constitué au Luxembourg, géré par Vector Asset Management, société agréée au Luxembourg et réglementée par la CSSF. Le compartiment a une durée indéterminée. Le document porte sur la part C3.L'objectif de la politique d'investissement est de réaliser une croissance de la valeur aussi élevée que possible en investissant dans des actions mondiales, le f",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 851,
+  "isin": "LU0366797354",
+  "nom": "VECTOR NAVIGATOR C3 EUR",
+  "maison": "Vector Asset Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/VECTOR_ASSET_MANAGEMENT_S_A/LU0366797354/LU0366797354__KID_EN_2026-02-12.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/VECTOR_ASSET_MANAGEMENT_S_A/LU0366797354/LU0366797354__KID_EN_2026-02-12.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0366797354__site.pdf",
+  "probleme_document": "factsheet des parts C1, P, I1 (pas C3)",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "description traduite de la factsheet, complétée d'éléments du KID (durée indéterminée, seuil de commission de performance, détention 7 ans présente seulement comme « investment horizon of at least seven years ») ; KID non fourni"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "compartiment": "Vector, compartiment Navigator (OPCVM de droit luxembourgeois)",
+   "gerants": "Werner Smets, Thierry Vandeghinste",
+   "encours": "158.19",
+   "frais_courants": "1.91",
+   "sri": "4",
+   "indice": "MSCI World All Countries en Euro (MDWD)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. La valeur d'un investissement peut baisser comme monter et vous pourriez ne pas récupérer le montant investi.",
+   "politique_fr": "Vector Navigator est un compartiment d'un OPCVM constitué au Luxembourg, géré par Vector Asset Management, société agréée au Luxembourg et réglementée par la CSSF. Le compartiment a une durée indéterminée. Le document porte sur la part C3.L'objectif de la politique d'investissement est de réaliser une croissance de la valeur aussi élevée que possible en investissant dans des actions mondiales, le ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 852,
+  "isin": "LU1496475119",
+  "nom": "WATERLOO GLOBAL FLEXIBLE R EUR",
+  "maison": "Altum Management Company (Luxembourg) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/ALTUM_MANAGEMENT_COMPANY_LUXEMBOURG_S_A/LU1496475119/LU1496475119__KID_EN_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALTUM_MANAGEMENT_COMPANY_LUXEMBOURG_S_A/LU1496475119/LU1496475119__KID_EN_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-22."
+  }
+ }
+]

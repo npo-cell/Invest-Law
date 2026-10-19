@@ -1,0 +1,2683 @@
+[
+ {
+  "n": 726,
+  "isin": "LU0552385295",
+  "nom": "MORGAN STANLEY GLOBAL OPPORTUNITY A USD",
+  "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__KID_FR_2026-07-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__KID_FR_2026-07-21.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0552385295__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "1re phrase présente (« Les performances passées ne sont pas un indicateur fiable des résultats futurs. ») ; la 2e (pas de protection contre les aléas de marché) absente"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-11-30",
+   "devise": "USD",
+   "type_fonds": "Actions internationales grandes capitalisations croissance",
+   "compartiment": "Morgan Stanley Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Kristian Heugh",
+   "encours": "12200",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.83",
+   "sri": "5",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Croissance à long terme de votre investissement.\n\nLe portefeuille vise l'appréciation du capital sur le long terme en investissant à l'échelle mondiale dans des sociétés établies et émergentes de qualité supérieure que l'équipe d'investissement juge sous-valorisées au moment de leur achat. Pour atteindre son objectif, l'équipe d'investissement privilégie généralement les entreprises qu'elle estime",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 727,
+  "isin": "LU0225737302",
+  "nom": "MORGAN STANLEY US ADVANTAGE A USD",
+  "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__KID_FR_2026-07-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__KID_FR_2026-07-21.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0225737302__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "1re phrase présente ; la 2e (pas de protection contre les aléas de marché) absente"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-12-01",
+   "devise": "USD",
+   "type_fonds": "Actions Etats-Unis grandes capitalisations croissance",
+   "compartiment": "Morgan Stanley Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Dennis Lynch, Sam Chainani, Jason Yeung, Armistead Nash, Alexander Norton (Counterpoint Global)",
+   "encours": "3000",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.63",
+   "sri": "6",
+   "indice": "S&P500",
+   "classification": "Agressif",
+   "categorie": "Equity US",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs. Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Croissance à long terme de votre investissement.\n\nNous recherchons des entreprises de grandes capitalisations, bien établies aux États-Unis, que nous pensons dotées d'une excellente réputation et présentant des avantages concurrentiels durables avec une visibilité économique supérieure à la moyenne, la capacité à déployer le capital pour générer un fort retour sur investissement, des bilans financ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 728,
+  "isin": "LU0119620416",
+  "nom": "MS INVF GLOBAL BRANDS A USD",
+  "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__KID_FR_2026-07-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__KID_FR_2026-07-21.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0119620416__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte (en anglais) absent : la factsheet dit « Long-term growth of your investment » et « high quality companies built on dominant market positions and underpinned by powerful intangible assets… »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-10-30",
+   "devise": "USD",
+   "type_fonds": "UCITS, Equity Fund, Global Fund",
+   "compartiment": "MS INVF Global Brands A USD",
+   "gerants": "William Lock, Bruno Paulson, Alex Gabriele, Richard Perrott, Isabelle Mast, Anton Kryachok, Marte Borhaug",
+   "encours": "10300",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.83",
+   "sri": "6",
+   "indice": "MSCI World NR USD",
+   "categorie": "Equity Global",
+   "politique_fr": "The Fund seeks long-term capital appreciation by investing primarily in equity securities of companies worldwide that own leading consumer brands or benefit significantly from such brands. The Fund focuses on companies with strong brand franchises, pricing power, and sustainable competitive advantages.",
+   "politique_en": "Long-term growth of your investment.\n\nThe investment team believes that high quality companies built on dominant market positions and underpinned by powerful intangible assets can generate attractive returns over the long term. ESG analysis and active, portfolio manager-led engagement are fundamental to the investment process.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 729,
+  "isin": "LU1951204046",
+  "nom": "NATIXIS THEMATICS META FUND RA EUR",
+  "maison": "Natixis Investment Managers S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951204046/LU1951204046__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951204046/LU1951204046__KID_FR_2026-04-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951204046/LU1951204046__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951204046/LU1951204046__KID_FR_2026-04-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1951204046__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "605.5 (USD m)",
+    "note": "« Actif net USDm 605,5 » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-02-28",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (ISR)",
+   "compartiment": "Natixis International Funds (Lux) I (SICAV luxembourgeoise)",
+   "gerants": "Paul Bethell, Walid Azar Atallah (Mirova)",
+   "encours": "630.8",
+   "frais_courants": "2.05",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une garantie des résultats futurs. La valeur du capital et les rendements évoluent au fil du temps : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Une combinaison de toutes les stratégies de l'expertise Thematics en un fonds unique.\n\nUn investissement en direct dans les actions des sociétés, et non au travers d'une structure de fonds de fonds.\n\nUn portefeuille sans contraintes, avec une part active (active share) élevée par rapport aux principaux indices actions globaux.\n\nIdentifie les sociétés ayant un profil rendement/risque jugé attractif",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 730,
+  "isin": "LU2169560799",
+  "nom": "NATIXIS WCM SELECT GLOBAL GROWTH EQUITY R/A USD",
+  "maison": "Natixis Investment Managers International",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_INTERNATIONAL/LU2169560799/LU2169560799__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_INTERNATIONAL/LU2169560799/LU2169560799__KID_FR_2026-01-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_INTERNATIONAL/LU2169560799/LU2169560799__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_INTERNATIONAL/LU2169560799/LU2169560799__KID_FR_2026-01-05.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2169560799__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1327.3 (USD m)",
+    "note": "« Actif net USDm 1 327,3 » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2021-04-26",
+   "devise": "USD",
+   "type_fonds": "Actions internationales croissance",
+   "compartiment": "Natixis International Funds (Lux) I (SICAV luxembourgeoise)",
+   "gerants": "Michael Hayward, Sanjay Ayer (WCM Investment Management)",
+   "encours": "1349.3",
+   "frais_courants": "1.95",
+   "sri": "5",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une garantie des résultats futurs. La valeur du capital et les rendements évoluent au fil du temps : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Investit principalement dans des titres de participation d'entreprises aux quatre coins du monde, y compris sur les marchés développés et émergents.\n\nGestion active par des spécialistes des actions dans le cadre d'une approche à long terme de la détention de titres caractérisée par une faible rotation.\n\nSélection d'un nombre restreint de titres au sein de l'univers initial.\n\nIdentifie les entrepri",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 731,
+  "isin": "LU0445386369",
+  "nom": "NORDEA 1 - ALPHA 10 MA BP EUR",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__KID_FR_2026-05-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__KID_FR_2026-05-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0445386369__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2009-09-30",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (performance absolue)",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Multi Assets Team",
+   "encours": "2114.82",
+   "frais_gestion": "1.7",
+   "frais_courants": "2",
+   "sri": "4",
+   "indice": "EURIBOR 1M",
+   "classification": "Dynamique",
+   "categorie": "Alternative Global Multi Strategies",
+   "sfdr": "6",
+   "duration": "4.66",
+   "qualite": "AA+",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Le fonds vise à générer un rendement annualisé de +5% à 7% (brut de frais) supérieur au taux sans risque sur un cycle d'investissement complet, avec une volatilité annualisée comprise entre 7% et 10%. Le fonds a recours à de nombreuses stratégies d'investissement à faible corrélation afin d'offrir une exposition dynamique à diverses classes d'actifs, au sein d'un univers composé d'un sous-ensemble",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 732,
+  "isin": "LU0602539602",
+  "nom": "NORDEA 1 - EMERGING STARS EQUITY FUND BP USD",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0602539602/LU0602539602__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0602539602/LU0602539602__KID_FR_2026-07-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0602539602/LU0602539602__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0602539602/LU0602539602__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0602539602/LU0602539602__KID_FR_2026-07-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0602539602__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2011-04-15",
+   "devise": "USD",
+   "type_fonds": "Actions marchés émergents (ESG)",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Fundamental Equities Team",
+   "encours": "1704.97",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.82",
+   "sri": "5",
+   "indice": "MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Agressif",
+   "categorie": "Equity Global Emerging Markets",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Le fonds a pour objectif de générer une croissance du capital à long terme en investissant principalement dans un portefeuille diversifié d'actions de sociétés ayant leur siège social ou le centre de leur activité économique dans les pays émergents. La gestion du fonds est assurée par l'équipe « Fundamental Equities» basée à Copenhague (Danemark) et s'appuie sur une approche fondamentale de type «",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 733,
+  "isin": "LU0348926287",
+  "nom": "NORDEA 1 - GLOBAL CLIMATE & ENVIRONMENT BP EUR",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__KID_FR_2026-05-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__KID_FR_2026-05-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0348926287__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2008-03-13",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (climat et environnement)",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Fundamental Equities Team",
+   "encours": "7859.79",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.8",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "9",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Dans le cadre de la gestion active du portefeuille du fonds, l'équipe de gestion cible les sociétés qui développent des solutions respectueuses du climat et de l'environnement, notamment les énergies renouvelables et la bonne utilisation des ressources par le biais de leurs produits et services, et qui semblent offrir des perspectives de croissance et des caractéristiques d'investissement supérieu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 734,
+  "isin": "LU2463526074",
+  "nom": "NORDEA 1 - GLOBAL CLIMATE ENGAGEMENT FUND BP USD",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU2463526074/LU2463526074__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU2463526074/LU2463526074__KID_FR_2026-05-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU2463526074/LU2463526074__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU2463526074/LU2463526074__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU2463526074/LU2463526074__KID_FR_2026-05-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2463526074__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2022-04-26",
+   "devise": "USD",
+   "type_fonds": "Actions internationales thématiques (transition climatique)",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Fundamental Equities Team",
+   "encours": "779.18",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.05",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Dans le cadre de la gestion active du portefeuille du fonds, l'équipe de gestion cible les sociétés qui ont l'intention d'aligner leurs modèles commerciaux sur les objectifs de l'accord de Paris et qui semblent offrir des perspectives de croissance et des caractéristiques d'investissement supérieures.\n\nGéré activement. Indice de référence aux fins de comparaison des performances uniquement. Les ca",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 735,
+  "isin": "LU0078812822",
+  "nom": "NORDEA 1 - NORWEGIAN SHRT-TERM BD BP NOK",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__KID_FR_2026-05-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__KID_FR_2026-05-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0078812822__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1997-07-11",
+   "devise": "NOK",
+   "type_fonds": "Obligations court terme NOK",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Norwegian Fixed Income Team",
+   "encours": "1991.8",
+   "frais_gestion": "0.13",
+   "frais_courants": "0.38",
+   "sri": "1",
+   "indice": "50% Norwegian Regular Market, sector 1, 2 and 3, Floating Rate Securities et 50% NIBOR 3M",
+   "classification": "Défensif",
+   "categorie": "Bond Nordic Short Term",
+   "sfdr": "8",
+   "duration": "0.13",
+   "qualite": "BBB+",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Le fonds est investi pour au moins deux tiers de leurs actifs nets respectifs en titres de créance à revenu fixe ou à taux variable, émis par des emprunteurs privés ou des autorités publiques, et libellés en NOK. Le fonds est composé d'obligations à court terme et de titres de créance négociables à court terme et admis à la bourse d'Oslo ou négociés sur un autre marché réglementé dun pays membre d",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 736,
+  "isin": "LU0227384020",
+  "nom": "NORDEA 1 - STABLE RETURN BP EUR",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__KID_FR_2026-05-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__KID_FR_2026-05-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0227384020__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-11-02",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Multi Assets Team",
+   "encours": "1808.73",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.8",
+   "sri": "3",
+   "indice": "EURIBOR 1M",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "4.17",
+   "qualite": "AA+",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Le fonds a pour objectif de préserver le capital des actionnaires (sur un horizon d'investissement de trois ans) et de générer des rendements positifs stables. Les investissements seront réalisés à l'échelle mondiale dans des actions, des obligations (comprenant des obligations convertibles en actions) et des instruments du marché monétaire libellés dans différentes devises.\n\nCe compartiment peut ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 737,
+  "isin": "LU3076185084",
+  "nom": "NORDEA 1 EMPOWER EUROPE BP EUR",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185084/LU3076185084__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185084/LU3076185084__KID_FR_2026-05-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185084/LU3076185084__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185084/LU3076185084__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU3076185084/LU3076185084__KID_FR_2026-05-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU3076185084__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2025-06-12",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes thématiques",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Fundamental Equities Team",
+   "encours": "929.7",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.05",
+   "sri": "4",
+   "indice": "MSCI Europe IMI Index (Net Return)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Dans le cadre de la gestion active du portefeuille du fonds, l'équipe de gestion cible les sociétés de toute capitalisation qui tirent profit de l’attention accrue portée à la résilience énergétique, à la relocalisation de la production industrielle ainsi qu'à la défense et à la cybersécurité, et qui semblent offrir des perspectives de croissance et des caractéristiques d'investissement supérieure",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 738,
+  "isin": "LU0112467450",
+  "nom": "NORDEA 1 GLOBAL STABLE EQUITY BP EUR",
+  "maison": "Nordea Investment Funds S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__KID_FR_2026-10-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__KID_FR_2026-10-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0112467450__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-01-02",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (actions stables)",
+   "compartiment": "Nordea 1, SICAV (SICAV luxembourgeoise)",
+   "gerants": "Stable Equities / Multi Assets Team",
+   "encours": "1110.11",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.8",
+   "sri": "3",
+   "indice": "70% MSCI World Index (Net Return) et 30% EURIBOR 1M (ajusté des changes)",
+   "classification": "Equilibré",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de votre investissement peut évoluer à la hausse comme à la baisse et vous pourriez perdre une partie ou la totalité du capital investi.",
+   "politique_fr": "Le processus de construction de portefeuille du fonds est unique. En effet, son objectif est d'identifier des actions « peu attrayantes » générant un rendement stable à partir d'un modèle quantitatif qui permet de filtrer les valeurs.\n\nCe processus privilégiera les sociétés appartenant à des secteurs d'activité établis et générant de manière récurrente des bénéfices, des dividendes, des flux de tr",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 739,
+  "isin": "FR0000299356",
+  "nom": "NORDEN EUR",
+  "maison": "Lazard Frères Gestion",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__KID_FR_2026-06-26.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__Factsheet_FR_2025-04-30.pdf",
+   "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__KID_FR_2026-06-26.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0000299356__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "301.77",
+    "note": "« Total net assets 301.77 M€ » au 08-2026"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seule « Past performance is no guarantee of future performance » figure (en anglais) ; pas de phrase sur l'absence de protection"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte du prospectus en français (changement de nom 22/10/2025, univers ≥ 250 M€, 75 % actions…) ; la factsheet ne reprend que l'objectif en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1995-01-02",
+   "devise": "EUR",
+   "type_fonds": "Actions pays nordiques",
+   "compartiment": "NORDEN (SICAV de droit français)",
+   "encours": "282.57",
+   "frais_gestion": "1.98",
+   "frais_courants": "2.15",
+   "sri": "4",
+   "indice": "MSCI Nordic 10/40 Index (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Nordic",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. Ce produit ne prévoit pas de protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Norden (anciennement Norden SRI, renommée le 22/10/2025 à la suite de la fin du label ISR) est une SICAV de droit français (OPCVM) gérée par Lazard Frères Gestion SAS. L'objectif de gestion vise à obtenir, sur la durée de placement recommandée de 5 ans, une performance nette de frais supérieure à celle de l'indicateur de référence MSCI Nordic 10/40 Index, exprimé en EUR. Les indices MSCI 10/40 lim",
+   "politique_en": "The investment objective is to achieve a performance net of management fees that exceeds that of the following simple benchmark over the recommended investment period of 5 years: MSCI Nordic 10/40 Index. The benchmark index is expressed in EUR.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 740,
+  "isin": "LU1919842267",
+  "nom": "ODDO BHF ARTIFICIAL INTELLIGENCE CR-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842267/LU1919842267__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842267/LU1919842267__KID_FR_2026-07-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842267/LU1919842267__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842267/LU1919842267__KID_FR_2026-07-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1919842267__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1180 (M$)",
+    "note": "« Actif net du fonds 1 180 M$ » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-01-14",
+   "devise": "EUR",
+   "type_fonds": "Actions Secteur Technologies",
+   "gerants": "Brice Prunas, Maxence Radjabi",
+   "encours": "1192",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.7",
+   "sri": "5",
+   "indice": "MSCI World NR EUR",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "sfdr": "9",
+   "disclaimer": "Risque de perte en capital ; performances passées non indicatives ; durée de placement recommandée 5 ans.",
+   "politique_fr": "ODDO BHF Artificial Intelligence est un fonds thématique investi en actions mondiales utilisant l'intelligence artificielle en sus de l'analyse fondamentale dans le but de détecter les sous-thèmes les plus générateurs d'alpha et les entreprises innovantes liées au thème de l'intelligence artificielle. L'objectif d'investissement durable du fonds est de contribuer à la réduction des émissions de ca",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 741,
+  "isin": "FR0000989899",
+  "nom": "ODDO BHF AVENIR CR-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000989899/FR0000989899__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000989899/FR0000989899__KID_FR_2025-09-25.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000989899/FR0000989899__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000989899/FR0000989899__KID_FR_2025-09-25.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0000989899__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1992-09-14",
+   "devise": "EUR",
+   "type_fonds": "Actions France Petites & Moy. Cap.",
+   "gerants": "Pascal Riegis, Grégory Deschamps, Frédéric Doussard, Sébastien Maillard",
+   "encours": "404",
+   "frais_gestion": "1.8",
+   "frais_courants": "1.78",
+   "sri": "4",
+   "indice": "10% €STR + 8,5 bp + 90% MSCI France Smid Cap Loc Net",
+   "classification": "Dynamique",
+   "categorie": "Equity France Sm&Mid Cap",
+   "sfdr": "8",
+   "disclaimer": "Risque de perte en capital ; performances passées non indicatives ; objectifs de gestion en termes de risque non garantis.",
+   "politique_fr": "ODDO BHF Avenir est un fonds actions françaises (minimum 70%) de petites et moyennes capitalisations. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne en priorité des sociétés françaises parmi les plus performantes, cycliques ou non-cycliques, qui ont souvent un rayonnement international, à un prix jugé attractif eu égard à leu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 742,
+  "isin": "FR0000990095",
+  "nom": "ODDO BHF AVENIR EURO CR-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__KID_FR_2026-08-27.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__KID_FR_2026-08-27.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0000990095__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1998-12-30",
+   "devise": "EUR",
+   "type_fonds": "Actions Zone Euro Moyennes Cap.",
+   "gerants": "Pascal Riegis, Grégory Deschamps, Frédéric Doussard, Sébastien Maillard",
+   "encours": "220",
+   "frais_gestion": "2",
+   "frais_courants": "2.16",
+   "sri": "4",
+   "indice": "MSCI EMU SMID NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Sm&Mid Cap",
+   "sfdr": "8",
+   "disclaimer": "Risque de perte en capital ; performances passées non indicatives.",
+   "politique_fr": "ODDO BHF Avenir Euro est un fonds actions de la zone euro investi dans des sociétés de moyennes et petites capitalisations, avec maximum 10% dans des sociétés domiciliées en dehors des pays de la zone euro. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne des sociétés parmi les plus performantes selon nous au sein de la zone eu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 743,
+  "isin": "FR0000974149",
+  "nom": "ODDO BHF AVENIR EUROPE CR-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000974149/FR0000974149__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000974149/FR0000974149__KID_FR_2026-07-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000974149/FR0000974149__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000974149/FR0000974149__KID_FR_2026-07-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0000974149__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "perte en capital et performances passées figurent, mais aucune restriction pour ressortissants/résidents russes et biélorusses dans la factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1999-05-25",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe Moyennes Cap.",
+   "gerants": "Pascal Riegis, Grégory Deschamps, Frédéric Doussard, Sébastien Maillard",
+   "encours": "1019",
+   "frais_gestion": "2",
+   "frais_courants": "2.01",
+   "sri": "4",
+   "indice": "MSCI Europe SMID NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Sm&Mid Cap",
+   "sfdr": "8",
+   "disclaimer": "Risque de perte en capital ; performances passées non indicatives ; restriction de souscription pour ressortissants/résidents russes et biélorusses (sanctions UE).",
+   "politique_fr": "ODDO BHF Avenir Europe est un fonds actions européennes de moyennes et petites capitalisations, investi dans des sociétés ayant leur siège social au sein de l'Union Européenne ou d'un pays européen appartenant à l'OCDE. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne en priorité des sociétés parmi les plus performantes en Euro",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 744,
+  "isin": "LU1493433004",
+  "nom": "ODDO BHF CONVERTIBLES GLOBAL CR-EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1493433004/LU1493433004__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1493433004/LU1493433004__KID_FR_2026-08-27.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1493433004/LU1493433004__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1493433004/LU1493433004__KID_FR_2026-08-27.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1493433004__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "la liste des risques p.2 correspond, mais aucune restriction Russie/Biélorussie dans la factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé (explication des convertibles, description du portefeuille), absent de la factsheet anglaise"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-12-16",
+   "devise": "EUR",
+   "type_fonds": "Convertibles Internationales Couvertes en EUR",
+   "compartiment": "SICAV ODDO BHF Convertibles Global",
+   "gerants": "Wellington Management International Ltd (gestion déléguée)",
+   "encours": "48.24",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.53",
+   "sri": "3",
+   "indice": "FTSE Global Focus Hgd CB TR EUR",
+   "classification": "Equilibré",
+   "categorie": "Bond Global Convertibles",
+   "duration": "1.5",
+   "qualite": "Non noté 80,7% / ≥A 8,3% / BBB 9,7% / B 1,3% (hors dépôts et liquidités)",
+   "disclaimer": "Risque de perte en capital ; risques actions, taux, crédit, marchés émergents, liquidité, exposition spéculative (haut rendement), obligations convertibles, petites/moyennes capitalisations, volatilité, change ; restriction Russie/Biélorussie.",
+   "politique_fr": "ODDO BHF Convertibles Global est un fonds d'obligations convertibles internationales. C'est un compartiment d'une SICAV luxembourgeoise d'ODDO BHF, dont ODDO BHF AM SAS est la société de gestion. La gestion au quotidien est confiée à Wellington Management International. Le fonds cherche à faire mieux que son indice de référence, le Thomson Reuters Global Focus Hedged Convertible Bond Index, sur un",
+   "politique_en": "The Sub-fund’s objective is to outperform the benchmark index, theThomson Reuters Global Focus Hedged Convertible Bond Index,calculated with net coupons reinvested, over a minimum investment horizon of three years.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Code ESG du site : SFDR Art.8. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 746,
+  "isin": "DE0009772988",
+  "nom": "ODDO BHF GLOBAL EQUITY TREND CRW EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/DE0009772988__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "372",
+    "note": "« Actif net du fonds 372 M€ » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-09-30",
+   "devise": "EUR",
+   "type_fonds": "Actions Internationales Gdes Cap. Mixte",
+   "gerants": "Dr. Stefan Braun , Karsten Seier , Steffen Fuchs",
+   "encours": "369",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.55",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Risque de perte en capital. Performances passées non indicatives des performances futures. Risques liés au modèle quantitatif, risques opérationnels (dépositaire/contrepartie), risque de change, risque de durabilité (SFDR).",
+   "politique_fr": "Utilisant une approche quantitative propriétaire, ODDO BHF Global Equity Trend investit dans des actions mondiales. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques afin de détecter les tendances stables du marché.\n\nLe processus de construction du portefeuille accorde une grande importance à",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 747,
+  "isin": "LU3129990134",
+  "nom": "ODDO BHF Global Target 2031 CR EUR (FMB)",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__KID_FR_2026-06-11.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__KID_FR_2026-06-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU3129990134__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2025-08-04",
+   "devise": "EUR",
+   "gerants": "Alexis Renault, Janis Heck, Haiyan Ding, Daniel Hagemann",
+   "encours": "113",
+   "frais_gestion": "1",
+   "frais_courants": "1.299",
+   "politique_fr": "La stratégie d'investissement du Compartiment consiste à gérer, de manière discrétionnaire, un portefeuille diversifié de titres de créance composé, dans la limite de 100% des actifs nets du Compartiment, d'obligations traditionnelles à haut rendement notées entre BB+ et CCC, dont au moins 60% sont émises par des sociétés ayant leur siège social dans un pays membre de l'OCDE et dont l'échéance est",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 748,
+  "isin": "LU1864504425",
+  "nom": "ODDO BHF POLARIS BALANCED EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1864504425/LU1864504425__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1864504425/LU1864504425__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1864504425/LU1864504425__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1864504425/LU1864504425__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1864504425/LU1864504425__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1864504425__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "les risques (custody, target fund, currency, sustainability) figurent, mais aucune restriction Russie/Biélorussie"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; la factsheet (anglaise) n'a qu'une courte stratégie d'investissement"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-12-03",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Modérée - International",
+   "gerants": "Tilo Wannow (ODDO BHF SE)",
+   "encours": "1023",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.58",
+   "sri": "3",
+   "indice": "20% MSCI USA NR EUR, 45% Bloomberg Euro Agg 1-10 Yr TR EUR, 5% JPM Cash 1 Month TR EUR, 25% MSCI Europe NR EUR, 5% MSCI EM NR EUR",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "4.4",
+   "qualite": "IG 35,41% / HY 2,11% / Émergents 0,69% (en % du fonds)",
+   "disclaimer": "Risque de perte en capital ; risques opérationnels (garde/conservation), risques liés aux fonds cibles, risque de change, risques de durabilité ; restriction Russie/Biélorussie.",
+   "politique_fr": "ODDO BHF Polaris Balanced est un fonds mixte international géré par ODDO BHF AM Lux. C'est un compartiment de la SICAV luxembourgeoise ODDO BHF Exklusiv. La gestion est confiée à ODDO BHF SE, sous la responsabilité de Tilo Wannow. Le fonds vise à faire croître le capital dans la durée tout en limitant les fluctuations de marché. Il s'adresse aux investisseurs à la recherche d'une solution équilibr",
+   "politique_en": "Since 2007, ODDO BHF Polaris Balanced has offered a global and broadly diversified, balanced multi-asset investment solution. It is characterized by an equity allocation between 35% and 60% and a bond segment that invests mainly in investment grade bonds. The portfolio may invest in securities listed or traded on regulated markets, mainly in Europe, the US or Emerging Markets.\n\nThe investment obje",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 749,
+  "isin": "LU1849528234",
+  "nom": "ODDO BHF POLARIS DYNAMIC CR EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1849528234__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "les risques figurent, mais aucune restriction Russie/Biélorussie"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-01-25",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Agressive - International",
+   "compartiment": "ODDO BHF POLARIS DYNAMIC",
+   "gerants": "Nils Bosse Parra (ODDO BHF SE)",
+   "encours": "691",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.67",
+   "sri": "4",
+   "indice": "30% MSCI USA NR EUR, 10% JPM Euro Cash, 1Month, 50% MSCI Europe NR EUR, 10% MSCI EM NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Risque de perte en capital ; risques opérationnels, risques liés aux fonds cibles, risque de change, risques de durabilité ; restriction Russie/Biélorussie.",
+   "politique_fr": "ODDO BHF Polaris Dynamic est un fonds mixte international à dominante actions, géré par ODDO BHF AM Lux. La gestion est confiée à ODDO BHF SE, sous la responsabilité de Nils Bosse Parra. Le fonds vise à faire croître le capital dans la durée tout en limitant les fluctuations de marché. Il s'adresse aux investisseurs qui recherchent une solution dynamique, avec un profil plus orienté vers la croiss",
+   "politique_en": "Since 2007, ODDO BHF Polaris Dynamic has offered a global and broadly diversified, dynamic multi-asset investment solution. It is characterized by an equity allocation between 70% and 100% and a bond portfolio that invests mainly in investment-grade bonds. The portfolio may invest in securities listed or traded on regulated markets, primarily in Europe, the US or Emerging Markets.\n\nThe investment ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 750,
+  "isin": "LU1874836890",
+  "nom": "ODDO BHF POLARIS FLEXIBLE CR EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874836890/LU1874836890__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874836890/LU1874836890__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874836890/LU1874836890__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874836890/LU1874836890__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1874836890/LU1874836890__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1874836890__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-02-13",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Flexible - International",
+   "compartiment": "ODDO BHF POLARIS FLEXIBLE CR EUR",
+   "gerants": "Patrick Suck (ODDO BHF SE)",
+   "encours": "478",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.69",
+   "sri": "3",
+   "indice": "35% MSCI Europe (Net Return) + 20% MSCI USA NET in EUR + 5% MSCI Emerging Markets Daily Net TR EUR + 20% JPM Cash Index Euro Currency 1M + 20% Bloomberg Euro Aggregate TR Unhedged 1-10",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "4.4",
+   "qualite": "IG 20,52% / HY 2,22% / Émergents 2,04% (en % du fonds)",
+   "disclaimer": "Risque de perte en capital ; performances passées non indicatives ; durée de placement recommandée 5 ans.",
+   "politique_fr": "ODDO BHF Polaris Flexible est un fonds mixte international géré par ODDO BHF AM Lux. La gestion est confiée à ODDO BHF SE, sous la responsabilité de Patrick Suck. Le fonds vise à profiter d'une éventuelle hausse des marchés actions tout en limitant le risque de baisse. Il s'adresse aux investisseurs qui recherchent une solution souple, capable de s'adapter aux conditions de marché.\n\nSa caractérist",
+   "politique_en": "Since 2007, ODDO BHF Polaris Flexible has offered a global and broadly diversified, flexible multi-asset investment solution. It is characterized by a flexibly managed equity allocation between 25% and 100% and a bond segment that invests mainly in investment grade bonds. The portfolio may invest in securities listed or traded on regulated markets, mainly in Europe, the US or Emerging Markets.\n\nTh",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 751,
+  "isin": "DE000A2JJ1W5",
+  "nom": "ODDO BHF POLARIS MODERATE CR EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1W5/DE000A2JJ1W5__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1W5/DE000A2JJ1W5__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1W5/DE000A2JJ1W5__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1W5/DE000A2JJ1W5__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE000A2JJ1W5/DE000A2JJ1W5__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/DE000A2JJ1W5__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé, absent de la factsheet anglaise"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-12-10",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Prudente - International",
+   "compartiment": "ODDO BHF POLARIS MODERATE",
+   "gerants": "Peter Rieth (ODDO BHF SE)",
+   "encours": "1321",
+   "frais_gestion": "1.15",
+   "frais_courants": "1.19",
+   "sri": "2",
+   "indice": "65% Bloomberg Euro Agg 1-10 Yr TR EUR, 15% MSCI EUROPETR in Euro, 8% MSCI USA (NR), 10% JPM Euro Cash, 2% MSCI Emerging Markets Daily EUR EUR",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Conservative",
+   "sfdr": "8",
+   "duration": "4.3",
+   "qualite": "IG corp 30,0% / États 18,6% / Sécurisées 14,7% / Émergents 3,6% / HY 1,4% (en % du fonds)",
+   "disclaimer": "Risque de perte en capital ; performances passées non indicatives ; durée de placement recommandée 3 ans.",
+   "politique_fr": "ODDO BHF Polaris Moderate est un fonds mixte international à dominante obligataire, géré par ODDO BHF AM GmbH. La gestion est confiée à ODDO BHF SE, sous la responsabilité de Peter Rieth. Le fonds vise un rendement supérieur à celui d'un placement obligataire, tout en limitant les fluctuations de marché. C'est le profil le plus prudent de la gamme Polaris.\n\nLe portefeuille est principalement inves",
+   "politique_en": "Since 2005, ODDO BHF Polaris Moderate has offered a global and broadly diversified, moderate multi-asset investment solution. It is characterized by an equity allocation between 0% and 40% and a bond segment that invests mainly in investment grade bonds.\n\nThe portfolio invests in securities listed or traded on regulated markets, mainly in Europe, the US or Emerging Markets. It can also invest up t",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 752,
+  "isin": "LU1833929729",
+  "nom": "ODDO BHF US EQUITY TREND CR EUR",
+  "maison": "Oddo BHF Asset Management SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929729/LU1833929729__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929729/LU1833929729__KID_FR_2026-07-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929729/LU1833929729__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929729/LU1833929729__KID_FR_2026-07-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1833929729__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-07-16",
+   "devise": "EUR",
+   "type_fonds": "Actions Etats-Unis Gdes Cap. Mixte",
+   "compartiment": "SICAV ODDO BHF (droit luxembourgeois, loi de 2010)",
+   "gerants": "Dr. Stefan Braun, Karsten Seier, Steffen Fuchs",
+   "encours": "752",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.31",
+   "sri": "4",
+   "indice": "S&P 500 NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Risque de perte en capital. Risques de crédit, de taux, pays émergents, contrepartie, liquidité, actions, change, volatilité, durabilité et modèle quantitatif.",
+   "politique_fr": "Utilisant une approche quantitative propriétaire, ODDO BHF US Equity Trend investit dans des actions américaines. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques dans le but de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importan",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 753,
+  "isin": "FR0014008NN3",
+  "nom": "OFI ENERGY STRATEGIC METALS R EUR",
+  "maison": "Ofi Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__KID_FR_2026-09-23.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__Factsheet_FR_2026-08-28.pdf",
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__KID_FR_2026-09-23.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0014008NN3__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "sri": {
+    "verdict": "DIFFERENT",
+    "document": "5",
+    "note": "Profil de risque p.1 : case 5 surlignée (image)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-06-08",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Equity Fund, Thematic Fund",
+   "compartiment": "OFI Strategic Metals",
+   "gerants": "Benjamin Louvet, Olivier Daguin, Marion Balestier",
+   "encours": "835.16",
+   "frais_gestion": "1.81",
+   "frais_courants": "1.83",
+   "sri": "6",
+   "categorie": "Commodity Global Industrial Metals",
+   "politique_fr": "Le fonds vise à bénéficier du potentiel d'appréciation d'une sélection de métaux (aluminium, plomb, palladium, platine, argent, nickel, zinc, cuivre) par une exposition synthétique à l’indice « Basket Energy Strategic Metals Index», sans passer par des investissements directs dans des actions minières du secteur. Il propose une offre simple et transparente, assortie d'une couverture quotidienne co",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 754,
+  "isin": "FR0011170182",
+  "nom": "OFI PRECIOUS METALS R EUR",
+  "maison": "Ofi Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__KID_FR_2026-09-23.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__Factsheet_FR_2026-08-28.pdf",
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__KID_FR_2026-09-23.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0011170182__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "sri": {
+    "verdict": "DIFFERENT",
+    "document": "5",
+    "note": "Profil de risque p.1 : case 5 surlignée (image)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-03-08",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Equity Fund, Sector Fund",
+   "compartiment": "OFI Precious Metals",
+   "gerants": "Benjamin Louvet, Olivier Daguin, Marion Balestier",
+   "encours": "952.33",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.52",
+   "sri": "6",
+   "indice": "n/a",
+   "categorie": "Commodity Global Precious Metals",
+   "politique_fr": "Le fonds vise à s'exposer de manière synthétique à l’indice Basket Precious Metals Strategy, représentatif d'un panier composé de métaux précieux et de produits sur taux d’intérêt, pour saisir les opportunités offertes par les variations de cours sans passer par des investissements directs dans les actions minières du secteur.\n\nIl propose une offre simple, transparente assortie d'une couverture qu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 755,
+  "isin": "FR0010564351",
+  "nom": "OFI RS MULTITRACK R EUR",
+  "maison": "Ofi Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010564351__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-12-28",
+   "devise": "EUR",
+   "gerants": "Jacques-Pascal Porta, Geoffroy Carteron",
+   "encours": "149.83",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.54",
+   "indice": "25% Bloomberg Euro Aggregate Corporate + 25% Bloomberg US Corporate Bond Euro Hedged + 50% MSCI World 100% Hedged to EUR",
+   "categorie": "Mixed Asset Global Flexible",
+   "politique_fr": "Le fonds a pour but de surperformer, sur un horizon de placement recommandé supérieur ou égal à quatre ans, avec pour objectif de maintenir la volatilité du portefeuille inférieure à 10% par an et en sélectionnant des OPC ayant pour thématique déclarée l’investissement socialement responsable et le développement durable.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 756,
+  "isin": "FR0013357704",
+  "nom": "OMEGA ALLOCATION FLEXIBLE R EUR",
+  "maison": "Lazard Frères Gestion",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0013357704/FR0013357704__KID_FR_2026-04-15.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LAZARD_FRERES_GESTION/FR0013357704/FR0013357704__KID_FR_2026-04-15.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013357704__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "le document fourni est un rapport semestriel (état du patrimoine, inventaire) sans frais ; pas de KID"
+   },
+   "indice": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun indicateur de référence dans le rapport semestriel"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucune classification SFDR dans le rapport semestriel"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "objectif et politique (prospectus) absents du rapport semestriel"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible (fonds de fonds)",
+   "encours": "33.23",
+   "frais_gestion": "1.5",
+   "frais_courants": "2.95",
+   "sri": "3",
+   "indice": "80% ICE BofAML Euro Broad Market Index ; 20% MSCI World All Countries",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "6",
+   "politique_fr": "Le FCP vise à obtenir, sur la durée de placement recommandée de 3 ans, une performance nette de frais supérieure à celle de son indicateur de référence composite (20% MSCI World All Countries ; 80% ICE BofAML Euro Broad Market Index). Il investit jusqu'à 100% de son actif net dans des OPCVM et fonds d'investissement à vocation générale (et jusqu'à 30% dans certains FIA européens), qui n'investisse",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 762,
+  "isin": "LU0280435388",
+  "nom": "PICTET CLEAN ENERGY TRANSITION P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0280435388/LU0280435388__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0280435388/LU0280435388__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0280435388/LU0280435388__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0280435388/LU0280435388__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0280435388__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "5147",
+    "note": "« Taille du fonds (Mio) EUR 5 147 » au 30.09.2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-05-14",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (transition énergétique)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Xavier Chollet, Manuel Losa, Pam Liu, Guillaume Martin-Achard",
+   "encours": "5090",
+   "frais_courants": "1.98",
+   "sri": "5",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental positif.\n\nLe Fonds investit au moins deux tiers de son actif net dans des actions d’entreprises qui contribuent à réduire les émissions de carbone, par exemple en privilégiant les énergies propres dans leur processus de production. Le Fonds peut investir dans le monde entier, y compris sur les marchés",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 763,
+  "isin": "LU0340554913",
+  "nom": "PICTET DIGITAL P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554913/LU0340554913__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554913/LU0340554913__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554913/LU0340554913__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554913/LU0340554913__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340554913/LU0340554913__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0340554913__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2008-06-30",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (numérique)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "encours": "3810",
+   "frais_courants": "1.99",
+   "sri": "5",
+   "indice": "MSCI AC World (USD)",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement.\n\nLe Fonds investit au moins deux tiers de ses actifs en actions d’entreprises proposant des produits ou services numériques, y compris des services permettant une interactivité numérique. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nDans le cadre de la gestion active du Fonds, le Gestionnair",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 764,
+  "isin": "LU0130732364",
+  "nom": "PICTET FAMILY P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0130732364/LU0130732364__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0130732364/LU0130732364__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0130732364/LU0130732364__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0130732364/LU0130732364__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0130732364__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "129",
+    "note": "« Taille du fonds (Mio) EUR 129 » au 30.09.2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1991-09-13",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (entreprises familiales)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Cyril Benier, Megan Brennan, Luca Di Prinzio",
+   "encours": "130",
+   "frais_courants": "1.85",
+   "sri": "4",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Le Pictet-Family Fund est un fonds d’actions international qui investit dans ce que nous considérons comme une catégorie d’actions à part : les entreprises familiales et celles détenues par leurs fondateurs.\n\nLes entreprises familiales constituent le pilier de la société. Elles offrent aux investisseurs des modèles économiques de grande qualité, allouent efficacement les capitaux et surperforment ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 765,
+  "isin": "LU0503631714",
+  "nom": "PICTET GLOBAL ENVIRONMENTAL OPPORTUNITIES P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631714/LU0503631714__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631714/LU0503631714__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631714/LU0503631714__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503631714/LU0503631714__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0503631714__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "4644",
+    "note": "« Taille du fonds (Mio) EUR 4 644 » au 30.09.2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-09-10",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (environnement)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Luciano Diana, Katie Self, Chris Elias, Nadine Hayderi, Yi Du",
+   "encours": "4600",
+   "frais_courants": "1.99",
+   "sri": "4",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Notre stratégie consiste à investir dans des prestataires de solutions environnementales. L’exposition aux tendances environnementales offre aux investisseurs des rendements ajustés au risque attractifs, quelle que soit la phase du cycle économique. Nous privilégions les prestataires de solutions disposant d’avantages concurrentiels solides, d’une rentabilité robuste, de bilans sains et de modèles",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 766,
+  "isin": "LU0366534344",
+  "nom": "PICTET NUTRITION P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366534344/LU0366534344__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366534344/LU0366534344__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366534344/LU0366534344__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0366534344/LU0366534344__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0366534344__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "359",
+    "note": "« Taille du fonds (Mio) EUR 359 » au 30.09.2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2009-05-28",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (nutrition)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Mayssa Al Midani, Alex Howson, May Hammoud",
+   "encours": "364",
+   "frais_courants": "2",
+   "sri": "4",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Agribusiness",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "La stratégie « Nutrition » investit dans des entreprises, de la ferme à l’assiette, qui améliorent l’accès durable à une alimentation de haute qualité et favorisent une production alimentaire nécessaire à la santé et à la croissance.\n\nNous investissons dans des entreprises innovantes qui apportent des solutions aux multiples défis de nos systèmes alimentaires actuels : améliorer la productivité et",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 767,
+  "isin": "LU0217139020",
+  "nom": "PICTET PREMIUM BRANDS P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217139020/LU0217139020__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217139020/LU0217139020__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217139020/LU0217139020__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217139020/LU0217139020__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0217139020__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-05-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (marques haut de gamme)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Caroline Reyl, Stéphane Destraz, Aline Reichenbach, David Barros",
+   "encours": "1099",
+   "frais_courants": "1.99",
+   "sri": "4",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Consumer Discretionary",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Cette stratégie investit dans des entreprises dotées de marques fortes qui répondent aux attentes des consommateurs. Nous privilégions les marques reconnues proposant des produits de grande qualité, des services haut de gamme et une présence numérique pertinente.\n\nNous évaluons la capacité des entreprises à générer une croissance durable, accompagnée d’une rentabilité élevée et d’une forte générat",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 768,
+  "isin": "LU1279334210",
+  "nom": "PICTET ROBOTICS P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334210/LU1279334210__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334210/LU1279334210__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334210/LU1279334210__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU1279334210/LU1279334210__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1279334210__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2015-10-07",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (robotique)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Peter Lingen, Daegal Tsang, Francesco Pighini, Stanislas Buiatti",
+   "encours": "12833",
+   "frais_courants": "1.98",
+   "sri": "5",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Agressif",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "« L'automatisation transforme les industries. Nous investissons dans toute la chaîne de valeur de la robotique : automatisation industrielle, IA, capteurs, technologies habilitantes. »",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 769,
+  "isin": "LU0128499588",
+  "nom": "PICTET SHORT TERM MONEY MARKET CHF R",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0128499588__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé en français à partir de la factsheet anglaise ; plusieurs éléments absents des PDF (« filiale à 100% du Groupe Pictet », « période de détention recommandée 1 mois »)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-12-12",
+   "devise": "CHF",
+   "type_fonds": "Monétaire court terme CHF",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Sylvian Mauron, Jean Braun",
+   "encours": "979",
+   "frais_courants": "0.21",
+   "sri": "2",
+   "indice": "FTSE CHF 1-Month Eurodeposit (CHF)",
+   "classification": "Défensif",
+   "categorie": "Money Market Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas nécessairement un indicateur fiable des performances futures. La valeur des investissements et les revenus qui en découlent peuvent baisser comme monter et vous pourriez ne pas récupérer le montant investi.",
+   "politique_fr": "Pictet - Short-Term Money Market CHF est un compartiment de la SICAV de droit luxembourgeois Pictet, agréée en tant qu'OPCVM au Luxembourg. Sa société de gestion est Pictet Asset Management (Europe) S.A., filiale à 100% du Groupe Pictet. Il s'agit d'un fonds monétaire à court terme à valeur liquidative variable (VNAV). La part R est libellée en franc suisse, devise du fonds.Le fonds a pour objecti",
+   "politique_en": "To preserve the value of your investment, while achieving a return in line with money market rates.\n\nThe Fund mainly invests in short-term money market instruments that are issued by highly rated issuers and are either denominated in CHF or systematically hedged to this currency (meaning investments have little or no exposure to currency risk).\n\nIn actively managing the Fund, the Investment Manage",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 771,
+  "isin": "LU0503634221",
+  "nom": "PICTET SMARTCITY P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0503634221__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2010-05-12",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (villes intelligentes, urbanisation)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "encours": "466",
+   "frais_courants": "1.97",
+   "sri": "4",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nLe Fonds investit principalement en actions d'entreprises qui contribuent à la tendance mondiale à l’urbanisation ou qui en tirent un avantage. Ces entreprises peuvent être actives dans des secteurs tels que la mobilité et les transports, l'infrastructure, l'immobilier ou la ges",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 772,
+  "isin": "LU0340559557",
+  "nom": "PICTET TIMBER P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340559557/LU0340559557__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340559557/LU0340559557__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340559557/LU0340559557__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340559557/LU0340559557__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0340559557/LU0340559557__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0340559557__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2008-09-29",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (filière bois et forêts)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "encours": "332",
+   "frais_courants": "2",
+   "sri": "4",
+   "indice": "MSCI AC World (USD)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Materials",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nLe Fonds investit au moins deux tiers de son actif net dans des actions d’entreprises actives dans la chaîne de valeur sylvicole, par exemple la plantation et la gestion de forêts ou la production ou distribution de produits dérivés du bois. Le Fonds peut investir dans le monde ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 773,
+  "isin": "LU2957443596",
+  "nom": "PICTET TR QUEST AI P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443596/LU2957443596__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443596/LU2957443596__KID_FR_2026-08-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443596/LU2957443596__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443596/LU2957443596__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2957443596/LU2957443596__KID_FR_2026-08-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2957443596__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2025-04-01",
+   "devise": "EUR",
+   "type_fonds": "Actions long/short neutre au marché (approche quantitative)",
+   "compartiment": "Pictet TR (SICAV de droit luxembourgeois)",
+   "encours": "95",
+   "frais_courants": "1.96",
+   "sri": "3",
+   "indice": "€ STR",
+   "classification": "Equilibré",
+   "categorie": "Alternatif",
+   "sfdr": "6",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement sur le long terme, tout en recherchant la préservation du capital.\n\nLe Fonds s’expose principalement, par le biais d'un ensemble de stratégies d'investissement long/short, aux actions de tous les pays, dont les marchés émergents. Il peut également détenir une part importante d’instruments du marché monétaire et de dépôts.\n\nDans le cadre de la gestion act",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 774,
+  "isin": "LU2496444717",
+  "nom": "PICTET TR-SIRIUS-P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444717/LU2496444717__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444717/LU2496444717__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444717/LU2496444717__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444717/LU2496444717__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU2496444717/LU2496444717__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2496444717__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-07-14",
+   "devise": "EUR",
+   "type_fonds": "Rendement absolu obligataire marchés émergents (long/short)",
+   "compartiment": "Pictet TR (SICAV de droit luxembourgeois)",
+   "gerants": "Philippe Petit, Filip Vojnic-Zelic",
+   "encours": "733",
+   "frais_courants": "1.74",
+   "sri": "3",
+   "indice": "Secured Overnight Financing Rate (SOFR)",
+   "classification": "Equilibré",
+   "categorie": "Alternatif",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur et les revenus éventuels de vos investissements peuvent fluctuer, et vos investissements peuvent perdre tout ou partie de leur valeur.",
+   "politique_fr": "Augmenter la valeur de votre investissement tout en recherchant un rendement positif dans toutes les conditions de marché (rendement absolu) et la préservation du capital.\n\nLe Fonds investira principalement dans les marchés émergents (y compris la Chine continentale) via un large éventail d’obligations d’entreprises et d’État, d'obligations convertibles, d'instruments du marché monétaire, de devis",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 775,
+  "isin": "LU0255977455",
+  "nom": "PICTET-BIOTECH P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977455/LU0255977455__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977455/LU0255977455__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977455/LU0255977455__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977455/LU0255977455__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0255977455/LU0255977455__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0255977455__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-06-14",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales sectorielles (biotechnologies)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "encours": "2082",
+   "frais_courants": "1.99",
+   "sri": "5",
+   "indice": "MSCI AC World (USD)",
+   "classification": "Agressif",
+   "categorie": "Equity Global Biotechnology",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact social positif.\n\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nLe Fonds investit au moins deux tiers de son actif net dans des actions",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 776,
+  "isin": "LU0386882277",
+  "nom": "PICTET-GLOBAL MEGATREND SELECTION P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386882277/LU0386882277__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386882277/LU0386882277__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386882277/LU0386882277__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386882277/LU0386882277__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0386882277/LU0386882277__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0386882277__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2008-10-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales multithématiques (mégatendances)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "encours": "8856",
+   "frais_courants": "2",
+   "sri": "4",
+   "indice": "MSCI AC World (USD)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Augmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nLe Fonds investit au moins deux tiers de son actif net dans des actions d’entreprises susceptibles de tirer avantage de tendances à long terme en matière de démographie, de mode de vie et autres. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 777,
+  "isin": "LU0270904781",
+  "nom": "PICTET-SECURITY P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904781/LU0270904781__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904781/LU0270904781__KID_FR_2026-09-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904781/LU0270904781__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904781/LU0270904781__KID_FR_2026-09-17.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0270904781__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-10-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (sécurité)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Savironi Chet, Alexandre Mouthon",
+   "encours": "5292",
+   "frais_courants": "1.98",
+   "sri": "5",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "Ce portefeuille vise à tirer parti des tendances les plus prometteuses du secteur de la sécurité.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 778,
+  "isin": "LU0104884860",
+  "nom": "PICTET-WATER P EUR",
+  "maison": "Pictet Asset Management (Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884860/LU0104884860__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884860/LU0104884860__KID_FR_2026-06-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884860/LU0104884860__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0104884860/LU0104884860__KID_FR_2026-06-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0104884860__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation absente ; le document dit « La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus ... peuvent fluctuer ... les investisseurs ne récupèrent pas la totalité du montant initialement investi » (mentions légales)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-01-19",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (eau)",
+   "compartiment": "Pictet (SICAV de droit luxembourgeois)",
+   "gerants": "Louis Veilleux, Charlie Carnegie, David Dufour, Ola Obanubi",
+   "encours": "5663",
+   "frais_courants": "1.99",
+   "sri": "4",
+   "indice": "MSCI AC World (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Water",
+   "sfdr": "9",
+   "disclaimer": "Les rendements passés ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement est soumise aux fluctuations du marché : vous pouvez perdre une partie voire l'intégralité de votre investissement.",
+   "politique_fr": "« Investisseur pionnier dans les solutions pour l'eau depuis 2000. Nous nous concentrons sur les entreprises qui fournissent des services d'approvisionnement en eau, de traitement de l'eau et de technologie. »",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 779,
+  "isin": "IE00B1Z6D669",
+  "nom": "PIMCO GIS DIVERSIFIED INCOME E EUR",
+  "maison": "PIMCO (Ireland) Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1Z6D669/IE00B1Z6D669__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1Z6D669/IE00B1Z6D669__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1Z6D669/IE00B1Z6D669__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1Z6D669/IE00B1Z6D669__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1Z6D669/IE00B1Z6D669__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00B1Z6D669__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2007-03-07",
+   "devise": "EUR",
+   "type_fonds": "Obligations internationales diversifiées (crédit et émergents), couvertes en EUR",
+   "compartiment": "PIMCO Funds: Global Investors Series plc (société d'investissement de droit irlandais à capital variable, OPCVM)",
+   "gerants": "Sonali Pier, Alfred Murata, Charles Watford, Regina Borromeo, Daniel J. Ivascyn",
+   "encours": "9300",
+   "frais_gestion": "1.59",
+   "indice": "Bloomberg Global Aggregate Credit ex Emerging Markets (EUR Hedged); ICE BofA BB-B Rated Developed Markets High Yield Constrained Index (EUR Hedged); JPMorgan EMBI Global (EUR Hedged)",
+   "categorie": "Bond Global",
+   "sfdr": "6",
+   "duration": "5.39",
+   "disclaimer": "Communication marketing. Les performances passées ne constituent ni une garantie ni un indicateur fiable des résultats futurs. La valeur des parts peut évoluer à la hausse comme à la baisse, notamment en raison des fluctuations de change.",
+   "politique_fr": "Diversified Income Fund est un compartiment de PIMCO Funds: Global Investors Series plc, société d'investissement de droit irlandais à capital variable et à responsabilité séparée entre compartiments, agréée comme OPCVM par la Banque centrale d'Irlande. La société de gestion est PIMCO Global Advisors (Ireland) Limited et le conseiller en investissement PIMCO LLC. La part E EUR (Hedged) Accumulatio",
+   "politique_en": "The Diversified Income Fund provides efficient access to broad global credit market exposure by investing primarily in a diversified pool of corporate and emerging market fixed income securities of varying maturities. The Fund holds both non-US dollar denominated fixed income securities and non-US dollar currency positions.\n\nThis Fund offers a potentially higher yielding alternative to core fixed ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 781,
+  "isin": "LU0260464168",
+  "nom": "PTAM DEFENSIV PORTFOLIO P EUR",
+  "maison": "PT Asset Management GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__Factsheet_EN_2026-10-15.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__KID_FR_2025-07-11.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__Factsheet_EN_2026-10-15.pdf",
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__KID_FR_2025-07-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0260464168__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-10-15 (EN)",
+  "ecarts_constates": {
+   "indice": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun indice de référence dans la factsheet (seulement Morningstar) ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "résumé rédigé ; le document dit « previous performance ... cannot be taken as a reliable indicator », « risk of price losses and currency losses », « no assurance can be provided that the above-stated objectives ... will be achieved »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé (description du portefeuille, public visé) ; la factsheet ne contient que le court paragraphe « Fund Features »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-08-01",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Prudente",
+   "gerants": "PT Asset Management GmbH",
+   "encours": "41.39",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.83",
+   "sri": "3",
+   "indice": "50% MSCI World NR USD, 50% JPM GBI Global TR EUR",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "disclaimer": "Performances passées non indicatives ; risque de perte en capital et risque de change ; aucune garantie d'atteinte des objectifs.",
+   "politique_fr": "PTAM Defensiv Portfolio est un fonds mixte international géré par PT Asset Management. C'est un fonds commun de placement de droit luxembourgeois, dont Hauck & Aufhäuser Fund Services est la société de gestion. Il vise à faire croître le capital en euro de manière attractive sur le long terme, grâce à des stratégies défensives et à une maîtrise des risques.\n\nLe portefeuille est diversifié entre ac",
+   "politique_en": "The objective of the Fund's investment policy is to generate attractive long-term capital growth in EURO by means of defensive investment strategies and the minimisation of risks. By using proven portfolio strategies in combination with modern financial instruments and investment opportunities in all the world's leading markets and currencies, the opportunities for favourable performance span a br",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-15."
+  }
+ },
+ {
+  "n": 782,
+  "isin": "DE000A1JCWX9",
+  "nom": "PTAM GLOBAL UI EUR",
+  "maison": "PT Asset Management GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__KID_FR_2026-01-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__Factsheet_DE_2026-09-30.pdf",
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__KID_FR_2026-01-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/DE000A1JCWX9__site.pdf",
+  "probleme_document": "factsheet de la part R (le classeur vise la part UI)",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "document": "PTAM Global Allocation (R) – FCP domicilié en Allemagne, société de gestion Hanseatische Investment-GmbH",
+    "note": "factsheet p.1-2 : fonds « PTAM Global Allocation R », Forme juridique « FCP / OGAW » ; la mention « UI » n'apparaît pas"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.3 : seul « Fund Partner : PT Asset Management GmbH » ; aucune mention du Prof. Stefan Duchateau"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "336,51 Mio. EUR (volume du fonds) ; 223,73 Mio. EUR (classe)",
+    "note": "p.2 Compte de résultat, au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "DIFFERENT",
+    "document": "1,80 %",
+    "note": "p.1 « Commission de gestion max. par an 1,80% »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1,77 %",
+    "note": "p.1 « Frais courants/TER 1,77% »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "document": "Duration modifiée 126,58 % (sic) ; date d'échéance 7,73",
+    "note": "p.3 Ratios au 31/08/2026 ; 6,78 n'apparaît pas"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "résumé rédigé ; le document dit « Aucune garantie ne peut être donnée que les investisseurs récupéreront le montant investi » (p.4)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2011-10-06",
+   "devise": "EUR",
+   "type_fonds": "Fonds EAA EUR Allocation flexible mondiale",
+   "compartiment": "PTAM Global Allocation UI",
+   "gerants": "PT Asset Management GmbH (conseiller : Prof. Stefan Duchateau)",
+   "encours": "334.42",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.75",
+   "sri": "3",
+   "indice": "€ STR",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "6.78",
+   "qualite": "A+",
+   "disclaimer": "Aucune garantie de réalisation des objectifs ; risque de perte en capital, partielle ou totale ; plus-values non garanties.",
+   "politique_fr": "PTAM Global Allocation (le « Fonds ») investit en valeurs obligataires à long terme émises par des États ou de grandes entreprises de qualité supérieure, en actions, en valeurs immobilières ainsi qu'en instruments du marché monétaire*. La sélection et la pondération des classes d'actifs se fondent sur les analyses macroéconomiques, notamment l'étude des interconnexions macroéconomiques.\n\nPar consé",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 783,
+  "isin": "LU1171478784",
+  "nom": "QUEST CLEANTECH R EUR",
+  "maison": "Selectum Vermogensbeheer NV",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/SELECTUM_VERMOGENSBEHEER_NV/LU1171478784/LU1171478784__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/SELECTUM_VERMOGENSBEHEER_NV/LU1171478784/LU1171478784__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1171478784__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seule la 1re idée figure : « Past performance is not necessarily a guide to the future performance of the fund » ; la phrase sur la perte de tout ou partie de l'investissement (formulation KID) est absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID (initiateur PRIIP, période de détention 6 ans, avertissement « produit pas simple »), KID non fourni ; le rapport annuel ne contient pas ces phrases"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2015-03-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (technologies propres)",
+   "compartiment": "Quest Management SICAV (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "74.05",
+   "frais_gestion": "1.25",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. Ce produit ne prévoit pas de protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Quest Cleantech Fund est un compartiment de Quest Management SICAV, organisme de placement collectif en valeurs mobilières de droit luxembourgeois. L'initiateur du PRIIP est VP Fund Solutions (Luxembourg) SA et le dépositaire VP Bank (Luxembourg) SA ; la gestion du portefeuille est déléguée à Capricorn Partners.Le compartiment investit principalement dans des entreprises de technologies propres (c",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-28."
+  }
+ },
+ {
+  "n": 784,
+  "isin": "FR0007009139",
+  "nom": "R-CO 4CHANGE CONVERTIBLES EURP C EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007009139/FR0007009139__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007009139/FR0007009139__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007009139/FR0007009139__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007009139/FR0007009139__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007009139/FR0007009139__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0007009139__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1997-04-01",
+   "devise": "EUR",
+   "type_fonds": "Obligations convertibles Europe",
+   "compartiment": "R-co Conviction Convertibles Europe (FCP de droit français)",
+   "gerants": "Kristell Agaesse, Michaël Longeard",
+   "encours": "102.07",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.51",
+   "sri": "3",
+   "indice": "FTSE Convertibles Indices EUROPE EUR",
+   "classification": "Equilibré",
+   "categorie": "Bond Europe Convertibles",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "Le FCP a pour objectif de gestion sur une durée de placementrecommandée de 3 ans minimum, d'obtenir une performance supérieureà celle de l'indicateur de référence « FTSE Convertibles Indices EuropeEUR », coupons réinvestis, par la mise en oeuvre d’une gestiondiscrétionnaire. La composition du FCP peut s’écarter significativementde la répartition de l’indicateur. La stratégie est basée sur la gesti",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 785,
+  "isin": "FR0010537423",
+  "nom": "R-CO CLUB F EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010537423/FR0010537423__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010537423/FR0010537423__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010537423/FR0010537423__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010537423/FR0010537423__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010537423__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "document": "5,63 (sensibilité de la poche taux)",
+    "note": "p.4 « Sensibilité : 5,63 » ; aucune duration 5,31"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-11-19",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible international (actions et taux)",
+   "compartiment": "R-co (SICAV de droit français), compartiment R-co Conviction Club",
+   "gerants": "Ludivine Quincerot, Julien Boy, Vincent Imeneuraet, Thomas Vincent",
+   "encours": "213.93",
+   "frais_gestion": "1.9",
+   "frais_courants": "2.27",
+   "sri": "3",
+   "indice": "40% J.P. Morgan GBI JPM EMU - ALL MATURITIES Total Return EUR, 30% Euro Stoxx ® NR, 20% MSCI World Ex EMU NTR, 10% ESTR Capi + 0.085%",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "5.31",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "La gestion du portefeuille s'effectue de manière discrétionnaire dans la perspective d'une valorisation à moyen terme des actifs gérés. C'est une gestion de conviction reposant sur une allocation entre les différentes classes d'actifs et zones géographiques qui peut conduire à des écarts importants avec l'indicateur de référence. Le compartiment, principalement investi en lignes directes, cherche ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 786,
+  "isin": "FR0007001581",
+  "nom": "R-CO GOLD MINING EUR C",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0007001581__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le prospectus/KID (fourchettes 60-100 %, 0-40 %, exposition 110 %, sensibilité -1 à 9) ; la factsheet ne contient que la courte « Stratégie d'investissement »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-11-09",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales sectorielles (mines d'or et métaux précieux)",
+   "compartiment": "R-co (SICAV de droit français), compartiment R-co Gold Mining",
+   "gerants": "Charles-Edouard Bilbault, Abel Amine",
+   "encours": "803.74",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.91",
+   "sri": "5",
+   "indice": "NYSE Arca Gold Miners Index (EUR Net TR)",
+   "categorie": "Majoritairement actions",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+   "politique_fr": "R-co Gold Mining est un compartiment de la SICAV de droit français R-co, OPCVM géré par Rothschild & Co Asset Management et classé \"Actions internationales\". Le document décrit l'action C EUR, action de capitalisation.Le compartiment a pour objectif d'obtenir, sur la durée de placement recommandée de 5 ans, une performance nette de frais supérieure à son indicateur de référence (NYSE Arca Gold Min",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-12."
+  }
+ }
+]
