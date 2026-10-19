@@ -1,6 +1,11 @@
 # Prompt : reconstruire une plateforme équivalente à invest-law.eu, possédée et maintenue par l'organisation
 
-**Mode d'emploi.** Créer un dépôt GitHub **vide** au nom de l'organisation (pas d'un compte personnel ni de celui d'un prestataire), ouvrir une session Claude Code sur ce dépôt et coller tout ce document, de « DÉBUT DU PROMPT » à « FIN DU PROMPT ». Le travail se fait en plusieurs sessions : chacune relit `PLAN.md` et reprend à la phase en cours.
+**Infrastructure retenue** : code sur **GitHub** (seul chemin vers la production), application hébergée sur **Vercel**, base de données, authentification et fichiers sur **Supabase**.
+
+**Mode d'emploi.**
+1. Créer l'organisation GitHub, l'équipe Vercel et l'organisation Supabase, en étant Owner des trois (voir section 3).
+2. Créer un dépôt GitHub **vide** dans l'organisation (pas sur un compte personnel ni sur celui d'un prestataire).
+3. Ouvrir une session Claude Code sur ce dépôt et coller tout ce document, de « DÉBUT DU PROMPT » à « FIN DU PROMPT ». Le travail se fait en plusieurs sessions : chacune relit `PLAN.md` et reprend à la phase en cours.
 
 Analyse dont découle ce prompt : `docs/analyses/2026-10-19-analyse-complete-investlaw.md`.
 
@@ -22,6 +27,18 @@ Chaque fois que tu hésites entre deux solutions, choisis celle qui réduit la d
 
 Tu travailles pour l'organisation, pas pour une personne en particulier. Aucun compte, secret ou droit ne doit dépendre d'un seul individu.
 
+**Infrastructure imposée** :
+- **GitHub** : code, historique, intégration continue ;
+- **Vercel** : hébergement de l'application (pages et routes `/api`), déploiement automatique depuis GitHub ;
+- **Supabase** : base PostgreSQL, authentification, stockage des fichiers, tâches planifiées.
+
+**Accès complet de la personne qui pilote le projet.** Elle doit détenir, à son nom ou à celui de l'organisation dont elle est administratrice, les trois niveaux d'accès décrits en section 3 bis :
+- le **compte mère**, qui a accès à tout ;
+- un compte **gestionnaire** (Responsable) ;
+- un compte **Data**.
+
+Rien ne doit pouvoir être fait sur le site, ni sur son infrastructure, sans qu'elle puisse le faire aussi.
+
 ### 2. Règles de travail (valables pour toute la durée du projet)
 
 1. **Langue** : documentation, interface par défaut, messages de commit et échanges avec moi en français. Code et identifiants en anglais.
@@ -31,7 +48,7 @@ Tu travailles pour l'organisation, pas pour une personne en particulier. Aucun c
 5. **Me demander avant** :
    - toute action irréversible ou visible de l'extérieur : DNS, envoi d'emails réels, suppression de données, mise en production, achat ;
    - toute création de compte chez un fournisseur. C'est moi qui crée les comptes, au nom de l'organisation ; tu me dis lesquels et pourquoi.
-6. **Secrets** : jamais dans le dépôt, le chat ou les logs. Fichier `.env.example` documenté ; vraies valeurs dans le gestionnaire de secrets de l'hébergeur et dans le coffre de mots de passe de l'organisation.
+6. **Secrets** : jamais dans le dépôt, le chat ou les logs. Fichier `.env.example` documenté ; vraies valeurs dans les variables d'environnement Vercel, les secrets Supabase et GitHub Actions, et dans le coffre de mots de passe de l'organisation.
 7. **Pas de dépendance exotique** : uniquement des librairies largement utilisées et maintenues, versions épinglées, mises à jour automatiques proposées (Dependabot ou Renovate).
 8. **Exactitude des données** : ne jamais inventer ni compléter une donnée financière. Mieux vaut un champ vide qu'une valeur fausse.
 9. **Quand tu bloques**, dis-le clairement avec ce qu'il te faut, au lieu de contourner en silence.
@@ -42,47 +59,103 @@ Produis `docs/00-prerequis-comptes.md`, une liste à cocher de ce que l'organisa
 
 | Élément | Exigence |
 |---|---|
-| Organisation GitHub | 2 propriétaires minimum, dépôt privé, branche principale protégée |
-| Nom de domaine | Titulaire = la société (vérifier au registre EURid), compte registrar de la société, DNS dans ce compte ou chez l'hébergeur |
-| Hébergeur | Compte de la société, région **Union européenne** (RGPD, clients belges) |
-| Base PostgreSQL managée | Sauvegardes quotidiennes automatiques avec restauration à un instant donné, région UE |
-| Stockage de fichiers compatible S3 | Bucket **privé** (pas d'URL publiques), région UE |
-| Envoi d'emails transactionnels | Domaine vérifié (SPF, DKIM, DMARC), compte de la société |
-| Coffre de mots de passe partagé | Bitwarden, 1Password ou équivalent |
-| Clé API de traduction | Pour la traduction automatique FR/EN/NL : clé de la société |
-| Supervision | Uptime et erreurs, alertes vers une adresse partagée (pas personnelle) |
+| Organisation GitHub | Je suis **propriétaire (Owner)** de l'organisation, plus un second propriétaire de confiance ; double authentification obligatoire ; dépôt privé ; branche principale protégée. **GitHub est le seul chemin vers la production** (voir section 4) |
+| Organisation Supabase | Je suis **Owner** de l'organisation Supabase, plus un second Owner ; double authentification. **Plan Pro au minimum** : le plan gratuit met le projet en pause après une semaine d'inactivité et n'a pas de sauvegardes. Deux projets, `prod` et `staging`, en région **Frankfurt (eu-central-1)** pour le RGPD |
+| Équipe Vercel | Je suis **Owner** de l'équipe Vercel de la société, avec double authentification. **Plan Pro** : l'usage commercial est interdit sur le plan gratuit (Hobby). Projet relié au dépôt GitHub, région des fonctions **Frankfurt (fra1)**, au plus près de la base Supabase. Intégration officielle Vercel ↔ Supabase pour les variables d'environnement |
+| Nom de domaine | Titulaire = la société (vérifier au registre EURid), compte du registrar à mon nom ou à celui de la société ; DNS accessible |
+| Envoi d'emails | Fournisseur SMTP de la société (Resend, Brevo, Postmark…) branché sur Supabase Auth (« Custom SMTP ») et sur les fonctions. L'envoi intégré de Supabase est limité et réservé aux tests. Domaine vérifié : SPF, DKIM, DMARC |
+| Coffre de mots de passe partagé | Bitwarden, 1Password ou équivalent, dont je suis administratrice |
+| Clé API de traduction | Pour la traduction automatique FR/EN/NL : clé de la société, rangée dans les secrets Supabase |
+| Supervision | Disponibilité et erreurs ; alertes vers une adresse partagée et vers moi |
+
+Avant d'écrire du code, **vérifie dans les documentations officielles de Supabase et de Vercel** (supabase.com/docs, vercel.com/docs) l'état actuel des fonctions dont tu dépends :
+- **Supabase** : MFA, Auth Hooks, SMTP personnalisé, Storage, pg_cron, branching, sauvegardes et PITR, prix ;
+- **Vercel** : limites de durée et de taille des fonctions, Cron Jobs, intégration Supabase, prix.
+
+Ce que tu sais peut être dépassé. Note ce que tu as vérifié, avec la date, dans `docs/decisions/0001-vercel-supabase.md`.
 
 Pose-moi ensuite ces questions, une fois, et note les réponses dans `docs/decisions/` :
 
-1. Hébergeur. Propose 2 ou 3 options UE avec leur coût mensuel estimé, et ta recommandation ; par défaut, une plateforme managée qui déploie une image Docker.
+1. Le domaine pointe-t-il vers Vercel (recommandé) ? Qui a accès au DNS ?
 2. A-t-on obtenu du développeur actuel un export de la base et des fichiers ? Sinon, la migration se fera par l'API du site actuel (phase 9).
 3. Nom de domaine de recette (ex. `beta.<domaine>`) et date visée pour la bascule.
 4. Le Portfolio Builder (pb.invest-law.eu) reste-t-il une application externe, intégrée par URL configurable, ou est-il reconstruit plus tard ? Par défaut : URL configurable, et une phase ultérieure facultative.
+5. Les adresses email des 3 comptes de la section 3 bis : compte mère, gestionnaire, Data.
+
+### 3 bis. Les trois niveaux d'accès (exigence centrale)
+
+Il y a trois niveaux. Le site doit les distinguer clairement, et les documenter dans `docs/ACCES.md` : qui détient quoi, comment le récupérer, comment le transmettre.
+
+**Niveau 1 : comptes d'infrastructure (le vrai « compte mère »).** Owner de l'organisation GitHub, Owner de l'équipe Vercel, Owner de l'organisation Supabase, compte du registrar du domaine, compte du fournisseur d'emails. Qui les détient peut tout faire, y compris lire et restaurer la base. Au moins 2 personnes de l'organisation, dont moi. **Jamais** de compte au nom d'un prestataire ; un prestataire reçoit au plus un accès « membre » révocable.
+
+**Niveau 2 : rôles dans le site.**
+
+| Rôle | Pour qui | Droits |
+|---|---|---|
+| **Administrateur** (compte mère applicatif) | moi + 1 suppléant | **toutes** les permissions, y compris : gérer tous les utilisateurs et tous les rôles, modifier la matrice des permissions, paramètres, modèles d'emails, journal d'audit, export complet, publication des nouvelles, documentation, jetons d'API. Ce rôle remplace le super-administrateur codé en dur de l'ancien site |
+| **Responsable** (gestionnaire) | direction, équipe commerciale | admin des utilisateurs Courtier et Maison, activité et relances, import VNI, tout le contenu ; pas la matrice des permissions ni l'export complet, sauf si l'Administrateur les lui donne |
+| **Data** | équipe données | fonds, VNI, rapports, benchmarks, maisons, banques, commentaires, nouvelles, documentation |
+| **Maison** | une maison de gestion | sa fiche, ses fonds, ses nouvelles (soumises à validation) |
+| **Courtier** | clients | lecture, sa sélection, ses simulations |
+
+**Garde-fous du rôle Administrateur :**
+- Le site refuse de retirer ou désactiver le **dernier** Administrateur.
+- La double authentification est **obligatoire** pour les rôles Administrateur et Responsable.
+- Une procédure de secours écrite dans `docs/ACCES.md` permet, depuis le tableau de bord Supabase (niveau 1), de redonner le rôle Administrateur à un compte. Elle sert si tous les Administrateurs ont perdu leur accès.
+
+**Mode « Voir comme ».** Un Administrateur peut voir le site exactement comme un utilisateur ou un rôle donné, **en lecture seule** et tracé dans le journal d'audit. Cela permet de vérifier ce que voit un gestionnaire, une Maison ou un Courtier sans emprunter son mot de passe.
+
+**Niveau 3 : comptes d'automatisation.** Les jetons d'API (routines Claude, scripts) appartiennent à un utilisateur et ont un sous-ensemble de ses droits. Exemple : un jeton « routine VNI » limité à `nav.import`. Ils sont créés, listés et révoqués par l'Administrateur.
+
+Dès la phase 2, crée mes 3 comptes de test : Administrateur, Responsable et Data. Je dois pouvoir me connecter avec chacun et constater la différence.
 
 ### 4. Choix techniques imposés (sauf objection argumentée de ta part)
 
 - **Un seul dépôt, un seul langage** : TypeScript partout.
-- **Application** : Next.js (App Router), avec des routes API JSON sous `/api`. Interface en React + Tailwind CSS ; composants accessibles (shadcn/ui ou équivalent).
+- **Tout passe par GitHub.** Aucun déploiement depuis un poste (`vercel deploy` interdit), aucune modification de schéma dans le tableau de bord Supabase.
+  - Vercel est relié au dépôt : chaque demande de fusion produit un aperçu ; la fusion dans `staging` met à jour la recette ; la fusion dans `main` met à jour la production.
+  - Les migrations Supabase et les autres déploiements sont lancés par GitHub Actions.
+  - Revenir en arrière = revenir à un commit précédent dans GitHub, ou utiliser « Instant Rollback » dans Vercel, puis le noter dans le dépôt.
+- **Application** : Next.js (App Router), hébergée sur **Vercel**. Les routes API JSON sont sous `/api`, sur le même domaine que le site : la compatibilité avec l'ancienne API reste donc possible. Interface en React + Tailwind CSS ; composants accessibles (shadcn/ui ou équivalent).
 - **Graphiques** : une librairie standard (Recharts ou ECharts), pas de SVG fait à la main.
-- **Base de données** : PostgreSQL. ORM avec migrations versionnées (Drizzle ou Prisma). Toutes les dates métier (VNI, rapports, création) en type `date`, **jamais en timestamp** : c'est la cause probable du décalage d'un jour sur l'ancien site.
-- **Fichiers** : stockage S3 privé ; téléchargement via URL signées de courte durée générées après contrôle des droits. Les images (logos, avatars, photos) vont aussi dans le stockage, pas en base64 en base.
-- **Authentification** : email + mot de passe (hachage argon2id), puis code à 6 chiffres par email (validité 10 min, 5 essais maximum, limitation de débit). Sessions en base, cookie `HttpOnly`, `Secure`, `SameSite=Lax`, durée configurable (7 jours par défaut). Parcours « mot de passe oublié » et invitation par lien à usage unique. La bibliothèque d'authentification doit être open source et auto-hébergée, pas un service tiers obligatoire.
-- **Jetons d'API** pour l'automatisation : un administrateur crée des jetons nominatifs, avec des droits limités, une date d'expiration et la possibilité de les révoquer. Ils permettent aux scripts et routines de l'équipe d'appeler l'API sans code email.
-- **Emails** : via un fournisseur SMTP ou API standard, interchangeable par configuration. Modèles éditables en admin.
+- **Base de données : Supabase PostgreSQL.**
+  - Schéma géré **uniquement** par des migrations SQL versionnées dans `supabase/migrations/` (Supabase CLI). **Aucune modification de schéma à la main** dans le tableau de bord : tout ce qui n'est pas dans le dépôt n'existe pas.
+  - Accès aux données côté serveur : client Supabase, ou un ORM typé (Drizzle) branché sur la base Supabase. Choisis, et écris ton choix dans une note de décision.
+  - Toutes les dates métier (VNI, rapports, création) en type `date`, **jamais en timestamp** : c'est la cause probable du décalage d'un jour sur l'ancien site.
+- **Droits : double protection.**
+  1. Contrôle des permissions dans chaque route `/api` (middleware commun).
+  2. **Row Level Security (RLS) activée sur toutes les tables**, avec des politiques qui reflètent la matrice des permissions. Même une requête directe à Supabase avec la clé publique ne voit que ce qu'elle a le droit de voir.
+  - La clé `service_role` (qui contourne la RLS) n'est utilisée que côté serveur, jamais exposée au navigateur, et seulement là où c'est justifié et commenté.
+  - Tests automatiques des politiques RLS pour chaque rôle.
+- **Fichiers : Supabase Storage**, buckets **privés** (rapports, documents de banque, logos, avatars, images des nouvelles). Téléchargement par URL signées de courte durée, générées après contrôle des droits. Plus d'images en base64 en base.
+- **Authentification : Supabase Auth**, sans recoder un système maison.
+  - Email + mot de passe (12 caractères au moins), invitations, mot de passe oublié, changement d'email.
+  - Deuxième facteur : **MFA par application d'authentification (TOTP)**, native dans Supabase, obligatoire pour Administrateur et Responsable, proposée aux autres. Si l'équipe préfère garder le code à 6 chiffres par email comme sur l'ancien site, vérifie ce que Supabase permet (Auth Hooks, OTP par email) et propose la solution la plus simple à maintenir.
+  - Emails d'authentification envoyés par le SMTP de la société, avec des modèles en FR/EN/NL.
+  - Le rôle et la maison de chaque utilisateur sont stockés dans une table `profiles` liée à `auth.users`, lisible par les politiques RLS.
+- **Jetons d'API** pour l'automatisation : un Administrateur crée des jetons nominatifs, avec des droits limités, une date d'expiration et la possibilité de les révoquer. Ils sont stockés hachés et acceptés par les routes `/api` via l'en-tête `Authorization: Bearer`. Ils permettent aux scripts et routines de l'équipe d'appeler l'API sans code email.
+- **Emails** : fournisseur SMTP ou API de la société, interchangeable par configuration. Modèles éditables en admin.
 - **Traduction automatique** : derrière une interface interne (`translate(text, from, to)`), fournisseur interchangeable par configuration.
-- **Conteneur** : `Dockerfile` et `docker-compose.yml` (application, PostgreSQL et un service compatible S3 type MinIO), pour lancer tout le site en local avec une commande.
-- **Qualité** : ESLint, Prettier, TypeScript strict. Tests unitaires (Vitest), tests d'API, et tests de bout en bout (Playwright) pour les parcours clés. Intégration continue GitHub Actions : lint, typage, tests, build, à chaque demande de fusion.
-- **Environnements** : local, recette (staging) et production. Déploiement automatique de la recette à chaque fusion ; mise en production par un tag ou un bouton manuel.
-- **Sécurité** : en-têtes équivalents à l'actuel (CSP stricte, HSTS, X-Frame-Options, nosniff). Contrôle des droits **côté serveur sur chaque route** ; l'interface ne fait que masquer. Validation de toutes les entrées (Zod). Protection CSRF. Journal d'audit.
+- **Tâches planifiées** (imports VNI automatiques, export hebdomadaire, alertes de fraîcheur) : Vercel Cron Jobs ou `pg_cron` de Supabase, à choisir dans une note de décision. Chaque exécution est journalisée et visible en admin.
+- **Traitements lourds** (import de 600 000 VNI, conversion DOCX→HTML, migration) : respecter les limites de durée des fonctions Vercel en traitant par lots, ou via un script en ligne de commande (`npm run …`) lancé localement ou par GitHub Actions.
+- **Local** : `supabase start` (Supabase complet en local avec Docker) + `npm run dev`. Un `README` permet de tout lancer en moins de 10 minutes. Jeu de données de démonstration (`supabase/seed.sql`) sans données réelles.
+- **Qualité** : ESLint, Prettier, TypeScript strict. Tests unitaires (Vitest), tests d'API et de RLS, et tests de bout en bout (Playwright) pour les parcours clés. Intégration continue GitHub Actions : lint, typage, tests, build, à chaque demande de fusion.
+- **Environnements** :
+  - **Production** : projet Supabase `prod` + domaine de production Vercel ;
+  - **Recette** : projet Supabase `staging` + déploiement Vercel de la branche `staging` (ou les « Preview Deployments » branchés sur `staging`) ;
+  - **Local** : Supabase local.
+  - Migrations appliquées automatiquement à la recette par GitHub Actions (`supabase db push`), puis à la production après mon accord (workflow manuel). Les variables d'environnement de chaque environnement sont dans Vercel et listées, sans leurs valeurs, dans `.env.example`.
+- **Sécurité** : en-têtes équivalents à l'actuel (CSP stricte, HSTS, X-Frame-Options, nosniff), définis dans `next.config` ou `vercel.json`. Validation de toutes les entrées (Zod). Protection CSRF sur les routes à cookie. Journal d'audit.
+- **Réversibilité** : tout reste du standard (PostgreSQL, fichiers, Next.js). Documente dans `docs/RUNBOOK.md` comment déplacer la base hors de Supabase (`pg_dump`) et l'application hors de Vercel (`next build` dans un conteneur) si un jour c'est nécessaire.
 
 ### 5. Modèle de données (à affiner, puis à documenter dans `docs/modele-donnees.md`)
 
 Toute table a un `id`, `created_at`, `updated_at`, `created_by` et `updated_by`.
 
 - **Accès et paramétrage** :
-  - `users` : email unique, nom, téléphone, mobile, rôle, maison_id (si rôle Maison), langue (FR/EN/NL), actif, date de validité, plan_id, statut de paiement, avatar, hachage du mot de passe, dernière connexion ;
+  - `auth.users` (géré par Supabase Auth : email, mot de passe, MFA, dernière connexion) et `profiles` (même id) : nom, téléphone, mobile, rôle, maison_id (si rôle Maison), langue (FR/EN/NL), actif, date de validité, plan_id, statut de paiement, avatar ;
   - `roles` et `role_permissions` : les permissions sont des codes (ex. `funds.edit`, `news.publish`, `users.manage_staff`, `nav.import`, `docs.manage`, `audit.read`). La matrice rôle → permissions est **éditable en admin**. Il n'y a **aucune adresse email codée en dur** : le « super-administrateur » actuel devient une permission ;
-  - `sessions`, `login_codes`, `api_tokens` (hachés), `invitations` ;
+  - `api_tokens` (hachés). Sessions, codes et invitations sont gérés par Supabase Auth ;
   - `plans` ;
   - `settings` (clé → valeur JSON, éditable en admin) : URL agenda, URL et activation du Portfolio Builder, modification d'email autorisée, durée de session, expéditeur des emails, mentions légales, etc. ;
   - `email_templates` : par type et par langue (code de connexion, invitation, relance d'activité…) ;
@@ -113,20 +186,21 @@ Toute table a un `id`, `created_at`, `updated_at`, `created_by` et `updated_by`.
 ### 6. Phases (une demande de fusion au moins par phase ; ne passe à la suivante qu'avec ses critères validés)
 
 **Phase 1 : socle.**
-- Squelette Next.js + TypeScript + Tailwind + ORM ; Docker compose ; intégration continue ; `README.md` (lancer en local en moins de 10 minutes) ; `CLAUDE.md` (conventions, commandes, règles de ce prompt résumées).
+- Squelette Next.js + TypeScript + Tailwind ; dossier `supabase/` (configuration, migrations, seed) ; projets Vercel et Supabase reliés au dépôt ; intégration continue ; `README.md` (lancer en local en moins de 10 minutes) ; `CLAUDE.md` (conventions, commandes, règles de ce prompt résumées).
 - Mise en page commune :
   - barre latérale de 250 px avec sections INVEST et LAW ;
   - tiroir mobile sous 900 px ;
   - avatar en haut à droite ;
   - charte de l'annexe B.15 en variables CSS (thème modifiable en un seul fichier).
 - Internationalisation FR/EN/NL : fichiers de traduction, aucun texte en dur dans les composants.
-- *Critère* : `docker compose up` affiche une page d'accueil vide traduite ; l'intégration continue est verte.
+- *Critère* : `supabase start` + `npm run dev` affichent une page d'accueil vide traduite ; la recette Vercel est en ligne et se met à jour à chaque fusion ; l'intégration continue est verte.
 
 **Phase 2 : comptes, rôles, sécurité.**
 - Connexion en deux étapes, déconnexion, mot de passe oublié, invitation, paramètres du compte (annexe B.10).
 - Permissions configurables en base, middleware de contrôle sur chaque route, journal d'audit, jetons d'API.
 - Écran Admin > Utilisateurs (annexe B.11) et Admin > Rôles et permissions.
-- Script `npm run create-admin` pour créer le premier administrateur sans passer par l'interface.
+- Script `npm run create-admin` pour créer le premier Administrateur sans passer par l'interface ; procédure de secours (section 3 bis) écrite et testée.
+- Création de mes 3 comptes de test (Administrateur, Responsable, Data) sur la recette ; mode « Voir comme » ; refus de supprimer le dernier Administrateur ; double authentification obligatoire pour Administrateur et Responsable.
 - *Critère* : des tests prouvent qu'un Courtier ne peut appeler aucune route d'écriture, qu'une Maison ne voit et ne modifie que sa maison, ses fonds et ses nouvelles, et qu'un jeton révoqué est refusé.
 
 **Phase 3 : référentiels.**
@@ -165,7 +239,7 @@ Toute table a un `id`, `created_at`, `updated_at`, `created_by` et `updated_by`.
   - les référentiels, maisons et leurs contacts, banques et leurs documents, benchmarks et leurs valeurs ;
   - les fonds, leurs allocations et commentaires ;
   - les VNI (environ 620 000 ; par lots) ;
-  - les rapports : téléchargement de chaque PDF, vérification de l'en-tête `%PDF`, empreinte, envoi dans le nouveau stockage ;
+  - les rapports : téléchargement de chaque PDF, vérification de l'en-tête `%PDF`, empreinte, envoi dans Supabase Storage (bucket privé) ;
   - les nouvelles et leurs images, la documentation.
 - **Utilisateurs** : les mots de passe ne sont pas récupérables. On crée les comptes (même email, rôle, maison, langue), puis on envoie une **invitation** à définir un nouveau mot de passe, seulement le jour de la bascule et après mon accord.
 - **Corrections pendant la migration** :
@@ -203,7 +277,8 @@ Toute table a un `id`, `created_at`, `updated_at`, `created_by` et `updated_by`.
 - `docs/ARCHITECTURE.md` : un schéma, les dossiers du code, le chemin d'une requête, où ajouter une fonctionnalité.
 - `docs/FAIRE-EVOLUER-AVEC-CLAUDE.md` : comment demander une évolution à Claude Code sur ce dépôt (ouvrir une session, décrire le besoin, relire la demande de fusion, tester en recette, mettre en production), avec 3 exemples concrets.
 - Une compétence `.claude/skills/<nom>/SKILL.md` qui décrit l'API et les tâches courantes (fiche, VNI, rapports), pour que les sessions Claude de l'équipe travaillent sur le nouveau site comme sur l'ancien, mais avec un jeton d'API au lieu du code email.
-- Sauvegardes : quotidiennes pour la base, versionnage du bucket pour les fichiers, export complet hebdomadaire vers un second emplacement appartenant à l'organisation.
+- `docs/ACCES.md` : les trois niveaux d'accès de la section 3 bis, qui détient quoi, et comment transmettre ou retirer un accès (arrivée ou départ d'une personne, fin de mission d'un prestataire).
+- Sauvegardes : sauvegardes quotidiennes Supabase (plus PITR si le budget le permet) ; export complet hebdomadaire (`pg_dump` + fichiers du Storage) par GitHub Actions vers un second emplacement appartenant à l'organisation, hors Supabase.
 
 ### 7. Définition de « terminé »
 
@@ -218,7 +293,8 @@ Toute table a un `id`, `created_at`, `updated_at`, `created_by` et `updated_by`.
    - corriger une VNI ;
    - exporter toutes les données.
 5. Une restauration de sauvegarde a été testée.
-6. Aucun compte, secret ou droit d'administration ne dépend d'une seule personne.
+6. Je me suis connectée avec les comptes Administrateur, Responsable et Data, et je suis Owner sur GitHub, Vercel et Supabase.
+7. Aucun compte, secret ou droit d'administration ne dépend d'une seule personne.
 
 ---
 
@@ -239,7 +315,7 @@ Toute table a un `id`, `created_at`, `updated_at`, `created_by` et `updated_by`.
 
 ### B.0 Rôles et droits actuels
 
-Quatre rôles : `Responsable`, `Data`, `Maison`, `Courtier`. Plus un super-administrateur codé en dur par email, à remplacer par des permissions.
+Quatre rôles : `Responsable`, `Data`, `Maison`, `Courtier`, plus un super-administrateur codé en dur par email. Dans le nouveau site, ce super-administrateur devient le rôle **Administrateur** (section 3 bis), qui a tous les droits du tableau ci-dessous plus ceux notés « permission ».
 
 | Fonction | Responsable | Data | Maison | Courtier |
 |---|---|---|---|---|
