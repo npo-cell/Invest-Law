@@ -260,5 +260,54 @@
     "note": "factsheet p.1 « Actif net du fonds 480.34 M€ », rapport mensuel « 08-2026 » (date factsheet 31/08/2026)"
    }
   }
+ },
+ {
+  "isin": "LU1582988058",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Notation moyenne de crédit1 AA- »"
+   }
+  }
+ },
+ {
+  "isin": "LU1670631016",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Notation moyenne de crédit1 BBB- »"
+   }
+  }
+ },
+ {
+  "isin": "LU0308864023",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « INVESTMENT UNIVERSE AND INVESTMENT OBJECTIVE » : les 5 phrases de politique sont reprises mot pour mot ; mais la case contient en plus des passages hors politique copiés de la même factsheet (légende SRI, avertissement « Historical performance… », tableau « Cumulative performance… 2.20 % … 6.31 % », titre « ANNUAL PERFORMANCE IN EUR, ROLLING ») : texte à nettoyer"
+   }
+  }
+ },
+ {
+  "isin": "FR0000299356",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net du fonds 282.73 M€ », rapport mensuel « 09-2026 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 principales positions « SKANDINAVISK.ENSKILD.BANKEN-A- Suède Finance 3.6% » (libellé sur deux lignes)"
+  }
+ },
+ {
+  "isin": "LU1171478784",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "KID (pas de factsheet) p.3 « La catégorie d'actions représentée a été lancée le 31. mars 2015 »"
+   }
+  }
  }
 ]

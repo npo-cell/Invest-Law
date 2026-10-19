@@ -294,5 +294,93 @@
     "note": "factsheet p.1 « Encours du compartiment 387 036 017 € » (arrondi 387,04 M)"
    }
   }
+ },
+ {
+  "isin": "LU0431139764",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 « Chiffres clés du portefeuille obligataire » : « Notation moyenne BBB+ à A- » (30.09.2026)"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531785",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet (rapport au 31/08/26) « Actifs nets du fonds $ 20 786 434,07 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « Valeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612530977",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet (31/08/26) « Actifs nets du fonds 14 863 708,73 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « …géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612532759",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet (31/08/26) « Actifs nets du fonds 118 764 707,00 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « …géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU0945616984",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (rapport au 31/08/26, lu sur l’image) « Actifs nets du fonds 27 176 717,68 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Le Compartiment est géré activement… sans référence à un indice » ; KID « Le compartiment fait l’objet d’une gestion active »"
+   }
+  }
+ },
+ {
+  "isin": "LU2736456596",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « L’univers d’investissement initial du compartiment est l’indice MSCI World NR EUR… Le compartiment est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU2059537873",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (rapport au 31/08/26, lu sur l’image) « Actifs nets du fonds 54 393 940,66 € »"
+   }
+  }
+ },
+ {
+  "isin": "LU1697917083",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet « gestion active sans considération d’un indice de référence » ; KID « sans utiliser une valeur de référence (benchmark) »"
+   }
+  }
  }
 ]
