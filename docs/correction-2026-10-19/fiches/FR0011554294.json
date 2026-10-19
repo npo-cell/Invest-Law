@@ -1,0 +1,188 @@
+{
+ "n": "624",
+ "isin": "FR0011554294",
+ "nom": "INVESTCORE BOND OPPORTUNITIES C EUR",
+ "maison": "ALIENOR CAPITAL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-18",
+ "date_creation": "2013-11-04",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "Fonds Commun de Placement (FCP) de droit français",
+ "gerants": "Sébastien Gouabau",
+ "encours_millions": "24.71",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.15",
+ "frais_courants": "1.35",
+ "sri": "2",
+ "indice": "€STR +2,5% capitalisé",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "5.44 (sensibilité)",
+ "qualite_emetteurs": "BB+",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Principaux risques liés à l’investissement : risque de perte en capital, risque lié à la gestion discrétionnaire, risque de crédit, risque de taux, risque sectoriel, risque actions et risque de change.",
+ "politique_fr": "Investcore Bond Opportunities est un fonds obligataire opportuniste dont l’objectif est de surperformer l’indice de référence €STR +2,5% capitalisé, en recherchant principalement la performance des marchés de taux, à partir d’une stratégie principale de portage",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nouveaux documents trouvés sur alienorcapital.com et rangés dans INVESTLAW : factsheet (« Rapport mensuel ») du 30/09/2026 et KID « Part C » du 18/06/2026 (remplace celui du 10/02/2025). La factsheet écrit « Code ISIN : FR0011554294 (Part A) » mais les performances et les frais sont ceux de la « Part C » ; le KID confirme « Investcore Bond Opportunities – Part C, Code ISIN : FR0011554294 ». Corrigé : encours 24.1 → 24.71 (« Actif net du fonds 24,71 M€ ») ; duration 3.71 → 5.44 (sensibilité) ; qualité → BB+ ; indice « €STR capitalisé + 2,5% » → libellé de l'objectif (« €STR +2,5% capitalisé ») ; frais courants 1.35 désormais sourcés au KID ; compartiment → libellé du KID ; politique = phrase de présentation de la factsheet (objectif et stratégie). Date de création = « Date de lancement : 4 novembre 2013 » (date du fonds ; mutation le 06/01/2020). Frais : « Frais de gestion max. : 1,15 % TTC (Part C) » (taux maximum) + « Frais de fonctionnement : 0,2% » ; KID « 1,35% » ; commission de performance 10 % au-delà de l'€STR capitalisé +2,5 %. Duration = « Sensibilité 5,44 » (sensibilité nette ; sensibilité obligataire 3,64, dérivés 1,80). Qualité = « BB+ (HY) Notation moyenne Alienor ». SRI 2 (KID). SFDR article 8 (factsheet et KID). Allocations : notations et maturités lues sur les graphiques, « Instruments » = vue éclatée du portefeuille (vérifiés sur l'image de la page 2) ; « Positions » = principales lignes de chaque poche (et non un top 10 global).",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "KID",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Notations",
+   "libelle": "BBB+",
+   "pct": "5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB-",
+   "pct": "27"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB+",
+   "pct": "25"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "20"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB-",
+   "pct": "10"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B+",
+   "pct": "3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 1 an et < 3 ans",
+   "pct": "24"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 3 ans et < 6 ans",
+   "pct": "64"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 6 ans",
+   "pct": "9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations Court Terme",
+   "pct": "27"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations Corporate Moyen Terme",
+   "pct": "32"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations Hybrides Moyen Terme",
+   "pct": "26"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligation Perpétuelle",
+   "pct": "9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Monétaire",
+   "pct": "6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RENAULT PERP.",
+   "pct": "9.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CLARIANE 2031",
+   "pct": "4.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROQUETTE FRERE CALL 2032",
+   "pct": "4.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDF CALL 2031",
+   "pct": "3.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LA FONCIERE VERTE 2030",
+   "pct": "3.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SOFTBANK 2032",
+   "pct": "3.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "STELLANTIS CALL 2033",
+   "pct": "2.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VILMORIN 2028",
+   "pct": "1.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDF CALL 2028",
+   "pct": "1.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROFINS CALL 2028",
+   "pct": "1.68"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0011554294/FR0011554294__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0011554294/FR0011554294__KID_FR_2026-06-18.pdf"
+}

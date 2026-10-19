@@ -1,0 +1,103 @@
+{
+ "n": "394",
+ "isin": "LU0212925753",
+ "nom": "BGF GLOBAL ALLOCATION A2 EUR HEDGED",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-17",
+ "date_creation": "2005-04-22",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs international",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Rick Rieder, Russ Koesterich",
+ "encours_millions": "19132.01",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.78",
+ "sri": "3",
+ "indice": "l’indice S&P 500 (36 %), de l’indice FTSE World (ex-US) (24 %), de l’indice ICE BofAML Current 5 Yr US Treasury Index (24 %) et de l’indice FTSE Non-USD World Government Bond Index (16 %)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "1.14 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % de ses actifs totaux dans des titres de participation (p. ex. actions) et des titres à revenu fixe (RF) dans des conditions de marché normales. Les titres RF comprennent des obligations et des instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte). Il peut également détenir des dépôts et des liquidités. Sous réserve de ce qui précède, les catégories d’actifs et le niveau d’investissement du Fonds dans ces catégories peuvent varier sans limite en fonction des conditions de marché.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026), part A2 couverte EUR. Date de création : « Date de lancement de la Catégorie d'Actions : 22-avr.-2005 » (fonds : 03-janv.-1997). Encours « Encours sous gestion (M) : 19.132,01 USD » (fonds). Frais : « Commission de gestion annuelle : 1,50% » ; frais courants 1,78 % (KID du 17/09/2026 ; la factsheet écrit « Frais courants : 1,77% »). Indice : indice composite pris en considération pour la construction du portefeuille et la gestion des risques (KID) ; la factsheet l'écrit en code « Contrainte 1 : 36SP500 24FWXUS 24ML5 16FWGBIX Index » ; libellé du KID repris tel quel ; FTSE World Index et FTSE World Government Bond Index ne sont que des comparateurs. Duration : « Duration effective : 1,14 ans » (revenu fixe seul : 5,38 ans). SFDR : « Classification SFDR : Autre » : vide. Classification Equilibré : multi-actifs mondial (SRI 3). Allocations : 10 principales positions en actions (types d'actifs, régions et devises sont des graphiques sans valeurs dans le texte). Corrigé : encours 19371.83 → 19132.01 USD (factsheet 30/09/2026) ; duration 1.42 → 1.14 ; indice repris du KID ; classification Equilibré ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__KID_FR_2026-09-17.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "duration": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "APPLE",
+   "pct": "2.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA",
+   "pct": "2.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT",
+   "pct": "1.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET CLASS C",
+   "pct": "1.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "1.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+   "pct": "1.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ELI LILLY",
+   "pct": "1.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "1.06"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS CLASS A",
+   "pct": "0.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING",
+   "pct": "0.87"
+  }
+ ]
+}
