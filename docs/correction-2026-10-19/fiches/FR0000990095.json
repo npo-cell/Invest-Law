@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "MSCI EMU SMID Cap (NR)",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Equity Europe Sm&Mid Cap",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nODDO BHF Avenir Euro est un fonds actions de la zone euro investi dans des sociétés de moyennes et petites capitalisations, avec maximum 10% dans des sociétés domiciliées en dehors des pays de la zone euro. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne des sociétés parmi les plus performantes selon nous au sein de la zone euro, cycliques ou non cycliques, qui ont souvent un rayonnement international, à un prix jugé potentiellement attractif eu égard à leurs perspectives à long terme.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : indice « MSCI EMU SMID NR EUR » → « MSCI EMU SMID Cap (NR) » (nom de la factsheet ; KID : objectif de surperformer « MSCI EMU SMID CAP (Net Return) ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : FCP). Encours 220 M€ inchangé (« Actif net du fonds 220 M€ », factsheet 30/09/2026). Date de création : « Date de création de la part (1ère VL) 30/12/1998 » (fonds créé le 19/09/1985). Frais : « Frais de gestion fixes 2.00 % TTC max » (taux maximum) ; frais courants KID 27/08/2026 2,16 % (factsheet 2.16 %). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 12,8% » est lisible).",
+ "remarques": "Corrigé : indice « MSCI EMU SMID NR EUR » → « MSCI EMU SMID Cap (NR) » (nom de la factsheet ; KID : objectif de surperformer « MSCI EMU SMID CAP (Net Return) ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : FCP). Encours 220 M€ inchangé (« Actif net du fonds 220 M€ », factsheet 30/09/2026). Date de création : « Date de création de la part (1ère VL) 30/12/1998 » (fonds créé le 19/09/1985). Frais : « Frais de gestion fixes 2.00 % TTC max » (taux maximum) ; frais courants KID 27/08/2026 2,16 % (factsheet 2.16 %). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 12,8% » est lisible). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__KID_FR_2026-08-27.pdf",
  "sources": {

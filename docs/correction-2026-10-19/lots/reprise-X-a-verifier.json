@@ -1,0 +1,458 @@
+[
+ {
+  "n": 357,
+  "isin": "LU1997245177",
+  "nom": "ALLIANZ CHINA A-SHARES AT USD",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__KID_FR_2026-09-22.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__KID_FR_2026-09-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1997245177__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-10-23",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Shao Ping Guan",
+   "encours": "3161.79",
+   "frais_gestion": "2.25",
+   "frais_courants": "2.3",
+   "sri": "5",
+   "indice": "MSCI China A Onshore Total Return Net (USD)",
+   "classification": "Dynamique",
+   "categorie": "Equity China",
+   "sfdr": "8",
+   "politique_fr": "Le fonds se concentre sur les actions de sociétés domiciliées en Chine qui sont cotées en actions A sur les bourses de Shanghai ou de Shenzhen. Les aspects liés à la durabilité sont pris en compte par les gérants du fonds.\n\nLe fonds peut investir jusqu’à 20 % de ses actifs dans d’autres actions de sociétés qui sont domiciliées en Chine ou qui y génèrent une part prédominante de leurs bénéfices. L’",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 362,
+  "isin": "FR0010785865",
+  "nom": "ALLIANZ SECURICASH SRI RC EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__KID_FR_2026-04-16.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010785865__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "duration": {
+    "verdict": "DIFFERENT",
+    "document": "0,12",
+    "note": "factsheet p.2 : « Duration eff. incl. liquid. & dériv. 0,12 »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2003-06-09",
+   "devise": "EUR",
+   "type_fonds": "Taux",
+   "gerants": "Ali Ozenici, Guillaume Zilliox",
+   "encours": "106.42",
+   "frais_gestion": "0.15",
+   "frais_courants": "0.15",
+   "sri": "1",
+   "indice": "€ STR",
+   "classification": "Dynamique",
+   "categorie": "Money Market Europe",
+   "sfdr": "8",
+   "duration": "0.14",
+   "qualite": "A+ (notation moyenne)",
+   "politique_fr": "L’objectif du fonds commun de placement est de fournir une performance nette équivalente ou supérieure à l’indice €STR (indice du marché monétaire européen) sur la période d’investissement recommandée en utilisant des critères financiers et extra-financiers (critères socialement responsables).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 360,
+  "isin": "LU1981791327",
+  "nom": "ALLIANZ GLOBAL INVESTORS THEMATICA AT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__KID_FR_2026-05-11.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__KID_FR_2026-05-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1981791327__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-05-02",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Andreas Fruschki",
+   "encours": "2637.5",
+   "frais_gestion": "1.9",
+   "frais_courants": "1.95",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Le fonds investit principalement sur les marchés d’actions mondiaux pour construire un portefeuille diversifié avec une orientation sur la sélection de thèmes, de secteurs et de titres. L’exposition aux marchés émergents est limitée à 50 %, tandis que les obligations convertibles ne peuvent dépasser 15 % des actifs du fonds. Son objectif d’investissement consiste à générer une appréciation du capi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 361,
+  "isin": "LU1481687926",
+  "nom": "ALLIANZ MULTI ASSET L/S AT H2 EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__KID_FR_2026-04-16.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1481687926__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-11-15",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Claudio Marsala",
+   "encours": "125.34",
+   "frais_gestion": "1.75",
+   "frais_courants": "1.8",
+   "sri": "3",
+   "indice": "SOFR (couvert en EUR)",
+   "classification": "Dynamique",
+   "categorie": "Alternative Global Multi Strategies",
+   "duration": "-5.36",
+   "qualite": "AAA (notation moyenne des obligations)",
+   "politique_en": "The fund aims at generating capital growth over the long term and superior risk-adjusted returns throughout the market cycle. To this end it follows a long/short strategy in a variety of asset classes including, equities, bonds, commodities and currencies. Exposure to asset classes may be gained through derivatives as well as direct investments and other instruments.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 358,
+  "isin": "LU1594335520",
+  "nom": "ALLIANZ DYN MULTI ASSET STRAT 75 AT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__KID_FR_2026-08-10.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__KID_FR_2026-08-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1594335520__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-05-02",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Allianz Dynamic Multi Asset Strategy SRI 75 AT EUR",
+   "gerants": "Marcus Stahlhacke",
+   "encours": "6233.18",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.83",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "duration": "3.69",
+   "qualite": "AA- (notation moyenne des obligations)",
+   "politique_fr": "Le fonds investit dans une vaste gamme de catégories d'actifs, en se concentrant en particulier sur les actions et les obligations mondiales. L'équipe de gestion du fonds poursuit une stratégie d'investissement durable et responsable (« stratégie ISR »), qui tient compte de critères environnementaux, sociaux et de gouvernance. L'objectif du fonds est d'atteindre à moyen terme un rendement semblabl",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 359,
+  "isin": "LU1093406186",
+  "nom": "ALLIANZ DYNAMIC MULTI ASSET STRAT SRI 50 AT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__KID_FR_2026-04-16.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1093406186__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "document": "Allianz Dynamic Multi Asset Strategy SRI 50 AT (EUR)",
+    "note": "factsheet p.1 : « Allianz Dynamic Multi Asset Strategy SRI 50 », classe AT (EUR) ; « Allianz Strategy 50 NT » n'apparaît pas"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-09-03",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Allianz Strategy 50 NT EUR",
+   "gerants": "Marcus Stahlhacke",
+   "encours": "994.55",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.82",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "6.62",
+   "qualite": "A (notation moyenne des obligations)",
+   "politique_fr": "Le fonds investit dans une vaste gamme de catégories d'actifs, en se concentrant en particulier sur les actions et les obligations mondiales. L'équipe de gestion du fonds poursuit une stratégie d'investissement durable et responsable (« stratégie ISR »), qui tient compte de critères environnementaux, sociaux et de gouvernance. L'objectif du fonds est d'atteindre à moyen terme un rendement semblabl",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 409,
+  "isin": "LU0309191657",
+  "nom": "BL-EQUITIES DIVIDEND B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0309191657__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (145 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1,5 (145 EUR pour 10 000 EUR, soit 1,45 %)",
+    "note": "KID p.2 : « Frais de gestion et autres frais administratifs et d'exploitation 1,5% », 145 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-10-30",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Jérémie Fastnacht, Guy Wagner",
+   "encours": "507.06",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.44",
+   "sri": "3",
+   "indice": "MSCI ACWI NR EUR",
+   "categorie": "Equity Global Income",
+   "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des sociétés de qualité cotées sur les marchés boursiers mondiaux. Les sociétés sélectionnées bénéficient d’avantages compétitifs pérennes et offrent des dividendes attrayants, soutenables et en croissance. Le fonds vise à générer des rendements ajustés au risque supérieurs à ceux de son univers de référ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 852,
+  "isin": "LU1496475119",
+  "nom": "WATERLOO GLOBAL FLEXIBLE R EUR",
+  "maison": "Altum Management Company (Luxembourg) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/ALTUM_MANAGEMENT_COMPANY_LUXEMBOURG_S_A/LU1496475119/LU1496475119__KID_EN_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALTUM_MANAGEMENT_COMPANY_LUXEMBOURG_S_A/LU1496475119/LU1496475119__KID_EN_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-22."
+  }
+ },
+ {
+  "n": 815,
+  "isin": "LU0556665551",
+  "nom": "SMART VALUE INVESTORS EQUITY FLEXIBLE A EUR",
+  "maison": "Conventum Asset Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU0556665551/LU0556665551__KID_FR_2026-01-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CONVENTUM_ASSET_MANAGEMENT_S_A/LU0556665551/LU0556665551__KID_FR_2026-01-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0556665551__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé d'après le KID (51 % minimum en actions, 25 % matières premières, détention 8 ans...) ; absent du rapport semestriel"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Actions internationales flexibles (minimum 51 % actions)",
+   "compartiment": "Smart Value Investors (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "170.28",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.5",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Equity Global",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "SMART VALUE INVESTORS Equity Flexible est un compartiment de la SICAV luxembourgeoise SMART VALUE INVESTORS, organisme de placement collectif en valeurs mobilières (OPCVM). L'initiateur et la société de gestion est BLI, Banque de Luxembourg Investments, opérant sous le nom commercial Conventum Third Party Solutions ; la gestion d'investissement est déléguée à SMART PRIVATE MANAGERS (Luxembourg) S.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 819,
+  "isin": "FR0000016172",
+  "nom": "STRATEGIE RENDEMENT P EUR",
+  "maison": "APICIL ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/APICIL_ASSET_MANAGEMENT/FR0000016172/FR0000016172__KID_FR_2025-09-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/APICIL_ASSET_MANAGEMENT/FR0000016172/FR0000016172__KID_FR_2025-09-30.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-22."
+  }
+ }
+]

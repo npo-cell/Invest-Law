@@ -18,7 +18,7 @@
  "sri": "5",
  "indice": "MSCI World (NR) in EUR",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "9",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nODDO BHF Artificial Intelligence est un fonds thématique investi en actions mondiales utilisant l'intelligence artificielle en sus de l'analyse fondamentale dans le but de détecter les sous-thèmes les plus générateurs d'alpha et les entreprises innovantes liées au thème de l'intelligence artificielle. L'objectif d'investissement durable du fonds est de contribuer à la réduction des émissions de carbone et de saisir les opportunités découlant de la transition vers une économie bas carbone. Après la définition de l'univers d'investissement utilisant de l'intelligence artificielle, une analyse ESG et carbone réduit cet univers en fonction de l'objectif d'investissement durable du fonds. Le fonds est géré activement par l'équipe de gestion.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 1192 → 1180 USD (« Actif net du fonds 1 180 M$ », factsheet 30/09/2026) ; indice « MSCI World NR EUR » → « MSCI World (NR) in EUR » (nom de la factsheet ; KID : « géré activement par rapport à son indice de référence, MSCI World NR, qu'il vise à surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID). Date de création : « Date de création de la part (1ère VL) 14/01/2019 » (fonds : 19/12/2018). Frais : factsheet « Frais de gestion fixes : Taux annuel de 1.60% max » (taux maximum), « Frais de gestion et autres frais administratifs et d’exploitation 1.702 % » ; KID 1,70 %. SRI 5 et SFDR article 9 : KID (sur la factsheet, l’échelle de risque et la classification SFDR sont des pictogrammes). Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 5,1% » est lisible).",
+ "remarques": "Corrigé : encours 1192 → 1180 USD (« Actif net du fonds 1 180 M$ », factsheet 30/09/2026) ; indice « MSCI World NR EUR » → « MSCI World (NR) in EUR » (nom de la factsheet ; KID : « géré activement par rapport à son indice de référence, MSCI World NR, qu'il vise à surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID). Date de création : « Date de création de la part (1ère VL) 14/01/2019 » (fonds : 19/12/2018). Frais : factsheet « Frais de gestion fixes : Taux annuel de 1.60% max » (taux maximum), « Frais de gestion et autres frais administratifs et d’exploitation 1.702 % » ; KID 1,70 %. SRI 5 et SFDR article 9 : KID (sur la factsheet, l’échelle de risque et la classification SFDR sont des pictogrammes). Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 5,1% » est lisible). Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842267/LU1919842267__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1919842267/LU1919842267__KID_FR_2026-07-13.pdf",
  "sources": {

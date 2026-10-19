@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "",
  "classification": "Equilibré",
- "categorie": "",
+ "categorie": "Mixed Asset Global Balanced",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "2.87",
@@ -27,7 +27,7 @@
  "politique_fr": "Le Fonds vise à générer des revenus et une appréciation du capital sur le moyen à long terme, en investissant principalement dans une allocation flexible de titres de créance et d'actions mondiales.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR 30/09/2026 (part « A-Accumulation Shares », ISIN conforme). Corrigé : encours 2426.07 → 2355.98 (« Actifs nets totaux EUR 2 355,98 million », 30/09/2026) ; indice composite retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus) ; duration et qualité reprises de la factsheet. Date de création = « Date de lancement de la classe d'actions 12 novembre 2014 ». Frais : factsheet « Frais de gestion annuels 1,25% », « Frais courants 1,62% » ; KID « 1,62 % ». Indice vide : « L'indice de référence est présenté uniquement à des fins de comparaison des performances » (40% MSCI World Index (EUR hedged) (Net Total Return), 10% ICE BofA Global Corporate Index (EUR hedged) (Total Return), 40% ICE BofA Global High Yield Index (EUR hedged) (Total Return) et 10% J.P. Morgan EMBI Global Diversified Composite Index (Total Return)). Duration = « Duration moyenne pondérée 2,87 » (sans unité) ; qualité = « Notation de crédit moyenne BB+ ». SRI 3 (KID). SFDR article 8 (KID). Classification Equilibré : 35 à 65 % d'actions (51,2 %). Allocations : « Positions » = 5 principales participations obligataires puis 5 en actions ; « Classes d'actifs » = « Catégories d'investissement » ; secteurs de la poche actions (colonne « Fonds »).",
+ "remarques": "Factsheet FR 30/09/2026 (part « A-Accumulation Shares », ISIN conforme). Corrigé : encours 2426.07 → 2355.98 (« Actifs nets totaux EUR 2 355,98 million », 30/09/2026) ; indice composite retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus) ; duration et qualité reprises de la factsheet. Date de création = « Date de lancement de la classe d'actions 12 novembre 2014 ». Frais : factsheet « Frais de gestion annuels 1,25% », « Frais courants 1,62% » ; KID « 1,62 % ». Indice vide : « L'indice de référence est présenté uniquement à des fins de comparaison des performances » (40% MSCI World Index (EUR hedged) (Net Total Return), 10% ICE BofA Global Corporate Index (EUR hedged) (Total Return), 40% ICE BofA Global High Yield Index (EUR hedged) (Total Return) et 10% J.P. Morgan EMBI Global Diversified Composite Index (Total Return)). Duration = « Duration moyenne pondérée 2,87 » (sans unité) ; qualité = « Notation de crédit moyenne BB+ ». SRI 3 (KID). SFDR article 8 (KID). Classification Equilibré : 35 à 65 % d'actions (51,2 %). Allocations : « Positions » = 5 principales participations obligataires puis 5 en actions ; « Classes d'actifs » = « Catégories d'investissement » ; secteurs de la poche actions (colonne « Fonds »). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "factsheet_date": "factsheet",
   "kid_date": "KID",

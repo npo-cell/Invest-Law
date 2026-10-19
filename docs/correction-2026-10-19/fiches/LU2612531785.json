@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "Aucun",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "9",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "Le Compartiment FFG – American Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur les marchés réglementés américains. Le compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OPC, en instruments du marché monétaire, en OPC monétaires ou équivalents, ainsi que dans des dépôts à terme et à vue (jusqu’à 20% des actifs nets pour ces derniers). Le Compartiment est géré activement sans référence à un indice.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 0.41 → 20.79 (« Actifs nets du fonds $ 20 786 434,07 » ; la part R : $ 413 419,71) ; gérant « Luc Bauler » retiré (la factsheet ne nomme que le gestionnaire BLI - Banque de Luxembourg Investments) ; indice « n/a » → Aucun (« géré activement sans référence à un indice ») ; % durable 86 retiré : la factsheet donne « Répartition des actifs durables : Environnement 37,6% / Social 37,4% » (75,0 %) alors que le minimum annoncé est de 80 % d'actifs durables, chiffre ambigu non retenu. Factsheet la plus récente : 31/08/2026 (aucune au 30/09/2026 trouvée). Attention : le PDF contient des couches de texte cachées d'autres parts/fonds (LU2612531868, LU1697917083…) ; les valeurs retenues sont celles visibles sur la page (vérifiées sur l'image) et présentes dans l'extraction brute. Date de création = « Lancement de la part 15/06/2023 ». Frais : factsheet « Frais de gestion et autres frais… 2,08% », « Dont Frais de Gestion (max.) 1,50% » ; KID « 2,1% ». SFDR article 9 (minimum 80 % d'actifs durables). Classification Agressif : actions américaines à thème impact. Allocations : secteurs (actions) et capitalisations lus sur l'image de la page 2.",
+ "remarques": "Corrigé : encours 0.41 → 20.79 (« Actifs nets du fonds $ 20 786 434,07 » ; la part R : $ 413 419,71) ; gérant « Luc Bauler » retiré (la factsheet ne nomme que le gestionnaire BLI - Banque de Luxembourg Investments) ; indice « n/a » → Aucun (« géré activement sans référence à un indice ») ; % durable 86 retiré : la factsheet donne « Répartition des actifs durables : Environnement 37,6% / Social 37,4% » (75,0 %) alors que le minimum annoncé est de 80 % d'actifs durables, chiffre ambigu non retenu. Factsheet la plus récente : 31/08/2026 (aucune au 30/09/2026 trouvée). Attention : le PDF contient des couches de texte cachées d'autres parts/fonds (LU2612531868, LU1697917083…) ; les valeurs retenues sont celles visibles sur la page (vérifiées sur l'image) et présentes dans l'extraction brute. Date de création = « Lancement de la part 15/06/2023 ». Frais : factsheet « Frais de gestion et autres frais… 2,08% », « Dont Frais de Gestion (max.) 1,50% » ; KID « 2,1% ». SFDR article 9 (minimum 80 % d'actifs durables). Classification Agressif : actions américaines à thème impact. Allocations : secteurs (actions) et capitalisations lus sur l'image de la page 2. Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "sources": {
   "date_creation": "factsheet p.1",
   "devise": "factsheet p.1",

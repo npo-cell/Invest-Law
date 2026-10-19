@@ -18,7 +18,7 @@
  "sri": "5",
  "indice": "Aucun",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Commodity Global Precious Metals",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "Orientation de gestion\nLe fonds vise à s'exposer de manière synthétique à l’indice Basket Precious Metals Strategy, représentatif d'un panier composé de métaux précieux et de produits sur taux d’intérêt, pour saisir les opportunités offertes par les variations de cours sans passer par des investissements directs dans les actions minières du secteur. Il propose une offre simple, transparente assortie d'une couverture quotidienne contre le risque de change.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : SRI 6 → 5 (KID 23/09/2026 « classe de risque 5 sur 7 » ; case 5 sur la factsheet) ; encours 952.33 → 1934.76 (« Actif net du fonds 1 934,76 M€ », factsheet 30/09/2026 ; l’ancienne valeur était proche de l’actif de la part R : 879,27 M€) ; indice « n/a » → « Aucun » (KID : « Il n’y pas d’indicateur de référence », indice de comparaison cité à titre d’information ; le fonds réplique l’indice de stratégie « Basket Precious Metals Strategy ») ; ajoutés : SFDR article 8, classification Agressif (matières premières), disclaimer ; type et compartiment refaits (KID : compartiment de la SICAV Global SICAV). Le fonds s’appelle « OFI Invest Precious Metals ». Date de création : « Date de création de la part 08/03/2012 ». Frais : factsheet « Frais de gestion maximum TTC 1,50% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,52% » ; KID 1,52 %. Aucun % durable écrit. Allocations : principales lignes de titres de créances négociables (poche de trésorerie) ; l’exposition passe par un swap sur indice (124,9 %, contreparties UBS/SG/BNP/JPM/BofA/GS/Macquarie) ; la « Composition de l'indice » n’est pas reprise car c’est une répartition de l’indice.",
+ "remarques": "Corrigé : SRI 6 → 5 (KID 23/09/2026 « classe de risque 5 sur 7 » ; case 5 sur la factsheet) ; encours 952.33 → 1934.76 (« Actif net du fonds 1 934,76 M€ », factsheet 30/09/2026 ; l’ancienne valeur était proche de l’actif de la part R : 879,27 M€) ; indice « n/a » → « Aucun » (KID : « Il n’y pas d’indicateur de référence », indice de comparaison cité à titre d’information ; le fonds réplique l’indice de stratégie « Basket Precious Metals Strategy ») ; ajoutés : SFDR article 8, classification Agressif (matières premières), disclaimer ; type et compartiment refaits (KID : compartiment de la SICAV Global SICAV). Le fonds s’appelle « OFI Invest Precious Metals ». Date de création : « Date de création de la part 08/03/2012 ». Frais : factsheet « Frais de gestion maximum TTC 1,50% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,52% » ; KID 1,52 %. Aucun % durable écrit. Allocations : principales lignes de titres de créances négociables (poche de trésorerie) ; l’exposition passe par un swap sur indice (124,9 %, contreparties UBS/SG/BNP/JPM/BofA/GS/Macquarie) ; la « Composition de l'indice » n’est pas reprise car c’est une répartition de l’indice. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__KID_FR_2026-09-23.pdf",
  "sources": {

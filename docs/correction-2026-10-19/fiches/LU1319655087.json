@@ -18,7 +18,7 @@
  "sri": "2",
  "indice": "Aucun",
  "classification": "Défensif",
- "categorie": "",
+ "categorie": "Bond US High Yield",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "2.33",
@@ -27,7 +27,7 @@
  "politique_fr": "L'objectif du Compartiment est d'abord de générer des revenus élevés attractifs, et ensuite de rechercher une croissance du capital en investissant principalement dans des titres de créance américains à haut rendement sur un horizon de moyen terme.\n\nL'objectif de la Classe d'Actions est la couverture du risque de change découlant de l'écart entre la devise de référence du Compartiment et la devise de cette Classe d'Actions via le recours à des instruments dérivés, tout en conservant l'allocation définie au titre de la Politique d'investissement du Compartiment.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR du 30/09/2026 (classe A (H) EUR). Date de création : « Date de la 1ère Valeur Liquidative 10/06/2016 ». Encours « Actif net du fonds (M) USD 382.86 ». Frais : « Frais de gestion financière 1% » (et « Frais de gestion maximum 1% ») ; frais courants 1,26 % (KID ; la factsheet écrit « Frais estimés courants 1.26% »). Indice : « Le fonds n’a pas d’indice de référence. » Duration : « Modified duration to worst 2.33 ». Qualité : aucune notation moyenne écrite (seulement la répartition par rating). SFDR article 8 (KID). Classification Défensif : obligations à haut rendement de courte durée (SRI 2). Politique : bloc « Objectifs du fonds » de la factsheet. Allocations : 10 principaux titres, secteurs, maturités, notations, devises et pays (colonne portefeuille). Corrigé : encours 423.24 → 382.86 USD (factsheet 30/09/2026) ; duration 1.98 → 2.33 ; indice « n/a » → « Aucun » ; classification Défensif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "remarques": "Factsheet FR du 30/09/2026 (classe A (H) EUR). Date de création : « Date de la 1ère Valeur Liquidative 10/06/2016 ». Encours « Actif net du fonds (M) USD 382.86 ». Frais : « Frais de gestion financière 1% » (et « Frais de gestion maximum 1% ») ; frais courants 1,26 % (KID ; la factsheet écrit « Frais estimés courants 1.26% »). Indice : « Le fonds n’a pas d’indice de référence. » Duration : « Modified duration to worst 2.33 ». Qualité : aucune notation moyenne écrite (seulement la répartition par rating). SFDR article 8 (KID). Classification Défensif : obligations à haut rendement de courte durée (SRI 2). Politique : bloc « Objectifs du fonds » de la factsheet. Allocations : 10 principaux titres, secteurs, maturités, notations, devises et pays (colonne portefeuille). Corrigé : encours 423.24 → 382.86 USD (factsheet 30/09/2026) ; duration 1.98 → 2.33 ; indice « n/a » → « Aucun » ; classification Défensif ajoutée ; politique FR prise de la factsheet ; catégorie vidée. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__KID_FR_2026-02-19.pdf",
  "sources": {

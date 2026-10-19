@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "25 % Bloomberg Barclays Capital Euro Aggregate Corporate + 25 % Bloomberg US Corporate Bond Euro Hedged + 50 % MSCI World 100% Hedged to EUR",
  "classification": "Equilibré",
- "categorie": "",
+ "categorie": "Mixed Asset Global Flexible ",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "2.45 (sensibilité)",
@@ -27,7 +27,7 @@
  "politique_fr": "Orientation de gestion\nLe fonds a pour but de surperformer, sur un horizon de placement recommandé supérieur ou égal à quatre ans, avec pour objectif de maintenir la volatilité du portefeuille inférieure à 10% par an et en sélectionnant des OPC ayant pour thématique déclarée l’investissement socialement responsable et le développement durable.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 149.83 → 170.86 (« Actif net du fonds 170,86 M€ », factsheet 30/09/2026 ; part R : 130,54 M€) ; indice recopié tel qu’écrit dans la factsheet (ajout de « Barclays Capital » ; KID : objectif de surperformer cet indicateur composite) ; ajoutés : SRI 3 (KID 16/04/2026), SFDR article 8, compartiment (KID : FCP de droit français), duration, classification Equilibré (fonds d’ETF mixte, environ 50 % actions, SRI 3), type, disclaimer. Le fonds s’appelle « OFI Invest ESG Multitrack ». Date de création : « Date de création de la part 28/12/2007 » (identique au fonds). Frais : factsheet « Frais de gestion maximum TTC 1,50% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,54% » ; KID 1,54 %. Duration : « Sensibilité Fonds 2,45 » ; taux de rendement 2,14 %. Aucun % durable écrit. Allocations : principales positions (hors OPC monétaires/liquidités/dérivés), répartition par devise et « Exposition par zone géographique » telles qu’écrites (cette dernière mêle OPC, liquidités, dérivés et zones ; vérifié sur l’image de la page 3).",
+ "remarques": "Corrigé : encours 149.83 → 170.86 (« Actif net du fonds 170,86 M€ », factsheet 30/09/2026 ; part R : 130,54 M€) ; indice recopié tel qu’écrit dans la factsheet (ajout de « Barclays Capital » ; KID : objectif de surperformer cet indicateur composite) ; ajoutés : SRI 3 (KID 16/04/2026), SFDR article 8, compartiment (KID : FCP de droit français), duration, classification Equilibré (fonds d’ETF mixte, environ 50 % actions, SRI 3), type, disclaimer. Le fonds s’appelle « OFI Invest ESG Multitrack ». Date de création : « Date de création de la part 28/12/2007 » (identique au fonds). Frais : factsheet « Frais de gestion maximum TTC 1,50% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,54% » ; KID 1,54 %. Duration : « Sensibilité Fonds 2,45 » ; taux de rendement 2,14 %. Aucun % durable écrit. Allocations : principales positions (hors OPC monétaires/liquidités/dérivés), répartition par devise et « Exposition par zone géographique » telles qu’écrites (cette dernière mêle OPC, liquidités, dérivés et zones ; vérifié sur l’image de la page 3). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__KID_FR_2026-04-16.pdf",
  "sources": {

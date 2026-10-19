@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "MSCI ACWI NET RETURN EUR",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Equity Global",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "Echiquier Space est un OPCVM investi sur les marchés des actions internationales et plus précisément dans des sociétés de l’univers spatial. L’objectif de l’OPCVM est de réaliser, sur la durée de placement recommandée, une performance nette de frais supérieure à celle de son indice de référence, l’indice MSCI All Country Index Net Return (Euro) dividendes nets réinvestis. L'OPCVM met en oeuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking » obtenue au travers de la mise en oeuvre d'un processus qui passe par la rencontre avec les entreprises. Dans la construction du portefeuille, l'équipe de gestion intègre de façon systématique une approche extra financière sans toutefois que cette dernière soit déterminante dans les décisions d'investissement.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 542.1 → 544 (« 544 M€ Actif net », factsheet française 30/09/2026) ; politique remplacée par le texte de la factsheet française (objectif et gestion) ; indice « MSCI ACWI NR EUR » → « MSCI ACWI NET RETURN EUR » (libellé de la factsheet) ; frais de gestion ajoutés. Date de création = « Date de 1ère VNI* 31/05/2021 » : le 12/12/2022 le compartiment a été transféré de la Sicav Echiquier (droit français) vers la Sicav Echiquier Fund (droit luxembourgeois), données antérieures = fonds français. Frais de gestion : « 1,65% TTC max. » (maximum) ; frais courants KID 22/05/2026 1.84 % ; commission de surperformance 15 % TTC. Indice : objectif de surperformance de « l’indice MSCI All Country Index Net Return (Euro) », libellé du tableau de la factsheet. SFDR article 8, aucun % durable écrit. Classification Agressif : actions thématiques (spatial). Allocations : colonne Compartiment lue sur l'image de la page 2 ; « Autres » sectoriel sans valeur Compartiment.",
+ "remarques": "Corrigé : encours 542.1 → 544 (« 544 M€ Actif net », factsheet française 30/09/2026) ; politique remplacée par le texte de la factsheet française (objectif et gestion) ; indice « MSCI ACWI NR EUR » → « MSCI ACWI NET RETURN EUR » (libellé de la factsheet) ; frais de gestion ajoutés. Date de création = « Date de 1ère VNI* 31/05/2021 » : le 12/12/2022 le compartiment a été transféré de la Sicav Echiquier (droit français) vers la Sicav Echiquier Fund (droit luxembourgeois), données antérieures = fonds français. Frais de gestion : « 1,65% TTC max. » (maximum) ; frais courants KID 22/05/2026 1.84 % ; commission de surperformance 15 % TTC. Indice : objectif de surperformance de « l’indice MSCI All Country Index Net Return (Euro) », libellé du tableau de la factsheet. SFDR article 8, aucun % durable écrit. Classification Agressif : actions thématiques (spatial). Allocations : colonne Compartiment lue sur l'image de la page 2 ; « Autres » sectoriel sans valeur Compartiment. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "date_creation": "factsheet p.1",
   "devise": "factsheet p.1",

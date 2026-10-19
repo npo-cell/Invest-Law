@@ -18,7 +18,7 @@
  "sri": "",
  "indice": "",
  "classification": "",
- "categorie": "",
+ "categorie": "Equity Europe Income",
  "sfdr": "",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "",
  "politique_en": "",
  "source_politique": "",
- "remarques": "Doute majeur, fiche volontairement presque vide : le seul document trouvé pour cet ISIN est le KID du 14/02/2025 intitulé « Roche-Brune Euro Valeurs Responsables - Part P (FR0010283838) » (initiateur APICIL Asset Management), alors que le nom One Life est « STRATEGIE EURO DIV RESPONSABLES P EUR » ; la stratégie du KID de 2025 (méthode M.U.S.T®, sélection de valeurs de la zone euro, comparaison au MSCI EMU) ne mentionne pas les dividendes, ce qui laisse penser que le fonds a été renommé et réorienté depuis. Politique, type, indice, SRI, frais, SFDR et classification ne sont donc pas repris (à titre indicatif, le KID 2025 donnait SRI 4, frais courants 1,73 %, article 8, indicateur de comparaison MSCI EMU). Aucune factsheet ni KID récent trouvés : rien sur fundinfo, et apicil-asset-management.com refuse l'accès (HTTP 403). À compléter dès réception du KID ou d'une factsheet au nouveau nom. Corrigé : valeurs du classeur (frais courants 1.68, SRI 4, indice, SFDR 8, disclaimer, politique « Stratégie Euro Dividendes Responsable… ») non retrouvées dans un document de la part sous son nom actuel → retirées ; compartiment = forme juridique (FCP) du KID.",
+ "remarques": "Doute majeur, fiche volontairement presque vide : le seul document trouvé pour cet ISIN est le KID du 14/02/2025 intitulé « Roche-Brune Euro Valeurs Responsables - Part P (FR0010283838) » (initiateur APICIL Asset Management), alors que le nom One Life est « STRATEGIE EURO DIV RESPONSABLES P EUR » ; la stratégie du KID de 2025 (méthode M.U.S.T®, sélection de valeurs de la zone euro, comparaison au MSCI EMU) ne mentionne pas les dividendes, ce qui laisse penser que le fonds a été renommé et réorienté depuis. Politique, type, indice, SRI, frais, SFDR et classification ne sont donc pas repris (à titre indicatif, le KID 2025 donnait SRI 4, frais courants 1,73 %, article 8, indicateur de comparaison MSCI EMU). Aucune factsheet ni KID récent trouvés : rien sur fundinfo, et apicil-asset-management.com refuse l'accès (HTTP 403). À compléter dès réception du KID ou d'une factsheet au nouveau nom. Corrigé : valeurs du classeur (frais courants 1.68, SRI 4, indice, SFDR 8, disclaimer, politique « Stratégie Euro Dividendes Responsable… ») non retrouvées dans un document de la part sous son nom actuel → retirées ; compartiment = forme juridique (FCP) du KID. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "kid_date": "KID p.1",
   "compartiment": "KID p.1"

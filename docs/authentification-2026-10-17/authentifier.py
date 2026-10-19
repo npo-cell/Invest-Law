@@ -23,6 +23,7 @@ COLS = ['n', 'isin', 'nom', 'maison', 'statut', 'lien_site', 'fs_date', 'fs_url'
         'remarques', 'origine']
 MOIS_FR = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre',
            'novembre', 'décembre']
+ABR_FR = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.']
 MOIS_EN = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october',
            'november', 'december']
 
@@ -94,7 +95,8 @@ def trouve_date(v, raw):
              f'{d}/{mo}/{y[2:]}', f'{d}.{mo}.{y[2:]}', f'{mo}/{d}/{y}', f'{di}/{moi}/{y}', f'{d}{mo}{y}',
              f'{di} {MOIS_FR[moi-1]} {y}', f'{di}er {MOIS_FR[moi-1]} {y}', f'{di} {MOIS_EN[moi-1]} {y}',
              f'{MOIS_EN[moi-1]} {di}, {y}', f'{d} {MOIS_EN[moi-1][:3]} {y}', f'{di} {MOIS_EN[moi-1][:3]} {y}',
-             f'{d}-{MOIS_EN[moi-1][:3]}-{y}', f'{d} {MOIS_FR[moi-1][:4]}. {y}', f'{d}.{mo}.{y}']
+             f'{d}-{MOIS_EN[moi-1][:3]}-{y}', f'{d} {MOIS_FR[moi-1][:4]}. {y}', f'{d}.{mo}.{y}',
+             f'{d}-{ABR_FR[moi-1]}-{y}', f'{d}-{ABR_FR[moi-1].rstrip(".")}-{y}']
     R = norm(raw)
     return any(norm(c) in R for c in cands)
 

@@ -1,0 +1,605 @@
+[
+ {
+  "n": 632,
+  "isin": "LU0117867159",
+  "nom": "JPM CHINA FUND D USD",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0117867159__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.75%",
+    "note": "p.1 « Ongoing charge 2.75% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-10-13",
+   "devise": "USD",
+   "type_fonds": "Actions Chine",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Rebecca Jiang, Li Tan",
+   "encours": "2731.2",
+   "frais_courants": "2.74",
+   "sri": "5",
+   "indice": "MSCI China 10/40 Index (Net TR)",
+   "classification": "Dynamique",
+   "categorie": "Equity China",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans des sociétés de la République Populaire de Chine (RPC).\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Utilise une approche basée sur de fortes convictions en vue d'identifier les meilleures idées d'investissement.\n\n- Cherche à ",
+   "politique_en": "To provide long-term capital growth by investing primarily in companies of the People's Republic of China (PRC).\n\nUses a fundamental, bottom-up stock selection process.\n\nUses a high conviction approach to finding the best investment ideas.\n\nSeeks to identify high quality companies with superior and sustainable growth potential.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 633,
+  "isin": "LU0862449690",
+  "nom": "JPM EMERGING MKT DIV FUND A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0862449690__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1 454,9 M USD",
+    "note": "p.1 « Fund assets 1 454,9 M USD » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-12-11",
+   "devise": "EUR",
+   "type_fonds": "Actions Marchés Emergents",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Omar Negyal, Shuyu Gao",
+   "encours": "1390.4",
+   "frais_courants": "1.81",
+   "sri": "4",
+   "indice": "MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Générer un rendement en investissant essentiellement dans des actions de sociétés des marchés émergents qui distribuent des dividendes, tout en participant à la croissance du capital sur le long terme.\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Utilise une approche basée sur de fortes convictions en vue d'ident",
+   "politique_en": "To provide income by investing primarily in dividend-yielding equity securities of emerging market companies, whilst participating in long term capital growth.\n\nUses a fundamental, bottom-up stock selection process.\n\nUses a high conviction approach to finding the best investment ideas.\n\nSeeks to balance attractive yield and capital appreciation.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 634,
+  "isin": "LU1001747408",
+  "nom": "JPM EUR EQUITY ABS ALPHA A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1001747408__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "4 972,9 M EUR",
+    "note": "p.1 « Fund assets 4 972,9 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.73%",
+    "note": "p.1 « Ongoing charge 1.73% »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-12-19",
+   "devise": "EUR",
+   "type_fonds": "Alt - Market Neutral - Actions",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Michael Barakos, Nicholas Horne, Ben Stapley, Matt Jones",
+   "encours": "4915.3",
+   "frais_courants": "1.74",
+   "sri": "3",
+   "indice": "ICE BofA ESTR Overnight Rate Index Total Return in EUR",
+   "classification": "Equilibré",
+   "categorie": "Multi-actifs (rendement absolu)",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une performance absolue par le biais de positions longues et courtes sur des sociétés européennes tout en maintenant une faible exposition au marché, en investissant directement ou par le biais d'instruments dérivés dans lesdites sociétés.\n\nApproche d'investissement :\n\n- Applique un processus de sélection de titres bottom-up.\n\n- Utilise toute l'étendue de l'unive",
+   "politique_en": "To achieve a total return through long and short investments in European companies while maintaining low market exposure, by investing in such companies directly or through the use of derivatives.\n\nUses a bottom-up stock selection process.\n\nUses the full breadth of the eligible equity investment universe through a combination of fundamental research insights and quantitative analysis.\n\nUses a long",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 635,
+  "isin": "LU0210532015",
+  "nom": "JPM EUROPE DYNAMIC TECHS A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210532015__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "432,1 M EUR",
+    "note": "p.1 « Fund assets 432,1 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.75%",
+    "note": "p.1 « Ongoing charge 1.75% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-31",
+   "devise": "EUR",
+   "type_fonds": "Actions Secteur Technologies",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Jon Ingram, Alex Whyte, Victoria Helvert",
+   "encours": "425.9",
+   "frais_courants": "1.74",
+   "sri": "5",
+   "indice": "MSCI Europe Investable Market Information Technology 10/40 Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Information Technology",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans des sociétés européennes liées aux technologies (technologie, médias et télécommunications notamment).\n\nApproche d'investissement :\n\n- Applique un processus de sélection de titres bottom-up.\n\n- Utilise toute l'étendue de l'univers d'investissement éligible en actions grâce à la reche",
+   "politique_en": "To provide long-term capital growth by investing primarily in technologies (including but not limited to technology, media and telecommunication) related companies in Europe.\n\nUses a bottom-up stock selection process.\n\nUses the full breadth of the eligible equity investment universe through a combination of fundamental research insights and quantitative analysis.\n\nUses a best ideas approach to fin",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 636,
+  "isin": "LU0070177588",
+  "nom": "JPM GBP STANDARD MONEY MARKET VNAV A GBP",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__KID_FR_2026-04-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__KID_FR_2026-04-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0070177588__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "document": "WAM 146 jours ; WAL 189 jours (au 30/09/26)",
+    "note": "objectif et approche = traduction du texte p.1 ; mais p.2 « Weighted Average Maturity in days As at 30/09/26 146 days », « Weighted Average Life… 189 days » au lieu de 140 / 178 jours au 31/08/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1996-04-15",
+   "devise": "GBP",
+   "type_fonds": "Monétaires GBP Court Terme (Standard MMF - VNAV)",
+   "compartiment": "JPMorgan Liquidity Funds (SICAV luxembourgeoise)",
+   "gerants": "Neil Hutchison, Joseph McConnell, Rustam Muradov",
+   "encours": "1411.6",
+   "frais_courants": "0.45",
+   "sri": "1",
+   "indice": "ICE BofA Sterling 3-Month Government Bill Index",
+   "classification": "Défensif",
+   "categorie": "Money Market Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Le Compartiment cherche à offrir un rendement dans sa Devise de référence supérieur aux taux du marché monétaire en GBP tout en cherchant à préserver un capital en adéquation avec les taux du marché monétaire en vigueur et à maintenir un degré de liquidité élevé.\n\nApproche d'investissement :\n\n- Ce Compartiment de liquidités emploie des Titres de créance, des dépôts aupr",
+   "politique_en": "The Sub-Fund seeks to achieve a return in the Reference Currency in excess of GBP money market rates whilst aiming to preserve capital consistent with prevailing money market rates and to maintain a high degree of liquidity.\n\nThis liquidity Sub-Fund uses high quality short-term Debt Securities, deposits with credit institutions and Reverse Repurchase Agreements to enhance returns.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 638,
+  "isin": "LU0070212591",
+  "nom": "JPM GLOBAL BALANCED A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0070212591__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "2 458,2 M EUR",
+    "note": "p.1 « Fund assets 2 458,2 M EUR » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1995-07-18",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Modérée - International",
+   "compartiment": "JPMorgan Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Katy Thorneycroft, Jonathan Cummings, Gareth Witcomb",
+   "encours": "2478.8",
+   "frais_courants": "1.64",
+   "sri": "3",
+   "indice": "50% J.P. Morgan Government Bond Index Global (Total Return Gross) Hedged to EUR / 45% MSCI World Index (Total Return Net) Hedged to EUR / 5% MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.81",
+   "qualite": "Poche obligataire : AAA 3,83 %, AA 44,82 %, A 38,67 %, BBB 12,69 % ; rendement à l'échéance 4,21 %",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme et générer des revenus en investissant, à l'échelle mondiale, essentiellement dans des sociétés et des titres de créance émis ou garantis par des gouvernements ou leurs agences et en ayant recours à des instruments dérivés si nécessaire.\n\nApproche d'investissement :\n\n- Approche multi-actifs, qui combine l'allocation d'a",
+   "politique_en": "To provide long-term capital growth and income by investing primarily in companies and debt securities issued or guaranteed by governments or their agencies, globally, using derivatives where appropriate.\n\nMulti-asset approach, combining asset allocation with bottom-up expertise leveraged from specialists from JPMorgan Asset Management’s global investment platform.\n\nActively managed implementation",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 639,
+  "isin": "LU0329203573",
+  "nom": "JPM GLOBAL DIVIDEND FUND D EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0329203573__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "8 095,7 M USD",
+    "note": "p.1 « Fund assets 8 095,7 M USD » au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun frais de gestion annuel dans la factsheet (seulement « Ongoing charge 2.50% », entrée/sortie)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.50%",
+    "note": "p.1 « Ongoing charge 2.50% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-05-22",
+   "devise": "EUR",
+   "type_fonds": "Actions International Rendement",
+   "compartiment": "JPMorgan Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Helge Skibeli, Sam Witherow, Michael Rossi",
+   "encours": "8276.7",
+   "frais_gestion": "0.75",
+   "frais_courants": "2.51",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Income",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans des actions de sociétés du monde entier qui génèrent des revenus élevés et en hausse.\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Processus d'investissement fondé sur l'analyse des actions par une équipe de recherche internat",
+   "politique_en": "To provide long-term capital growth by investing primarily in companies, globally, that generate high and rising income.\n\nUses a fundamental, bottom-up stock selection process.\n\nInvestment process built on stock level analysis by a global research team.\n\nSeeks to identify companies with sustainably high dividends and/or sustainable dividend growth potential.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 640,
+  "isin": "LU0210534227",
+  "nom": "JPM GLOBAL FOCUS A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210534227__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "8 535,9 M EUR",
+    "note": "p.1 « Fund assets 8 535,9 M EUR » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-31",
+   "devise": "EUR",
+   "type_fonds": "Actions International Gdes Cap. Mixte",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Helge Skibeli, James Cook, Sam Witherow",
+   "encours": "8689.6",
+   "frais_courants": "1.67",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance supérieure du capital sur le long terme en investissant essentiellement dans un portefeuille géré de manière agressive composé de sociétés à grande, moyenne et petite capitalisation du monde entier dont le Gestionnaire financier estime qu'elles affichent des valorisations attrayantes et un potentiel de forte croissance ou de redressement de leurs r",
+   "politique_en": "To provide superior long-term capital growth by investing primarily in an aggressively managed portfolio of large, medium and small companies globally, that the Investment Manager believes to be attractively valued and to have significant profit growth or earnings recovery potential.\n\nUses a fundamental, bottom-up stock selection process.\n\nInvestment process built on stock level analysis by a glob",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 641,
+  "isin": "LU0740858229",
+  "nom": "JPM GLOBAL INCOME A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__KID_FR_2026-04-27.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__KID_FR_2026-04-27.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0740858229__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "19 363,2 M EUR",
+    "note": "p.1 « Fund assets 19 363,2 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.40%",
+    "note": "p.1 « Ongoing charge 1.40% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-03-01",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Modérée - International",
+   "compartiment": "JPMorgan Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Michael Schoenhaut, Eric Bernbaum, Gary Herbert",
+   "encours": "19129.6",
+   "frais_courants": "1.39",
+   "sri": "3",
+   "indice": "40% Bloomberg US High Yield 2% Issuer Cap Index (Total Return Gross) Hedged to EUR / 35% MSCI World Index (Total Return Net) Hedged to EUR / 25% Bloomberg Global Credit Index (Total Return Gross) Hedged to EUR",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.48",
+   "qualite": "Poche obligataire : AAA 3,36 %, AA 3,51 %, A 1,80 %, BBB 14,96 %, inférieur à BBB 73,35 %, non noté 3,01 %",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir un revenu régulier en investissant, à l'échelle mondiale, essentiellement dans un portefeuille de titres générateurs de revenus et en ayant recours aux instruments dérivés.\n\nApproche d'investissement :\n\n- Approche multi-actifs, qui repose sur l'expertise des spécialistes de la plateforme d'investissement mondiale de JPMorgan Asset Management et vise à générer des",
+   "politique_en": "Investment objective: To provide regular income by investing primarily in a portfolio of income generating securities, globally, and through the use of derivatives.\n\nMulti-asset approach, leveraging specialists from around JPMorgan Asset Management's global investment platform, with a focus on risk-adjusted income.\n\nFlexible implementation of the managers’ allocation views at asset class and regio",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 644,
+  "isin": "LU0210534813",
+  "nom": "JPM GLOBAL SUSTAINABLE EQUITY A USD",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210534813__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "347,5 M USD",
+    "note": "p.1 « Fund assets 347,5 M USD » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-31",
+   "devise": "USD",
+   "type_fonds": "Actions International Gdes Cap. Mixte",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Sophie Wright, Joanna Crompton",
+   "encours": "353.1",
+   "frais_courants": "1.74",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant principalement dans des sociétés mondiales présentant des caractéristiques E/S positives ou dont les caractéristiques E/S s'améliorent. Les sociétés présentant des caractéristiques E/S positives sont des sociétés qui, de l'avis du Gestionnaire financier, disposent de systèmes avancés et efficaces en mati",
+   "politique_en": "To provide long-term capital growth by investing primarily in global companies with positive E/S characteristics or companies that demonstrate improving E/S characteristics. Companies with positive E/S characteristics are those that the Investment Manager believes to have effective governance and superior management of environmental and/or social issues (sustainable characteristics).\n\nUses a funda",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 645,
+  "isin": "LU1041599587",
+  "nom": "JPM INCOME A EUR H",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__KID_FR_2026-04-27.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__KID_FR_2026-04-27.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1041599587__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "14 141,0 M USD",
+    "note": "p.1 « Fund assets 14 141,0 M USD » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-06-16",
+   "devise": "EUR",
+   "type_fonds": "Obligations Autres",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Andrew Norelli, Andrew Headley, Thomas Hauser",
+   "encours": "14643.9",
+   "frais_courants": "1.18",
+   "sri": "2",
+   "indice": "Bloomberg US Aggregate Bond Index (Total Return Gross) Hedged to EUR",
+   "classification": "Défensif",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "2.59",
+   "qualite": "AAA 41,08 %, AA 2,36 %, A 2,00 %, BBB 11,24 %, inférieur à BBB 33,86 %, liquidités 9,46 % ; rendement à l'échéance (USD) 6,98 %",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Générer des revenus en investissant essentiellement dans des titres de créance.\n\nApproche d'investissement :\n\n- Applique un processus d'investissement axé sur la recherche intégrée à l'échelle mondiale en vue d'analyser les facteurs fondamentaux, quantitatifs et techniques de différents pays, secteurs et émetteurs.\n\n- Applique une approche libre de toute contrainte afin",
+   "politique_en": "To provide income by investing primarily in debt securities.\n\nUses a globally integrated research driven investment process that focuses on analysing fundamental, quantitative and technical factors across countries, sectors and issuers.\n\nUses an unconstrained approach to finding the best investment ideas across multiple fixed income sectors and countries with a focus on generating a consistent inc",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]

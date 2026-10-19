@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "MSCI World Core Infrastructure",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "",
  "politique_en": "Fund Objective\n\nTo achieve over the long-term total returns comprising income and capital appreciation.\n\nFund Description\n\nLazard's Global Listed Infrastructure Equity Fund is an actively managed portfolio that typically invests in equity securities of infrastructure companies with a minimum market capitalization of $250 million. The Fund uses a \"Preferred Infrastructure\" philosophy that focuses primarily on equity securities of companies that own physical infrastructure assets that meet certain preferred criteria, such as revenue certainty, profitability and longevity.",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 2555.73 → 2030.62 M GBP (« Fund AUM … Base Fund Currency £2,030.62m », factsheet 30/09/2026 ; en devise de la part : €2,374.94m) ; gérants « Bertrand Cliquet et équipe » → tel qu'écrit « Bertrand Cliquet & Team » ; politique : texte anglais de la factsheet (objectif + « Fund Description ») ; disclaimer recopié de la factsheet (anglais) ; classification Dynamique → Agressif (actions sectorielles, infrastructures ; SRI 3) ; catégorie vidée. Part « B Acc EUR Hedged » (couverte) ; date de création = « Share Class Launch Date 25/11/2016 » (fonds : 27/02/2012). Indice retenu : performance mesurée contre l'indice. Frais : « Annual Management Fee 1.75% », « Ongoing charges 1.82% » (factsheet) = KID « Frais de gestion et autres frais administratifs et d’exploitation 1,82% ». SFDR article 8. Allocations au 30/09/2026, colonne « Fund » seulement (hors liquidités) ; capitalisations : barre du fonds à gauche de chaque paire.",
+ "remarques": "Corrigé : encours 2555.73 → 2030.62 M GBP (« Fund AUM … Base Fund Currency £2,030.62m », factsheet 30/09/2026 ; en devise de la part : €2,374.94m) ; gérants « Bertrand Cliquet et équipe » → tel qu'écrit « Bertrand Cliquet & Team » ; politique : texte anglais de la factsheet (objectif + « Fund Description ») ; disclaimer recopié de la factsheet (anglais) ; classification Dynamique → Agressif (actions sectorielles, infrastructures ; SRI 3) ; catégorie vidée. Part « B Acc EUR Hedged » (couverte) ; date de création = « Share Class Launch Date 25/11/2016 » (fonds : 27/02/2012). Indice retenu : performance mesurée contre l'indice. Frais : « Annual Management Fee 1.75% », « Ongoing charges 1.82% » (factsheet) = KID « Frais de gestion et autres frais administratifs et d’exploitation 1,82% ». SFDR article 8. Allocations au 30/09/2026, colonne « Fund » seulement (hors liquidités) ; capitalisations : barre du fonds à gauche de chaque paire. Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "sources": {
   "date_creation": "factsheet p.3",
   "encours_millions": "factsheet p.1",

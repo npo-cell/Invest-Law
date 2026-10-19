@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "10,00% ESTER European Short Term Rate + 8.5 BP + 90,00% MSCI France Smid Cap Loc Net",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Equity France Sm&Mid Cap",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nODDO BHF Avenir est un fonds actions françaises (minimum 70%) de petites et moyennes capitalisations. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne en priorité des sociétés françaises parmi les plus performantes, cycliques ou non-cycliques, qui ont souvent un rayonnement international, à un prix jugé attractif eu égard à leurs perspectives à long terme.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : frais courants 1.78 → 1.70 (KID du 25/09/2025, le plus récent trouvé : « Frais de gestion et autres frais administratifs et d’exploitation 1,70 % » ; la factsheet 30/09/2026 indique 1.78 %) ; indice recopié tel qu’écrit dans la factsheet (KID : objectif de surperformer « 90% MSCI SMID France (NR) + (10% €STR + 8,5 points de base) ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : FCP). Encours 404 M€ inchangé (« Actif net du fonds 404 M€ »). Date de création : « Date de création de la part (1ère VL) 14/09/1992 » (identique au fonds). Frais de gestion : « Frais de gestion fixes 1.80 % TTC maximum Actif net » (taux maximum). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 8,4% » est lisible).",
+ "remarques": "Corrigé : frais courants 1.78 → 1.70 (KID du 25/09/2025, le plus récent trouvé : « Frais de gestion et autres frais administratifs et d’exploitation 1,70 % » ; la factsheet 30/09/2026 indique 1.78 %) ; indice recopié tel qu’écrit dans la factsheet (KID : objectif de surperformer « 90% MSCI SMID France (NR) + (10% €STR + 8,5 points de base) ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : FCP). Encours 404 M€ inchangé (« Actif net du fonds 404 M€ »). Date de création : « Date de création de la part (1ère VL) 14/09/1992 » (identique au fonds). Frais de gestion : « Frais de gestion fixes 1.80 % TTC maximum Actif net » (taux maximum). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 8,4% » est lisible). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000989899/FR0000989899__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000989899/FR0000989899__KID_FR_2025-09-25.pdf",
  "sources": {

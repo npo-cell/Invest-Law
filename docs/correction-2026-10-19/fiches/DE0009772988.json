@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "100% MSCI World (EUR, Net return)",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nUtilisant une approche quantitative propriétaire, ODDO BHF Global Equity Trend investit dans des actions mondiales. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques afin de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importance à la diversification et la gestion des risques en appliquant diverses contraintes d'optimisation.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 369 → 372 (« Actif net du fonds 372 M€ », factsheet 30/09/2026) ; indice « MSCI World NR EUR » → « 100% MSCI World (EUR, Net return) » (nom de la factsheet ; KID : « L’indice de référence du Fonds est le MSCI World (EUR, NR). Le Fonds ne le réplique pas à l’identique, mais vise à le surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : OPCVM de droit allemand, pas un compartiment) ; gérants sans titres. Gérants : factsheet « Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA) » (BRAUN en majuscules : écart du contrôle automatique dû à la casse). Date de création : « Date de création de la part (1ère VL) 30/09/2005 » (fonds : 02/01/1998). Frais : « Frais de gestion fixes 1,50% p.a. » ; KID 1,55 % (factsheet 1.55 %). SRI 4 et SFDR article 8 : KID. Stratégie « smart momentum » depuis le 21/07/2025 (factsheet). Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 0,9% » est lisible).",
+ "remarques": "Corrigé : encours 369 → 372 (« Actif net du fonds 372 M€ », factsheet 30/09/2026) ; indice « MSCI World NR EUR » → « 100% MSCI World (EUR, Net return) » (nom de la factsheet ; KID : « L’indice de référence du Fonds est le MSCI World (EUR, NR). Le Fonds ne le réplique pas à l’identique, mais vise à le surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : OPCVM de droit allemand, pas un compartiment) ; gérants sans titres. Gérants : factsheet « Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA) » (BRAUN en majuscules : écart du contrôle automatique dû à la casse). Date de création : « Date de création de la part (1ère VL) 30/09/2005 » (fonds : 02/01/1998). Frais : « Frais de gestion fixes 1,50% p.a. » ; KID 1,55 % (factsheet 1.55 %). SRI 4 et SFDR article 8 : KID. Stratégie « smart momentum » depuis le 21/07/2025 (factsheet). Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 0,9% » est lisible). Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__KID_FR_2026-10-01.pdf",
  "sources": {

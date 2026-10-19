@@ -1,0 +1,263 @@
+{
+ "n": "414",
+ "isin": "LU0211340665",
+ "nom": "BL-GLOBAL FLEXIBLE EUR B",
+ "maison": "BLI - Banque de Luxembourg Investments S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-06",
+ "date_creation": "2005-04-06",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (flexible)",
+ "compartiment": "un compartiment de BL",
+ "gerants": "Guy Wagner, Fabrice Kremer",
+ "encours_millions": "1175.21",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.4",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "Mixed Asset Global Flexible ",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "L’objectif du fonds est de générer un rendement réel (ajusté de l’inflation) en euro positif sur le moyen terme au travers d’une stratégie d’allocation d’actifs flexible et globale. La stratégie mise en œuvre combine différentes classes d’actifs traditionnellement négativement corrélées, en premier lieu les actions, les obligations et instruments monétaires, les métaux précieux et les liquidités. Le Fonds vise également à limiter les baisses lors des périodes de correction des marchés boursiers.\n\nLes investissements en actions peuvent varier de 25% à 100% des actifs.\n\nLe fonds s’engage à investir minimum 20% de ses actifs en actifs durables.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026. Date de création : « Date de lancement de la classe 06/04/2005 » (fonds : même date). Encours « Actifs nets € 1175,21 mio ». Frais : classe B « Frais de gestion 1.25% » et « Frais courants 1.40% » (tableau des classes de la factsheet) ; frais courants 1,4 % du KID (« Frais de gestion et autres frais administratifs et d'exploitation 1,4% »). Indice : « Aucun » ; le KID indique « Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark) » et la factsheet que « Le Produit Financier n’est pas géré par référence à un indice de référence » ; le « Lipper Global Mixed Asset EUR Flexible - Global » affiché par la factsheet ne sert qu'à la comparaison. Gérants : Guy Wagner (gestionnaire) et Fabrice Kremer (suppléant). SFDR 8 (« Classification SFDR 8 ») ; investissements durables : seulement un engagement minimal de 20 %, aucun pourcentage effectif. Duration : aucune duration ni sensibilité dans la factsheet de septembre 2026 (poche obligataire de 3,2 %) : vide. Compartiment : le KID écrit « un compartiment de BL », SICAV de droit luxembourgeois. Classification Dynamique : fonds flexible à dominante actions (actions 25 % à 100 %, 82,1 % fin septembre ; SRI 3). Allocations : principales positions actions et obligataires ; classes d'actifs (colonne « Brut » ; actions nettes identiques) ; devises « après couverture » (avant couverture : EUR 16,2 %, Other 30,8 %, autres identiques) ; zones géographiques et secteurs de la poche actions (graphiques, barres « BL Global Flexible EUR » lues sur l'image de la page 2 et dans le texte ; total secteurs 99,9 %). Corrigé : encours 1211.79 → 1175.21 (factsheet 30/09/2026) ; frais courants 1.42 → 1.4 (KID) ; gérants « Guy Wagner, Fabrice Kremer (suppléant) » → « Guy Wagner, Fabrice Kremer » (mêmes personnes) ; duration 5.6 → vide (absente) ; compartiment « BL-Global Flexible » → « un compartiment de BL » ; indice « Lipper Global Mixed Asset EUR Flexible - Global » → « Aucun » (comparaison seulement) ; classification Dynamique ajoutée ; politique FR prise de la factsheet ; catégorie vidée. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
+ "factsheet_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__KID_FR_2026-02-06.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Franco Nevada",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding AG",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wheaton Precious Metals Corp",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RELX PLC",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wolters Kluwer",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sony",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holding",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intl Finance Corp 0% 20-5-2030",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "European Bk Recon & Dev 0% 2-2-2032",
+   "pct": "0.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "INTERAMER DEV BK IADB 12 01/27/31",
+   "pct": "0.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "European Investment Bank 11%",
+   "pct": "0.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROPEAN INVT BK EIB 11 1/2",
+   "pct": "0.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "82.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "3.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Métaux précieux",
+   "pct": "13.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "1.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "18.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "22.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "15.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "9.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "9.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Other",
+   "pct": "24.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "39.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "11.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie hors Japon",
+   "pct": "24.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "19.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique latine",
+   "pct": "5.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materiaux",
+   "pct": "8.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "26.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "10.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. de base",
+   "pct": "4.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "10.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "7.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "19.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de télécom.",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.3"
+  }
+ ]
+}

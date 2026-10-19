@@ -18,7 +18,7 @@
  "sri": "",
  "indice": "",
  "classification": "",
- "categorie": "",
+ "categorie": "Equity Europe",
  "sfdr": "",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "",
  "politique_en": "",
  "source_politique": "",
- "remarques": "Doute majeur, fiche volontairement presque vide : le seul document trouvé pour cet ISIN est le KID du 28/05/2025 intitulé « Stratégie Europe Valeurs Responsables - Part P (FR0010237503) », alors que le nom One Life est « STRATEGIE SOUVERAINETE EUROPEENNE P EUR » ; un communiqué d'APICIL AM du 18/05/2026 (hors sources admises, cité seulement pour expliquer le doute) annonce que le fonds devient un fonds actions thématique « Stratégie Souveraineté Européenne », avec une autre stratégie et d'autres gérants. Le KID de 2025 décrit donc probablement l'ancienne stratégie : politique, type, indice, SRI, frais, SFDR et classification ne sont pas repris (à titre indicatif, le KID 2025 donnait SRI 4 et l'indicateur de comparaison MSCI EUROPE de l'ancienne stratégie). Aucune factsheet ni KID 2026 trouvés : rien sur fundinfo, et apicil-asset-management.com refuse l'accès (HTTP 403). À compléter dès réception du nouveau KID ou d'une factsheet. Corrigé : devise « E » → EUR ; compartiment = forme juridique (FCP) du KID.",
+ "remarques": "Doute majeur, fiche volontairement presque vide : le seul document trouvé pour cet ISIN est le KID du 28/05/2025 intitulé « Stratégie Europe Valeurs Responsables - Part P (FR0010237503) », alors que le nom One Life est « STRATEGIE SOUVERAINETE EUROPEENNE P EUR » ; un communiqué d'APICIL AM du 18/05/2026 (hors sources admises, cité seulement pour expliquer le doute) annonce que le fonds devient un fonds actions thématique « Stratégie Souveraineté Européenne », avec une autre stratégie et d'autres gérants. Le KID de 2025 décrit donc probablement l'ancienne stratégie : politique, type, indice, SRI, frais, SFDR et classification ne sont pas repris (à titre indicatif, le KID 2025 donnait SRI 4 et l'indicateur de comparaison MSCI EUROPE de l'ancienne stratégie). Aucune factsheet ni KID 2026 trouvés : rien sur fundinfo, et apicil-asset-management.com refuse l'accès (HTTP 403). À compléter dès réception du nouveau KID ou d'une factsheet. Corrigé : devise « E » → EUR ; compartiment = forme juridique (FCP) du KID. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "kid_date": "KID p.1",
   "compartiment": "KID p.1"

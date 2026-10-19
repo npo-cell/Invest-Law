@@ -1,0 +1,467 @@
+[
+ {
+  "isin": "LU0211340665",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « Septembre 2026 » (mensuelle, 30/09/2026), p.1 « Actifs nets € 1175,21 mio »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BLF9YH30",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « informations relatives à l'actif net sont en date du : 30-sept.-2026 », « Encours sous gestion (M) : 4.611,78 USD »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "23/23 lignes lues sur les graphiques p.3 (capitalisation, secteurs, répartition géographique), mêmes % (ex. Mkt Cap greater than 20B 88,12 ; Industries 29,47 ; Etats-Unis 76,38)"
+  }
+ },
+ {
+  "isin": "IE00B4Z6HC18",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs et politique » : texte repris ; la phrase « investira dans des obligations, émises par des États et des entreprises… selon Standard & Poor’s ou des agences similaires) ; » figure bien (puce Q, césure « c.-à-d. » sur deux lignes)"
+   }
+  }
+ },
+ {
+  "isin": "LU1502282632",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « REPORTING 30 | 09 | 2026 », « Total net assets (M USD) 3,573.45 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0049341216",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « RAPPORT 30 | 09 | 2026 », « Actifs nets totaux (M USD) 79,44 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0093583077",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « RAPPORT 30 | 09 | 2026 », « Actifs nets totaux (M EUR) 1 929,75 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1434527435",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « RAPPORT 30 | 09 | 2026 », « Actifs nets totaux (M EUR) 2 020,61 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1706177547",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Valeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). » (pas de factsheet dans le lot)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs » : texte identique ; la phrase « Une quote-part minimale de 85%… notée « Investment Grade »… » y figure avec césures (« quote- part », « Invest- ment »)"
+   }
+  }
+ },
+ {
+  "isin": "FR0010149161",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Encours total (en devise de référence du fonds)** 1152425067.2 » (EUR) = 1152,425 M"
+   }
+  }
+ },
+ {
+  "isin": "FR00140081Y1",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Le fonds n'a pas d'indicateur de référence. Le fonds est un OPCVM géré activement » ; factsheet « Non benchmarké »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Notation moyenne A- »"
+   }
+  }
+ },
+ {
+  "isin": "FR001400KAV4",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Le fonds n'a pas d'indicateur de référence »"
+   }
+  }
+ },
+ {
+  "isin": "FR001400U4S3",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Le fonds n'a pas d'indicateur de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU1744628287",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 « RÉPARTITION PAR CAPITALISATION » (poche actions) « Moyennes (2000 - 10000MEUR) 9,4% »"
+  }
+ },
+ {
+  "isin": "LU1317704051",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Le compartiment n'a pas d'indicateur de référence. » (la factsheet cite « 75% MSCI Europe index + 25% S&P 500 » seulement comme indicateur composite pour la comparaison d'intensité carbone ESG)"
+   }
+  }
+ },
+ {
+  "isin": "BE6227496963",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID « Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment »"
+   }
+  }
+ },
+ {
+  "isin": "BE6227494943",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID « Aucun benchmark n'est utilisé dans la gestion du compartiment »"
+   }
+  }
+ },
+ {
+  "isin": "BE6227492921",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID « Aucun benchmark n'est utilisé dans la gestion du compartiment »"
+   }
+  }
+ },
+ {
+  "isin": "BE0947764743",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID « Aucun benchmark n'est utilisé dans la gestion du compartiment »"
+   }
+  }
+ },
+ {
+  "isin": "LU1244893696",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (pied de chaque page) « Les performances passées ne sont pas un indicateur fiable des performances futures. Les rendements passés peuvent être trompeurs. » (« fi » et « ê » perdus à l'extraction)"
+   }
+  }
+ },
+ {
+  "isin": "FR00140120M2",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (pied de page) même phrase, « fi » et « ê » perdus à l'extraction"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 « Répartition par nature d'instrument » : « OPCVM – Monétaire 0,01 »"
+  }
+ },
+ {
+  "isin": "FR001400RZ04",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (pied de page) même phrase, « fi » et « ê » perdus à l'extraction"
+   }
+  }
+ },
+ {
+  "isin": "FR0010588343",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (pied de page) même phrase, « fi » et « ê » perdus à l'extraction"
+   }
+  }
+ },
+ {
+  "isin": "LU1160356009",
+  "cases": {
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet (pied de page) même phrase, « fi » et « ê » perdus à l'extraction"
+   }
+  }
+ },
+ {
+  "isin": "FR001400S0Q9",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 « Indicateur de référence - » (aucun) ; KID : OPCVM géré activement, aucun indice cité (seul l’€STR capitalisé à l’approche de l’échéance)"
+   }
+  }
+ },
+ {
+  "isin": "LU1331971769",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Encours du compartiment 4 957 341 528 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « Le Compartiment est géré de manière active, sans référence à un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "LU1111642820",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Encours du compartiment 9 422 126 017 € » (arrondi 9422,13 M)"
+   }
+  }
+ },
+ {
+  "isin": "LU1920214563",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Encours du compartiment 387 036 017 € » (arrondi 387,04 M)"
+   }
+  }
+ },
+ {
+  "isin": "LU0431139764",
+  "cases": {
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 « Chiffres clés du portefeuille obligataire » : « Notation moyenne BBB+ à A- » (30.09.2026)"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531785",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet (rapport au 31/08/26) « Actifs nets du fonds $ 20 786 434,07 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « Valeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612530977",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet (31/08/26) « Actifs nets du fonds 14 863 708,73 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « …géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612532759",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet (31/08/26) « Actifs nets du fonds 118 764 707,00 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « …géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU0945616984",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (rapport au 31/08/26, lu sur l’image) « Actifs nets du fonds 27 176 717,68 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Le Compartiment est géré activement… sans référence à un indice » ; KID « Le compartiment fait l’objet d’une gestion active »"
+   }
+  }
+ },
+ {
+  "isin": "LU2736456596",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID « L’univers d’investissement initial du compartiment est l’indice MSCI World NR EUR… Le compartiment est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark). »"
+   }
+  }
+ },
+ {
+  "isin": "LU2059537873",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (rapport au 31/08/26, lu sur l’image) « Actifs nets du fonds 54 393 940,66 € »"
+   }
+  }
+ },
+ {
+  "isin": "LU1697917083",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet « gestion active sans considération d’un indice de référence » ; KID « sans utiliser une valeur de référence (benchmark) »"
+   }
+  }
+ },
+ {
+  "isin": "LU0261950553",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « l’indice de référence: Aucune. » ; KID « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0251130554",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « l’indice de référence: Aucune. » ; KID « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU1116430247",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « l’indice de référence: Aucune. » ; KID « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0987487336",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0905233846",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0433182416",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Indice de référence : Aucun » (le KID cite SOFR + hurdle seulement pour la commission de performance, sans contrainte de portefeuille)"
+   }
+  }
+ },
+ {
+  "isin": "LU0068578508",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Indice de référence : Aucun » (KID : SOFR seulement pour la commission de performance)"
+   }
+  }
+ },
+ {
+  "isin": "LU1481583711",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Le compartiment est géré activement et ne se base pas sur un indice de référence » ; KID « Il n'y a pas de comparaison avec un indice de référence. »"
+   }
+  }
+ },
+ {
+  "isin": "LU1038809395",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID « Il n'y a pas de comparaison avec un indice de référence. »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BYRGXY37",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Data updated as of 31st August 2026 », « Fund Size USD 132m »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Weighted Average Rating A- »"
+   }
+  }
+ },
+ {
+  "isin": "LU2596602545",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « All performance and holdings data as at 31-Aug-26 », « Total Net Assets (m) USD 1,660 »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et p.2, texte identique (ligature « fl » de « fluctuate » perdue à l'extraction)"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 « Fund Objective and Investment Policy », texte identique (ligatures « fi » perdues à l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 Region Allocation « 2.5% Asia/Pacific Ex Japan »"
+  }
+ }
+]

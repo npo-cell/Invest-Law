@@ -1,0 +1,254 @@
+{
+ "n": "411",
+ "isin": "LU0048292394",
+ "nom": "BL-GLOBAL 30 B EUR",
+ "maison": "BLI - Banque de Luxembourg Investments S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-06",
+ "date_creation": "1993-10-28",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "un compartiment de BL",
+ "gerants": "Joël Reuland, Marc Erpelding",
+ "encours_millions": "146.31",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.5",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "Mixed Asset Global Balanced",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.0",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "L’objectif de ce fonds mixte défensif est de générer un rendement positif avec une volatilité réduite. Le fonds investit, au sein d’un univers global en actions, obligations et instruments monétaires ; une exposition aux métaux précieux est également possible au travers d’ETC (Exchange Traded Commodities). L’allocation aux actions varie entre 15% et 45% avec une allocation neutre fixée à 30%.\n\nSur le plan ESG, le Fonds est article 8 selon le règlement européen SFDR (promotion des facteurs de durabilité) et s’engage à investir minimum 5% de ses encours en actifs durables.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (la factsheet EN d'août 2026 n'est pas retenue : français d'abord). Date de création : « Date de lancement de la classe 28/10/1993 » (fonds : même date). Encours « Actifs nets € 146,31 mio » (caractéristiques du fonds). Frais : classe B « Frais de gestion 1.25% » et « Frais courants 1.49% » (tableau des classes de la factsheet) ; frais courants 1,5 % retenus du KID (« Frais de gestion et autres frais administratifs et d'exploitation 1,5% »). Indice : « Aucun » ; le KID indique « Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark) » et la factsheet que « Le Produit Financier n’est pas géré par référence à un indice de référence » ; le « Lipper Global Mixed Asset EUR Balanced - Global » affiché par la factsheet ne sert qu'à la comparaison. Gérants : Joël Reuland (gestionnaire) et Marc Erpelding (suppléant). SFDR 8 (« Classification SFDR 8 ») ; investissements durables : seulement un engagement minimal de 5 %, aucun pourcentage effectif. Duration : « Duration modifiée 2.0 » (tableau des facteurs techniques ; le commentaire du mois cite 2,3) ; « Échéance moyenne 2.5 ans », « Rendement à l'échéance 2,6% ». Classification Equilibré : fonds mixte défensif, actions entre 15 % et 45 % (neutre 30 %), SRI 3. Allocations : principales positions actions et obligataires ; classes d'actifs (colonne « Brut » du tableau d'allocation d'actifs ; actions nettes de couverture identiques, 26,7 %) ; zones géographiques de la poche actions (colonne « Brut ») ; devises « après couverture » (avant couverture : EUR 60,3 %, USD 21,9 %, autres identiques) ; secteurs de la poche actions (graphique, barres « BL Global 30 » lues sur l'image de la page 2). Corrigé : encours 104.1 → 146.31 (factsheet 30/09/2026) ; frais courants 1.55 → 1.5 (KID) ; gérants « Joël Reuland » → « Joël Reuland, Marc Erpelding » ; duration 3.34 → 2.0 ; indice → « Aucun » ; SFDR 8 et classification Equilibré ajoutés ; politique EN du site remplacée par la politique FR de la factsheet ; catégorie vidée. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
+ "factsheet_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__KID_FR_2026-02-06.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "sfdr": "factsheet",
+  "duration": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Unilever",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Reckitt Benckiser Group",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding AG",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nestle",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Agnico Eagle Mines",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novartis",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "0.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Deutschland ILB 15-04-30",
+   "pct": "6.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesobligation 2.1% 12-4-2029",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepub. Deutschland 0%",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepub. Deutschland 0.25%",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepub. Deutschland 0%",
+   "pct": "3.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "26.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "45.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Métaux précieux",
+   "pct": "17.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "10.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "12.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "8.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "2.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "3.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "67.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "15.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "7.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "4.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "2.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Other",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materiaux",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "11.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "5.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. de base",
+   "pct": "24.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "20.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "4.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "19.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de télécom.",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  }
+ ]
+}

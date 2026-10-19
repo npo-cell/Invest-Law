@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "l’indice MSCI World All Countries en Euro (code Bloomberg : MDWD)",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Equity Global",
  "sfdr": "",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "L’objectif de la politique d’investissement est de réaliser une croissance de la valeur aussi élevée que possible en investissant dans des actions mondiales libellées en euros. Le fonds est indexé sur l’indice MSCI World All Countries. Il est géré de manière active dans le cadre de ses objectifs, et la direction du fonds peut à tout moment s’écarter de l’indice de référence, en tout ou partie.",
  "politique_en": "",
  "source_politique": "KID",
- "remarques": "Aucune factsheet de la part C3 : la factsheet du site (« Vector Navigator ») ne couvre que les parts C1, P et I1, et vector.lu ne publie des factsheets que pour la part C1 (autres parts, non utilisées) : date de création, gérants, encours, frais de gestion, disclaimer et allocations vides. KID français « Vector Navigator C3 » (« Date de publication: 12 février 2026 », téléchargé sur vector.lu et rangé dans INVESTLAW ; même date que le KID anglais déjà rangé). Devise EUR (montants et coûts du KID exprimés en EUR). Frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,91 % ; pas de frais de gestion séparés ; commission de performance de 20 % de la surperformance par rapport à l'indice de référence. Indice = indice de référence du KID (fonds « indexé » sur cet indice, géré activement ; sert aussi au calcul de la commission de performance) → retenu. SFDR vide : aucun article écrit dans le KID. Classification Dynamique : actions mondiales, SRI 4. Corrigé : encours (158.19), gérants et SFDR (6) supprimés : non écrits dans le KID de la part C3 et aucune factsheet de cette part ; indice → libellé exact du KID ; compartiment → texte du KID ; politique du site (traduite de la factsheet C1) → section « Objectifs » du KID ; frais courants (1.91) et SRI (4) inchangés.",
+ "remarques": "Aucune factsheet de la part C3 : la factsheet du site (« Vector Navigator ») ne couvre que les parts C1, P et I1, et vector.lu ne publie des factsheets que pour la part C1 (autres parts, non utilisées) : date de création, gérants, encours, frais de gestion, disclaimer et allocations vides. KID français « Vector Navigator C3 » (« Date de publication: 12 février 2026 », téléchargé sur vector.lu et rangé dans INVESTLAW ; même date que le KID anglais déjà rangé). Devise EUR (montants et coûts du KID exprimés en EUR). Frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,91 % ; pas de frais de gestion séparés ; commission de performance de 20 % de la surperformance par rapport à l'indice de référence. Indice = indice de référence du KID (fonds « indexé » sur cet indice, géré activement ; sert aussi au calcul de la commission de performance) → retenu. SFDR vide : aucun article écrit dans le KID. Classification Dynamique : actions mondiales, SRI 4. Corrigé : encours (158.19), gérants et SFDR (6) supprimés : non écrits dans le KID de la part C3 et aucune factsheet de cette part ; indice → libellé exact du KID ; compartiment → texte du KID ; politique du site (traduite de la factsheet C1) → section « Objectifs » du KID ; frais courants (1.91) et SRI (4) inchangés. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "kid_date": "KID p.1",
   "compartiment": "KID p.1",

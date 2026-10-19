@@ -20,7 +20,7 @@
  "sri": "5",
  "indice": "100% MSCI WORLD GROWTH INDEX",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Equity Global",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -29,7 +29,7 @@
  "politique_fr": "STRATEGIE D’INVESTISSEMENT\nL'objectif de gestion de CPR Invest - Global Disruptive Opportunities consiste à surperformer les marchés actions internationaux sur le long terme, 5 ans minimum, en investissant dans des actions de sociétés qui instaurent ou bénéficient - totalement ou partiellement - de modèles économiques disruptifs.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet la plus récente trouvée : 31/08/2026 (fundinfo ne propose pas encore celle de fin septembre). Date de création = « Date création : 22/12/2016 » (sans préciser part ou compartiment ; = début des performances « Depuis le 22/12/2016 »). Encours = « Actif géré : 2 737,03 ( millions EUR ) » au 31/08/2026. Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 2,30% » (identique au KID) ; pas de frais de gestion séparés ; commission de surperformance : « Oui ». Indice : factsheet « Indice Reference : 100% MSCI WORLD GROWTH INDEX » ; KID : indice utilisé a posteriori pour évaluer la performance et calculer la commission de performance, sans contrainte sur le portefeuille (retenu car mesure de performance, objectif de surperformance des marchés actions internationaux). SRI 5 (KID). SFDR article 8 (KID). Gérants : « Equipe de gestion » p.3 de la factsheet. Classification Agressif : actions thématiques (modèles disruptifs). Allocations : positions = « Principales lignes en portefeuille » (hors OPC) ; répartitions sectorielle, géographique et par devise non reprises (graphiques : 12 libellés pour 11 valeurs par série en sectoriel, attribution des dernières valeurs incertaine). Corrigé (factsheet 31/08/2026) : indice MSCI World Growth Net Return → 100% MSCI WORLD GROWTH INDEX.",
+ "remarques": "Factsheet la plus récente trouvée : 31/08/2026 (fundinfo ne propose pas encore celle de fin septembre). Date de création = « Date création : 22/12/2016 » (sans préciser part ou compartiment ; = début des performances « Depuis le 22/12/2016 »). Encours = « Actif géré : 2 737,03 ( millions EUR ) » au 31/08/2026. Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 2,30% » (identique au KID) ; pas de frais de gestion séparés ; commission de surperformance : « Oui ». Indice : factsheet « Indice Reference : 100% MSCI WORLD GROWTH INDEX » ; KID : indice utilisé a posteriori pour évaluer la performance et calculer la commission de performance, sans contrainte sur le portefeuille (retenu car mesure de performance, objectif de surperformance des marchés actions internationaux). SRI 5 (KID). SFDR article 8 (KID). Gérants : « Equipe de gestion » p.3 de la factsheet. Classification Agressif : actions thématiques (modèles disruptifs). Allocations : positions = « Principales lignes en portefeuille » (hors OPC) ; répartitions sectorielle, géographique et par devise non reprises (graphiques : 12 libellés pour 11 valeurs par série en sectoriel, attribution des dernières valeurs incertaine). Corrigé (factsheet 31/08/2026) : indice MSCI World Growth Net Return → 100% MSCI WORLD GROWTH INDEX. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "factsheet_date": "factsheet p.1",
   "kid_date": "KID p.1",
