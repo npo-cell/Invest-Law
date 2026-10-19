@@ -22,6 +22,15 @@
   }
  },
  {
+  "isin": "IE00B4Z6HC18",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs et politique » : texte repris ; la phrase « investira dans des obligations, émises par des États et des entreprises… selon Standard & Poor’s ou des agences similaires) ; » figure bien (puce Q, césure « c.-à-d. » sur deux lignes)"
+   }
+  }
+ },
+ {
   "isin": "LU1502282632",
   "cases": {
    "encours_date": {
@@ -54,49 +63,6 @@
    "encours_date": {
     "verdict": "CONFORME",
     "note": "factsheet « RAPPORT 30 | 09 | 2026 », « Actifs nets totaux (M EUR) 2 020,61 »"
-   }
-  }
- },
- {
-  "isin": "IE00BYRGXY37",
-  "cases": {
-   "encours_date": {
-    "verdict": "CONFORME",
-    "note": "factsheet p.1 « Data updated as of 31st August 2026 », « Fund Size USD 132m »"
-   },
-   "qualite": {
-    "verdict": "CONFORME",
-    "note": "factsheet p.1 « Weighted Average Rating A- »"
-   }
-  }
- },
- {
-  "isin": "LU2596602545",
-  "cases": {
-   "encours_date": {
-    "verdict": "CONFORME",
-    "note": "factsheet « All performance and holdings data as at 31-Aug-26 », « Total Net Assets (m) USD 1,660 »"
-   },
-   "disclaimer": {
-    "verdict": "CONFORME",
-    "note": "factsheet p.1 et p.2, texte identique (ligature « fl » de « fluctuate » perdue à l'extraction)"
-   },
-   "politique_en": {
-    "verdict": "CONFORME",
-    "note": "factsheet p.2 « Fund Objective and Investment Policy », texte identique (ligatures « fi » perdues à l'extraction)"
-   }
-  },
-  "allocations": {
-   "verdict": "CONFORME",
-   "note": "factsheet p.1 Region Allocation « 2.5% Asia/Pacific Ex Japan »"
-  }
- },
- {
-  "isin": "IE00B4Z6HC18",
-  "cases": {
-   "politique_fr": {
-    "verdict": "CONFORME",
-    "note": "KID p.1 « Objectifs et politique » : texte repris ; la phrase « investira dans des obligations, émises par des États et des entreprises… selon Standard & Poor’s ou des agences similaires) ; » figure bien (puce Q, césure « c.-à-d. » sur deux lignes)"
    }
   }
  },
@@ -381,6 +347,121 @@
     "verdict": "CONFORME",
     "note": "factsheet « gestion active sans considération d’un indice de référence » ; KID « sans utiliser une valeur de référence (benchmark) »"
    }
+  }
+ },
+ {
+  "isin": "LU0261950553",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « l’indice de référence: Aucune. » ; KID « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0251130554",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « l’indice de référence: Aucune. » ; KID « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU1116430247",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « l’indice de référence: Aucune. » ; KID « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0987487336",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0905233846",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Indice de référence Aucune. »"
+   }
+  }
+ },
+ {
+  "isin": "LU0433182416",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Indice de référence : Aucun » (le KID cite SOFR + hurdle seulement pour la commission de performance, sans contrainte de portefeuille)"
+   }
+  }
+ },
+ {
+  "isin": "LU0068578508",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Indice de référence : Aucun » (KID : SOFR seulement pour la commission de performance)"
+   }
+  }
+ },
+ {
+  "isin": "LU1481583711",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Le compartiment est géré activement et ne se base pas sur un indice de référence » ; KID « Il n'y a pas de comparaison avec un indice de référence. »"
+   }
+  }
+ },
+ {
+  "isin": "LU1038809395",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID « Il n'y a pas de comparaison avec un indice de référence. »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BYRGXY37",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Data updated as of 31st August 2026 », « Fund Size USD 132m »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Weighted Average Rating A- »"
+   }
+  }
+ },
+ {
+  "isin": "LU2596602545",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet « All performance and holdings data as at 31-Aug-26 », « Total Net Assets (m) USD 1,660 »"
+   },
+   "disclaimer": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et p.2, texte identique (ligature « fl » de « fluctuate » perdue à l'extraction)"
+   },
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.2 « Fund Objective and Investment Policy », texte identique (ligatures « fi » perdues à l'extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 Region Allocation « 2.5% Asia/Pacific Ex Japan »"
   }
  }
 ]

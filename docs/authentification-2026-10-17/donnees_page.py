@@ -11,7 +11,7 @@ LAB = {'date_creation': 'Date de création', 'devise': 'Devise', 'compartiment':
 
 
 def org(o):
-    return 'site' if o.startswith('invest') else 'wb' if o.startswith('Wealth') else 'new' if o.startswith('Fiche') else 'none'
+    return 'cor' if o.startswith('Corrig') else 'site' if o.startswith('invest') else 'wb' if o.startswith('Wealth') else 'new' if o.startswith('Fiche') else 'none'
 
 
 def verdict(r):

@@ -103,7 +103,7 @@ tr.det td{background:color-mix(in srgb,var(--paper) 60%,var(--card));padding:12p
 
 <div class="wrap">
   <header>
-    <div class="eyebrow">Contrôle du 17/10/2026 · classeur « Gamme One Life complète »</div>
+    <div class="eyebrow">Contrôle du 17/10/2026, refait le 19/10 après correction · classeur « Gamme One Life complète »</div>
     <h1>Authentification de la gamme One Life</h1>
     <p class="answer" id="answer"></p>
   </header>
@@ -143,6 +143,7 @@ tr.det td{background:color-mix(in srgb,var(--paper) 60%,var(--card));padding:12p
       <label for="f-origine">Origine
         <select id="f-origine">
           <option value="">Toutes</option>
+          <option value="cor">Corrigées le 19/10</option>
           <option value="site">Fiches invest-law.eu</option>
           <option value="wb">Préparées Wealth Belgium</option>
           <option value="new">Préparées le 16/10</option>
@@ -189,7 +190,7 @@ tr.det td{background:color-mix(in srgb,var(--paper) 60%,var(--card));padding:12p
 <script>
 const D=/*DATA*/null;
 const M=/*META*/null;
-const ORIG={site:'invest-law.eu',wb:'Wealth Belgium',new:'Préparée le 16/10',none:'Sans document'};
+const ORIG={cor:'Corrigée le 19/10',site:'invest-law.eu',wb:'Wealth Belgium',new:'Préparée le 16/10',none:'Sans document'};
 const VLAB={ok:'Authentifiée',part:'Source incomplète',fix:'À corriger',none:'Sans document'};
 const fmt=n=>n.toLocaleString('fr-FR');
 const pct=(a,b)=>b?Math.round(a/b*100):0;
@@ -198,18 +199,20 @@ const fdate=s=>s?s.split('-').reverse().join('/'):'—';
 const by=(o)=>{const c={ok:0,part:0,fix:0,none:0};D.filter(x=>o.includes(x.o)).forEach(x=>c[x.v]++);return c};
 
 /* réponse */
-const prep=by(['wb','new']),site=by(['site']);
-const prepN=prep.ok+prep.part+prep.fix,siteN=site.ok+site.part+site.fix;
-const fresh=D.filter(x=>x.fr).length,freshSite=D.filter(x=>x.fr&&x.o==='site').length;
+const all3=by(['cor','wb','new','site']),allN=all3.ok+all3.part+all3.fix,cor=by(['cor']),corN=cor.ok+cor.part+cor.fix;
+const none=by(['none']).none,fresh=D.filter(x=>x.fr).length;
 document.getElementById('answer').innerHTML=
- `<strong>Les fiches que nous avons préparées sont correctes</strong> : ${fmt(prep.ok)} sur ${fmt(prepN)} (Wealth Belgium et fiches du 16/10) reprennent fidèlement leur factsheet ou leur KID. `+
- `<strong>Les fiches déjà en ligne sur invest-law.eu ne le sont qu'en partie</strong> : ${fmt(site.ok)} sur ${fmt(siteN)} sont authentifiées, ${fmt(site.fix)} contiennent au moins une valeur qui contredit le document et ${fmt(site.part)} ont des cases qui ne figurent dans aucun des deux. `+
- `Par ailleurs, ${fmt(fresh)} fonds ont une factsheet plus récente publiée depuis, dont ${fmt(freshSite)} fiches du site.`;
+ `<strong>Après correction, ${fmt(all3.ok)} des ${fmt(allN)} fonds documentés sont authentifiés</strong> : chaque case vérifiable se retrouve dans leur factsheet la plus récente ou leur KID. `+
+ `Les ${fmt(corN)} fiches refaites le 19/10 en font partie pour ${fmt(cor.ok)} d'entre elles. `+
+ (all3.fix?`${fmt(all3.fix)} fiche(s) gardent une valeur qui contredit le document. `:'Aucune fiche ne contient de valeur qui contredit son document. ')+
+ (all3.part?`${fmt(all3.part)} ont encore des cases absentes des deux documents (voir le registre). `:'')+
+ `${fmt(none)} fonds n'ont aucun document public.`+(fresh?` ${fmt(fresh)} fonds ont une factsheet plus récente publiée depuis.`:'');
 
 /* cartes */
 const cards=[
+ {t:'Corrigées le 19/10',o:['cor']},{t:'Fiches invest-law.eu non reprises',o:['site']},
  {t:'Préparées Wealth Belgium',o:['wb']},{t:'Préparées le 16/10',o:['new']},
- {t:'Fiches invest-law.eu',o:['site']},{t:'Sans document public',o:['none']}];
+ {t:'Sans document public',o:['none']}];
 document.getElementById('verdicts').innerHTML=cards.map(c=>{
   const v=by(c.o),n=v.ok+v.part+v.fix+v.none;
   const main=c.o[0]==='none'?`${fmt(n)} <small>fonds</small>`:`${fmt(v.ok)} <small>sur ${fmt(n)} authentifiées</small>`;
@@ -226,7 +229,7 @@ document.getElementById('cells').innerHTML=[
  [M.alloc_lignes,"lignes d'allocation contrôlées"]].map(([n,l])=>`<div><b>${fmt(n)}</b><span>${l}</span></div>`).join('');
 const A=M.alloc;
 document.getElementById('cells-note').textContent=
- `Allocations, par fonds : ${fmt(A.CONFORME||0)} conformes, ${fmt(A.PARTIEL||0)} partielles, ${fmt(A.DIFFERENT||0)} d'une autre date ou d'autres pourcentages, ${fmt(A.ABSENT||0)} absentes du document. Toutes les cases contrôlées des fiches préparées par nos soins sont conformes ; les écarts portent sur les fiches du site.`;
+ `Allocations, par fonds : ${fmt(A.CONFORME||0)} conformes, ${fmt(A.PARTIEL||0)} partielles, ${fmt(A.DIFFERENT||0)} d'une autre date ou d'autres pourcentages, ${fmt(A.ABSENT||0)} absentes du document. Contrôle refait le 19/10 sur le classeur corrigé.`;
 
 /* causes */
 const ap=D.filter(x=>x.ap),dk=D.filter(x=>x.dk),fr=D.filter(x=>x.fr),rn=D.filter(x=>x.rn);

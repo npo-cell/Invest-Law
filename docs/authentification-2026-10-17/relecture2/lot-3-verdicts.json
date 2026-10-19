@@ -309,5 +309,158 @@
     "note": "KID (pas de factsheet) p.3 « La catégorie d'actions représentée a été lancée le 31. mars 2015 »"
    }
   }
+ },
+ {
+  "isin": "LU0203975437",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « ACTIF DU FONDS EUR 8.793.251.559 » (= 8793,251559 M€)"
+   }
+  }
+ },
+ {
+  "isin": "LU0187076913",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « ACTIF DU FONDS EUR 1.654.954.917 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0187077481",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « ACTIF DU FONDS EUR 297.955.839 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1932703363",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « La stratégie du Compartiment consiste à identifier des sociétés sous-évaluées en adoptant une approche d’investissement à contre-courant, tout en repérant des catalyseurs clairs de réévaluation… » (césure « sous-/évaluées »)"
+   }
+  }
+ },
+ {
+  "isin": "LU1932713917",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : « La stratégie du Compartiment consiste à investir dans des sociétés sous-évaluées pour lesquelles le Gestionnaire peut identifier des catalyseurs clairs… » (césure « sous-/évaluées »)"
+   }
+  }
+ },
+ {
+  "isin": "LU0556665551",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Valeur de référence: Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark) » (pas de factsheet)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs » + « Valeur de référence » repris mot pour mot (césures « au-/delà », « obli-/gataires »)"
+   }
+  }
+ },
+ {
+  "isin": "LU0407238897",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Valeur de référence: … sans utiliser une valeur de référence (benchmark) » (pas de factsheet)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs » + « Valeur de référence » repris mot pour mot (césures à l’extraction)"
+   }
+  }
+ },
+ {
+  "isin": "BE6291427076",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Indice de référence : Aucun. Le Produit est géré de manière active » (pas de factsheet)"
+   }
+  }
+ },
+ {
+  "isin": "FR0000016172",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Indicateur de référence : aucun. » (€STR + 1,5 % capitalisé cité seulement comme indicateur de comparaison a posteriori ; pas de factsheet)"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « OBJECTIFS » : classification AMF, objectifs de gestion, stratégie et caractéristiques extra-financières repris mot pour mot"
+   }
+  }
+ },
+ {
+  "isin": "LU2434354473",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date d’introduction 4/04/2022 »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif du compartiment, situation fin septembre 2026 EUR 128 766 014 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « situation fin septembre 2026 » (fiche d’information septembre 2026)"
+   }
+  }
+ },
+ {
+  "isin": "LU0504302356",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif du compartiment, situation fin septembre 2026 EUR 507 464 240 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « situation fin septembre 2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0278272843",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date d’introduction 9/03/2007 »"
+   },
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif du compartiment, situation fin septembre 2026 EUR 695 340 496 »"
+   },
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « situation fin septembre 2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1496475119",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Launch Date 25th October 2016 »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Benchmark: The portfolio is actively managed on a discretionary basis without reference to a benchmark. »"
+   }
+  }
  }
 ]
