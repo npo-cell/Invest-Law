@@ -1,0 +1,153 @@
+{
+ "n": "531",
+ "isin": "LU2612530977",
+ "nom": "FFG - BLI EUROPEAN IMPACT EQUITIES R EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-10",
+ "date_creation": "2023-06-15",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe (impact)",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "",
+ "encours_millions": "14.86",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.3",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le Compartiment FFG – European Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur un marché réglementé européen. Le compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OPC, en instruments du marché monétaire, en OPC monétaires ou équivalents, ainsi que dans des dépôts à terme et à vue (jusqu’à 20% des actifs nets pour ces derniers). Le Compartiment est géré activement sans référence à un indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 611.5 → 14.86 (« Actifs nets du fonds 14 863 708,73 € » ; la part R : 615 836,85 €) ; gérant « Tom Michels » retiré (la factsheet ne nomme que le gestionnaire BLI - Banque de Luxembourg Investments) ; indice « n/a » → Aucun (« géré activement sans référence à un indice ») ; % durable 93 retiré : la factsheet donne « Répartition des actifs durables : Environnement 42,1% / Social 47,2% » (89,3 %, égal au pourcentage des revenus alignés aux ODD), aucun pourcentage d'investissements durables explicite ; minimum 80 % d'actifs durables. Factsheet la plus récente : 31/08/2026. Le PDF contient des couches de texte cachées d'autres parts ; valeurs vérifiées sur l'image. Date de création = « Lancement de la part 15/06/2023 ». Frais : factsheet « 2,32% », « Dont Frais de Gestion (max.) 1,50% » ; KID « 2,3% ». SFDR article 9. Classification Agressif : actions européennes à thème impact. Allocations : secteurs (actions) et capitalisations lus sur l'image de la page 2.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Andritz AG",
+   "pct": "6.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric SE",
+   "pct": "6.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide SA",
+   "pct": "5.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "5.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novonesis AS B",
+   "pct": "4.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prysmian SpA",
+   "pct": "4.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sopra Steria Group SA",
+   "pct": "4.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Technogym SpA",
+   "pct": "4.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nibe Industrier AB B",
+   "pct": "3.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AstraZeneca Plc",
+   "pct": "3.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "47.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "16.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "13.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "13.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "6.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "3.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< € 2,5 Md",
+   "pct": "31.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€ 2,5 - 10 Md",
+   "pct": "27.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€ 10 - 50 Md",
+   "pct": "26.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">€ 50 Md",
+   "pct": "14.3"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612530977/LU2612530977__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612530977/LU2612530977__KID_FR_2026-02-10.pdf"
+}
