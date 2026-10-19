@@ -1,0 +1,237 @@
+{
+ "n": "714",
+ "isin": "LU0308864023",
+ "nom": "MAINFIRST TOP EUROPEAN IDEAS A EUR",
+ "maison": "Mainfirst Affiliated Fund Managers S.A.",
+ "factsheet_date": "2026-06-30",
+ "kid_date": "2026-07-01",
+ "date_creation": "2007-07-13",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes",
+ "compartiment": "un compartiment du fonds MainFirst, SICAV (Société d'Investissement à Capital Variable), société anonyme",
+ "gerants": "",
+ "encours_millions": "58.29",
+ "encours_devise": "EUR",
+ "encours_date": "2026-06-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.02",
+ "sri": "4",
+ "indice": "STOXX EUROPE 600 Net Return EUR",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Historical performance is not an indicator for current or future performance.",
+ "politique_fr": "",
+ "politique_en": "The fund uses a flexible, blended investment strategy founded on a bottom-up approach. A thorough investigation of each company and its management followed by a fair valuation is at the core of the selection process. The fund managers prefer longer investment Horizons in order to benefit from revaluation processes. At least 75% of assets are invested in eurozone companies with sound fundamentals, including those with large market capitalisation, as well as small-cap and mid-cap companies. The sub-fund’s investment target is to outperform the Benchmark (Sales Prospectus „8.SPECIFIC INFORMATION ON THE BENCHMARK“). SRI (Summary Risk Indicator) scale from 1 (lowest risk) to 7 (highest risk); Risk 1 does not mean a risk-free investment. This indicator may change over time. Historical performance is not an indicator for current or future performance. The performance data does not take into account the issue and redemption of the commissions and costs charged per unit. Cumulative performance 4) Performance p.a.4) MTD YTD 1 Y 5 Y 10 Y since inception 5 Y 10 Y since inception MainFirst – Top European Ideas Fund (A) 2.20 % 10.18 % 19.33 % 26.62 % 132.87 % 219.64 % 4.83 % 8.82 % 6.31 % ANNUAL PERFORMANCE IN EUR, ROLLING (IN %) 3) 4) 5)",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : type_fonds remplacé (texte des documents) ; compartiment remplacé (texte des documents) ; gerants « ETHENEA Independent Investors S.A. » vidé ; indice « STOXX Europe 600 NR EUR » → « STOXX EUROPE 600 Net Return EUR » ; categorie « Equity Europe » vidé ; disclaimer remplacé (texte des documents) ; politique_fr vidé ; politique_en remplacé (texte des documents). Factsheet la plus récente trouvée : 30/06/2026 en anglais (fundinfo et site ethenea.com ne proposent pas plus récent ; la version allemande de même date est écartée). Gérant « ETHENEA Independent Investors S.A. » (société, non admise) vidé : aucun nom de gérant. Encours = « Fund size 58.29 Mio. EUR » au 30/06/2026 ; date de création = « Inception date 13 July 2007 ». Frais : « Management fee p.a. (effective) 1.50 % » ; frais courants KID du 01/07/2026 « Frais de gestion et autres frais administratifs et d’exploitation 2,02% » (= « Ongoing costs 2.02 % ») ; commission de performance max. 15 %. Indice : nommé par le KID (« SXXR indice (STOXX EUROPE 600 Net Return EUR) », objectif de surperformance et commission de performance) ; la factsheet renvoie au prospectus sans le nommer. SFDR article 8 (KID). Allocations au 30/06/2026.",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Raiffeisen Bank International AG",
+   "pct": "5.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ISS AS",
+   "pct": "5.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz SE",
+   "pct": "5.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Talanx AG",
+   "pct": "5.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Commerzbank AG",
+   "pct": "5.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BASF SE",
+   "pct": "5.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TRATON SE",
+   "pct": "5.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BAWAG Group AG",
+   "pct": "5.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASR Nederland NV",
+   "pct": "4.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TotalEnergies SE",
+   "pct": "4.17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financial",
+   "pct": "43.37"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer",
+   "pct": "29.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Commodities",
+   "pct": "6.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "4.17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrial",
+   "pct": "2.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma & Healthcare",
+   "pct": "2.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "0.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technology",
+   "pct": "0.60"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Others",
+   "pct": "0.00"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "87.39"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "5.72"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "4.99"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "1.90"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "43.68"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "11.22"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Austria",
+   "pct": "11.01"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Denmark",
+   "pct": "5.72"
+  },
+  {
+   "type": "Pays",
+   "libelle": "UK",
+   "pct": "4.99"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "4.83"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "4.31"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "2.61"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "2.15"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega(>100bn)",
+   "pct": "13.22"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large(20-100bn)",
+   "pct": "20.59"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mid(5-20bn)",
+   "pct": "46.55"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small(1-5bn)",
+   "pct": "8.99"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Micro(<1bn)",
+   "pct": "1.16"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/MAINFIRST_AFFILIATED_FUND_MANAGERS_S_A/LU0308864023/LU0308864023__Factsheet_EN_2026-06-30.pdf",
+ "kid_fichier": "INVESTLAW/MAINFIRST_AFFILIATED_FUND_MANAGERS_S_A/LU0308864023/LU0308864023__KID_FR_2026-07-01.pdf"
+}

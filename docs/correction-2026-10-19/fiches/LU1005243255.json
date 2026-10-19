@@ -1,0 +1,102 @@
+{
+ "n": "393",
+ "isin": "LU1005243255",
+ "nom": "BGF FIXED INCOME GLOBAL OPPS A2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-14",
+ "date_creation": "2013-12-18",
+ "devise": "EUR",
+ "type_fonds": "Obligataire international flexible",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Rick Rieder, Jose Aguilar, Russell Brownback, Aidan Doyle, Max Huefner",
+ "encours_millions": "8878.78",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.22",
+ "sri": "3",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "3.19 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres à revenu fixe. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte). Les titres à revenu fixe sont libellés dans différentes devises et peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales (par ex. la Banque internationale pour la reconstruction et le développement).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026). Date de création : « Date de lancement de la Catégorie d'Actions : 18-déc.-2013 » (fonds : 31-janv.-2007). Encours « Encours sous gestion (M) : 8.878,78 USD ». Frais : « Commission de gestion annuelle : 1,00% » ; frais courants 1,22 % (KID et factsheet). Indice : le « BBG Global Aggregate Index (USD Hedged) » n'est qu'un « Comparateur 1 » (le KID précise que les investisseurs peuvent l'utiliser pour comparer la performance) : non retenu. Duration : « Duration effective : 3,19 ans » (rendement à maturité 6,41 %). SFDR : « Classification SFDR : Autre » (ni article 8 ni 9) : vide. Allocations : 10 principales positions seulement (secteurs, échéances et notes de crédit sont des graphiques sans valeurs dans le texte). Corrigé : encours 9105.92 → 8878.78 USD (factsheet 30/09/2026) ; duration 3.43 → 3.19 ; indice → vide (comparateur seulement) ; compartiment remplacé par le texte du KID ; classification Défensif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__KID_FR_2026-08-14.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "duration": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "UMBS 30YR TBA(REG A)",
+   "pct": "14.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE 4.125 08/31/2028",
+   "pct": "2.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNMA 30YR UMBS SUPER",
+   "pct": "1.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GNMA2 30YR TBA(REG C)",
+   "pct": "1.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FHLMC 30YR UMBS",
+   "pct": "1.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TREASURY NOTE 4.25 08/15/2029",
+   "pct": "1.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITED KINGDOM OF GREAT BRITAIN AN 4.375 03/07/2030",
+   "pct": "0.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FHLMC 30YR UMBS SUPER",
+   "pct": "0.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ITALY (REPUBLIC OF) 3.45 02/01/2036",
+   "pct": "0.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IRELAND (GOVERNMENT) 2.6 10/18/2034",
+   "pct": "0.70"
+  }
+ ]
+}
