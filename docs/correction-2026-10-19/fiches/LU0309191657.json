@@ -1,0 +1,258 @@
+{
+ "n": "409",
+ "isin": "LU0309191657",
+ "nom": "BL-EQUITIES DIVIDEND B EUR",
+ "maison": "BLI - Banque de Luxembourg Investments S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-06",
+ "date_creation": "2007-10-30",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (dividendes)",
+ "compartiment": "un compartiment de BL",
+ "gerants": "Jérémie Fastnacht, Guy Wagner",
+ "encours_millions": "472.35",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.5",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "56",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des sociétés de qualité cotées sur les marchés boursiers mondiaux. Les sociétés sélectionnées bénéficient d’avantages compétitifs pérennes et offrent des dividendes attrayants, soutenables et en croissance. Le fonds vise à générer des rendements ajustés au risque supérieurs à ceux de son univers de référence sur un cycle de marché complet.\n\nLe fonds s’engage à investir minimum 30% de ses actifs en actifs durables.\n\nLe gérant du fonds met en œuvre une stratégie active et de long terme reposant sur des convictions solides.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026. Date de création : « Date de lancement de la classe 30/10/2007 ». Encours « Actifs nets € 472,35 mio ». Frais : classe B « Frais de gestion 1.25% » et « Frais courants 1.44% » (tableau des classes de la factsheet) ; frais courants 1,5 % retenus du KID (« Frais de gestion et autres frais administratifs et d'exploitation 1,5% »). Indice : la factsheet affiche le « MSCI AC World NR EUR » mais précise que « les références à un indice de marché … sont faites uniquement à des fins de comparaison » ; le KID indique une gestion sans valeur de référence : non retenu. Gérants : Jérémie Fastnacht (gestionnaire) et Guy Wagner (suppléant). SFDR 8 (« Classification SFDR 8 »). Investissements durables : « Actifs durables 56% » (engagement minimal de 30 %). Classification Dynamique : actions mondiales de qualité à dividendes (SRI 3). Allocations : 10 principales positions, devises (tableau texte), secteurs, pays et capitalisations (graphiques, valeurs du fonds lues sur l'image de la page 2). Corrigé : encours 507.06 → 472.35 (factsheet 30/09/2026) ; frais courants 1.44 → 1.5 (KID) ; indice → vide (comparaison seulement) ; SFDR 8 et investissements durables 56 ajoutés ; classification Dynamique ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__KID_FR_2026-02-06.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "durable_pct": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Unilever",
+   "pct": "7.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Givaudan",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oreal",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Colgate Palmolive",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nestle",
+   "pct": "5.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Resmed",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bureau Veritas SA",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SGS",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Canadian National Railway Co",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Union Pacific",
+   "pct": "4.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "40.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "26.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "18.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "4.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "4.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Other",
+   "pct": "5.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "9.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "27.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "8.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. de base",
+   "pct": "31.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "10.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "9.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de télécom",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "33.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "22.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "20.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "7.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "5.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "4.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Vietnam",
+   "pct": "1.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du Sud",
+   "pct": "1.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 5 mrd",
+   "pct": "5.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 - 20 mrd",
+   "pct": "16.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 20 mrd",
+   "pct": "78.0"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "n": "399",
+ "isin": "LU0124384867",
+ "nom": "BGF SUSTAINABLE ENERGY A2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-24",
+ "date_creation": "2001-04-06",
+ "devise": "USD",
+ "type_fonds": "Actions internationales (thématique énergies durables)",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Alastair Bishop, Lindsay Sinclair",
+ "encours_millions": "4929.11",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.65",
+ "frais_courants": "1.97",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % de ses actifs dans des titres de participation (c’est-à-dire des actions) de sociétés dont l'activité est liée aux énergies durables. Les sociétés d’énergie durable sont actives dans les énergies alternatives et les technologies de l’énergie, comme décrit dans le prospectus. Les sociétés sont notées par le Conseiller en investissement (CI) en fonction de leur capacité à gérer les risques et opportunités associés au thème de l’énergie durable et de leurs risques et opportunités environnementaux, sociaux et de gouvernance (« ESG »). Le total de l’actif du Fonds sera investi conformément à sa Politique ESG ainsi qu’aux Exclusions prévues pour les indices de référence « accord de Paris », comme indiqué dans le prospectus. Pour plus de détails, veuillez consulter le prospectus.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026). Date de création : « Date de lancement de la Catégorie d'Actions : 06-avr.-2001 » (fonds : 15-mars-2001). Encours « Encours sous gestion (M) : 4.929,11 USD ». Frais : « Commission de gestion annuelle : 1,65% » ; frais courants 1,97 % (KID et factsheet). Indice : la factsheet cite « Contrainte 1 : Sustainable Energy Composite Benchmark » et « Comparateur 2 : MSCI All Country World Index (Net) » ; selon le KID, l'indice composite n'est utilisé qu'« à des fins de gestion des risques » : non retenu. SFDR : « Classification SFDR : Article 9 » ; aucun pourcentage d'investissements durables effectif écrit. Classification Agressif : actions thématiques (énergies durables) (SRI 5). Allocations : 10 principales positions seulement (secteurs, pays et capitalisations sont des graphiques sans valeurs dans le texte). Corrigé : encours 5122.91 → 4929.11 USD (factsheet 30/09/2026) ; classification Agressif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__KID_FR_2026-06-24.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NEXTPOWER INC",
+   "pct": "4.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NATIONAL GRID PLC",
+   "pct": "4.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FIRST SOLAR INC",
+   "pct": "4.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LINDE PLC",
+   "pct": "4.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NEXTERA ENERGY INC",
+   "pct": "3.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDP RENEWABLES SA",
+   "pct": "3.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KINGSPAN GROUP PLC",
+   "pct": "3.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SIEMENS ENERGY AG",
+   "pct": "3.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANALOG DEVICES INC",
+   "pct": "3.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VESTAS WIND SYSTEMS A/S",
+   "pct": "3.11"
+  }
+ ]
+}

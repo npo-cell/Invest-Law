@@ -1,0 +1,102 @@
+{
+ "n": "402",
+ "isin": "LU0326422689",
+ "nom": "BGF WORLD GOLD A2 HEDGED EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2007-11-30",
+ "devise": "EUR",
+ "type_fonds": "Actions mines d'or",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Evy Hambro, Tom Holl",
+ "encours_millions": "10867.80",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.75",
+ "frais_courants": "2.07",
+ "sri": "6",
+ "indice": "FTSE Gold Mines Index (Price Return) (USD)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés dont l’activité principale est l’exploitation de métaux précieux ou de minerais et l’exploitation de métaux de base ou de minerais.\n\nLe Fonds ne détient pas d’or ou de métal physique.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026), part A2 EUR couverte. Date de création : « Date de lancement de la Catégorie d'Actions : 30-nov.-2007 » (fonds : 30-déc.-1994). Encours « Encours sous gestion (M) : 10.867,80 USD » (fonds). Frais : « Commission de gestion annuelle : 1,75% » ; frais courants 2,07 % (KID ; la factsheet écrit « Frais courants : 2,06% »). Indice : « Contrainte 1 : FTSE Gold Mines Index (Price Return) (USD) », utilisé pour la construction du portefeuille et la gestion des risques (KID). SFDR : « Classification SFDR : Autre » : vide. Classification Agressif : actions sectorielles (mines d'or) (SRI 6). Allocations : 10 principales positions seulement (secteurs, pays et capitalisations sont des graphiques sans valeurs dans le texte). Corrigé : encours 11896.07 → 10867.80 USD (factsheet 30/09/2026) ; frais courants 2.05 → 2.07 (KID) ; classification Agressif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__KID_FR_2026-04-29.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BARRICK MINING CORP",
+   "pct": "7.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AGNICO EAGLE MINES LTD (ONTARIO)",
+   "pct": "6.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NEWMONT CORPORATION",
+   "pct": "5.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WHEATON PRECIOUS METALS CORP",
+   "pct": "5.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANGLOGOLD ASHANTI PLC",
+   "pct": "5.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NORTHERN STAR RESOURCES LTD",
+   "pct": "5.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FRANCO-NEVADA CORP",
+   "pct": "4.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENDEAVOUR MINING PLC",
+   "pct": "4.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOREX GOLD RESOURCES INC",
+   "pct": "3.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ELDORADO GOLD CORPORATION",
+   "pct": "3.69"
+  }
+ ]
+}

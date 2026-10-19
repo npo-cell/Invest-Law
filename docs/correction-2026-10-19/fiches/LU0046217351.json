@@ -1,0 +1,231 @@
+{
+ "n": "630",
+ "isin": "LU0046217351",
+ "nom": "JANUS HENDERSON HRZN PANEURPSMRCOMS A2 EUR",
+ "maison": "Janus Henderson Investors",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-13",
+ "date_creation": "1993-08-02",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes petites capitalisations",
+ "compartiment": "Un compartiment de Janus Henderson Horizon Fund, une SICAV luxembourgeoise",
+ "gerants": "Ollie Beckett, Rory Stokes, Julia Scheufler",
+ "encours_millions": "1410",
+ "encours_devise": "",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.87",
+ "sri": "4",
+ "indice": "Indice MSCI Europe Small Cap",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur d’un investissement et ses revenus peuvent augmenter ou diminuer et vous pourriez ne pas récupérer le montant investi à l’origine.",
+ "politique_fr": "Le Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice MSCI Europe Small Cap Index, après déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement Le Fonds investit au moins 75% de ses actifs dans des actions (titres de participation) et des titres assimilés de petites sociétés, de tous secteurs, sises dans l'EEE ou au Royaume-Uni s'il ne fait pas partie de l'EEE. Les sociétés auront leur siège social dans l'EEE ou au Royaume-Uni s'il ne fait pas partie de l'EEE. Le Fonds peut également investir dans d'autres actifs, y compris des sociétés de toutes tailles et de toutes régions, des liquidités et des instruments du marché monétaire. Le Gestionnaire d'Investissement peut avoir recours à des dérivés (instruments financiers complexes) pour réduire le risque ou pour gérer le Fonds plus efficacement. Le Fonds est géré de façon active en se référant à l'indice MSCI Europe Small Cap Index, qui est largement représentatif des sociétés dans lesquelles celui-ci est susceptible d'investir, dans la mesure où cet indice constitue la base de l'objectif de performance du Fonds et le niveau au-dessus duquel des commissions de performance peuvent être imputées (le cas échéant). Le gestionnaire d'investissement a le pouvoir discrétionnaire de choisir des investissements pour le Fonds ayant des pondérations différentes de celles de l'indice ou n'étant pas présents dans l'indice, mais le Fonds peut occasionnellement détenir des investissements similaires à ceux de l'indice.\n\nStratégie d'investissement Le Gestionnaire d'Investissement se focalise sur les réunions et les appels avec la société de gestion, ainsi que sur l'utilisation de filtres quantitatifs, pour identifier de potentielles sociétés pour un investissement. L'accent est mis sur la robustesse du modèle commercial d'une société, sur l'analyse de ce qui constitue les éléments moteurs de l'activité, de ce qu'est son avantage concurrentiel, et sur la durabilité des rendements. Le Fonds gère un portefeuille bien diversifié de sociétés qui figurent généralement parmi les 25 % les plus petites sur leur marché respectif. La liquidité de la société (le degré auquel les actions peuvent être rapidement achetées ou vendues sur le marché à un prix reflétant sa valeur intrinsèque) est importante afin de déterminer s'il convient d'investir pour le Fonds et dans quelle proportion.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fiche préparée le 16/10 refaite sur la factsheet FR du 30/09/2026 (au lieu du 31/08/2026) ; part A2 EUR, ISIN conforme. Corrigé : factsheet 31/08 → 30/09/2026 ; date de l'encours → 30/09/2026 (montant inchangé, 1.41Mds) ; devise de l'encours retirée (non écrite) ; indice → libellé du tableau (« Indice MSCI Europe Small Cap ») ; compartiment → libellé du KID ; positions et répartitions mises à jour au 30/09/2026. Date de création = date de la catégorie d'actions (02 août 1993) ; fonds : 01 août 1993. Encours = « Total de l'actif nette 1.41Mds » (1 410 millions) : la devise n'est pas écrite à côté du montant (devise de base du fonds : EUR), devise laissée vide. Frais : factsheet « Frais de gestion annuels (FGA) 1,20 », « Frais courants (FC) 1,87 » ; KID « 1,87% » ; commission de surperformance de 10 % au-delà de l'indice. Indice retenu : objectif de surperformer le MSCI Europe Small Cap Index sur cinq ans. SRI 4 (KID). SFDR article 8 (factsheet). Classification Dynamique : petites capitalisations européennes diversifiées, SRI 4. Allocations : colonne « Fonds » seulement.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TKH Group",
+   "pct": "3.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IG Group",
+   "pct": "2.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Elmos Semiconductor",
+   "pct": "2.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Stroeer",
+   "pct": "1.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Van Lanschot Kempen",
+   "pct": "1.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Recticel",
+   "pct": "1.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JCDecaux",
+   "pct": "1.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SUSS MicroTec",
+   "pct": "1.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gaztransport Et Technigaz",
+   "pct": "1.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Indra Sistemas",
+   "pct": "1.57"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€10B to €25B",
+   "pct": "2.65"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€5B to €10B",
+   "pct": "12.60"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€1B to €5B",
+   "pct": "61.20"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€250M to €1B",
+   "pct": "19.51"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Under €250M",
+   "pct": "3.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "35.32"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "14.92"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "10.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "10.05"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "8.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "7.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.53"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.59"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "0.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "0.98"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "21.75"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "17.35"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "12.33"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "10.31"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "8.54"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "6.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "5.02"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "3.86"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autriche",
+   "pct": "3.19"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "3.16"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__KID_FR_2026-02-13.pdf"
+}
