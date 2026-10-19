@@ -14,6 +14,7 @@ from datetime import datetime
 from email.header import decode_header, make_header
 
 HOST = os.environ.get('ZIMBRA_HOST') or os.environ.get('ZIMBRA_IMAP_HOST') or 'zimbra1.mail.ovh.net'
+HOST = urllib.parse.urlsplit(HOST if '//' in HOST else '//' + HOST).hostname  # tolère une URL complète
 
 
 def rest(path, **params):
