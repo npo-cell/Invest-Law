@@ -7,6 +7,10 @@ variables ZIMBRA_USER / ZIMBRA_PASSWORD. Procédure de la routine : docs/zimbra-
   python3 tools/zimbra_vni_sync.py [--days 10] [--dir DOSSIER]           # simulation : ce qui serait importé
   python3 tools/zimbra_vni_sync.py [--days 10] [--dir DOSSIER] --apply   # import + relecture
 
+Mémoire : docs/zimbra-vni/journal.csv (chaque VNI importée ou écartée) et docs/zimbra-vni/mails.csv
+(chaque mail vu) ; écrits seulement avec --apply. Une VNI déjà sur le site n'est jamais réimportée ;
+une VNI ou un mail déjà au journal est marqué « déjà signalé ».
+
 Seules les fiches existantes sont mises à jour. Une VNI est écartée (signalée, pas importée) si :
 date dans le futur, mails contradictoires, ou variation > 10 % par rapport à la VNI précédente.
 """
@@ -18,6 +22,22 @@ import zimbra_mail
 from investlaw_upload import api
 
 MAX_VAR = 0.10
+DOC = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'docs', 'zimbra-vni')
+JOURNAL, MAILS = os.path.join(DOC, 'journal.csv'), os.path.join(DOC, 'mails.csv')
+KNOWN = ('olis@caceis.com', 'opcvm@dncafinance.fr', 'opcvm@dncafinance.lu')
+
+
+def read_csv(path):
+    return list(csv.DictReader(open(path, encoding='utf-8'))) if os.path.exists(path) else []
+
+
+def append_csv(path, fields, rows):
+    new = not os.path.exists(path)
+    with open(path, 'a', newline='', encoding='utf-8') as f:
+        w = csv.DictWriter(f, fields)
+        if new:
+            w.writeheader()
+        w.writerows(rows)
 
 
 def opt(name, default=None):
@@ -26,7 +46,8 @@ def opt(name, default=None):
 
 def download(days, out):
     since = (date.today() - timedelta(days=days)).strftime('%m/%d/%Y')
-    for m in zimbra_mail.messages(f'after:{since}'):
+    msgs = zimbra_mail.messages(f'after:{since}')
+    for m in msgs:
         d = os.path.join(out, m['id'])
         if not os.path.isdir(d):
             msg = zimbra_mail.email.message_from_bytes(zimbra_mail.rest('', id=m['id']))
@@ -35,6 +56,7 @@ def download(days, out):
                 if part.get_filename():
                     with open(os.path.join(d, os.path.basename(zimbra_mail.h(part.get_filename()))), 'wb') as f:
                         f.write(part.get_payload(decode=True))
+    return msgs
 
 
 def num(s):
@@ -63,7 +85,7 @@ def parse(out):
 def main():
     apply = '--apply' in sys.argv
     out = opt('--dir') or tempfile.mkdtemp(prefix='zimbra_vni_')
-    download(int(opt('--days', 10)), out)
+    msgs = download(int(opt('--days', 10)), out)
     mail = defaultdict(lambda: defaultdict(set))
     for i, d, v, src in parse(out):
         mail[i][d].add(v)
@@ -105,6 +127,25 @@ def main():
         bad = [t for t in todo if abs(sites[t[0]].get(t[2], -1) - t[3]) >= 0.005]
         report['importees'] = len(todo) - len(bad)
         report['ecarts_relecture'] = bad
+    now = datetime.now().isoformat(timespec='minutes')
+    seen = {(r['isin'], r['date'], r['statut']) for r in read_csv(JOURNAL)}
+    report['ecartees'] = [r + (('déjà signalée' if (r[1], r[2], 'ecartee') in seen else 'nouvelle'),) for r in rejected]
+    seen_mails = {r['id'] for r in read_csv(MAILS)}
+    other = []
+    for m in msgs:
+        frm = next((e.get('a', '') for e in m.get('e', []) if e.get('t') == 'f'), '')
+        if m['id'] not in seen_mails:
+            other.append(dict(id=m['id'], recu=datetime.fromtimestamp(m['d'] / 1000).isoformat(timespec='minutes'), expediteur=frm,
+                              sujet=m.get('su', ''), type='VNI' if frm.lower() in KNOWN else 'à traiter à la main', vu_le=now))
+    report['mails_a_traiter'] = [(o['recu'], o['expediteur'], o['sujet']) for o in other if o['type'] != 'VNI']
+    if apply:
+        bad = {(t[1], t[2]) for t in report['ecarts_relecture']}
+        append_csv(JOURNAL, ['horodatage', 'fund_id', 'isin', 'date', 'vni', 'statut', 'raison'],
+                   [dict(horodatage=now, fund_id=f, isin=i, date=d, vni=v, statut='erreur' if (i, d) in bad else 'importee', raison='')
+                    for f, i, d, v in todo]
+                   + [dict(horodatage=now, fund_id=f, isin=i, date=d, vni=v, statut='ecartee', raison=r)
+                      for f, i, d, v, r in rejected if (i, d, 'ecartee') not in seen])
+        append_csv(MAILS, ['id', 'recu', 'expediteur', 'sujet', 'type', 'vu_le'], other)
     report['detail'] = defaultdict(list)
     for fid, i, d, v in todo:
         report['detail'][f"{fid} {ids[i]['Name']}"].append(d)
