@@ -31,3 +31,7 @@
 - Fichiers : `resultat-apres-correction.json`, `passage-automatique-apres-correction.json`. Artefact republié au même lien : https://claude.ai/artifact/7GsXisc2YK4wPHHni72WLx
 - **invest-law.eu non modifié** : les corrections des 374 fiches du site restent à reporter sur le site, avec l'accord de l'utilisatrice.
 - Décisions toujours ouvertes : CPR Hydrogen A2 (factsheet de la part datée de 2024, non retenue) ; M&G Sustainable Macro Flexible Credit P (factsheet de la part W, ligne de la part P) ; Waterloo (factsheet « Internal use only », publiée par le gestionnaire) ; fiches vides faute de document de la part (Leleux P et PA, Conviction Patrimoine B).
+
+### Fiches du site hors gamme One Life (19/10/2026)
+- 25 fiches d'invest-law.eu ne sont pas dans la gamme One Life (relevé du 16/10) : 11 mandats / profils FID (DNCA, Keren, Leleux, Rothschild), 3 fonds actifs (137 ODDO BHF ProActif Europe, 139 PTAM Global Equity R, 165 Carmignac Grandchildren — ISIN du site incomplet « LU196663100 »), 11 fonds inactifs (dont fiches 70 et 373 mal saisies).
+- **Décision de l'utilisatrice : on les garde, on n'y touche pas** (ni suppression, ni ajout au classeur, ni contrôle).
