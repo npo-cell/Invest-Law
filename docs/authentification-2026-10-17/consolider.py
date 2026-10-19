@@ -61,12 +61,21 @@ def main(res1, kiddir, fundinfo, sortie):
     for f in glob.glob(os.path.join(ICI, 'relecture', 'lot-*-verdicts.json')):
         for e in json.load(open(f)):
             V[e['isin']] = e
+    V2 = {}  # relecture du 19/10 après correction (prioritaire)
+    for f in glob.glob(os.path.join(ICI, 'relecture2', 'lot-*-verdicts.json')):
+        for e in json.load(open(f)):
+            V2[e['isin']] = e
+    OLD = {}  # valeurs relues le 17/10 : un ancien verdict ne vaut que si la valeur n'a pas changé
+    if os.environ.get('OLD_RES1'):
+        OLD = {(r['isin'], k): x['v'] for r in json.load(open(os.environ['OLD_RES1'])) for k, x in r['cells'].items()}
     FI = json.load(open(fundinfo))
     kids = {os.path.basename(p).split('__')[0]: p for p in glob.glob(os.path.join(kiddir, '*.pdf'))}
     out = []
     for r in R:
         isin = r['isin']
         v = V.get(isin, {})
+        v2 = V2.get(isin, {})
+        corrige = r['origine'].startswith('Corrigée')
         kidtxt = au.texte(kids[isin]) if isin in kids else ''
         cells = {}
         for k, x in r['cells'].items():
@@ -74,14 +83,14 @@ def main(res1, kiddir, fundinfo, sortie):
             if st == 'OK':
                 st, note = 'CONFORME', 'retrouvé automatiquement dans le document'
             elif st == 'NON_RETROUVE':
-                h = v.get('cases', {}).get(k, {})
+                h = v2.get('cases', {}).get(k) or (v.get('cases', {}).get(k, {}) if not OLD or OLD.get((isin, k)) == x['v'] else {})
                 st, note, vdoc = h.get('verdict', 'ABSENT'), h.get('note', ''), h.get('valeur_document', '')
             if st in ('ABSENT', 'DIFFERENT', 'SANS_SOURCE') and kidtxt and kid_match(k, x['v'], kidtxt):
                 st, note = 'CONFORME', 'retrouvé dans le KID (fundinfo, %s)' % os.path.basename(kids[isin])
             if st == 'SANS_SOURCE':
                 st, note = 'ABSENT', 'aucun document pour ce fonds'
             cells[k] = {'v': x['v'], 'st': st, 'note': note, 'vdoc': vdoc}
-        al = v.get('allocations')
+        al = v2.get('allocations') or (None if corrige else v.get('allocations'))
         if r['alloc_total'] == 0:
             alloc = None
         elif not r['alloc_bad']:
@@ -99,11 +108,11 @@ def main(res1, kiddir, fundinfo, sortie):
                 fresh = 'Factsheet plus récente sur fundinfo : %s (%s)' % (best, 'FR' if mr_fr else 'EN')
         elif mr_fr or mr_en:
             fresh = 'Aucune factsheet dans le classeur, mais fundinfo en publie une (%s)' % (mr_fr or mr_en)
-        doc_kid = bool(r['sources']) and r['sources'][0].endswith('__site.pdf') and \
+        doc_kid = not corrige and bool(r['sources']) and r['sources'][0].endswith('__site.pdf') and \
             any(w in au.texte(os.path.join(os.path.dirname(kiddir), 'pdf', r['sources'][0]))[:3000].lower() for w in KID_WORDS)
         out.append({'n': r['n'], 'isin': isin, 'nom': r['nom'], 'statut': r['statut'], 'origine': r['origine'],
                     'fs_date': r['fs_date'], 'kid_date': r['kid_date'], 'cells': cells, 'alloc': alloc,
-                    'alloc_total': r['alloc_total'], 'fraicheur': fresh, 'autre_part': AUTRE_PART.get(isin, ''), 'renomme': RENOMME.get(isin, ''),
+                    'alloc_total': r['alloc_total'], 'fraicheur': fresh, 'autre_part': '' if corrige else AUTRE_PART.get(isin, ''), 'renomme': RENOMME.get(isin, ''),
                     'doc_site_est_kid': doc_kid, 'kid_fundinfo': os.path.basename(kids[isin]) if isin in kids else ''})
     json.dump(out, open(sortie, 'w'), ensure_ascii=False)
     c = collections.Counter(x['st'] for r in out for x in r['cells'].values())
