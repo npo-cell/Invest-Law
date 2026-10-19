@@ -64,7 +64,10 @@ def main(res1, kiddir, fundinfo, sortie):
     V2 = {}  # relecture du 19/10 après correction (prioritaire)
     for f in glob.glob(os.path.join(ICI, 'relecture2', 'lot-*-verdicts.json')):
         for e in json.load(open(f)):
-            V2[e['isin']] = e
+            m = V2.setdefault(e['isin'], {'isin': e['isin'], 'cases': {}})
+            m['cases'].update(e.get('cases', {}))
+            if e.get('allocations'):
+                m['allocations'] = e['allocations']
     OLD = {}  # valeurs relues le 17/10 : un ancien verdict ne vaut que si la valeur n'a pas changé
     if os.environ.get('OLD_RES1'):
         OLD = {(r['isin'], k): x['v'] for r in json.load(open(os.environ['OLD_RES1'])) for k, x in r['cells'].items()}
@@ -83,7 +86,7 @@ def main(res1, kiddir, fundinfo, sortie):
             if st == 'OK':
                 st, note = 'CONFORME', 'retrouvé automatiquement dans le document'
             elif st == 'NON_RETROUVE':
-                h = v2.get('cases', {}).get(k) or (v.get('cases', {}).get(k, {}) if not OLD or OLD.get((isin, k)) == x['v'] else {})
+                h = v2.get('cases', {}).get(k) or (v.get('cases', {}).get(k, {}) if not corrige and (not OLD or OLD.get((isin, k)) == x['v']) else {})
                 st, note, vdoc = h.get('verdict', 'ABSENT'), h.get('note', ''), h.get('valeur_document', '')
             if st in ('ABSENT', 'DIFFERENT', 'SANS_SOURCE') and kidtxt and kid_match(k, x['v'], kidtxt):
                 st, note = 'CONFORME', 'retrouvé dans le KID (fundinfo, %s)' % os.path.basename(kids[isin])

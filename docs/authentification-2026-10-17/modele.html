@@ -127,7 +127,7 @@ tr.det td{background:color-mix(in srgb,var(--paper) 60%,var(--card));padding:12p
   </section>
 
   <section aria-labelledby="h-causes">
-    <h2 id="h-causes">D'où viennent les écarts</h2>
+    <h2 id="h-causes">Points qui restent à connaître</h2>
     <div class="causes" id="causes"></div>
   </section>
 
@@ -206,7 +206,7 @@ document.getElementById('answer').innerHTML=
  `Les ${fmt(corN)} fiches refaites le 19/10 en font partie pour ${fmt(cor.ok)} d'entre elles. `+
  (all3.fix?`${fmt(all3.fix)} fiche(s) gardent une valeur qui contredit le document. `:'Aucune fiche ne contient de valeur qui contredit son document. ')+
  (all3.part?`${fmt(all3.part)} ont encore des cases absentes des deux documents (voir le registre). `:'')+
- `${fmt(none)} fonds n'ont aucun document public.`+(fresh?` ${fmt(fresh)} fonds ont une factsheet plus récente publiée depuis.`:'');
+ `Lors du premier contrôle, le 17/10, 160 valeurs contredisaient leur document et 452 n'y figuraient pas : elles ont été corrigées ou retirées. ${fmt(none)} fonds n'ont aucun document public.`+(fresh?` ${fmt(fresh)} fonds ont une factsheet plus récente publiée depuis.`:'');
 
 /* cartes */
 const cards=[
@@ -221,10 +221,10 @@ document.getElementById('verdicts').innerHTML=cards.map(c=>{
   return `<div class="vcard"><h3>${c.t}</h3><div class="big num">${main}</div><div class="bar">${seg}</div><div>${detail}</div></div>`}).join('');
 
 /* cases */
-const T=M.tot,tv=T.CONFORME+T.DIFFERENT+T.ABSENT+(T.AUTRE_SOURCE||0);
+const T=M.tot,tv=T.CONFORME+(T.DIFFERENT||0)+(T.ABSENT||0)+(T.AUTRE_SOURCE||0);
 document.getElementById('cells').innerHTML=[
  [T.CONFORME,`conformes (${pct(T.CONFORME,tv)} % des cases vérifiables)`],
- [T.DIFFERENT,'contredisent le document'],[T.ABSENT,'absentes de la factsheet et du KID'],
+ [T.DIFFERENT||0,'contredisent le document'],[T.ABSENT||0,'absentes de la factsheet et du KID'],
  [T.AUTRE_SOURCE||0,'catégories du site hors fichier One Life'],[T.JUGEMENT,'synthèses (type, classification)'],
  [M.alloc_lignes,"lignes d'allocation contrôlées"]].map(([n,l])=>`<div><b>${fmt(n)}</b><span>${l}</span></div>`).join('');
 const A=M.alloc;
@@ -240,13 +240,16 @@ const causes=[
  {p:'part',n:dk.length,t:'Pas de factsheet sur le site, seulement un KID',d:"Pour ces fiches, le dernier document publié sur invest-law.eu est un KID. Les encours, gérants, date de création, duration et allocations notés ne peuvent pas venir de ce document.",l:li(dk,x=>'dernier document du '+fdate(x.f))},
  {p:'part',n:fr.length,t:'Factsheet plus récente disponible',d:"Fundinfo publie une factsheet plus récente que celle du classeur, en général celle de fin septembre parue après nos recherches. Pour les fiches préparées, les chiffres sont justes à la date de leur document mais ne sont plus les derniers.",l:li(fr,x=>x.fr)},
  {p:'part',n:D.filter(x=>x.x.some(i=>i[1]==='A'&&/Politique|Disclaimer/.test(i[0]))).length,t:'Textes rédigés ou résumés sur le site',d:"Des politiques d'investissement et des disclaimers du site sont des résumés, des traductions libres ou des extraits du prospectus : ils ne se retrouvent pas tels quels dans la factsheet ni dans le KID.",l:''},
+ {p:'part',n:D.filter(x=>x.x.some(i=>i[1]==='A'&&i[0]==='Catégorie')||x.x.some(i=>i[1]==='O')).length,t:'Catégorie reprise du site',d:"Ces fonds ne figurent pas dans le fichier OneLife Fund Classification : leur catégorie est celle du site invest-law.eu (une remarque l'indique sur la fiche). Elle ne vient ni de la factsheet ni du KID.",l:''},
+ {p:'none',n:D.filter(x=>x.o==='cor'&&x.t===0).length,t:'Fiches laissées vides faute de document de la part',d:"Aucune factsheet ni KID de la part exacte n'a été trouvé : les anciennes valeurs, non confirmées, ont été retirées. Les documents sont à demander aux gestionnaires ou à One Life.",l:li(D.filter(x=>x.o==='cor'&&x.t===0),x=>'aucun document de la part')},
  {p:'none',n:rn.length,t:'Fonds renommés (pas une erreur)',d:"Le document porte le nouveau nom du fonds, avec le même ISIN.",l:li(rn,x=>x.rn)}];
-document.getElementById('causes').innerHTML=causes.map(c=>`<div class="cause"><h3><span class="pill p-${c.p} num">${fmt(c.n)} fonds</span>${c.t}</h3><p>${c.d}</p>${c.l?`<details class="more"><summary>Voir la liste</summary><ul>${c.l}</ul></details>`:''}</div>`).join('')
+document.getElementById('causes').innerHTML=causes.filter(c=>c.n>0).map(c=>`<div class="cause"><h3><span class="pill p-${c.p} num">${fmt(c.n)} fonds</span>${c.t}</h3><p>${c.d}</p>${c.l?`<details class="more"><summary>Voir la liste</summary><ul>${c.l}</ul></details>`:''}</div>`).join('')
  .replace('<span class="pill p-fix num">'+fmt(causes[1].n)+' fonds</span>','<span class="pill p-fix num">'+fmt(causes[1].n)+' cases</span>');
 
 /* champs */
-const mx=Math.max(...M.champs.map(c=>c[1]+c[2]));
-document.getElementById('fields').innerHTML=M.champs.filter(c=>c[1]+c[2]>0).map(([k,d,a])=>
+const mx=Math.max(1,...M.champs.map(c=>c[1]+c[2]));
+if(!M.champs.length){document.getElementById('fields').innerHTML='<p class="lead">Aucun champ ne contient de valeur qui contredit son document ou qui en est absente.</p>';}
+else document.getElementById('fields').innerHTML=M.champs.filter(c=>c[1]+c[2]>0).map(([k,d,a])=>
  `<div class="frow"><span>${k}</span><div class="ftrack" role="img" aria-label="${k} : ${d} différentes, ${a} absentes"><span class="d" style="width:${d/mx*100}%"></span><span class="a" style="width:${a/mx*100}%"></span></div><span class="n num">${d} · ${a}</span></div>`).join('');
 
 /* registre */
