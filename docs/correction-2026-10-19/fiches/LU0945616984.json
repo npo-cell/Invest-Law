@@ -1,0 +1,158 @@
+{
+ "n": "533",
+ "isin": "LU0945616984",
+ "nom": "FFG GLOBAL DEFENSIVE R EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-10",
+ "date_creation": "2013-08-01",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs défensif",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "",
+ "encours_millions": "27.18",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.9",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "L’objectif du Compartiment est l’appréciation du capital à long terme au travers d’un portefeuille diversifié, tout en maintenant limité le risque de perte de capital et un niveau de volatilité inférieur à celui des marchés d’actions. La stratégie d’investissement du Compartiment peut être qualifiée de « défensive ».\n\nAfin d’atteindre son objectif, le Compartiment investira principalement directement dans titres de créance de tout type (y compris les instruments du marché monétaire), actions et titres liés aux actions, OPCVM (comme des ETFs) et autres OPC. La proportion d’actifs consacrée à chaque classe d’actifs varie dans le temps. Toutefois, sans que cela constitue une contrainte, le gestionnaire d’investissement entend avoir une exposition cible aux actions de 30% de l’actif net du Compartiment (via des investissements directs et indirects) et avec une limite maximale de 50% de l’actif net du Compartiment. Le choix des investissements ne sera pas limité en termes de zones géographiques (le Compartiment pourra ainsi investir jusqu’à 20% de ses actifs nets dans des pays émergents), de secteurs économiques ou de devises dans lesquelles les investissements seront libellés, ni en termes de notation de crédit des titres de créance (avec un maximum de 15% dans des titres de créance « non-investment grade »).\n\nLe Compartiment est géré activement, ce qui signifie que le Gestionnaire prend des décisions d’investissement dans le but d’atteindre l’objectif et la politique de placement du Compartiment sans référence à un indice. Le compartiment peut, afin d’atteindre son objectif, sélectionner des actifs au sein d’indices conformes aux caractéristiques sociales et environnementales promues par le Compartiment, mais le portefeuille du Compartiment n’est en aucun cas limité par les composants de ces indices.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 27.31 → 27.18 (« Actifs nets du fonds 27 176 717,68 € », factsheet 31/08/2026 ; la part R : 15 555 034,09 €) ; gérant « Orcadia Asset Management » retiré (société de gestion déléguée, pas un nom de gérant) ; indice « n/a » → Aucun (« sans référence à un indice ») ; SFDR 8 confirmé (article 8 du Règlement Durabilité). Inchangés : date de lancement de la part 01/08/2013 (stratégie 31/07/2013), frais de gestion 1,25 % (max.), SRI 2. Frais courants : KID 10/02/2026 « 1,9% » ; factsheet 1,91 %. Stratégie modifiée le 17/10/2024 (Orcadia Asset Management nommé gestionnaire). Factsheet la plus récente : 31/08/2026 ; le PDF contient des couches de texte cachées d’autres parts, valeurs vérifiées sur l’image. Politique : objectif et politique de la factsheet, sans le paragraphe sur le reversement de Funds For Good à Funds For Good Impact ni la mention du label. Classification Défensif : exposition cible aux actions 30 % (max. 50 %), SRI 2. Allocations (image p.2) : exposition par classes d’actif, types d’émetteur obligataire (Instruments), secteurs et zones géographiques des actions ; répartition régionale des obligations (99 % / 01 %) non reprise.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "sfdr": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "33.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "57.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités et marché monétaire",
+   "pct": "9.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Gouvernements",
+   "pct": "80"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations d’entreprises",
+   "pct": "20"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "31.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "18.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "8.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "14.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation défensive",
+   "pct": "6.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "65.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "27.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "5.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie développée",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945616984/LU0945616984__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945616984/LU0945616984__KID_FR_2026-02-10.pdf"
+}

@@ -1,0 +1,172 @@
+{
+ "n": "713",
+ "isin": "LU0390221256",
+ "nom": "MAINFIRST GERMANY A EUR",
+ "maison": "Mainfirst Affiliated Fund Managers S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2009-06-05",
+ "devise": "EUR",
+ "type_fonds": "Actions allemandes",
+ "compartiment": "un compartiment du fonds MainFirst, SICAV (Société d'Investissement à Capital Variable), société anonyme",
+ "gerants": "",
+ "encours_millions": "78.89",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.99",
+ "sri": "4",
+ "indice": "Deutsche Börse AG HDAX (HDAX)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Historical performance is not an indicator for current or future performance.",
+ "politique_fr": "",
+ "politique_en": "The investment objective of the sub-fund is to generate long-term capital growth while maintaining appropriate risk diversification through the investment of at least two-thirds of sub-fund assets in equities and other equity securities of German companies. Focus is placed on undervalued companies with pronounced medium-term earnings growth and strong management, yielding favourable results against the index in all market phases. The fund managers seek out long-term investment horizons in order to benefit from revaluation processes. This can include both companies with large market capitalisation and small or mid-cap companies. The fund is generally fully invested, with a cash ratio below 10%. SRI (Summary Risk Indicator) scale from 1 (lowest risk) to 7 (highest risk); Risk 1 does not mean a risk-free investment. This indicator may change over time. As of 30/09/2026 Historical performance is not an indicator for current or future performance. The performance data does not take into account the issue and redemption of the commissions and costs charged per unit. Cumulative performance4) Performance p.a.4) MTD YTD 1 Y 5 Y 10 Y since inception 5 Y 10 Y since inception MainFirst - Germany Fund (A) -4.62 % 1.31 % 2.20 % -11.35 % 44.94 % 387.74 % -2.38 % 3.78 % 9.57 % Deutsche Börse AG HDAX (HDAX) -4.15 % 3.34 % 6.18 % 56.60 % 136.00 % 425.96 % 9.38 % 8.96 % 10.05 % ANNUAL PERFORMANCE IN EUR, ROLLIEREND(YTY; AS OF 30/09/2026) (IN %) 3) 4) 5) 6)",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : type_fonds remplacé (texte des documents) ; compartiment remplacé (texte des documents) ; gerants « ETHENEA Independent Investors S.A. » vidé ; indice « FSE HDAX TR EUR » → « Deutsche Börse AG HDAX (HDAX) » ; classification « Dynamique » → « Agressif » ; categorie « Equity Germany Sm&Mid Cap » vidé ; disclaimer remplacé (texte des documents) ; politique_fr vidé ; politique_en remplacé (texte des documents). Factsheet du 30/09/2026 (anglais, ISIN vérifié) présente dans le dépôt et retenue à la place de celle du 31/07/2026 indiquée dans documents_recents. Gérant « ETHENEA Independent Investors S.A. » (société, non admise) vidé : aucun nom de gérant dans les documents. Encours = « Fund size 78.89 Mio. EUR » ; date de création = « Inception date 05 June 2009 ». Frais : « Management fee p.a. (effective) 1.50 % » ; frais courants KID « Frais de gestion et autres frais administratifs et d’exploitation 1,99% » (= « Ongoing costs 1.99 % ») ; commission de performance max. 15 %. Indice retenu : HDAX, base de la commission de performance (KID) et comparaison « against the index » (factsheet). SFDR article 8 (KID). Classification Dynamique → Agressif (actions d'un seul pays, SRI 4). Allocations au 30/09/2026.",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SAP SE",
+   "pct": "7.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Siemens AG",
+   "pct": "6.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz SE",
+   "pct": "4.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dte. Börse AG",
+   "pct": "4.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dte. Telekom AG",
+   "pct": "4.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Airbus SE",
+   "pct": "4.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Infineon Technologies AG",
+   "pct": "3.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Henkel AG & Co. KGaA -VZ-",
+   "pct": "3.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "thyssenkrupp AG",
+   "pct": "3.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bayer AG",
+   "pct": "3.17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrial",
+   "pct": "26.11"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financial",
+   "pct": "16.76"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technology",
+   "pct": "12.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma & Healthcare",
+   "pct": "12.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer",
+   "pct": "11.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "5.19"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Commodities",
+   "pct": "5.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "2.93"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Others",
+   "pct": "0.00"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega(>100bn)",
+   "pct": "31.19"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large(20-100bn)",
+   "pct": "39.64"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mid(5-20bn)",
+   "pct": "16.40"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small(1-5bn)",
+   "pct": "4.76"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Micro(<1bn)",
+   "pct": "0.25"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/MAINFIRST_AFFILIATED_FUND_MANAGERS_S_A/LU0390221256/LU0390221256__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/MAINFIRST_AFFILIATED_FUND_MANAGERS_S_A/LU0390221256/LU0390221256__KID_FR_2026-04-16.pdf"
+}

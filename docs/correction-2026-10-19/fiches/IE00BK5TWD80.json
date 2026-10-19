@@ -1,0 +1,154 @@
+{
+ "n": "391",
+ "isin": "IE00BK5TWD80",
+ "nom": "BG WORLDWIDE US EQUITY GROWTH FUND A EUR",
+ "maison": "Baillie Gifford IM (Europe)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-29",
+ "date_creation": "2019-09-30",
+ "devise": "EUR",
+ "type_fonds": "Actions américaines (croissance)",
+ "compartiment": "Baillie Gifford Worldwide US Equity Growth Fund (« le Fonds ») est un compartiment de Baillie Gifford Worldwide Funds PLC",
+ "gerants": "Dave Bujnowski, Tom Slater, Gary Robinson, Kirsty Gibson, Lillian Li",
+ "encours_millions": "128.4",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.65",
+ "sri": "6",
+ "indice": "S&P 500 Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance does not predict future returns",
+ "politique_fr": "Le Fonds vise à maximiser les rendements totaux, principalement grâce à la croissance du capital. Le Fonds a la possibilité d'investir directement ou indirectement dans n'importe quel secteur économique des États-Unis d'Amérique. L'investissement sera effectué principalement dans des actions de sociétés. Le Fonds applique des critères fondés sur les revenus qui excluent les sociétés ayant un niveau d'activité défini dans certains secteurs, dont les détails figurent dans le Prospectus. Le Fonds se conformera à la politique des Gestionnaires d'investissement en matière d'évaluation des violations des Principes du Pacte mondial des Nations unies pour les entreprises. Le Fonds est géré de manière active et aucun indice n'est utilisé aux fins de déterminer ou de restreindre la composition du portefeuille du Fonds. La performance du Fonds (après déduction des frais) est mesurée par rapport à l'indice S&P 500 Index. Le Fonds cherche à réaliser des performances significativement supérieures à celles de l'indice.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Factsheet EN du 30/09/2026 (« A Class Factsheet », multi-parts : la ligne « Class A EUR Acc » donne explicitement ISIN IE00BK5TWD80, date de lancement 30 September 2019, frais de gestion annuels 1.50 % et frais courants 1.65 % ; les performances du graphique portent sur la part A USD). Encours « Fund size $ 128.4m ». Frais courants 1,65 % (KID, identiques à la factsheet). SRI 6 (KID). Indice : « S&P 500 Index », utilisé pour mesurer la performance que le fonds cherche à dépasser (KID). SFDR : « Fund SFDR Classification Article 8 ». Politique prise du KID (section Objectifs, sans les informations pratiques) : la factsheet ne donne qu'une « Investment proposition » (philosophie de gestion), pas d'objectif formel. Classification Agressif : actions américaines de croissance, portefeuille concentré de 30 à 50 titres (SRI 6). Allocations : 10 principales lignes et secteurs (colonne Fund). Corrigé : encours 300 → 128.4 USD (factsheet 30/09/2026) ; indice « S&P500 » → « S&P 500 Index » ; classification Agressif ajoutée ; politique EN (texte absent des documents) remplacée par la politique FR du KID ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BAILLIE_GIFFORD_IM_EUROPE/IE00BK5TWD80/IE00BK5TWD80__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BAILLIE_GIFFORD_IM_EUROPE/IE00BK5TWD80/IE00BK5TWD80__KID_FR_2026-06-29.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique_fr": "KID",
+  "source_politique": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA",
+   "pct": "8.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com",
+   "pct": "7.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shopify",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DoorDash",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Snowflake",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "The Ensign Group, Inc.",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Guardant Health",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "33.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "21.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "16.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "13.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "6.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "1.0"
+  }
+ ]
+}
