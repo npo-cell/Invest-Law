@@ -20,7 +20,7 @@
  "sri": "",
  "indice": "",
  "classification": "",
- "categorie": "",
+ "categorie": "Mixed Asset Global Balanced",
  "sfdr": "",
  "durable_pct": "",
  "duration": "",
@@ -29,7 +29,7 @@
  "politique_fr": "",
  "politique_en": "",
  "source_politique": "",
- "remarques": "Aucun document trouvé pour cette part (ni factsheet ni KID) : absente de fundinfo (BE/LU/FR/IE/CH/DE/NL), aucune trace web de l'ISIN (recherche du 19/10/2026), site conviction-patrimoine.lu inaccessible depuis le réseau (connexion refusée par le proxy). Même constat les 13 et 15/10/2026 pour cette part et la part F (LU1846742119). Tous les champs restent vides ; la devise « E » du classeur n'est appuyée par aucun document. Corrigé (aucun document) : devise E → (vide).",
+ "remarques": "Aucun document trouvé pour cette part (ni factsheet ni KID) : absente de fundinfo (BE/LU/FR/IE/CH/DE/NL), aucune trace web de l'ISIN (recherche du 19/10/2026), site conviction-patrimoine.lu inaccessible depuis le réseau (connexion refusée par le proxy). Même constat les 13 et 15/10/2026 pour cette part et la part F (LU1846742119). Tous les champs restent vides ; la devise « E » du classeur n'est appuyée par aucun document. Corrigé (aucun document) : devise E → (vide). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {},
  "allocations": []
 }

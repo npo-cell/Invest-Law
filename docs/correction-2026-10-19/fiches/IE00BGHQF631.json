@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "",
  "politique_en": "Aim Income and long-term capital growth\n\nProcess Starting point is quality, not yield. Focus on companies generating persistently high returns on capital over the last decade.\n\nPortfolio Concentrated, typically equally-weighted portfolio of 35 stocks, which reduces stock specific risk and instils a strong sell discipline. Low turnover; minimum $1bn market cap; no benchmark-driven constraints on sector and regional weightings.\n\nInvestment Objective An equity fund investing primarily in global equities which provide a yield above the yield of the benchmark (MSCI World Index). The Fund is actively managed and uses the MSCI World Index as a comparator benchmark only.",
  "source_politique": "Factsheet",
- "remarques": "Factsheet EN 31/08/2026 (part C, multi-parts) : l'ISIN IE00BGHQF631 y figure deux fois, sur la ligne « C EUR Acc » (OCF 1.77%) et, manifestement par erreur, sur la ligne « C CNH Hedged Dist » (OCF 1.83%) ; le KID confirme « ClassC EUR Acc, ISIN: IE00BGHQF631 ». Corrigé : SRI 5 → 3 (KID 17/11/2025) ; date de création 2013-11-29 → 2010-12-31 (seule date donnée : « Fund launch 31.12.2010 », date du fonds ; aucune date pour la part) ; indice « MSCI World TR » retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique : texte anglais de la factsheet (Aim, Process, Portfolio, Investment Objective ; sans l'« Investment Case » commercial), l'ancien texte français ne figurait pas dans la factsheet. Encours = « Fund size $6745.9m » (stratégie : $7765.2m). Frais courants : KID « 1.77% » (« Frais de gestion et autres frais administratifs et d'exploitation ») ; pas de frais de gestion séparés. Indice vide : KID « n’utilise l’Indice de référence qu’à des fins de comparaison de la performance » ; factsheet « uses the MSCI World Index as a comparator benchmark only ». SRI 3 (KID). SFDR : aucun article écrit. Allocations : pays, secteurs, 10 principales positions.",
+ "remarques": "Factsheet EN 31/08/2026 (part C, multi-parts) : l'ISIN IE00BGHQF631 y figure deux fois, sur la ligne « C EUR Acc » (OCF 1.77%) et, manifestement par erreur, sur la ligne « C CNH Hedged Dist » (OCF 1.83%) ; le KID confirme « ClassC EUR Acc, ISIN: IE00BGHQF631 ». Corrigé : SRI 5 → 3 (KID 17/11/2025) ; date de création 2013-11-29 → 2010-12-31 (seule date donnée : « Fund launch 31.12.2010 », date du fonds ; aucune date pour la part) ; indice « MSCI World TR » retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique : texte anglais de la factsheet (Aim, Process, Portfolio, Investment Objective ; sans l'« Investment Case » commercial), l'ancien texte français ne figurait pas dans la factsheet. Encours = « Fund size $6745.9m » (stratégie : $7765.2m). Frais courants : KID « 1.77% » (« Frais de gestion et autres frais administratifs et d'exploitation ») ; pas de frais de gestion séparés. Indice vide : KID « n’utilise l’Indice de référence qu’à des fins de comparaison de la performance » ; factsheet « uses the MSCI World Index as a comparator benchmark only ». SRI 3 (KID). SFDR : aucun article écrit. Allocations : pays, secteurs, 10 principales positions. Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "sources": {
   "factsheet_date": "factsheet",
   "kid_date": "KID",

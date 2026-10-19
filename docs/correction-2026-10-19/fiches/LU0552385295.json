@@ -18,7 +18,7 @@
  "sri": "5",
  "indice": "MSCI All Country World Net Index",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Equity Global",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nLe portefeuille vise l'appréciation du capital sur le long terme en investissant à l'échelle mondiale dans des sociétés établies et émergentes de qualité supérieure que l'équipe d'investissement juge sous-valorisées au moment de leur achat. Pour atteindre son objectif, l'équipe d'investissement privilégie généralement les entreprises qu'elle estime avoir des avantages concurrentiels durables qui peuvent prendre de la valeur en phase de croissance. Le processus d'investissement prévoit une analyse de la durabilité à partir de plusieurs critères dont les ruptures technologiques, la solidité financière, les facteurs environnementaux et sociaux et la gouvernance (approche ESG).",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 12200 → 11600 (« Total de l’actif $ 11,6 milliard(s) », factsheet 30/09/2026) ; disclaimer remplacé par celui de la factsheet (la 2e phrase venait du KID) ; politique complétée (texte entier de la factsheet). Date de création : « Date de lancement 30 Novembre 2010 » (part A, identique au lancement du fonds). Frais : factsheet « Frais de gestion 1,60 », « Frais courants 1,83 » ; KID « Frais de gestion et autres frais administratifs et d’exploitation 1.83 % ». Indice : KID « La performance du fonds sera mesurée par rapport à l’indice MSCI All Country World Net » (mesure de performance → retenu) ; nom de la factsheet. SFDR article 8, aucun % durable écrit. Classification Agressif conservée (portefeuille concentré de croissance, 33 positions, SRI 5). Allocations : colonne « Fonds » seulement ; secteurs à « -- » pour le fonds non repris.",
+ "remarques": "Corrigé : encours 12200 → 11600 (« Total de l’actif $ 11,6 milliard(s) », factsheet 30/09/2026) ; disclaimer remplacé par celui de la factsheet (la 2e phrase venait du KID) ; politique complétée (texte entier de la factsheet). Date de création : « Date de lancement 30 Novembre 2010 » (part A, identique au lancement du fonds). Frais : factsheet « Frais de gestion 1,60 », « Frais courants 1,83 » ; KID « Frais de gestion et autres frais administratifs et d’exploitation 1.83 % ». Indice : KID « La performance du fonds sera mesurée par rapport à l’indice MSCI All Country World Net » (mesure de performance → retenu) ; nom de la factsheet. SFDR article 8, aucun % durable écrit. Classification Agressif conservée (portefeuille concentré de croissance, 33 positions, SRI 5). Allocations : colonne « Fonds » seulement ; secteurs à « -- » pour le fonds non repris. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__KID_FR_2026-07-21.pdf",
  "sources": {

@@ -20,7 +20,7 @@
  "sri": "4",
  "indice": "STOXX Europe 600 EUR NR",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -29,7 +29,7 @@
  "politique_fr": "Objectif de gestion\nLe Compartiment cherche à surperformer l’indice : Stoxx Europe 600 Net Return, sur la durée d’investissement Recommandée (5 ans). L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Date de création « 26/06/2008 » (factsheet p.5) : date des informations administratives de la part (sous son code ISIN). Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 2,13% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà du STOXX Europe 600 EUR NR avec High Water Mark (0,16 %). Indice : objectif de surperformance (« Stoxx Europe 600 Net Return » dans l'objectif, « STOXX Europe 600 EUR NR » dans les informations administratives). SFDR article 8, aucun % d'investissements durables écrit. Gérants : « , CFA » retiré après Maxime GENEVOIS et Boris RADONDY. Positions = 10 principales positions (total 24,40 %). Capitalisations lues sur graphique (positions des étiquettes vérifiées ; pas de barre 0-1 Md €). Répartitions sectorielle et géographique : colonne Fonds seulement. Non repris : contributions à la performance, données ESG. Corrigé (factsheet 30/09/2026) : encours 133.57 → 1748 ; frais courants (vide) → 2.13 ; indice STOXX Europe 600 NR EUR → STOXX Europe 600 EUR NR ; SFDR (vide) → 8 ; investissements durables (%) 8 → (vide).",
+ "remarques": "Date de création « 26/06/2008 » (factsheet p.5) : date des informations administratives de la part (sous son code ISIN). Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 2,13% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà du STOXX Europe 600 EUR NR avec High Water Mark (0,16 %). Indice : objectif de surperformance (« Stoxx Europe 600 Net Return » dans l'objectif, « STOXX Europe 600 EUR NR » dans les informations administratives). SFDR article 8, aucun % d'investissements durables écrit. Gérants : « , CFA » retiré après Maxime GENEVOIS et Boris RADONDY. Positions = 10 principales positions (total 24,40 %). Capitalisations lues sur graphique (positions des étiquettes vérifiées ; pas de barre 0-1 Md €). Répartitions sectorielle et géographique : colonne Fonds seulement. Non repris : contributions à la performance, données ESG. Corrigé (factsheet 30/09/2026) : encours 133.57 → 1748 ; frais courants (vide) → 2.13 ; indice STOXX Europe 600 NR EUR → STOXX Europe 600 EUR NR ; SFDR (vide) → 8 ; investissements durables (%) 8 → (vide). Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "sources": {
   "factsheet_date": "factsheet p.1",
   "kid_date": "KID p.1",

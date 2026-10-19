@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "",
  "classification": "Equilibré",
- "categorie": "",
+ "categorie": "Mixed Asset Global Flexible ",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "4.19",
@@ -27,7 +27,7 @@
  "politique_fr": "Objectif d'investissement\nLe fonds a pour objectif de préserver le capital des actionnaires (sur un horizon d'investissement de trois ans) et de générer des rendements positifs stables. Les investissements seront réalisés à l'échelle mondiale dans des actions, des obligations (comprenant des obligations convertibles en actions) et des instruments du marché monétaire libellés dans différentes devises. Ce compartiment peut également investir dans des instruments dérivés, tels que les contrats à terme sur actions et obligations, afin d'ajuster le bêta et la duration du portefeuille. Géré activement sans référence ni contraintes par rapport à son indice de référence.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 1808.73 → 1729.75 (« Encours sous gestion (Million EUR) 1 729,75 », fonds, factsheet 30/09/2026 ; part BP-EUR : 746,75) ; duration 4.17 → 4.19 (« Duration effective 4,19 ») ; indice « EURIBOR 1M » → vide (KID : « L’indice de référence est utilisé uniquement à des fins de comparaison des performances ») ; compartiment et disclaimer refaits depuis le KID et la factsheet ; politique complétée. Date de création : « Date de lancement 02/11/2005 » (part et fonds). Frais : factsheet « Frais de gestion 1,50 % », « Frais courants (2025) 1,80% » ; KID 1.80%. SRI : KID « SRI=3 ». Qualité : « Notation moyenne AA+ ». SFDR article 8, aucun % durable écrit. Allocations : 10 principales positions (dérivés en notionnel) et exposition par classe d’actifs, colonne « Net » ; la répartition géographique (libellés « Asia Pacific » et « Autres » en double) n’est pas reprise ; les répartitions sectorielles, par devise, par notation et l’exposition brute sont des graphiques sans texte extractible.",
+ "remarques": "Corrigé : encours 1808.73 → 1729.75 (« Encours sous gestion (Million EUR) 1 729,75 », fonds, factsheet 30/09/2026 ; part BP-EUR : 746,75) ; duration 4.17 → 4.19 (« Duration effective 4,19 ») ; indice « EURIBOR 1M » → vide (KID : « L’indice de référence est utilisé uniquement à des fins de comparaison des performances ») ; compartiment et disclaimer refaits depuis le KID et la factsheet ; politique complétée. Date de création : « Date de lancement 02/11/2005 » (part et fonds). Frais : factsheet « Frais de gestion 1,50 % », « Frais courants (2025) 1,80% » ; KID 1.80%. SRI : KID « SRI=3 ». Qualité : « Notation moyenne AA+ ». SFDR article 8, aucun % durable écrit. Allocations : 10 principales positions (dérivés en notionnel) et exposition par classe d’actifs, colonne « Net » ; la répartition géographique (libellés « Asia Pacific » et « Autres » en double) n’est pas reprise ; les répartitions sectorielles, par devise, par notation et l’exposition brute sont des graphiques sans texte extractible. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0227384020/LU0227384020__KID_FR_2026-05-20.pdf",
  "sources": {

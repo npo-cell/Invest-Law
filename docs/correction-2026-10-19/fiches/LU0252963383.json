@@ -18,7 +18,7 @@
  "sri": "5",
  "indice": "MSCI ACWI Metals and Mining 30% Buffer 10/40 Index",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Equity Global Materials",
  "sfdr": "",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploitation minière et/ou la production de métaux et/ou minéraux de base et précieux.\n\nLe Fonds ne détient pas d’or ou de métal physique.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 7908.61 → 7160.98 ; encours_date 2026-08-31 → 2026-09-30. Date de création = « Date de lancement de la Catégorie d'Actions : 19-mai-2006 » (fonds lancé le 21-mars-1997). Encours « Encours sous gestion (M) : 7.160,98 USD » au 30-sept.-2026. Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,32 % (identique factsheet). Indice « MSCI ACWI Metals and Mining 30% Buffer 10/40 Index » (KID : construction du portefeuille, gestion des risques, comparaison de performance) ; la factsheet écrit « Contrainte 1 : MSCI ACWI Metals & Mining 30% Buffer 10/40 (1994) EUR Net TR Currency (EUR) ». SFDR : « Classification SFDR : Autre » → vide. Politique : « Aperçu du fonds » de la factsheet du 30/09/2026 (plus court que celui de la factsheet précédente ; texte complet dans la section « Objectifs » du KID). Allocations : seules les 10 principales positions ; les graphiques « Répartition géographique », « Répartition des secteurs » et « Capitalisation boursière » n'ont pas d'étiquettes extractibles en texte et ne sont pas repris.",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 7908.61 → 7160.98 ; encours_date 2026-08-31 → 2026-09-30. Date de création = « Date de lancement de la Catégorie d'Actions : 19-mai-2006 » (fonds lancé le 21-mars-1997). Encours « Encours sous gestion (M) : 7.160,98 USD » au 30-sept.-2026. Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,32 % (identique factsheet). Indice « MSCI ACWI Metals and Mining 30% Buffer 10/40 Index » (KID : construction du portefeuille, gestion des risques, comparaison de performance) ; la factsheet écrit « Contrainte 1 : MSCI ACWI Metals & Mining 30% Buffer 10/40 (1994) EUR Net TR Currency (EUR) ». SFDR : « Classification SFDR : Autre » → vide. Politique : « Aperçu du fonds » de la factsheet du 30/09/2026 (plus court que celui de la factsheet précédente ; texte complet dans la section « Objectifs » du KID). Allocations : seules les 10 principales positions ; les graphiques « Répartition géographique », « Répartition des secteurs » et « Capitalisation boursière » n'ont pas d'étiquettes extractibles en texte et ne sont pas repris. Catégorie : fichier OneLife Fund Classification, reprise de la part BGF World Mining Fund A2 USD (LU0075056555) du même fonds.",
  "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__KID_FR_2026-04-29.pdf",
  "sources": {

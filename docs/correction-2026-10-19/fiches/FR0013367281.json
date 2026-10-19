@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "Aucun",
  "classification": "Equilibré",
- "categorie": "",
+ "categorie": "Mixed Asset Global Balanced",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "4.68 (sensibilité)",
@@ -27,7 +27,7 @@
  "politique_fr": "Recherche d'une croissance du capital, sur une durée de placement recommandée comprise entre 3 et 5 ans, en s'exposant aux marchés actions et taux avec un profil équilibré mettant en œuvre une allocation d'actifs discrétionnaire et une sélection de titres financiers fondée sur l'analyse financière des émetteurs.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "« SICAV Mixte » ; compartiment R-co Valor Balanced de la SICAV R­co (KID). Date de création = « Date de création 24/10/2018 ». Encours « Actifs sous gestion 999,78 M€ ». Frais de gestion = « Frais de gestion financière 1,65% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,77 % (factsheet : « Frais courants ex-post 1,73% »). Indice « Aucun » : factsheet « Indice de référence - ». Duration = « Sensibilité : 4,68 » de la poche taux. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Equilibré : SICAV mixte (poids moyens du mois : taux 49,9 %, actions 39,4 %, liquidités 10,7 %), SRI 3. Allocations : classes d'actifs, secteurs, zones, type de dette et notations = graphiques en image non lisibles dans le texte → non repris ; reprises : principales positions des poches actions et taux (poids non rebasés) et Maturités = « % Actif » de la « Décomposition de la sensibilité par tranche de maturité » (poche taux, poids rebasés ; Cash sans valeur). Tableaux poids moyens/contributions non repris. Corrigé : encours 955.63 → 999.78 (factsheet 30/09/2026) ; frais courants 1.73 → 1.77 (KID 20/02/2026) ; duration 4.45 → 4.68 (sensibilité, factsheet 30/09/2026) ; compartiment → forme juridique du KID.",
+ "remarques": "« SICAV Mixte » ; compartiment R-co Valor Balanced de la SICAV R­co (KID). Date de création = « Date de création 24/10/2018 ». Encours « Actifs sous gestion 999,78 M€ ». Frais de gestion = « Frais de gestion financière 1,65% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,77 % (factsheet : « Frais courants ex-post 1,73% »). Indice « Aucun » : factsheet « Indice de référence - ». Duration = « Sensibilité : 4,68 » de la poche taux. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Equilibré : SICAV mixte (poids moyens du mois : taux 49,9 %, actions 39,4 %, liquidités 10,7 %), SRI 3. Allocations : classes d'actifs, secteurs, zones, type de dette et notations = graphiques en image non lisibles dans le texte → non repris ; reprises : principales positions des poches actions et taux (poids non rebasés) et Maturités = « % Actif » de la « Décomposition de la sensibilité par tranche de maturité » (poche taux, poids rebasés ; Cash sans valeur). Tableaux poids moyens/contributions non repris. Corrigé : encours 955.63 → 999.78 (factsheet 30/09/2026) ; frais courants 1.73 → 1.77 (KID 20/02/2026) ; duration 4.45 → 4.68 (sensibilité, factsheet 30/09/2026) ; compartiment → forme juridique du KID. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "date_creation": "factsheet p.5",
   "encours_millions": "factsheet p.1",

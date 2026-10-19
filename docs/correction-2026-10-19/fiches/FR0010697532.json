@@ -18,7 +18,7 @@
  "sri": "2",
  "indice": "Bloomberg Barclays EuroAgg Treasury 3-5 ans TR",
  "classification": "Défensif",
- "categorie": "",
+ "categorie": "Bond Europe High Yield",
  "sfdr": "8",
  "durable_pct": "58.1",
  "duration": "3.02",
@@ -27,7 +27,7 @@
  "politique_fr": "Afin de réaliser l'objectif de gestion sur la durée de placement recommandée >3 ans , Keren Corporate adopte un style de gestion active en investissant sur des titres de créance et instruments du marché monétaire, libellés en euro, de dette privée et de dette convertible (10% max), sans contrainte a priori d’allocation par zones géographiques, duration, notation, secteur d’activités ou types de valeurs.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : date de création 2008-12-30 vidée (aucune date dans la factsheet ni le KID) ; investissements durables 50 → 58.1 % (« Investissement durable 58.1% ») ; duration 2.5 → 3.02 (« DURATION 3.02 », sensibilité 2.94) ; qualité réduite à la notation moyenne « BBB- » (91 lignes, rendement actuariel 5.40 %, au worst 5.24 %, maturité moyenne 2031) ; frais de gestion « Frais de gestion annuels 1.20% TTC » (factsheet ; frais de service annuels en sus), frais courants du KID (« Frais de gestion fin. & autres coûts 1,22% ») ; indice renommé selon la factsheet (« * Indice : Bloomberg Barclays EuroAgg Treasury 3-5 ans TR. ») ; politique = paragraphe de la factsheet tel qu'écrit ; catégorie vidée. Indice retenu car cité dans l'objectif (« performance supérieure à l’indice », KID) bien que le KID précise « L’indicateur de référence est utilisé uniquement à titre de comparaison ». Encours = « AuM: 408.28 mEUR » sur la ligne de la part C (fonds ou part non précisé). KID du 18/02/2025 (le plus récent trouvé). SFDR article 8. Allocations de la « poche taux du fonds » au 30/09/2026 ; répartition par notation non reprise (libellés du graphique incomplets).",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : date de création 2008-12-30 vidée (aucune date dans la factsheet ni le KID) ; investissements durables 50 → 58.1 % (« Investissement durable 58.1% ») ; duration 2.5 → 3.02 (« DURATION 3.02 », sensibilité 2.94) ; qualité réduite à la notation moyenne « BBB- » (91 lignes, rendement actuariel 5.40 %, au worst 5.24 %, maturité moyenne 2031) ; frais de gestion « Frais de gestion annuels 1.20% TTC » (factsheet ; frais de service annuels en sus), frais courants du KID (« Frais de gestion fin. & autres coûts 1,22% ») ; indice renommé selon la factsheet (« * Indice : Bloomberg Barclays EuroAgg Treasury 3-5 ans TR. ») ; politique = paragraphe de la factsheet tel qu'écrit ; catégorie vidée. Indice retenu car cité dans l'objectif (« performance supérieure à l’indice », KID) bien que le KID précise « L’indicateur de référence est utilisé uniquement à titre de comparaison ». Encours = « AuM: 408.28 mEUR » sur la ligne de la part C (fonds ou part non précisé). KID du 18/02/2025 (le plus récent trouvé). SFDR article 8. Allocations de la « poche taux du fonds » au 30/09/2026 ; répartition par notation non reprise (libellés du graphique incomplets). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "encours_millions": "factsheet p.1",
   "frais_courants": "KID p.2",

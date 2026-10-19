@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "100% S&P 500 EUR Net Total Return Index",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Majoritairement actions",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nUtilisant une approche quantitative propriétaire, ODDO BHF US Equity Trend investit dans des actions américaines. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques dans le but de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importance à la diversification et la gestion des risques en appliquant diverses contraintes d'optimisation.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : indice « S&P 500 NR EUR » → « 100% S&P 500 EUR Net Total Return Index » (nom de la factsheet ; KID : « L'indice de référence est le S&P 500 NR (Net Return) en EUR … vise à le surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment refait depuis le KID ; gérants sans titres. Encours 752 M€ inchangé (« Actif net du fonds 752 M€ », factsheet 30/09/2026). Gérants : factsheet « Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA) » (BRAUN en majuscules : écart du contrôle automatique dû à la casse). Date de création : « Date de création de la part (1ère VL) 16/07/2018 » (identique au fonds). Frais : « Frais de gestion fixes : Taux annuel de 1.20% maximum » (taux maximum) ; KID 13/07/2026 1,31 % (factsheet 1.312 %). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 0,1% » est lisible).",
+ "remarques": "Corrigé : indice « S&P 500 NR EUR » → « 100% S&P 500 EUR Net Total Return Index » (nom de la factsheet ; KID : « L'indice de référence est le S&P 500 NR (Net Return) en EUR … vise à le surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment refait depuis le KID ; gérants sans titres. Encours 752 M€ inchangé (« Actif net du fonds 752 M€ », factsheet 30/09/2026). Gérants : factsheet « Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA) » (BRAUN en majuscules : écart du contrôle automatique dû à la casse). Date de création : « Date de création de la part (1ère VL) 16/07/2018 » (identique au fonds). Frais : « Frais de gestion fixes : Taux annuel de 1.20% maximum » (taux maximum) ; KID 13/07/2026 1,31 % (factsheet 1.312 %). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 0,1% » est lisible). Catégorie : celle du site invest-law.eu (le fonds n’est pas dans le fichier OneLife Fund Classification).",
  "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929729/LU1833929729__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1833929729/LU1833929729__KID_FR_2026-07-13.pdf",
  "sources": {

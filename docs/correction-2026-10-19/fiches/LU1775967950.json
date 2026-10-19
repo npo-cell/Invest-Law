@@ -18,7 +18,7 @@
  "sri": "2",
  "indice": "",
  "classification": "Défensif",
- "categorie": "",
+ "categorie": "Bond Global High Yield",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "3.92",
@@ -27,7 +27,7 @@
  "politique_fr": "Le Fonds vise à réaliser un niveau de revenus élevé et une croissance du capital à long terme. Il cherche à atteindre son objectif en investissant principalement dans des titres de créance mondiaux (y compris des marchés émergents) de qualité non-investment grade émis majoritairement par des sociétés.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR 30/09/2026 : le compartiment s'appelle désormais « Invesco Global High Yield Fund » (part « A (EUR Hgd)-Accumulation Shares », couverte en EUR), ISIN conforme ; le KID utilise aussi ce nom. Corrigé : encours 123.68 → 118.72 (« Actifs nets totaux EUR 118,72 million », 30/09/2026) ; gérants : Asad Bhatti, Edward Craven et Thomas Moore ajoutés (gérants depuis le 30 septembre 2026, avec Rahim Shad) ; duration 3.66 → 3.92 (« Duration moyenne pondérée 3,92 ») ; qualité BB- → B+ (« Notation de crédit moyenne B+ ») ; indice retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus). Date de création = « Date de lancement de la classe d'actions 08 octobre 2018 » (fonds irlandais d'origine lancé le 12 janvier 1994, fusionné le 5 octobre 2018). Frais : factsheet « Frais de gestion annuels 1,00% », « Frais courants 1,28% » ; KID « 1,28 % ». Indice vide : KID « l’indice Bloomberg Global High Yield Corporate Index USD-Hedged (Total Return), qui est utilisé à des fins de comparaison ». SRI 2 (KID). SFDR article 8 (KID). Duration recopiée telle qu'écrite, sans unité. Allocations : « Classes d'actifs » = « Catégories d'investissement » ; « Positions » = 10 principaux émetteurs.",
+ "remarques": "Factsheet FR 30/09/2026 : le compartiment s'appelle désormais « Invesco Global High Yield Fund » (part « A (EUR Hgd)-Accumulation Shares », couverte en EUR), ISIN conforme ; le KID utilise aussi ce nom. Corrigé : encours 123.68 → 118.72 (« Actifs nets totaux EUR 118,72 million », 30/09/2026) ; gérants : Asad Bhatti, Edward Craven et Thomas Moore ajoutés (gérants depuis le 30 septembre 2026, avec Rahim Shad) ; duration 3.66 → 3.92 (« Duration moyenne pondérée 3,92 ») ; qualité BB- → B+ (« Notation de crédit moyenne B+ ») ; indice retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus). Date de création = « Date de lancement de la classe d'actions 08 octobre 2018 » (fonds irlandais d'origine lancé le 12 janvier 1994, fusionné le 5 octobre 2018). Frais : factsheet « Frais de gestion annuels 1,00% », « Frais courants 1,28% » ; KID « 1,28 % ». Indice vide : KID « l’indice Bloomberg Global High Yield Corporate Index USD-Hedged (Total Return), qui est utilisé à des fins de comparaison ». SRI 2 (KID). SFDR article 8 (KID). Duration recopiée telle qu'écrite, sans unité. Allocations : « Classes d'actifs » = « Catégories d'investissement » ; « Positions » = 10 principaux émetteurs. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "factsheet_date": "factsheet",
   "kid_date": "KID",

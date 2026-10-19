@@ -18,7 +18,7 @@
  "sri": "2",
  "indice": "ICE BofA SOFR Overnight Rate Index Total Return in USD",
  "classification": "Défensif",
- "categorie": "",
+ "categorie": "Bond Global",
  "sfdr": "6",
  "durable_pct": "",
  "duration": "0.52 ans",
@@ -27,7 +27,7 @@
  "politique_fr": "Objectif d´investissement: Offrir un rendement supérieur à celui de l’indice de référence en exploitant les opportunités d’investissement que recèlent, entre autres, les marchés des changes et obligataires et en utilisant des instruments dérivés si nécessaire.\n\nApproche d’investissement\n\nRecourt à une approche de performance absolue afin d’identifier des sources de rendements décorrélés et peu volatils à moyen terme, quelles que soient les conditions de marché.\n\nApproche flexible permettant d’exploiter des sources de rendement diversifiées à travers trois stratégies distinctes : rotation tactique entre les segments obligataires traditionnels, stratégies alternatives (trading de valeur relative notamment) et stratégies de couverture.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : encours 817 → 832.2 M USD (« Actifs du fonds USD 832,2m », factsheet 30/09/2026) ; disclaimer recopié tel qu'écrit dans la factsheet (ajout de « et du revenu qui en découle ») ; qualité des émetteurs vidée (la factsheet donne une répartition par notation, pas une notation moyenne : reprise dans les allocations « Notations ») ; catégorie vidée. Frais courants 1,20 % (KID « Frais de gestion et autres frais administratifs et d’exploitation » et factsheet) ; pas de frais de gestion séparés ; commission de performance 20 % (factsheet). Indice retenu : l'objectif vise un rendement supérieur à l'indice de référence, utilisé aussi pour la commission de performance (KID). Duration : « Duration moyenne: 0,52 ans ». SFDR article 6 (KID). Allocations (positions, régions, secteurs, notations) datées du 31/08/2026, pas de la date de la factsheet. Le texte extrait de la factsheet double certains caractères (« Etats--Unis », « d d’’ ») : libellés recopiés tels qu'affichés, écarts du contrôle dus à cet artefact.",
+ "remarques": "Corrigé : encours 817 → 832.2 M USD (« Actifs du fonds USD 832,2m », factsheet 30/09/2026) ; disclaimer recopié tel qu'écrit dans la factsheet (ajout de « et du revenu qui en découle ») ; qualité des émetteurs vidée (la factsheet donne une répartition par notation, pas une notation moyenne : reprise dans les allocations « Notations ») ; catégorie vidée. Frais courants 1,20 % (KID « Frais de gestion et autres frais administratifs et d’exploitation » et factsheet) ; pas de frais de gestion séparés ; commission de performance 20 % (factsheet). Indice retenu : l'objectif vise un rendement supérieur à l'indice de référence, utilisé aussi pour la commission de performance (KID). Duration : « Duration moyenne: 0,52 ans ». SFDR article 6 (KID). Allocations (positions, régions, secteurs, notations) datées du 31/08/2026, pas de la date de la factsheet. Le texte extrait de la factsheet double certains caractères (« Etats--Unis », « d d’’ ») : libellés recopiés tels qu'affichés, écarts du contrôle dus à cet artefact. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "factsheet_date": "factsheet p.1",
   "kid_date": "KID p.1",

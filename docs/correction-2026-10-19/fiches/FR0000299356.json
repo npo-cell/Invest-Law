@@ -18,7 +18,7 @@
  "sri": "4",
  "indice": "MSCI Nordic 10/40 Index",
  "classification": "Dynamique",
- "categorie": "",
+ "categorie": "Equity Nordic",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "OBJECTIF DE GESTION ET STRATÉGIE D'INVESTISSEMENT\nL’objectif de gestion vise à obtenir sur la durée de placement recommandée de 5 ans, une performance nette de frais supérieure à celle de l'indicateur de référence simple suivant : MSCI Nordic 10/40 Index. L’indicateur de référence est exprimé en EUR.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Corrigé : factsheet 30/09/2026 en français (au lieu de l’anglaise d’août) ; encours 282.57 → 282.73 (« Actif net du fonds 282.73 M€ ») ; disclaimer remplacé par celui de la factsheet (aucune phrase sur l’absence de protection) ; politique FR remplacée par le bloc « Objectif de gestion et stratégie d'investissement » de la factsheet (l’ancien texte venait du prospectus) ; politique EN supprimée ; gérant ajouté ; compartiment refait depuis le KID (SICAV autonome, pas un compartiment). Date de création : « Date de création 02/01/1995 » (1re VL de la part le même jour). Frais : factsheet « Frais de gestion (max) 1.98% » (taux maximum) et « Frais courants DIC PRIIPS 2.15% » ; KID « Frais de gestion et autres coûts administratifs et d’exploitation 2,15% ». Indice : objectif de performance (KID et factsheet) ; la factsheet indique « MSCI NORDIC COUNTRIES NR EUR jusqu'au 30 mars 24 puis MSCI Nordic 10-40 NR EUR ». Gérant : « Thomas BRENIER » (nom en majuscules dans la factsheet : écart du contrôle automatique dû à la casse). SFDR article 8, aucun % durable écrit. Le KID nomme la part « Norden - Action RC EUR ». Allocations : 10 principaux titres (colonne « Poids » du fonds) ; les répartitions géographique, sectorielle, par capitalisation et par devise sont des graphiques sans valeurs extractibles.",
+ "remarques": "Corrigé : factsheet 30/09/2026 en français (au lieu de l’anglaise d’août) ; encours 282.57 → 282.73 (« Actif net du fonds 282.73 M€ ») ; disclaimer remplacé par celui de la factsheet (aucune phrase sur l’absence de protection) ; politique FR remplacée par le bloc « Objectif de gestion et stratégie d'investissement » de la factsheet (l’ancien texte venait du prospectus) ; politique EN supprimée ; gérant ajouté ; compartiment refait depuis le KID (SICAV autonome, pas un compartiment). Date de création : « Date de création 02/01/1995 » (1re VL de la part le même jour). Frais : factsheet « Frais de gestion (max) 1.98% » (taux maximum) et « Frais courants DIC PRIIPS 2.15% » ; KID « Frais de gestion et autres coûts administratifs et d’exploitation 2,15% ». Indice : objectif de performance (KID et factsheet) ; la factsheet indique « MSCI NORDIC COUNTRIES NR EUR jusqu'au 30 mars 24 puis MSCI Nordic 10-40 NR EUR ». Gérant : « Thomas BRENIER » (nom en majuscules dans la factsheet : écart du contrôle automatique dû à la casse). SFDR article 8, aucun % durable écrit. Le KID nomme la part « Norden - Action RC EUR ». Allocations : 10 principaux titres (colonne « Poids » du fonds) ; les répartitions géographique, sectorielle, par capitalisation et par devise sont des graphiques sans valeurs extractibles. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "factsheet_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__Factsheet_FR_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__KID_FR_2026-06-26.pdf",
  "sources": {

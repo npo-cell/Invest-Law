@@ -18,7 +18,7 @@
  "sri": "3",
  "indice": "CAC Small NR (dividendes nets réinvestis)",
  "classification": "Agressif",
- "categorie": "",
+ "categorie": "Equity France Sm&Mid Cap",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
@@ -27,7 +27,7 @@
  "politique_fr": "L’objectif de gestion du compartiment est de réaliser une performance nette de frais supérieure à celle de l’indice CAC Small NR (dividendes nets réinvestis), sur la durée de placement recommandée de 5 ans.\n\nInformations complémentaires : Le compartiment dispose d’un indicateur de référence qui est le CAC Small NR (dividendes réinvestis), bien qu’il puisse s’en éloigner dans sa composition comme dans sa performance. En effet, il ne s’agit pas d’un OPC indiciel, le gérant ne cherche pas à répliquer la composition des indices d’actions françaises et investit régulièrement dans des titres qui ne font partie d’aucun indice. Ceci découle du fait que le gérant recherche les valeurs les plus décotées, qui sont souvent les moins connues.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR 30/09/2026 (identique au « Reporting » publié sur hmgfinance.com) ; nouveau KID du 01/06/2026 trouvé sur hmgfinance.com et rangé dans INVESTLAW (remplace celui du 26/09/2024). Corrigé : compartiment « SICAV HMG Finance » → libellé du KID ; classification Dynamique → Agressif (petites capitalisations d'un seul pays, malgré un SRI 3) ; politique = « Objectif de gestion » de la factsheet ; autres valeurs confirmées. Date de création = « Lancement action C : le 7 mai 2008 » (OPC lancé le 26 octobre 1987). Encours = « Actif Net du compartiment 188 993 759,98 € » (arrondi à 188.99 millions). Frais : factsheet « Frais de Gestion 1,76% TTC » ; KID « 1,76% » ; commission de surperformance 15 % au-delà du CAC Small NR. Indice retenu : objectif de performance supérieure au CAC Small NR. Gérants : « Co-Gérants: Marc GIRAULT », « Jean-François DELCAIRE, CIIA ». SRI 3 (KID). SFDR article 8 (factsheet et KID). Allocations : libellés complets de la légende (le texte des barres est tronqué) ; « Styles » = répartition « Par concept de gestion ».",
+ "remarques": "Factsheet FR 30/09/2026 (identique au « Reporting » publié sur hmgfinance.com) ; nouveau KID du 01/06/2026 trouvé sur hmgfinance.com et rangé dans INVESTLAW (remplace celui du 26/09/2024). Corrigé : compartiment « SICAV HMG Finance » → libellé du KID ; classification Dynamique → Agressif (petites capitalisations d'un seul pays, malgré un SRI 3) ; politique = « Objectif de gestion » de la factsheet ; autres valeurs confirmées. Date de création = « Lancement action C : le 7 mai 2008 » (OPC lancé le 26 octobre 1987). Encours = « Actif Net du compartiment 188 993 759,98 € » (arrondi à 188.99 millions). Frais : factsheet « Frais de Gestion 1,76% TTC » ; KID « 1,76% » ; commission de surperformance 15 % au-delà du CAC Small NR. Indice retenu : objectif de performance supérieure au CAC Small NR. Gérants : « Co-Gérants: Marc GIRAULT », « Jean-François DELCAIRE, CIIA ». SRI 3 (KID). SFDR article 8 (factsheet et KID). Allocations : libellés complets de la légende (le texte des barres est tronqué) ; « Styles » = répartition « Par concept de gestion ». Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
  "sources": {
   "factsheet_date": "factsheet",
   "kid_date": "KID",
