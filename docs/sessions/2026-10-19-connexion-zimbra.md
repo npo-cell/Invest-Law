@@ -6,3 +6,4 @@
 - **Reste à faire** : chaque personne fait le réglage (guide), puis « teste la connexion Zimbra » dans une nouvelle session. Testé OK le 19/10 pour Louis ; reste Noa.
 - **Test** : connexion OK depuis la session de Louis (57 messages dans INBOX). L'outil accepte une URL complète dans `ZIMBRA_IMAP_HOST` / `ZIMBRA_HOST`.
 - **Test 2** (19/10, autre session) : connexion OK, 58 messages dans INBOX.
+- **Rôle de la boîte** (précisé le 19/10) : c'est la boîte « data » d'invest-law, où arrivent la plupart des données, notamment les VNI quotidiennes et mensuelles. Ajouté au guide et au skill.
