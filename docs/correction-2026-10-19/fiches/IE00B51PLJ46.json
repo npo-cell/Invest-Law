@@ -1,0 +1,171 @@
+{
+ "n": "199",
+ "isin": "IE00B51PLJ46",
+ "nom": "(I/C)LAZARD GLOBAL LIST INF EQUITY A EUR",
+ "maison": "LAZARD FUND MANAGERS (IRELAND) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-21",
+ "date_creation": "2012-07-04",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (infrastructures cotées)",
+ "compartiment": "A sub-fund of Lazard Global Active Funds PLC, an Irish UCITS investment fund company",
+ "gerants": "Bertrand Cliquet & Team",
+ "encours_millions": "2374.94",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.85",
+ "frais_courants": "0.92",
+ "sri": "3",
+ "indice": "MSCI World Core Infrastructure",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future results",
+ "politique_fr": "",
+ "politique_en": "Fund Objective\nTo achieve over the long-term total returns comprising income and capital appreciation.\n\nFund Description\nLazard's Global Listed Infrastructure Equity Fund is an actively managed portfolio that typically invests in equity securities of infrastructure companies with a minimum market capitalization of $250 million. The Fund uses a \"Preferred Infrastructure\" philosophy that focuses primarily on equity securities of companies that own physical infrastructure assets that meet certain preferred criteria, such as revenue certainty, profitability and longevity.",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 2555.73 → 2374.94 ; encours_date 2026-08-31 → 2026-09-30. Part A Acc EUR Hedged (couverte). Factsheet uniquement en anglais (politique en EN ; le KID FR contient un objectif plus détaillé). Date de création = « Share Class Launch Date 04/07/2012 » (fonds : 27/02/2012). Encours = « Fund AUM Class Currency €2,374.94m » (en devise de base : £2,030.62m) ; pas de date propre (date de la factsheet). Frais de gestion = « Annual Management Fee 0.85% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 0,92 % (factsheet « Ongoing charges 0.92% »). Indice : « The Fund's performance is measured against the performance of the MSCI World Core Infrastructure (the \"Benchmark\") » (mesure de performance) ; indice précédent FTSE Developed Core Infrastructure 50/50 jusqu'au 30/06/2018. Gérants : « Bertrand Cliquet & Team ». SFDR « Article 8 » (factsheet). Classification Dynamique : actions mondiales d'un seul secteur (infrastructures) mais SRI 3 — cas limite avec Agressif. Allocations « Ex Cash », colonne Fund seulement (indice et écarts non repris) ; capitalisations lues sur graphique (barre Fund = barre gauche de chaque paire, lus sur l'image ; total Fund 100.1).",
+ "factsheet_fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__KID_FR_2026-09-21.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.3",
+  "devise": "factsheet p.3",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1 et p.3"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "National Grid",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "American Tower",
+   "pct": "8.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VINCI",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Crown Castle",
+   "pct": "7.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Snam",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Exelon",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Utilities",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ferrovial",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Terna",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cellnex Telecom",
+   "pct": "4.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">£50bn",
+   "pct": "25.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "£15bn to £50bn",
+   "pct": "38.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "£5bn to £15bn",
+   "pct": "25.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<£5bn",
+   "pct": "12.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "51.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "24.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "16.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "8.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Continental Europe",
+   "pct": "43.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "North America",
+   "pct": "26.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "United Kingdom",
+   "pct": "19.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asia ex Japan",
+   "pct": "11.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japan",
+   "pct": "0.0"
+  }
+ ]
+}

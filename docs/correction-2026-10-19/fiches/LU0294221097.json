@@ -1,0 +1,186 @@
+{
+ "n": "834",
+ "isin": "LU0294221097",
+ "nom": "TEMPLETON GLOBAL TTL RET A EUR H1",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2007-04-10",
+ "devise": "EUR",
+ "type_fonds": "Obligataire international (rendement total)",
+ "compartiment": "SICAV de droit luxembourgeois Franklin Templeton Investment Funds",
+ "gerants": "Michael Hasenstab, Calvin Ho",
+ "encours_millions": "1570",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.37",
+ "sri": "3",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.90 ans",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs. Le cours des actions du Fonds, ainsi que les revenus générés, peuvent fluctuer à la hausse comme à la baisse, et il est possible que les investisseurs ne puissent pas récupérer l'intégralité des montants investis.",
+ "politique_fr": "Objectif d'investissement\nChercher à maximiser les revenus et la croissance du capital (rendement total). Le Fonds investit principalement dans des obligations d'entreprises et d'État libellées dans n'importe quelle devise ainsi que dans des devises elles-mêmes. Ces investissements peuvent provenir du monde entier, y compris de Chine (par le biais du Bond Connect ou directement) et d'autres marchés émergents, et certains peuvent être de qualité inférieure à investment grade.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting du Fonds au 30 septembre 2026 » (française, la plus récente). Part couverte en EUR (« EUR-H1 ») ; encours du fonds en USD. Duration = « Duration effective 3,90 ans » ; qualité = « Notation de crédit moyenne BBB+ ». Pas de tableau des principales positions dans la factsheet. Date de création = « Date de création de la part 10.04.2007 » (fonds : 29.08.2003). Compartiment de Franklin Templeton Investment Funds (« Parapluie légal »). Gérants : équipe de gestion (Michael Hasenstab, PhD ; Calvin Ho, PhD). Encours « Actif net total » $1,57 milliard (fonds). Frais de gestion non indiqués ; frais courants 1,37 % (KID « Frais de gestion et autres frais administratifs et d’exploitation », identique à la factsheet). Indice vide : « Bloomberg Multiverse Index » marqué « Comparateur », « Utilisé à des fins de comparaison des performances uniquement ». SFDR article 8 (factsheet « Catégorie SFDR Article 8 » et KID), aucun % d'investissements durables écrit. Classification Défensif : fonds obligataire international, SRI 3 (One Life : Equilibré). Allocations : colonne « Fonds » seulement (indice non repris), libellés et valeurs tels qu'écrits. Corrigé : encours 1610 → 1570 (factsheet 30/09/2026) ; duration 3.89 → 3.90 ans (factsheet 30/09/2026) ; indice → vide (comparateur uniquement) ; classification Equilibré → Défensif ; politique du site → objectif de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Malaisie",
+   "pct": "11.85"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "9.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "9.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "8.84"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "1.91"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "0.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "43.50"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "14.74"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "21.63"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Ringgit de Malaisie",
+   "pct": "11.85"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar australien",
+   "pct": "10.67"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "10.50"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar américain",
+   "pct": "6.15"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "-1.41"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Renminbi chinois",
+   "pct": "-11.60"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autre",
+   "pct": "52.19"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "4.95"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "2.59"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "15.30"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "30.42"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "22.62"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "6.62"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "0.00"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CC",
+   "pct": "0.00"
+  },
+  {
+   "type": "Notations",
+   "libelle": "D",
+   "pct": "0.00"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "3.40"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans objet",
+   "pct": "-0.62"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités et équivalents",
+   "pct": "14.74"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0294221097/LU0294221097__KID_FR_2026-02-19.pdf"
+}

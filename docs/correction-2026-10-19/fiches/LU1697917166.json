@@ -1,0 +1,198 @@
+{
+ "n": "133",
+ "isin": "LU1697917166",
+ "nom": "(I/C)FFG GLOBAL FLEXIBLE CONVICTIONS I EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-10",
+ "date_creation": "2019-04-25",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (flexible)",
+ "compartiment": "Ce produit est un compartiment du fonds FFG constitué sous la forme d’une Société d’Investissement à Capital Variable à compartiments multiples de droit luxembourgeois soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "",
+ "encours_millions": "158.99580788",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.65",
+ "frais_courants": "1.0",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "L’objectif du compartiment est la recherche d’un rendement sur le moyen terme supérieur à celui d’un placement obligataire en Euro. A cette fin, le Compartiment est investi en actions, obligations, ETCs, instruments du marché monétaire ou en liquidités. Il peut également investir dans des Organismes de Placement Collectifs (OPC) pour un maximum de 10%. Le poids de ces différentes classes d’actifs peut varier significativement à travers le temps. Le fonds est investi sans restriction géographique, sectorielle et monétaire. Le fonds est géré de manière active sans considération d’un indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : type_fonds EAA Fund EUR Flexible Allocation - Global → Multi-actifs (flexible) ; compartiment FFG GLOBAL FLEXIBLE CONVICTIONS I EUR → Ce produit est un compartiment du fonds FFG constitué sou… ; gerants Guy Wagner → vide ; encours_millions 34.64 → 158.99580788 ; encours_devise vide → EUR ; encours_date vide → 2026-09-30 ; frais_courants 0.98 → 1.0 ; indice n/a → Aucun ; classification Equilibré → Dynamique ; sfdr vide → 8 ; durable_pct 79 → vide ; source_politique invest-law.eu → Factsheet ; politique_en vidé ; disclaimer remplacé. Factsheet FR de la part I Acc (« FFG GLOBAL FLEXIBLE CONVICTIONS – I ACC EN EUR », « ISIN Part I Acc LU1697917166 ») au 30/09/2026, téléchargée sur fundsforgood.eu (Factsheet_FR_GFC_IAcc.pdf). Attention : le PDF contient des calques masqués d'autres parts qui ressortent dans le texte extrait ; toutes les valeurs ont été lues sur l'image des pages. Date de création = « Lancement de la part 25/04/2019 » (stratégie 28/12/2017 ; KID : compartiment lancé en 2017, classe en 2019). Encours = « Actifs nets du fonds € 158 995 807,88 » (actifs nets de la part : € 30 439 825,52). Frais de gestion = « Dont Frais de Gestion (max.) 0,65% » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,0 % (factsheet 0,98 %). SRI 3 (KID et factsheet). Gérants : aucun nom, seulement « Gestionnaire BLI - Banque de Luxembourg Investments s.a. ». Indice « Aucun » : « géré de manière active sans considération d’un indice de référence » (factsheet ; KID idem). SFDR article 8 (« article 8 du SFDR ») ; investissements durables : « minimum de 5% » (engagement minimal, non reporté). Classification Dynamique (changée par rapport à la fiche préparée, Equilibré) : fonds flexible sans contrainte d'allocation, investi au 30/09/2026 à 83,6 % en actions (12,0 % or, 5,1 % obligations), bien que SRI 3 — cas limite. Politique : bloc « Objectifs & politique d'investissement » de la factsheet (le bloc « Politique d'investissement responsable » n'est pas repris). Allocations (lues sur graphiques) : allocation d'actifs, répartition sectorielle et géographique des actions ; « 10 plus grandes positions » : 9 lignes seulement dans le document.",
+ "factsheet_fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU1697917166/LU1697917166__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU1697917166/LU1697917166__KID_FR_2026-02-10.pdf",
+ "sources": {
+  "kid_date": "KID p.1",
+  "devise": "KID p.1",
+  "compartiment": "KID p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "factsheet_date": "factsheet p.1",
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "disclaimer": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Sumitomo Metal Mining Co Ltd",
+   "pct": "3.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconduct Mfg Co Ltd",
+   "pct": "3.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding Ltd Partizsch",
+   "pct": "3.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Relx Plc",
+   "pct": "2.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP SE",
+   "pct": "2.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd",
+   "pct": "2.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Canadian National Railway Co",
+   "pct": "2.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Deutschland 2.5% 25/15.02.35",
+   "pct": "2.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wheaton Precious Metals Corp Reg",
+   "pct": "2.37"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "83.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "5.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Or",
+   "pct": "12.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "22.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "35.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "8.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "11.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "4.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "8.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "6.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "40.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "25.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du nord",
+   "pct": "9.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie développée",
+   "pct": "12.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "12.5"
+  }
+ ]
+}

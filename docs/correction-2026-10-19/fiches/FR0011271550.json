@@ -1,0 +1,171 @@
+{
+ "n": "662",
+ "isin": "FR0011271550",
+ "nom": "KEREN ESSENTIELS C EUR",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-02-18",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Actions françaises petites et moyennes capitalisations",
+ "compartiment": "Compartiment de la SICAV Keren",
+ "gerants": "Stéphane Pasqualetti",
+ "encours_millions": "22.26",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.00",
+ "frais_courants": "2.01",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "92.2",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Afin de réaliser l'objectif de gestion sur la durée de placement recommandée de 5 ans , La stratégie d’investissement consiste à réaliser un stock picking (1) sur les valeurs de PME et ETI (2). L’objectif est de profiter des opportunités d’investissement dans des sociétés en développement, essentiellement de la zone euro. La stratégie se base sur deux piliers : 1/ La définition d’une allocation stratégique de long terme à partir de l’analyse des fondamentaux économiques et boursiers 2/ La construction du portefeuille : la sélection des titres de petites valeurs est effectuée en fonction de critères quantitatifs et qualitatifs, (secteurs d’activité, barrières à l’entrée, stratégie, création de valeur et croissance des bénéfices à long terme, qualité des dirigeants, etc). Le gérant accordera une place prépondérante aux actions de capitalisation inférieure à 1 milliard d’euros et aux actions de PME-ETI et complétera cette part en instruments de taux. (1) Le stock picking désigne l’activité de sélection de titres, un par un, selon une batterie de critères d’analyse fondamentale. (2) L'ETI (entreprise de taille intermédiaire) est une catégorie d'entreprises située entre les PME et les grandes entreprises. Cette classification est effectuée en fonction du nombre de salariés, du chiffre d'affaires ou du total de bilan.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : date de création 2012-07-09 vidée (aucune date dans la factsheet ni le KID) ; frais courants 2.02 → 2.01 (KID « Frais de gestion fin. & autres coûts 2,01% ») ; frais de gestion 2 → 2.00 (« Frais de gestion annuels 2.00% TTC », factsheet ; frais de service 0.20 % en sus) ; indice « Euronext Paris CAC Mid&Small NR EUR » vidé : objectif = performance supérieure à 7 % annualisés ; le CAC MID & SMALL n'est cité qu'« A titre indicatif et de comparaison a posteriori » (KID) et la factsheet ne nomme pas son indice ; investissements durables 54 → 92.2 % (« Investissement durable 92.2% ») ; classification Dynamique → Agressif (petites et moyennes capitalisations d'un seul pays ; SRI 4) ; catégorie vidée. Commission de surperformance 20 % au-delà de 7 % (factsheet et KID). Encours = « AuM: 22.26 mEUR » sur la ligne de la part C (fonds ou part non précisé). KID du 18/02/2025. SFDR article 8, label Relance (factsheet). Allocations de la « poche action du fonds » au 30/09/2026, en exposition.",
+ "sources": {
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Elis S.A.",
+   "pct": "5.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ID Logistics Group",
+   "pct": "4.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sopra Group SA",
+   "pct": "4.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Exail Technologies (Ex-Groupe Gorge)",
+   "pct": "3.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alten SA",
+   "pct": "3.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "28.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "18.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "16.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Telecommunication Services",
+   "pct": "8.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "8.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "6.87"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "4.99"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "3.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "2.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "84.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "4.46"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "3.34"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "3.25"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "2.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgium",
+   "pct": "2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2Mds-10Mds",
+   "pct": "59.23"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "300M-2Mds",
+   "pct": "27.65"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50M-300M",
+   "pct": "12.32"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<50M",
+   "pct": "0.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/KEREN_FINANCE/FR0011271550/FR0011271550__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/KEREN_FINANCE/FR0011271550/FR0011271550__KID_FR_2025-02-18.pdf"
+}

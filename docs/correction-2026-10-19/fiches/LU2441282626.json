@@ -1,0 +1,213 @@
+{
+ "n": "166",
+ "isin": "LU2441282626",
+ "nom": "(I/C)JANUS HENDERSON HORIZON BIOTECHNOLOGY IU2 EUR",
+ "maison": "Janus Henderson Investors",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-13",
+ "date_creation": "2022-02-25",
+ "devise": "EUR",
+ "type_fonds": "Actions biotechnologie",
+ "compartiment": "Janus Henderson Horizon Biotechnology Fund est un compartiment de Janus Henderson Fund, une société d'investissement à capital variable constituée en vertu des lois du Grand-Duché de Luxembourg. Janus Henderson Horizon Fund est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+ "gerants": "Andy Acker, Daniel Lyons, Agustin Mohedas",
+ "encours_millions": "2080",
+ "encours_devise": "",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.90",
+ "frais_courants": "1.00",
+ "sri": "5",
+ "indice": "Indice NASDAQ Biotechnology Total Return",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+ "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice NASDAQ Biotechnology Total Return Index de 2% par an, avant déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit au moins 80% de ses actifs dans des actions (titres de participation) et titres assimilés de sociétés, opérant dans le secteur des biotechnologies ou un secteur connexe, de toute taille, y compris les entreprises à faible capitalisation, dans tout pays. Le Fonds peut également investir dans d'autres actifs, y compris des obligations (notamment des obligations convertibles), des actions privilégiées, des liquidités et des instruments du marché monétaire. Le Gestionnaire d'Investissement peut utiliser des dérivés (instruments financiers complexes) dans le but de réaliser des gains sur les placements conformes à l'objectif du Fonds, pour réduire le risque ou pour gérer le Fonds plus efficacement. Le Fonds est géré de façon active en se référant à l'indice NASDAQ Biotechnology Total Return Index, qui est largement représentatif des sociétés dans lesquelles celui-ci est susceptible d'investir, dans la mesure où cet indice constitue la base de l'objectif de performance du Fonds et le niveau au-dessus duquel des commissions de performance peuvent être imputées (le cas échéant). Le gestionnaire d'investissement a le pouvoir discrétionnaire de choisir des investissements pour le Fonds ayant des pondérations différentes de celles de l'indice ou n'étant pas présents dans l'indice, mais le Fonds peut occasionnellement détenir des investissements similaires à ceux de l'indice.\n\nStratégie d'investissement\nLe gestionnaire cherche à identifier des entreprises innovantes du secteur de la biotechnologie répondant à des besoins médicaux non satisfaits et dont les valorisations sont nettement inférieures à leur valeur intrinsèque. Le portefeuille peut avoir un biais pour les entreprises en phase de développement. L’équipe a conscience que le développement de médicaments est par nature binaire, créant de fortes disparités entre les gagnants et les perdants. Le processus d’investissement s’appuie sur des modèles statistiques exclusifs pour analyser la probabilité de réussite d’une entreprise, en mettant l’accent sur des produits qui, selon l’équipe, peuvent résister à la rigueur habituelle du développement clinique. Nous utilisons d’autres outils, comme les enquêtes auprès des médecins, les modèles de prescription et les simulations de scénarios pour déterminer avec plus de précision la viabilité commerciale des produits.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 2190 → 2080 ; encours_date 2026-08-31 → 2026-09-30. Factsheet FR au 30/09/2026. Politique : « Objectif de gestion » (p.1) + « Politique d'investissement » et « Stratégie d'investissement » (p.3). Date de création = « Informations sur les catégories d'action – Date de création 25 février 2022 » (fonds : 10 décembre 2018). Encours = « Total de l'actif nette 2.08Mds » converti en 2080 millions ; devise non écrite (devise de base du fonds : USD) → laissée vide. Gérants = « Équipe de gestion » (titres « CFA », « Ph.D. » retirés). Frais de gestion = « Frais de gestion annuels (FGA) 0,90 » ; frais courants = KID 1,00 % (factsheet : FC 1,00) ; commission de performance 20 % au-delà de l'indice (High Water Mark). Indice : objectif de performance (surperformer de 2 % par an) et seuil de la commission de performance ; libellé du tableau « Détails du fonds ». Compartiment : texte du KID tel quel (il nomme successivement « Janus Henderson Fund » et « Janus Henderson Horizon Fund »). Allocations : colonne Fonds seulement (indice exclu) ; « Répartition par sous-secteur » classée en Secteurs ; pays = « Principaux pays ».",
+ "factsheet_fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__KID_FR_2026-02-13.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1 et p.3",
+  "source_politique": "factsheet p.1 et p.3"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Gilead Sciences",
+   "pct": "5.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Revolution Medicines",
+   "pct": "4.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Argenx",
+   "pct": "4.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Praxis Precision Medicines",
+   "pct": "3.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Travere Therapeutics",
+   "pct": "3.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bridgebio Pharma",
+   "pct": "3.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vertex Pharmaceuticals",
+   "pct": "3.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Madrigal Pharmaceuticals",
+   "pct": "3.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vaxcyte",
+   "pct": "3.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Insmed",
+   "pct": "3.09"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "86.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "4.59"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "2.96"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "2.59"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "1.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "0.39"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée Du Sud",
+   "pct": "0.01"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "86.69"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "9.19"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "2.59"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Région Pacifique",
+   "pct": "0.01"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "100 à 500 milliards de dollars",
+   "pct": "14.51"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50 à 100 milliards de dollars",
+   "pct": "7.36"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "25 à 50 milliards de dollars",
+   "pct": "6.53"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10 à 25 milliards de dollars",
+   "pct": "14.72"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 à 10 milliards de dollars",
+   "pct": "32.28"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1 à 5 milliards de dollars",
+   "pct": "17.78"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "250 millions de dollars à 1 milliard de dollars",
+   "pct": "5.22"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moins de 250 millions de dollars",
+   "pct": "0.04"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biotechnologie",
+   "pct": "86.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharmacologie",
+   "pct": "11.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies médicales",
+   "pct": "0.02"
+  }
+ ]
+}

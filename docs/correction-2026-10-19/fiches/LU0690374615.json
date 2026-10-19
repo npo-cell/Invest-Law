@@ -1,0 +1,114 @@
+{
+ "n": "586",
+ "isin": "LU0690374615",
+ "nom": "FUNDSMITH EQUITY FUND SICAV R EUR",
+ "maison": "FUNDSMITH LLP",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-01-30",
+ "date_creation": "2011-11-02",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Fundsmith Equity Fund est un compartiment de Fundsmith SICAV",
+ "gerants": "Terry Smith",
+ "encours_millions": "4300",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.58",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a guide to future performance. The value of companies invested in, and therefore the value of the Fund, will rise and fall, and there is no guarantee that you will get your investment back.",
+ "politique_fr": "",
+ "politique_en": "The Fundsmith Equity Fund, a sub fund of Fundsmith SICAV (“Fund”) is actively managed, which means that the investments are selected at the discretion of the investment manager. The investment objective of the Fund is to achieve long-term growth in value. The Fund will invest in equities on a global basis. The Fund’s approach is to be a long-term investor in its chosen stocks. It will not adopt short-term trading strategies. The Fund has stringent investment criteria which the Investment Manager adheres to in selecting securities for the Fund’s investment portfolio. These criteria aim to ensure that the Fund invests in:\n\nhigh quality businesses that can sustain a high return on operating capital employed; businesses whose advantages are difficult to replicate; businesses which do not require significant leverage to generate returns; businesses with a high degree of certainty of growth from reinvestment of their cash flows at high rates of return; businesses that are resilient to change, particularly technological innovation; and businesses whose valuation is considered by the Investment Manager to be attractive.\n\nThe Fund takes sustainability risk and ESG characteristics into account as part of its selection process. In that respect, the Fund promotes environmental and/or social characteristics and discloses sustainability-related information in accordance with the requirements of Article 8 of Regulation (EU) 2019/2088 (the Sustainable Finance Disclosure Regulation (SFDR).\n\nMore information can be found in the Prospectus (www.fundsmith.eu/forms) and in the Sustainability Related Disclosure (www.fundsmith.eu/documents) on the website.",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : factsheet 31/08/2026 → 30/09/2026 (plus récente, même part) ; frais courants 1.59 → 1.58 (KID) ; indice « MSCI World NR EUR » retiré (voir ci-dessous) ; politique : texte anglais de la factsheet (« Investment objective »), l'ancien texte français était rédigé ; encours 4300 confirmé (« Fund Size €4.3bn »). Factsheet multi-parts : la ligne « R Class Acc » (ISIN LU0690374615) donne OCF 1.59%, lancement 2011-11-02. Frais courants : KID « 1,58% » (« frais de gestion et autres frais administratifs et d'exploitation ») ; pas de frais de gestion séparés. Indice vide : la factsheet indique « The Fund is not managed with reference to any benchmark, the above comparators are provided for information purposes only » ; le KID cite l'indice MSCI World Index (en euro, net) utilisé « à des fins de comparaison de performance et pour le calcul de son exposition globale ». SRI 4 (KID). SFDR article 8 (factsheet et KID). Politique : liste des critères à puces reprise ligne à ligne (les puces sont des images). Allocations : répartitions géographique (pays de cotation) et sectorielle ; les 10 principales positions sont listées sans pourcentage, non reprises.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "US",
+   "pct": "81.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "7.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Spain",
+   "pct": "5.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "UK",
+   "pct": "3.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash",
+   "pct": "2.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "17.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "17.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "14.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "14.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "13.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "10.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "9.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "2.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__KID_FR_2026-01-30.pdf"
+}

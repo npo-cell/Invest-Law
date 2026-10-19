@@ -1,0 +1,262 @@
+{
+ "n": "782",
+ "isin": "DE000A1JCWX9",
+ "nom": "PTAM GLOBAL UI EUR",
+ "maison": "PT Asset Management GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-01-24",
+ "date_creation": "2011-10-06",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible",
+ "compartiment": "Fonds commun de placement (FCP) domicilié en Allemagne ayant Hanseatische Investment-GmbH pour société de gestion",
+ "gerants": "",
+ "encours_millions": "336.51",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.80",
+ "frais_courants": "1.8",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur de capitaux investis dans un fonds fluctue et la performance passée n'est pas un indicateur fiable de la performance future. Aucune garantie ne peut être donnée que les investisseurs récupéreront le montant investi.",
+ "politique_fr": "Stratégie d'investissement\nRatios de performance*",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part concernée : l’ISIN DE000A1JCWX9 est celui de la part « PTAM Global Allocation R » dans la factsheet et le KID (le nom du classeur « PTAM GLOBAL UI » ne figure dans aucun document ; les documents sont bien ceux de l’ISIN). Factsheet française du 30/09/2026 retenue (« français d’abord », versions EN et DE de même date). KID : fichier daté 2026-01-24, le texte indique « Date de la dernière révision … 24.01.2025 » mais ses scénarios courent jusqu’en janvier 2026 (coquille probable dans le KID). Corrigé : encours 334.42 → 336.51 (« Volume du fonds 336,51 Mio. EUR » ; classe R : 223,73) ; frais de gestion 1.65 → 1.80 (« Commission de gestion max. par an 1,80% », taux maximum) ; frais courants 1.75 → 1.8 (KID « Frais de gestion et autres frais administratifs et d’exploitation 1,8% » ; factsheet « Frais courants/TER 1,77% ») ; indice « € STR » → « Aucun » (KID : le gestionnaire « n’a recours à aucune valeur de référence » ; l’€STR + 1 % ne sert qu’au calcul de la commission de performance de 10 %) ; duration 6.78 et qualité A+ vidées (la factsheet donne « Duration modifiée 126,58% » au 31/08/2026, valeur incohérente, et aucune notation moyenne) ; gérant vidé (seule la société « PT Asset Management GmbH », Fund Partner, est citée) ; compartiment, disclaimer et politique refaits depuis la factsheet. Date de création : « Date de lancement (Classe) 06/10/11 ». SRI 3 (KID). SFDR article 8 (factsheet et KID). Classification Equilibré conservée (fonds flexible, SRI 3), bien que les actions représentent 76,82 % au 30/09/2026. Allocations : structure du portefeuille (Classes d’actifs), devises, actions par pays et par secteur (tels qu’écrits, en % du fonds), profil d’échéance du revenu fixe (Maturités) ; « Revenu fixe par pays » et « Secteurs à revenu fixe » non repris ; les 10 principales positions ne figurent pas dans le texte de la factsheet.",
+ "factsheet_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/DE000A1JCWX9/DE000A1JCWX9__KID_FR_2026-01-24.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "76.82"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Revenu fixe*",
+   "pct": "13.07"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "7.27"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds en actions",
+   "pct": "2.22"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds à revenu fixe*",
+   "pct": "1.87"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Créances de dividendes*",
+   "pct": "0.06"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Contr. d. change à terme",
+   "pct": "-0.44"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres créances/passifs",
+   "pct": "-0.86"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "47.69"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "34.30"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "4.16"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NOK",
+   "pct": "2.89"
+  },
+  {
+   "type": "Devises",
+   "libelle": "AUD",
+   "pct": "2.63"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "2.63"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "2.04"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "0.95"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "0.80"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CZK",
+   "pct": "0.65"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NZD",
+   "pct": "0.42"
+  },
+  {
+   "type": "Devises",
+   "libelle": "PLN",
+   "pct": "0.33"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "0.33"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SEK",
+   "pct": "0.19"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "42.46"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "4.15"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.97"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.57"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "3.42"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "2.61"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "2.44"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.42"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "2.04"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "9.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Informatique",
+   "pct": "38.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "11.44"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "9.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "8.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "6.32"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation non cour.",
+   "pct": "2.81"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10",
+   "pct": "9.30"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7",
+   "pct": "2.85"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5",
+   "pct": "0.65"
+  },
+  {
+   "type": "Maturités",
+   "libelle": ">10",
+   "pct": "0.27"
+  }
+ ]
+}

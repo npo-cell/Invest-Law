@@ -1,0 +1,132 @@
+{
+ "n": "367",
+ "isin": "LU1894680757",
+ "nom": "AMUNDI INCOME OPPORTUNITIES A2 EUR",
+ "maison": "Amundi Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-22",
+ "date_creation": "2019-06-07",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (revenus)",
+ "compartiment": "Actions d’un Compartiment d’Amundi Funds, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+ "gerants": "Marco Pirondini, Howard Weiss, Fergal Jackson",
+ "encours_millions": "7416.60",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.79",
+ "sri": "3",
+ "indice": "ICE BofA US 3-Month Treasury Bill",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futurs.",
+ "politique_fr": "Le Compartiment est un produit financier qui promeut les caractéristiques ESG conformément à l’Article 8 du Règlement « Disclosure ». Viser des revenus et, à titre d’objectif secondaire, une plus-value du capital au cours de la période de détention recommandée. Le Compartiment dispose de la flexibilité nécessaire pour investir dans une large gamme de titres générateurs de revenus émis dans le monde entier, y compris sur les marchés émergents. Cela comprend notamment des actions, des obligations d’État et d’entreprises, ainsi que des titres du marché monétaire. Les investissements obligataires du Compartiment peuvent être de toute qualité (« investment grade » ou inférieur) et peuvent concerner jusqu’à 20 % des titres adossés à des actifs, des titres hypothécaires et jusqu’à 20 % dans des titres convertibles. Le Compartiment peut investir jusqu’à 10 % dans des obligations convertibles conditionnelles et peut également chercher une exposition au secteur immobilier. Le Compartiment peut investir sans limite dans des titres de créance et des titres adossés à des actions d’émetteurs non américains, et jusqu’à 30 % de son actif total dans des titres de créance et des titres adossés à des actions d’émetteurs des marchés émergents. Le Compartiment a recours à des instruments dérivés à des fins de réduction de différents risques, de gestion efficace de portefeuille et d’exposition (à court ou à long terme) à différents actifs, marchés et autres opportunités d’investissement (y compris des instruments dérivés axés sur le crédit, les actions, les taux d’intérêt et le change). Indice de référence : Le Compartiment est activement géré et utilise l’Indice ICE BofA US 3-Month Treasury Bill a posteriori en tant qu’indicateur pour évaluer la performance du Compartiment et, en ce qui concerne l’indice de référence de la commission de performance utilisé par les classes d’actions concernées, pour calculer les commissions de performance. Il n’existe aucune contrainte relative à cet Indice de référence qui limite la constitution du portefeuille. Le Compartiment n’a pas désigné l’Indice de référence comme indice de référence aux fins du Règlement « Disclosure ». Processus de gestion : Le Compartiment intègre des Facteurs de durabilité dans son processus d’investissement, comme indiqué plus en détail dans la section « Investissement durable » du Prospectus. Le gestionnaire d’investissement adopte une stratégie flexible d’allocation qui cherche à identifier les opportunités attrayantes en matière de revenu et de plus-value du capital. Outre l’élaboration d’un portefeuille de titres fondé sur cette stratégie, le gestionnaire d’investissement adopte des stratégies tactiques de couverture et d’allocation des actifs dans le but d’éliminer les risques involontaires et de réduire la volatilité. Le Compartiment cherche à obtenir une notation ESG pour son portefeuille supérieure à celle de l’univers d’investissement.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "ISIN LU1894680757 vérifié dans la factsheet (« Code ISIN : LU1894680757 »). Date de création : « Date de création de la classe : 07/06/2019 » (compartiment créé pour absorber AMUNDI FUNDS II PIONEER INCOME OPPORTUNITIES, lancé en 2018). Encours : « Actif géré : 7 416,60 ( millions EUR ) ». Frais : seuls les « Frais de gestion et autres coûts administratifs ou d’exploitation : 1,79% » sont écrits (factsheet ; KID, partie en anglais : « Management fees and other … 1.79% ») : frais courants 1.79, frais de gestion vides. Indice : « ICE BofA US 3-Month Treasury Bill », utilisé a posteriori pour évaluer la performance (factsheet). Duration non retenue : la factsheet donne « Sensi (ans) 6,31 » et « Sensibilité 1,49 » sans préciser laquelle s'applique au portefeuille global (doute). SFDR article 8. Classification Equilibré : multi-actifs à revenu, actions 45,55 % (SRI 3). Disclaimer copié tel quel (coquille « futurs »). Allocations : 10 principales lignes (hors monétaire) et allocation d'actifs ; répartition par devises non reprise (libellés du graphique illisibles dans le texte). Corrigé : disclaimer « gsgs » (saisie parasite) → phrase de la factsheet ; duration 1.49 → vide (ambiguë) ; classification Dynamique → Equilibré ; indice libellé sans « Index » comme écrit ; politique FR remplacée par l'objectif de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__KID_FR_2026-05-22.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BANK OF AMERICA CORP",
+   "pct": "3.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SHELL PLC EUR",
+   "pct": "2.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS",
+   "pct": "2.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "2.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "1.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCO DE SABADELL SA",
+   "pct": "1.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HUNTINGTON BANCSHARES INC",
+   "pct": "1.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BRISTOL-MYERS SQUIBB CO",
+   "pct": "1.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EVERSOURCE ENERGY",
+   "pct": "1.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US BANCORP",
+   "pct": "1.11"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "45.55"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Taux",
+   "pct": "23.90"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Equity Linked Notes",
+   "pct": "23.46"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "6.71"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Monétaire",
+   "pct": "0.61"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "-0.21"
+  }
+ ]
+}

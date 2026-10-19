@@ -1,0 +1,199 @@
+{
+ "n": "663",
+ "isin": "FR0000980427",
+ "nom": "KEREN PATRIMOINE C EUR",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-02-18",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs prudent",
+ "compartiment": "Compartiment de la SICAV Keren",
+ "gerants": "Raphaël Elmaleh",
+ "encours_millions": "317.77",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.55",
+ "sri": "3",
+ "indice": "65% LET3TREU + 20% SXXR + 15% €STR Cap",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "63.3",
+ "duration": "2.55 (poche taux)",
+ "qualite_emetteurs": "BB- (poche taux)",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Afin de réaliser l'objectif de gestion sur la durée de placement recommandée de 5 ans , L’OPCVM adopte une stratégie de gestion tempérée et discrétionnaire d’un portefeuille exposé principalement en instruments de taux (titres de créance, notamment High Yield, et instruments du marché monétaire) et pour le complément en actions de sociétés de la zone euro, en titres vifs ou via des OPCVM (35% max).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : date de création 2002-01-04 vidée (aucune date dans la factsheet ni le KID) ; investissements durables 57 → 63.3 % (« Investissement durable 63.3% ») ; duration 2.3 → 2.55 (poche taux, sensibilité 2.52) ; qualité : notation moyenne de la poche taux « BB- » (68 lignes, rendement actuariel 6.97 %, au worst 6.76 %, maturité moyenne 2030) ; indice recopié tel qu'écrit dans la factsheet (« * Indice : 65% LET3TREU + 20% SXXR + 15% €STR Cap. Benchmark Change on 31/12/2025 [50% LET3TREU + 35% CACR + 15% €STR Cap > …] ») au lieu des noms développés du classeur ; le KID du 18/02/2025 cite encore l'ancien composite (50% Bloomberg Barclays Euro Agg Treasury 3-5 ans + 35% CAC 40 DR + 15% €STR capitalisé) ; politique = paragraphe de la factsheet ; catégorie vidée. Indice retenu car l'objectif vise une performance supérieure à l'indicateur composite (KID), bien que le KID précise « utilisé uniquement à titre de comparaison ». Frais : « Frais de gestion annuels 1.50% TTC » (factsheet, plus frais de service 0.20 %) ; frais courants KID « Frais de gestion fin. & autres coûts 1,55% » ; commission de surperformance 15 %. Encours = « AuM: 317.77 mEUR » sur la ligne de la part C (fonds ou part non précisé). Classification Défensif : portefeuille majoritairement obligataire (taux 68.43 %, actions 25.41 % en exposition nette), SRI 3. Allocations du portefeuille global au 30/09/2026 (classes d'actifs en exposition nette ; exposition brute actions 33.34 %) ; poches taux et actions et leurs principales positions non reprises.",
+ "sources": {
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.7",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet",
+  "duration": "factsheet p.4",
+  "qualite_emetteurs": "factsheet p.4",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Taux",
+   "pct": "68.43"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "25.41"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Monétaire",
+   "pct": "1.31"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Diversifié",
+   "pct": "0.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "86.04"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "10.61"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "2.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "0.62"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NOK",
+   "pct": "0.34"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SEK",
+   "pct": "0.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "26.46"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "15.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "9.21"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "8.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "7.53"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "7.19"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "6.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "2.92"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "2.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "66.74"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "5.04"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "4.21"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "3.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "3.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "2.16"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "2.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "2.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "1.78"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/KEREN_FINANCE/FR0000980427/FR0000980427__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/KEREN_FINANCE/FR0000980427/FR0000980427__KID_FR_2025-02-18.pdf"
+}

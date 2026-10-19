@@ -1,0 +1,194 @@
+{
+ "n": "365",
+ "isin": "LU1883849603",
+ "nom": "AMUNDI FUNDS US BOND A2 USD",
+ "maison": "Amundi Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-20",
+ "date_creation": "2019-06-07",
+ "devise": "USD",
+ "type_fonds": "Obligataire (dollar US)",
+ "compartiment": "Actions d’un Compartiment d’Amundi Funds, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+ "gerants": "Kenneth J. Taubes, Bradley Komenda, Timothy D. Rowe, Jonathan Scott",
+ "encours_millions": "1895.19",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.33",
+ "sri": "3",
+ "indice": "Bloomberg US Aggregate",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "6.57",
+ "qualite_emetteurs": "A+",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures",
+ "politique_fr": "Le Compartiment est un produit financier qui promeut les caractéristiques ESG conformément à l’Article 8 du Règlement « Disclosure ». Chercher à augmenter la valeur de votre investissement et à procurer des revenus pendant la période de détention recommandée. Le Compartiment investit principalement dans une large gamme d’obligations de type « investment grade » libellées en dollars américains. Les investissements peuvent inclure des titres adossés à des hypothèques (MBS) et des titres adossés à des actifs (ABS). Le Compartiment peut également investir jusqu’à 25 % de son actif dans des titres convertibles (y compris jusqu’à 5 % de son actif net dans des obligations convertibles conditionnelles), jusqu’à 20 % dans des obligations de type « below-investment grade » et jusqu’à 10 % dans des actions. Le Compartiment peut investir jusqu’à 70 % de son actif net en ABS et MBS. Cela comprend l’exposition indirecte prise par le biais de titres TBA (« To-Be-Announced securities »), qui est limitée à 50 % de son actif net. L’exposition aux MBS et ABS hors agence est limitée à 50 % de son actif net. Le Compartiment a recours à des instruments dérivés à des fins de réduction de différents risques, de gestion efficace de portefeuille et d’exposition (à court terme ou à long terme) à différents actifs, marchés et autres opportunités d’investissement (y compris des instruments dérivés axés sur le crédit et les taux d’intérêt). Indice de référence : Le Compartiment est activement géré par rapport à l’Indice Bloomberg US Aggregate, qu’il cherche à surperformer sur la période de détention recommandée. Le Compartiment est principalement exposé aux émetteurs de l’Indice de référence. Toutefois, la gestion du Compartiment est discrétionnaire, et il sera exposé à des émetteurs non inclus dans l’indice de référence. Le Compartiment surveille l’exposition au risque par rapport à l’Indice de référence. Néanmoins, l’ampleur de l’écart avec l’indice de référence devrait être importante. En outre, le Compartiment a désigné l’Indice de référence comme indice de référence aux fins du Règlement « Disclosure ». L’Indice de référence est un indice boursier élargi, qui n’évalue pas ou n’inclut pas ses composantes en fonction de caractéristiques environnementales, et n’est donc pas aligné sur les caractéristiques environnementales promues par le Compartiment. Processus de gestion : Le Compartiment intègre des Facteurs de durabilité dans son processus d’investissement, comme indiqué plus en détail dans la section « Investissement durable » du Prospectus. Le gestionnaire d’investissement utilise une combinaison d’analyses de marché et d’analyses d’émetteurs d’obligations individuels afin d’identifier les obligations qui semblent plus solvables que ne l’indique leur notation. Le gestionnaire d’investissement adopte une stratégie flexible d’allocation des actifs. Le Compartiment cherche à obtenir une notation ESG pour son portefeuille supérieure à celle de son Indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR du 30/09/2026 (une version EN de même date existe). Date de création : « Date de création de la classe : 07/06/2019 » (le compartiment a absorbé AMUNDI FUNDS II PIONEER U.S. DOLLAR AGGREGATE BOND, lancé en mars 2006). Encours : « Actif géré : 1 895,19 ( millions USD ) ». Frais : seuls les « Frais de gestion et autres coûts administratifs ou d’exploitation : 1,33% » sont écrits (factsheet et KID) : frais courants 1.33, frais de gestion vides. Indice : « Bloomberg US Aggregate », que le compartiment cherche à surperformer. Duration : « Duration 6.57 » (note : « Sensi (ans) »). Qualité : « Notation moyenne A+ » (note médiane des agences). SFDR article 8. Allocations : 10 premières valeurs, notations (en % d'actif) et maturités (en exposition risquée, futures exclus ; le libellé « Autres » n'a pas de valeur écrite, total 100,94 % tel qu'écrit). Corrigé : classification Dynamique → Défensif ; politique FR remplacée par l'objectif de la factsheet (nouvelle version : indice Bloomberg US Aggregate) ; duration 6.57 et qualité A+ ajoutées ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__KID_FR_2026-08-20.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "FNCL 6 10/26",
+   "pct": "3.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TSY 3.125% 05/48",
+   "pct": "2.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNCL 2.5 11/26",
+   "pct": "2.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IBRD 4.125% 03/30",
+   "pct": "2.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "G2SF 5 10/26",
+   "pct": "1.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNCL 6.5 10/26",
+   "pct": "1.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IBRD 0.75% 08/30",
+   "pct": "1.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "G2SF 5.5 10/26",
+   "pct": "1.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FNCI 5.5 10/26",
+   "pct": "1.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "G2 MB0309",
+   "pct": "1.33"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "11.75"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "39.43"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "15.95"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "24.24"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "3.79"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "1.07"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "0.02"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.15"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "3.59"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Court terme",
+   "pct": "6.66"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2A",
+   "pct": "18.22"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5A",
+   "pct": "24.12"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7A",
+   "pct": "22.68"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10A",
+   "pct": "21.63"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "15A",
+   "pct": "1.09"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20A",
+   "pct": "3.04"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "30A",
+   "pct": "3.15"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Cash & Équivalents",
+   "pct": "0.35"
+  }
+ ]
+}

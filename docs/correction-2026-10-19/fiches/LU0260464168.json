@@ -1,0 +1,194 @@
+{
+ "n": "781",
+ "isin": "LU0260464168",
+ "nom": "PTAM DEFENSIV PORTFOLIO P EUR",
+ "maison": "PT Asset Management GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-07-11",
+ "date_creation": "2006-08-01",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "FCP Partie I de la loi de 2010",
+ "gerants": "",
+ "encours_millions": "41.53",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.0805",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. Les investissements dans des fonds de placement comportent le risque de pertes sur les cours et de change, de sorte que la valeur des parts peut aussi bien augmenter que baisser par rapport à la date d’acquisition.",
+ "politique_fr": "Axe d'investissement\nPerformance brute PTAM Defensiv Portfolio P Dépositaire Date de lancement (Fonds) Date de calcul du premier prix Clôture d'exercice Prix de la première émission Utilisation des revenus Bloomberg Ticker Domiciliation du fonds Gestionnaire du fonds Société de gestion Forme juridique Calcul du prix Devise fonds Droit d’entrée minimal Majoration effective sur prix d'émission Commission des distributeurs Commission d'échange Commission des gestionnaires de fonds Commission de conseil Commission de dépositaire Commission de gestion Commission de rachat effective Commission de performance Hauck & Aufhäuser Privatbankiers AG, Filiale Luxembourg quotidien EUR aucun thésaurisant 31.12. 02.08.2006 01.08.2006 50.00 EUR PTAMDOP LX FCP Partie I de la loi de 2010 Hauck & Aufhäuser Fund Services S.A. PT Asset Management GmbH DE,LU jusqu'à 5.00 % aucun jusqu'à 0.30 % p.a. jusqu'à 0.15 % p.a. (plus TVA) aucune jusqu'à 1,40 % p.a. aucun aucune voir le prospectus de vente La politique de placement du fonds vise à générer une plus-value en EURO attrayante sur le long terme en recourant à des stratégies d’investissement défensives et en minimisant les risques. La mise en œuvre de stratégies de portefeuille gagnante, conjuguées à des instruments financiers modernes et à la possibilité d’investir sur tous les principaux marchés mondiaux et dans toutes les principales devises, offre un large éventail d’opportunités de rendement. Afin d’atteindre cet objectif d’investissement, les actifs du fonds sont investis conformément au principe de répartition des risques. Cependant, rien ne garantit que les objectifs précités seront atteints dans le cadre de la politique de placement. Période Depuis le début de l'année Jour précédent 1 mois 3 mois 6 mois 1 année 3 ans 5 ans 10 ans Depuis l'origine Performance cumulée Performance annualisée Volatilité VaR (95%) Ratio Sharpe -0,04 % -1,37 % 0,41 % 10,01 % 3,81 % 5,52 % 23,68 % 10,59 % 48,99 % 63,52 % 7,33 % 2,03 % 4,07 % 2,47 % 7,58 % 7,39 % 8,85 % 8,92 % 8,34 % 7,48 % 7,62 % 7,34 % 6,26 % -4,54 % -2,14 -0,11 2,07 0,31 0,39 0,59 -0,03 0,43 0,21 Explications et exemple de calcul ; hypothèse : Un investisseur souhaite acheter pour 1 000,00 EUR de parts. Compte tenu d’une commission de souscription de 5,00 % max., il doit payer pour ce faire un montant de 1 050,00 EUR. La performance nette (calculée selon la méthode BVI) tient compte de tous les frais prélevés au niveau du fonds ; elle correspond à la performance brute diminué de la commission de souscription. D’autres frais peuvent être prélevés au niveau de l’investisseur (p. ex. droits de garde). Dans la mesure où la commission de souscription n’est prélevée que la première année, une distinction entre performance brute et nette n’est effectuée qu’au terme de cette année. Les performances passées ne constituent pas un indicateur fiable des performances futures. PTAM Defensiv Portfolio P Performance brute Performance nette Evolution de la valeur",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet française du 30/09/2026 retenue (règle « français d’abord » : il existe aussi une factsheet anglaise du 15/10/2026 pour la même part). KID du 11/07/2025 (le plus récent trouvé). Corrigé : encours 41.39 → 41.53 (« Volume du fonds 41,53 Mio. EUR » ; classe P : 38,37) ; frais courants 1.83 → 2.0805 (KID « Frais de gestion et autres frais administratifs et d’exploitation 2,0805 % » ; factsheet « Frais courants/TER 2.12 % », « TER excl. Performance Fee 1.89 % ») ; frais de gestion 1.4 vidé (la factsheet distingue « Commission de gestion jusqu'à 0.30 % p.a. » et « Commission des gestionnaires de fonds jusqu'à 1,40 % p.a. » : taux maximums, sans frais de gestion unique de la part) ; indice vidé (aucun indice dans la factsheet ni dans le KID) ; SFDR 8 vidé (non écrit dans les documents) ; gérant vidé (seule la société « PT Asset Management GmbH » est citée comme gestionnaire) ; classification Défensif → Equilibré (48,5 % actions, 35,7 % obligations, SRI 3) ; disclaimer et politique remplacés par les textes de la factsheet française (politique EN supprimée) ; compartiment ajouté. Date de création : « Date de lancement (Fonds) 01.08.2006 » (date du fonds ; premier prix le 02.08.2006). SRI 3 (KID ; le KID ne contient pas d’objectifs d’investissement). Allocations : top 10 des positions, allocation d’actifs, pays et devises (lecture des deux colonnes de la page 2).",
+ "factsheet_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__KID_FR_2025-07-11.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "disclaimer": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Spanien EO-Bonos 2019(35)",
+   "pct": "11.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Italien, Republik EO-B.T.P. 2024(34)",
+   "pct": "8.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Italien, Republik EO-B.T.P. 2002(33)",
+   "pct": "8.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PTAM Global Allocation Inhaber-Anteile",
+   "pct": "8.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cash Position EUR",
+   "pct": "6.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc. Registered Shares o.N.",
+   "pct": "5.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp. Registered Shares DL-,",
+   "pct": "5.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spanien EO-Obl. 2001(32)",
+   "pct": "5.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Agnico Eagle Mines Ltd. Registered",
+   "pct": "4.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp. Registered Shares DL-,",
+   "pct": "3.97"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "48.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "35.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds",
+   "pct": "9.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "6.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Contr. d. change à terme",
+   "pct": "-0.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "29.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "18.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "17.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "11.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "4.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "2.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "10.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "59.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "29.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CAD",
+   "pct": "4.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "2.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NZD",
+   "pct": "1.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "0.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "1.3"
+  }
+ ]
+}

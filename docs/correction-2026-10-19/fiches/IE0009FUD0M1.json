@@ -1,0 +1,183 @@
+{
+ "n": "675",
+ "isin": "IE0009FUD0M1",
+ "nom": "LAZARD BAYLIGHT US SMALL CAP EQUITY FUND BP EUR",
+ "maison": "LAZARD FUND MANAGERS (IRELAND) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-21",
+ "date_creation": "2024-10-30",
+ "devise": "EUR",
+ "type_fonds": "Actions américaines petites capitalisations",
+ "compartiment": "A sub-fund of Lazard Global Active Funds PLC, an Irish UCITS investment fund company",
+ "gerants": "Oren Shiran, Stefan Tang & Team",
+ "encours_millions": "897.45",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.65",
+ "frais_courants": "1.72",
+ "sri": "4",
+ "indice": "Russell 2000 Total Return Index (Net of tax)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future results",
+ "politique_fr": "",
+ "politique_en": "Fund Objective\n\nThe investment objective of the Fund is to seek to achieve capital appreciation over the medium to long term.\n\nFund Description\n\nThe Lazard US Small Cap Equity Fund is an actively managed, well diversified, long-only portfolio comprised primarily of equities and equity-related securities of or relating to smaller US companies. Typically, the market capitalization of the companies in which the Fund will invest will range between $250 million and $10 billion. The Fund's performance is measured against the performance of the Russell 2000 Net of Tax Index. The securities in which the Fund will invest will primarily be quoted or traded on Regulated Markets in the United States. The Fund may also invest in equities and equity-related securities of companies that are non-US domiciled, incorporated or listed – typically such investment shall not exceed 10% of the Fund’s Net Asset Value.",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 813.65 → 897.45 M USD (« Fund AUM … Base Fund Currency $897.45m », factsheet 30/09/2026 ; équivalent en devise de la part : €790.12m) ; indice « Russell 2000 Net of Tax » → nom du tableau « Russell 2000 Total Return Index (Net of tax) » (performance du fonds mesurée contre cet indice ; « Russell 2000 Total Return Index » jusqu'au 19/09/2025) ; politique : texte anglais de la factsheet (objectif + « Fund Description ») au lieu du texte du site non retrouvé ; disclaimer ajouté ; classification ajoutée : Agressif (petites capitalisations américaines) ; catégorie vidée. Part « BP Acc EUR Hedged » (couverte) ; date de création = « Share Class Launch Date 30/10/2024 » (fonds : 25/04/2024). Le fonds a changé de nom le 12/05/2026 (ex-Lazard US Small Cap Equity Fund). Frais : « Annual Management Fee 1.65% », « Ongoing charges 1.72% » (factsheet) = KID « Frais de gestion et autres frais administratifs et d’exploitation 1,72% ». SFDR article 8. Allocations au 30/09/2026 ; secteurs et capitalisations : colonne « Fund » seulement (barres du fonds identifiées à gauche de chaque paire).",
+ "sources": {
+  "date_creation": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.3",
+  "sfdr": "factsheet p.3",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1, p.3",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.3"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Mueller Industries",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dynatrace",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Viavi Solutions",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Diodes",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Interface",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Arrow Electronics",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Adeia",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HealthStream",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Digi",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NWPX Infrastructure",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "21.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "20.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "18.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "11.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "8.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "5.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "5.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "1.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">$10bn",
+   "pct": "14.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$5bn to $10bn",
+   "pct": "18.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$3bn to $5bn",
+   "pct": "15.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$1bn to $3bn",
+   "pct": "29.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<$1bn",
+   "pct": "21.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Cash",
+   "pct": "1.4"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE0009FUD0M1/IE0009FUD0M1__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE0009FUD0M1/IE0009FUD0M1__KID_FR_2026-09-21.pdf"
+}

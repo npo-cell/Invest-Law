@@ -1,0 +1,101 @@
+{
+ "n": "459",
+ "isin": "FR0010097667",
+ "nom": "CPR CROISSANCE DÉFENSIVE P EUR",
+ "maison": "CPR Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-10",
+ "factsheet_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__KID_FR_2026-03-10.pdf",
+ "date_creation": "1998-07-10",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs défensif (fonds de fonds)",
+ "compartiment": "Parts de CPR Croissance Défensive, organisme de placement collectif en valeurs mobilières (OPCVM) constitué sous la forme d’un FCP.",
+ "gerants": "Steve Chan Tat Chuen, Zakaria Darouich",
+ "encours_millions": "140.98",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.51",
+ "sri": "2",
+ "indice": "100% ESTR CAPITALISE (OIS)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.62 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures. Les investissements sont soumis aux fluctuations de marché et peuvent varier à la hausse comme à la baisse.",
+ "politique_fr": "STRATEGIE D’INVESTISSEMENT\nFonds diversifié international, son objectif de gestion est d'obtenir sur 2 ans minimum une performance supérieure à son indice de référence avec une volatilité maximale prévisionnelle de 7%. L'exposition actions du portefeuille oscille entre -10% et 30% et le fonds est limité à une exposition de 40% maximum aux actifs risqués tel que défini dans son prospectus. La sensibilité taux du portefeuille est comprise entre -3 et +8.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date création : 10/07/1998 » (factsheet de la part P, sans préciser part ou fonds). Encours = « Actif géré : 140,98 ( millions EUR ) ». Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 1,51% » (identique au KID) ; pas de frais de gestion séparés ; commission de surperformance : « Oui ». Indice : factsheet « Indice Reference : 100% ESTR CAPITALISE (OIS) » (depuis le 01/01/2022) ; KID : objectif de performance supérieure à son indice de référence (€STR capitalisé). Compartiment : phrase « Type » du KID (FCP de droit français). Duration = « Sensibilité Taux 2,62 ». SRI 2 (KID). SFDR article 8 (KID). Classification Défensif : diversifié prudent (actions -10 % à 30 %, exposition 19,28 %), SRI 2. Allocations : positions = « Principales lignes en portefeuille » (hors produits dérivés) ; « Exposition Actions 19,28% » non reprise (exposition, pas une répartition). Corrigé (factsheet 30/09/2026) : encours 143.1 → 140.98 ; indice 100% ESTR capitalisé (OIS) → 100% ESTR CAPITALISE (OIS) ; duration 3.71 → 2.62 (sensibilité).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ARI - EUROPEAN CREDIT- I2 - C",
+   "pct": "13.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CPR INVEST - CLIMATE BONDS EURO - Z EUR",
+   "pct": "13.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BFT AUREUS ISR - Z (C)",
+   "pct": "10.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CPR ABSOLUTE RETURN BONDS - Z (C)",
+   "pct": "9.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "abrdn Em Mkt Lcl Ccy Dbt K Acc EUR",
+   "pct": "9.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi EUR Corporate Bond ESG ETF DR C",
+   "pct": "9.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi EUR Corporate Bond 1-5Y ESG ETF A",
+   "pct": "7.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CPR INV B&W EU STRAT AUTO 2028 II",
+   "pct": "5.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amu MSCI Emerg Mkt Ex Chn ETFAcc EUR DEU",
+   "pct": "2.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUN EUR HY Corp Bd ESG UCITS Dist (PAR)",
+   "pct": "2.26"
+  }
+ ]
+}

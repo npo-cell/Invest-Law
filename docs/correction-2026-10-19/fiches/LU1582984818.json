@@ -1,0 +1,242 @@
+{
+ "n": "708",
+ "isin": "LU1582984818",
+ "nom": "M&G (LUX) INCOME ALLOCATION FUND A EUR",
+ "maison": "M&G Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-16",
+ "date_creation": "2018-01-16",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs revenu",
+ "compartiment": "un compartiment de la SICAV de M&G (Lux) Investment Funds 1",
+ "gerants": "Stefano Amato, Maria Municchi, William Hayes",
+ "encours_millions": "634.68",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.77",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.57",
+ "qualite_emetteurs": "A",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le fonds a deux objectifs : offrir un niveau de revenu croissant sur une période de trois ans en investissant dans un éventail d’actifs du monde entier ; et fournir une croissance du capital de 2 à 4 % en moyenne par an sur toute période de trois ans, tout en appliquant des critères environnementaux, sociaux et de gouvernance (ESG). Le cœur du fonds se compose d’actions de sociétés et de titres obligataires, en mettant l’accent sur les actifs générateurs de revenus. Le fonds peut également investir par le biais d’instruments dérivés ou d’autres fonds. Les participations dans différentes catégories d’actifs seront ajustées régulièrement de manière à privilégier les actifs dans lesquels le gestionnaire du fonds voit le plus de potentiel en termes de valeur, et afin de gérer les risques. Rien ne garantit que le fonds obtiendra un rendement positif sur une période quelconque. Les investisseurs sont susceptibles de ne pas récupérer les fonds initialement investis. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive, comme prévu dans le prospectus. La période de détention recommandée pour ce fonds est de trois ans. Dans des conditions de marché normales, l’effet de levier moyen attendu du fonds, à savoir dans quelle mesure il peut augmenter sa position d’investissement en empruntant de l’argent ou en utilisant des instruments dérivés, représente 250 % de sa valeur liquidative.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : type_fonds remplacé (texte des documents) ; compartiment remplacé (texte des documents) ; gerants « Stefano Amato (depuis le 19/12/2022), Maria Municchi et William Hayes (gérants adjoints) » → « Stefano Amato, Maria Municchi, William Hayes » ; encours « 626.45 » → « 634.68 » ; frais_gestion « 1.75 » vidé ; frais_courants « 1.75 » → « 1.77 » ; categorie « Mixed Asset Global Flexible » vidé ; politique_fr remplacé (texte des documents).  Politique = « Description du fonds » de la factsheet. Indice « Aucun » : « Indice de référence None » (factsheet) ; le fonds « n’a pas d’indice de référence » (« Aucun » : convention de la consigne). Duration = « Duration modifiée (années) 3,57 » ; qualité = « Notation moyenne de crédit A ». Classification Equilibré : multi-actifs, actions 44.6 % en exposition nette, SRI 3. Allocations au 30/09/2026 : classes d'actifs = lignes principales, exposition nette (sans le détail par région) ; positions = expositions principales (hors liquidités, dérivés compris). Encours = « Encours du fonds (millions) € 634,68 » ; date de création = « Lancement de la catégorie de part 16 janvier 2018 » (fonds : 16 janvier 2018). Frais courants : KID « Frais de gestion et autres frais administratifs et d’exploitation 1,77% » (factsheet : « Frais de gestion et autres commissions 1,75% ») ; pas de frais de gestion séparés. SRI 3 (KID). SFDR article 8 (factsheet ; KID : 8).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet (Informations importantes)",
+  "gerants": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Action",
+   "pct": "44.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts d'État",
+   "pct": "32.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'entreprise",
+   "pct": "13.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations convertibles",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Infrastructures",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "9.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "80.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "7.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre turque",
+   "pct": "2.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "2.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Rand sud-africain",
+   "pct": "1.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peruvian sol",
+   "pct": "1.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso mexicain",
+   "pct": "1.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Réal brésilien",
+   "pct": "1.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre sterling",
+   "pct": "1.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "0.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "5.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "18.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "4.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "5.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "15.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "-3.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CC",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "D",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "0.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Fixed",
+   "pct": "15.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Equity",
+   "pct": "9.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "M&G LUX GBL EMER MKTS FD EUR C INC",
+   "pct": "6.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NASDAQ 100 E-MINI DEC 26 EQUITY INDEX FUTURE",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Government 10Y",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Government 30Y",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Japan Equity",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UK Government 30Y",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Supranational Fixed",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US CDX",
+   "pct": "-7.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1582984818/LU1582984818__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1582984818/LU1582984818__KID_FR_2026-02-16.pdf"
+}

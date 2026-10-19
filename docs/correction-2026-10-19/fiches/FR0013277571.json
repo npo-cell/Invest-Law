@@ -1,0 +1,256 @@
+{
+ "n": "506",
+ "isin": "FR0013277571",
+ "nom": "ECHIQUIER HYBRID BONDS A EUR",
+ "maison": "LA FINANCIERE DE L'ECHIQUIER",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-31",
+ "date_creation": "2017-09-12",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (obligations hybrides d'entreprises)",
+ "compartiment": "Compartiment de la SICAV ECHIQUIER",
+ "gerants": "Uriel Saragusti, Matthieu Durandeau",
+ "encours_millions": "197",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.21",
+ "frais_courants": "1.29",
+ "sri": "2",
+ "indice": "IBOXX EUR NON-FIN SUBORD. TR",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3,8",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "OPCVM de classification « Obligations et autres titres de créances libellés en euro », ECHIQUIER HYBRID BONDS a pour objectif de gestion, sur un horizon de placement de trois ans minimum, une performance annualisée, nette de frais, supérieure à l’indice iBoxx € Non-Financials Subordinated Total Return Index (coupons nets réinvestis), via des investissements essentiellement en obligations perpétuelles ou à très longue maturité.\n\nL’attention du souscripteur est attirée sur le fait que la composition du portefeuille pourra s’éloigner sensiblement de celle de son indicateur de référence. ?Cependant, l’indice Iboxx EUR Non-Financial Subordinated Total Return Index, qui est l’indice d’obligations subordonnées émises par des entreprises privées non financières libellées en euros, pourra être retenu à titre d’indicateur de performance a posteriori. Des informations complémentaires sur l’indice sont disponibles sur le site www.iboxx.com.\n\nLe portefeuille est géré de manière active et discrétionnaire. En vue de la sélection des titres, la gestion ne s’appuie, ni exclusivement ni mécaniquement, sur les notations émises par les agences de notation, mais fonde sa conviction d’achat et de vente d’un titre sur ses propres analyses fondamentale des émetteurs et des obligations.\n\nL’allocation sera la suivante : 80% minimum d’obligations ou titres de créances subordonnés émis par des entreprises privées non-financières dites « hybrides ».\n\nPar « hybrides », nous entendons les obligations ou titres de créances subordonnés, perpétuels ou à maturité très longue.\n\nL’OPCVM ne pourra pas investir en obligations ou titres de créances subordonnés émis par une institution financière (banque ou assurance)de type Tier1, Coco ou Tier2.\n\nLes titres éligibles sont libellés en euros.\n\nLa détention d’obligations dont les émetteurs sont non notés ou de rating strictement inférieur à BBB- (notation Standard & Poor’s ou notation équivalente auprès d’une agence indépendante de notation), est limitée à 10% maximum de l'actif net.\n\nLa notation des émetteurs et des obligations s’apprécie lors de l’acquisition des titres. En cas de dégradation d’un émetteur dans la catégorie « spéculative » dite « high yield » ou non-notés (notation Standard & Poor’s ou notation équivalente auprès d’une agence indépendante de notation), la cession du titre se fera dans les meilleurs délais en tenant compte de l'intérêt des porteurs si toutefois les contraintes évoquées ci-dessus n’étaient plus respectées.\n\nLes obligations en portefeuille pourront être de rating strictement inférieur à BBB- (notation Standard & Poor’s ou notation équivalente auprès d’une agence indépendante de notation) à hauteur de 100% de l’actif net, dans la mesure où les obligations subordonnées ont généralement une notation moindre par rapport à la notation des émetteurs.\n\nLa sensibilité globale aux taux d’intérêt est comprise entre « 0 » et « +15 ».\n\nLorsque les conditions de marché seront jugées défavorables par le gérant, de manière totalement discrétionnaire, l’OPCVM pourra être investi jusqu’à 100 % de son actif net en titres sous forme d’obligations (subordonnées ou non), de titres de créances et/ou d’instruments du marché monétaire jugées de qualité « Investment Grade » par la société de gestion, ou agence de notation.\n\nL'analyse fondamentale réalisée par l'équipe de gestion se fonde sur les critères suivants : -Analyse du management de l'entreprise -Qualité de sa structure financière -La visibilité sur les futurs résultats de l'entreprise -L'analyse des résultats financiers -Les perspectives de croissance de son métier -L'aspect spéculatif de la valeur\n\nL’OPCVM pourra intervenir sur des instruments financiers à terme négociés sur des marchés règlementés, organisés ou de gré à gré,français et étrangers aux fins de couvrir le portefeuille contre le risque de taux de façon discrétionnaire selon les anticipations du gérant par l’utilisation de produits dérivés de couverture des taux souverains.\n\nL’investisseur n’est pas exposé au risque de change. L’OPCVM n’aura pas recours aux TRS (Total Return Swap).\n\nLes instruments financiers à terme, négociés ou non sur des marchés réglementés ou de gré à gré, peuvent être utilisés, à titre exceptionnel, pour : -Couvrir le portefeuille contre le risque de change, et également contre le risque action lorsque le gérant anticipe une forte dégradation de la performance du marché ; -Exposer ponctuellement le portefeuille au risque action lors de mouvements de souscriptions importants. En aucun cas, l’OPCVM n'entend mettre en œuvre de stratégie de surexposition du portefeuille au risque action.\n\nCes opérations seront effectuées dans la limite d’une fois l’actif du compartiment.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : indice « Markit iBoxx € Non-Fincls Subd TR EUR » → « IBOXX EUR NON-FIN SUBORD. TR » (libellé de la factsheet 30/09/2026) ; duration et notation moyenne ajoutées ; compartiment complété. Inchangés et confirmés : encours 197 (« 197 M€ Actif net »), frais courants 1.29 (KID 31/07/2026), frais de gestion « 1,21% TTC max. » (maximum), SRI 2. Politique prise du KID : la factsheet n'a que deux phrases de présentation. Date de création = « Date de 1ère VL 12/09/2017 ». Indice : objectif du KID « supérieure à l’indice iBoxx € Non-Financials Subordinated Total Return Index » → retenu, libellé de la factsheet. Duration : « Duration (tous call exercés) 3,8 » (poche investie), sans unité ; sensibilité 3,6. Qualité : « Notation moyenne (émetteurs notés) BBB+ ». SFDR article 8, aucun % durable écrit. Allocations : Notations = série « Emetteurs » (% de la poche obligataire ; série « Emissions » non reprise : A 6,4, BBB 55,6, BB 36,8, Non notées 1,2), lue sur l'image p.2 ; Maturités = obligations à taux fixe (date du prochain call).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "FRA",
+   "pct": "22.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DEU",
+   "pct": "14.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ITA",
+   "pct": "14.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ESP",
+   "pct": "12.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "USA",
+   "pct": "11.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "GBR",
+   "pct": "4.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "SWE",
+   "pct": "4.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "PRT",
+   "pct": "4.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "AUS",
+   "pct": "3.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "AUT",
+   "pct": "3.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. collectifs",
+   "pct": "44.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. de comm.",
+   "pct": "14.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "12.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. 1ere néces.",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discr.",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. financiers",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Enel 6.625% 04/31 hc",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Engie 5.125% Hyb. NC 03/33",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "General Mills 5.25% 07/56",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Orange 5.375% Hyb. 01/30",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SNAM 4.5% hb NC 09/29",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apa 7.125% hb nc 11/28",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Stellantis 6.875% nc 12/33",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Total 4.5% NC 11/34",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "OMV 2.875% 12/99 c. 29",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Merck KGaA 3.875% 08/29",
+   "pct": "3.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA & AA",
+   "pct": "2.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "17.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "74.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "1.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non notées",
+   "pct": "4.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "4.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 1 an et < 3 ans",
+   "pct": "31.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 3 ans et < 6 ans",
+   "pct": "40.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 6 ans",
+   "pct": "23.5"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013277571/FR0013277571__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013277571/FR0013277571__KID_FR_2026-07-31.pdf"
+}

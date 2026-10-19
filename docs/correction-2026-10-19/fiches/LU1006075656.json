@@ -1,0 +1,253 @@
+{
+ "n": "424",
+ "isin": "LU1006075656",
+ "nom": "CAPITAL GROUP GLOBAL ALLC (LUX) B EUR",
+ "maison": "Capital Group",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-21",
+ "factsheet_fichier": "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__KID_FR_2026-08-21.pdf",
+ "date_creation": "2014-01-31",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Compartiment de la SICAV Capital International Fund, qui est gérée par Capital International Management Company Sàrl",
+ "gerants": "Andrew A. Cormack, Anirudh Samsi, Hilda L. Applbaum, Philip Chitty, Tomonori Tani",
+ "encours_millions": "1526",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.40",
+ "frais_courants": "1.55",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des résultats futurs.",
+ "politique_fr": "Objectif\nLe fonds cherche à atteindre trois objectifs équilibrés : une croissance du capital à long terme, la conservation du principal et un revenu actuel en investissant en actions et obligations ainsi que dans d'autres titres à revenu fixe du monde entier.\nLe fonds investit principalement dans des actions cotées et des obligations de qualité supérieure émises par des émetteurs privés et gouvernementaux, mais aussi dans d'autres titres à revenu fixe admis à la cote officielle ou négociés sur d'autres marchés réglementés. Le fonds n'utilise pas la vente à découvert ou l'effet de levier. Les investisseurs peuvent acheter et vendre des actions du fonds quotidiennement. Ce fonds est susceptible de ne convenir qu'aux investissements à long terme.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet belge (EUR, au 30 septembre 2026). Date de création = « Date de lancement 31/01/2014 » de la classe B (Acc) (= « Date de lancement du fonds 31 janvier 2014 »). Encours « Taille du fonds €1.526 millions » (lu 1 526 millions d'EUR, le point servant de séparateur de milliers) ; devise de référence du fonds USD. Frais de gestion = « Frais de gestion p.a. 1,40% » ; frais courants = KID 1.55 % (factsheet : « Frais Courants 1,54% ») ; pas de commission de performance. Indice laissé vide : « 60% MSCI ACWI (net divs) / 40% Bloomberg » affiché, mais « Les informations relatives à l'index sont fournies uniquement à des fins de contexte et d'illustration. Le fonds est un OPCVM géré activement. Il n'est pas géré en référence à un repère. » SFDR 8 : le KID vise les investisseurs recherchant la prise en compte des critères ESG « au sens de l'Article 8 du SFDR ». SRI 3 (KID). Classification Equilibré : multi-actifs (actions 64,3 %, obligations 31,7 %), SRI 3. Politique : bloc « Objectif » de la factsheet sans la phrase sur la capitalisation et sans « L'approche de Capital Group ». Allocations (colonne Fonds uniquement) : classes d'actifs ; zones = lignes de la poche actions puis de la poche obligations (libellés identiques répétés), puis « Autres » ; secteurs = secteurs de la poche actions puis types d'obligations, « Immobilier » (« - ») non repris ; lignes « Total » non reprises. Corrigé (factsheet 30/09/2026) : encours 1530 → 1526 ; frais courants 1.54 → 1.55 ; indice 60% MSCI AC World Index (dividendes nets réinvestis) / 40% Bloomberg Global Aggregate Bond Total Return → (vide) ; investissements durables (%) 60 → (vide) ; gérants H.Applbaum, T.Tani, A.Samsi, A.Cormack, P.Chitty → Andrew A. Cormack, Anirudh Samsi, Hilda L. Applbaum, Philip Chitty, Tomonori Tani.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.3",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "64.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "31.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "4.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "L'Amérique du Nord",
+   "pct": "38.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "13.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "7.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "3.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "1.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "L'Amérique du Nord",
+   "pct": "15.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "6.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "5.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "2.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "0.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "4.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "9.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discrétionnaire",
+   "pct": "6.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "5.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "13.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'info.",
+   "pct": "12.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "4.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Gouvernement",
+   "pct": "15.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "D'entreprise",
+   "pct": "5.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Oblig. Titrisées",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Dette des pays émergents",
+   "pct": "6.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Oblig. high yield",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Instruments dérivés",
+   "pct": "0.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement des Etats-Unis",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement du Japon",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UMBS",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BAE Systems",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JPMorgan Chase",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de l'Allemagne",
+   "pct": "1.7"
+  }
+ ]
+}

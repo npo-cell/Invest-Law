@@ -1,0 +1,149 @@
+{
+ "n": "755",
+ "isin": "FR0010564351",
+ "nom": "OFI RS MULTITRACK R EUR",
+ "maison": "Ofi Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2007-12-28",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (fonds d'ETF)",
+ "compartiment": "Organisme de Placement Collectif en Valeurs Mobilières (OPCVM) de droit français créé sous la forme d’un Fonds Commun de Placement",
+ "gerants": "Jacques-Pascal Porta, Geoffroy Carteron",
+ "encours_millions": "170.86",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.54",
+ "sri": "3",
+ "indice": "25 % Bloomberg Barclays Capital Euro Aggregate Corporate + 25 % Bloomberg US Corporate Bond Euro Hedged + 50 % MSCI World 100% Hedged to EUR",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.45 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur d’un investissement dans l’OPC peut fluctuer à la hausse comme à la baisse.",
+ "politique_fr": "Orientation de gestion\nLe fonds a pour but de surperformer, sur un horizon de placement recommandé supérieur ou égal à quatre ans, avec pour objectif de maintenir la volatilité du portefeuille inférieure à 10% par an et en sélectionnant des OPC ayant pour thématique déclarée l’investissement socialement responsable et le développement durable.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 149.83 → 170.86 (« Actif net du fonds 170,86 M€ », factsheet 30/09/2026 ; part R : 130,54 M€) ; indice recopié tel qu’écrit dans la factsheet (ajout de « Barclays Capital » ; KID : objectif de surperformer cet indicateur composite) ; ajoutés : SRI 3 (KID 16/04/2026), SFDR article 8, compartiment (KID : FCP de droit français), duration, classification Equilibré (fonds d’ETF mixte, environ 50 % actions, SRI 3), type, disclaimer. Le fonds s’appelle « OFI Invest ESG Multitrack ». Date de création : « Date de création de la part 28/12/2007 » (identique au fonds). Frais : factsheet « Frais de gestion maximum TTC 1,50% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,54% » ; KID 1,54 %. Duration : « Sensibilité Fonds 2,45 » ; taux de rendement 2,14 %. Aucun % durable écrit. Allocations : principales positions (hors OPC monétaires/liquidités/dérivés), répartition par devise et « Exposition par zone géographique » telles qu’écrites (cette dernière mêle OPC, liquidités, dérivés et zones ; vérifié sur l’image de la page 3).",
+ "factsheet_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0010564351/FR0010564351__KID_FR_2026-04-16.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "duration": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Amundi Isr Actions Usa Ucits Etf E",
+   "pct": "19.34"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnp Paribas Easy Sust Us Ucits Etf",
+   "pct": "18.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnp Paribas Easy Sustainable Eur C",
+   "pct": "12.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnp Paribas Easy Eur Corp Bd Sri P",
+   "pct": "9.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnppe Usd Corp Bd Sri Fossil Free",
+   "pct": "8.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Usd Corporate Bond Esg Ucit",
+   "pct": "7.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Isr Actions Europe Ucits Et",
+   "pct": "5.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ishares Usd Corp Bond Esg Ucits Eu",
+   "pct": "3.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnp Paribas Easy Sust Japan Ucits",
+   "pct": "3.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Label Isr Credit Eur Ucits",
+   "pct": "3.39"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "121.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "NOK",
+   "pct": "-0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres devises",
+   "pct": "-21.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "OPC",
+   "pct": "99.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "7.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Produits dérivés",
+   "pct": "-0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "-4.4"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "n": "661",
+ "isin": "FR0014000W38",
+ "nom": "KEREN CREDIT ISR C EUR",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-02-18",
+ "date_creation": "2021-02-16",
+ "devise": "EUR",
+ "type_fonds": "Obligataire crédit euro (ISR)",
+ "compartiment": "",
+ "gerants": "Benoît Soler",
+ "encours_millions": "31.69",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.00",
+ "sri": "2",
+ "indice": "Bloomberg Barclays EuroAggregate Corporate Total Return",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "60.4",
+ "duration": "2.85",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Afin de réaliser l'objectif de gestion sur la durée de placement recommandée de 3 ans , Keren Crédit ISR est un fonds classé \"Obligations et autres titres de créance libellés en euro\", qui a pour objectif de gestion la recherche d'une performance supérieure à l'indice Bloomberg EuroAgg Corporate Total Return sur la durée de placement recommandée, en intégrant une analyse extra-financière. Afin de réaliser cet objectif de gestion, Keren Crédit ISR adopte un style de gestion active en investissant sur des titres de créance et instruments du marché monétaire, libellés en euro, de dette privée, publique, souveraine et de dette convertible, de \"Green Bonds\" et de \"Social Bonds\", sans contrainte à priori d'allocation par zones géographiques (hors pays émergents), duration, notation, secteur d'activités ou types de valeurs. Le choix des signatures privées provient des analyses financières et sectorielles réalisées par l'ensemble de l'équipe de gestion et de sa connaissance des émetteurs pour juger des paramètres tels que le risque de défaut, la capacité de remboursement de l'entreprise et les caractères résilients de son activité à générer des cash flows ainsi que l'appréciation des éléments quantitatifs comme le supplément de rémunération par rapport aux emprunts d'Etat.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : duration 2.77 → 2.85 (« DURATION 2.85 », sensibilité 2.78) ; investissements durables 65 → 60.4 % (« Investissement durable 60.4% ») ; qualité réduite à la notation moyenne « BBB+ » (72 lignes, rendement actuariel 4.33 %, au worst 4.18 %, maturité moyenne 2031) ; frais de gestion « Frais de gestion annuels 1.00% TTC » (factsheet ; frais de service annuels en sus), frais courants du KID (« Frais de gestion fin. & autres coûts 1,00% ») ; indice renommé selon la factsheet (« * Indice : Bloomberg Barclays EuroAggregate Corporate Total Return. ») ; catégorie vidée. Indice retenu car cité dans l'objectif (performance supérieure à l'indice, factsheet et KID) bien que le KID précise « L’indicateur de référence est utilisé uniquement à titre de comparaison ». Date de création = création du fonds (« Le fonds a été créé le 16/02/2021 », KID). Compartiment vide : FCP. Encours = « AuM: 31.69 mEUR » sur la ligne de la part C (fonds ou part non précisé). KID du 18/02/2025 ; commission de performance 20 % (KID). SFDR article 8, label ISR (factsheet). Allocations de la « poche taux du fonds » au 30/09/2026 ; répartitions par maturité et notation non reprises (libellés des graphiques incomplets).",
+ "sources": {
+  "date_creation": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet p.3",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BBG IG EUR Corp SRI Future 18 decembre 2026",
+   "pct": "5.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple 0.5% 15/11/2031",
+   "pct": "2.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ING Groep NV 4.50% 23/05/2029",
+   "pct": "1.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sandoz Fin 4.22% 17/04/2030",
+   "pct": "1.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alstom 5.868% Perp",
+   "pct": "1.91"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "22.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "18.21"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "12.97"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "8.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "8.61"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Telecommunication Services",
+   "pct": "7.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "7.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "5.16"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Other",
+   "pct": "4.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "3.98"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "40.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "15.88"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "12.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "5.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "5.78"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "4.41"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "4.21"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgium",
+   "pct": "3.78"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "3.43"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "3.42"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/KEREN_FINANCE/FR0014000W38/FR0014000W38__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/KEREN_FINANCE/FR0014000W38/FR0014000W38__KID_FR_2025-02-18.pdf"
+}

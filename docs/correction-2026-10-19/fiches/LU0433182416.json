@@ -1,0 +1,296 @@
+{
+ "n": "583",
+ "isin": "LU0433182416",
+ "nom": "FIRST EAGLE AMUNDI INTERNATIONAL AHE-C EUR",
+ "maison": "Amundi Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2009-08-19",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Compartiment de First Eagle Amundi, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV",
+ "gerants": "Matthew McLennan, Julien Albertini, Manish Gupta",
+ "encours_millions": "8563.84",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.00",
+ "frais_courants": "2.34",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La valeur et les revenus d’un investissement dans les Compartiments sont susceptibles de varier à la hausse comme à la baisse. Les Compartiments n’offrent aucune garantie de performance. En outre, les performances passées ne sont ni une assurance ni un indicateur fiable des rendements futures.",
+ "politique_fr": "Le Compartiment cherche à offrir aux investisseurs une croissance du revenu par la diversification de ses investissements sur toutes les catégories d'actifs et une politique d'approche valeur.\n\nAfin d'atteindre cet objectif, il investit au moins deux tiers de ses Actifs nets dans des actions, des Instruments liés à des actions et des obligations sans aucune restriction en termes de capitalisation boursière, diversification géographique ou allocation d'une partie des actifs du Compartiment dans une classe d'actifs particulière ou dans un marché particulier. Le processus d'investissement se base sur l'analyse fondamentale de la situation financière et commerciale des émetteurs, les perspectives du marché et d'autres éléments.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : classification Equilibré → Dynamique ; politique remplacée par l'« Objectif d'investissement » de la factsheet ; allocations ajoutées (factsheet 30/09/2026). Part AHE capitalisation (C), couverte en EUR ; la factsheet couvre aussi la part D (LU0565134938) mais donne explicitement l'ISIN (C), la VL (C) et la date de création de la classe (19/08/2009) ; compartiment créé le 12/08/1996. Frais de gestion = « Frais de gestion directs annuels maximum 2,00% TTC » (taux maximum). Encours = « Actif géré » du compartiment (même actif pour toutes les parts, exprimé dans la devise de la part). Frais courants : KID « 2,34 % » (factsheet identique). Indice : factsheet « Indice de référence : Aucun » ; le KID précise que le SOFR (plus un hurdle propre à chaque part) sert a posteriori d'indicateur pour évaluer la performance et calculer la commission de performance, sans contrainte sur la construction du portefeuille. SRI 3 (KID). SFDR article 6 (KID). Classification Dynamique (au lieu d'Equilibré) : environ 85 % d'actions (actions Europe, US, Japon, autres et liées à l'or) d'après la répartition d'actifs, malgré un SRI 3. Politique : « Objectif d'investissement » de la factsheet. Allocations : répartitions d'actifs et sectorielle lues sur les graphiques circulaires (valeurs du texte, affectation vérifiée sur l'image de la page 3, totaux 100 %). Positions : 10 principales lignes actions.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "KID",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "frais_gestion": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Europe",
+   "pct": "22.75"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions US",
+   "pct": "39.25"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Japon",
+   "pct": "6.53"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres Actions",
+   "pct": "12.46"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions liées à l'or",
+   "pct": "4.12"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "ETC liés à l'or",
+   "pct": "9.14"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'Etats à court terme",
+   "pct": "3.65"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "2.09"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.16"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso Cyclique",
+   "pct": "7.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso non Cyclique",
+   "pct": "9.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "7.17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "12.61"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "10.39"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "8.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'info.",
+   "pct": "11.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "3.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "ETC liés à l'or",
+   "pct": "9.14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations d'Etats à court terme",
+   "pct": "3.65"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.09"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "39.95"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "9.51"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "6.53"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "4.14"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "3.80"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Corée du Sud",
+   "pct": "3.37"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Mexique",
+   "pct": "2.85"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "2.83"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "2.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres pays",
+   "pct": "9.37"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ETC liés à l'or",
+   "pct": "9.14"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Oblig. d'Etats CT",
+   "pct": "3.65"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "2.09"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">$20 milliards",
+   "pct": "84.86"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$10-$20 milliards",
+   "pct": "7.94"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$5-$10 milliards",
+   "pct": "5.41"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<$5 milliard",
+   "pct": "1.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shell",
+   "pct": "2.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "2.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Becton Dickinson",
+   "pct": "2.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms",
+   "pct": "2.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Workday",
+   "pct": "1.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Salesforce",
+   "pct": "1.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Elevance Health",
+   "pct": "1.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SLB",
+   "pct": "1.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oracle",
+   "pct": "1.34"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0433182416/LU0433182416__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0433182416/LU0433182416__KID_FR_2026-04-29.pdf"
+}

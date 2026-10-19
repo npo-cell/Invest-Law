@@ -1,0 +1,213 @@
+{
+ "n": "659",
+ "isin": "FR0014013NN3",
+ "nom": "KEREN 2032 C EUR (FMB)",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-12-04",
+ "date_creation": "2025-12-04",
+ "devise": "EUR",
+ "type_fonds": "Obligataire à échéance (2032)",
+ "compartiment": "",
+ "gerants": "Raphaël Elmaleh",
+ "encours_millions": "65.91",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.2",
+ "frais_courants": "1.33",
+ "sri": "2",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "43",
+ "duration": "3.11",
+ "qualite_emetteurs": "B+",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Afin de réaliser l'objectif de gestion sur la durée de placement recommandée jusqu'à la date d'échéance du produit , L'OPCVM a pour objectif de gestion la recherche d’une performance nette de frais annualisée supérieure à 4%, sur la durée comprise entre la création du Fonds le 04/12/2025 et la dernière VL de l’année 2032 (vendredi 31 décembre 2032). Cet objectif de gestion tient compte de l’estimation du risque de défaut, du coût de la couverture éventuelle (y compris la couverture du risque de change) et des frais de gestion. Il est fondé sur la réalisation d’hypothèses de marché arrêtées par la Société de Gestion et il n’est en aucun cas garanti. L’attention de l’investisseur est attirée sur le fait que : 1/ la performance indiquée dans l’objectif de gestion du Fonds ne comprend pas l’intégralité des cas de défauts et repose sur des estimations au regard des hypothèses de marché arrêtées à un instant donné 2/ il existe un risque que la situation financière réelle des émetteurs soit moins bonne que prévue 3/ que ces conditions défavorables (ex : défauts plus nombreux, taux de recouvrement moins importants) auront pour conséquence de venir diminuer la performance du fonds. L’objectif de gestion pourrait alors ne pas être atteint. Préalablement à la date du 31 décembre 2032, la société de gestion optera, en fonction des conditions de marché qui prévaudront, soit pour la reconduction d'une stratégie d'investissement similaire avec un nouvelle date cible d'échéance, soit pour la fusion du fonds avec un autre OPCVM, soit pour la liquidation du fonds, sous réserve d'agrément par l'AMF. Le Fonds cherche à optimiser le taux actuariel moyen du portefeuille à l’échéance du 31 décembre 2032 et sélectionner les émetteurs présentant la probabilité de défaut la moins importante eu égard au rendement apporté et à l'analyse fondamentale des différents facteurs de risque inhérents à ceux-ci.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : duration 2.7 → 3.11 (« DURATION 3.11 », sensibilité 3.07) ; investissements durables 50 → 43 % (« Investissement durable 43% ») ; qualité réduite à la notation moyenne « B+ » (65 lignes, rendement actuariel 6.63 %, au worst 6.33 %, maturité moyenne 2030) ; frais de gestion « Frais de gestion annuels 1.2% TTC » (factsheet ; frais de service annuels en sus), frais courants du KID (« Frais de gestion fin. & autres coûts 1.33% ») ; catégorie vidée. Encours = « AuM: 65.91 mEUR » sur la ligne de la part C (fonds ou part non précisé). Date de création = création du fonds (« The Fund was created on 04th of December 2025 », KID) ; date de la part C non donnée. KID en anglais seulement (date de production écrite « 12/04/2025 », incohérente avec la création du fonds le 04/12/2025 : lue au format mois/jour). Gérant : Raphaël Elmaleh (Alexandre Brulé = analyste ESG, vu sur l'image de la page 1). Compartiment vide : FCP. Indice : aucun indice cité. SFDR article 8 (factsheet et KID). Allocations de la « poche taux du fonds » au 30/09/2026 ; répartition par notation non reprise (libellés du graphique incomplets).",
+ "sources": {
+  "date_creation": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet p.3",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "gerants": "factsheet p.1 (image)"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "CMA CGM 4.875% 15/01/2032",
+   "pct": "5.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eramet 6.5% 30/11/2029",
+   "pct": "5.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mobilux 7% 15/05/2030",
+   "pct": "5.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eutelsat 6.25% 15/03/2033",
+   "pct": "4.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAP 4.75% 30/06/2031",
+   "pct": "3.75"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "23.91"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "15.62"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "12.44"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "10.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "8.87"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "8.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Telecommunication Services",
+   "pct": "7.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "4.85"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "4.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sovereign/Govt/Supranational",
+   "pct": "3.67"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "65.63"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "5.11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "4.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "4.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "3.93"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "3.85"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "3.62"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "3.41"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Norway",
+   "pct": "2.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Ireland",
+   "pct": "2.41"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2026",
+   "pct": "1.55"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2028",
+   "pct": "8.08"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2029",
+   "pct": "10.86"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2030",
+   "pct": "14.33"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2031",
+   "pct": "25.98"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2032",
+   "pct": "23.05"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2033",
+   "pct": "9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "PERP",
+   "pct": "7.16"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/KEREN_FINANCE/FR0014013NN3/FR0014013NN3__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/KEREN_FINANCE/FR0014013NN3/FR0014013NN3__KID_EN_2025-12-04.pdf"
+}

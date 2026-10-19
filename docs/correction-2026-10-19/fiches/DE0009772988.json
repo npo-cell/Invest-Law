@@ -1,0 +1,103 @@
+{
+ "n": "746",
+ "isin": "DE0009772988",
+ "nom": "ODDO BHF GLOBAL EQUITY TREND CRW EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-01",
+ "date_creation": "2005-09-30",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Le Fonds est un OPCVM de droit allemand.",
+ "gerants": "Stefan Braun, Karsten Seier, Steffen Fuchs",
+ "encours_millions": "372",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.55",
+ "sri": "4",
+ "indice": "100% MSCI World (EUR, Net return)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nUtilisant une approche quantitative propriétaire, ODDO BHF Global Equity Trend investit dans des actions mondiales. Le modèle quantitatif évalue les actions sur la base d'une stratégie axée sur le « smart momentum », en analysant une grande quantité de données historiques afin de détecter les tendances stables du marché. Le processus de construction du portefeuille accorde une grande importance à la diversification et la gestion des risques en appliquant diverses contraintes d'optimisation.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 369 → 372 (« Actif net du fonds 372 M€ », factsheet 30/09/2026) ; indice « MSCI World NR EUR » → « 100% MSCI World (EUR, Net return) » (nom de la factsheet ; KID : « L’indice de référence du Fonds est le MSCI World (EUR, NR). Le Fonds ne le réplique pas à l’identique, mais vise à le surperformer ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : OPCVM de droit allemand, pas un compartiment) ; gérants sans titres. Gérants : factsheet « Dr. Stefan BRAUN (CFA), Karsten Seier (CFA), Steffen Fuchs (CFA) » (BRAUN en majuscules : écart du contrôle automatique dû à la casse). Date de création : « Date de création de la part (1ère VL) 30/09/2005 » (fonds : 02/01/1998). Frais : « Frais de gestion fixes 1,50% p.a. » ; KID 1,55 % (factsheet 1.55 %). SRI 4 et SFDR article 8 : KID. Stratégie « smart momentum » depuis le 21/07/2025 (factsheet). Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 0,9% » est lisible).",
+ "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/DE0009772988/DE0009772988__KID_FR_2026-10-01.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "5.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc",
+   "pct": "4.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "3.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.Com Inc",
+   "pct": "2.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc-Cl A",
+   "pct": "2.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc-Cl C",
+   "pct": "1.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Micron Technology Inc",
+   "pct": "1.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Of New York Mellon Corp",
+   "pct": "1.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc",
+   "pct": "1.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rolls-Royce Holdings Plc",
+   "pct": "1.52"
+  }
+ ]
+}

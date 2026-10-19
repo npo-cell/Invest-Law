@@ -1,0 +1,104 @@
+{
+ "n": "421",
+ "isin": "LU0093583077",
+ "nom": "CANDRIAM MONEY MARKET EURO C EUR",
+ "maison": "CANDRIAM LUXEMBOURG S.A",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-03",
+ "factsheet_fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__KID_FR_2026-04-03.pdf",
+ "date_creation": "1990-07-15",
+ "devise": "EUR",
+ "type_fonds": "Monétaire",
+ "compartiment": "Ce produit est une classe d'actions (Classique) d'un compartiment (Euro) d'une société d'investissement à capital variable (SICAV) de droit luxembourgeois (Candriam Money Market), Organisme de Placement Collectif en Valeurs Mobilières (OPCVM).",
+ "gerants": "Pierre Boyer, Elodie Brun, Benjamin Schoofs",
+ "encours_millions": "1929.75",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.50",
+ "frais_courants": "0.60",
+ "sri": "1",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "A",
+ "disclaimer": "Les performances passées ne prédisent pas les rendements futurs.",
+ "politique_fr": "Stratégie d'investissement\nCandriam Money Market Euro (ci-après «le fonds»), un compartiment de la sicav Candriam Money Market, vise à procurer des rendements comparables à ceux du marché monétaire et/ou à préserver la valeur de l’investissement. L’objectif du fonds est de bénéficier de la performance du marché des instruments du marché monétaire libellés principalement en EUR, d’une maturité résiduelle inférieure à 397 jours ou dont le taux d’intérêt est révisable au moins annuellement, émis principalement par des émetteurs de bonne qualité, sur la base d’une gestion discrétionnaire. Le fonds peut convenir aux investisseurs qui souhaitent atteindre cet objectif sur une courte période de détention et qui connaissent, comprennent et sont en mesure d’assumer les risques particuliers du fonds. Le Fonds promeut, entre autres, des caractéristiques environnementales et/ou sociales sans toutefois avoir l’investissement durable pour objectif. L’horizon d’investissement est de 6 mois. Le fonds est géré de manière active et le processus d’investissement implique le renvoi à un indice de référence. Pour plus d’informations concernant les risques ou l’indice de référence et son utilisation, veuillez consulter le document d’informations clés (DIC) du fonds.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet réservée aux investisseurs professionnels. Date de création = « Date de lancement 15/07/1990 » (rubrique « Caractéristiques » de la factsheet de la classe C, sans préciser part ou compartiment). Encours « Actifs nets totaux (M EUR) 1 929,75 ». Frais de gestion = « Frais de gestion réels » C 0,50% ; frais courants = KID 0,60 % (= factsheet C 0,60%). Indice laissé vide : le KID indique que l'€STR (Euro Short Term Rate) Capitalized est utilisé uniquement « à des fins de comparaison de performance ». SFDR « Article 8 » (factsheet). Qualité = « Rating moyen LT A » (« Rating moyen CT A-1 »). Duration laissée vide : la factsheet donne « WAM (d) 42,00 » et « WAL (d) 219,00 » (jours), pas de duration. Politique : bloc « Stratégie d'investissement » de la factsheet. Allocations : seulement les « Top 10 émetteurs » (% Fonds) ; « Allocation par secteur », « Composition du portefeuille », « Allocation par rating », « Allocation par pays » et « Maturité » sont des graphiques sans valeurs extractibles. Corrigé (factsheet 30/09/2026) : encours 2074.04 → 1929.75 ; indice €STER Capitalized index → (vide) ; classification (vide) → Défensif ; investissements durables (%) 53 → (vide) ; qualité A (rating moyen LT) / A-1 (rating moyen CT) → A ; politique remplacée par le texte de la factsheet.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.2",
+  "source_politique": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SOCIETE GENERALE SA",
+   "pct": "3.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROYAL BANK OF CANADA",
+   "pct": "3.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GROUPE BPCE",
+   "pct": "3.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COMMERZBANK AG",
+   "pct": "2.89"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BARCLAYS BANK PLC",
+   "pct": "2.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CAPGEMINI SE",
+   "pct": "2.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VEOLIA ENVIRONNEMENT SA",
+   "pct": "2.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDENRED SE",
+   "pct": "2.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CANADIAN IMPERIAL BANK OF COMMERCE",
+   "pct": "2.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "2.15"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "n": "744",
+ "isin": "LU1493433004",
+ "nom": "ODDO BHF CONVERTIBLES GLOBAL CR-EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-08-27",
+ "date_creation": "2013-12-31",
+ "devise": "EUR",
+ "type_fonds": "Obligations convertibles internationales",
+ "compartiment": "Un compartiment de la SICAV ODDO BHF",
+ "gerants": "",
+ "encours_millions": "48",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.40",
+ "frais_courants": "1.54",
+ "sri": "3",
+ "indice": "Thomson Reuters Global Focus Hedged Convertible Bond Index",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "1.5",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "Stratégie d'investissement\nLe Compartiment a pour objectif de surperformer l’indicateur de référence Thomson Reuters Global Focus Hedged Convertible Bond Index, calculé coupons nets réinvestis, sur un horizon d’investissement minimum de 3 ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet du 31/08/2026 : la plus récente disponible (fundinfo BE/LU : dernier rapport mensuel au 31/08/2026 en FR, EN et DE ; page fonds du site ODDO BHF introuvable). Corrigé : SFDR 8 → 6 (KID 27/08/2026 : « Le Compartiment est classifié article 6 ») ; frais courants 1.53 → 1.54 (KID « 1,54 % » ; factsheet « Frais courants 1,53% ») ; encours 48.24 → 48 (« Actif net du fonds 48 M€ ») ; date de création 2016-12-16 → 2013-12-31 (« Date de création de la part (1ère VL) : 31/12/2013 » ; fonds créé le 16/12/2016 par absorption du fonds « Oddo Convertibles Global » lancé le 31/12/2013) ; gérant vidé (la factsheet ne cite que la société « Wellington Management », gestionnaire délégué, pas de nom de gérant) ; qualité des émetteurs vidée (répartition par notation en graphique, sans notation moyenne écrite) ; indice « FTSE Global Focus Hgd CB TR EUR » → nom de la factsheet et du KID ; disclaimer remplacé par le texte exact de la factsheet ; politique FR remplacée par le bloc « Stratégie d'investissement » de la factsheet française, politique EN supprimée. Frais de gestion : « taux annuel de 1,40 % maximum ». Duration : « Duration modifiée 1,5 » (indice 1,7) ; sensibilité actions 49,3 ; maturité moyenne 3,3 ans. SRI 3 : KID. Allocations : 10 principales lignes obligataires (colonne « Poids* » du fonds) ; les répartitions par sensibilité actions, secteur, notation et région sont des graphiques sans valeurs extractibles.",
+ "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1493433004/LU1493433004__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1493433004/LU1493433004__KID_FR_2026-08-27.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "duration": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric Se 1,625% 06/2031",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rivian Automotive, Inc. 3,625% 10/2030",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd. 0,5% 06/2031",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nippon Steel Corp. 0% 02/2031",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare, Inc. 0% 06/2030",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Iberdrola Finanzas Sa 0,80% 12/2027",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Live Nation Entertainment, Inc 2,875% 10/2031",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Baidu, Inc. 0% 03/2032",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Of America Corp. 0,1% 04/2030",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "China Pacific Insurance (Group 0% 09/2030",
+   "pct": "1.4"
+  }
+ ]
+}

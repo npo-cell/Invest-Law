@@ -1,0 +1,74 @@
+{
+ "n": "676",
+ "isin": "FR0010858498",
+ "nom": "LAZARD CONVERTIBLE GLOBAL RC EUR",
+ "maison": "Lazard Frères Gestion",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-12-31",
+ "date_creation": "2010-03-01",
+ "devise": "EUR",
+ "type_fonds": "Obligations convertibles internationales",
+ "compartiment": "",
+ "gerants": "Arnaud Brillois",
+ "encours_millions": "1949.31",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.47",
+ "frais_courants": "1.64",
+ "sri": "3",
+ "indice": "FTSE Global Focus Convertible EUR",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "1.71 (sensibilité)",
+ "qualite_emetteurs": "BBB",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+ "politique_fr": "L’OPCVM vise à atteindre à moyen terme une performance supérieure à l’indice de référence, le FTSE Convertible Global Focus en euros. Les parts hedgées suivent le meme indice mais avec une couverture du risque de change dans la devise de la part. Cet objectif sera réalisé par une gestion dynamique des risques, de taux, de change, de crédit et par des choix sélectifs de titres de capital. Le portefeuille sera principalement constitué d’obligations convertibles, d’obligations échangeables contre des actions, d’obligations à bon de souscription d’actions, d’obligations et de titres de créance négociables émis par des entreprises et échangeables en actions, de titres préférentiels à durée indéterminée, d’obligations et de titres de créance négociables émis par des entreprises et des institutions financières et par des états souverains, d’OPCVM monétaires ou obligataires de droit français conformes et non conformes à la directive investis en obligations et autres titres de créance libellés en euro (10% maximum), d’actions résultant d’une conversion d’un des types d’instruments définis ci-dessus (10% maximum).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : duration 1.72 → 1.71 (« Sensibilité taux Fonds 1.71 ») ; indice « FTSE Global Focus Convertible EUR Index » → libellé de la factsheet « FTSE Global Focus Convertible EUR » (objectif : performance supérieure à l'indice ; le texte de l'objectif l'appelle « FTSE Convertible Global Focus en euros ») ; disclaimer ajouté ; classification ajoutée : Equilibré (obligations convertibles, sensibilité actions 59.70, SRI 3) ; catégorie vidée. Encours = « Actif net du fonds 1949.31 M€ ». Date de création = « Date de 1ère VL de la part 01/03/2010 ». Frais : « Frais de gestion (max) 1.47% » ; frais courants KID « Frais de gestion et autres coûts administratifs et d’exploitation 1,64% » (factsheet : « Frais courants DIC PRIIPS 1.64% »). Compartiment vide : SICAV sans compartiment (« Forme juridique SICAV »). SFDR article 8. Positions au 30/09/2026 ; répartitions par notation, devise, pays, nature et secteur non reprises (graphiques dont les valeurs ne figurent pas dans le texte du PDF et sont illisibles sur l'image).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "gerants": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ALIBABA GROUP 1/2%C 24-01JN31S",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BAIDU INC. 0%(EXCH)25-12MR32-",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IREN LTD 1/4%(144A) 25-01JN32S",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COINBASE GLOB.1/4%C 24-01AP30S",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UBER TECHNOLOG.7/8%C23-01DE28S",
+   "pct": "2.2"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0010858498/FR0010858498__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0010858498/FR0010858498__KID_FR_2025-12-31.pdf"
+}

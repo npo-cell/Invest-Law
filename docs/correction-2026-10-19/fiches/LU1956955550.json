@@ -1,0 +1,211 @@
+{
+ "n": "364",
+ "isin": "LU1956955550",
+ "nom": "AMUNDI FUNDS POLEN CAPITAL GLOBAL GROWTH A2 EUR",
+ "maison": "Amundi Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-20",
+ "date_creation": "2019-03-29",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (croissance)",
+ "compartiment": "Compartiment de SICAV de droit Luxembourgeois",
+ "gerants": "",
+ "encours_millions": "255.93",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.10",
+ "sri": "4",
+ "indice": "MSCI ACWI",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures",
+ "politique_fr": "Atteindre une croissance du capital à long terme. Investissements : Le Compartiment est un produit financier qui promeut les caractéristiques ESG conformément à l’article 8 du Règlement sur la publication d’informations en matière de durabilité dans le secteur des services financiers. Le Compartiment investit au moins 51 % de son actif net dans des actions de sociétés ayant un large éventail de capitalisations boursières (10 milliards de dollars minimum). Le Compartiment peut investir jusqu’à 35 % de son actif net dans des actions de sociétés domiciliées dans des marchés émergents. Ces investissements ne sont soumis à aucune contrainte de change. Le Compartiment peut avoir recours à des instruments dérivés à des fins de couverture. Indice de référence : Le Compartiment est géré activement et utilise l’Indice MSCI World All Countries (ACWI) (Net dividend) (l’« Indice de référence ») a posteriori comme indicateur pour évaluer la performance du Compartiment et, en ce qui concerne la commission de performance, en tant qu’Indice de référence utilisé par les catégories d’actions concernées, pour calculer les commissions de performance. Il n’existe aucune contrainte relative à un tel Indice de référence qui limite la construction du portefeuille. L’Indice de référence est un indice de marché large, qui n’évalue pas ou n’inclut pas ses composants en fonction des caractéristiques environnementales et n’est donc pas aligné sur les caractéristiques environnementales promues par le Compartiment. Processus de gestion : L’équipe d’investissement sélectionne les actions sur la base d’une approche rigoureuse de l’évaluation (démarche ascendante), en construisant un portefeuille concentré composé des titres sélectionnés selon les convictions de l’équipe d’investissement. Le Compartiment s’efforce de faire en sorte que la note ESG de son portefeuille soit supérieure à celle de l’Indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR du 30/09/2026 (une factsheet DE plus ancienne existe, non utilisée). Date de création : « Date de création de la classe : 29/03/2019 » (compartiment : 20/11/2018). Encours : « Actif géré : 255,93 ( millions EUR ) ». Frais : seuls les « Frais de gestion et autres coûts administratifs ou d’exploitation : 2,10% » sont écrits (factsheet et KID) : frais courants 2.10, frais de gestion vides. Indice : « Indice de référence : MSCI ACWI » (tableau de la part) ; la politique le nomme « Indice MSCI World All Countries (ACWI) (Net dividend) », utilisé a posteriori pour évaluer la performance et calculer la commission de performance. Gérants : aucun nom de personne dans les documents (Polen n'apparaît que dans le nom du compartiment et comme source). SFDR article 8 (factsheet et KID). Politique : bloc « Objectifs et Politique d'investissement » de la factsheet (repris du KID selon le document). Allocations : 10 principaux émetteurs, répartitions sectorielle et géographique (colonne portefeuille). Corrigé : encours 262.07 → 255.93 (factsheet 30/09/2026) ; gérants « Polen Capital Management LLC (gestion déléguée) » → vide ; indice « MSCI ACWI NR EUR » → « MSCI ACWI » ; politique FR remplacée par le texte de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__KID_FR_2026-08-20.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc-Cl C",
+   "pct": "6.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "6.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufac",
+   "pct": "5.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "5.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mastercard Inc - A",
+   "pct": "4.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc-Class A Shares",
+   "pct": "4.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.Com Inc",
+   "pct": "4.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eli Lilly & Co",
+   "pct": "4.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc",
+   "pct": "3.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Seagate Technology Holdings",
+   "pct": "3.33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'info.",
+   "pct": "37.86"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finances",
+   "pct": "13.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "14.70"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "12.22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Cyclique",
+   "pct": "9.10"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "6.24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "3.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non Cyclique",
+   "pct": "1.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.28"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "65.02"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan. Republic of China",
+   "pct": "5.09"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.51"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.70"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "2.71"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "3.03"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "2.66"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "0.89"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.82"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Uruguay",
+   "pct": "2.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "2.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Korea. Republic of",
+   "pct": "2.36"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités",
+   "pct": "3.35"
+  }
+ ]
+}

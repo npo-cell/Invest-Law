@@ -1,0 +1,188 @@
+{
+ "n": "603",
+ "isin": "IE00BGHQF631",
+ "nom": "GUINNESS GLOBAL EQUITY INCOME C EUR",
+ "maison": "GUINNESS ASSET MANAGEMENT LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2025-11-17",
+ "date_creation": "2010-12-31",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "un compartiment de Guinness Asset Management Funds plc",
+ "gerants": "Dr. Ian Mortimer, Matthew Page",
+ "encours_millions": "6745.9",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.77",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "The value of an investment and the income from it can fall as well as rise as a result of market and currency movement; you may not get back the amount originally invested. Past performance does not predict future returns",
+ "politique_fr": "",
+ "politique_en": "Aim Income and long-term capital growth\n\nProcess Starting point is quality, not yield. Focus on companies generating persistently high returns on capital over the last decade.\n\nPortfolio Concentrated, typically equally-weighted portfolio of 35 stocks, which reduces stock specific risk and instils a strong sell discipline. Low turnover; minimum $1bn market cap; no benchmark-driven constraints on sector and regional weightings.\n\nInvestment Objective An equity fund investing primarily in global equities which provide a yield above the yield of the benchmark (MSCI World Index). The Fund is actively managed and uses the MSCI World Index as a comparator benchmark only.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet EN 31/08/2026 (part C, multi-parts) : l'ISIN IE00BGHQF631 y figure deux fois, sur la ligne « C EUR Acc » (OCF 1.77%) et, manifestement par erreur, sur la ligne « C CNH Hedged Dist » (OCF 1.83%) ; le KID confirme « ClassC EUR Acc, ISIN: IE00BGHQF631 ». Corrigé : SRI 5 → 3 (KID 17/11/2025) ; date de création 2013-11-29 → 2010-12-31 (seule date donnée : « Fund launch 31.12.2010 », date du fonds ; aucune date pour la part) ; indice « MSCI World TR » retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique : texte anglais de la factsheet (Aim, Process, Portfolio, Investment Objective ; sans l'« Investment Case » commercial), l'ancien texte français ne figurait pas dans la factsheet. Encours = « Fund size $6745.9m » (stratégie : $7765.2m). Frais courants : KID « 1.77% » (« Frais de gestion et autres frais administratifs et d'exploitation ») ; pas de frais de gestion séparés. Indice vide : KID « n’utilise l’Indice de référence qu’à des fins de comparaison de la performance » ; factsheet « uses the MSCI World Index as a comparator benchmark only ». SRI 3 (KID). SFDR : aucun article écrit. Allocations : pays, secteurs, 10 principales positions.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "KID",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "USA",
+   "pct": "54.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "UK",
+   "pct": "9.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "8.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "8.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Sweden",
+   "pct": "5.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "3.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "2.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Ireland",
+   "pct": "2.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cisco Systems",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Texas Instruments Inc",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Johnson & Johnson",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Abbvie",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Deutsche Boerse",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABB",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Emerson Electric Co",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Publicis Groupe",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding AG",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "28.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "20.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "17.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "14.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "14.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "0.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BGHQF631/IE00BGHQF631__Factsheet_EN_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BGHQF631/IE00BGHQF631__KID_FR_2025-11-17.pdf"
+}

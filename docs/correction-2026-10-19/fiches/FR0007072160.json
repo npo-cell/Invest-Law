@@ -1,0 +1,182 @@
+{
+ "n": "845",
+ "isin": "FR0007072160",
+ "nom": "TRUSTEAM OPTIMUM A EUR",
+ "maison": "TrusTeam Finance",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2025-12-31",
+ "date_creation": "2002-05-31",
+ "devise": "EUR",
+ "type_fonds": "Allocation flexible (à dominante obligataire)",
+ "compartiment": "OPCVM sous forme de fonds commun de placement (FCP).",
+ "gerants": "Marie-Laurence Biswang, Matthieu Bernard",
+ "encours_millions": "117.66",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.35",
+ "sri": "2",
+ "indice": "FTSE MTS Euro zone Gov bon 1-3Y",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "1.95 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. Elles ne sont notamment pas constantes dans le temps.",
+ "politique_fr": "Objectif de gestion\nL'objectif de gestion est d'investir parmi les sociétés les plus orientées Client au sein de l'univers d'investissement, afin d'obtenir sur une période supérieure à un an, une performance nette de frais, supérieure à celle de son indicateur de référence, l'Euro MTS 1-3 ans, avec une volatilité 5 ans cible de 3%, L'engagement de prise en compte des critères extra financier est en \"sélectivité\" par rapport à l'univers d'investissement.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part : l'ISIN FR0007072160 est celui de la « PART R » (factsheet) / « Part: R EUR Acc » (KID) ; le nom One Life « TRUSTEAM OPTIMUM A EUR » ne correspond pas à l'intitulé des documents, mais la factsheet est bien celle de cet ISIN (contrairement à la note d'authentification). Factsheet « Reporting mensuel - Août 2026 » (la plus récente trouvée), « Fonds Commun de Placement UCITS ». Date de création = « Date de création : 31/05/2002 » (sans préciser part ou fonds). Encours « ACTIF NET 117,66 EUR millions ». Frais de gestion = « Frais de gestion financière 1,20% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation » 1,35 %. Indice = « Indicateur de référence FTSE MTS Euro zone Gov bon 1-3Y » (l'objectif de gestion vise à le battre ; le KID ajoute qu'il est utilisé a posteriori pour la comparaison) → retenu. Duration = « Poche Taux : Sensibilité taux 1,95 ». SFDR article 8 (KID), label ISR, aucun % d'investissements durables écrit. Classification Défensif : exposition obligataire 86,50 %, actions 12,06 %, SRI 2. Allocations : répartition par type (Classes d'actifs), poche obligataire par type (Instruments), totaux par notation et par maturité de la poche obligataire (% de l'actif) ; répartitions pays/secteurs de la poche actions (pourcentages arrondis à l'unité) non reprises. Corrigé : frais courants 1.4 → 1.35 (KID 31/12/2025) ; compartiment → texte du KID ; duration ajoutée ; indice → libellé de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "duration": "factsheet p.1",
+  "sfdr": "KID p.2",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "80"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "12"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations convertibles",
+   "pct": "7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Investment Grade",
+   "pct": "46"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Subordonnées financières",
+   "pct": "15"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "High Yield",
+   "pct": "10"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Convertibles",
+   "pct": "7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Souverain",
+   "pct": "4"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "OPC",
+   "pct": "5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "10.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "61.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "5.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "4.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "OPC",
+   "pct": "5.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Cash",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "≤1",
+   "pct": "15.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3",
+   "pct": "30.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5",
+   "pct": "32.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7",
+   "pct": "1.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": ">10",
+   "pct": "2.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "OPC",
+   "pct": "5.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Cash",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/TRUSTEAM_FINANCE/FR0007072160/FR0007072160__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/TRUSTEAM_FINANCE/FR0007072160/FR0007072160__KID_FR_2025-12-31.pdf"
+}

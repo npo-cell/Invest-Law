@@ -1,0 +1,128 @@
+{
+ "n": "821",
+ "isin": "FR0010914358",
+ "nom": "SWISS LIFE FUNDS BOND ESG 6M P EUR",
+ "maison": "SWISS LIFE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-05",
+ "date_creation": "2010-06-30",
+ "devise": "EUR",
+ "type_fonds": "Obligataire court terme",
+ "compartiment": "Organisme de placement collectif en valeurs mobilières (OPCVM) de type Fonds Commun de Placement (FCP)",
+ "gerants": "",
+ "encours_millions": "2114.95",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.40",
+ "frais_courants": "0.4",
+ "sri": "1",
+ "indice": "70% ESTR Capitalized + 30% BLOOMBERG EUR FRN IND UNHEDGED EUR",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "17.18",
+ "duration": "",
+ "qualite_emetteurs": "A-/A",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Les données de performance incluent les frais et commissions acquis ou à la charge du fonds, mais n'incluent pas les coûts engendrés lors des souscriptions et des rachats de parts ou d'actions.",
+ "politique_fr": "Stratégie d'investissement\nLe fonds est un fonds obligataire court terme investissant dans des émissions notées Investment Grades d’une durée de vie résiduelle inférieure à 3 ans. La maturité moyenne pondérée des titres en portefeuille (WAM) est inférieure à 6 mois et leur durée de vie moyenne pondérée (WAL) est de 18 mois maximum. L’horizon de placement recommandé du FCP est de 6 mois minimum.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting mensuel au 30 septembre 2026 », part P Cap. Date de création = « Date de création: 30/06/2010 » (sans préciser part ou fonds). Encours « Actif net du fonds : 2,114.95 M EUR ». Frais de gestion = « Frais de gestion: 0.40% » ; frais courants = KID « Frais de gestion et autres coûts administratifs ou charges d’exploitation » 0,4 % (factsheet : « Frais courants au 31/12/2025: 0.42% »). Indice = factsheet « Indice de réf.: 70% ESTR Capitalized + 30% BLOOMBERG EUR FRN IND UNHEDGED EUR » ; le KID fixe comme objectif un rendement supérieur à cet indicateur (tout en écrivant que le fonds « n'est pas géré en référence à un indice ») → retenu. SFDR article 8 (factsheet et KID). Investissements durables = « Part des investissements durables » 17,18 % (Environnementaux 17,18 %, Sociaux 0,00 %, définition de la société de gestion ; le KID prévoit au minimum 5 %). Qualité = « WARF (Rating moyen pondéré) [A-/A] » ; pas de duration écrite (WAL 403,56 et WAM 158,86, unité non précisée). Gérants : aucun nom dans les documents. Classification Défensif : obligataire court terme, SRI 1. Allocations : 10 principales positions et répartition par notation (tableau) ; répartitions sectorielle et géographique = graphiques non lisibles dans le texte → non reprises. Corrigé : encours 2275.94 → 2114.95 (factsheet 30/09/2026) ; frais courants 0.42 → 0.4 (KID 05/05/2026) ; indice → libellé exact de la factsheet ; ajout SRI 1, SFDR 8, % durable, qualité, classification.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet p.3",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "INFORMA PLC INFLN 3 10/23/27",
+   "pct": "0.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TORONTO DOM BANK TD FLOAT 09/10/27",
+   "pct": "0.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LAGARDERE SCA LAGARD EUCP 0 10/30/26",
+   "pct": "0.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANK NOVA SCOTIA BNS FLOAT 06/10/27",
+   "pct": "0.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCEDES-BENZ IN MBGGR 3.2 05/13/29",
+   "pct": "0.89"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LLOYDS BK GR PLC LLOYDS FLOAT 03/04/28",
+   "pct": "0.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BARCLAYS BK PLC BACR 3.32 06/17/29",
+   "pct": "0.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NATWEST MARKETS NWG FLOAT 06/11/28",
+   "pct": "0.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AYVENS SA AYVFP FLOAT 11/19/27",
+   "pct": "0.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VOLVO TREAS AB VLVY FLOAT 09/15/28",
+   "pct": "0.74"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA à AA-",
+   "pct": "4.46"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A+ à A-",
+   "pct": "51.72"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB+ à BBB-",
+   "pct": "24.72"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "8.58"
+  },
+  {
+   "type": "Notations",
+   "libelle": "OPCVM",
+   "pct": "9.60"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "0.92"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/SWISS_LIFE/FR0010914358/FR0010914358__KID_FR_2026-05-05.pdf"
+}

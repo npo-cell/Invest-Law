@@ -1,0 +1,232 @@
+{
+ "n": "143",
+ "isin": "LU0366762994",
+ "nom": "(I/C)FRANKLIN TECHNOLOGY I EUR",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-21",
+ "date_creation": "2008-06-16",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (technologie)",
+ "compartiment": "Un compartiment de Franklin Templeton Investment Funds (OPCVM)",
+ "gerants": "Jonathan T. Curtis, Matthew Cioppa, Dan H. Searle III",
+ "encours_millions": "16250",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.85",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs.",
+ "politique_fr": "Chercher une croissance de l'investissement à long terme, principalement par la croissance du capital. Le Fonds investit principalement dans les actions d'entreprises de toutes capitalisations boursières dans les secteurs de la technologie, comme les ordinateurs et les composants électroniques, les technologies de l'information, l'internet, les télécommunications et les services de médias et d'information. Ces investissements peuvent provenir du monde entier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 15430 → 16250 ; encours_date 2026-08-31 → 2026-09-30. Date de création = « Date de création de la part 16.06.2008 » (fonds créé le 03.04.2000). Encours « Actif net total (USD) $16,25 milliard » converti en millions (30/09/2026). Frais de gestion vide : la factsheet n'indique que les « Frais courants 0,85% » ; frais courants = KID « Frais de gestion et autres frais » 0.85 % (« estimation »). Indice vide : depuis le 21 septembre 2026 l'indice de référence principal est « MSCI ACWI IT + ACWI Communication Services (10/40) Index-NR », mais la factsheet le qualifie de « Comparateur » (« utilisé pour comparer les performances du Fonds, sans toutefois constituer une obligation d'investissement ») comme le « MSCI World Information Technology Index-NR », et le KID les dit « Utilisé à des fins de comparaison des performances uniquement ». SFDR article 8 (factsheet et KID). Gérants : « Equipe de gestion » (titres CFA non repris). Classification Agressif : actions sectorielles technologie, SRI 5. Politique : bloc « Objectif d'investissement » de la factsheet (objectif et politique ; le KID contient en plus la stratégie et les critères ESG). Allocations : colonne « Fonds » uniquement ; deux libellés sectoriels sont en anglais dans la factsheet (« Semiconductor Materials & Equipment », « Broadline Retail »).",
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__KID_FR_2026-09-21.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1 / KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "8.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "5.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "5.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "5.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "5.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS INC",
+   "pct": "4.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICRON TECHNOLOGY INC",
+   "pct": "4.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES INC",
+   "pct": "3.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "3.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "3.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Semi-conducteurs",
+   "pct": "37.09"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Médias et services interactifs",
+   "pct": "10.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Logiciels Système",
+   "pct": "9.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Semiconductor Materials & Equipment",
+   "pct": "8.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériel informatique, stockage et périphériques",
+   "pct": "6.62"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services et infrastructure Internet",
+   "pct": "5.85"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Broadline Retail",
+   "pct": "4.94"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Logiciels d'Application",
+   "pct": "4.47"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "12.24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.23"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "80.23"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "5.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "4.55"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.23"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "1.60"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "0.86"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "0.83"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "0.68"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.23"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<10 milliards",
+   "pct": "1.03"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10-25 milliards",
+   "pct": "3.84"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "25-50 milliards",
+   "pct": "4.22"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50-100 milliards",
+   "pct": "8.98"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">100 milliards",
+   "pct": "80.00"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Non disponible",
+   "pct": "1.94"
+  }
+ ]
+}

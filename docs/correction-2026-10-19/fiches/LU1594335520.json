@@ -1,0 +1,300 @@
+{
+ "n": "358",
+ "isin": "LU1594335520",
+ "nom": "ALLIANZ DYN MULTI ASSET STRAT 75 AT EUR",
+ "maison": "Allianz Global Investors GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-10",
+ "date_creation": "2017-05-02",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (dominante actions)",
+ "compartiment": "Allianz Dynamic Multi Asset Strategy SRI 75 (Le « Compartiment ») est un compartiment de Allianz Global Investors Fund qui est établi en tant que SICAV domiciliée au Luxembourg",
+ "gerants": "Marcus Stahlhacke",
+ "encours_millions": "6674.50",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.83",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "45.43",
+ "duration": "3.14",
+ "qualite_emetteurs": "AA-",
+ "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs.",
+ "politique_fr": "Objectif d’investissement Le fonds investit dans une vaste gamme de catégories d'actifs, en se concentrant en particulier sur les actions et les obligations mondiales. L'équipe de gestion du fonds poursuit une stratégie d'investissement durable et responsable (« stratégie ISR »), qui tient compte de critères environnementaux, sociaux et de gouvernance. L'objectif du fonds est d'atteindre à moyen terme un rendement semblable à celui d'un portefeuille composé de 75% d'actions mondiales et de 25% d'obligations mondiales couvertes en euros. La gestion intégrée du risque et de la volatilité permettra de limiter la volatilité du prix des parts du fonds à une fourchette préétablie de 10 à 16% sur le moyen à long terme.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création : « Lancement catégorie d’actions 02/05/2017 » (fonds : 27/08/2014). Encours « Taille du fonds 6 674,50 M EUR » (part : 388,50 M EUR). Frais : la factsheet donne une « Commission forfaitaire (%) 1,65 (max 1,85) p.a. » (commission tout compris, non retenue comme frais de gestion) et « TFE (%) 1,83 » ; frais courants 1,83 % du KID. Indice : « Indice de réf. No Benchmark » (factsheet) et « Nous ne gérons pas ce Compartiment par rapport à un Indice de référence » (KID). Duration : « Duration eff. incl. liquid. & dériv. 3,14 » (hors liquidités et dérivés : 5,67). Qualité : « Notation moyenne AA- » (poche obligataire). Investissements durables : « Proportion d’investissements durables Portefeuille 45,43% ». SFDR article 8. Compartiment : texte du KID (PDF dont pdftotext n'extrait aucun texte, lu via pypdf : écart du contrôle automatique = artefact d'extraction). Classification Dynamique : multi-actifs visant un profil 75 % actions / 25 % obligations (SRI 4). Allocations : classes d'actifs y compris dérivés (graphique : libellés et valeurs dans le même ordre), 10 premières positions, 5 premières devises après couverture, secteurs GICS et pays de la poche actions, capitalisations, échéances de la poche obligataire ; secteurs et régions obligataires non repris. Corrigé : encours 6233.18 → 6674.50 (factsheet 30/09/2026) ; frais de gestion 1.65 → vide (commission forfaitaire) ; compartiment remplacé par le texte du KID ; indice « n/a » → « Aucun » ; duration 3.69 → 3.14 ; qualité AA- confirmée ; investissements durables 45.43 ajoutés ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__KID_FR_2026-08-10.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "sfdr": "factsheet",
+  "durable_pct": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "96.09"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "10.90"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Matières premières",
+   "pct": "6.91"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Investissements alternatifs",
+   "pct": "1.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALLIANZ DYNAMIC COMMODITIES I (H2-EUR)",
+   "pct": "3.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "3.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PIMCO GIS-EMK OPP FND-INSAC",
+   "pct": "2.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "2.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "1.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "1.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SCHRODER INTL EMG EUROPE-AAC",
+   "pct": "1.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC-CL A",
+   "pct": "1.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L&G ROBO GLOBAL ROBOTICS&AUT",
+   "pct": "1.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALLIANZ EM MK SEL BD-WTH2EUR",
+   "pct": "1.13"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "50.15"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "28.40"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "5.60"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "5.05"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SGD",
+   "pct": "4.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "27.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "17.81"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "13.17"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "12.65"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "7.42"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "6.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "4.43"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "3.56"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.99"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "57.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "8.17"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "4.59"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "4.48"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "4.29"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "3.86"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "3.19"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.18"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "2.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "8.47"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 10 Md",
+   "pct": "86.64"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 Md <> 10 Md",
+   "pct": "8.54"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 5 Md",
+   "pct": "4.83"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-1",
+   "pct": "47.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3",
+   "pct": "13.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5",
+   "pct": "10.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7",
+   "pct": "9.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10",
+   "pct": "8.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "10-20",
+   "pct": "5.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20+",
+   "pct": "5.0"
+  }
+ ]
+}

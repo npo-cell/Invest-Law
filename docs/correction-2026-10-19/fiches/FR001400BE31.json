@@ -1,0 +1,144 @@
+{
+ "n": "505",
+ "isin": "FR001400BE31",
+ "nom": "ECHIQUIER GLOBAL FLEXIBLE A EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-20",
+ "date_creation": "2022-09-19",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible international",
+ "compartiment": "Compartiment de la SICAV CLUB SOLUTIONS",
+ "gerants": "Alexis Bienvenu, Enguerrand Artaz",
+ "encours_millions": "19",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.60",
+ "frais_courants": "2.42",
+ "sri": "3",
+ "indice": "65% MSCI WORLD NET TOTAL RETURN (en EUR), 35% BLOOMBERG EURO AGGREGATE TREASURY 1-3 ANS",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "Echiquier Global Flexible est un compartiment diversifié et flexible, dont l'objectif est de surperformer l'indice composite suivant : 65% du MSCI World Index Net Total Return EUR+ 35% du Bloomberg Euro Aggregate Treasury 1-3 years TR Index EUR, sur la durée de placement recommandée à travers une exposition principalement en actions internationales.\n\nDu fait de la stratégie poursuivie, il ne peut être indiqué d'indicateur de référence pertinent. En effet, la société de gestion du compartiment procédera à une gestion flexible de l'exposition du portefeuille notamment aux marchés de taux et d'actions, et se réserve la possibilité de réduire l'exposition aux marchés d'actions jusqu'à 0% au profit d'une exposition sur d'autres marchés, notamment le marché de taux. De ce fait, l'exposition du fonds aux différents marchés de taux pourra varier très significativement dans le temps, rendant difficile toute comparaison avec un indice de référence fixe inopérante. Toutefois, l'indice composite suivant 65% du MSCI World Index Net Total Return EUR + 35% du Bloomberg Euro Aggregate Treasury 1-3 years TR Index peut illustrer l'objectif de performance du fonds.\n\nL'OPCVM met en oeuvre une gestion active et discrétionnaire. Sa gestion s'appuie sur l'utilisation combinée de deux piliers : - l'allocation d'actifs du portefeuille entre les différentes grandes classes d'actifs liquides au niveau mondial (actions, obligations souveraines, crédit, change et monétaire). - une sélection rigoureuse de titres : - sur des actions et des obligations émises par les entreprises (Stock et Bond picking) - sur les obligations émises par les Etats, - sur des fonds indiciels \"trackers\" ou \"ETF\" et des instruments dérivés.\n\nLes investissements peuvent se faire au travers des souscriptions dans des OPC ou dans des actions en direct.\n\nLe compartiment peut investir dans des actions en direct jusqu'à 90% de son actif net.\n\nL'exposition au marché des taux et monétaire peut varier entre 0 et 100% de l'actif net.\n\nLe fonds peut être exposé au risque de change jusqu'à 100% de l'actif net.\n\nL'exposition aux matières premières ne dépassera pas 10% de l'actif net.\n\nLe fonds pourra investir jusqu'à 100% de son actif net en titres d'autres OPCVM français et/ou européens.\n\nL'exposition du fonds via les futures sur volatilité sera toutefois limitée à 10% de son actif net. Le montant des investissements en titres intégrant des dérivés ne pourra pas dépasser plus de 10% de l'actif net. Le fonds peut être emprunteur d'espèces dans la limite de 10%.\n\nL'OPCVM pourra intervenir sur le marché des instruments financiers à terme, de façon discrétionnaire, pour : - Réduire l'exposition du portefeuille au marché actions, aux risques de change, de taux et de volatilité. - Exposer le portefeuille au risque de change, de taux, d'action et de volatilité. En aucun cas, le fonds n'entend mettre en oeuvre de stratégie de surexposition du portefeuille à ces différents risques.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : encours 19.2 → 19 (« 19 M€ Actif net », factsheet 30/09/2026) ; frais courants 2.417 → 2.42 (KID 20/03/2026 « 2.42% ») ; indice → libellé « Objectif de gestion » de la factsheet ; disclaimer de la factsheet française. Politique prise du KID : la factsheet n'a qu'une phrase de présentation. Date de création = « Date de 1ère VL 19/09/2022 ». Frais de gestion : « 1,60% TTC max. » (maximum). Indice : objectif du KID « surperformer l'indice composite suivant : 65% du MSCI World Index Net Total Return EUR+ 35% du Bloomberg Euro Aggregate Treasury 1-3 years TR Index EUR », le KID ajoutant qu'« il ne peut être indiqué d'indicateur de référence pertinent » et que cet indice « peut illustrer l'objectif de performance ». SFDR article 6. Classification Equilibré : fonds flexible SRI 3 (exposition actions 75,2 % au 30/09/2026). Allocations : Positions = « Composition du portefeuille » (fonds détenus, poids en % de l'actif net) ; « Exposition par type d'actif » en % d'exposition nette (lue sur l'image p.2) ; « Répartition de l'allocation actions » en % de l'actif net.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "75.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "19.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Performance Absolue / Matière 1ère",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie",
+   "pct": "5.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI EURO STOXX BANKS UCITS ETF Acc",
+   "pct": "3.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI MSCI EMERGING EX CHINA UCITS ETF Acc",
+   "pct": "1.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI S&P 500 II UCITS ETF EUR HEDGED Acc",
+   "pct": "1.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI TOPIX HEDGED EUR",
+   "pct": "1.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI TOPIX UCITS ETF",
+   "pct": "1.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ECHIQUIER HYBRID BONDS IXL",
+   "pct": "4.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDR SICAV FINANCIAL BONDS N",
+   "pct": "4.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ISHARES S&P SMALLCAP 600 UCITS ETF (Dist)",
+   "pct": "2.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PARETO NORDIC CROSS CREDIT H-I EUR",
+   "pct": "11.03"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "39.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "28.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents ex-Chine",
+   "pct": "3.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__KID_FR_2026-03-20.pdf"
+}

@@ -1,0 +1,69 @@
+{
+ "n": "618",
+ "isin": "LU0432616737",
+ "nom": "INVESCO BALANCED RISK ALLOCATION A EUR",
+ "maison": "Invesco Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-19",
+ "date_creation": "2009-09-01",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "un compartiment d’Invesco Funds (le « Fonds à compartiments multiples »)",
+ "gerants": "Christopher Devine, Jan Grindrod, John Burrello, Scott Hixon",
+ "encours_millions": "567.10",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.64",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sauraient présager des performances futures. La valeur des investissements et les revenus vont fluctuer, ce qui peut en partie être le résultat des fluctuations de taux de change et les investisseurs peuvent ne pas récupérer le montant total de leurs investissements initiaux.",
+ "politique_fr": "Le Fonds vise à dégager un rendement total positif sur un cycle de marché, assorti d'une corrélation faible à modérée avec les indices financiers traditionnels du marché. Le Fonds cherche à atteindre son objectif par une exposition aux actions, obligations et matières premières.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 (part « A-Accumulation Shares », ISIN conforme). Corrigé : encours 581.45 → 567.10 (« Actifs nets totaux EUR 567,10 million », 30/09/2026) ; indice composite retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus). Date de création = « Date de lancement de la classe d'actions 01 septembre 2009 ». Frais : factsheet « Frais de gestion annuels 1,25% », « Frais courants 1,64% » ; KID « 1,64 % ». Indice vide : « L'indice de référence est présenté uniquement à des fins de comparaison des performances » (factsheet) et « utilisé à des fins de comparaison » (KID) ; il s'agit de 50% Bloomberg Germany Govt. Over 10 Year Index (Total Return), 25% MSCI World Index EUR-Hedged (Net Total Return) & 25% S&P Goldman Sachs Commodity Index EUR-Hedged (Total Return). Gérants : Jan Grindrod depuis le 30 juin 2026. SRI 3 (KID). SFDR : aucun article écrit dans les documents. Allocations : grandes classes de la « Répartition du portefeuille » (exposition avec effet de levier, total supérieur à 100 %, détail par pays/secteur non repris) ; l'« Allocation au risque » (Croissance 39,37 ; Défensif 16,76 ; Rendement réel 43,87) n'entre pas dans les types prévus.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "94.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "49.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Matières premières",
+   "pct": "37.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Options",
+   "pct": "22.4"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__KID_FR_2026-05-19.pdf"
+}

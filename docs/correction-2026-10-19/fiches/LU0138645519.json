@@ -1,0 +1,164 @@
+{
+ "n": "494",
+ "isin": "LU0138645519",
+ "nom": "DPAM L BONDS HIGHER YIELD B EUR",
+ "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-31",
+ "date_creation": "2000-11-06",
+ "devise": "EUR",
+ "type_fonds": "Obligataire haut rendement",
+ "compartiment": "Compartiment de DPAM L, SICAV de droit luxembourgeois",
+ "gerants": "",
+ "encours_millions": "40.08",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.90",
+ "frais_courants": "1.2",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.29 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ni le rendement, ni le capital ne sont garantis ou protégés.",
+ "politique_fr": "Objectif(s) Augmenter la valeur de votre investissement sur le moyen à long terme.\n\nIndice(s) de référence Le fonds est géré sans référence à un indice.\n\nPolitique d'investissement Dans des conditions normales de marché, le compartiment investit principalement dans des obligations à haut rendement du monde entier et libellées en toute devise. Le compartiment peut recourir à des instruments dérivés afin de se couvrir contre des fluctuations de marché et de réduire ses coûts, et également dans le but de générer des revenus supplémentaires.\n\nProcessus d'investissement Dans le cadre d'une gestion active du compartiment, le gestionnaire utilise l'analyse macroéconomique, de marché et de crédit afin d'identifier des titres présentant un potentiel de rendement avantageux par rapport au risque encouru.\n\nApproche ESG Dans son processus de décision, le gestionnaire intègre des critères ESG tels que l'intensité de l'empreinte carbone, la protection de l'environnement et la gouvernance d'entreprise. Le gestionnaire exclut les entreprises qui font l'objet de controverses sévères par rapport aux normes internationales, ainsi que les entreprises exposées de manière significative à des activités néfastes pour la société ou l'environnement telles que le charbon thermique et le tabac. Catégorie SFDR Article 8.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 40.95 → 40.08 (« Taille (toutes classes) mn EUR 40.08 », factsheet 30/09/2026) ; frais courants 1.23 → 1.2 (KID 31/08/2026 « 1,2% » ; factsheet 1.23 %) ; duration 3.38 → 3.29 ans ; indice « Aucun » (« Le fonds est géré sans référence à un indice ») ; compartiment complété. SRI 2 confirmé (KID « classe de risque basse (niveau 2 »). Date de création = « Date de la 1ère VNI 06.11.2000 » : antérieure à la création du compartiment (11.12.2001), issu de l'apport de Bond Universalis Higher Yield (factsheet, note 1). Frais de gestion : « dont frais de gestion 0.90% ». SFDR « Catégorie SFDR Article 8 », aucun % durable écrit. Duration : « Duration (ans) 3.29 » ; modified duration 3.11 ; pas de notation moyenne. Gérants : aucun nom. Allocations : « Monnaies après couv. taux de change » en Devises ; tableau « Modified durations » non repris (type non prévu).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "sri": "KID p.2",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "23.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "15.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "13.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations d'Etat",
+   "pct": "11.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non-cyclique",
+   "pct": "10.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "7.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "8.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "15.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "44.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "28.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C-Catégorie",
+   "pct": "4.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "8.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "81.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "9.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Forint hongrois",
+   "pct": "4.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso mexicain",
+   "pct": "3.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Leu roumain",
+   "pct": "1.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Rand sud-africain",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Franc suisse",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__KID_FR_2026-08-31.pdf"
+}

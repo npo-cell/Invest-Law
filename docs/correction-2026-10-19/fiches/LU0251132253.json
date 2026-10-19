@@ -1,0 +1,65 @@
+{
+ "n": "578",
+ "isin": "LU0251132253",
+ "nom": "FIDELITY GLOBAL THEMATIC OPPORT A USD",
+ "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2006-07-03",
+ "devise": "USD",
+ "type_fonds": "Actions internationales thématiques",
+ "compartiment": "Compartiment de la SICAV Fidelity Funds",
+ "gerants": "Caroline Shaw, Julie-Ann Ashcroft",
+ "encours_millions": "1824",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.9",
+ "sri": "4",
+ "indice": "MSCI ACWI Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Les rendements du Compartiment peuvent varier à la hausse ou à la baisse selon les fluctuations des taux de change.",
+ "politique_fr": "Objectif: Le Compartiment cherche à atteindre une croissance du capital sur le long terme.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % de ses actifs dans des actions de sociétés du monde entier, y compris des marchés émergents. Il visera une exposition aux thèmes de marché à long terme qui profitent de tendances économiques ou sociales (structurelles et non cycliques) à long terme, comme les technologies perturbatrices qui modifient le comportement des consommateurs, les tendances démographiques (croissance de la population, vieillissement de la population et croissance de la classe moyenne) et le changement climatique. Les changements pérennes durent généralement dix ans ou plus et peuvent entraîner des changements structurels. Les technologies perturbatrices sont des innovations qui transforment profondément les comportements des ménages, des industries et des sociétés. Les tendances démographiques sont des dynamiques à long terme, notamment celles qui sont liées au vieillissement de la population (y compris les sociétés liées à la consommation de produits/prestations santé et vieillesse), à la croissance de la classe moyenne (les sociétés exposées à une augmentation de la consommation et des services financiers et à l’urbanisation), et à la croissance démographique (y compris les sociétés exposées à la rareté des ressources et à la nécessité d’améliorer la productivité et l’automatisation). Le Gérant de Portefeuille est libre de choisir les thèmes dans lesquels le Compartiment investit. Le Compartiment peut également investir dans des instruments du marché monétaire à titre accessoire. Le Compartiment peut investir dans les actifs suivants selon les pourcentages indiqués :• actions A et B chinoises (directement et/ou indirectement) : moins de 30 % (sur une base globale) • REIT : jusqu’à 20 % • SPAC : moins de 5 %\n\nApproche de l'investissement: Dans le cadre de sa gestion active du Compartiment, le Gérant de Portefeuille tient compte des paramètres de croissance et de valorisation, des données financières des sociétés, du rendement du capital, des flux de trésorerie et d’autres mesures, ainsi que des dirigeants, du secteur, des conditions économiques, et d’autres facteurs. Le Gérant de Portefeuille tient compte des caractéristiques ESG lorsqu’il évalue les risques et opportunités d’investissement. Le Gérant de Portefeuille prend en compte les notations ESG fournies par Fidelity ou des agences externes pour déterminer les caractéristiques ESG. Le Gérant de Portefeuille veille, par le biais de la procédure de gestion des investissements, à ce que les sociétés détenues dans le portefeuille respectent des pratiques de bonne gouvernance. Au moins 70 % des actifs du Compartiment respecteront des critères ESG Multi Asset spécifiques. Pour plus d’informations, consultez « Investissement durable et intégration ESG » ainsi que l’annexe « Durabilité ».\n\nPolitique en matière de dérivés: Le Compartiment peut utiliser des instruments dérivés à des fins de couverture et de gestion efficace du portefeuille.\n\nl’indice de référence: MSCI ACWI Index, un indice de marché général qui ne tient pas compte des caractéristiques ESG. Utilisée pour : la comparaison de la performance. Bien qu’il investisse dans les titres de la référence, la gestion du Compartiment étant libre, ce dernier peut investir dans des titres qui n’y sont pas présents, et sa performance peut s’éloigner fortement ou rester très proche de celle de la référence au cours d’une période.\n\nPolitique de distribution: Étant donné qu'il s'agit d'une catégorie d'Actions sans distribution, les dividendes sont réinvestis.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 1868 → 1824 (factsheet 30/09/2026) ; frais de gestion 1.5 retirés (absents des documents) ; indice « MSCI All Country World Index (Total Return Net) » → « MSCI ACWI Index » (libellé des documents) ; politique reprise mot pour mot de la factsheet (identique au KID). Part nommée « A-ACC-USD » dans les documents, ISIN conforme. Encours = « Encours du compartiment : $ 1.824m » (lu 1824 millions USD). Date de création = lancement de la catégorie d'actions (03.07.06) ; compartiment lancé le 31.12.91. Frais courants : KID « 1.9% » ; factsheet « Frais de gestion et autres frais administratifs et d’exploitation: 1,90% ». Indice retenu : « Utilisée pour : la comparaison de la performance » (même traitement que les autres fiches Fidelity). SRI 4 (KID). SFDR article 8 (KID). Classification Dynamique : actions mondiales multi-thèmes diversifiées, SRI 4. Allocations : répartition par classe d'actifs seulement ; le tableau « Allocations principales » n'a pas de libellés lisibles dans le PDF, non repris.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "98.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Revenu fixe",
+   "pct": "1.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités non investies et autres",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__KID_FR_2026-04-30.pdf"
+}

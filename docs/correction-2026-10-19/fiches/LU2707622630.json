@@ -1,0 +1,123 @@
+{
+ "n": "480",
+ "isin": "LU2707622630",
+ "nom": "DNCA INVEST STRATEGIC RESOURCES A EUR",
+ "maison": "DNCA FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-05",
+ "factsheet_fichier": "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__KID_FR_2026-06-05.pdf",
+ "date_creation": "2024-05-08",
+ "devise": "EUR",
+ "type_fonds": "Matières premières (métaux)",
+ "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+ "gerants": "Alexandre CARRIER, Boris RADONDY",
+ "encours_millions": "812",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.77",
+ "sri": "5",
+ "indice": "Goldman Sachs Metals Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+ "politique_fr": "Objectif de gestion\nL'objectif d'investissement du produit est de surperformer son indice de référence, le Goldman Sachs Metals Index, en étant exposé aux matières premières par le biais d'au moins un (des) Total Return Swap(s) (tel(s) que décrit(s) ci-après) sur la période d'investissement minimale recommandée de 5 ans. Parallèlement, le Compartiment met en oeuvre une approche extra-financière par l'intégration de critères environnementaux, sociaux et sociétaux (\" ESG \") dans l'analyse fondamentale, en visant à participer à la transition énergétique et écologique (la transition durable) et en limitant les principaux impacts négatifs potentiels.\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création « 08/05/2024 » (factsheet p.4) : date des informations administratives de la part (sous son code ISIN). Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 1,77% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà du Goldman Sachs Metals Index (0,07 %). Indice : objectif de surperformance. SFDR article 8, aucun % d'investissements durables écrit. Gérants : « , CFA » retiré. Exposition aux matières premières via Total Return Swap ; actifs investis en bons du Trésor, fonds monétaire et liquidités (sans pourcentage). Allocations : « Classes d'actifs » = exposition Métaux précieux / Métaux industriels ; « Positions » = composition détaillée du panier (colonne Fonds, poids par métal, total exposition 100,2 %) ; « Maturités » = profil de maturité de l'exposition matières premières (ligne Fonds). Pas de tableau de principales lignes en titres. Non repris : poids cibles de l'indice, données ESG. Corrigé (factsheet 30/09/2026) : encours (vide) → 812.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "factsheet p.5",
+  "gerants": "factsheet p.4",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.4",
+  "sfdr": "factsheet p.4",
+  "disclaimer": "factsheet p.5",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Métaux précieux",
+   "pct": "42.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Métaux industriels",
+   "pct": "57.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Platine",
+   "pct": "11.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Or",
+   "pct": "11.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Argent",
+   "pct": "10.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Palladium",
+   "pct": "9.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cuivre",
+   "pct": "11.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Etain",
+   "pct": "10.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Zinc",
+   "pct": "10.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nickel",
+   "pct": "9.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Aluminium",
+   "pct": "8.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Plomb",
+   "pct": "7.88"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0 à 6 mois",
+   "pct": "78.90"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "6 à 12 mois",
+   "pct": "21.10"
+  }
+ ]
+}

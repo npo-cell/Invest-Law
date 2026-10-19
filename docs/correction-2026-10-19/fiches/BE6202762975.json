@@ -1,0 +1,105 @@
+{
+ "n": "687",
+ "isin": "BE6202762975",
+ "nom": "LELEUX INVEST EQUITIES WORLD FOF R EUR",
+ "maison": "LELEUX ASSOCIATED BROKERS AM",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-01-01",
+ "date_creation": "2010-09-17",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (fonds de fonds)",
+ "compartiment": "Un compartiment de Leleux Invest, SICAV gérée par la société de gestion d’OPCVM de droit belge Leleux Fund Management & Partners S.A.",
+ "gerants": "",
+ "encours_millions": "84.91",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.6",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements cités et l’évolution de la VNI ont trait aux années écoulées. Ils ne sont pas indicatifs de performances futures et peuvent être trompeurs.",
+ "politique_fr": "Objectifs du produit Le fonds a pour objectif de procurer aux investisseurs une appréciation du capital dans une perspective à moyen/ long terme en procédant à des placements essentiellement indirects, en particulier via des investissements en autres Organismes de Placements Collectifs (OPC), diversifiés en actions.\n\nApproche de l'investissement Afin de réduire le risque intrinsèque des placements en actions, l’investissement est largement diversifié internationalement sans limitation géographique ou sectorielle et les actifs sont répartis entre plusieurs gestionnaires. L’optimisation de l’appréciation du capital est recherchée dans l’allocation des actifs ainsi que dans la sélection des gestionnaires. Les investissements du fonds pourront comprendre une part importante de placements libellés dans une devise autre que la devise de référence, sans limitation aucune. En outre, aucune politique particulière de couverture des risques de change ne sera mise en place.\n\nLe fonds peut détenir à titre accessoire des liquidités et des instruments monétaires à concurrence de 10% maximum.\n\nIndice de référence Le fonds est géré de manière active. Le gestionnaire dispose d’une certaine discrétion dans la composition du portefeuille du fonds dans le respect des objectifs et de la politique d’investissement du fonds.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, classe R Cap, ISIN vérifié) retenue ; KID de la part (publié le 01-01-2026) téléchargé sur leleux.be et rangé dans INVESTLAW (documents_recents était vide). Corrigé : encours 84.16 → 84.91 M€ (« Encours sous gestion du compartiment en millions € 84,91 ») ; gérant « Carlo Luigi Grabau » vidé (aucun nom dans les documents ; « Gestionnaire: Leleux Fund Management & Partners SA ») ; frais de gestion 0.6 vidés (absents des documents) ; frais courants 2.61 → 2.6 (KID « Frais de gestion et autres frais administratifs et d’exploitation 2.6% » ; factsheet « Frais courants (30/06/2026) : 2,61%/an ») ; compartiment « Classe R » remplacé par le texte de la factsheet ; disclaimer recopié de la factsheet ; classification Agressif → Dynamique (actions internationales diversifiées via fonds, SRI 3) ; catégorie vidée. Indice vide : aucun indice cité (« Le fonds est géré de manière active »). Date de création = « Date de Lancement: 17 sept 2010 ». SFDR article 8. Allocations au 30/09/2026 : positions = 5 principaux gestionnaires (poids des fonds sélectionnés) ; classes d'actifs et devises lues sur les graphiques.",
+ "sources": {
+  "date_creation": "factsheet p.3",
+  "encours_millions": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "State Street Global Adv.",
+   "pct": "13.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "T Rowe Price",
+   "pct": "10.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alken Asset Mngt Ltd",
+   "pct": "9.06"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BlackRock",
+   "pct": "8.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Varenne Capital Partners",
+   "pct": "7.93"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Amérique du Nord",
+   "pct": "37.35"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Europe",
+   "pct": "34.41"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Monde",
+   "pct": "12.56"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Asie et pays émergents",
+   "pct": "10.13"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash Net",
+   "pct": "5.55"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "43.32"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "56.68"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LELEUX_ASSOCIATED_BROKERS_AM/BE6202762975/BE6202762975__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LELEUX_ASSOCIATED_BROKERS_AM/BE6202762975/BE6202762975__KID_FR_2026-01-01.pdf"
+}

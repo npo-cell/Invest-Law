@@ -1,0 +1,281 @@
+{
+ "n": "841",
+ "isin": "FR0013230059",
+ "nom": "TOCQUEVILLE VALUE EURO ISR R EUR",
+ "maison": "LBPAM Funds",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-22",
+ "date_creation": "2017-02-16",
+ "devise": "EUR",
+ "type_fonds": "Actions zone euro (style value, ISR)",
+ "compartiment": "Compartiment de la SICAV LBPAM FUNDS",
+ "gerants": "Yann Giordmaina, Pierre Coiffet",
+ "encours_millions": "1989.51",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.45",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures. Elles ne sont pas constantes dans le temps.",
+ "politique_fr": "Objectif d'investissement\nL’objectif de gestion du Compartiment est double : - chercher à obtenir, sur un horizon d’investissement minimum de 5 ans, une performance nette de frais de gestion supérieure au marché actions de la zone euro en investissant dans les actions de sociétés offrant un profil dit « Value » : et - mettre en œuvre une stratégie d’investissement socialement responsable (ISR).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds renommé : les documents s'intitulent « TOCQUEVILLE EURO EQUITY VALUE SRI R » (nom One Life « TOCQUEVILLE VALUE EURO ISR R EUR ») ; société de gestion LBP AM, gestion financière déléguée à La Financière de l'Echiquier ; compartiment de la SICAV LBPAM FUNDS (KID ; le nom « LFDE Funds » du classeur n'apparaît pas). Date de création = « Date de 1ère VL de la Part 16/02/2017 » (OPC créé le 14/06/2002). Encours « Actif net global 1 989,51 M€ ». Frais courants = « Frais de gestion et autres coûts administratifs et d’exploitation 1,45% » (factsheet et KID) ; pas de frais de gestion séparés. Indice vide : le KID précise que « L'indicateur de référence MSCI EMU NR est utilisé a posteriori comme indicateur de comparaison des performances » et que la gestion est « sans contrainte relative aux indices » (factsheet : indicateur de référence MSCI EMU dividendes nets réinvestis ; indicateur de gestion MSCI EMU Value dividendes nets réinvestis). SFDR article 8, aucun % d'investissements durables écrit. Classification Dynamique : actions zone euro diversifiées, SRI 4. Allocations : colonne « Portefeuille » (valeurs lues dans l'ordre du texte du PDF et contrôlées sur l'image de la page 2 ; totaux = 100 %) ; « nature de titre » en Instruments ; hors bilan options -2,27 % non repris. Corrigé : encours 2015.08 → 1989.51 (factsheet 30/09/2026) ; indice « MSCI EMU NR » → vide (comparaison a posteriori) ; compartiment « LFDE Funds » → « Compartiment de la SICAV LBPAM FUNDS » (KID) ; disclaimer ramené aux phrases de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ALLIANZ SE",
+   "pct": "5.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Bilbao Vizcaya Argentaria SA",
+   "pct": "5.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intesa Sanpaolo SpA",
+   "pct": "5.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCO SANTANDER SA",
+   "pct": "4.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Iberdrola SA",
+   "pct": "4.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Siemens AG",
+   "pct": "4.45"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ING Groep NV",
+   "pct": "4.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UniCredit SpA",
+   "pct": "3.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sanofi SA",
+   "pct": "3.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXA SA",
+   "pct": "2.34"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Actions",
+   "pct": "96.46"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités et OPC de trésorerie",
+   "pct": "3.30"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Options",
+   "pct": "0.24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "49.20"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "10.76"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "7.42"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "6.95"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "4.93"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "4.37"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.66"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "2.50"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.94"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de Communication",
+   "pct": "1.32"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits dérivés",
+   "pct": "0.24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres et Liquidités",
+   "pct": "3.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "24.63"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "17.74"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "16.64"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "16.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "8.82"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autriche",
+   "pct": "2.33"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "2.29"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Grèce",
+   "pct": "2.16"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "1.58"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "1.33"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres pays",
+   "pct": "2.79"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Produits dérivés",
+   "pct": "0.24"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres et Liquidités",
+   "pct": "3.30"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "[+ 50 Md€[",
+   "pct": "61.27"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "[10 / 50 Md€[",
+   "pct": "30.48"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "[4.5 / 10 Md€[",
+   "pct": "8.25"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "96.44"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "2.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "1.33"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "0.04"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "0.02"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230059/FR0013230059__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230059/FR0013230059__KID_FR_2026-04-22.pdf"
+}

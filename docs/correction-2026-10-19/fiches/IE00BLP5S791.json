@@ -1,0 +1,281 @@
+{
+ "n": "186",
+ "isin": "IE00BLP5S791",
+ "nom": "(I/C)JUPITER MERIAN GL EQ ABS RETURN FD HEDGED I",
+ "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2009-06-30",
+ "devise": "EUR",
+ "type_fonds": "Alternatif (actions long/short, rendement absolu)",
+ "compartiment": "Jupiter Merian Global Equity Absolute Return Fund (le « Fonds ») est un compartiment de Jupiter Asset Management Series PLC, constitué en Irlande.",
+ "gerants": "The Systematic Equities Team",
+ "encours_millions": "",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "0.80",
+ "sri": "2",
+ "indice": "ECB Main Refinancing Operations Rate",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. Le rendement peut augmenter ou baisser sous l’effet des fluctuations de taux de change.",
+ "politique_fr": "Objectif et politique d'investissement du fonds\nCroissance du capital, avec un contrôle rigoureux du risque. Le Fonds visera un rendement absolu (performance supérieure à zéro, quelles que soient les conditions de marché) sur des périodes glissantes de 12 mois. Pour atteindre son objectif d'investissement, le fonds vise à générer un rendement, net de frais, au-delà du taux effectif des fonds fédéraux des États-Unis à 1 jour sur des fenêtres glissantes de 3 ans. À des fins de mesure de la performance, l’indice des liquidités sera différent pour les catégories non libellées dans la devise de base. Le fonds cherche également à atteindre son objectif dans une limite de volatilité annualisée de 6 %. Le Fonds investira au minimum 51 % de ses actifs en actions de sociétés et en investissements similaires, cotés ou situés partout dans le monde.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_date 2026-08-31 → 2026-09-30. Part I EUR ACC HSC (couverte contre le risque de change ; KID « I EUR Hedged Acc »). Date de création = « Date de lancement de la Catégorie d'Actions: 30.06.2009 » (identique au fonds). Encours vide : « Encours: EUR 11,929m » est ambigu (virgule décimale ou séparateur de milliers) ; devise EUR et date 30.09.2026 notées. Exposition nette -1.6%, brute 190.5%. Frais de gestion = « Commission annuelle de gestion (max.) 0,75% » (maximum) ; frais courants = KID 0.80 % (identique à la factsheet) ; commission de surperformance 20.00 %. Indice = « Objectif de l'Indice de référence: ECB Main Refinancing Operations Rate » (tableau de la part EUR ; l'objectif du fonds est exprimé par rapport au taux des fonds fédéraux américains pour la devise de base). SFDR article 8 (factsheet et KID) ; aucun % durable écrit. Gérant : équipe uniquement. Classification Défensif : fonds actions market-neutral (rendement absolu, volatilité cible 6 %), SRI 2 — cas non évident (actions long/short). Allocations au 30.09.2026 : Positions = « Cinq Principaux Titres Longs » puis « Cinq Principaux Titres à Découvert (Par Industrie) » en négatif (libellés = industries, « Finance » et « Industrie » deux fois) ; Secteurs et Zones géographiques : colonne « Longue » (valeurs positives, Espèces 101,6) puis colonne « Court » (valeurs négatives) ; totaux (-96,0 / 94,4 / 196,0) non repris.",
+ "factsheet_fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__KID_FR_2026-02-19.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_devise": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.2 / KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Asml Holding",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Barclays Plc",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Adobe Inc",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DBS Group Holdings Ltd",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Comcast Class A",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Finance",
+   "pct": "-1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Biens de consommation de base",
+   "pct": "-1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Finance",
+   "pct": "-1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrie",
+   "pct": "-1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrie",
+   "pct": "-1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "16.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "14.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Informatique",
+   "pct": "14.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "14.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "10.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Espèces",
+   "pct": "101.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "-20.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "-7.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Informatique",
+   "pct": "-12.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "-14.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "-14.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "-4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "-8.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "-5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "-5.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "-3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "-1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés continent américain",
+   "pct": "30.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Asie",
+   "pct": "24.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Europe et Moyen-Orient",
+   "pct": "20.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Pacifique",
+   "pct": "16.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Europe, Moyen-Orient et Afrique",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents continent américain",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espèces",
+   "pct": "101.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés continent américain",
+   "pct": "-30.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Asie",
+   "pct": "-21.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Europe et Moyen-Orient",
+   "pct": "-21.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Pacifique",
+   "pct": "-20.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Europe, Moyen-Orient et Afrique",
+   "pct": "-1.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents continent américain",
+   "pct": "-0.9"
+  }
+ ]
+}

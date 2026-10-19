@@ -1,0 +1,228 @@
+{
+ "n": "660",
+ "isin": "FR0010697532",
+ "nom": "KEREN CORPORATE C EUR",
+ "maison": "KEREN FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-02-18",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Obligataire euro flexible",
+ "compartiment": "Compartiment de la SICAV Keren",
+ "gerants": "Benoît Soler",
+ "encours_millions": "408.28",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.22",
+ "sri": "2",
+ "indice": "Bloomberg Barclays EuroAgg Treasury 3-5 ans TR",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "58.1",
+ "duration": "3.02",
+ "qualite_emetteurs": "BBB-",
+ "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures et ne sont pas constantes dans le temps.",
+ "politique_fr": "Afin de réaliser l'objectif de gestion sur la durée de placement recommandée >3 ans , Keren Corporate adopte un style de gestion active en investissant sur des titres de créance et instruments du marché monétaire, libellés en euro, de dette privée et de dette convertible (10% max), sans contrainte a priori d’allocation par zones géographiques, duration, notation, secteur d’activités ou types de valeurs.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet 30/09/2026 du dépôt (FR, part C, ISIN vérifié) retenue : documents_recents ne contenait que le KID. Corrigé : date de création 2008-12-30 vidée (aucune date dans la factsheet ni le KID) ; investissements durables 50 → 58.1 % (« Investissement durable 58.1% ») ; duration 2.5 → 3.02 (« DURATION 3.02 », sensibilité 2.94) ; qualité réduite à la notation moyenne « BBB- » (91 lignes, rendement actuariel 5.40 %, au worst 5.24 %, maturité moyenne 2031) ; frais de gestion « Frais de gestion annuels 1.20% TTC » (factsheet ; frais de service annuels en sus), frais courants du KID (« Frais de gestion fin. & autres coûts 1,22% ») ; indice renommé selon la factsheet (« * Indice : Bloomberg Barclays EuroAgg Treasury 3-5 ans TR. ») ; politique = paragraphe de la factsheet tel qu'écrit ; catégorie vidée. Indice retenu car cité dans l'objectif (« performance supérieure à l’indice », KID) bien que le KID précise « L’indicateur de référence est utilisé uniquement à titre de comparaison ». Encours = « AuM: 408.28 mEUR » sur la ligne de la part C (fonds ou part non précisé). KID du 18/02/2025 (le plus récent trouvé). SFDR article 8. Allocations de la « poche taux du fonds » au 30/09/2026 ; répartition par notation non reprise (libellés du graphique incomplets).",
+ "sources": {
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "durable_pct": "factsheet p.3",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SPCM 2.625% 01/02/2029",
+   "pct": "4.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Zalando 0.625% 06/08/2027 CV",
+   "pct": "3.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BBG IG EUR Corp SRI Future 18 decembre 2026",
+   "pct": "2.89"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Finance Europe 3.586% 04/12/2036",
+   "pct": "2.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oréal 3.375% 19/01/2036",
+   "pct": "2.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "25.32"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "14.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "13.13"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "11.31"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "11.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "7.24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "5.94"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sovereign/Govt/Supranational",
+   "pct": "5.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Telecommunication Services",
+   "pct": "3.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "2.69"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "39.38"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "11.58"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italy",
+   "pct": "11.27"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "9.27"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "7.93"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Portugal",
+   "pct": "5.34"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United Kingdom",
+   "pct": "5.03"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Spain",
+   "pct": "4.83"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgium",
+   "pct": "2.74"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Denmark",
+   "pct": "2.63"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2027",
+   "pct": "7.37"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2028",
+   "pct": "8.35"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2029",
+   "pct": "14.53"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2030",
+   "pct": "21.46"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2031",
+   "pct": "19.65"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2032",
+   "pct": "5.64"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2033",
+   "pct": "7.98"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2034",
+   "pct": "0.41"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2035",
+   "pct": "2.59"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2036",
+   "pct": "5.64"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "PERP",
+   "pct": "6.37"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/KEREN_FINANCE/FR0010697532/FR0010697532__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/KEREN_FINANCE/FR0010697532/FR0010697532__KID_FR_2025-02-18.pdf"
+}

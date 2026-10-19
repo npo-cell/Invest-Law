@@ -1,0 +1,191 @@
+{
+ "n": "652",
+ "isin": "LU0262307480",
+ "nom": "JUPITER FINANCIAL INNOVATION L EUR",
+ "maison": "Jupiter Fund Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2006-11-02",
+ "devise": "EUR",
+ "type_fonds": "Actions secteur financier",
+ "compartiment": "UN COMPARTIMENT DE LA SICAV JUPITER GLOBAL FUND",
+ "gerants": "Guy de Blonay",
+ "encours_millions": "86",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.73",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
+ "politique_fr": "Le Fonds a pour objectif de générer une croissance du capital sur le long terme. Le Fonds investira au moins 70 % de sa valeur dans un portefeuille mondial composé : (i) d’actions et de titres assimilés à des actions qui peuvent être émis par des émetteurs situés dans tout pays, y compris jusqu’à 30 % dans les marchés émergents, et qui, de l’avis du Gestionnaire financier, favorisent ou bénéficient (ou ont le potentiel de favoriser ou de bénéficier) de l’innovation financière, notamment la technologie des paiements, les services financiers numériques, la banque mobile et la blockchain, et (ii) d’instruments financiers dérivés. Le fonds n’investira pas dans des cryptodevises ; en revanche, il pourra investir dans des entreprises fournissant des services liés aux cryptodevises. Le Fonds peut investir jusqu’à : - 30 % sur les marchés émergents. - 20 % dans des matières premières négociées en Bourse. - 10 % dans des sociétés d’acquisition ad hoc (special purpose acquisition companies, SPAC). - 10 % dans des titres non cotés.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 85 → 86 M EUR (« Encours: EUR 86m », factsheet 30/09/2026) ; indice « MSCI ACWI Financials - Net Total Return Index » vidé : « Indice de référence Comparateur », le fonds « utilise l’indice de référence uniquement à des fins de comparaison de la performance » ; classification Dynamique → Agressif (actions sectorielles, finance) ; catégorie vidée. Gérant écrit en majuscules dans la factsheet (« GUY DE BLONAY »), recopié en casse normale (écart du contrôle dû à la casse). Frais : « Commission annuelle de gestion (max.) 1,50% », frais courants 1,73 % (factsheet) ; KID « Frais de gestion et autres frais administratifs et d’exploitation 1.73 % ». SFDR article 6 (factsheet). Date de création : lancement de la catégorie d'actions 02.11.2006 (identique au fonds). Allocations au 30/09/2026 ; secteurs et régions en exposition brute (total 111,9 %).",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hsbc Holdings Plc",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Unicredit",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Of Cyprus Holding",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bawag Group Ag",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Citigroup",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eurobank Sa",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Barclays Plc",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Standard Chartered Plc",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "81.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Semiconductors & Semiconductor Equipment",
+   "pct": "14.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Capital Markets",
+   "pct": "6.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technology Hardware, Storage & Peripherals",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications Equipment",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Interactive Media & Services",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Software",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Wireless Telecommunication Services",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Finance",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT Services",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Broadline Retail",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Europe et Moyen-Orient",
+   "pct": "59.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés continent américain",
+   "pct": "18.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Europe, Moyen-Orient et Afrique",
+   "pct": "13.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Asie",
+   "pct": "11.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Pacifique",
+   "pct": "8.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés non classés (« standalone ») Europe et CEI",
+   "pct": "0.7"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JUPITER_FUND_MANAGEMENT/LU0262307480/LU0262307480__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JUPITER_FUND_MANAGEMENT/LU0262307480/LU0262307480__KID_FR_2026-02-19.pdf"
+}

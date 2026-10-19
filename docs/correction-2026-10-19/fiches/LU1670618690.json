@@ -1,0 +1,292 @@
+{
+ "n": "703",
+ "isin": "LU1670618690",
+ "nom": "M&G (LUX) GLOBAL EMERGING MARKETS A EUR",
+ "maison": "M&G Luxembourg S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-16",
+ "date_creation": "2018-10-26",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "un compartiment de la SICAV de M&G (Lux) Investment Funds 1",
+ "gerants": "Michael Bourke, Will Nicklin",
+ "encours_millions": "824.52",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.99",
+ "sri": "4",
+ "indice": "MSCI Emerging Markets Net Return Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le fonds cherche à générer des revenus et une croissance du capital supérieurs à ceux du marché boursier mondial des pays émergents (tel que mesuré par l’indice MSCI Emerging Markets Net Return Index) sur toute période de cinq années consécutives, tout en appliquant les critères environnementaux, sociaux et de gouvernance (ESG). Au moins 80 % du fonds sont investis dans les actions de sociétés domiciliées dans des pays émergents ou y menant la majeure partie de leur activité. La sélection d’actions repose sur une analyse approfondie de chaque société en mettant l’accent sur les bénéfices, la gouvernance d’entreprise et la valorisation. La sélection des actions se fait au profil de rentabilité distinct pour constituer un fonds susceptible de faire face à des conditions de marché diverses. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et une orientation positive ESG, comme prévu dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : type_fonds remplacé (texte des documents) ; compartiment remplacé (texte des documents) ; gerants « Michael Bourke (depuis le 30/09/2018), Will Nicklin (gérant adjoint) » → « Michael Bourke, Will Nicklin » ; encours « 818.01 » → « 824.52 » ; frais_gestion « 2 » vidé ; frais_courants « 2 » → « 1.99 » ; indice « MSCI EM NR USD » → « MSCI Emerging Markets Net Return Index » ; classification « Dynamique » → « Agressif » ; categorie « Majoritairement actions » vidé ; qualite « non applicable (fonds actions) ; 97 sociétés en portefeuille » vidé ; disclaimer remplacé (texte des documents) ; politique_fr remplacé (texte des documents). Factsheet la plus récente : 31/08/2026 (pas de septembre sur fundinfo). Politique = « Description du fonds » de la factsheet. Classification Agressif (actions des pays émergents). Indice retenu : il sert à mesurer la performance du fonds. Allocations au 31/08/2026, colonne « Fonds » ; sur/sous-expositions non reprises. Encours = « Encours du fonds (millions) € 824,52 » ; date de création = « Lancement de la catégorie de part 26 octobre 2018 » (fonds : 26 octobre 2018). Frais courants : KID « Frais de gestion et autres frais administratifs et d’exploitation 1,99% » (factsheet : « Frais de gestion et autres commissions 2,00% ») ; pas de frais de gestion séparés. SRI 4 (KID). SFDR article 8 (factsheet ; KID : 8).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet (Informations importantes)",
+  "gerants": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor",
+   "pct": "9.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "9.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prosus",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HDFC Bank",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HON HAI Precision Industry",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Life Insurance",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shinhan Financial",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Absa Group",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KE Holdings",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "27.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés financières",
+   "pct": "22.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. cycl.",
+   "pct": "18.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "6.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Stratégie",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. de base",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "21.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "18.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "14.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "8.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "5.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du Sud",
+   "pct": "4.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Indonésie",
+   "pct": "4.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "17.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités",
+   "pct": "2.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won sud-coréen",
+   "pct": "18.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "17.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "13.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Hong-Kong",
+   "pct": "12.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Réal brésilien",
+   "pct": "8.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Rand sud-africain",
+   "pct": "8.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso mexicain",
+   "pct": "5.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indonésienne",
+   "pct": "4.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "3.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "8.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Méga-cap. (>50 Md$)",
+   "pct": "40.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes cap. (10-50 Md$)",
+   "pct": "24.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes cap. (2-10 Md$)",
+   "pct": "17.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites cap. (>2 Md$)",
+   "pct": "13.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Autres",
+   "pct": "2.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "2.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670618690/LU1670618690__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670618690/LU1670618690__KID_FR_2026-02-16.pdf"
+}

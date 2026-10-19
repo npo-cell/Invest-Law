@@ -1,0 +1,222 @@
+{
+ "n": "106",
+ "isin": "BE6246059354",
+ "nom": "(I/C)DPAM B REAL ESTATE EUROPE SUSTAINABLE W EUR",
+ "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-01",
+ "date_creation": "2013-08-16",
+ "devise": "EUR",
+ "type_fonds": "Actions immobilières européennes",
+ "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+ "gerants": "",
+ "encours_millions": "475.96",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.80",
+ "frais_courants": "0.91",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+ "politique_fr": "Objectif: L'objectif du compartiment est de vous offrir une exposition aux titres représentatifs du secteur immobilier européen. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportion minimale d'investissements durables au sens du même règlement. Il s'agit d'un compartiment géré activement, ce qui signifie que le gestionnaire de portefeuille n'a pas pour objectif de reproduire la performance d'un benchmark.\n\nPolitique d'investissement: Le compartiment investit principalement dans des titres représentatifs du secteur immobilier au sens large (certificats immobiliers et actions de Sociétés Immobilières Règlementées (SIR), de sociétés d'investissement en créances immobilières (SIC) ou de sociétés immobilières ou actives dans la promotion et le développement immobilier émis par des entreprises ayant leur siège social et/ou une partie significative de leurs actifs, activités, centres de profits ou centres de décision en Europe. La sélection repose sur une méthodologie qui, sur tout le portefeuille, a) exclut les sociétés qui ne sont pas en conformité avec certains normes mondiales en ce compris le Pacte Mondial des Nations Unies (droits de l'Homme, droit du travail, protection de l'environnement et lutte contre la corruption), b) exclut les sociétés qui sont impliquées dans des activités controversées (tabac, jeux de hasard, charbon thermique, etc) ou c) impliquées dans des controverses ESG sévères (incidents, allégations liées à des problèmes environnementaux, sociaux, de gouvernance). La sélection s'appuie aussi sur une analyse et notation du profil ESG de la société investie au moyen de Scorecard ESG (grilles d'analyse des risques ESG les plus pertinents et les plus matériels auxquels sont exposées les sociétés) uniquement pour la portion des investissements visant un objectif durable. Enfin pour la portion des investissements visant un objectif durable, la recherche d'impact et thématiques de durabilité s'assure que les produits et/ou services de l'entreprise financent – en proportion de son chiffre d'affaires – le développement durable. Vous trouverez plus d'informations sur le site https://www.funds.dpaminvestments.com/funds.html. Benchmark: GPR Europe UK 25% Capped Net Return. Utilisation du benchmark: le benchmark est utilisé à titre de comparaison des performances. La sélection et la pondération des actifs dans le portefeuille du fonds peuvent différer significativement de la composition du benchmark. Le benchmark n’est pas aligné sur la promotion des caractéristiques environnementales et sociales du compartiment.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 517.34 → 475.96 ; encours_date 2026-08-31 → 2026-09-30. Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 16.08.2013 » ; « Création du compartiment 16.12.1999 ». Encours « Taille (toutes classes) mn EUR 475.96 » au 30/09/2026. Frais de gestion = « *dont frais de gestion 0.80% » ; frais courants = KID « Frais de gestion et autres frais d'exploitation 0,91% » (identique à la factsheet) ; pas de commission de performance. Indice laissé vide : « Benchmark: GPR Europe UK 25% Capped Net Return » est « utilisé à titre de comparaison des performances ». Aucun gérant nommé. SFDR article 8 avec une proportion minimale d'investissements durables (pourcentage non écrit dans la factsheet). Classification Agressif : actions sectorielles (immobilier coté européen, SRI 5). Politique : bloc « Politique d'investissement du compartiment » de la factsheet (issu du KID), sans la phrase finale « Ni le rendement, ni le capital ne sont garantis ou protégés. » Allocations : colonne Fonds seulement ; Positions = Top 10 ; « Sous-secteurs » repris en Secteurs ; valeurs 0.0 gardées telles qu'écrites.",
+ "factsheet_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__KID_FR_2026-10-01.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Unibail-Rodamco",
+   "pct": "8.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Swiss Prime Site",
+   "pct": "7.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vonovia",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Segro (reit)",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Aedifica",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Merlin Properties Socimi Sa",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Warehouses De Pauw",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Klepierre",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tritax Big Box Reit Plc",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "British Land",
+   "pct": "3.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "28.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "21.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "14.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "11.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "10.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "6.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "4.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "2.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Logistique/industriel",
+   "pct": "24.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Magasins",
+   "pct": "23.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bureaux",
+   "pct": "18.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Résidentiel",
+   "pct": "13.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "7.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "6.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Self Storage",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Student Housing",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "0.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "53.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre sterling",
+   "pct": "29.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Franc suisse",
+   "pct": "10.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne suédoise",
+   "pct": "6.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "0.0"
+  }
+ ]
+}

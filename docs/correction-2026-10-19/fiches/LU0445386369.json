@@ -1,0 +1,124 @@
+{
+ "n": "731",
+ "isin": "LU0445386369",
+ "nom": "NORDEA 1 - ALPHA 10 MA BP EUR",
+ "maison": "Nordea Investment Funds S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-20",
+ "date_creation": "2009-09-30",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (performance absolue)",
+ "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "Multi Assets Team",
+ "encours_millions": "2131.45",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.70",
+ "frais_courants": "2.00",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "3.92",
+ "qualite_emetteurs": "AA+",
+ "disclaimer": "Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi. La valeur de votre investissement peut évoluer à la hausse comme à la baisse, et vous pourriez perdre une partie ou la totalité du capital que vous avez investi.",
+ "politique_fr": "Objectif d'investissement\nLe fonds vise à générer un rendement annualisé de +5% à 7% (brut de frais) supérieur au taux sans risque sur un cycle d'investissement complet, avec une volatilité annualisée comprise entre 7% et 10%. Le fonds a recours à de nombreuses stratégies d'investissement à faible corrélation afin d'offrir une exposition dynamique à diverses classes d'actifs, au sein d'un univers composé d'un sous-ensemble d'actions, d'obligations et de devises. Le fonds mettra en oeuvre les différentes stratégies via des arbitrages (pair trades), combinant une position longue compensée par une position courte, au sein de différentes classes d'actifs. Dans le temps, le fonds vise à construire un portefeuille neutre par rapport au marché. Il offre ainsi aux investisseurs un portefeuille hautement diversifié avec un niveau élevé de protection contre le risque baissier (cible une volatilité ex-ante de 10%). Géré activement sans référence ni contraintes par rapport à son indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 2114.82 → 2131.45 (« Encours sous gestion (Million EUR) 2 131,45 », fonds, factsheet 30/09/2026 ; part BP-EUR : 210,49) ; duration 4.66 → 3.92 (« Duration effective 3,92 ») ; indice « EURIBOR 1M » → vide (KID : « L’indice de référence est utilisé uniquement à des fins de comparaison des performances ») ; compartiment et disclaimer refaits depuis le KID et la factsheet ; politique complétée. Date de création : « Date de lancement 30/09/2009 » (part et fonds). Frais : factsheet « Frais de gestion 1,70 % », « Frais courants (2025) 2,00% » ; KID « Frais de gestion et autres frais administratifs et d’exploitation 2.00% ». SRI : KID « SRI=4 ». Qualité : « Notation moyenne AA+ ». SFDR article 6. Classification Dynamique conservée (multi-actifs performance absolue, levier élevé, SRI 4). Allocations : 10 principales positions (pondérations des dérivés en notionnel) et exposition par classe d’actifs, colonne « Net » ; la répartition géographique (libellés « Europe » et « Autres » en double sous Marchés développés / Pays émergents) n’est pas reprise ; les répartitions sectorielles, par devise et par notation sont des graphiques sans texte extractible.",
+ "factsheet_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0445386369/LU0445386369__KID_FR_2026-05-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "US 10YR NOTE (CBT)12/2026",
+   "pct": "31.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ITRAXX-XOVERS46V1-5Y",
+   "pct": "19.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CFD Naspers",
+   "pct": "18.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "S&P500 EMINI FUT 12/2026",
+   "pct": "13.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FX forward AUD",
+   "pct": "12.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EURO-BUND FUTURE 12/2026",
+   "pct": "11.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DJIA MINI e-CBOT 12/2026",
+   "pct": "11.45"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FX forward GBP",
+   "pct": "11.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Euro-OAT Future 12/2026",
+   "pct": "11.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMSTERDAM IDX FUT 10/2026",
+   "pct": "8.94"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "33.10"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "120.54"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fx Forward",
+   "pct": "-41.43"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités nettes",
+   "pct": "27.88"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "n": "530",
+ "isin": "LU2612531785",
+ "nom": "FFG - BLI AMERICAN IMPACT EQUITIES R USD",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-10",
+ "date_creation": "2023-06-15",
+ "devise": "USD",
+ "type_fonds": "Actions américaines (impact)",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "",
+ "encours_millions": "20.79",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.1",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le Compartiment FFG – American Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur les marchés réglementés américains. Le compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OPC, en instruments du marché monétaire, en OPC monétaires ou équivalents, ainsi que dans des dépôts à terme et à vue (jusqu’à 20% des actifs nets pour ces derniers). Le Compartiment est géré activement sans référence à un indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 0.41 → 20.79 (« Actifs nets du fonds $ 20 786 434,07 » ; la part R : $ 413 419,71) ; gérant « Luc Bauler » retiré (la factsheet ne nomme que le gestionnaire BLI - Banque de Luxembourg Investments) ; indice « n/a » → Aucun (« géré activement sans référence à un indice ») ; % durable 86 retiré : la factsheet donne « Répartition des actifs durables : Environnement 37,6% / Social 37,4% » (75,0 %) alors que le minimum annoncé est de 80 % d'actifs durables, chiffre ambigu non retenu. Factsheet la plus récente : 31/08/2026 (aucune au 30/09/2026 trouvée). Attention : le PDF contient des couches de texte cachées d'autres parts/fonds (LU2612531868, LU1697917083…) ; les valeurs retenues sont celles visibles sur la page (vérifiées sur l'image) et présentes dans l'extraction brute. Date de création = « Lancement de la part 15/06/2023 ». Frais : factsheet « Frais de gestion et autres frais… 2,08% », « Dont Frais de Gestion (max.) 1,50% » ; KID « 2,1% ». SFDR article 9 (minimum 80 % d'actifs durables). Classification Agressif : actions américaines à thème impact. Allocations : secteurs (actions) et capitalisations lus sur l'image de la page 2.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "8.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Teradyne Inc",
+   "pct": "4.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Autodesk Inc",
+   "pct": "4.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Veeva Syst Inc",
+   "pct": "4.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Union Pacific Corp",
+   "pct": "4.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "West Pharmaceutical Serv Inc Reg",
+   "pct": "4.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Littelfuse Inc",
+   "pct": "3.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IDEXX Laboratories Inc",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Danaher Corp",
+   "pct": "3.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mastercard Inc A",
+   "pct": "3.77"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "30.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "32.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "35.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< $ 5 Md",
+   "pct": "5.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$ 5 - 25 Md",
+   "pct": "37.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "$ 25 - 200 Md",
+   "pct": "41.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">$ 200 Md",
+   "pct": "14.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531785/LU2612531785__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531785/LU2612531785__KID_FR_2026-02-10.pdf"
+}

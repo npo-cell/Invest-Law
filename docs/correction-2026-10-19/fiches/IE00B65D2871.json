@@ -1,0 +1,219 @@
+{
+ "n": "453",
+ "isin": "IE00B65D2871",
+ "nom": "COMGEST GROWTH EMERGING MARKETS R EUR",
+ "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-20",
+ "factsheet_fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B65D2871/IE00B65D2871__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B65D2871/IE00B65D2871__KID_FR_2026-03-20.pdf",
+ "date_creation": "2012-06-15",
+ "devise": "EUR",
+ "type_fonds": "Actions émergentes",
+ "compartiment": "Comgest Growth Emerging Markets, un compartiment de Comgest Growth plc (Société d'investissement à capital variable agréée par la Banque Centrale d'Irlande), est un Organisme de Placement Collectif en Valeurs Mobilières (OPCVM)",
+ "gerants": "",
+ "encours_millions": "141.3",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.00",
+ "frais_courants": "2.07",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Investir implique des risques dont la perte du capital initialement investi.",
+ "politique_fr": "POLITIQUE D'INVESTISSEMENT\nL’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés de croissance sur le long terme et de qualité. Le Fonds investira au moins deux tiers de ses actifs dans des titres émis par des sociétés cotées ou négociées sur des marchés réglementés et ayant leur siège social ou exerçant principalement leurs activités sur des marchés émergents ou dans des titres émis par des gouvernements de pays émergents. Les marchés émergents sont majoritairement situés en Afrique, Asie, Amérique latine, Europe de l'Est et du Sud.\nLe Fonds est géré de manière dynamique. L'indice est utilisé à des fins de comparaison.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création « 15/06/2012 » (détails du fonds, document propre à la part EUR R Acc) ; la factsheet précise que les données « depuis création » peuvent faire référence à la dernière date de lancement de la part. Devise de la part EUR, devise de base du fonds USD. Encours = « Actif total du fonds (toutes classes, millions) 141,3€ ». Gérants : aucun nom (« Equipe d'investissement : Approche collégiale »). Frais de gestion « 2,00% de l’actif net » (inclus dans les frais courants) ; frais courants = KID 2,07 % (identique à la factsheet) ; pas de commission de surperformance. Indice vide : « MSCI Emerging Markets - Net Return » fourni « à titre indicatif et a posteriori », « utilisé à des fins de comparaison ». SRI 4 (KID : « 4 sur 7 »). SFDR article 8 ; KID : proportion minimale de 15 % d’investissements durables (engagement minimal). Classification Agressif : actions des pays émergents. Disclaimer : deux phrases de la factsheet (p.1 et rubrique Risques p.2). Politique : bloc « Politique d’investissement » p.1 sans la phrase sur les investisseurs visés. Allocations : colonne Fonds uniquement ; lignes « -- » non reprises ; « [Cash] » repris tel quel ; seules 5 principales positions publiées ; pays = « 10 principaux pays » ; devises = « 10 principales devises » (devise de valorisation des positions). Corrigé (factsheet 30/09/2026) : SRI 6 → 4 ; indice MSCI Emerging Markets Daily Net TR EUR → (vide) ; classification (vide) → Agressif ; SFDR (vide) → 8.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "factsheet p.4",
+  "encours_millions": "factsheet p.3",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing",
+   "pct": "9.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK hynix",
+   "pct": "9.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "8.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Delta Electronics",
+   "pct": "6.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASPEED Technology",
+   "pct": "6.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "45.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "22.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. cyclique",
+   "pct": "9.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de com.",
+   "pct": "7.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. non cyclique",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "[Cash]",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "1.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "27.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée",
+   "pct": "18.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "13.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "11.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "10.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du Sud",
+   "pct": "7.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Argentine",
+   "pct": "2.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "2.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Vietnam",
+   "pct": "2.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "[Cash]",
+   "pct": "1.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Turquie",
+   "pct": "1.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "TWD",
+   "pct": "27.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "KRW",
+   "pct": "18.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "11.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "INR",
+   "pct": "9.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "BRL",
+   "pct": "8.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "8.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "ZAR",
+   "pct": "7.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CNY",
+   "pct": "4.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "VND",
+   "pct": "2.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "TRY",
+   "pct": "1.0"
+  }
+ ]
+}

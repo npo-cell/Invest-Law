@@ -1,0 +1,187 @@
+{
+ "n": "664",
+ "isin": "LU0864714000",
+ "nom": "LAIQON ABSOLUTE RETURN MULTI ASSET A EUR",
+ "maison": "LAIQON",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2013-04-29",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible (rendement absolu)",
+ "compartiment": "un compartiment du fonds MainFirst, SICAV (Société d'Investissement à Capital Variable), société anonyme",
+ "gerants": "Global Growth Team",
+ "encours_millions": "65",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.07",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not an indicator of future performance, which cannot be predicted.",
+ "politique_fr": "Objectif d'investissement\n\nL'objectif de la stratégie de placement du compartiment est de générer un résultat positif des placements à long terme de plus de 5 % par an. Le compartiment bénéficie d'une gestion active. Le gestionnaire du fonds compose le portefeuille exclusivement selon les critères définis dans les objectifs d'investissement / la politique d'investissement, qu'il prend ensuite soin de contrôler régulièrement et d'ajuster, le cas échéant. Le compartiment n'est pas géré en utilisant un indice comme base de référence. Le compartiment est un fonds mixte.\n\nPolitique d'investissement\n\nLa part des actions dans les actifs du compartiment sera toujours d'au moins 25 % (brut). Lors de l'acquisition d'actions, le fonds a la possibilité d'acquérir des actions A chinoises éligibles par le biais du programme Shanghai and Shenzhen Hong Kong Stock Connect (« SHSC »). L'utilisation du programme SHSC constitue une possibilité d'investissement supplémentaire pour le fonds. Pour les investissements de taux, la sélection des émetteurs relève de la responsabilité du gestionnaire d'investissement et n'est pas soumise à une notation minimale par une agence de notation, ce qui permet d'acquérir des obligations non notées. En outre, dans le cadre de la politique d'investissement, le compartiment peut investir jusqu'à 10 % de son actif dans des parts de fonds (OPCVM et/ou OPC), quelle que soit leur forme juridique, soumis à une surveillance équivalente à celle de la CSSF. Le compartiment est donc éligible en tant que fonds cible au sens de l'article 41 (1) e) de la loi de 2010. Ce compartiment relève de l'article 8 du règlement (UE) 2019/2088 ainsi que de l'article 6 du règlement (UE) 2020/852 (taxinomie de l'UE). MainFirst Holding AG (société de gestion du Compartiment) a signé les Principes pour l'Investissement Responsable (UN PRI - United Nations-supported Principles for Responsible Investment). La stratégie en matière de durabilité du compartiment vise à présenter un profil de risque ESG équivalent à, ou meilleur que, celui de l'indice de référence, en moyenne. Des informations détaillées sur les principes d'investissement responsable de la société de gestion ainsi que le détail des agences de notation de développement durable employées sont disponibles sur www.ethenea.com.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Nouvelle factsheet : « MF - Absolute Return Multi Asset - A » au 30/09/2026 (anglais, pas de version française), téléchargée sur laiqon.com et rangée dans INVESTLAW. Corrigé : encours 67 → 65 M EUR (« Fund volume 65 Mio. EUR » ; « Strategy volume 608 Mio. EUR ») ; indice « 5% p.a. » → « Aucun » (KID : « Le compartiment n'est pas géré en utilisant un indice comme base de référence » ; la factsheet affiche « Benchmark 5% », l'objectif étant un résultat de plus de 5 % par an) ; gérant « LAIQON Asset Management GmbH » (société, non admise) remplacé par le nom d'équipe « Global Growth Team » (factsheet ; Frank Schwarz et Adrian Daniel y sont cités comme fondateurs de l'équipe) ; politique reprise du KID (la factsheet n'a qu'une « Investment Philosophy » commerciale en anglais) ; catégorie vidée. Date de création = « Inception of Fund 29.04.2013 » (date du fonds ; date de la part A non précisée). Frais : « Management Fee 1.50% », « Ongoing Charges [TER] 2.07% » (factsheet) = KID « Frais de gestion et autres frais administratifs et d’exploitation 2,07% » ; commission de performance max. 15 % (high watermark). SFDR article 8 (factsheet et KID). Classification Equilibré : fonds mixte, actions nettes 47.01 %, SRI 3. Allocations au 30/09/2026 ; répartition par devise (graphique sans chiffres) et thèmes d'investissement non repris ; positions = 5 principales actions et 5 principales obligations ; secteurs = poche actions. « Aucun » pour l'indice suit la convention de la consigne (écart du contrôle attendu).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet",
+  "politique_fr": "KID p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FUJIKURA LTD",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMIC-ADR",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PAN AMER SILVER",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "2.875% LOREAL SA",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "2.541% CATERPILLAR FINL",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "2.950% ORACLE CORP",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "3.875% CHILE",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "2.875% ALPHABET INC",
+   "pct": "1.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Stocks (net)",
+   "pct": "47.01"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bonds",
+   "pct": "33.89"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Commodity",
+   "pct": "14.30"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "4.80"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technology",
+   "pct": "12.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "12.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "10.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "4.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "2.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "1.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "27.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "7.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "6.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "5.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Korea",
+   "pct": "4.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other",
+   "pct": "29.5"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAIQON/LU0864714000/LU0864714000__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAIQON/LU0864714000/LU0864714000__KID_FR_2026-04-16.pdf"
+}

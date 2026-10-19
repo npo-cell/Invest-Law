@@ -1,0 +1,189 @@
+{
+ "n": "842",
+ "isin": "LU2434354473",
+ "nom": "TRIODOS FUTURE GENERATIONS FUND R EUR",
+ "maison": "Triodos Investment Management B.V.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-11",
+ "date_creation": "2022-04-04",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques (impact, petites et moyennes capitalisations)",
+ "compartiment": "Compartiment de Triodos SICAV I, sicav de droit luxembourgeois",
+ "gerants": "Sjoerd Rozing",
+ "encours_millions": "128.766014",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.85",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements indiqués ci-dessus concernent les années précédentes et ne constituent pas une indication fiable des performances futures.",
+ "politique_fr": "Le fonds vise à accroître la valeur de votre investissement à long terme, tout en cherchant à maximiser l'impact positif sur la société et l'environnement. Le fonds a pour objectif l'investissement durable, comme le stipule l'article 9 du SFDR. Le fonds investit principalement dans des actions de sociétés dont les produits et services contribuent à au moins une des transitions suivantes (telles que définies par Triodos): transition des ressources, transition énergétique, transition alimentaire, transition sociétale ou transition du bien-être. Le fonds se concentre particulièrement sur le bien-être des enfants à travers le monde, comme la santé et la survie des enfants, l'accès à l'éducation et la protection contre la violence et l'exploitation.\n\nLes émetteurs qui ne respectent pas les normes de durabilité de Triodos sont exclus des investissements. Le rendement du fonds est déterminé d'une part par le revenu des dividendes provenant des investissements diminué des coûts de gestion du fonds, et d'autre part par les variations de cours des investissements y compris les effets de change. Le rendement du fonds dépend dans une large mesure de l'évolution des devises et des mouvements du marché. Le fonds est géré activement. Il compare ses rendements à ceux de l’indice de référence MSCI World Impact ESG Select Children's Rights, qu’il n’a pas pour objectif de reproduire ni de surperformer. Le fonds peut s’écarter de l’indice de référence car il n’investit que dans des sociétés répondant à des critères de durabilité stricts.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet française « R-cap | Fiche d’information septembre 2026 ». Date de création = « Date d’introduction 4/04/2022 ». Encours « Actif du compartiment, situation fin septembre 2026 EUR 128 766 014 » (converti en millions). Frais : factsheet et KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,85 % → frais courants ; pas de frais de gestion séparés. Indice vide : le fonds « compare ses rendements » à « MSCI World Impact ESG Select Children's Rights », « qu’il n’a pas pour objectif de reproduire ni de surperformer ». Le tableau de rendement compare le fonds au « Bloomberg Developed markets Mid & Small Cap Index » (indice du classeur), différent de l'indice cité dans la politique. SFDR article 9 (factsheet et KID), aucun % d'investissements durables écrit. Classification Dynamique : actions monde (petites et moyennes capitalisations) à impact, diversifiées par secteur, SRI 3 (One Life : Equilibré). Corrigé : encours 129.78 → 128.766014 (factsheet 30/09/2026) ; frais de gestion 1.6 → vide (non écrit dans la factsheet française ni le KID) ; indice → vide (comparaison seulement) ; classification Equilibré → Dynamique ; politique du site (rédigée) → texte de la factsheet ; politique EN supprimée.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "HELIOS TOWER",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ZURN ELKAY WATER",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SIG GROUP AG",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FAGRON",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MILLICOM INTL",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SABESP",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RELIANCE WORLDWI",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COOPER COS INC",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MUELLER WATER-A",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GENUIT GROUP PLC",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "25.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "20.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bien de consommation essentiels",
+   "pct": "13.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "11.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services collectifs",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "39.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "9.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "7.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "5.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brazil",
+   "pct": "3.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres pays",
+   "pct": "20.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU2434354473/LU2434354473__KID_FR_2026-04-11.pdf"
+}

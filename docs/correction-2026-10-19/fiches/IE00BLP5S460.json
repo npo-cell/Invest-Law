@@ -1,0 +1,167 @@
+{
+ "n": "656",
+ "isin": "IE00BLP5S460",
+ "nom": "JUPITER MERIAN GLOBAL EQUITY ABS RETURN L EUR",
+ "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2011-11-24",
+ "devise": "EUR",
+ "type_fonds": "Actions rendement absolu (market neutral)",
+ "compartiment": "UN COMPARTIMENT DE JUPITER ASSET MANAGEMENT SERIES PLC",
+ "gerants": "The Systematic Equities Team",
+ "encours_millions": "11929",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.55",
+ "sri": "2",
+ "indice": "ECB Main Refinancing Operations Rate",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. Le rendement peut augmenter ou baisser sous l’effet des fluctuations de taux de change. Les données de performance présentées ne tiennent pas compte des commissions et frais sur l’émission et le rachat de parts.",
+ "politique_fr": "Croissance du capital, avec un contrôle rigoureux du risque. Le Fonds visera un rendement absolu (performance supérieure à zéro, quelles que soient les conditions de marché) sur des périodes glissantes de 12 mois. Pour atteindre son objectif d'investissement, le fonds vise à générer un rendement, net de frais, au-delà du taux effectif des fonds fédéraux des États-Unis à 1 jour sur des fenêtres glissantes de 3 ans. À des fins de mesure de la performance, l’indice des liquidités sera différent pour les catégories non libellées dans la devise de base. Le fonds cherche également à atteindre son objectif dans une limite de volatilité annualisée de 6 %. Le Fonds investira au minimum 51 % de ses actifs en actions de sociétés et en investissements similaires, cotés ou situés partout dans le monde.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 10845 → 11929 M EUR (« Encours: EUR 11,929m », factsheet 30/09/2026, virgule lue comme séparateur des milliers ; encours du fonds exprimé en EUR, devise de base USD) ; catégorie vidée. Part « L EUR ACC HSC » (couverte en EUR) ; date de création = lancement de la catégorie d'actions (24.11.2011), fonds lancé le 30.06.2009. Frais de gestion : « Commission annuelle de gestion (max.) 1,50% » ; frais courants 1,55 % (KID « Frais de gestion et autres frais administratifs et d’exploitation » et factsheet) ; commission de surperformance 20,00 % (factsheet). SFDR article 8 (factsheet). Gérant : nom d'équipe « The Systematic Equities Team ». Indice : « Objectif de l'Indice de référence » propre à la catégorie (mesure de la performance ; l'objectif vise un rendement au-delà d'un taux de liquidités). Classification Défensif : fonds actions market neutral à rendement absolu, SRI 2, exposition nette -1.6 %. Allocations au 30/09/2026 : 5 principaux titres longs ; secteurs et régions = colonne « Longue » seulement (colonne « Court » : total -96,0 ; espèces 101,6 % côté long ; total long 196,0) ; les cinq principaux titres à découvert ne sont donnés que par industrie (Finance, Biens de consommation de base, Finance, Industrie, Industrie, -1,0 chacun), non repris.",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Asml Holding",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Barclays Plc",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Adobe Inc",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DBS Group Holdings Ltd",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Comcast Class A",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "16.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "14.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Informatique",
+   "pct": "14.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "14.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "10.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Espèces",
+   "pct": "101.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés continent américain",
+   "pct": "30.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Asie",
+   "pct": "24.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Europe et Moyen-Orient",
+   "pct": "20.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés développés Pacifique",
+   "pct": "16.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents Europe, Moyen-Orient et Afrique",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents continent américain",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espèces",
+   "pct": "101.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S460/IE00BLP5S460__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S460/IE00BLP5S460__KID_FR_2026-02-19.pdf"
+}

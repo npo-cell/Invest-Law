@@ -1,0 +1,101 @@
+{
+ "n": "787",
+ "isin": "FR0010035592",
+ "nom": "R-CO OPAL 4CHANGE SUSTAINABLE TRENDS C EUR",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-02",
+ "date_creation": "2004-01-05",
+ "devise": "EUR",
+ "type_fonds": "Fonds de fonds actions internationales (thématiques durables)",
+ "compartiment": "OPCVM, constitué sous la forme d’un Fonds Commun de Placement (FCP)",
+ "gerants": "Thomas AYACHE, Marc TERRAS",
+ "encours_millions": "46.07",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.00",
+ "frais_courants": "2.34",
+ "sri": "3",
+ "indice": "MSCI World NTR EUR",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "R-co OPAL 4Change Sustainable Trends a pour objectif de gestion, sur une durée de placement recommandée de 5 ans minimum, d’obtenir une performance nette de frais supérieure à celle de l’indicateur de référence, le MSCI Daily TR Net World en euro, dividendes nets réinvestis, en investissant dans des OPC (y compris les OPC cotés / ETF) exposés aux tendances structurelles liées au développement durable que sont la transition énergétique, la gestion des ressources naturelles et le développement humain, et sélectionnés dans le cadre d’un processus d’investissement prenant en compte les critères environnementaux, sociaux et de gouvernance.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds renommé : les documents s'intitulent « R-co OPAL 4Change Global Trends C EUR » (nom One Life « R-CO OPAL 4CHANGE SUSTAINABLE TRENDS C EUR » ; la stratégie de la factsheet emploie encore « R-co OPAL 4Change Sustainable Trends »). Classification AMF « Actions internationales », fonds de fonds. Date de création = « Date de création 05/01/2004 » (« Date 1ère VL 06/01/2004 »). Encours « Actifs sous gestion 46,07 M€ ». Frais de gestion = « Frais de gestion financière 2,00% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 2,34 % (factsheet : « Frais courants ex-post 2,47% »). Indice = factsheet « Indice de référence MSCI World NTR EUR » (KID : « MSCI Daily TR Net World en euro, dividendes nets réinvestis »), indicateur de l'objectif de performance. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Dynamique : fonds de fonds actions monde (99,9 % actions) multi-thématique, SRI 3 (One Life : Equilibré). Allocations : classes d'actifs, promoteurs, stratégies et pays = graphiques en image non lisibles dans le texte du PDF → non repris ; seules les 10 principales positions sont reprises. Corrigé : encours 46.99 → 46.07 (factsheet 30/09/2026) ; frais courants 2.47 → 2.34 (KID 02/07/2026) ; compartiment « R-co OPAL 4Change Global Trends (FCP de droit français) » → forme juridique du KID ; indice « MSCI World Index (Total Return Net) » → libellé de la factsheet ; classification Equilibré → Dynamique ; politique complétée (texte intégral de la factsheet).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.4",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.4",
+  "sfdr": "KID p.3",
+  "disclaimer": "factsheet p.6",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Bnp Easy Lw Carbon Eur Pab",
+   "pct": "15.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dpam B-eq Eu Sm Caps Sus-f",
+   "pct": "12.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sus Euro Ml Fact Eq-i",
+   "pct": "11.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnp Paribas Aqua-i",
+   "pct": "10.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Robeco Sstnble Prop Eq-i Eur",
+   "pct": "8.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "M&g Lux Positv Impact-eurcia",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "R-co Valor 4Change Global Equity NI EUR",
+   "pct": "8.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bnp Green Tigers-i Plus Capi",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Pictet-timber-ie",
+   "pct": "5.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dpam B Eq Sustble Food Trd-f",
+   "pct": "4.8"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010035592/FR0010035592__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010035592/FR0010035592__KID_FR_2026-07-02.pdf"
+}

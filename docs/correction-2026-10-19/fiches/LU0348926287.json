@@ -1,0 +1,102 @@
+{
+ "n": "733",
+ "isin": "LU0348926287",
+ "nom": "NORDEA 1 - GLOBAL CLIMATE & ENVIRONMENT BP EUR",
+ "maison": "Nordea Investment Funds S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-20",
+ "date_creation": "2008-03-13",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (climat et environnement)",
+ "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "Fundamental Equities Team",
+ "encours_millions": "7981.65",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.80",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi. La valeur de votre investissement peut évoluer à la hausse comme à la baisse, et vous pourriez perdre une partie ou la totalité du capital que vous avez investi.",
+ "politique_fr": "Objectif d'investissement\nDans le cadre de la gestion active du portefeuille du fonds, l'équipe de gestion cible les sociétés qui développent des solutions respectueuses du climat et de l'environnement, notamment les énergies renouvelables et la bonne utilisation des ressources par le biais de leurs produits et services, et qui semblent offrir des perspectives de croissance et des caractéristiques d'investissement supérieures. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 7859.79 → 7981.65 (« Encours sous gestion (Million EUR) 7 981,65 », fonds, factsheet 30/09/2026 ; part BP-EUR : 3 078,21) ; indice « MSCI World Index (Total Return Net) » → vide (KID : « L'indice de référence est utilisé uniquement à des fins de comparaison des performances » ; indice cité : MSCI World (Net Return)) ; compartiment et disclaimer refaits depuis le KID et la factsheet ; politique complétée ; classification Dynamique → Agressif (actions thématiques climat/environnement, comme la part BI du même fonds, SRI 4). Date de création : « Date de lancement 13/03/2008 » (part et fonds). Frais : factsheet « Frais de gestion 1,50 % », « Frais courants (2025) 1,80% » ; KID 1.80%. SRI : KID « SRI=4 ». SFDR article 9 ; « au moins 85 % dans des investissements durables » (engagement minimal, aucun % effectif écrit) ; label Towards Sustainability. Allocations : seules les 10 principales positions sont reprises ; les répartitions sectorielle, géographique, par devise, par capitalisation et l’allocation d’actifs sont des graphiques sans texte extractible.",
+ "factsheet_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0348926287/LU0348926287__KID_FR_2026-05-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Waste Management",
+   "pct": "3.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom",
+   "pct": "3.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Republic Services",
+   "pct": "3.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Advanced Micro Devices",
+   "pct": "3.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GFL Environmental",
+   "pct": "3.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASM International",
+   "pct": "3.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Agilent Technologies",
+   "pct": "2.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NextEra Energy",
+   "pct": "2.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide",
+   "pct": "2.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Westinghouse Air Brake Technologies",
+   "pct": "2.48"
+  }
+ ]
+}

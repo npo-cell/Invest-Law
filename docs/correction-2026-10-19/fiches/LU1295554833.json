@@ -1,0 +1,193 @@
+{
+ "n": "58",
+ "isin": "LU1295554833",
+ "nom": "(I/C)CAPITAL GROUP NEW PERSPECTIVE FUND Z EUR",
+ "maison": "Capital Group",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-05",
+ "date_creation": "2015-10-30",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Compartiment de la SICAV Capital International Fund, qui est gérée par Capital International Management Company Sàrl",
+ "gerants": "Aline Avzaradel, Andraz Razen, Anne-Marie Peterson, Barbara Burtin, Brady Enright, Kohei Higashi, Noriko Chen, Patrice Collette, Rob Lovelace, Steven Watson",
+ "encours_millions": "16923",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "0.84",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des résultats futurs.",
+ "politique_fr": "Objectif\nLe principal objectif d'investissement du fonds consiste à atteindre une croissance à long terme du capital en investissant dans des actions ordinaires de sociétés du monde entier. Dans le cadre de son objectif d'investissement principal, le fonds investit essentiellement dans des actions ordinaires dont le conseiller en investissement estime qu'elles présentent un potentiel de croissance. Dans le cadre de son objectif secondaire, le fonds investit dans des actions ordinaires de sociétés qui présentent un potentiel de versement de dividendes à l'avenir.Les investisseurs peuvent acheter et vendre des actions du fonds quotidiennement. Ce fonds est susceptible de ne convenir qu’aux investissements à long terme.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 17256 → 16923 ; encours_date 2026-08-31 → 2026-09-30. Factsheet belge (EUR, au 30 septembre 2026). Date de création = « Date de lancement 30/10/2015 » de la classe Z (Acc) (= « Date de lancement du fonds 30 octobre 2015 »). Encours « Taille du fonds €16.923 millions » (lu 16 923 millions d'EUR, le point servant de séparateur de milliers) ; devise de référence du fonds USD. Frais de gestion = « Frais de gestion p.a. 0,75% » ; frais courants = KID 0.84 % (= « Frais Courants 0,84% » factsheet). Indice laissé vide : MSCI AC World Index with net dividends affiché, mais « Les informations relatives à l'index sont fournies uniquement à des fins de contexte et d'illustration. Le fonds est un OPCVM géré activement. Il n'est pas géré en référence à un repère. » SFDR 8 : le KID vise les investisseurs recherchant la prise en compte des critères ESG « au sens de l'Article 8 du SFDR » (pas de classification SFDR dans la factsheet). Politique : bloc « Objectif » de la factsheet (sans « L'approche de Capital Group »), y compris l'espace manquant du document (« à l'avenir.Les investisseurs »). Allocations : colonne Fonds uniquement (régions, secteurs, dix premières positions).",
+ "factsheet_fichier": "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__KID_FR_2026-10-05.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.3",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tesla Inc",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK hynix",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eli Lilly",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "12.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discrétionnaire",
+   "pct": "10.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "10.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'info.",
+   "pct": "32.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "10.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "3.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "L'Amérique du Nord",
+   "pct": "57.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "22.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "10.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "4.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique hors Japon",
+   "pct": "1.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités et équivalents",
+   "pct": "3.0"
+  }
+ ]
+}

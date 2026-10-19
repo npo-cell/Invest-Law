@@ -1,0 +1,187 @@
+{
+ "n": "710",
+ "isin": "LU1900799617",
+ "nom": "M&G (LUX) SUSTAINABLE ALLOCATION FUND EUR",
+ "maison": "M&G Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-16",
+ "date_creation": "2018-12-04",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs durable",
+ "compartiment": "un compartiment de la SICAV de M&G (Lux) Investment Funds 1",
+ "gerants": "Maria Municchi",
+ "encours_millions": "230.67",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.84",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "4.65",
+ "qualite_emetteurs": "AA",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le fonds vise à générer à la fois une croissance du capital et un revenu de 4 à 8 % par an sur une période de cinq ans, tout en contribuant à une économie durable en investissant dans des actifs soutenant des objectifs environnementaux et/ou sociaux, et en particulier en matière d’atténuation du changement climatique. Le fonds investit généralement 20 à 80 % de ses actifs dans des obligations, 20 à 60 % dans des actions de sociétés et 0 à 20 % dans d’autres actifs. La plupart du temps, 20 à 50 % du fonds est investi dans des entreprises qui produisent un impact positif sur la société en relevant les grands défis sociaux et environnementaux. L’approche combine la recherche pour déterminer la « juste valeur » des actifs sur le long terme avec l’analyse des fondamentaux économiques et des réactions à court terme du marché face aux événements, afin d’identifier des opportunités. Rien ne garantit que le fonds obtiendra un rendement positif sur une période quelconque. Les investisseurs sont susceptibles de ne pas récupérer les fonds initialement investis. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et un résultat ESG positif, en plus de sa stratégie d’investissement durable utilisée pour atteindre l’objectif d’investissement durable, tel que décrit dans le prospectus. La période de détention recommandée pour ce fonds est de cinq ans. Dans des conditions de marché normales, l’effet de levier moyen attendu du fonds, à savoir dans quelle mesure il peut augmenter sa position d’investissement en empruntant de l’argent ou en utilisant des instruments dérivés, représente 100 % de sa valeur liquidative.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : type_fonds remplacé (texte des documents) ; compartiment remplacé (texte des documents) ; gerants « Maria Municchi (depuis le 29/11/2018) » → « Maria Municchi » ; encours « 235.71 » → « 230.67 » ; frais_gestion « 1.81 » vidé ; frais_courants « 1.81 » → « 1.84 » ; categorie « Mixed Asset Global Balanced » vidé ; qualite « AA (notation moyenne) ; YTM 2,48% ; YTW 2,47% ; 131 positions » → « AA » ; disclaimer remplacé (texte des documents) ; politique_fr remplacé (texte des documents). SFDR article 9 (fonds durable). Politique = « Description du fonds » de la factsheet. Indice « Aucun » : « Indice de référence None » (factsheet) ; le fonds « n’a pas d’indice de référence » (« Aucun » : convention de la consigne). Duration = « Duration modifiée (années) 4,65 » ; qualité = « Notation moyenne de crédit AA ». Classification Equilibré : multi-actifs, actions 45.9 % en exposition nette, SRI 3. Allocations au 30/09/2026 : classes d'actifs = lignes principales, exposition nette (sans le détail par région) ; positions = expositions principales (hors liquidités, dérivés compris). Encours = « Encours du fonds (millions) € 230,67 » ; date de création = « Lancement de la catégorie de part 04 décembre 2018 » (fonds : 29 novembre 2018). Frais courants : KID « Frais de gestion et autres frais administratifs et d’exploitation 1,84% » (factsheet : « Frais de gestion et autres commissions 1,81% ») ; pas de frais de gestion séparés. SRI 3 (KID). SFDR article 9 (factsheet ; KID : 9).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet (Informations importantes)",
+  "gerants": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Action",
+   "pct": "45.9"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts d'État",
+   "pct": "31.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'entreprise",
+   "pct": "14.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations convertibles",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Infrastructures",
+   "pct": "3.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Equity",
+   "pct": "20.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Supranational Fixed",
+   "pct": "9.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US Government 30Y",
+   "pct": "7.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Germany Government 30Y",
+   "pct": "5.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UK Government 30Y",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Japan Equity",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Germany Equity",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UK Government 10Y",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Germany Government 10Y",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UK Equity",
+   "pct": "3.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "72.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "13.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "4.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Réal brésilien",
+   "pct": "3.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso mexicain",
+   "pct": "2.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso colombien",
+   "pct": "1.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indonésienne",
+   "pct": "0.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "0.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Rand sud-africain",
+   "pct": "0.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "0.4"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1900799617/LU1900799617__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1900799617/LU1900799617__KID_FR_2026-02-16.pdf"
+}

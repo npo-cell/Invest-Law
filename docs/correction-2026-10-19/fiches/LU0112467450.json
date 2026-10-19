@@ -1,0 +1,102 @@
+{
+ "n": "738",
+ "isin": "LU0112467450",
+ "nom": "NORDEA 1 GLOBAL STABLE EQUITY BP EUR",
+ "maison": "Nordea Investment Funds S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-09",
+ "date_creation": "2006-01-02",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "Stable Equities / Multi Assets Team",
+ "encours_millions": "1076.26",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.80",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi. La valeur de votre investissement peut évoluer à la hausse comme à la baisse, et vous pourriez perdre une partie ou la totalité du capital que vous avez investi.",
+ "politique_fr": "Objectif d'investissement\nLe processus de construction de portefeuille du fonds est unique. En effet, son objectif est d'identifier des actions « peu attrayantes » générant un rendement stable à partir d'un modèle quantitatif qui permet de filtrer les valeurs. Ce processus privilégiera les sociétés appartenant à des secteurs d'activité établis et générant de manière récurrente des bénéfices, des dividendes, des flux de trésorerie, etc., relativement stables. Cette stabilité permet de réduire la volatilité des cours de ces sociétés, et leur confère un degré de risque moindre que le marché dans son ensemble. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : SRI 3 → 4 (KID 09/10/2026 « SRI=4 ») ; encours 1110.11 → 1076.26 (« Encours sous gestion (Million EUR) 1 076,26 », fonds, factsheet 30/09/2026 ; part BP-EUR : 314,77) ; indice → vide (KID : « L'indice de référence est utilisé uniquement à des fins de comparaison des performances » ; indice cité : 70% MSCI World (Net Return) et 30% EURIBOR 1M ; MSCI World et MSCI World Minimum Volatility « à des fins de comparaison des risques uniquement ») ; compartiment et disclaimer refaits depuis le KID et la factsheet ; politique complétée ; classification Equilibré → Dynamique (fonds 100 % actions mondiales à faible volatilité, SRI 4, comme la part BI du même fonds). Date de création : « Date de lancement 02/01/2006 » (part et fonds). Frais : factsheet « Frais de gestion 1,50 % », « Frais courants (2025) 1,80% » ; KID 1.80%. SFDR article 8, aucun % durable écrit. Allocations : seules les 10 principales positions sont reprises ; les répartitions de la p.2 sont des graphiques sans texte extractible.",
+ "factsheet_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0112467450/LU0112467450__KID_FR_2026-10-09.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "3.46"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Deutsche Telekom",
+   "pct": "3.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sanofi",
+   "pct": "3.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cigna Group/The",
+   "pct": "2.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Labcorp Holdings",
+   "pct": "2.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vinci",
+   "pct": "2.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Coca-Cola",
+   "pct": "2.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Verizon Communications",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CVS Health",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kroger",
+   "pct": "2.04"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "n": "726",
+ "isin": "LU0552385295",
+ "nom": "MORGAN STANLEY GLOBAL OPPORTUNITY A USD",
+ "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-21",
+ "date_creation": "2010-11-30",
+ "devise": "USD",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Un compartiment de Morgan Stanley Investment Funds",
+ "gerants": "Kristian Heugh",
+ "encours_millions": "11600",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.60",
+ "frais_courants": "1.83",
+ "sri": "5",
+ "indice": "MSCI All Country World Net Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs. La valeur des investissements et les revenus qui en découlent peuvent baisser ou augmenter et un investisseur peut ne pas récupérer le montant investi.",
+ "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nLe portefeuille vise l'appréciation du capital sur le long terme en investissant à l'échelle mondiale dans des sociétés établies et émergentes de qualité supérieure que l'équipe d'investissement juge sous-valorisées au moment de leur achat. Pour atteindre son objectif, l'équipe d'investissement privilégie généralement les entreprises qu'elle estime avoir des avantages concurrentiels durables qui peuvent prendre de la valeur en phase de croissance. Le processus d'investissement prévoit une analyse de la durabilité à partir de plusieurs critères dont les ruptures technologiques, la solidité financière, les facteurs environnementaux et sociaux et la gouvernance (approche ESG).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 12200 → 11600 (« Total de l’actif $ 11,6 milliard(s) », factsheet 30/09/2026) ; disclaimer remplacé par celui de la factsheet (la 2e phrase venait du KID) ; politique complétée (texte entier de la factsheet). Date de création : « Date de lancement 30 Novembre 2010 » (part A, identique au lancement du fonds). Frais : factsheet « Frais de gestion 1,60 », « Frais courants 1,83 » ; KID « Frais de gestion et autres frais administratifs et d’exploitation 1.83 % ». Indice : KID « La performance du fonds sera mesurée par rapport à l’indice MSCI All Country World Net » (mesure de performance → retenu) ; nom de la factsheet. SFDR article 8, aucun % durable écrit. Classification Agressif conservée (portefeuille concentré de croissance, 33 positions, SRI 5). Allocations : colonne « Fonds » seulement ; secteurs à « -- » pour le fonds non repris.",
+ "factsheet_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0552385295/LU0552385295__KID_FR_2026-07-21.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SK hynix Inc.",
+   "pct": "10.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Mfg Co. Ltd",
+   "pct": "8.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms Inc",
+   "pct": "6.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spotify Technology S.A.",
+   "pct": "6.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "5.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co. Ltd",
+   "pct": "4.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Uber Technologies Inc",
+   "pct": "4.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hermès International S.A.",
+   "pct": "3.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DoorDash Inc",
+   "pct": "3.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MercadoLibre Inc",
+   "pct": "3.40"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "39.34"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique",
+   "pct": "30.25"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe (zone EURO)",
+   "pct": "13.05"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe (hors zone EURO)",
+   "pct": "9.04"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Sud",
+   "pct": "2.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Sous-continent indien",
+   "pct": "2.50"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "1.86"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "1.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "33.91"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discretionnaires",
+   "pct": "23.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "20.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "11.70"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "8.37"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.12"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "n": "616",
+ "isin": "LU0854762894",
+ "nom": "IFP GLOBAL AGE EUR",
+ "maison": "IFP Investment Management S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-01-30",
+ "date_creation": "2012-11-16",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques",
+ "compartiment": "un compartiment de IFP Luxembourg Fund",
+ "gerants": "",
+ "encours_millions": "",
+ "encours_devise": "",
+ "encours_date": "",
+ "frais_gestion": "1.80",
+ "frais_courants": "2.7",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "The past performance is not an indication of future performances.",
+ "politique_fr": "",
+ "politique_en": "The IFP Global Age Fund invests in companies that will benefit from an aging world population. The fund has a sustainable investment objective in accordance with Article 9 of the Sustainable Finance Disclosure Regulation and seeks to contribute to a reduction in carbon emissions with a view to achieving the long-term global warming limitation targets set by the Paris Agreement. The fund invests in global equities from both cyclical and non-cyclical sectors, with focus on healthcare, financial services and consumer sectors but also on particular segments of the IT, Industrial and Materials sectors. The sustainable investment process is based on fundamental analysis, combining financial and non-financial criteria. Proprietary ESG analysis as well as SDG impact are completely integrated in the management process. The master class is denominated in EUR and not hedged. Objective is a medium to long term outperformance of the global equity markets (MSCI World in EUR). Its target risk is set to ‘high’ with a middle to long term investment horizon.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet EN 31/08/2026 (la plus récente ; pas de version française) ; KID FR 30/01/2026. Corrigé : politique remplacée par le texte de la factsheet (« Fund Strategy ») ; frais de gestion 1.80, frais courants 2.7, SRI 4, SFDR 9, compartiment et classification ajoutés. Date de création = « Share Class Launch Date 16 Nov 2012 ». Frais : factsheet « Management Fee 1.80% » ; KID « 2,7% » (frais de gestion et autres frais administratifs et d'exploitation). Indice vide : le KID indique « Le portefeuille est géré activement d’une manière discrétionnaire sans utiliser une valeur de référence (benchmark) », alors que la factsheet vise « a medium to long term outperformance of the global equity markets (MSCI World in EUR) » : contradiction, non retenu. Encours : non indiqué. Gérants : seule la société IFP Investment Management S.A. est citée (« Fund Manager »). SRI 4 (KID). SFDR article 9 (factsheet et KID ; aucun % durable effectif ; « Proprietary Paris-Aligned Investments 85% » non retenu). Classification Agressif : actions thématiques (vieillissement de la population). Allocations : graphiques « Allocation by Asset Class » (qui est en fait une répartition sectorielle) et « Proprietary Geography Breakdown » ; 10 principales positions.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "AstraZeneca Plc",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Marks & Spencer Group Plc",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oréal SA",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FinecoBank SPA",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Linde Plc",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz SE Reg",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ecolab Inc",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Halma Plc",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cisco Systems Inc",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Manulife Financial Corp",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Healthcare",
+   "pct": "33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "15"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "North America",
+   "pct": "45"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "44"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asia",
+   "pct": "4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash",
+   "pct": "7"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__Factsheet_EN_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__KID_FR_2026-01-30.pdf"
+}

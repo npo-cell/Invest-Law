@@ -1,0 +1,141 @@
+{
+ "n": "419",
+ "isin": "LU1502282632",
+ "nom": "CANDRIAM EQS L ROBOTIC & INNOVATIVE TECHNO C EUR",
+ "maison": "CANDRIAM LUXEMBOURG S.A",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-18",
+ "factsheet_fichier": "INVESTLAW/CANDRIAM/LU1502282632/LU1502282632__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CANDRIAM/LU1502282632/LU1502282632__KID_FR_2026-02-18.pdf",
+ "date_creation": "2017-06-06",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (technologie, robotique)",
+ "compartiment": "Ce produit est une classe d'actions (C) d'un compartiment (Robotics & Innovative Technology) d'une société d'investissement à capital variable (SICAV) de droit luxembourgeois (Candriam Equities L), Organisme de Placement Collectif en Valeurs Mobilières (OPCVM).",
+ "gerants": "Johan Van Der Biest, Felix Demaeght, Nathaniel Wejchert",
+ "encours_millions": "3573.45",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.60",
+ "frais_courants": "1.94",
+ "sri": "5",
+ "indice": "MSCI World (Net Return)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past Performances does not predict future returns.",
+ "politique_fr": "",
+ "politique_en": "Investment strategy\nCandriam Equities L Robotics and Innovative Technology (hereafter \"the fund\") is a sub-fund of the Candriam Equities L SICAV. The assets comprising this sub-fund will be primarily invested in equities and/or similar marketable securities issued by companies around the world, considered as being ideally positioned to benefit from innovations in technology and robotics (e.g. artificial intelligence, automation, virtual reality, etc.). This is a conviction-driven sub-fund, i.e. its management is based on a rigorous selection of a limited number of equities. The fund’s sustainability objective is to promote the reduction of greenhouse gases and the achievement of the Paris Agreement objectives. The investment horizon is 6 years. The fund is managed actively, with reference to the index mentioned on the section \"characteristics\". For further information about this index and its use, please consult the fund’s key information document (KID).",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet en anglais (« Reporting 30|09|2026 », part « C - EUR - Unhedged (EUR) », réservée aux investisseurs professionnels) : seul reporting mensuel publié pour cette part sur fundinfo, pas de version française trouvée ; politique dans le champ EN (bloc « Investment strategy », sans la phrase sur les investisseurs visés). Date de création = « Inception Date 06/06/2017 » (la factsheet ne précise pas s'il s'agit de la part ou du compartiment). Encours = « Total net assets (M USD) 3,573.45 » (devise de référence du fonds USD ; part en EUR). Frais de gestion = « Real Management Fee » 1.60% ; frais courants = KID 1,94 % (= « Ongoing costs » 1.94%) ; pas de commission de performance (« - »). Indice : « Benchmark MSCI World (Net Return) » ; KID : valeur de référence utilisée comme univers d'investissement et pour déterminer les niveaux de risque (fonds géré activement par référence à l'indice). SRI 5 (KID). SFDR « Article 8 » (factsheet). Classification Agressif : actions thématiques technologie/robotique. Allocations : positions = « Top 10 Issuers » (% Fund) ; pays = « Top 10 Countries » (colonne % Fund ; Austria et Australia à 0.00 non repris) ; répartitions sectorielle, devises, géographique et capitalisations = graphiques sans valeurs extractibles, non reprises. Corrigé (factsheet 30/09/2026) : date de création (vide) → 2017-06-06 ; encours 3512.58 → 3573.45 ; indice MSCI World NR EUR → MSCI World (Net Return) ; classification (vide) → Agressif ; SFDR (vide) → 8 ; politique FR (résumé absent des documents) supprimée, politique EN = texte de la factsheet.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "MICRON TECHNOLOGY INC",
+   "pct": "5.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "5.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "5.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "5.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "5.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PALO ALTO NETWORKS INC",
+   "pct": "4.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES INC",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SERVICENOW INC",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "3.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LAM RESEARCH CORP",
+   "pct": "3.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "70.41"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "7.19"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "5.40"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "5.22"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "3.72"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "2.41"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Korea Republic of",
+   "pct": "2.16"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "0.59"
+  }
+ ]
+}

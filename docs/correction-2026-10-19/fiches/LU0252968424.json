@@ -1,0 +1,103 @@
+{
+ "n": "38",
+ "isin": "LU0252968424",
+ "nom": "(I/C)BGF WORLD GOLD D2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2006-05-19",
+ "devise": "USD",
+ "type_fonds": "Actions sectorielles (mines d'or)",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Evy Hambro, Tom Holl",
+ "encours_millions": "10867.80",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.33",
+ "sri": "6",
+ "indice": "FTSE Gold Mines Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés dont l’activité principale est l’exploitation de métaux précieux ou de minerais et l’exploitation de métaux de base ou de minerais.\n\nLe Fonds ne détient pas d’or ou de métal physique.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 11896.07 → 10867.80 ; encours_date 2026-08-31 → 2026-09-30. Date de création = « Date de lancement de la Catégorie d'Actions : 19-mai-2006 » (fonds lancé le 30-déc.-1994). Encours « Encours sous gestion (M) : 10.867,80 USD » au 30-sept.-2026. Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,33 % (la factsheet du 30/09/2026 écrit « Frais courants : 1,31% »). Indice FTSE Gold Mines Index (KID) : sert à la construction du portefeuille, à la gestion des risques et à la comparaison de performance (la factsheet écrit « Contrainte 1 : FTSE Gold Mines Index (Price Return) (USD) »). SFDR : « Classification SFDR : Autre » → vide. Politique : « Aperçu du fonds » de la factsheet du 30/09/2026 (plus court que celui de la factsheet précédente ; texte complet dans la section « Objectifs » du KID). Allocations : seules les 10 principales positions ; les graphiques « Répartition géographique », « Répartition des secteurs » et « Capitalisation boursière » n'ont pas d'étiquettes extractibles en texte et ne sont pas repris.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__KID_FR_2026-04-29.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1-2",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BARRICK MINING CORP",
+   "pct": "7.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AGNICO EAGLE MINES LTD (ONTARIO)",
+   "pct": "6.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NEWMONT CORPORATION",
+   "pct": "5.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WHEATON PRECIOUS METALS CORP",
+   "pct": "5.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANGLOGOLD ASHANTI PLC",
+   "pct": "5.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NORTHERN STAR RESOURCES LTD",
+   "pct": "5.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FRANCO-NEVADA CORP",
+   "pct": "4.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENDEAVOUR MINING PLC",
+   "pct": "4.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOREX GOLD RESOURCES INC",
+   "pct": "3.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ELDORADO GOLD CORPORATION",
+   "pct": "3.69"
+  }
+ ]
+}

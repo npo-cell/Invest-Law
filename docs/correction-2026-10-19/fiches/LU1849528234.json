@@ -1,0 +1,133 @@
+{
+ "n": "749",
+ "isin": "LU1849528234",
+ "nom": "ODDO BHF POLARIS DYNAMIC CR EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2019-01-25",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs à dominante actions",
+ "compartiment": "Un compartiment de la SICAV ODDO BHF II",
+ "gerants": "Nils Bosse Parra",
+ "encours_millions": "670",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.67",
+ "sri": "4",
+ "indice": "50% MSCI Europe (Net Return) + 30% MSCI USA NET in EUR + 10% MSCI Emerging Markets Daily Net TR EUR + 10% JPM Cash Index Euro Currency 1M",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nDepuis 2007, ODDO BHF Polaris Dynamic offre une solution d'investissement globale, diversifiée et dynamique. Elle se caractérise par une allocation actions comprise entre 70 % et 100 % et un panier obligataire investi principalement dans des obligations de qualité Investment Grade. Le portefeuille est composé de titres cotés ou négociés sur des marchés réglementés, principalement en Europe, aux Etats-Unis ou sur les marchés émergents.\n\nLe fonds vise une appréciation du capital dans la durée tout en limitant les fluctuations de marché. Dans le même temps, les critères environnementaux, sociaux et de gouvernance d'entreprise (ESG) sont pleinement pris en compte dans le processus d'investissement.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 691 → 670 (« Actif net du fonds 670 M€ », factsheet 30/09/2026) ; indice recopié tel qu’écrit dans la factsheet (KID : géré activement par rapport à cet indice composite, qu’il s’efforce de surperformer) ; gérant sans la mention « (ODDO BHF SE) » (société délégataire) ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; politique FR remplacée par le bloc « Stratégie d'investissement » de la factsheet française ; compartiment refait depuis le KID 16/04/2026 (« Un compartiment de la SICAV ODDO BHF II » ; la factsheet indique « Statut juridique FCP » : divergence signalée). Date de création : « Date de création de la part (1ère VL) 25/01/2019 » (fonds : 08/10/2007). Frais : « Frais de gestion fixes 1,50% p.a. » ; KID 1,67 % (factsheet 1.673 %). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : « 10 principales positions (en absolu) » ; « Répartition de l'allocation d'actifs », colonne « Poids % » (fin septembre) : classes d’actifs et régions de la poche actions ; « Exposition nette d'actions » non reprise ; poche obligataire vide au 30/09/2026 (rendement 0,0, duration non renseignée) ; les répartitions des poches sont des graphiques sans valeurs extractibles.",
+ "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU1849528234/LU1849528234__KID_FR_2026-04-16.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oddo Bhf Emerging Markets Ciw-Eur",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Thermo Fisher Scientific Inc",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rio Tinto Plc",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc-Cl C",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc-Class A Shares",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Iberdrola Sa",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Asm International Nv",
+   "pct": "2.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "89.09"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Monétaire & Autres",
+   "pct": "10.91"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du nord",
+   "pct": "42.38"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Zone euro",
+   "pct": "24.43"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Le reste de l'Europe",
+   "pct": "13.04"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Le reste du monde",
+   "pct": "9.25"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "n": "653",
+ "isin": "IE00BYVJR916",
+ "nom": "JUPITER GOLD & SILVER L EUR",
+ "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2016-07-07",
+ "devise": "EUR",
+ "type_fonds": "Actions secteur métaux précieux",
+ "compartiment": "UN COMPARTIMENT DE JUPITER ASSET MANAGEMENT SERIES PLC",
+ "gerants": "Ned Naylor-Leyland, Chris Mahoney, Joe Lunn",
+ "encours_millions": "2671",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.67",
+ "sri": "6",
+ "indice": "50% Gold Spot Rate & 50% FTSE Gold Mines - Net Total Return Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. Le rendement peut augmenter ou baisser sous l’effet des fluctuations de taux de change. Les données de performance présentées ne tiennent pas compte des commissions et frais sur l’émission et le rachat de parts.",
+ "politique_fr": "Un rendement total composé de croissance du capital et de revenu en investissant principalement dans des actions (c'est-à-dire des titres de participation) cotées de sociétés exposées à l'or et à l'argent. Pour atteindre son objectif d'investissement, le fonds vise à générer un rendement, net de frais, supérieur à celui de l'indice de référence composite, constitué à 50 % du Gold Spot Rate et à 50 % de l’indice FTSE Gold Mines - Net Total Return sur des genêtres glissantes de 3 ans. Le Fonds investira au moins 70 % de sa valeur en actions de sociétés et investissements similaires cotés dans le monde entier. Les sociétés peuvent être de toutes tailles et leurs opérations et activités seront axées sur ou en lien avec l'exploitation d'or et d'argent ou la détention de lingots sans risque pour les actionnaires.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 2983 → 2671 M EUR (« Encours: EUR 2,671m », factsheet 30/09/2026, virgule lue comme séparateur des milliers) ; frais courants 1.68 → 1.67 (KID « Frais de gestion et autres frais administratifs et d’exploitation 1.67 % » ; la factsheet indique « frais courants 1,66% ») ; catégorie vidée. Gérants écrits en majuscules dans la factsheet, recopiés en casse normale (écart du contrôle dû à la casse). Frais de gestion : « Commission annuelle de gestion (max.) 1,50% » (factsheet). Indice : « Objectif de l'Indice de référence » (factsheet), l'objectif vise un rendement supérieur à l'indice composite. SFDR article 6 (factsheet). Date de création = lancement de la catégorie d'actions (07.07.2016) ; fonds lancé le 08.03.2016. Devise de la catégorie EUR (devise de base du fonds USD). Allocations au 30/09/2026.",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Discovery Mining Ltd",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sprott Physical Silver Etv",
+   "pct": "7.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sprott Physical Gld Slvr Unt Etv",
+   "pct": "6.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Benz Mining Corp Cdi",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wheaton Precious Metals",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sprott Physical Gold Etv Unt",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "First Majestic Silver",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fresnillo Plc",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Collective Mining",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Coeur Mining",
+   "pct": "3.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Action",
+   "pct": "82.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bullion",
+   "pct": "18.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds",
+   "pct": "0.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Warrant",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Espèces",
+   "pct": "-0.5"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJR916/IE00BYVJR916__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJR916/IE00BYVJR916__KID_FR_2026-02-19.pdf"
+}

@@ -1,0 +1,223 @@
+{
+ "n": "360",
+ "isin": "LU1981791327",
+ "nom": "ALLIANZ GLOBAL INVESTORS THEMATICA AT EUR",
+ "maison": "Allianz Global Investors GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-11",
+ "date_creation": "2019-05-02",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (thématiques)",
+ "compartiment": "Allianz Thematica (Le « Compartiment ») est un compartiment de Allianz Global Investors Fund qui est établi en tant que SICAV domiciliée au Luxembourg",
+ "gerants": "Andreas Fruschki",
+ "encours_millions": "2549.39",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.95",
+ "sri": "4",
+ "indice": "MSCI AC World (ACWI) Total Return Net (in EUR)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "66.16",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs.",
+ "politique_fr": "Objectif d’investissement Le fonds investit principalement sur les marchés d’actions mondiaux pour construire un portefeuille diversifié avec une orientation sur la sélection de thèmes, de secteurs et de titres. L’exposition aux marchés émergents est limitée à 50 %, tandis que les obligations convertibles ne peuvent dépasser 15 % des actifs du fonds. Son objectif d’investissement consiste à générer une appréciation du capital sur le long terme. Les aspects liés à la durabilité sont pris en compte par les gérants du fonds. Pour plus d’informations sur la stratégie d’investissement, les catégories d’actifs autorisées et l’approche axée sur la durabilité, veuillez vous reporter au prospectus de vente.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création : « Lancement catégorie d’actions 02/05/2019 » (fonds : 08/12/2016). Encours « Taille du fonds 2 549,39 M USD » (devise du fonds USD ; part : 176,10 M EUR). Frais : « Commission forfaitaire (%) 1,90 (max 2,05) p.a. » (commission tout compris, non retenue comme frais de gestion) et « TFE (%) 1,95 » ; frais courants 1,95 % du KID. Indice : « MSCI AC World (ACWI) Total Return Net (in EUR) » (factsheet et KID, utilisé pour l'objectif de surperformance). Investissements durables : « Portefeuille 66,16% ». SFDR article 8 (KID). Compartiment : texte du KID (PDF dont pdftotext n'extrait aucun texte, lu via pypdf : écart du contrôle automatique = artefact d'extraction). Classification Dynamique : actions mondiales multi-thématiques diversifiées (SRI 4), non concentrées sur un seul thème. Allocations : 10 principales positions, secteurs GICS et pays (colonne fonds), capitalisations. Corrigé : encours 2637.5 → 2549.39 USD (factsheet 30/09/2026) ; frais de gestion 1.9 → vide (commission forfaitaire) ; indice précisé selon le libellé des documents ; investissements durables 66.16 ajoutés ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__KID_FR_2026-05-11.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "durable_pct": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "3.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "3.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "3.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
+   "pct": "2.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC-CL A",
+   "pct": "2.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "1.10"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCO BILBAO VIZCAYA ARGENTA",
+   "pct": "1.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VERALTO CORP",
+   "pct": "1.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VISA INC-CLASS A SHARES",
+   "pct": "1.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "30.97"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "28.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "12.77"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "9.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "5.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "4.49"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "2.08"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "64.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "6.50"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "4.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "République populaire de Chine",
+   "pct": "4.08"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "2.95"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "2.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "2.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "2.11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "1.81"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "8.86"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 10 Md",
+   "pct": "93"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 Md <> 10 Md",
+   "pct": "4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 5 Md",
+   "pct": "3"
+  }
+ ]
+}

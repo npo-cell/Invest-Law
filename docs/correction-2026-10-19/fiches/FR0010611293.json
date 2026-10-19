@@ -1,0 +1,416 @@
+{
+ "n": "504",
+ "isin": "FR0010611293",
+ "nom": "ECHIQUIER ARTY A EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-31",
+ "date_creation": "2008-05-30",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs prudent (obligations et actions européennes)",
+ "compartiment": "Compartiment de la SICAV ECHIQUIER",
+ "gerants": "Uriel Saragusti, Benjamin Bellaïche",
+ "encours_millions": "633",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.41",
+ "frais_courants": "1.51",
+ "sri": "2",
+ "indice": "50% IBOXX EUR CORP 3-5 ANS, 25% MSCI EUROPE NR, 25% €STER CAPITALISE",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "72.5",
+ "duration": "4,6",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "ECHIQUIER ARTY SRI est un compartiment recherchant la performance sur la durée de placement recommandée au travers d’une gestion discrétionnaire et opportuniste sur les marchés de taux et des marchés actions avec référence à l’indicateur composite 25% MSCI Europe Net Return, 25% €STER capitalisé, 50% Iboxx Euro Corporate 3-5 ans. Le gérant du compartiment sélectionne parmi les émetteurs de son univers d'investissement ceux présentant selon lui un couple rendement/risque intéressant.\n\nL’indice composite 25% MSCI Europe Net Return, 25% €STER Capitalisé, 50% Iboxx Euro Corporate 3-5 ans peut être un indicateur représentatif de la gestion d’ECHIQUIER ARTY SRI.\n\nL'OPCVM met en œuvre une gestion active et discrétionnaire qui s'appuie sur une gestion « bond picking » pour les taux et sur une gestion « stock picking » pour les titres et repose sur une gestion active et discrétionnaire. Le compartiment investit sur les actions entre 0% et 50% de son actif net, majoritairement de moyenne et grande capitalisation et de tout secteur d'activité (recours aux valeurs dont la capitalisation est < 1milliard d'euro limité à 10%). Les investissements seront essentiellement réalisés en actions européennes (Union Européenne, Association Européenne de Libre Echange et Royaume Uni) en se réservant toutefois la possibilité d'investir jusqu'à 15% de son actif net en actions d'un pays en dehors de cette zone, y compris en actions de pays émergents.Sur les produits de taux, l’OPCVM est exposé au minimum à hauteur de 40 % de son actif en titres obligataires ou titres de créances négociables.\n\nLors de l'acquisition et du suivi en cours de vie des titres, l'appréciation du risque de crédit repose sur la recherche et l'analyse interne de La Financière de l'Echiquier ainsi que sur les notations proposées par les agences. La part des titres réputés spéculatifs, dits à haut rendement (notation inférieure à BBB - ) ou considérés comme tels par l'équipe de gestion ou non notés ne pourra pas dépasser 10% de l'actif net pour les titres de créances négociables ou 15% de l'actif net pour les titres obligataires. Le compartiment peut également investir jusqu’à 40% maximum de son actif net en obligations subordonnées du secteur bancaire, assurance et entreprise dont 10% maximum d'obligations convertibles contingentes (dites obligations \"coco\"). Les émetteurs des produits de taux seront essentiellement européen (UE, AELE et Royaume Uni).\n\nLe choix des titres se fait en deux étapes :\n\n1.Première étape : Analyse de l’univers d’investissement L’univers d’investissement est constitué des valeurs qui composent les indices suivants : Markit iBoxx Euro Corporates (50%) + Markit iBoxx EUR Liquid High (en euro) (20%) + Stoxx Europe Total Market dividendes net réinvestis (en euro) (30%).\n\nIl est analysé à partir de critères d’investissement socialement responsable (ISR), afin d’identifier les entreprises ayant les meilleures pratiques en matière de développement durable. Cette analyse se fonde d’une part sur un outil propriétaire du groupe LBP AM de notation extra-financière des émetteurs : GrEAT et d’autre part sur l’application d’exclusions.\n\nL’analyse de l’univers présentée ci-dessus permet de déterminer après élimination de 30% des valeurs de l’univers d’investissement la note moyenne ISR que l’OPC devra dépassée (« la Note Moyenne Améliorée). En effet, l’OPC doit obtenir une note moyenne ISR meilleure que la Note Moyenne Améliorée. La Note Moyenne Améliorée est la note moyenne ISR de l’univers d’investissement retraité c’est-à-dire après élimination de 30% des plus mauvaises valeurs (comprenant les deux filtres suivants : note quantitative et exclusions).\n\nAinsi toutes les valeurs de l’univers d’investissement (hors valeurs interdites et exclues) sont donc éligibles à l’OPC, à condition que la note moyenne extrafinancière de l’OPC respecte la condition ci-dessus.\n\n2. Deuxième étape : Sélection des titres en fonction de leurs caractéristiques financières et extra-financière :\n\nA l’issue de cette première étape, la gestion procède à une analyse fondamentale de chaque émetteur selon les critères suivants : -Analyse du management de l’entreprise - Qualité de sa structure financière - La visibilité sur les futurs résultats de l’entreprise - L’analyse des résultats financiers - Les perspectives de croissance de son métier -L’aspect spéculatif de la valeur\n\nL'OPCVM pourra intervenir sur le marché des instruments financiers à terme pour : -Réduire l'exposition du portefeuille au marché actions, aux risques de change et de taux. -Exposer de façon exceptionnelle le portefeuille aux risques de change, de taux et action. En aucun cas, l’OPCVM n'entend mettre en œuvre de stratégie de surexposition du portefeuille à ces différents risques.\n\nL'OPCVM s'interdit tout investissement sur des produits de titrisation (ABS, CDO...) ainsi que sur les dérivés de crédit négociés de gré à gré (CDS).",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : indice « 25% €STR capitalisé Jour TR EUR, 50% Markit iBoxx EUR Corp 3-5 TR, 25% MSCI Europe NR EUR » → libellé de la factsheet ; % durable 78 → 72.5 (factsheet p.4 « Pourcentage d'investissement durable : Portefeuille 72,5% » ; la colonne « Engagement minimum » indique 100,0 %, valeur surprenante, non retenue) ; duration ajoutée ; compartiment complété. Inchangés et confirmés : encours 633 (« 633 M€ Actif net », factsheet 30/09/2026), frais de gestion 1,41 % TTC max. (maximum), frais courants 1.51 (KID 31/07/2026), SRI 2. Politique prise du KID : la factsheet n'a que deux phrases de présentation. Date de création = « Date de 1ère VL 30/05/2008 ». Indice composite (KID « avec référence à l'indicateur composite… »). Duration : « Duration(1)(2) 4,6 » de la poche obligataire (hors convertibles), sans unité ; sensibilité taux 4,5. SFDR article 8. Classification Défensif : obligations 72,5 %, actions 25,7 %, SRI 2. Allocations (lues aussi sur l'image p.2) : Zones géographiques et Secteurs = d'abord la poche obligataire (% de la poche), puis la poche actions (% de la poche) ; Positions = 5 obligations puis 5 actions ; Notations en % de la poche obligataire hors convertibles (« < B- » sans valeur) ; Maturités = obligations à taux fixe.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "durable_pct": "factsheet p.4",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie",
+   "pct": "1.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Convertibles*",
+   "pct": "0.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "72.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "25.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "FRA",
+   "pct": "22.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DEU",
+   "pct": "15.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ESP",
+   "pct": "12.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "USA",
+   "pct": "8.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "CHE",
+   "pct": "7.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "GBR",
+   "pct": "7.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ITA",
+   "pct": "6.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "NLD",
+   "pct": "6.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "SWE",
+   "pct": "4.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DNK",
+   "pct": "1.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "5.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "18.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "16.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. collectifs",
+   "pct": "11.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "10.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "7.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. 1ere néces.",
+   "pct": "7.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. de comm.",
+   "pct": "7.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discr.",
+   "pct": "7.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. financiers",
+   "pct": "4.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "1.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ITA",
+   "pct": "19.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DEU",
+   "pct": "16.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "GBR",
+   "pct": "15.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "NLD",
+   "pct": "14.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "FRA",
+   "pct": "9.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "CHE",
+   "pct": "8.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ESP",
+   "pct": "8.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "BEL",
+   "pct": "2.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "GRC",
+   "pct": "2.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DNK",
+   "pct": "1.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "20.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "20.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "13.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "11.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discr.",
+   "pct": "7.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. collectifs",
+   "pct": "4.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. 1ere néces.",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "4.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. financiers",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. de comm.",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Caixabank 4.375% 11/33",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABB 3.375% 01/34",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Merck KGaA 0.875% 07/31",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Adidas 2.75% 11/30",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Astrazeneca 3.75% 03/32",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intesa Sanpaolo",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rolls-Royce",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Astrazeneca",
+   "pct": "1.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA & AA",
+   "pct": "9.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "37.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "35.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "12.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "4.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non notées",
+   "pct": "1.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "6.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 1 an et < 3 ans",
+   "pct": "19.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 3 ans et < 6 ans",
+   "pct": "40.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 6 ans",
+   "pct": "33.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">10Mds",
+   "pct": "91.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1Md - 10Mds",
+   "pct": "9.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010611293/FR0010611293__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010611293/FR0010611293__KID_FR_2026-07-31.pdf"
+}

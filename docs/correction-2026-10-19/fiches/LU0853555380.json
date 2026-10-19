@@ -1,0 +1,249 @@
+{
+ "n": "650",
+ "isin": "LU0853555380",
+ "nom": "JUPITER DYNAMIC BOND L EUR",
+ "maison": "Jupiter Fund Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2013-05-10",
+ "devise": "EUR",
+ "type_fonds": "Obligataire flexible international",
+ "compartiment": "UN COMPARTIMENT DE LA SICAV JUPITER GLOBAL FUND",
+ "gerants": "Ariel Bezalel, Harry Richards",
+ "encours_millions": "3155",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.45",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "5.95 ans (durée effective)",
+ "qualite_emetteurs": "BBB-",
+ "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
+ "politique_fr": "L’objectif du Fonds est de générer un revenu élevé dans la perspective d’une croissance du capital en investissant dans un portefeuille de titres obligataires du monde entier. Le Compartiment investit au moins 70 % de sa Valeur nette d’inventaire dans un portefeuille d’obligations d’entreprises, directement ou indirectement par le biais d’instruments dérivés (c.-à-d. des contrats financiers dont la valeur est liée aux variations de prix attendues d’un investissement sous-jacent). Les titres de créance dans lesquels le Compartiment peut investir peuvent (i) être émis ou garantis par des États (ou leurs subdivisions, collectivités territoriales ou organismes) ou des sociétés du monde entier (y compris jusqu’à 100 % dans les marchés émergents) ; (ii) être à taux d’intérêt fixe, variable ou flottant ; (iii) avoir une notation investment grade ou inférieure et (iv) être libellés en toute devise (l’exposition à des devises autres que l’euro peut être couverte). Le Fonds peut également investir jusqu’à 30 % dans d’autres valeurs mobilières, y compris des actions et des actifs liquides.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 3301 → 3155 M EUR (« Encours: EUR 3,155m », factsheet 30/09/2026, virgule lue comme séparateur des milliers) ; duration 5.9 → 5.95 (« Durée effective (années) 5.95 ») ; qualité réduite à la notation moyenne « BBB- » (répartition par notation reprise dans les allocations) ; indice : « Aucun » (« Le Fonds n’est pas géré par référence à un indice et n’utilise pas d’indice de référence à des fins de comparaison de la performance », factsheet et KID) ; catégorie vidée. Gérants écrits en majuscules dans la factsheet (« ARIEL BEZALEL | HARRY RICHARDS »), recopiés en casse normale (écart du contrôle dû à la casse ; « Aucun » pour l'indice suit la convention de la consigne). Frais : « Commission annuelle de gestion (max.) 1,25% » et « frais courants 1,45% » (factsheet) ; KID « Frais de gestion et autres frais administratifs et d’exploitation 1.45 % ». SFDR article 6 (« SFDR évaluation: Article 6 »). Date de création = lancement de la catégorie d'actions (10.05.2013) ; fonds lancé le 08.05.2012. Rendement à l'échéance 7,28 %. Allocations au 30/09/2026 (pondérations nettes ; dérivés exclus des positions ; totaux affichés 95,3 % et 91,6 %).",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.2",
+  "sfdr": "factsheet p.2",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Uk Conv Gilt 4.5% 07/03/35",
+   "pct": "8.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Australia (Commonwealth Of) 3.75% 21/04/37",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mexico (United Mexican States) (Go 7.75% 23/11/34",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fed Republic Of Brazil 10% 01/01/31",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prime Healthcare Services Inc 9.375% 01/09/29",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Australia (Commonwealth Of) 1.75% 21/06/51",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Jupiter Dynamic Bond Esg-Ieuracc",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Brazil Notas Do Tesouro Nacional S 10% 01/01/33",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cpi Property Group Sa 4% 22/01/28",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "New Zealand (Government Of) 4.5% 15/05/35",
+   "pct": "1.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Entreprise",
+   "pct": "52.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Gouvernement",
+   "pct": "36.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Titres adossés à des actifs",
+   "pct": "3.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds",
+   "pct": "2.9"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Action",
+   "pct": "1.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Warrant",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Contrats de swap sur défaillance",
+   "pct": "-0.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Contrat à terme normalisé sur obligation",
+   "pct": "-0.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Swaps de taux d’intérêt",
+   "pct": "-0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "27.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Caraïbes et Amérique latine",
+   "pct": "18.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe hors Royaume-Uni",
+   "pct": "17.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie-Pacifique hors Japon",
+   "pct": "12.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "10.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe émergente",
+   "pct": "3.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique",
+   "pct": "1.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "0.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "0.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autre",
+   "pct": "3.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "12.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "8.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "15.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "23.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "24.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "4.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CC",
+   "pct": "0.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "D",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "2.5"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JUPITER_FUND_MANAGEMENT/LU0853555380/LU0853555380__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JUPITER_FUND_MANAGEMENT/LU0853555380/LU0853555380__KID_FR_2026-02-19.pdf"
+}

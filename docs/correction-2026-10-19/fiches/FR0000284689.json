@@ -1,0 +1,184 @@
+{
+ "n": "457",
+ "isin": "FR0000284689",
+ "nom": "COMGEST MONDE C EUR",
+ "maison": " Pacific Capital Partners Limited",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-20",
+ "factsheet_fichier": "INVESTLAW/PACIFIC_CAPITAL_PARTNERS_LIMITED/FR0000284689/FR0000284689__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PACIFIC_CAPITAL_PARTNERS_LIMITED/FR0000284689/FR0000284689__KID_FR_2026-03-20.pdf",
+ "date_creation": "1991-06-27",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Comgest Monde, SICAV de droit français, conforme aux normes européennes (UCITS V)",
+ "gerants": "",
+ "encours_millions": "1928.0",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.00",
+ "frais_courants": "2.08",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Investir implique des risques dont la perte du capital initialement investi.",
+ "politique_fr": "POLITIQUE D'INVESTISSEMENT\nL’objectif de la gestion de la SICAV (\"le Fonds\") est de rechercher une performance sans référence à un indice, dans une optique long terme au travers d’une sélection de titres basée sur des critères liés à l'entreprise et non aux marchés boursiers. La SICAV est à tout moment investie et/ou exposée à hauteur de 60% minimum en actions internationales.\nLe Fonds est géré de manière dynamique. L'indice est utilisé à des fins de comparaison.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Maison : le lot indique « Pacific Capital Partners Limited » ; la factsheet indique « Gestionnaire financier : Comgest S.A. (CSA) » (nom de la maison non modifié ici). Date de création « 27/06/1991 » (détails du fonds, part C) ; la factsheet précise que Comgest S.A. « a repris la totalité de la gestion du fonds le 27/06/1991 » et que la « performance depuis la création » se réfère à cette date. Encours = « Actif total du fonds (toutes classes, millions) 1 928,0€ ». Gérants : aucun nom (« Equipe d'investissement : Approche collégiale »). Frais de gestion « 2,00% de l’actif net » (inclus dans les frais courants) ; frais courants = KID 2,08 % (identique à la factsheet) ; pas de commission de surperformance. Indice vide : « MSCI AC World - Net Return » fourni « à titre indicatif et a posteriori », « utilisé à des fins de comparaison » (objectif : performance « sans référence à un indice »). SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR article 8. Disclaimer : deux phrases de la factsheet (p.1 et rubrique Risques p.2). Politique : bloc « Politique d’investissement » p.1 sans la phrase sur les investisseurs visés. Allocations : colonne Fonds uniquement ; lignes « -- » non reprises ; « [Cash] » repris tel quel ; 5 principales positions publiées (libellé tronqué tel qu’écrit) ; zones = « Répartition par zone » ; devises = devise de valorisation des positions. Corrigé (factsheet 30/09/2026) : SRI (vide) → 4 ; indice MSCI All Country World Index (Total Return Net) → (vide) ; classification (vide) → Dynamique ; SFDR (vide) → 8.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "factsheet p.4",
+  "encours_millions": "factsheet p.3",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing C..",
+   "pct": "9.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet A",
+   "pct": "6.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa A",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com",
+   "pct": "6.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Linde",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "33.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "13.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "13.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma/Santé",
+   "pct": "10.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de base",
+   "pct": "7.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. cyclique",
+   "pct": "7.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de com.",
+   "pct": "6.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "[Cash]",
+   "pct": "3.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. non cyclique",
+   "pct": "3.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "56.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "21.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "11.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "6.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "[Cash]",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "73.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "15.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "6.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "2.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "1.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "KRW",
+   "pct": "0.4"
+  }
+ ]
+}

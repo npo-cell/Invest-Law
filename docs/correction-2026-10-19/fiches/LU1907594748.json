@@ -1,0 +1,379 @@
+{
+ "n": "469",
+ "isin": "LU1907594748",
+ "nom": "DNCA INVEST BEYOND ALTEROSA A EUR",
+ "maison": "DNCA FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__KID_FR_2026-04-16.pdf",
+ "date_creation": "2018-12-17",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (mixte patrimonial ISR)",
+ "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+ "gerants": "Romain AVICE, David TISSANDIER, Nolwenn LE ROUX, Florent EYROULET",
+ "encours_millions": "161",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.54",
+ "sri": "2",
+ "indice": "30% MSCI All Countries World NR + 70% Bloomberg Barclays Pan European Corporate Euro Hedged Index",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "BBB-",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+ "politique_fr": "Objectif de gestion\nLe Compartiment cherche à surperformer l’indice MSCI World All Countries World Net Return (30 %) + l’indice Bloomberg Barclays Pan European Corporate Euro Hedged (70 %), calculé dividendes réinvestis, sur la période recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG). Le Compartiment est géré en tenant compte des principes de la Responsabilité d’Entreprise et de la Transition Durable et a un objectif d’investissement durable sociales au sens de l’article 9 du SFDR. Le Compartiment est géré en tenant compte des principes de responsabilité et de durabilité et vise à cibler des émetteurs dont un pourcentage significatif des revenus est exposé aux 17 objectifs de développement durable des Nations Unies.\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Renommage : la factsheet nomme le compartiment « DNCA INVEST SUSTAIN ALTEROSA » (Part A-EUR) ; nom One Life « BEYOND ALTEROSA ». Date de création « 17/12/2018 » (informations administratives de la part, sous son code ISIN). Encours = « Actif net (m€) 161 ». Frais : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 1,54% » (identique au KID) ; commission liée aux résultats 0,02 %. Indice composite : objectif de surperformance. Duration laissée vide : deux valeurs, « Sensibilité brute 4,03 » et « Sensibilité nette 4,00 » (maturité moyenne 5,00 ans). Qualité = « Note moyenne BBB- ». Gérants : « , CFA » retiré après Nolwenn LE ROUX. SFDR : « Classification SFDR : Art.9 » ; aucun % d'investissements durables écrit. Classification Défensif : mixte majoritairement obligataire (obligations crédit 59,4 %, actions 31,2 %, SRI 2). Positions = 5 principales positions du portefeuille actions puis 5 du portefeuille obligataire (p.3), en % du fonds. Classes d'actifs, secteurs et zones : répartitions du fonds (p.2, colonne Fonds ; OPCVM et liquidités repris une fois) ; répartitions « Poche action (base 100) » de la p.3 non reprises. Instruments = « Composition et indicateurs du portefeuille obligataire » (colonne Poids). Maturités = « Poche obligataire (base 100) ». Répartition par notation non reprise (graphique sans étiquettes de valeurs exploitables). « Autres pays » à « - » non repris. Non repris : contributions à la performance, données ESG. Corrigé (factsheet 30/09/2026) : encours 162 → 161 ; frais courants (vide) → 1.54 ; indice 30% MSCI ACWI NR EUR, 70% Bloomberg Pan-Euro Corp Hdg TR EUR → 30% MSCI All Countries World NR + 70% Bloomberg Barclays Pan European Corporate Euro Hedged Index ; SFDR (vide) → 9 ; investissements durables (%) 54 → (vide) ; qualité (vide) → BBB- ; gérants Romain Avice, David Tissandier, Nolwenn Le Roux (CFA) et Florent Eyroulet. → Romain AVICE, David TISSANDIER, Nolwenn LE ROUX, Florent EYROULET.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.7",
+  "devise": "factsheet p.7",
+  "compartiment": "factsheet p.8",
+  "gerants": "factsheet p.7",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.7",
+  "sfdr": "factsheet p.7",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.8",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations crédit",
+   "pct": "59.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "31.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "OPCVM",
+   "pct": "3.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités et autres",
+   "pct": "5.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "19.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens et services industriels",
+   "pct": "15.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "14.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "12.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bâtiment et matériaux de construction",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Chimie",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits et services de consommation",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Automobiles et équipementiers",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agroalimentaire, boisson et tabac",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Ressources de base",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Médias",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "OPCVM",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et autres",
+   "pct": "5.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "23.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "15.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "10.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Italie",
+   "pct": "8.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espagne",
+   "pct": "7.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "4.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Luxembourg",
+   "pct": "2.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Belgique",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Taiwan",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Israël",
+   "pct": "1.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pologne",
+   "pct": "1.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Irlande",
+   "pct": "1.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autriche",
+   "pct": "1.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Slovénie",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Nouvelle Zélande",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Portugal",
+   "pct": "0.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "0.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Inde",
+   "pct": "0.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "0.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "OPCVM",
+   "pct": "3.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités et autres",
+   "pct": "5.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux fixe",
+   "pct": "44.86"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations hybrides",
+   "pct": "12.36"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations convertibles",
+   "pct": "1.82"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux variable",
+   "pct": "0.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "2.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "2.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFAC",
+   "pct": "1.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ELI LILLY & CO",
+   "pct": "1.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNICREDIT SPA",
+   "pct": "1.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cooperatieve Rabobank UA 5.14% 2031",
+   "pct": "1.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BMS Ireland Capital Funding DAC 3.36% 2033",
+   "pct": "1.27"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sartorius Finance BV 4.38% 2029",
+   "pct": "1.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Equinix Europe 2 Financing Corp LLC 3.25% 2029",
+   "pct": "1.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDP SA 4.5% 2031",
+   "pct": "1.23"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 - 2 ans",
+   "pct": "1.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2 - 3 ans",
+   "pct": "11.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3 - 4 ans",
+   "pct": "13.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "4 - 5 ans",
+   "pct": "25.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 5 ans",
+   "pct": "47.9"
+  }
+ ]
+}

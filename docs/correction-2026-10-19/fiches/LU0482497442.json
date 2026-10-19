@@ -1,0 +1,175 @@
+{
+ "n": "617",
+ "isin": "LU0482497442",
+ "nom": "INVESCO ASIA CONSUMER DEMAND A EUR",
+ "maison": "Invesco Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-19",
+ "date_creation": "2010-03-31",
+ "devise": "EUR",
+ "type_fonds": "Actions Asie hors Japon",
+ "compartiment": "un compartiment d’Invesco Funds (le « Fonds à compartiments multiples »)",
+ "gerants": "Mike Shiao, Shekhar Sambhshivan, William Yuen",
+ "encours_millions": "211.67",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.04",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sauraient présager des performances futures. La valeur des investissements et les revenus vont fluctuer, ce qui peut en partie être le résultat des fluctuations de taux de change et les investisseurs peuvent ne pas récupérer le montant total de leurs investissements initiaux.",
+ "politique_fr": "L'objectif du Fonds est de générer une croissance du capital à long terme en investissant principalement dans des titres de capital de sociétés asiatiques dont les activités sont susceptibles de bénéficier de l'expansion de la consommation dans les économies asiatiques (ou y sont liées), hors Japon.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 ; part « A (EUR Hgd)-Accumulation Shares » (couverte en EUR), ISIN conforme. Corrigé : encours 205.13 → 211.67 (« Actifs nets totaux EUR 211,67 million », 30/09/2026) ; indice « MSCI AC Asia Ex Japan NR USD » retiré (voir ci-dessous) ; classification Dynamique → Agressif (actions asiatiques hors Japon, marchés émergents) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus). Date de création = « Date de lancement de la classe d'actions 31 mars 2010 » (fonds : 25 mars 2008). Frais : factsheet « Frais de gestion annuels 1,50% », « Frais courants 2,04% » ; KID « 2,04 % ». Indice vide : KID « aucune contrainte ne lui est imposée par son indice de référence, l’indice MSCI AC Asia ex Japan Index (Net Total Return), qui est utilisé à des fins de comparaison » (factsheet : « MSCI AC Asia ex Japan Index (USD) »). SRI 4 (KID). SFDR article 8 (KID). Allocations : colonne « Fonds » seulement ; la répartition par pays n'est qu'un graphique sans valeurs.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing",
+   "pct": "10.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "9.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK hynix",
+   "pct": "6.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MediaTek",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fast Retailing",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Delta Electronics",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASE Technology Holding",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DBS Group Holdings",
+   "pct": "2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "53.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "14.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "10.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "7.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "4.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "3.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grande capitalisation",
+   "pct": "89.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyenne capitalisation",
+   "pct": "2.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petite capitalisation",
+   "pct": "6.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "1.3"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__KID_FR_2026-05-19.pdf"
+}

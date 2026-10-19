@@ -1,0 +1,154 @@
+{
+ "n": "602",
+ "isin": "IE00BYQ67K80",
+ "nom": "GUARDCAP GLOBAL EQUITY FUND S EUR",
+ "maison": "GUARDCAP ASSET MANAGEMENT LIMITED",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-05-08",
+ "date_creation": "2017-01-31",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "GuardCap Global Equity Fund est un compartiment de GuardCap UCITS Funds plc",
+ "gerants": "Michael Boyd, Giles Warren, Bojana Bidovec, Orlaith O'Connor",
+ "encours_millions": "",
+ "encours_devise": "",
+ "encours_date": "",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.59",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Les investissements dans le fonds sont soumis à des risques et la valeur d'un investissement peut augmenter comme diminuer et les investisseurs peuvent ne pas récupérer ce qu'ils ont initialement investi.",
+ "politique_fr": "L'objectif d'investissement du Fonds est de rechercher une appréciation à long terme du capital avec un niveau de volatilité inférieur au marché, en investissant principalement dans des titres actions ou similaires, émis par des entreprises de qualité, cotées sur des marchés réglementés de pays membres de l'Organisation pour la Coopération et le développement Economique (\"OCDE\").\n\nPhilosophie d'investissement: la croissance est source de performance ; la qualité protège contre les retournements de marché ; la valorisation est essentielle. • Stratégie concentrée de 20 à 25 entreprises de qualité, offrant une croissance pérenne • Analyse fondamentale en \"immersion totale\" d'une sélection de valeurs de conviction • Construction de portefeuille non-contrainte par un indice ; part active élevée • Investissement à long terme avec une faible rotation du portefeuille • Focus sur des valeurs de grande et moyenne capitalisation",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 31/08/2026 (dépôt) = la plus récente : la version anglaise publiée sur guardcap.co.uk est aussi au 31/08/2026. Part « Class S EUR », ISIN conforme. Corrigé : SRI 6 → 4 (KID 08/05/2026) ; indice « MSCI World Index (Total Return Net) » retiré (voir ci-dessous) ; encours 1600 retiré (voir ci-dessous) ; compartiment → libellé du KID ; classification ajoutée ; politique remplacée par l'objectif et l'approche d'investissement de la factsheet. Date de création = « Création de la Part 31 janvier 2017 » (fonds 10 décembre 2014). Encours vide : « Taille du Fonds 1,6 milliards EUR » avec la note « Encours de la stratégie GuardCap Global Equity ; d'après des estimations et n'est pas officiel », et la version anglaise du même mois écrit « Fund Size USD 1.6 bn » : devise et nature incertaines. Frais : factsheet « Frais de gestion annuels 1,50% », « Frais courants 1,59% » ; KID « 1,59% ». Indice vide : KID « L’Indice de référence est utilisé uniquement à des fins de comparaison des performances » (indice MSCI World ; factsheet « MSCI World Index (Net) », comparaisons « à titre illustratif uniquement »). SRI 4 (KID). SFDR article 8 (KID). Allocations : géographique, sectorielle, 5 principales positions (% des encours).",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "60.92"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "11.18"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "8.32"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "7.40"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "4.39"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "3.62"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "3.08"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidité",
+   "pct": "1.09"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "20.14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "18.95"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Durable",
+   "pct": "17.22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "16.43"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "12.70"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discr.",
+   "pct": "7.73"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidité",
+   "pct": "1.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CME Group",
+   "pct": "8.12"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Illumina",
+   "pct": "6.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novonesis",
+   "pct": "5.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UnitedHealth Group",
+   "pct": "5.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oréal",
+   "pct": "5.71"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BYQ67K80/IE00BYQ67K80__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BYQ67K80/IE00BYQ67K80__KID_FR_2026-05-08.pdf"
+}

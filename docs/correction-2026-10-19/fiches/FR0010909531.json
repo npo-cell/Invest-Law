@@ -1,0 +1,95 @@
+{
+ "n": "790",
+ "isin": "FR0010909531",
+ "nom": "R-CO THEMATICS SILVER PLUS C EUR",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-20",
+ "date_creation": "2018-11-30",
+ "devise": "EUR",
+ "type_fonds": "Actions zone euro (thématique)",
+ "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+ "gerants": "Nathalie BOURDONCLE, Valérie OELHOFFEN",
+ "encours_millions": "62.99",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.77",
+ "sri": "4",
+ "indice": "Euro Stoxx ® NR",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le compartiment R-co Thematic Silver Plus a pour objectif de gestion de surperformer, sur une période égale ou supérieure à 5 ans, l'indice Dow Jones Eurostoxx dividendes nets réinvestis des marchés d'actions de la zone euro via la mise en place d’une gestion discrétionnaire.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nom des documents : « R-co Thematic Silver Plus C EUR » (One Life : « R-CO THEMATICS SILVER PLUS C EUR ») ; « SICAV Actions Zone Euro », compartiment de la SICAV R­co (KID). Date de création = « Date de création 30/11/2018 » ; la factsheet indique aussi « Date 1ère VL 09/07/2010 » (antérieure : probablement l'historique d'un fonds repris dans le compartiment, non précisé) — à confirmer. Encours « Actifs sous gestion 62,99 M€ ». Frais de gestion = « Frais de gestion financière 1,50% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 1,77 % (= factsheet « Frais courants ex-post 1,77% ») ; commission de surperformance « 15% au-dessus de l'indice de référence ». Indice = factsheet « Euro Stoxx ® NR » (objectif : « l'indice Dow Jones Eurostoxx dividendes nets réinvestis »). SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Dynamique : actions zone euro sur un thème large (vieillissement), SRI 4. Allocations : classes d'actifs, capitalisations, secteurs et pays = graphiques en image non lisibles dans le texte → non repris ; seules les 10 principales positions sont reprises. Corrigé : aucune valeur chiffrée modifiée (encours, frais, SRI identiques) ; compartiment → forme juridique du KID ; gérants écrits comme dans la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.4",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.4",
+  "sfdr": "KID p.3",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Generali",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banca Generali SpA",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oreal SA",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fresenius SE & Co KGaA",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz SE",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide SA",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UCB SA",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Merck KGaA",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fagron",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXA SA",
+   "pct": "3.3"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010909531/FR0010909531__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0010909531/FR0010909531__KID_FR_2026-02-20.pdf"
+}

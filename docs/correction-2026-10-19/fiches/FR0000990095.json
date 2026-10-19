@@ -1,0 +1,103 @@
+{
+ "n": "742",
+ "isin": "FR0000990095",
+ "nom": "ODDO BHF AVENIR EURO CR-EUR",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-27",
+ "date_creation": "1998-12-30",
+ "devise": "EUR",
+ "type_fonds": "Actions zone euro petites et moyennes capitalisations",
+ "compartiment": "OPCVM relevant de la directive 2009/65/CE constitué sous la forme d'un Fonds Commun de Placement",
+ "gerants": "Pascal Riegis, Grégory Deschamps, Frédéric Doussard, Sébastien Maillard",
+ "encours_millions": "220",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.00",
+ "frais_courants": "2.16",
+ "sri": "4",
+ "indice": "MSCI EMU SMID Cap (NR)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nODDO BHF Avenir Euro est un fonds actions de la zone euro investi dans des sociétés de moyennes et petites capitalisations, avec maximum 10% dans des sociétés domiciliées en dehors des pays de la zone euro. Il a vocation à être investi en permanence en actions et vise une appréciation du capital dans la durée. Il sélectionne des sociétés parmi les plus performantes selon nous au sein de la zone euro, cycliques ou non cycliques, qui ont souvent un rayonnement international, à un prix jugé potentiellement attractif eu égard à leurs perspectives à long terme.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : indice « MSCI EMU SMID NR EUR » → « MSCI EMU SMID Cap (NR) » (nom de la factsheet ; KID : objectif de surperformer « MSCI EMU SMID CAP (Net Return) ») ; disclaimer remplacé par le texte exact de la factsheet (l’ancien était un résumé) ; compartiment ajouté (KID : FCP). Encours 220 M€ inchangé (« Actif net du fonds 220 M€ », factsheet 30/09/2026). Date de création : « Date de création de la part (1ère VL) 30/12/1998 » (fonds créé le 19/09/1985). Frais : « Frais de gestion fixes 2.00 % TTC max » (taux maximum) ; frais courants KID 27/08/2026 2,16 % (factsheet 2.16 %). SRI 4 et SFDR article 8 : KID. Aucun % durable écrit. Allocations : 10 principales lignes (colonne « Poids dans le fonds ») ; les répartitions géographique, sectorielle et par capitalisation sont des graphiques sans valeurs extractibles (seule « Poche monétaire 12,8% » est lisible).",
+ "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/FR0000990095/FR0000990095__KID_FR_2026-08-27.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Andritz Ag",
+   "pct": "5.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mtu Aero Engines Ag",
+   "pct": "5.46"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gea Group Ag",
+   "pct": "4.85"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Jost Werke Ag",
+   "pct": "4.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Virbac Sa",
+   "pct": "4.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "De'Longhi Spa",
+   "pct": "4.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Krones Ag",
+   "pct": "4.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fluidra Sa",
+   "pct": "3.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Icon Plc",
+   "pct": "3.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ipsen",
+   "pct": "3.22"
+  }
+ ]
+}

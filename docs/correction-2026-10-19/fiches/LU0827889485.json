@@ -1,0 +1,104 @@
+{
+ "n": "39",
+ "isin": "LU0827889485",
+ "nom": "(I/C)BGF WORLD HEALTHSCIENCE FUND D2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2012-10-25",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (santé)",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Erin Xie, Xiang Liu",
+ "encours_millions": "13099.92",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.75",
+ "frais_courants": "1.06",
+ "sri": "4",
+ "indice": "MSCI World Health Care Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale la santé, la pharmacie, la technologie et les fournitures médicales et le développement de la biotechnologie.\n\nLe total de l’actif du Fonds sera investi conformément à sa Politique ESG, comme indiqué dans le prospectus. Pour plus de détails concernant les caractéristiques ESG, veuillez consulter le prospectus et le site web de BlackRock à l’adresse www.blackrock.com/baselinescreens",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 13132.90 → 13099.92 ; encours_date 2026-08-31 → 2026-09-30. Date de création = « Date de lancement de la Catégorie d'Actions : 25-oct.-2012 » (fonds lancé le 06-avr.-2001). Encours « Encours sous gestion (M) : 13.099,92 USD » au 30-sept.-2026. Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,06 % (identique factsheet). Indice : « MSCI World Health Care Index » (KID : construction du portefeuille, comparaison de la performance et gestion des risques) ; la factsheet écrit « Contrainte 1 : MSCI World Health Care Index Net Return (EUR) ». SFDR « Article 8 » (factsheet), aucun % durable écrit. Classification Agressif (actions sectorielles santé) malgré un SRI de 4. Politique : « Aperçu du fonds » de la factsheet du 30/09/2026 (plus court que celui de la factsheet précédente ; texte complet dans la section « Objectifs » du KID). Allocations : seules les 10 principales positions ; les graphiques « Répartition géographique », « Répartition des secteurs » et « Capitalisation boursière » n'ont pas d'étiquettes extractibles en texte et ne sont pas repris.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__KID_FR_2026-04-29.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ELI LILLY",
+   "pct": "9.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JOHNSON & JOHNSON",
+   "pct": "8.63"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBVIE",
+   "pct": "6.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCK & CO INC",
+   "pct": "5.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROCHE PS PAR AG",
+   "pct": "4.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "4.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVARTIS AG",
+   "pct": "4.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GILEAD SCIENCES",
+   "pct": "3.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMGEN INC",
+   "pct": "3.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITEDHEALTH GROUP",
+   "pct": "3.16"
+  }
+ ]
+}

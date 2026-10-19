@@ -1,0 +1,231 @@
+{
+ "n": "612",
+ "isin": "FR0010241240",
+ "nom": "HMG GLOBETROTTER C EUR",
+ "maison": "HMG Finance",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-01",
+ "date_creation": "2005-10-21",
+ "devise": "EUR",
+ "type_fonds": "Actions marchés émergents",
+ "compartiment": "Compartiment de la SICAV HMG FINANCE (Société d’Investissement à capital variable de droit français)",
+ "gerants": "Marc GIRAULT, Paul GIRAULT",
+ "encours_millions": "162.37",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2",
+ "frais_courants": "2.00",
+ "sri": "3",
+ "indice": "MSCI Emerging Markets net en EUR",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées indiquées ne préjugent pas des performances futures. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DIC pour plus d’informations",
+ "politique_fr": "L'objectif de gestion est de battre l’indice MSCI Emerging Markets net en EUR sur une période de cinq ans grâce à des investissements sur les marchés d'actions internationaux. Toutefois le compartiment HMG Globetrotter n’est pas un OPC indiciel. Par conséquent il pourra arriver que sa performance s’éloigne de celle de l’indice.\n\nInformations complémentaires : Le compartiment prend position dans des sociétés dont l’essentiel des revenus est réalisé en dehors de l’Europe. Ces sociétés sont des filiales de grandes sociétés européennes cotées à l’étranger, des sociétés de pays émergents auxquelles un accord avec un groupe européen confère un avantage concurrentiel décisif ou des sociétés européennes dont l’essentiel des revenus est réalisé dans des pays émergents. La répartition des positions et la nature des sociétés présentes dans le portefeuille doivent permettre de conserver un profil de risque plus prudent qu’un investissement direct dans des sociétés de pays émergents. Depuis le 01/07/2023, l’indice de référence du compartiment est le MSCI Emerging Markets net en EUR (Source : net dans www.msci.com).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 ; nouveau KID du 01/06/2026 trouvé sur hmgfinance.com et rangé dans INVESTLAW (remplace celui du 01/01/2025). Corrigé : encours 161 → 162.37 (« Actif net du compartiment Au 30/09/2026 162 368 789,44 € ») ; compartiment « SICAV HMG Finance » → libellé du KID ; indice « MSCI Emerging Markets Daily Net TR EUR » → « MSCI Emerging Markets net en EUR » (libellé de la factsheet) ; classification Dynamique → Agressif (actions de pays émergents, malgré un SRI 3) ; politique = « Objectif de gestion » de la factsheet. Date de création = « Lancement le 21 octobre 2005 ». Frais : factsheet « Frais de Gestion 2% TTC » ; KID « 2,00% » ; commission de surperformance 15 % au-delà du MSCI EM. Indice retenu : objectif de battre l'indice sur cinq ans. SRI 3 (KID : « classe de risque 3 »). SFDR article 8 (factsheet et KID). Gérants : « Co-Gérants : Marc GIRAULT », « Paul GIRAULT ». Allocations : régions d'activité, capitalisations (la répartition inclut obligations, OPCVM monétaire et liquidités), secteurs, 10 principales lignes actions.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "9.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe Emergente",
+   "pct": "5.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "47.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "0.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "11.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique/Moyen Orient",
+   "pct": "18.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<500m€",
+   "pct": "40.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 500M€ à 1 Md€",
+   "pct": "21.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 1 à 5 Mds€",
+   "pct": "14.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">5Mds€",
+   "pct": "9.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Obligations",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "OPCVM monétaire",
+   "pct": "7.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "7.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "4.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "13.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "8.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "25.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "9.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "OPCVM monétaire",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TIPCO ASPHALT",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AKASHA WIRA INTL",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SONATEL",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SALZER ELECTRONICS",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VOLTALIA",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KOLMAR HOLDINGS",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KGHM POLSKA",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BRASSERIES DU MAROC",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NIKON CORP",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BUDWEISER BREWING",
+   "pct": "2.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/HMG_FINANCE/FR0010241240/FR0010241240__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/HMG_FINANCE/FR0010241240/FR0010241240__KID_FR_2026-06-01.pdf"
+}
