@@ -1,0 +1,102 @@
+{
+ "n": "592",
+ "isin": "IE00B57XTG52",
+ "nom": "GAVEKAL ASIAN OPPORTUNITIES UCITS C EUR",
+ "maison": "GaveKal Fund Management (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "",
+ "date_creation": "2006-01-11",
+ "devise": "EUR",
+ "type_fonds": "Actions Asie-Pacifique",
+ "compartiment": "sub-fund of the Gavekal UCITS Fund, an open-ended umbrella unit trust",
+ "gerants": "Alfred Ho, Christine Cheung",
+ "encours_millions": "",
+ "encours_devise": "",
+ "encours_date": "",
+ "frais_gestion": "2.02",
+ "frais_courants": "2.19",
+ "sri": "",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future results. Share class performance is reported net of fees and charges.",
+ "politique_fr": "",
+ "politique_en": "The Gavekal Asian Opportunities UCITS Fund (\"GAOUF\") seeks to capture the long-term returns of Asian equity markets by investing in a diversified portfolio of equities, especially large cap growth stocks, across the Asia-Pacific region. The fund's objective is to outperform the MSCI AC (All Country) Pacific Index. In occasional circumstances, the fund may temporarily reduce equity exposure in favor of cash or Asian bonds to dampen short-term volatility.\n\nThe fund is a long-only, diversified, Euro-denominated equity fund investing primarily in large cap growth equities across the greater Asia-Pacific region (including Japan, Australia and India). The fund is UCITS V compliant and classified as an Article 8 fund under SFDR.\n\nThe fund follows a growth equity approach, identifying top-down macro themes as a foundation for building a concentrated yet diversified equity portfolio. Stock selection focuses on companies that are substantially mispriced relative to their growth earnings and price momentum. Idea generation is driven by fund managers and analysts using proprietary screening tools, top-down expertise, bottom-up assessments, and input from corporates, industry contacts, governments and sell-side research. The portfolio combines high conviction positions with broad diversification within a controlled risk framework.",
+ "source_politique": "Factsheet",
+ "remarques": "Aucun KID trouvé (ni dans le dépôt, ni sur fundinfo ; le site du gestionnaire réserve les documents aux investisseurs institutionnels après déclaration) : SRI laissé vide. Factsheet EN 31/08/2026 = la plus récente disponible ; factsheet multi-parts, la ligne « Share Class C EUR » (ISIN IE00B57XTG52, part « Retail ») est explicite. Corrigé : SRI 4 retiré (aucun KID) ; frais courants 2.19 confirmés ; indice « MSCI AC Asia Pacific Index » retiré (voir ci-dessous) ; politique : texte anglais de la factsheet (« Product Summary », sans le paragraphe sur le profil d'investisseur), l'ancien texte français était rédigé. Date de création = lancement du fonds (« Launch Date 11 January 2006 ») ; la date de la part C EUR n'est pas donnée. Encours : non indiqué dans la factsheet. Frais : « Fees C : 2.02% management fee p.a., no performance fee » ; frais courants = « Total Expense Ratio (2025) » de la part C EUR 2.19% (factsheet, pas de KID). Indice vide : la politique vise à surperformer le « MSCI AC (All Country) Pacific Index », alors que le tableau et les mentions légales citent le « MSCI AC Asia Pacific TR », « used as a comparator benchmark to assess the Fund’s performance. It is not used to constrain portfolio construction » : nom incohérent, non retenu. Gérants = « Investment Advisors: Alfred Ho & Christine Cheung ». SFDR article 8 (factsheet). Allocations : répartitions par pays et par secteur en % de l'actif net (graphiques ; seules les tranches étiquetées, somme 92,01 %).",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "gerants": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "42.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Korea",
+   "pct": "22.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "9.63"
+  },
+  {
+   "type": "Pays",
+   "libelle": "India",
+   "pct": "8.92"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "4.94"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "4.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "40.62"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "24.95"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "12.86"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "11.86"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "1.72"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/GAVEKAL_FUND_MANAGEMENT_IRELAND_LIMITED/IE00B57XTG52/IE00B57XTG52__Factsheet_EN_2026-08-31.pdf",
+ "kid_fichier": ""
+}

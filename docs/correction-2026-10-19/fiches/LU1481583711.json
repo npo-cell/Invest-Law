@@ -1,0 +1,212 @@
+{
+ "n": "588",
+ "isin": "LU1481583711",
+ "nom": "FVS BOND OPPORTUNITIES RT EUR",
+ "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-01",
+ "date_creation": "2016-10-17",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "compartiment Flossbach von Storch - Bond Opportunities, qui fait partie du fonds d’investissement Flossbach von Storch, fonds commun de placement luxembourgeois (fonds commun de placement — FCP)",
+ "gerants": "Frank Lipowski",
+ "encours_millions": "4880",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.87",
+ "frais_courants": "1.02",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "9.26 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication fiable de la performance future.",
+ "politique_fr": "Flossbach von Storch - Bond Opportunities est un fonds obligataire diversifié à l'échelle mondiale avec une approche d'investissement active, qui se concentre sur les obligations d'entreprises, les obligations d'État et les obligations sécurisées. Le fonds exploite de manière flexible les opportunités de l’ensemble du marché obligataire dans le cadre de la politique d’investissement définie dans le prospectus.. Outre les obligations de qualité \"investment grade\", la gestion du fonds peut également investir dans des obligations non notées ou qui ne sont pas de qualité \"investment grade\". Les risques liés aux devises étrangères sont actuellement limités. La sélection des titres s'effectue dans le cadre d'un processus de recherche et d'analyse fondamentale. La stratégie d'investissement comprend des modèles d'évaluation internes, l'intégration de l’ESG et l'engagement. En outre, des critères d'exclusion définis dans le cadre de la politique d'investissement du compartiment sont pris en compte.\n\nLe compartiment est géré activement et ne se base pas sur un indice de référence. La composition du portefeuille est effectuée par le gestionnaire du fonds exclusivement selon les critères définis dans la politique d'investissement, revue régulièrement et ajustée le cas échéant. Le compartiment respecte les normes de qualité de crédit et les limites de solvabilité applicables au secteur de l’assurance. Le compartiment est un produit concerné par l’article 8 du Règlement sur la divulgation (UE) 2019/2088 (SFDR).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : factsheet 30/09/2026 ajoutée (le site n'avait que le KID) ; duration 9.27 → 9.26 ans (factsheet 30/09/2026) ; encours 4880 confirmé (« Patrimoine du fond 4.88 milliards EUR ») ; politique remplacée par la « Stratégie de placement » de la factsheet. Factsheet intitulée « Bond Opportunities - RT CH LI », ISIN LU1481583711 et « Classe de parts RT » conformes. Frais : factsheet « Frais courants 1,02 % p.a. dont entre autres frais de gestion 0,87 % p.a. » ; KID « 1,02 % ». Indice : « Le compartiment est géré activement et ne se base pas sur un indice de référence ». Duration = « Durée 9.26 ans ». SRI 2 (KID). SFDR article 8 (factsheet). Gérant : Frank Lipowski, avec l'équipe Fixed Income. Allocations : « Positions » = top 10 garants (émetteurs) ; « Secteurs » = top 10 allocation sectorielle intitulée « poche actions », précisée « basé sur des obligations hors obligations d’État ».",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "duration": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "États-Unis d'Amérique",
+   "pct": "14.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nouvelle-Zélande",
+   "pct": "7.84"
+  },
+  {
+   "type": "Positions",
+   "libelle": "République d'Allemagne",
+   "pct": "5.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com Inc.",
+   "pct": "3.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc.",
+   "pct": "3.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bayerische Motoren Werke AG",
+   "pct": "2.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ING Groep N.V.",
+   "pct": "2.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Royaume d'Espagne",
+   "pct": "2.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Johnson & Johnson",
+   "pct": "2.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TotalEnergies SE",
+   "pct": "1.71"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "22.95"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "31.65"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "28.26"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "14.64"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "2.10"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "0.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "17.11"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "15.81"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "13.69"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "9.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "9.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "7.53"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "6.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "4.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3.60"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'entreprise",
+   "pct": "56.54"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'État",
+   "pct": "35.57"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations hypothécaires",
+   "pct": "5.58"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "3.13"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations convertibles",
+   "pct": "0.28"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres (entre autres dérivés)",
+   "pct": "-1.10"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__KID_FR_2026-04-01.pdf"
+}

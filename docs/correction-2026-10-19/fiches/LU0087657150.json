@@ -1,0 +1,198 @@
+{
+ "n": "387",
+ "isin": "LU0087657150",
+ "nom": "AXA WF- SWITZERLAND EQUITY A CHF",
+ "maison": "AXA Funds Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "1992-12-31",
+ "devise": "CHF",
+ "type_fonds": "Actions suisses",
+ "compartiment": "compartiment de la SICAV de droit luxembourgeois AXA World Funds",
+ "gerants": "Hervé MANGIN, Benoit LABEYRIE",
+ "encours_millions": "242.77",
+ "encours_devise": "CHF",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.5",
+ "frais_courants": "1.76",
+ "sri": "4",
+ "indice": "60% SPI Middle Caps Total Return Gross + 40% SPI Large Caps Total Return Gross",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+ "politique_fr": "L'objectif du Compartiment est de générer une croissance à long terme du capital, mesurée en CHF, en investissant dans des sociétés de toutes capitalisations cotées ou domiciliées en Suisse.\n\nLe Compartiment est géré de manière active et cherche à saisir des opportunités en investissant principalement dans des actions émises par des sociétés cotées ou domiciliées en Suisse et faisant partie d'un indice de référence composé à 60 % du SPI Middle Caps Total Return et à 40 % du SPI Large Caps Total Return (l'« Indice de Référence »). Dans le cadre du processus d'investissement, le Gestionnaire Financier bénéficie d'un large pouvoir discrétionnaire sur la composition du portefeuille du Compartiment et peut prendre, sur la base de ses convictions d'investissement, d'importantes positions surpondérées et sous-pondérées sur les secteurs et les sociétés par rapport à la composition de l'Indice de Référence et/ou exposer le Compartiment à des sociétés, des pays ou des secteurs qui ne sont pas inclus dans l'Indice de Référence, bien que les composants de l'Indice de Référence soient généralement représentatifs du portefeuille du Compartiment. Ainsi, l'écart avec l'Indice de Référence peut s'avérer significatif. Les décisions d'investissement se basent à la fois sur une analyse macroéconomique et sur une analyse spécifique des secteurs et des sociétés. Le processus de sélection des actions repose sur une analyse rigoureuse du modèle de croissance des sociétés, de la qualité de leurs dirigeants, de leurs perspectives de croissance et de leur profil risque/rendement global. Le Compartiment investira principalement dans des actions émises par des entreprises de grande, moyenne ou petite capitalisation cotées ou domiciliées en Suisse. Des produits dérivés peuvent être utilisés à des fins de gestion efficace du portefeuille ou de couverture. Le Compartiment est un produit financier qui promeut des caractéristiques environnementales et/ou sociales au sens de l'article 8 du Règlement (UE) 2019/2088 du 27 novembre 2019 sur la publication d'informations en matière de durabilité dans le secteur des services financiers.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR du 30/09/2026 (classe A CHF, ISIN C LU0087657150). Date de création : « Date de la 1ère VNI 31/12/1992 ». Encours « Actif net du fonds (M) CHF 242.77 ». Frais : « Frais de gestion maximum 1.5% » (taux maximal) ; frais courants 1,76 % (KID). Indice : « 60% SPI Middle Caps Total Return Gross + 40% SPI Large Caps Total Return Gross » depuis le 01/04/2005. SFDR article 8. Classification Agressif : actions d'un seul pays (Suisse), à dominante moyennes capitalisations (SRI 4). Allocations : 10 principaux titres, exposition sectorielle, capitalisations (colonne portefeuille) ; pas de répartition géographique (fonds mono-pays). Corrigé : encours 243.11 → 242.77 (factsheet 30/09/2026) ; classification Agressif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__KID_FR_2026-02-19.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding AG",
+   "pct": "8.06"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nestle SA",
+   "pct": "6.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novartis AG",
+   "pct": "4.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Helvetia Baloise Holding AG",
+   "pct": "4.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lonza Group AG",
+   "pct": "4.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SGS SA",
+   "pct": "3.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Julius Baer Group Ltd",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dsm-firmenich AG",
+   "pct": "3.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fischer (georg)-reg",
+   "pct": "3.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vat Group AG",
+   "pct": "3.63"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "27.51"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "26.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés Financières",
+   "pct": "14.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation courante",
+   "pct": "9.97"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux de Base",
+   "pct": "5.39"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "3.32"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non essentielle",
+   "pct": "3.14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "2.57"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "1.86"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Monétaire",
+   "pct": "4.87"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 1 à 3 mds",
+   "pct": "7.09"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 3 à 5 mds",
+   "pct": "9.14"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 5 à 10 mds",
+   "pct": "8.92"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 10 à 25 mds",
+   "pct": "26.65"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 25 à 100 mds",
+   "pct": "14.44"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 100 à 250 mds",
+   "pct": "15.92"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Plus de 250 mds",
+   "pct": "12.97"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Monétaire",
+   "pct": "4.87"
+  }
+ ]
+}

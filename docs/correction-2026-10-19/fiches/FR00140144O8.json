@@ -1,0 +1,177 @@
+{
+ "n": "355",
+ "isin": "FR00140144O8",
+ "nom": "ALIENOR HIGH DIVIDENDS EUROPE C EUR",
+ "maison": "ALIENOR CAPITAL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-17",
+ "date_creation": "2025-12-31",
+ "devise": "EUR",
+ "type_fonds": "Actions zone euro à dividendes élevés",
+ "compartiment": "FCP de droit français - OPCVM",
+ "gerants": "Sébastien HÉNIN, Arnaud RAIMON",
+ "encours_millions": "3.7",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2",
+ "frais_courants": "2.15",
+ "sri": "5",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent en rien des résultats futurs.",
+ "politique_fr": "Alienor High Dividends Europe cherche à profiter des actions européennes à haut dividende en assemblant un portefeuille d’actions de sociétés de pays de l’Union Européenne (et membres de la zone Euro) privilégiant les dividendes élevés en rendement et considérés par la société de gestion comme étant récurrents ou en progression. Les gérants sont attentifs à détenir des titres considérés comme modestement valorisés et ayant une capacité à se revaloriser. Le portefeuille sera peu arbitré, les titres sont conservés tant que le rendement est satisfaisant.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nouveaux documents rangés dans INVESTLAW (site alienorcapital.com) : rapport mensuel du 30/09/2026 (remplace celui du 31/08/2026) et DIC part C du 17/07/2026. Date de création : « Date de lancement : 31/12/2025 » (date du fonds ; le rapport précise « Fonds créé en décembre 2025 »). Encours : « Actif net du fonds (M€) 3,7 M€ ». Frais : « Frais de gestion max : 2% TTC (Parts C & D) » (taux maximal) et « Frais de fonctionnement : 0,15% TTC » ; frais courants 2,15 % du KID (« Frais de gestion et autres coûts administratifs et d’exploitation »). SRI 5 (KID du 17/07/2026 ; lettre aux porteurs du 15/07/2026 : passage de 4 à 5). Indice : l'Euro Stoxx Select Dividend 30 Net Return est « un indicateur de comparaison à posteriori qui ne reflète pas la gestion de l’OPCVM » (KID) : non retenu. Gérants écrits en capitales dans le rapport (« Sébastien HÉNIN », « Arnaud RAIMON », co-gérants). SFDR article 8. Classification Dynamique : actions zone euro diversifiées à haut dividende (SRI 5). Allocations : 10 premières lignes du portefeuille (40 lignes au total), secteurs, typologie (Styles) et taux d'investissement ; répartitions par zone, capitalisation et tranche de rendement non reprises (graphiques dont les libellés ne sont pas reliés de façon sûre aux pourcentages). Corrigé : encours 3.4 → 3.7 (rapport 30/09/2026) ; frais courants 2.15 désormais écrits dans le KID ; politique FR prise du rapport mensuel ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/ALIENOR_CAPITAL/FR00140144O8/FR00140144O8__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ALIENOR_CAPITAL/FR00140144O8/FR00140144O8__KID_FR_2026-07-17.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BNP",
+   "pct": "5.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXA",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Crédit Agricole",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eurazeo",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intesa",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Enel",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NN Group",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sanofi",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Veolia",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Engie",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banque",
+   "pct": "24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Foncière",
+   "pct": "22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "15"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services",
+   "pct": "12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "10"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Automobile",
+   "pct": "5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma",
+   "pct": "3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Spiritueux",
+   "pct": "3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Petrole",
+   "pct": "2"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Stable Models",
+   "pct": "70"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Cyclical Valuation",
+   "pct": "20"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Fallen Angels",
+   "pct": "10"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Taux d’investissement en actions",
+   "pct": "94.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités ou monétaire",
+   "pct": "5.9"
+  }
+ ]
+}

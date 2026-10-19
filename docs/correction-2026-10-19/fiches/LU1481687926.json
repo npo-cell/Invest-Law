@@ -1,0 +1,274 @@
+{
+ "n": "361",
+ "isin": "LU1481687926",
+ "nom": "ALLIANZ MULTI ASSET L/S AT H2 EUR",
+ "maison": "Allianz Global Investors GmbH",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2016-11-15",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs long/short (performance absolue)",
+ "compartiment": "Allianz Multi Asset Long / Short (Le « Compartiment ») est un compartiment de Allianz Global Investors Fund qui est établi en tant que SICAV domiciliée au Luxembourg",
+ "gerants": "Claudio Marsala",
+ "encours_millions": "123.75",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.80",
+ "sri": "3",
+ "indice": "SOFR (hedged into EUR)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "-7.48",
+ "qualite_emetteurs": "AAA",
+ "disclaimer": "Past performance does not predict future returns.",
+ "politique_fr": "",
+ "politique_en": "The fund aims at generating capital growth over the long term and superior risk-adjusted returns throughout the market cycle. To this end it follows a long/short strategy in a variety of asset classes including, equities, bonds, commodities and currencies. Exposure to asset classes may be gained through derivatives as well as direct investments and other instruments.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet EN du 30/09/2026 (aucune factsheet FR pour cette part). Date de création : « Share class launch date 15/11/2016 ». Encours « Fund size 123.75 M USD » (part : 2.00 M EUR). Frais : « All-in fee (%) p.a. 1.75 » (commission tout compris, non retenue comme frais de gestion) et « TER (%) 1.80 » ; frais courants 1,80 % du KID. Indice : « SOFR (hedged into EUR) », utilisé pour l'objectif de surperformance (KID). SFDR : article 6 (KID : « article 6 du SFDR »). Duration : « Eff. duration incl. cash & deriv. -7.48 » (hors liquidités et dérivés : 0.41). Qualité : « Average rating AAA » (poche obligataire). Compartiment : texte du KID (PDF dont pdftotext n'extrait aucun texte, lu via pypdf : écart du contrôle automatique = artefact d'extraction). Classification Equilibré : multi-actifs long/short à performance absolue (SRI 3). Politique : texte anglais de la factsheet (politique FR vide). Allocations : classes d'actifs y compris dérivés (graphique : libellés et valeurs dans le même ordre ; positions nettes négatives gardées), 10 premières positions ; maturités, secteurs, régions, pays et notations de la poche obligataire (colonne « % Fund weight »). Corrigé : encours 125.34 → 123.75 (factsheet 30/09/2026) ; frais de gestion 1.75 → vide (all-in fee) ; indice précisé « (hedged into EUR) » ; duration -5.36 → -7.48 ; classification Dynamique → Equilibré ; SFDR 6 ajouté ; politique FR remplacée par la politique EN de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__KID_FR_2026-04-16.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Equity",
+   "pct": "48.07"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Commodities",
+   "pct": "4.21"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Currency",
+   "pct": "-49.65"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fixed income",
+   "pct": "-98.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 2.250%",
+   "pct": "2.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.625%",
+   "pct": "2.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.000%",
+   "pct": "2.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.625%",
+   "pct": "2.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 3.750%",
+   "pct": "2.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.125%",
+   "pct": "2.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.125%",
+   "pct": "2.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 3.875%",
+   "pct": "2.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.125%",
+   "pct": "1.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "US TREASURY N/B FIX 4.250%",
+   "pct": "1.64"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-1",
+   "pct": "88.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3",
+   "pct": "10.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financial institutions",
+   "pct": "35.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Treasury",
+   "pct": "28.08"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agency",
+   "pct": "15.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrial",
+   "pct": "6.53"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Supranational",
+   "pct": "2.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Local authority",
+   "pct": "1.24"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Others",
+   "pct": "2.63"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "8.19"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "America",
+   "pct": "50.84"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asia-Pacific",
+   "pct": "20.32"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "EMU",
+   "pct": "15.70"
+  },
+  {
+   "type": "Pays",
+   "libelle": "USA",
+   "pct": "38.48"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "8.56"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australia",
+   "pct": "7.57"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "6.67"
+  },
+  {
+   "type": "Pays",
+   "libelle": "South Korea",
+   "pct": "6.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "4.05"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Sweden",
+   "pct": "3.25"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "2.47"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Others",
+   "pct": "14.27"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "8.19"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "1.96"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "54.92"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "34.50"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "0.12"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Others",
+   "pct": "0.32"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Cash",
+   "pct": "8.19"
+  }
+ ]
+}

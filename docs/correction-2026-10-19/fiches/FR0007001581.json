@@ -1,0 +1,103 @@
+{
+ "n": "786",
+ "isin": "FR0007001581",
+ "nom": "R-CO GOLD MINING EUR C",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-20",
+ "date_creation": "2018-11-09",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (mines d'or et métaux précieux)",
+ "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+ "gerants": "Charles-Edouard Bilbault, Abel Amine",
+ "encours_millions": "734.9",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.65",
+ "frais_courants": "1.91",
+ "sri": "5",
+ "indice": "NYSE Arca Gold Miners Index (EUR Net TR)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nR-co Gold Mining est constitué d'actions, d'actions à dividende prioritaire, et d'obligations convertibles liées au secteur des métaux rares et précieux. Ces sociétés intéressées par l'extraction ou la transformation de minerais sont sélectionnées sur les places étrangères. Le portefeuille repose principalement sur les grandes exploitations minières internationales. Toutefois, le Fonds se réserve la possibilité d'investir dans de plus petites affaires aux perspectives de développement intéressantes.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 803.74 → 734.9 (« Actifs sous gestion 734,9 M€ », factsheet 30/09/2026) ; politique remplacée par le bloc « Stratégie d'investissement » de la factsheet (l’ancien texte était rédigé d’après le prospectus/KID) ; compartiment refait (KID : compartiment de la SICAV R-co) ; classification ajoutée : Agressif (actions sectorielles mines d’or, SRI 5). Date de création « 09/11/2018 » (factsheet ; la même factsheet indique « Date 1ère VL 04/06/1996 », historique antérieur à la création du compartiment ; le KID complète l’historique par un proxy). Frais : « Frais de gestion financière 1,65% TTC maximum de l'actif net » (taux maximum), « Frais courants ex-post 1,91% » ; KID 20/02/2026 1,91 % ; commission de surperformance 20 %. Indice : objectif de surperformance (KID : « NYSE Arca Gold Miners Index, libellé en euros ») ; nom de la factsheet. Gérants : factsheet « Charles-Edouard BILBAULT / Abel AMINE » (noms en majuscules : écart du contrôle automatique dû à la casse). SRI 5 et SFDR article 6 (KID). Allocations : principales positions (63 titres au total) ; les expositions par classe d’actifs, capitalisation, secteur et pays sont des graphiques sans valeurs extractibles.",
+ "factsheet_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0007001581/FR0007001581__KID_FR_2026-02-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Agnico Eagle Mines Ltd",
+   "pct": "6.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Montage Gold Corp",
+   "pct": "6.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Newmont Corp",
+   "pct": "5.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Barrick Mining Corp",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Aya Gold & Silver Inc",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Anglogold Ashanti Plc",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "G Mining Ventures Corp/old",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Equinox Gold Corp",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Omai Gold Mines Corp",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Torex Gold Resources Inc",
+   "pct": "3.5"
+  }
+ ]
+}

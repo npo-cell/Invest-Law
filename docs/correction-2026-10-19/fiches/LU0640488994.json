@@ -1,0 +1,150 @@
+{
+ "n": "836",
+ "isin": "LU0640488994",
+ "nom": "THREADNEEDLE (CT) GLOBAL MULTI ASSET INC AEH EUR",
+ "maison": "Threadneedle Management Luxembourg S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-04-01",
+ "date_creation": "2012-09-18",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (revenu, 40 à 60 % actions)",
+ "compartiment": "Columbia Threadneedle (Lux) I est une société d'investissement à capital variable (\" SICAV \") constituée au Luxembourg et gérée par Threadneedle Management Luxembourg S.A..",
+ "gerants": "Ben Rodriguez",
+ "encours_millions": "107.3",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.57",
+ "sri": "3",
+ "indice": "MSCI ACWI Index (50%), ICE BofA European Currency High Yield Excluding Subordinated Financials Constrained Index (USD Hedged) (30%), Bloomberg Global Aggregate Index (USD Hedged) (20%)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs. Le rendement de votre investissement peut évoluer en raison des fluctuations de change si votre investissement est effectué dans une devise autre que celle utilisée dans le calcul des performances passées.",
+ "politique_fr": "Objectif et politique du fonds\nL’objectif du Fonds est de fournir un revenu permettant de faire croître le montant de votre investissement à moyen et long termes.\n\nLe Fonds est activement géré et maintiendra généralement une allocation de 40 à 60 % aux actions de sociétés du monde entier et une allocation de 40 à 60 % aux obligations de premier ordre ou inférieure à la qualité de premier ordre (qui sont semblables à des prêts et versent un taux d’intérêt fixe ou variable) émises par des sociétés et des États du monde entier. Les obligations dont la notation est inférieure à la qualité de premier ordre ont reçu des notations moins élevées de la part des agences internationales qui les fournissent et sont considérées comme plus risquées que les obligations mieux notées, mais rapportent généralement un plus haut niveau de revenus.\n\nLe Fonds investit directement dans ces actifs, indirectement en ayant recours à d’autres fonds ou par le biais de produits dérivés (instruments complexes). Le Fonds peut également avoir recours à des dérivés à des fins de couverture ou pour gérer plus efficacement le Fonds. Les dérivés peuvent créer un effet de levier (exposition au marché supérieure à la valeur nette des actifs du Fonds).\n\nLe Fonds peut également investir dans des catégories d’actifs et instruments qui diffèrent de ceux mentionnés ci-dessus.\n\nLe fonds est activement géré en fonction de l’indice MSCI ACWI NR (50 %), ICE BofA European Currency High Yield Excluding Subordinated Financials Constrained Index (USD Hedged) (30 %) et Bloomberg Global Aggregate Index (USD Hedged) (20 %). L’indice est représentatif de l’ensemble des titres dans lesquels le Fonds investit et constitue un indice de référence approprié en fonction duquel la performance du Fonds sera calculée et évaluée dans la durée. Le gestionnaire de fonds a le pouvoir de choisir des investissements avec des pondérations différentes de celles de l’indice et des investissements qui ne sont pas dans l’indice, et le Fonds peut différer sensiblement de l’indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet multi-parts : la fiche française du 31/08/2026 est intitulée « CAT. AUP USD (ISIN:LU1297908904) » (performances de la part AUP USD) ; elle donne explicitement la ligne de notre part AEH (Acc, couverte, EUR, OCF 1,57 %, lancement 18/09/12, ISIN LU0640488994) dans le tableau « Catégories d'actions disponibles ». Seules les données du fonds (objectif, gérant, encours, indice, positions, pondérations) et cette ligne sont reprises ; aucune performance de la part AUP. La fiche propre à la part AEH n'existe qu'en italien (non admise). Date de création = lancement de la catégorie AEH « 18/09/12 ». Encours « Actif net: $107,3m » (fonds, en USD). Frais courants KID 1,57 % (= OCF du tableau) ; pas de frais de gestion séparés. Indice composite « MSCI ACWI Index (50%)… » : indice en fonction duquel la performance est calculée et évaluée → retenu (avant le 01/04/2026, indice composite différent incluant 45 % MSCI ACWI et 5 % SOFR). SFDR article 6 (factsheet « Catégorie SFDR: Article 6 ») : vide jusqu'ici dans le classeur. Classification Equilibré : allocation 40-60 % actions / 40-60 % obligations, SRI 3. Allocations : 10 principales positions (total 113,6 %, contrats à terme inclus) et « Pondérations (%) » du fonds en Classes d'actifs (valeur négative gardée). Corrigé : encours 92.3 → 107.3 USD (factsheet 31/08/2026 ; devise USD) ; SFDR → 6 ; disclaimer du site (phrases du KID) → avertissement de la factsheet ; compartiment → texte de la factsheet ; politique du site → bloc « Objectif et politique du fonds » de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Sous-portefeuille d’actions d’Amérique du Nord",
+   "pct": "34.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Columbia Threadneedle Lux I - European Short-Term High Yield Bond -XGC- Distribution",
+   "pct": "19.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sous-portefeuille d’actions des marchés émergents",
+   "pct": "9.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gov Of The United States Of America 4.625% 15-feb-2035",
+   "pct": "8.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "eMini NASDAQ 100 (CME) Sep 26",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mini Russell 1000 Growth (CME) Sep 26",
+   "pct": "8.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sous-portefeuille d’actions européennes hors Royaume-Uni",
+   "pct": "7.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CT Sterling Short-Dated Corporate Bond Fund Institutional X Gross Income GBP",
+   "pct": "6.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "eMini S&P 500 (CME) Sep 26",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CT High Yield Bond Fund Institutional X Gross Income GBP",
+   "pct": "5.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions de l'Amérique du Nord",
+   "pct": "40.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Crédit HR",
+   "pct": "29.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Crédit d'investissement",
+   "pct": "15.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions d'Extrême-Orient",
+   "pct": "9.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions européennes, hors R.-U.",
+   "pct": "8.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions mondiales",
+   "pct": "2.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions japonaises",
+   "pct": "1.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Royaume-Uni",
+   "pct": "0.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Produits dérivés",
+   "pct": "0.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Titres publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Numéraire et options FX",
+   "pct": "-7.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0640488994/LU0640488994__KID_FR_2026-04-01.pdf"
+}

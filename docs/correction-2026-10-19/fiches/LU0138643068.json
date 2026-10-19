@@ -1,0 +1,254 @@
+{
+ "n": "495",
+ "isin": "LU0138643068",
+ "nom": "DPAM L BONDS UNIVERSALIS UNCONSTRAINED B EUR",
+ "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-31",
+ "date_creation": "1985-01-01",
+ "devise": "EUR",
+ "type_fonds": "Obligataire international",
+ "compartiment": "Compartiment de DPAM L, SICAV de droit luxembourgeois",
+ "gerants": "",
+ "encours_millions": "694.02",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.80",
+ "frais_courants": "1.0",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.92 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ni le rendement, ni le capital ne sont garantis ou protégés.",
+ "politique_fr": "Objectif(s) Augmenter la valeur de votre investissement sur le moyen à long terme.\n\nIndice(s) de référence Le fonds est géré sans référence à un indice.\n\nPolitique d'investissement Dans des conditions normales de marché, le compartiment investit principalement dans des obligations de niveau « investment grade » du monde entier et libellées en toute devise. Le fonds peut également investir significativement dans des obligations chinoises et obligations convertibles en action. Le compartiment peut recourir à des instruments dérivés afin de se couvrir contre des fluctuations de marché et de réduire ses coûts, et également dans le but de générer des revenus supplémentaires.\n\nProcessus d'investissement Dans le cadre d'une gestion active du compartiment, le gestionnaire utilise l'analyse macroéconomique, de marché et de crédit afin d'identifier des titres présentant un potentiel de rendement avantageux par rapport au risque encouru.\n\nApproche ESG Dans son processus de décision, le gestionnaire intègre des critères ESG tels que l'intensité de l'empreinte carbone, la protection de l'environnement et la gouvernance d'entreprise. Le gestionnaire exclut les entreprises qui font l'objet de controverses sévères par rapport aux normes internationales, ainsi que les entreprises exposées de manière significative à des activités néfastes pour la société ou l'environnement telles que le charbon thermique et le tabac. Catégorie SFDR Article 8.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 736.24 → 694.02 (« Taille (toutes classes) mn EUR 694.02 », factsheet 30/09/2026) ; frais courants 1.01 → 1.0 (KID 31/08/2026 « 1,0% » ; factsheet 1.01 %) ; indice « Aucun » (« Le fonds est géré sans référence à un indice ») ; duration 4.94 → 4.92 ans ; compartiment complété. Date de création = « Date de la 1ère VNI 01.01.1985 » : antérieure à la création du compartiment (11.12.2001), issu de l'apport de Bond Universalis Classic (factsheet, note 1). Frais de gestion : « dont frais de gestion 0.80% ». SRI : KID « classe de risque basse (niveau 2 ». SFDR « Catégorie SFDR Article 8 », aucun % durable écrit. Duration : « Duration (ans) 4.92 » ; modified duration 4.65 ; pas de notation moyenne. Gérants : aucun nom. Allocations : « Monnaies après couv. taux de change » en Devises, « Stratégies » en Instruments ; tableaux « Structure de capital » et « Modified durations » non repris (types non prévus).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "sri": "KID p.2",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations d'Etat",
+   "pct": "54.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "26.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "5.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non-cyclique",
+   "pct": "2.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Dérivés",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "0.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "1.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA+",
+   "pct": "9.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA-",
+   "pct": "4.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A+",
+   "pct": "3.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "2.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A-",
+   "pct": "2.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB+",
+   "pct": "18.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "24.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB-",
+   "pct": "12.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "High-Yield",
+   "pct": "20.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Dérivés",
+   "pct": "0.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "0.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obl. gouv. nominales",
+   "pct": "46.5"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Financières",
+   "pct": "22.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obl. de sociétés à beta faible",
+   "pct": "12.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obl. de sociétés à beta élevé",
+   "pct": "8.8"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obl. liées à l'inflation",
+   "pct": "8.2"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Actions",
+   "pct": "0.3"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Couvertures taux",
+   "pct": "0.1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Autres obl.",
+   "pct": "0.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités",
+   "pct": "0.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "59.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "11.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autre",
+   "pct": "11.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Forint hongrois",
+   "pct": "4.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Leu roumain",
+   "pct": "4.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso mexicain",
+   "pct": "3.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Rand sud-africain",
+   "pct": "2.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne tchèque",
+   "pct": "2.4"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__KID_FR_2026-08-31.pdf"
+}

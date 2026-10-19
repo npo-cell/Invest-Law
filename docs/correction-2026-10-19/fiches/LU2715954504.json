@@ -1,0 +1,192 @@
+{
+ "n": "444",
+ "isin": "LU2715954504",
+ "nom": "CARMIGNAC PORTFOLIO INFLATION SOLUTION A EUR",
+ "maison": "Carmignac Gestion Luxembourg",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954504/LU2715954504__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954504/LU2715954504__KID_FR_2026-04-16.pdf",
+ "date_creation": "2023-12-15",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Carmignac Portfolio Inflation Solution est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+ "gerants": "Frédéric Leroux, Pierre-Edouard Bonenfant",
+ "encours_millions": "121",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.87",
+ "sri": "3",
+ "indice": "Eurostat Euro HICP hors tabac (interpolé en cotation journalière)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "-0.2 (sensibilité)",
+ "qualite_emetteurs": "AA+",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Inflation Solution est un fonds UCITS multi-actifs exposé à un large éventail de classes d’actifs traditionnelles, intégrant des actifs sensibles à l’inflation tels que les matières premières et des instruments indexés à l’inflation, y compris des swaps d’inflation. La construction du portefeuille vise à maintenir une corrélation positive avec l’inflation tout en mettant en œuvre des stratégies de couverture afin d’atténuer l’impact des mouvements inflationnistes inattendus. Le Fonds a pour objectif de délivrer un rendement total supérieur à l’inflation de la zone euro sur un horizon d’investissement minimum recommandé de cinq ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de la 1ère VL » de la part A EUR Acc (15/12/2023, identique au lancement du compartiment). Encours = « Actifs sous gestion du Fonds : 121M€ » (encours de la part : 42M€). Frais : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » (KID : 1,87 %) ; pas de frais de gestion séparés ; commission liée aux résultats 20 %. Indice : factsheet « Eurostat Euro HICP hors tabac ( interpolé en cotation journalière). » (le KID ne le nomme pas). SRI 3 (KID : « classe de risque 3 sur 7 »). SFDR article 6 (factsheet ; KID : pas d’objectif durable ni de caractéristiques E/S promues). Duration = « Sensibilité taux -0,2 » ; qualité = « Notation moyenne AA+ ». Classification Equilibré : multi-actifs, exposition actions de -20 % à 100 %, SRI 3. Allocations : « Composition du portefeuille » — « Taux d'exposition nette actions » repris tel quel (exposition, pas une détention) ; sous-lignes de « Matières premières » non reprises (libellé « Autres » ambigu) ; notations = « Poche taux » (poids rebasés) ; devises = « Exposition nette par devise » (valeurs négatives gardées). Corrigé (factsheet 30/09/2026) : encours 42 → 121 ; frais courants (vide) → 1.87 ; indice Eurostat Euro HICP hors tabac → Eurostat Euro HICP hors tabac (interpolé en cotation journalière) ; SFDR (vide) → 6 ; investissements durables (%) 6 → (vide) ; duration (vide) → -0.2 (sensibilité) ; qualité (vide) → AA+.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Taux d'exposition nette actions",
+   "pct": "36.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Matières premières",
+   "pct": "11.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations et monétaire",
+   "pct": "77.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "12.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "88.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Franc suisse",
+   "pct": "-0.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "8.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre Sterling",
+   "pct": "-0.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen",
+   "pct": "7.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc $ (AUD et CAD)",
+   "pct": "1.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc LATAM",
+   "pct": "2.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc EEMA",
+   "pct": "1.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Bloc Asie ex Japon",
+   "pct": "-3.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "-7.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "10.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "51.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "22.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "16.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITED STATES 3.88% 15/08/2033",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNITED KINGDOM 3.25% 31/01/2033",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JAPAN 0.10% 20/12/2030",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FRANCE 3.50% 25/11/2033",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GERMANY 2.60% 15/08/2033",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ITALY 4.40% 01/05/2033",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SPAIN 2.55% 31/10/2032",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NETHERLANDS 2.50% 15/07/2033",
+   "pct": "0.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BELGIUM 3.00% 22/06/2033",
+   "pct": "0.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "YELLOW CAKE PLC",
+   "pct": "0.0"
+  }
+ ]
+}

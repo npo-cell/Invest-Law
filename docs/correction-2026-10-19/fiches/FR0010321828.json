@@ -1,0 +1,249 @@
+{
+ "n": "507",
+ "isin": "FR0010321828",
+ "nom": "ECHIQUIER MAJOR SRI GROWTH EUROPE A EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-31",
+ "date_creation": "2005-03-11",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe grandes capitalisations croissance",
+ "compartiment": "Compartiment de la SICAV ECHIQUIER",
+ "gerants": "Adrien Bommelaer, Paul Merle, Marion Cohet Boucheron",
+ "encours_millions": "1226",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.20",
+ "frais_courants": "2.23",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "81.9",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "Echiquier Major SRI Growth Europe est un compartiment dynamique recherchant la performance à long terme à travers l'exposition sur les marchés des actions européennes et investissant dans des entreprises de croissance leaders dans leurs secteurs. Cet objectif est associé à une démarche de nature extra financière, intégrant la prise en compte de critères environnementaux, sociaux et de gouvernance (ESG) tels que la politique environnementale de l’émetteur, la protection des salariés ou encore la compétence de l’équipe dirigeante.\n\nL'indice MSCI EUROPE (ticker Bloomberg MSDEE15N) est un indicateur représentatif de la gestion d'Echiquier Major SRI Growth Europe. Cet indice, utilisé uniquement à titre indicatif, est représentatif de l'évolution des marchés actions des pays les plus développés en Europe. Il est calculé en euros, dividendes réinvestis. L’attention du souscripteur est attirée sur le fait que la composition du portefeuille pourra s’éloigner sensiblement de celle de son indicateur de référence.\n\nL'OPCVM met en œuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres « stock picking » obtenue au travers de la mise en œuvre d'un processus approfondi d'évaluation des sociétés mises en portefeuille. Echiquier Major SRI Growth Europe est exposé à hauteur de 60 % minimum en actions européennes et 25% maximum en actions non européennes. Les actifs du fonds sont composés à hauteur de 60% minimum de grandes valeurs européennes. Il peut être exposé sur des petites et moyennes valeurs dans la limite de 40% de l'actif. Toutefois, afin de permettre l'éligibilité du fonds au PEA, le fonds est investi à hauteur de 75 % en instruments financiers éligibles au PEA.\n\nLe choix des titres se fait en deux étapes :\n\n1.Première étape : Analyse de l’univers d’investissement L’univers d’investissement est constitué des valeurs qui composent les indices suivants : Stoxx Europe Total Market dividendes net reinvestis (en euro) (80%) + MSCI USA Large Cap dividendes nets réinvestis (en euro) (20%).\n\nIl est analysé à partir de critères d’investissement socialement responsable (ISR), afin d’identifier les entreprises ayant les meilleures pratiques en matière de développement durable. Cette analyse se fonde d’une part sur un outil propriétaire du groupe LBP AM de notation extra-financière des émetteurs : GREaT et d’autre part sur l’application d’exclusions.\n\nL’analyse de l’univers présentée ci-dessus permet de déterminer après élimination de 30% des valeurs de l’univers d’investissement la note moyenne ISR que l’OPC devra dépassée (« la Note Moyenne Améliorée). En effet, l’OPC doit obtenir une note moyenne ISR meilleure que la Note Moyenne Améliorée. La Note Moyenne Améliorée est la note moyenne ISR de l’univers d’investissement retraité c’est-à-dire après élimination de 30% des plus mauvaises valeurs (comprenant les deux filtres suivants : note quantitative et exclusions).\n\nAinsi toutes les valeurs de l’univers d’investissement (hors valeurs interdites et exclues) sont donc éligibles à l’OPC, à condition que la note moyenne extrafinancière de l’OPC respecte la condition ci-dessus.\n\n2. Deuxième étape : Sélection des titres en fonction de leurs caractéristiques financières et extra-financière :\n\nA l’issue de cette première étape, la gestion procède à une analyse fondamentale de chaque émetteur selon les critères suivants : -Analyse du management de l’entreprise - Qualité de sa structure financière - La visibilité sur les futurs résultats de l’entreprise - L’analyse des résultats financiers - Les perspectives de croissance de son métier -L’aspect spéculatif de la valeur\n\nL'OPCVM se réserve la possibilité d'investir à hauteur de 25 % maximum en produits de taux. Lors de l'acquisition et du suivi en cours de vie des titres, l'appréciation du risque de crédit repose sur la recherche et l'analyse interne de La Financière de l'Echiquier ainsi que sur les notations proposées par les agences. Les titres obligataires concernés sont des titres réputés « Investment grade », à savoir notés au minimum BBB- par Standard & Poor's ou équivalent ou considérés comme tels par l'équipe de gestion.\n\nLes instruments financiers à terme, négociés ou non sur des marchés réglementés ou de gré à gré, peuvent être utilisés, à titre exceptionnel, pour couvrir le portefeuille contre le risque de change, et également contre le risque action lorsque le gérant anticipe une forte dégradation de la performance du marché.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : encours 1243.4 → 1226 (« 1 226 M€ Actif net », factsheet 30/09/2026) ; % durable 79 → 81.9 (factsheet p.4 « Pourcentage d'investissement durable : Portefeuille 81,9% » ; colonne « Engagement minimum » 100,0 %, non retenue) ; indice MSCI Europe NR EUR retiré : MSCI EUROPE « utilisé uniquement à titre indicatif » (KID) ; factsheet « Indice MSCI EUROPE NR ». Politique prise du KID (31/07/2026) : la factsheet n'a que deux phrases de présentation. Date de création = « Date de 1ère VL 11/03/2005 ». Frais de gestion : « 2,20% TTC max. » (maximum) ; frais courants KID 2.23 % ; commission de surperformance 15 % TTC. SFDR article 8. Allocations : colonne OPC lue sur l'image de la page 2 (le texte extrait mélange OPC et indice) ; « Autres » sectoriel et NOK sans valeur OPC, non repris.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "durable_pct": "factsheet p.4",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "FRA",
+   "pct": "18.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DEU",
+   "pct": "16.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "GBR",
+   "pct": "13.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ESP",
+   "pct": "12.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "NLD",
+   "pct": "11.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "SWE",
+   "pct": "8.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "ITA",
+   "pct": "6.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "USA",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "DNK",
+   "pct": "3.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "CHE",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "32.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "18.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. financiers",
+   "pct": "18.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "8.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discr.",
+   "pct": "6.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "6.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Prod. 1ere néces.",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. collectifs",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. de comm.",
+   "pct": "1.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">100Mds",
+   "pct": "60.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50Mds - 100Mds",
+   "pct": "18.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10Mds - 50Mds",
+   "pct": "21.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "9.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intesa Sanpaolo",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Legrand",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Safran",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Atlas Copco A",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oréal",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Siemens",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Iberdrola",
+   "pct": "3.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "69.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "SEK",
+   "pct": "8.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "7.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "7.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "DKK",
+   "pct": "3.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "3.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321828/FR0010321828__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321828/FR0010321828__KID_FR_2026-07-31.pdf"
+}

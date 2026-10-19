@@ -1,0 +1,339 @@
+{
+ "n": "492",
+ "isin": "LU0215993790",
+ "nom": "DPAM L BALANCED CONSERVATIVE SUST B EUR",
+ "maison": "CA Indosuez Wealth ( Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-31",
+ "date_creation": "2005-04-13",
+ "devise": "EUR",
+ "type_fonds": "Mixte défensif durable",
+ "compartiment": "Compartiment de DPAM L, SICAV de droit luxembourgeois",
+ "gerants": "",
+ "encours_millions": "109.26",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.6",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.79 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ni le rendement, ni le capital ne sont garantis ou protégés.",
+ "politique_fr": "Objectif(s) Augmenter la valeur de votre investissement sur le moyen terme.\n\nIndice(s) de référence Le fonds est géré sans référence à un indice.\n\nPolitique d'investissement Dans des conditions normales de marché, le compartiment investit principalement dans des obligations et, dans une moinde proportion, des actions d'e´metteurs s'engageant à respecter des principes fondamentaux en matière de droits humains, de droit du travail, d'environnement et de lutte contre la corruption tels que définis par le Pacte Mondial de l'ONU. Le compartiment peut investir dans le monde entier dans des titres libellés en toute devise. Le compartiment peut recourir à des instruments dérivés afin de se couvrir contre des fluctuations de marché et de réduire ses coûts, et également dans le but de générer des revenus supplémentaires.\n\nProcessus d'investissement Dans le cadre d'une gestion active du compartiment, le gestionnaire utilise l'analyse macroéconomique, de marché et financière afin de répartir les investissements de manière flexible entre les différentes classes d'actifs, secteurs et zones géographiques, et d'identifier les titres dont il pense qu'ils présentent un potentiel de rendement supérieur au marché.\n\nApproche ESG Dans son processus de décision, le gestionnaire intègre des critères ESG tels que l'intensité de l'empreinte carbone, la protection de l'environnement et la gouvernance d'entreprise. Le gestionnaire exclut les entreprises qui font l'objet de controverses sévères par rapport aux normes internationales, ainsi que les entreprises exposées de manière significative à des activités néfastes pour la société ou l'environnement telles que le charbon thermique et le tabac. Le compartiment investit partiellement dans des activités poursuivant un objectif de durabilité. Catégorie SFDR Article 8+.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 116.42 → 109.26 (« Taille (toutes classes) mn EUR 109.26 », factsheet 30/09/2026) ; compartiment complété ; indice : « Le fonds est géré sans référence à un indice » ; duration 4.6 → 4.79 ans (« Duration (ans) 4.79 »). Date de création = « Date de la 1ère VNI (classe d'action) 13.04.2005 » ; compartiment de DPAM L depuis 07/12/2018, issu de l'apport de DP Global Strategy Conservative Balanced Sustainable (factsheet, note 1). Frais : factsheet « Frais gestion et autres frais d’exploitation 1.60% », « dont frais de gestion 1.20% » ; KID 1,6 %. SRI : KID « niveau 3 sur 7 ». SFDR « Catégorie SFDR Article 8+ », aucun % durable écrit. Duration : « Duration (ans) 4.79 » (partie obligataire) ; modified duration 4.62 ; aucune notation moyenne. Gérants : aucun nom. Classification Equilibré : actions 44,8 %, obligations 54,5 %. Allocations : deux tableaux de secteurs (partie actions, puis partie obligations) rangés en Secteurs, libellés tels qu'écrits.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "sri": "KID p.2",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "44.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "54.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "EMU",
+   "pct": "65.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "18.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe ex-EMU",
+   "pct": "10.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Reste du monde",
+   "pct": "2.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "0.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Supranational",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie-Pacifique",
+   "pct": "0.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "12.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "9.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "7.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation cyclique",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non-cyclique",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Allianz",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia Corp",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intesa Sanpaolo (ord)",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon Com",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide (port)",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Abn Amro Group",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Bilbao Vizcaya Argentaria Sa",
+   "pct": "0.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "10.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA+",
+   "pct": "2.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "0.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA-",
+   "pct": "4.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A+",
+   "pct": "3.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "12.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A-",
+   "pct": "5.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB+",
+   "pct": "7.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "2.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB-",
+   "pct": "2.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "High-Yield",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations d'Etat",
+   "pct": "28.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécoms",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obl. non-financières",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurances",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de consommation",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux de base",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Chimie",
+   "pct": "0.2"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__KID_FR_2026-08-31.pdf"
+}

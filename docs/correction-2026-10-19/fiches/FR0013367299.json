@@ -1,0 +1,135 @@
+{
+ "n": "282",
+ "isin": "FR0013367299",
+ "nom": "(I/C)R-CO VALOR BALANCED P EUR",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-20",
+ "date_creation": "2018-10-24",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+ "gerants": "Yoann IGNATIEW, Emmanuel PETIT, Philippe LOMNE",
+ "encours_millions": "999.78",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.80",
+ "frais_courants": "0.92",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.68 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nRecherche d'une croissance du capital, sur une durée de placement recommandée comprise entre 3 et 5 ans, en s'exposant aux marchés actions et taux avec un profil équilibré mettant en œuvre une allocation d'actifs discrétionnaire et une sélection de titres financiers fondée sur l'analyse financière des émetteurs.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 955.63 → 999.78 ; encours_date 2026-08-31 → 2026-09-30 ; duration 4.45 (sensibilité) → 4.68 (sensibilité). « SICAV Mixte » ; compartiment R-co Valor Balanced de la SICAV R-co (KID). Date de création = « Date de création 24/10/2018 » (« Date 1ère VL 26/10/2018 »). Encours « Actifs sous gestion 999,78 M€ » (30/09/2026). Frais de gestion = « Frais de gestion financière 0,80% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 0,92 % (factsheet : « Frais courants ex-post 0,886% »). Indice « Aucun » : factsheet « Indice de référence - » et KID « L'OPC n'est pas géré en référence à un indice. » Duration = « Sensibilité : 4,68 » de la poche taux. SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Equilibré : poids moyen actions 39,4 % / taux 49,9 % sur le mois (KID : 0-55 % en actions), SRI 3. Politique : « STRATÉGIE D'INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations : classes d'actifs (graphique), secteurs, zones, type de dette et notations = graphiques en image non lisibles dans le texte du PDF → non repris ; reprises : principales positions des poches actions et taux (poids non rebasés) et Maturités = « % Actif » de la « Décomposition de la sensibilité par tranche de maturité » (poche taux, poids rebasés ; Cash sans valeur). Tableaux poids moyens/contributions non repris.",
+ "factsheet_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__KID_FR_2026-02-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.5",
+  "devise": "factsheet p.5",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.5",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.5",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.3",
+  "duration": "factsheet p.4",
+  "disclaimer": "factsheet p.8",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Thermo Fisher Scientific Inc",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Freeport-McMoRan Inc",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MercadoLibre Inc",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepub. Deutschland 2.6 08/15/33",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepub. Deutschland 2 1/2 02/15/35",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepub. Deutschland 2.6 08/15/34",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cassa Centrale Banca 3 3/4 05/27/30",
+   "pct": "0.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Permanent Tsb Group 13 1/4 PERP",
+   "pct": "0.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "8.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3 ans",
+   "pct": "35.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 ans",
+   "pct": "23.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 ans",
+   "pct": "14.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10 ans",
+   "pct": "18.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 10 ans",
+   "pct": "1.1"
+  }
+ ]
+}

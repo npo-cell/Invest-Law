@@ -1,0 +1,224 @@
+{
+ "n": "503",
+ "isin": "LU1819480192",
+ "nom": "ECHIQUIER ARTIFICIAL INTELLIGENCE B EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-22",
+ "date_creation": "2018-06-20",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques (intelligence artificielle)",
+ "compartiment": "Compartiment de la SICAV ECHIQUIER FUND",
+ "gerants": "Christophe Pouchoy, Stéphane Nières Tavernier",
+ "encours_millions": "1255",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.65",
+ "frais_courants": "1.75",
+ "sri": "6",
+ "indice": "MSCI World Index Net Total Return",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "Echiquier Artificial Intelligence est un compartiment dynamique recherchant à réaliser sur la durée de placement recommandée, une performance nette de frais de gestion, supérieure à celle de son indice de référence, l'indice MSCI World Index Net Total Return.\n\nL'indice le MSCI World Index Net Total Return. Toutefois, le compartiment n’a pas pour objectif de reproduire la performance de cet indice, la composition du portefeuille pourra s’éloigner sensiblement de celle de son indicateur de référence.\n\nL'OPCVM met en œuvre une gestion active et discrétionnaire qui s'appuie sur une sélection rigoureuse de titres bottom-up « stock picking ». Les prix d'achat et de vente sont déterminés pour chaque action sélectionnée en fonction d'une évaluation à moyen terme. Ainsi, certains cas sont soumis à un processus très sélectif basé sur une analyse quantitative et qualitative. Le gérant de compartiment peut également mener des opérations de négociation pour chercher à tirer parti des fluctuations du marché à court terme. La stratégie d'investissement vise à sélectionner les valeurs qui participent au développement de l’Intelligence Artificielle ou celles qui bénéficient de l’adoption de ces technologies. La stratégie inclura également les valeurs dont l’activité est indirectement liée au secteur de l’Intelligence Artificielle (écosystème, infrastructure, etc.). Selon la conviction du gérant, la construction du portefeuille peut mener à un portefeuille concentré (moins de 50 titres).\n\nLe compartiment est exposé à hauteur de 60% minimum sur les marchés actions internationaux et/ ou de la zone euro et pays émergents. L’exposition aux marchés actions des pays émergents sera limitée à 30% de l’actif. Le compartiment sera exposé à des sociétés de toute taille de capitalisation.\n\nL'analyse fondamentale réalisée par l'équipe de gestion se fonde sur les critères suivants : - Analyse du management de l’entreprise - Qualité de sa structure financière - La visibilité sur les futurs résultats de l’entreprise - L’analyse des résultats financiers - Les perspectives de croissance de son métier - L’aspect spéculatif de la valeur Le compartiment est exposé à hauteur de 60% minimum sur les marchés actions internationaux et/ou de la zone euro et pays émergents. L’exposition aux marchés actions des pays émergents sera limitée à 30% de l’actif. Le compartiment sera exposé à des sociétés de toute taille de capitalisation.\n\nLe compartiment se réserve la possibilité d'investir à hauteur de 40% maximum en produits de taux. Lors de l'acquisition et du suivi en cours de vie des titres, l'appréciation du risque de crédit repose sur la recherche et l'analyse interne de La Financière de l'Echiquier ainsi que sur les notations proposées par les agences. Les titres obligataires concernés sont des titres réputés « Investment grade », à savoir notes au minimum BBB- par Standard & Poor's ou équivalent ou considérés comme tels par l'équipe de gestion.\n\nLes instruments financiers à terme, négociés ou non sur des marchés réglementés ou de gré à gré, peuvent être utilisés, à titre exceptionnel, pour : - Couvrir le portefeuille contre le risque de change, et également contre le risque action lorsque le gérant anticipe une forte dégradation de la performance du marché ; - Exposer ponctuellement le portefeuille au risque action lors de mouvements de souscriptions importants. En aucun cas, le fonds n'entend mettre en œuvre de stratégie de surexposition du portefeuille au risque action.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : indice « MSCI World NR EUR » → « MSCI World Index Net Total Return » (nom du KID 22/05/2026) ; disclaimer remplacé par celui de la factsheet française du 30/09/2026 ; politique remplacée par le texte du KID. Inchangés et confirmés : encours 1255 (« 1 255 M€ Actif net »), SRI 6, frais courants 1.75 (KID). Politique prise du KID : la factsheet n'a qu'un court résumé de l'objectif. Date de création = « Date de 1ère VNI 20/06/2018 » (= création du compartiment). Frais de gestion : factsheet « 1,65% TTC max. » (maximum) ; commission de surperformance 15 % TTC. Indice : objectif de surperformance du KID, nom du KID ; factsheet « MSCI WORLD NET TOTAL RETURN (en EUR) ». SFDR article 8, aucun % durable écrit. Classification Agressif : actions thématiques (IA), SRI 6. Allocations : colonne Compartiment seulement, lue sur l'image de la page 2 (étiquettes absentes du texte) ; JPY, GBP, CAD, CHF et « Autres » des devises ne concernent que l'indice.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "indice": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "USA",
+   "pct": "72.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "TWN",
+   "pct": "12.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "NLD",
+   "pct": "6.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "KOR",
+   "pct": "5.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "CAN",
+   "pct": "2.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "CHN",
+   "pct": "1.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "GBR",
+   "pct": "0.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "IT",
+   "pct": "81.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Serv. de comm.",
+   "pct": "8.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. discr.",
+   "pct": "5.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">500Mds",
+   "pct": "49.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "100Mds - 500Mds",
+   "pct": "25.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50Mds - 100Mds",
+   "pct": "12.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10Mds - 50Mds",
+   "pct": "9.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5Mds - 10Mds",
+   "pct": "1.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<5Mds",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TSMC ADR",
+   "pct": "6.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "5.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Marvel Technology",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nvidia",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMD",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "3.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "79.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "8.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "TWD",
+   "pct": "5.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "KRW",
+   "pct": "5.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "HKD",
+   "pct": "1.2"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__KID_FR_2026-05-22.pdf"
+}

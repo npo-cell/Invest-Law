@@ -1,0 +1,166 @@
+{
+ "n": "771",
+ "isin": "LU0503634221",
+ "nom": "PICTET SMARTCITY P EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2010-05-12",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (villes intelligentes)",
+ "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+ "gerants": "",
+ "encours_millions": "449",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.97",
+ "sri": "4",
+ "indice": "MSCI AC World (EUR)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+ "politique_fr": "Objectif\nAugmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact environnemental et/ou social positif.\n\nIndice de référence\nMSCI AC World (EUR), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit principalement en actions d'entreprises qui contribuent à la tendance mondiale à l’urbanisation ou qui en tirent un avantage. Ces entreprises peuvent être actives dans des secteurs tels que la mobilité et les transports, l'infrastructure, l'immobilier ou la gestion durable des ressources. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et s’efforce d’investir principalement dans des activités économiques qui contribuent à un objectif environnemental et social tout en évitant les activités ayant une incidence négative sur la société ou l’environnement. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du fonds avec celle de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 466 → 449 (« Taille du fonds (Mio) EUR 449 », factsheet 30/09/2026) ; classification Dynamique → Agressif (actions thématiques urbanisation/villes intelligentes, règle de classification, bien que SRI 4) ; compartiment, disclaimer et politique refaits depuis la factsheet. Date de création « 12.05.2010 » (tableau de la part ; date de début du calcul des performances selon le glossaire). Devise de la classe EUR (compartiment USD). Indice : « MSCI AC World (EUR) » dans le tableau de la part ; le bloc « Objectifs » (issu du DIC) écrit « MSCI AC World (EUR), … Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Frais de gestion non indiqués (seulement « Frais courants (OCR) 1.97 », identique au KID 19/06/2026). SRI 4 (KID). SFDR article 8 ; aucun % durable écrit. Aucun gérant nommé. Politique : bloc « Objectifs d'investissement » de la factsheet (issu du DIC). La factsheet précise qu’avant le 24.08.2018 le fonds présentait des caractéristiques différentes. Allocations : 10 principales positions, secteur économique et répartition géographique (% des actifs).",
+ "factsheet_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0503634221/LU0503634221__KID_FR_2026-06-19.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc",
+   "pct": "5.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mastercard Inc",
+   "pct": "5.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric Se",
+   "pct": "4.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Johnson Controls International Plc",
+   "pct": "4.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prologis Inc",
+   "pct": "4.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Equinix Inc",
+   "pct": "4.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Digital Realty Trust Inc",
+   "pct": "3.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cisco Systems Inc",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Trane Technologies Plc",
+   "pct": "3.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Uber Technologies Inc",
+   "pct": "3.66"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Gérer la ville",
+   "pct": "50.76"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Construire la ville",
+   "pct": "45.44"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Vivre en ville",
+   "pct": "3.66"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "0.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "80.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "10.75"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Finlande",
+   "pct": "3.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "1.72"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "1.33"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "0.81"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "0.72"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "0.67"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "0.14"
+  }
+ ]
+}

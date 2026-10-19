@@ -1,0 +1,221 @@
+{
+ "n": "651",
+ "isin": "LU0260085492",
+ "nom": "JUPITER EUROPEAN SELECT L EUR",
+ "maison": "Jupiter Fund Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2001-08-17",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes",
+ "compartiment": "UN COMPARTIMENT DE LA SICAV JUPITER GLOBAL FUND",
+ "gerants": "Niall Gallagher, Christopher Legg, Christopher Sellers",
+ "encours_millions": "1122",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.72",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
+ "politique_fr": "Le Fonds a pour objectif de générer une croissance du capital sur le long terme en tirant parti des opportunités d’investissement particulières qui s’offrent en Europe. Le Fonds investira dans les actions et titres similaires d’entreprises ayant leur siège social ou exerçant une part prépondérante de leurs activités économiques en Europe. Le Fonds promeut en permanence des caractéristiques environnementales et sociales qui relèvent de l’Article 8 du règlement sur la publication d’informations en matière de durabilité. Les caractéristiques environnementales et sociales sélectionnées pour le fonds Jupiter European Select comprennent la promotion de la transition vers une économie faiblement carbonée et le respect des responsabilités vis-à-vis des personnes et de la planète.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 894 → 1122 M EUR (« Encours: EUR 1,122m », factsheet 30/09/2026, virgule lue comme séparateur des milliers) ; indice « MSCI Europe Net Total Return Index » vidé : « Indice de référence Comparateur », le fonds « utilise l’indice de référence uniquement à des fins de comparaison de la performance » ; catégorie vidée. Gérants écrits en majuscules dans la factsheet, recopiés en casse normale (écart du contrôle dû à la casse). Frais : « Commission annuelle de gestion (max.) 1,50% », frais courants 1,72 % (factsheet) ; KID « Frais de gestion et autres frais administratifs et d’exploitation 1.72 % ». SFDR article 8 (factsheet). Date de création : lancement de la catégorie d'actions 17.08.2001 (identique au fonds). Allocations au 30/09/2026.",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Asml Holding",
+   "pct": "6.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Totalenergies",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Linde Plc",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Anheuser-Busch Inbev Sa",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bbva",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industria De Diseno Textil Sa",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kingspan Group Plc",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Astrazeneca Plc",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Caixabank Sa",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Loreal Sa",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "25.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "18.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "14.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matières premières",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Espèces",
+   "pct": "3.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "14.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "12.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "12.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "11.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "10.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "9.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "6.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "4.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "3.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "7.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espèces",
+   "pct": "3.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grande (>$30bn)",
+   "pct": "76.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyenne ($5bn-$30bn)",
+   "pct": "20.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JUPITER_FUND_MANAGEMENT/LU0260085492/LU0260085492__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JUPITER_FUND_MANAGEMENT/LU0260085492/LU0260085492__KID_FR_2026-02-19.pdf"
+}

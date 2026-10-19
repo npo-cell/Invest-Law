@@ -1,0 +1,212 @@
+{
+ "n": "666",
+ "isin": "LU0864709349",
+ "nom": "LAIQON GLOBAL EQUITIES FUND A EUR",
+ "maison": "LAIQON",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2013-03-01",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales croissance",
+ "compartiment": "un compartiment du fonds MainFirst, SICAV (Société d'Investissement à Capital Variable), société anonyme",
+ "gerants": "Global Growth Team",
+ "encours_millions": "317",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.99",
+ "sri": "4",
+ "indice": "MSCI World Net Total Return EUR Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not an indicator of future performance, which cannot be predicted.",
+ "politique_fr": "Objectif d'investissement\n\nL'objectif de placement du compartiment est de surperformer l'indice de référence. Le compartiment bénéficie d'une gestion active. Le gestionnaire du fonds compose le portefeuille exclusivement selon les critères définis dans les objectifs d’investissement / la politique d'investissement, qu'il prend ensuite soin de contrôler régulièrement et d’ajuster, le cas échéant. Le compartiment peut être assujetti à des commissions additionnelles liées à la performance (commission de performance) calculées en référence à l’indice de référence MSCI World Net Total Return EUR Index (indice MSDEWIN). L'univers d'investissement du compartiment n'est pas limité aux composantes de l'indice. L'indice peut donc s'écarter sensiblement de la performance du compartiment. Le compartiment est un fonds investi en actions.\n\nPolitique d'investissement\n\nLa part des actions dans les actifs du compartiment sera toujours d'au moins 51 % (brut). Lors de l'acquisition d'actions, le fonds a la possibilité d'acquérir des actions A chinoises éligibles par le biais du programme Shanghai and Shenzhen Hong Kong Stock Connect (« SHSC »). L'utilisation du programme SHSC constitue une opportunité d'investissement supplémentaire pour le fonds. Le compartiment n'acquiert pas de parts de fonds (OPCVM et/ou OPC) quelle que soit leur forme juridique. Le compartiment est donc éligible en tant que fonds cible au sens de l'article 41 (1) e) de la loi de 2010. Ce compartiment relève de l'article 8 du règlement (UE) 2019/2088 ainsi que de l'article 6 du règlement (UE) 2020/852 (taxinomie de l'UE). MainFirst Holding AG (société de gestion du compartiment) a signé les Principes pour l'Investissement Responsable (UN PRI - United Nations-supported Principles for Responsible Investment). La stratégie en matière de durabilité du compartiment vise à présenter un profil de risque ESG meilleur que l'indice de référence, en moyenne. L'indice de référence sur lequel s'appuie la stratégie d'investissement du compartiment n'est pas axé sur les caractéristiques environnementales et sociales du fonds. Une description de la méthode de calcul de l'indice de référence est disponible sur www.msci.com. Des informations détaillées sur les principes d’investissement responsable de la société de gestion ainsi que le détail des agences de notation de développement durable employées sont disponibles sur www.ethenea.com.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Nouvelle factsheet : « MF - Global Equities Fund - A » au 30/09/2026 (anglais, pas de version française), téléchargée sur laiqon.com et rangée dans INVESTLAW. Corrigé : encours 328 → 317 M EUR (« Fund volume 317 Mio. EUR » ; « Strategy volume 1.9 Mrd. EUR ») ; indice « MSCI World NR EUR » → nom du KID « MSCI World Net Total Return EUR Index » (objectif : surperformer l'indice, aussi base de la commission de performance ; factsheet : « Benchmark MSCI World NR Index ») ; gérant « LAIQON Asset Management GmbH » (société, non admise) remplacé par le nom d'équipe « Global Growth Team » (factsheet) ; politique reprise du KID (la factsheet n'a qu'une « Investment Philosophy » commerciale en anglais) ; catégorie vidée. Date de création = « Inception of Fund 01.03.2013 » (date du fonds ; date de la part A non précisée). Frais : « Management Fee 1.50% », « Ongoing Charges [TER] 1.99% » (factsheet) = KID « Frais de gestion et autres frais administratifs et d’exploitation 1,99% » ; commission de performance max. 15 %. SFDR article 8. Allocations au 30/09/2026 ; répartition par devise et allocation par classe (graphiques sans chiffres) et thèmes non repris ; positions incluant deux produits or (XETRA-GOLD, AMUNDI PHYS GOLD).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet",
+  "politique_fr": "KID p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMIC-ADR",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK HYNIX INC-ADR",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "5.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUN-GDR REG S",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC-A",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS-A",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FUJIKURA LTD",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "XETRA-GOLD",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI PHYS GOLD",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technology",
+   "pct": "36.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "20.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communications",
+   "pct": "11.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "7.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "6.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Government",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United States",
+   "pct": "42.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "12.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Korea",
+   "pct": "10.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "7.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "China",
+   "pct": "3.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "3.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other",
+   "pct": "7.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega Cap >$100 bn",
+   "pct": "61.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large Cap $5 - $100 bn",
+   "pct": "27.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Medium Cap $1 - $5 bn",
+   "pct": "2.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small Cap < $1 bn",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAIQON/LU0864709349/LU0864709349__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAIQON/LU0864709349/LU0864709349__KID_FR_2026-04-16.pdf"
+}

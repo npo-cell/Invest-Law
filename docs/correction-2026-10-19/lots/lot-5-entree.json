@@ -1,0 +1,2673 @@
+[
+ {
+  "n": 577,
+  "isin": "LU0905233846",
+  "nom": "FIDELITY GLOBAL MULTI ASSET INCOME A USD",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0905233846/LU0905233846__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0905233846/LU0905233846__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0905233846/LU0905233846__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0905233846/LU0905233846__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0905233846/LU0905233846__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0905233846__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-03-27",
+   "devise": "USD",
+   "type_fonds": "Multi-actifs international de revenu (obligations, actions, immobilier, infrastructure)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Becky Qin, Franca Pileri, Mario Baronci",
+   "encours": "3581",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.69",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "2",
+   "qualite": "BB+",
+   "disclaimer": "Les performances passées ne sont pas une indication des rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous pourriez ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "Le Compartiment cherche à générer un revenu intéressant ainsi qu’une certaine croissance du capital (au cours d’un cycle de marché) en combinant divers actifs et en gérant le risque pour atténuer les pertes. Le Compartiment adopte une approche concertée, les gestionnaires de portefeuille tirant parti de l’expertise de la vaste équipe Multi Asset et des capacités de recherche de Fidelity. Le Compar",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 578,
+  "isin": "LU0251132253",
+  "nom": "FIDELITY GLOBAL THEMATIC OPPORT A USD",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251132253/LU0251132253__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0251132253__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-07-03",
+   "devise": "USD",
+   "type_fonds": "Actions internationales thématiques (multi-thèmes)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Caroline Shaw, Julie-Ann Ashcroft",
+   "encours": "1868",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication des rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous pourriez ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "Le Compartiment cherche à générer une croissance du capital à long terme en investissant dans des sociétés dont le profil de croissance bénéficiera des changements structurels ou pérennes des facteurs économiques et sociaux qui stimulent la croissance mondiale. Selon nous, des tendances macroéconomiques structurelles imposantes (les thèmes) entraînent une perturbation économique, qui profite à cer",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 579,
+  "isin": "LU1805238398",
+  "nom": "FIDELITY INDIA FOCUS A USD",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238398/LU1805238398__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238398/LU1805238398__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238398/LU1805238398__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238398/LU1805238398__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238398/LU1805238398__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1805238398__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-04-11",
+   "devise": "USD",
+   "type_fonds": "Actions indiennes",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Amit Goel",
+   "encours": "1997",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.93",
+   "sri": "4",
+   "indice": "MSCI India Capped 8% Index (Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity India",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication des rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous pourriez ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "India Focus Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois (OPCVM), géré par FIL Investment Management (Luxembourg) S.à r.l. Il cherche à atteindre une croissance du capital sur le long terme.Le compartiment investit au moins 70 % (et normalement 75 %) de ses actifs dans des actions de sociétés indiennes cotées en Inde ou de sociétés non indiennes qui exercent la majeure",
+   "politique_en": "Strategy: The portfolio manager aims to build a focused portfolio of high-quality, sustainable growth companies that we understand well an can buy at a reasonable price. These investments are made with a long term investment horizon. The selected companies have strong management teams tha priorities governance, capital allocation, and sustainability.\n\nThey are market leaders - or potential market ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 580,
+  "isin": "LU1805238125",
+  "nom": "FIDELITY SUSTAINABLE CONSUMER BRANDS FUND A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238125/LU1805238125__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238125/LU1805238125__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238125/LU1805238125__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238125/LU1805238125__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1805238125/LU1805238125__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1805238125__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "710",
+    "note": "p.1 « Fund size: € 710m » (fonds renommé « Global Consumer Brands Fund »)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-04-11",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (marques de consommation)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Aneta Wynimko",
+   "encours": "713",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.91",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication des rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous pourriez ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "Global Consumer Brands Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois (OPCVM), géré par FIL Investment Management (Luxembourg) S.à r.l. Il cherche à atteindre une croissance du capital sur le long terme.Le compartiment investit au moins 70 % de ses actifs dans des actions de sociétés du monde entier, y compris des marchés émergents, liées au thème des marques de consomma",
+   "politique_en": "The manager adopts a bottom-up stock selection approach based on in-depth company analysis involving meetings with company management and industry competitors. She looks for businesses exhibiting strong brands with a demonstrated consumer moat, reflected, for example, in superior pricing power, innovation and valuable intellectual property. The universe includes but is not limited to consumer sect",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 581,
+  "isin": "LU0261951288",
+  "nom": "FIDELITY SWITZERLAND A CHF",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0261951288__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-09-25",
+   "devise": "CHF",
+   "type_fonds": "Actions suisses",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Andrea Fornoni, Alberto Chiandetti",
+   "encours": "259",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.92",
+   "sri": "4",
+   "indice": "MSCI Switzerland Index (Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Switzerland",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication des rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous pourriez ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "Switzerland Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois (OPCVM), géré par FIL Investment Management (Luxembourg) S.à r.l. Il cherche à atteindre une croissance du capital au fil du temps.Le compartiment investit au moins 70 % (et normalement 75 %) de ses actifs dans des actions de sociétés cotées en Suisse, qui y ont leur siège social ou qui y exercent la majeure part",
+   "politique_en": "The portfolio managers adopt a fundamentals-driven and style-agnostic approach to investing. They focus on bottom-up research, looking for changes which other investors have failed to appreciate and situations where our perception goes against market consensus.\n\nThey focus on firms with durable growth, improving earnings potential driven by transformative change, and strong sustainability practice",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 582,
+  "isin": "LU1261432659",
+  "nom": "FIDELITY WORLD A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1261432659/LU1261432659__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1261432659/LU1261432659__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1261432659/LU1261432659__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1261432659/LU1261432659__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1261432659/LU1261432659__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1261432659__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "7212",
+    "note": "p.1 « Fund size: € 7,212m »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2015-08-07",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (monde)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Christine Baalham, Tom Record",
+   "encours": "7256",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.88",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication des rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous pourriez ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "World Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois (OPCVM), géré par FIL Investment Management (Luxembourg) S.à r.l. Il cherche à atteindre une croissance du capital sur le long terme.Le compartiment investit au moins 70 % de ses actifs dans des actions de sociétés du monde entier, y compris des marchés émergents. Il peut également investir dans des instruments du marc",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 583,
+  "isin": "LU0433182416",
+  "nom": "FIRST EAGLE AMUNDI INTERNATIONAL AHE-C EUR",
+  "maison": "Amundi Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0433182416/LU0433182416__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0433182416/LU0433182416__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0433182416/LU0433182416__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0433182416/LU0433182416__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0433182416__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2009-08-19",
+   "devise": "EUR",
+   "type_fonds": "Allocation flexible internationale, approche valeur",
+   "compartiment": "First Eagle Amundi (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Matthew McLennan, Julien Albertini, Manish Gupta",
+   "encours": "8563.84",
+   "frais_gestion": "2",
+   "frais_courants": "2.34",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne sont ni une assurance ni un indicateur fiable des rendements futurs. La valeur d'un investissement peut varier à la hausse comme à la baisse ; vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment cherche à offrir aux investisseurs une croissance du revenu par la diversification de ses investissements sur toutes les catégories d'actifs et une politique d'approche valeur.\n\nAfin d'atteindre cet objectif, il investit au moins deux tiers de ses Actifs nets dans des actions, des Instruments liés à des actions et des obligations sans aucune restriction en termes de capitalisation ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 584,
+  "isin": "LU0068578508",
+  "nom": "FIRST EAGLE AMUNDI INTERNATIONAL AU-C USD",
+  "maison": "Amundi Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0068578508/LU0068578508__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0068578508/LU0068578508__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0068578508/LU0068578508__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0068578508/LU0068578508__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0068578508__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1996-08-12",
+   "devise": "USD",
+   "type_fonds": "Allocation flexible internationale, approche valeur",
+   "compartiment": "First Eagle Amundi (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Matthew McLennan, Julien Albertini, Manish Gupta",
+   "encours": "9727.23",
+   "frais_gestion": "2",
+   "frais_courants": "2.34",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne sont ni une assurance ni un indicateur fiable des rendements futurs. La valeur d'un investissement peut varier à la hausse comme à la baisse ; vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment cherche à offrir aux investisseurs une croissance du revenu par la diversification de ses investissements sur toutes les catégories d'actifs et une politique d'approche valeur.\n\nAfin d'atteindre cet objectif, il investit au moins deux tiers de ses Actifs nets dans des actions, des Instruments liés à des actions et des obligations sans aucune restriction en termes de capitalisation ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 586,
+  "isin": "LU0690374615",
+  "nom": "FUNDSMITH EQUITY FUND SICAV R EUR",
+  "maison": "FUNDSMITH LLP",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__Factsheet_EN_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__KID_FR_2026-01-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FUNDSMITH_LLP/LU0690374615/LU0690374615__KID_FR_2026-01-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0690374615__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : FundRock, dépositaire, exposition globale, cut-off) ; la factsheet en anglais ne contient que l'« Investment objective » et les critères"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2011-11-02",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (croissance, portefeuille concentré)",
+   "compartiment": "Fundsmith SICAV (SICAV de droit luxembourgeois, OPCVM Partie I)",
+   "gerants": "Terry Smith",
+   "encours": "4300",
+   "frais_courants": "1.59",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur du Fonds peut varier à la hausse comme à la baisse, notamment en raison des taux de change, et vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Fundsmith Equity Fund est un compartiment de Fundsmith SICAV, société d'investissement à capital variable (SICAV) de droit luxembourgeois soumise à la Partie I de la Loi du 17 décembre 2010 (OPCVM), avec ségrégation des engagements entre compartiments. La société de gestion est FundRock Management Company S.A., agréée au Luxembourg et réglementée par la CSSF ; le dépositaire est Northern Trust Glo",
+   "politique_en": "The Fundsmith Equity Fund, a sub fund of Fundsmith SICAV (“Fund”) is actively managed, which means that the investments are selected at the discretion of the investment manager. The investment objective of the Fund is to achieve long-term growth in value.\n\nThe Fund will invest in equities on a global basis. The Fund’s approach is to be a long-term investor in its chosen stocks. It will not adopt s",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 588,
+  "isin": "LU1481583711",
+  "nom": "FVS BOND OPPORTUNITIES RT EUR",
+  "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__KID_FR_2026-04-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__Factsheet_DE_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1481583711/LU1481583711__KID_FR_2026-04-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1481583711__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "duration": {
+    "verdict": "DIFFERENT",
+    "document": "9.26",
+    "note": "p.2 « Durée 9.26 ans » (au 30.09.26)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-10-17",
+   "devise": "EUR",
+   "type_fonds": "Obligations internationales flexibles",
+   "compartiment": "Flossbach von Storch (fonds commun de placement de droit luxembourgeois, OPCVM)",
+   "gerants": "Frank Lipowski",
+   "encours": "4880",
+   "frais_gestion": "0.87",
+   "frais_courants": "1.02",
+   "sri": "2",
+   "classification": "Défensif",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "9.27",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. La valeur de tout placement peut augmenter ou baisser et vous pourriez récupérer moins que le montant investi.",
+   "politique_fr": "Flossbach von Storch - Bond Opportunities est un fonds obligataire diversifié à l'échelle mondiale avec une approche d'investissement active, qui se concentre sur les obligations d'entreprises, les obligations d'État et les obligations sécurisées. Le fonds exploite de manière flexible les opportunités de l’ensemble du marché obligataire dans le cadre de la politique d’investissement définie dans l",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 591,
+  "isin": "LU1038809395",
+  "nom": "FVS MULTIPLE OPPORTUNITIES II RT EUR",
+  "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__KID_FR_2026-04-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_DE_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__KID_FR_2026-04-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1038809395__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, certificats Delta-1, détention 4 ans) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-04-03",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible international (à dominante actions)",
+   "compartiment": "Flossbach von Storch (fonds commun de placement de droit luxembourgeois, OPCVM)",
+   "gerants": "Dr. Bert Flossbach, Simon Jäger, Dr. Kai Lehmann, Jonas Nahry, Dr. Tobias Schafföner",
+   "encours": "7040",
+   "frais_gestion": "1.47",
+   "frais_courants": "1.62",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. La valeur de tout placement peut augmenter ou baisser et vous pourriez récupérer moins que le montant investi.",
+   "politique_fr": "Flossbach von Storch - Multiple Opportunities II est un compartiment de Flossbach von Storch, fonds commun de placement (FCP) de droit luxembourgeois soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 (OPCVM). L'initiateur et société de gestion est Flossbach von Storch Invest S.A., filiale de Flossbach von Storch SE, réglementée par la CSSF.\n\nL'objectif de la politique d'investisse",
+   "politique_en": "The Fund pursues an active investment approach. The Fund Manager can invest flexibly in the asset classes that appear attractive from his/her point of view in the respective capital market environment; the equity component is at least 25 per cent.\n\nThe basis for asset allocation is the Fund's own independent investment world view. The Fund deliberately does not follow any benchmark index. The prim",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 592,
+  "isin": "IE00B57XTG52",
+  "nom": "GAVEKAL ASIAN OPPORTUNITIES UCITS C EUR",
+  "maison": "GaveKal Fund Management (Ireland) Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GAVEKAL_FUND_MANAGEMENT_IRELAND_LIMITED/IE00B57XTG52/IE00B57XTG52__Factsheet_EN_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00B57XTG52__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun indicateur de risque SRI dans la factsheet (4 pages vérifiées en image)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : FundRock, dépositaire Société Générale Dublin, Stock Connect, détention 3 ans) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Allocation flexible Asie-Pacifique (actions, obligations, devises)",
+   "compartiment": "GaveKal UCITS Fund (Unit Trust OPCVM de droit irlandais)",
+   "gerants": "Alfred Ho, Christine Cheung",
+   "frais_gestion": "2.02",
+   "frais_courants": "2.19",
+   "sri": "4",
+   "indice": "MSCI AC Asia Pacific Index",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Asia Pacific Flexible",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit n'offre aucune protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "GaveKal Asian Opportunities UCITS Fund est un compartiment de GaveKal UCITS Fund, un Unit Trust de droit irlandais agréé en tant qu'OPCVM par la Banque centrale d'Irlande. La société de gestion OPCVM est FundRock Management Company (Ireland) Limited et le dépositaire est Societe Generale S.A., Dublin Branch. Le fonds est ouvert et de durée indéterminée.L'objectif d'investissement du fonds est de f",
+   "politique_en": "The Gavekal Asian Opportunities UCITS Fund (\"GAOUF\") seeks to capture the long-term returns of Asian equity markets by investing in a diversified portfolio of equities, especially large cap growth stocks, across the Asia-Pacific region. The fund's objective is to outperform the MSCI AC (All Country) Pacific Index. In occasional circumstances, the fund may temporarily reduce equity exposure in favo",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 593,
+  "isin": "IE00BYRGXY37",
+  "nom": "GAVEKAL CHINA FIXED INCOME UCITS C EUR",
+  "maison": "GaveKal Fund Management (Ireland) Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GAVEKAL_FUND_MANAGEMENT_IRELAND_LIMITED/IE00BYRGXY37/IE00BYRGXY37__Factsheet_EN_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BYRGXY37__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.23",
+    "note": "p.2 tableau « Total Expense Ratio (2025) » : C EUR 1.23% (frais de gestion C 1.02%)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : FundRock, dépositaire Société Générale Dublin, Stock Connect, détention 3 ans) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Obligations chinoises et asiatiques (RMB, HKD, USD, SGD)",
+   "compartiment": "GaveKal UCITS Fund (Unit Trust OPCVM de droit irlandais)",
+   "gerants": "Christine Cheung, Hui Lor",
+   "frais_gestion": "1.02",
+   "frais_courants": "1.18",
+   "sri": "3",
+   "indice": "65% Bloomberg China Onshore Treasury 1-10 Years (I33620CN) + 35% Markit iBoxx ALBI China Offshore Non-Govt IG TRI (IBXXCNNI)",
+   "classification": "Equilibré",
+   "categorie": "Bond China",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit n'offre aucune protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "GaveKal China Fixed Income Fund est un compartiment de GaveKal UCITS Fund, un Unit Trust de droit irlandais agréé en tant qu'OPCVM par la Banque centrale d'Irlande. La société de gestion OPCVM est FundRock Management Company (Ireland) Limited et le dépositaire est Societe Generale S.A., Dublin Branch. Le fonds est ouvert et de durée indéterminée.L'objectif d'investissement du fonds est de recherch",
+   "politique_en": "The Gavekal China Fixed Income Fund aims to deliver steady, absolute returns with a low volatility. The fund strives to achieve such returns through investment in onshore and offshore RMB-denominated rates and credits as well as USD-denominated credits. GCFIF runs a diversified strategy which aims to profit from movements in the yield curve and shifts in corporate spreads.\n\nThe fund is UCITS V com",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 596,
+  "isin": "LU2102358418",
+  "nom": "GOLDMAN SACHS CORPORATE GREEN BOND P EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358418/LU2102358418__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358418/LU2102358418__KID_FR_2026-03-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358418/LU2102358418__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358418/LU2102358418__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2102358418/LU2102358418__KID_FR_2026-03-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2102358418__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "le nom « Goldman Sachs Funds III » n'apparaît pas dans cette factsheet ; seulement « The Luxembourg funds mentioned in this document are sub-funds of SICAVs … established in Luxembourg »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-12-22",
+   "devise": "EUR",
+   "type_fonds": "Obligations vertes d'entreprises en euro (investment grade)",
+   "compartiment": "Goldman Sachs Funds III (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "1202.56",
+   "frais_gestion": "0.4",
+   "frais_courants": "0.6",
+   "sri": "2",
+   "indice": "Bloomberg Euro Green Corporate Bond 5% Issuer Capped",
+   "classification": "Défensif",
+   "categorie": "Bond Europe Corporates",
+   "sfdr": "9",
+   "duration": "3.88",
+   "qualite": "BBB+",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs. La valeur de tout investissement peut évoluer à la hausse comme à la baisse et les investisseurs peuvent ne pas récupérer le montant initialement investi.",
+   "politique_fr": "Goldman Sachs Corporate Green Bond est un compartiment de Goldman Sachs Funds III, SICAV de droit luxembourgeois relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), agréée et réglementée par la CSSF. L'initiateur et société de gestion est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas par l'AFM. Le dépositaire est Brown Brothers Harriman (Luxembourg) S.C",
+   "politique_en": "The Fund is classified as a financial product under Article 9 of the EU Sustainable Finance Disclosure Regulation. The Fund has sustainable investments as it objective and it will invest in economic activities that qualify as environmentally sustainable under the EU Taxonomy.\n\nThe fund invests at least 85% of its net assets in a portfolio of global corporate green bonds of high quality (with a rat",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 597,
+  "isin": "LU0127786431",
+  "nom": "GOLDMAN SACHS EUROZONE EQUITY INCOME P CAP EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0127786431/LU0127786431__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0127786431/LU0127786431__KID_FR_2026-03-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0127786431/LU0127786431__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0127786431/LU0127786431__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0127786431/LU0127786431__KID_FR_2026-03-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0127786431__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1999-04-08",
+   "devise": "EUR",
+   "type_fonds": "Actions zone euro (sociétés à dividendes)",
+   "compartiment": "Goldman Sachs Funds III (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "1919.1",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.8",
+   "sri": "4",
+   "indice": "MSCI EMU NR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Investir comporte des risques, dont celui de perte en capital. Les performances passées ne garantissent pas les performances actuelles ou futures et la valeur de votre investissement peut augmenter ou diminuer.",
+   "politique_fr": "Goldman Sachs Eurozone Equity Income est un compartiment de Goldman Sachs Funds III, SICAV de droit luxembourgeois relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), agréée et réglementée par la CSSF. L'initiateur et société de gestion est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas par l'AFM. Le dépositaire est Brown Brothers Harriman (Luxembourg) S",
+   "politique_en": "The fund invests in companies listed on stock exchanges in the eurozone that offer an attractive and sustainable dividend. The fund uses active management to target companies that pay dividends, with sector and country overweight limits maintained relative to the benchmark. Its stock-level composition will therefore materially deviate from the benchmark.\n\nMeasured over a period of several years we",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 598,
+  "isin": "LU2596602545",
+  "nom": "GOLDMAN SACHS GL FUTURE ECON SECURITY EQ PORTF USD",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__Factsheet_EN_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__KID_FR_2026-06-18.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__KID_FR_2026-06-18.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2596602545__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, ADR/EDR/GDR, seuils de risque internes) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-06-13",
+   "devise": "USD",
+   "type_fonds": "Actions internationales thématiques (sécurité économique)",
+   "compartiment": "Goldman Sachs Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "1660",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.65",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. La valeur des investissements et des revenus qui en découlent peut fluctuer à la hausse comme à la baisse. Une perte en capital peut survenir.",
+   "politique_fr": "Goldman Sachs Global Future Economic Security Equity Portfolio est un compartiment (Portefeuille) de Goldman Sachs Funds, SICAV de droit luxembourgeois à compartiments relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), avec séparation du passif entre les portefeuilles. L'initiateur est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas. Le dépositaire est S",
+   "politique_en": "The fund is designed for investors seeking exposure to a concentrated global portfolio with a focus on developed markets that invests in companies that benefit from evolving trends in international relations and their impact on the economic security of such markets.\n\nThe key investment themes may include but are not limited to supply chain security, resource security and national security.\n\nThe Fu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 599,
+  "isin": "LU0119216553",
+  "nom": "GOLDMAN SACHS GLOBAL SUSTAINABLE EQUITY P EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0119216553/LU0119216553__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0119216553/LU0119216553__KID_FR_2026-03-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0119216553/LU0119216553__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0119216553/LU0119216553__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0119216553/LU0119216553__KID_FR_2026-03-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0119216553__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-07-07",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (durable)",
+   "compartiment": "Goldman Sachs Funds III (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "813.5",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.8",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Investir comporte des risques, dont celui de perte en capital. Les performances passées ne garantissent pas les performances actuelles ou futures et la valeur de votre investissement peut augmenter ou diminuer.",
+   "politique_fr": "Goldman Sachs Global Sustainable Equity est un compartiment de Goldman Sachs Funds III, SICAV de droit luxembourgeois relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), agréée et réglementée par la CSSF. L'initiateur et société de gestion est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas par l'AFM. Le dépositaire est Brown Brothers Harriman (Luxembourg",
+   "politique_en": "The Fund integrates ESG factors and risk in the investment process alongside traditional factors. The fund invests in companies, listed on stock exchanges worldwide, which pursue a sustainable business model. Selection of these companies combines the analysis of environmental (e.g. carbon intensity), social (e.g. human rights, non-discrimination, the issue of child labour, gender diversity) and go",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 600,
+  "isin": "LU0333810850",
+  "nom": "GOLDMAN SACHS INDIA EQUITY PORTFOLIO E EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__KID_FR_2026-08-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__KID_FR_2026-08-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0333810850__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, dérivés, seuils de risque internes, ESG) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-03-26",
+   "devise": "EUR",
+   "type_fonds": "Actions Inde",
+   "compartiment": "Goldman Sachs Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "4013",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.43",
+   "sri": "4",
+   "indice": "MSCI India IMI Index (Net TR) (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. La valeur des investissements et des revenus qui en découlent peut fluctuer à la hausse comme à la baisse. Une perte en capital peut survenir.",
+   "politique_fr": "Goldman Sachs India Equity Portfolio est un compartiment (Portefeuille) de Goldman Sachs Funds, SICAV de droit luxembourgeois à compartiments relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), avec séparation du passif entre les portefeuilles. L'initiateur est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas. Le dépositaire est State Street Bank Internati",
+   "politique_en": "The Fund seeks to provide capital growth over the longer term.The Fund seeks to achieve its objective by holding shares or similar instruments relating to Indian companies. Such companies are either based in or earn most of their profits or revenues from India. The Fund may also invest in companies which are based anywhere in the world.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 601,
+  "isin": "LU1444115874",
+  "nom": "GOLDMAN SACHS PATRIMONIAL BAL EUR SUSTAIN P EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU1444115874/LU1444115874__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU1444115874/LU1444115874__KID_FR_2026-03-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU1444115874/LU1444115874__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU1444115874/LU1444115874__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU1444115874/LU1444115874__KID_FR_2026-03-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1444115874__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, société de gestion, détention 7 ans) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-12-16",
+   "devise": "EUR",
+   "type_fonds": "Mixte équilibré Europe (50 % actions, 50 % obligations, durable)",
+   "compartiment": "Goldman Sachs Funds V (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "607.58",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.45",
+   "sri": "3",
+   "indice": "50% MSCI Europe Index (Net), 50% Bloomberg Euro Aggregate",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Europe Balanced",
+   "sfdr": "8",
+   "duration": "3.14",
+   "disclaimer": "Investir comporte des risques, dont celui de perte en capital. Les performances passées ne garantissent pas les performances actuelles ou futures et la valeur de votre investissement peut augmenter ou diminuer.",
+   "politique_fr": "Goldman Sachs Patrimonial Balanced Europe Sustainable est un compartiment de Goldman Sachs Funds V, SICAV de droit luxembourgeois relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), agréée et réglementée par la CSSF. L'initiateur et société de gestion est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas par l'AFM. Le dépositaire est Brown Brothers Harriman",
+   "politique_en": "The fund mainly invests in a diversified portfolio of Eurozone fixed income instruments, including green bonds, denominated in Euro and European stocks from companies and issuers pursuing policies of sustainable development observing environmental, social and governance principles. The equity portfolio has a European investment universe, mainly investing in equities of companies that are part of t",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 602,
+  "isin": "IE00BYQ67K80",
+  "nom": "GUARDCAP GLOBAL EQUITY FUND S EUR",
+  "maison": "GUARDCAP ASSET MANAGEMENT LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BYQ67K80/IE00BYQ67K80__KID_FR_2026-05-08.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BYQ67K80/IE00BYQ67K80__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GUARDCAP_ASSET_MANAGEMENT_LIMITED/IE00BYQ67K80/IE00BYQ67K80__KID_FR_2026-05-08.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BYQ67K80__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun indicateur SRI dans la factsheet (4 pages, texte et images)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-01-31",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Equity Fund, Global Equity",
+   "compartiment": "GuardCap Global Equity Fund S EUR",
+   "gerants": "Michael Boyd, Giles Warren, Bojana Bidovec, Orlaith O'Connor",
+   "encours": "1600",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.59",
+   "sri": "6",
+   "indice": "MSCI World Index (Total Return Net)",
+   "categorie": "Equity Global",
+   "politique_fr": "L'objectif d'investissement du Fonds est de rechercher une appréciation à long terme du capital avec un niveau de volatilité inférieur au marché, en investissant principalement dans des titres actions ou similaires, émis par des entreprises de qualité, cotées sur des marchés réglementés de pays membres de l'Organisation pour la Coopération et le développement Economique (\"OCDE\").\n\nPhilosophie d'in",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 603,
+  "isin": "IE00BGHQF631",
+  "nom": "GUINNESS GLOBAL EQUITY INCOME C EUR",
+  "maison": "GUINNESS ASSET MANAGEMENT LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BGHQF631/IE00BGHQF631__Factsheet_EN_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BGHQF631/IE00BGHQF631__KID_FR_2025-11-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BGHQF631/IE00BGHQF631__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GUINNESS_ASSET_MANAGEMENT_LIMITED/IE00BGHQF631/IE00BGHQF631__KID_FR_2025-11-17.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BGHQF631__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucune date de lancement de la part C EUR ; la factsheet donne seulement « Fund launch 31.12.2010 » et « Strategy launch 31.12.2010 »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français (probablement du KID) ; la factsheet anglaise dit seulement « Income and long-term capital growth » et « An equity fund investing primarily in global equities which provide a yield above the yield of the benchmark (MSCI World Index) » ; la phrase sur les obligations d'État / investment grade est absente"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-11-29",
+   "devise": "EUR",
+   "type_fonds": "OEIC (OPCVM), fonds actions, actions mondiales de rendement",
+   "compartiment": "Guinness Asset Management Funds plc",
+   "gerants": "Dr. Ian Mortimer, Matthew Page",
+   "encours": "6745.9",
+   "frais_courants": "1.77",
+   "sri": "5",
+   "indice": "MSCI World TR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "La valeur d'un investissement et le revenu qui en découle peuvent baisser comme augmenter selon les marchés et les devises ; vous pourriez ne pas récupérer le montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif d'investissement du Fonds est d'offrir aux investisseurs à la fois un revenu et une appréciation du capital à long terme. Le Fonds investit dans un portefeuille d'actions mondiales offrant un rendement supérieur à la moyenne (c'est-à-dire un rendement plus élevé que celui du marché mondial des actions dans son ensemble). Il peut toutefois aussi investir, dans une mesure limitée, dans d'",
+   "politique_en": "Provides global exposure to dividend paying companies. Dividend payers outperform in the long term, dividend growers even more so. Dividend paying companies can protect against inflation over the long term.\n\nStarting point is quality, not yield. Focus on companies generating persistently high returns on capital over the last decade.\n\nConcentrated, typically equally-weighted portfolio of 35 stocks,",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 605,
+  "isin": "IE00BD4LCP84",
+  "nom": "H2O MULTI EMERGING DEPT FUND R EUR",
+  "maison": "Gateway Fund Services Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/GATEWAY_FUND_SERVICES_LIMITED/IE00BD4LCP84/IE00BD4LCP84__KID_EN_2025-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GATEWAY_FUND_SERVICES_LIMITED/IE00BD4LCP84/IE00BD4LCP84__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GATEWAY_FUND_SERVICES_LIMITED/IE00BD4LCP84/IE00BD4LCP84__KID_EN_2025-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BD4LCP84__site.pdf",
+  "probleme_document": "factsheet de la part USD-I",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français du KID/supplément ; la factsheet (part USD-I, en anglais) ne contient qu'un résumé de stratégie de 3 lignes"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-04-24",
+   "devise": "EUR",
+   "type_fonds": "Dette émergente, rendement total",
+   "compartiment": "H2O Global Strategies ICAV",
+   "encours": "49.59",
+   "frais_gestion": "1.6",
+   "frais_courants": "2.3",
+   "sri": "6",
+   "indice": "50% J.P. Morgan EMBI Global Diversified + 50% J.P. Morgan GBI-EM Global Diversified (USD, non couvert)",
+   "classification": "Agressif",
+   "categorie": "Majoritairement obligations",
+   "sfdr": "6",
+   "duration": "3.1",
+   "qualite": "Notation moyenne BBB-",
+   "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. Le fonds est exposé à un risque de perte en capital et le capital investi n’est pas garanti.",
+   "politique_fr": "L’objectif du Compartiment est de surperformer de 2,5 % par an l’Indice de référence, libellé en USD et constitué à 50 % de l’indice J.P. Morgan Emerging Markets Bond Index Global Diversified, et à 50 % de l’indice J.P. Morgan Government Bond Index Emerging Market Global Diversified Unhedged. L’Indice de référence n’est pas couvert contre le risque de change. Rien ne garantit que le Compartiment a",
+   "politique_en": "H2O MULTI EMERGING DEBT FUND provides access to H2O's bonds & currency expertise, with a high risk profile (PRIIPS SRI 6). The objective is to achieve capital appreciation in excess of the reference index, while providing an alternative to traditional EM debt Funds over its recommended investment horizon (3 years).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 606,
+  "isin": "FR0013393345",
+  "nom": "H2O MULTIBONDS FCP R H USD",
+  "maison": "H2O AM LLP",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/H2O_AM_LLP/FR0013393345/FR0013393345__KID_FR_2024-12-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/H2O_AM_LLP/FR0013393345/FR0013393345__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/H2O_AM_LLP/FR0013393345/FR0013393345__KID_FR_2024-12-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013393345__site.pdf",
+  "probleme_document": "factsheet de la part R EUR (FR0013393329)",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2020-10-05",
+   "devise": "USD",
+   "type_fonds": "Obligataire global, multi-devises",
+   "encours": "1516.08",
+   "frais_gestion": "1.76",
+   "frais_courants": "1.8",
+   "sri": "5",
+   "indice": "SOFR capitalisé quotidiennement",
+   "classification": "Dynamique",
+   "categorie": "Alternative Global Multi Strategies",
+   "sfdr": "6",
+   "duration": "8.8",
+   "qualite": "Notation moyenne BBB-",
+   "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. Comme tout investissement, les fonds gérés par H2O Asset Management comportent un risque de perte en capital et le montant du capital investi n’est pas garanti.",
+   "politique_fr": "H2O MULTIBONDS FCP donne accès à l'expertise H2O sur les obligations & devises avec un profil de risque moyen / élevé (PRIIPS SRI 5). S'agissant d'un fonds à rendement absolu, l'objectif est de réaliser une appréciation du capital supérieure à celle de son indice de référence sur l'horizon de placement recommandé (5 ans).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 608,
+  "isin": "FR0011978238",
+  "nom": "H2O MULTISTRATEGIES FCP R USD",
+  "maison": "H2O AM LLP",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/H2O_AM_LLP/FR0011978238/FR0011978238__KID_FR_2026-09-25.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/H2O_AM_LLP/FR0011978238/FR0011978238__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/H2O_AM_LLP/FR0011978238/FR0011978238__KID_FR_2026-09-25.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0011978238__site.pdf",
+  "probleme_document": "factsheet de la part R EUR (FR0010923383)",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2020-10-08",
+   "devise": "USD",
+   "type_fonds": "Global Macro sans contrainte",
+   "encours": "290.73",
+   "frais_gestion": "2.14",
+   "frais_courants": "2.2",
+   "sri": "6",
+   "indice": "SOFR capitalisé quotidiennement",
+   "classification": "Agressif",
+   "categorie": "Alternative Global Multi Strategies",
+   "sfdr": "6",
+   "duration": "7.4",
+   "qualite": "Notation moyenne BBB+",
+   "disclaimer": "Les performances passées ne constituent pas un indicateur fiable des performances futures. Comme tout investissement, les fonds gérés par H2O Asset Management comportent un risque de perte en capital et le montant du capital investi n’est pas garanti.",
+   "politique_fr": "H2O MULTISTRATEGIES FCP donne accès à l'expertise H2O sur les obligations, actions & devises avec un profil de risque élevé (PRIIPS SRI 6). En tant que fonds à rendement absolu, l'objectif est d'obtenir une appréciation du capital supérieure à celle de son indice de référence monétaire sur l'horizon de placement recommandé (5 ans).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 609,
+  "isin": "LU1112771503",
+  "nom": "HELIUM SELECTION B EUR",
+  "maison": "SYQUANT CAPITAL SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771503/LU1112771503__Factsheet_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771503/LU1112771503__KID_FR_2026-06-26.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771503/LU1112771503__Factsheet_EN_2026-07-31.pdf",
+   "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771503/LU1112771503__Factsheet_FR_2026-07-31.pdf",
+   "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771503/LU1112771503__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/SYQUANT_CAPITAL_SAS/LU1112771503/LU1112771503__KID_FR_2026-06-26.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1112771503__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "2664",
+    "note": "p.1 « Encours du fonds 2664 Millions € » (au 31 août 2026)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-09-26",
+   "devise": "EUR",
+   "gerants": "Xavier Morin",
+   "encours": "2562",
+   "frais_gestion": "1.75",
+   "sri": "2",
+   "indice": "€STER Capitalized index",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-12."
+  }
+ },
+ {
+  "n": 611,
+  "isin": "FR0010601971",
+  "nom": "HMG DÉCOUVERTES C EUR",
+  "maison": "HMG Finance",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/HMG_FINANCE/FR0010601971/FR0010601971__KID_FR_2024-09-26.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/HMG_FINANCE/FR0010601971/FR0010601971__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/HMG_FINANCE/FR0010601971/FR0010601971__KID_FR_2024-09-26.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010601971__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 seulement « Compartiment de SICAV française » ; HMG FINANCE y figure comme société de gestion, le nom « SICAV HMG Finance » n'est pas écrit"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-05-07",
+   "devise": "EUR",
+   "type_fonds": "Actions françaises",
+   "compartiment": "SICAV HMG Finance",
+   "gerants": "Marc Girault, Jean-François Delcaire (CIIA)",
+   "encours": "188.99",
+   "frais_gestion": "1.76",
+   "frais_courants": "1.76",
+   "sri": "3",
+   "indice": "CAC Small NR (dividendes nets réinvestis)",
+   "classification": "Dynamique",
+   "categorie": "Equity France Sm&Mid Cap",
+   "sfdr": "8",
+   "disclaimer": "Document à caractère commercial. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DICI pour plus d’informations. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L’objectif de gestion du compartiment est de réaliser une performance nette de frais supérieure à celle de l’indice CAC Small NR (dividendes nets réinvestis), sur la durée de placement recommandée de 5 ans.\n\nLe compartiment dispose d’un indicateur de référence qui est le CAC Small NR (dividendes réinvestis), bien qu’il puisse s’en éloigner dans sa composition comme dans sa performance. En effet, i",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 612,
+  "isin": "FR0010241240",
+  "nom": "HMG GLOBETROTTER C EUR",
+  "maison": "HMG Finance",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/HMG_FINANCE/FR0010241240/FR0010241240__KID_FR_2025-01-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/HMG_FINANCE/FR0010241240/FR0010241240__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/HMG_FINANCE/FR0010241240/FR0010241240__KID_FR_2025-01-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010241240__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 seulement « Compartiment de SICAV française » / « le compartiment HMG Globetrotter » ; nom de SICAV « HMG Finance » non cité (HMG Finance = société de gestion)"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "162,37 M€",
+    "note": "p.1 « Actif net du compartiment Au 30/09/2026 162 368 789,44 € »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-10-21",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "compartiment": "SICAV HMG Finance",
+   "gerants": "Marc Girault, Paul Girault",
+   "encours": "161",
+   "frais_gestion": "2",
+   "frais_courants": "2",
+   "sri": "3",
+   "indice": "MSCI Emerging Markets Daily Net TR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Document à caractère commercial. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DIC pour plus d’informations. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif de gestion est de battre l’indice MSCI Emerging Markets net en EUR sur une période de cinq ans grâce à des investissements sur les marchés d'actions internationaux. Toutefois le compartiment HMG Globetrotter n’est pas un OPC indiciel. Par conséquent il pourra arriver que sa performance s’éloigne de celle de l’indice.\n\nLe compartiment prend position dans des sociétés dont l’essentiel des",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 613,
+  "isin": "FR0007495049",
+  "nom": "HMG RENDEMENT D EUR",
+  "maison": "HMG Finance",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__KID_FR_2025-01-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__KID_FR_2025-01-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0007495049__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 « Compartiment de SICAV française », nom de SICAV non cité"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "document": "Sans notation : 30,1 %",
+    "note": "p.1 Par notation financière : Sans notation 30,1 % (image)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1995-09-05",
+   "devise": "EUR",
+   "type_fonds": "Fonds mixtes",
+   "compartiment": "SICAV HMG Finance",
+   "gerants": "Marc Girault",
+   "encours": "39.21",
+   "frais_gestion": "1.98",
+   "frais_courants": "1.98",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "qualite": "Obligations non notées : 30,3 % de l’actif",
+   "disclaimer": "Document à caractère commercial. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DIC pour plus d’informations. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L’objectif de gestion du Compartiment consiste à maximiser la performance avec une gestion active et discrétionnaire des classes d’actifs (actions, obligations, instruments monétaires) et des zones géographiques (zone euro, zone hors euro) et dans le même temps à maîtriser la volatilité sur un horizon de placement de 5 ans.\n\nLa gestion est opportuniste et privilégie les titres à rendement élevé. D",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 616,
+  "isin": "LU0854762894",
+  "nom": "IFP GLOBAL AGE EUR",
+  "maison": "IFP Investment Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__Factsheet_EN_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__KID_FR_2026-01-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__Factsheet_EN_2020-07-31.pdf",
+   "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU0854762894/LU0854762894__KID_FR_2026-01-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0854762894__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-08-31 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-11-16",
+   "devise": "EUR",
+   "categorie": "Equity Global",
+   "politique_en": "The IFP Global Age Fund invests in companies that will benefit from an aging world population. The fund is mainly invested in global equities both from cyclical and non-cyclical sectors, with a focus on healthcare, financial services and consumer sectors.\n\nThe sustainable investment process is based on fundamental analysis, combining financial and non-financial criteria. Proprietary ESG analysis a",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 617,
+  "isin": "LU0482497442",
+  "nom": "INVESCO ASIA CONSUMER DEMAND A EUR",
+  "maison": "Invesco Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__KID_FR_2026-05-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482497442/LU0482497442__KID_FR_2026-05-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0482497442__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais : seul l'objectif figure (« long-term capital appreciation by investing primarily in equity securities of Asian companies… domestic consumption… excluding Japan ») ; prêt de titres, dérivés, gestion active vs indice, article 8 non repris dans ces termes"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-03-31",
+   "devise": "EUR",
+   "type_fonds": "Actions Asie hors Japon (consommation domestique)",
+   "compartiment": "Invesco Funds (SICAV luxembourgeoise)",
+   "gerants": "Mike Shiao, Shekhar Sambhshivan, William Yuen",
+   "encours": "205.13",
+   "frais_gestion": "1.5",
+   "frais_courants": "2.04",
+   "sri": "4",
+   "indice": "MSCI AC Asia Ex Japan NR USD",
+   "classification": "Dynamique",
+   "categorie": "Equity Asia ex Japan Emerging Markets",
+   "sfdr": "8",
+   "disclaimer": "La valeur des investissements et les revenus fluctueront (en partie du fait des variations de change) et les investisseurs peuvent ne pas récupérer la totalité du montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif du Fonds est de réaliser une croissance du capital à long terme. Le Fonds investit principalement dans des actions de sociétés asiatiques, hors Japon. Le Fonds investit principalement dans des sociétés dont les activités bénéficient de la consommation intérieure ou y sont liées. Le Fonds peut recourir au prêt de titres à des fins de gestion efficace du portefeuille. Le Fonds peut utilis",
+   "politique_en": "The objective of the Fund is to achieve long-term capital appreciation by investing primarily in equity securities of Asian companies whose business is likely to benefit from, or is related to growth in domestic consumption in Asian economies, excluding Japan.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 618,
+  "isin": "LU0432616737",
+  "nom": "INVESCO BALANCED RISK ALLOCATION A EUR",
+  "maison": "Invesco Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__KID_FR_2026-05-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0432616737/LU0432616737__KID_FR_2026-05-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0432616737__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais : seul l'objectif court figure (« aims to achieve a positive total return over a market cycle with a low to moderate correlation… via exposure to equities, debt and commodities ») ; notation B-, trois phases du cycle, prêt de titres, dérivés/levier, description de l'indice absents (texte du KID/prospectus)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2009-09-01",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (allocation équilibrée par le risque)",
+   "compartiment": "Invesco Funds (SICAV luxembourgeoise)",
+   "gerants": "Christopher Devine, Jan Grindrod, John Burrello, Scott Hixon",
+   "encours": "581.45",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.64",
+   "sri": "3",
+   "indice": "50% Bloomberg Germany Govt. Over 10 Year Index (TR) + 25% MSCI World Index EUR-Hedged (Net TR) + 25% S&P Goldman Sachs Commodity Index EUR-Hedged (TR)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "La valeur des investissements et les revenus fluctueront (en partie du fait des variations de change) et les investisseurs peuvent ne pas récupérer la totalité du montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif du Fonds est d'obtenir un rendement total positif sur un cycle de marché, avec une corrélation faible à modérée avec les indices traditionnels des marchés financiers. Le Fonds entend s'exposer principalement à des actions de sociétés, à des titres de créance (émis par des États ou des sociétés bénéficiant d'une notation minimale de B- selon l'agence Standard and Poor's ou équivalente) e",
+   "politique_en": "We seek to strategically balance risk across a diverse set of macroeconomic factors to provide enhanced diversification.\n\nWe have the tactical flexibility to alter exposure to individual assets to match the strategy to the prevailing environment.\n\nOur diversified approach and monthly rebalancing allow us to potentially limit the frequency and magnitude of large drawdowns.\n\nThe Fund aims to achieve",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 619,
+  "isin": "LU0482498762",
+  "nom": "INVESCO BALANCED-RISK ALLOC A USD",
+  "maison": "Invesco Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482498762/LU0482498762__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482498762/LU0482498762__KID_FR_2026-05-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482498762/LU0482498762__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482498762/LU0482498762__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU0482498762/LU0482498762__KID_FR_2026-05-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0482498762__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais : seul l'objectif court figure (« aims to achieve a positive total return over a market cycle with a low to moderate correlation… via exposure to equities, debt and commodities ») ; notation B-, trois phases du cycle, prêt de titres, dérivés/levier, description de l'indice absents (texte du KID/prospectus)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-04-29",
+   "devise": "USD",
+   "type_fonds": "Multi-actifs (allocation équilibrée par le risque)",
+   "compartiment": "Invesco Funds (SICAV luxembourgeoise)",
+   "gerants": "Christopher Devine, Jan Grindrod, John Burrello, Scott Hixon",
+   "encours": "675.41",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.64",
+   "sri": "3",
+   "indice": "50% Bloomberg Germany Govt. Over 10 Year Index (TR) + 25% MSCI World Index EUR-Hedged (Net TR) + 25% S&P Goldman Sachs Commodity Index EUR-Hedged (TR)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "La valeur des investissements et les revenus fluctueront (en partie du fait des variations de change) et les investisseurs peuvent ne pas récupérer la totalité du montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif du Fonds est d'obtenir un rendement total positif sur un cycle de marché, avec une corrélation faible à modérée avec les indices traditionnels des marchés financiers. Le Fonds entend s'exposer principalement à des actions de sociétés, à des titres de créance (émis par des États ou des sociétés bénéficiant d'une notation minimale de B- selon l'agence Standard and Poor's ou équivalente) e",
+   "politique_en": "We seek to strategically balance risk across a diverse set of macroeconomic factors to provide enhanced diversification.\n\nWe have the tactical flexibility to alter exposure to individual assets to match the strategy to the prevailing environment.\n\nOur diversified approach and monthly rebalancing allow us to potentially limit the frequency and magnitude of large drawdowns.\n\nThe Fund aims to achieve",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 620,
+  "isin": "LU1775967950",
+  "nom": "INVESCO GLOBAL HIGH INCOME A EUR H",
+  "maison": "Invesco Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__KID_FR_2026-05-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__KID_FR_2026-05-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1775967950__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais : seul l'objectif court figure (« high level of income together with long term capital growth… primarily in global non-investment grade debt securities ») ; le reste (prêt de titres, dérivés, gestion active vs indice, article 8…) vient du KID/prospectus"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-10-08",
+   "devise": "EUR",
+   "type_fonds": "Obligations internationales à haut rendement",
+   "compartiment": "Invesco Funds (SICAV luxembourgeoise)",
+   "gerants": "Rahim Shad",
+   "encours": "123.68",
+   "frais_gestion": "1",
+   "frais_courants": "1.28",
+   "sri": "2",
+   "indice": "Bloomberg Global High Yield Corporate Index USD-Hedged (TR)",
+   "classification": "Défensif",
+   "categorie": "Bond Global High Yield",
+   "sfdr": "8",
+   "duration": "3.66",
+   "qualite": "Notation moyenne BB-",
+   "disclaimer": "La valeur des investissements et les revenus fluctueront (en partie du fait des variations de change) et les investisseurs peuvent ne pas récupérer la totalité du montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif du Fonds est de générer un revenu élevé, ainsi qu'une croissance du capital à long terme. Le Fonds entend investir principalement dans des titres de créance émis dans le monde entier (y compris, sans s'y limiter, des titres émis par des sociétés et des États). Le Fonds peut investir dans des titres de créance non investment grade (qualité inférieure) et non notés. Le Fonds peut recourir",
+   "politique_en": "Fundamental research. In depth bottom up research which leverages corporate credit fundamentals, interest rate and macroeconomic views that drive security selection decisions.\n\nDisciplined Approach. Multi-faceted decision making process designed to achieve outperformance through rigour, transparency and accountability.\n\nMultiple levers. Our process for managing market risk is designed to allow us ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 621,
+  "isin": "LU1097688714",
+  "nom": "INVESCO GLOBAL INCOME A EUR",
+  "maison": "Invesco Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__KID_FR_2026-05-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__KID_FR_2026-05-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1097688714__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais : seul l'objectif court figure (« combination of income and capital growth over the medium-to long term… flexible allocation to debt securities and global equities ») ; le reste (prêt de titres, dérivés, gestion active vs indice, article 8…) vient du KID/prospectus"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-11-12",
+   "devise": "EUR",
+   "type_fonds": "Mixte obligations et actions internationales (revenu)",
+   "compartiment": "Invesco Funds (SICAV luxembourgeoise)",
+   "gerants": "Alexandra Ivanova, Asad Bhatti, Stephen Anness, Stuart Edwards",
+   "encours": "2426.07",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.62",
+   "sri": "3",
+   "indice": "40% MSCI World Index EUR hedged (Net TR) + 10% ICE BofA Global Corporate Index EUR hedged (TR) + 40% ICE BofA Global High Yield Index EUR hedged (TR) + 10% J.P. Morgan EMBI Global Diversified Composite Index (TR)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "1.89",
+   "qualite": "Notation moyenne BB+",
+   "disclaimer": "La valeur des investissements et les revenus fluctueront (en partie du fait des variations de change) et les investisseurs peuvent ne pas récupérer la totalité du montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif du Fonds est de générer un revenu et une croissance du capital à moyen et long terme. Le Fonds entend investir principalement dans des titres de créance (y compris des titres émis par des sociétés et des États, ainsi que des obligations convertibles contingentes) et dans des actions de sociétés du monde entier. Le Fonds peut recourir au prêt de titres à des fins de gestion efficace du p",
+   "politique_en": "An actively managed fund focused on generating income from bonds and equities.\n\nInvests in investment grade, high yield and emerging market corporate bonds with 35-65% allocation to global equities for income and potential growth. Seeks to manage risk using cash and government bonds.\n\nManaged by experienced, stable and well-resourced fixed income and equity teams.\n\nThe Fund aims to provide a combi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 622,
+  "isin": "LU1775964932",
+  "nom": "INVESCO PRC EQUITY A EUR H",
+  "maison": "Invesco Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__KID_FR_2026-05-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__KID_FR_2026-05-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1775964932__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais : seul l'objectif court figure (« long-term capital growth by investing in shares of companies with substantial exposure to mainland China ») ; le reste (prêt de titres, dérivés, gestion active vs indice, article 8…) vient du KID/prospectus"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-09-10",
+   "devise": "EUR",
+   "type_fonds": "Actions chinoises",
+   "compartiment": "Invesco Funds (SICAV luxembourgeoise)",
+   "gerants": "Elton Cheung, Ronney Cheung",
+   "encours": "180.61",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.23",
+   "sri": "5",
+   "indice": "MSCI China 10/40 Index (Net TR)",
+   "classification": "Dynamique",
+   "categorie": "Equity China",
+   "sfdr": "8",
+   "disclaimer": "La valeur des investissements et les revenus fluctueront (en partie du fait des variations de change) et les investisseurs peuvent ne pas récupérer la totalité du montant investi. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L'objectif du Fonds est de réaliser une croissance du capital à long terme. Le Fonds investit principalement dans des actions de sociétés en Chine. La Chine désigne la RAS de Hong Kong, la Chine continentale et la RAS de Macao. La référence à « China New Perspective » renvoie à l'évolution continue de l'économie chinoise, le Gestionnaire d'investissement cherchant à saisir les différentes opportun",
+   "politique_en": "Looking at China through new perspectives, positioned growth drivers for the coming decades.\n\nThe Fund has a strong focus on bottom-up approach coupled with active management.\n\nAn experienced investment team conducts research on value chain alongside sector coverage for all China share classes.\n\nThe Fund’s aim is to achieve long-term capital growth by investing in shares of companies with substant",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 623,
+  "isin": "FR001400Z404",
+  "nom": "INVESTCORE 2031 C EUR (FMB)",
+  "maison": "ALIENOR CAPITAL",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALIENOR_CAPITAL/FR001400Z404/FR001400Z404__Factsheet_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400Z404__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "pas de « frais courants » dans la factsheet ; p.1 « Frais de gestion max. : 1,15 % TTC (Part A) » + « Frais de fonctionnement : 0,15% » (somme 1,30 %, cohérente)"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2025-06-16",
+   "devise": "EUR",
+   "type_fonds": "Fonds obligataire à échéance",
+   "gerants": "Sébastien Gouabau",
+   "encours": "18.81",
+   "frais_gestion": "1.15",
+   "frais_courants": "1.3",
+   "sri": "2",
+   "indice": "OAT 2031 (OAT 25 novembre 2031, FR0014002WK3)",
+   "classification": "Défensif",
+   "categorie": "Majoritairement obligations",
+   "sfdr": "8",
+   "duration": "4.15",
+   "qualite": "Notation interne Alienor : A- 1 %, BBB+ 3 %, BBB 6 %, BBB- 36 %, BB+ 15 %, BB 25 %, BB- 10 %, B+ 3 %, B- 1 %",
+   "disclaimer": "Principaux risques liés à l'investissement : risque de perte en capital, de gestion discrétionnaire, de crédit, de taux, sectoriel. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "InvestCore 2031 est un fonds obligataire à échéance dont l’objectif est de réaliser sur la période comprise entre la date de création du fonds et le 31 décembre 2031 une performance nette de frais de gestion supérieure à celle des obligations émises par l’Etat français libellées en euro d’échéance 2031.\n\nLa performance du fonds repose sur une stratégie principale de portage jusqu’à maturité de tit",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 624,
+  "isin": "FR0011554294",
+  "nom": "INVESTCORE BOND OPPORTUNITIES C EUR",
+  "maison": "ALIENOR CAPITAL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/ALIENOR_CAPITAL/FR0011554294/FR0011554294__KID_FR_2025-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALIENOR_CAPITAL/FR0011554294/FR0011554294__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALIENOR_CAPITAL/FR0011554294/FR0011554294__KID_FR_2025-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0011554294__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "pas de « frais courants » ; p.1 « Frais de gestion max. : 1,15 % TTC (Part C) » + « Frais de fonctionnement : 0,2% » (somme 1,35 %, cohérente)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-11-04",
+   "devise": "EUR",
+   "type_fonds": "Fonds obligataire opportuniste",
+   "gerants": "Sébastien Gouabau",
+   "encours": "24.1",
+   "frais_gestion": "1.15",
+   "frais_courants": "1.35",
+   "sri": "2",
+   "indice": "€STR capitalisé + 2,5%",
+   "classification": "Défensif",
+   "categorie": "Bond Global Short Term",
+   "sfdr": "8",
+   "duration": "3.71",
+   "qualite": "Notation moyenne Alienor : BB+ (High Yield)",
+   "disclaimer": "Principaux risques liés à l'investissement : risque de perte en capital, de gestion discrétionnaire, de crédit, de taux, sectoriel, actions et de change. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "Investcore Bond Opportunities est un fonds obligataire opportuniste dont l’objectif est de surperformer l’indice de référence €STR +2,5% capitalisé, en recherchant principalement la performance des marchés de taux, à partir d’une stratégie principale de portage",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 627,
+  "isin": "IE00BK26DX94",
+  "nom": "JANUS HENDERSON BALANCED A2 EUR",
+  "maison": "Janus Henderson Investors",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE00BK26DX94/IE00BK26DX94__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE00BK26DX94/IE00BK26DX94__KID_FR_2026-02-12.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE00BK26DX94/IE00BK26DX94__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE00BK26DX94/IE00BK26DX94__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/IE00BK26DX94/IE00BK26DX94__KID_FR_2026-02-12.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BK26DX94__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-12-27",
+   "devise": "EUR",
+   "gerants": "Jeremiah Buckley, Greg Wilensky, Michael Keough",
+   "frais_gestion": "1",
+   "frais_courants": "1.88",
+   "indice": "60% S&P 500 / 40% Bloomberg US Aggregate Bond",
+   "categorie": "Mixed Asset US Balanced",
+   "politique_fr": "Le Fonds vise à fournir un rendement, résultant d'une combinaison de revenu et de croissance du capital, tout en cherchant à limiter les pertes en termes de capital (bien que ce ne soit pas garanti). Objectif de performance: Surperformer par rapport à l'indice «équilibré» (60 % S&P 500 + 40 % Bloomberg US Aggregate Bond) de 1,5 % par an, avant déduction des charges, sur une période quelconque de c",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 628,
+  "isin": "LU1984712320",
+  "nom": "JANUS HENDERSON HORIZON GL SM A2 EUR",
+  "maison": "Janus Henderson Investors",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1984712320/LU1984712320__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1984712320/LU1984712320__KID_FR_2026-02-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1984712320/LU1984712320__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1984712320/LU1984712320__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1984712320/LU1984712320__KID_FR_2026-02-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1984712320__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-08-06",
+   "devise": "EUR",
+   "gerants": "Nick Sheridan, Jonathan Coleman, Aaron Schaechterle, Ollie Beckett, Yunyoung Lee, Sat Duhra",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.9",
+   "indice": "MSCI World Small Cap",
+   "politique_fr": "Le Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice MSCI World Small Cap Index, après déduction des charges, sur une période quelconque de cinq ans.\n\nLe Fonds investit au moins 80% de ses actifs dans des actions (titres de participation) et titres assimilés de petites sociétés, de tous secteurs, sises dans n'importe quel",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 629,
+  "isin": "LU0264738294",
+  "nom": "JANUS HENDERSON HORIZON GLOBAL PROPERTY EQ A2 EUR",
+  "maison": "Janus Henderson Investors",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0264738294/LU0264738294__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0264738294/LU0264738294__KID_FR_2026-02-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0264738294/LU0264738294__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0264738294/LU0264738294__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0264738294/LU0264738294__KID_FR_2026-02-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0264738294__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "document": "Horizon Global Property Equities Fund (compartiment de Janus Henderson Horizon Fund, SICAV luxembourgeoise)",
+    "note": "p.1 titre « HORIZON GLOBAL PROPERTY EQUITIES FUND » ; p.4 « Le Janus Henderson Horizon Fund (le « Fonds ») est une SICAV de droit luxembourgeois » ; nom du classeur sans « Horizon » et « Equity » au singulier"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "928,20 M USD",
+    "note": "p.1 « Total de l'actif nette 928.20m », devise de base USD, au 31/08/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-01-03",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Equity Fund, Real Estate",
+   "compartiment": "Janus Henderson Global Property Equity Fund",
+   "gerants": "Guy Barnard, Tim Gibson, Greg Kuhl",
+   "encours": "1247000000",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.89",
+   "sri": "6",
+   "indice": "FTSE EPRA Nareit Developed Index",
+   "categorie": "Equity Global Real Estate",
+   "politique_fr": "Le Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice FTSE EPRA Nareit Developed Index d'au moins 2% par an, avant déduction des charges, sur une période quelconque de cinq ans.\n\nLe Fonds investit au moins 80% de ses actifs dans un portefeuille d'actions (titres de participation) et de titres assimilés de fonds de placemen",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 630,
+  "isin": "LU0046217351",
+  "nom": "JANUS HENDERSON HRZN PANEURPSMRCOMS A2 EUR",
+  "maison": "Janus Henderson Investors",
+  "origine": "Fiche préparée le 16/10 (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__KID_FR_2026-02-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU0046217351/LU0046217351__KID_FR_2026-02-13.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1993-08-02",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes (petites capitalisations)",
+   "compartiment": "Janus Henderson Horizon Pan European Smaller Companies Fund est un compartiment de Janus Henderson Fund, une société d'investissement à capital variable constituée en vertu des lois du Grand-Duché de Luxembourg. Janus Henderson Horizon Fund est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+   "gerants": "Ollie Beckett, Rory Stokes, Julia Scheufler",
+   "encours": "1410",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.20",
+   "frais_courants": "1.87",
+   "sri": "4",
+   "indice": "MSCI Europe Small Cap Index",
+   "classification": "Dynamique",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+   "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice MSCI Europe Small Cap Index, après déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit au moins 75% de ses actifs dans des actions (titres de participation) et des titres assimilés de petites s",
+   "source_politique": "Factsheet",
+   "remarques": "Part A2 EUR (accumulation). Factsheet FR au 31/08/2026 (fundinfo FR ; pas de version de septembre sur fundinfo). Politique : « Objectif de gestion » (p.1, sans le renvoi à la page 3) + « Politique d'investissement » et « Stratégie d'investissement » (p.3) de la factsheet. Date de création = « Informations sur les catégories d'action – Date de création 02 août 1993 » (fonds : 01 août 1993). Encours"
+  }
+ },
+ {
+  "n": 631,
+  "isin": "LU0210528500",
+  "nom": "JPM AMERICA EQUITY A USD",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210528500/LU0210528500__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210528500/LU0210528500__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210528500/LU0210528500__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210528500/LU0210528500__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210528500/LU0210528500__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210528500__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "7 740,6 M USD",
+    "note": "p.1 « Fund assets 7 740,6 M USD » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-04-01",
+   "devise": "USD",
+   "type_fonds": "Actions Etats-Unis Gdes Cap. Mixte",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Felise L Agranoff, Jack Caffrey, Graham Spence",
+   "encours": "7786",
+   "frais_courants": "1.7",
+   "sri": "4",
+   "indice": "S&P 500 Index (Total Return Net of 30% withholding tax)",
+   "classification": "Dynamique",
+   "categorie": "Equity US",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans un portefeuille concentré de sociétés américaines.\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Portefeuille concentré à forte conviction, qui cherche à identifier les meilleures idées de placement au sein des univers d'invest",
+   "politique_en": "Investment objective: To provide long-term capital growth by investing primarily in a concentrated portfolio of US companies.\n\nUses a fundamental, bottom-up stock selection process.\n\nConcentrated, high-conviction portfolio that seeks to identify the most attractive investment ideas from the value and growth investment universes.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 632,
+  "isin": "LU0117867159",
+  "nom": "JPM CHINA FUND D USD",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0117867159/LU0117867159__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0117867159__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.75%",
+    "note": "p.1 « Ongoing charge 2.75% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-10-13",
+   "devise": "USD",
+   "type_fonds": "Actions Chine",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Rebecca Jiang, Li Tan",
+   "encours": "2731.2",
+   "frais_courants": "2.74",
+   "sri": "5",
+   "indice": "MSCI China 10/40 Index (Net TR)",
+   "classification": "Dynamique",
+   "categorie": "Equity China",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans des sociétés de la République Populaire de Chine (RPC).\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Utilise une approche basée sur de fortes convictions en vue d'identifier les meilleures idées d'investissement.\n\n- Cherche à ",
+   "politique_en": "To provide long-term capital growth by investing primarily in companies of the People's Republic of China (PRC).\n\nUses a fundamental, bottom-up stock selection process.\n\nUses a high conviction approach to finding the best investment ideas.\n\nSeeks to identify high quality companies with superior and sustainable growth potential.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 633,
+  "isin": "LU0862449690",
+  "nom": "JPM EMERGING MKT DIV FUND A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0862449690/LU0862449690__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0862449690__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1 454,9 M USD",
+    "note": "p.1 « Fund assets 1 454,9 M USD » au 30/09/2026"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-12-11",
+   "devise": "EUR",
+   "type_fonds": "Actions Marchés Emergents",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Omar Negyal, Shuyu Gao",
+   "encours": "1390.4",
+   "frais_courants": "1.81",
+   "sri": "4",
+   "indice": "MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Générer un rendement en investissant essentiellement dans des actions de sociétés des marchés émergents qui distribuent des dividendes, tout en participant à la croissance du capital sur le long terme.\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Utilise une approche basée sur de fortes convictions en vue d'ident",
+   "politique_en": "To provide income by investing primarily in dividend-yielding equity securities of emerging market companies, whilst participating in long term capital growth.\n\nUses a fundamental, bottom-up stock selection process.\n\nUses a high conviction approach to finding the best investment ideas.\n\nSeeks to balance attractive yield and capital appreciation.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 634,
+  "isin": "LU1001747408",
+  "nom": "JPM EUR EQUITY ABS ALPHA A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1001747408/LU1001747408__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1001747408__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "4 972,9 M EUR",
+    "note": "p.1 « Fund assets 4 972,9 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.73%",
+    "note": "p.1 « Ongoing charge 1.73% »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-12-19",
+   "devise": "EUR",
+   "type_fonds": "Alt - Market Neutral - Actions",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Michael Barakos, Nicholas Horne, Ben Stapley, Matt Jones",
+   "encours": "4915.3",
+   "frais_courants": "1.74",
+   "sri": "3",
+   "indice": "ICE BofA ESTR Overnight Rate Index Total Return in EUR",
+   "classification": "Equilibré",
+   "categorie": "Multi-actifs (rendement absolu)",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une performance absolue par le biais de positions longues et courtes sur des sociétés européennes tout en maintenant une faible exposition au marché, en investissant directement ou par le biais d'instruments dérivés dans lesdites sociétés.\n\nApproche d'investissement :\n\n- Applique un processus de sélection de titres bottom-up.\n\n- Utilise toute l'étendue de l'unive",
+   "politique_en": "To achieve a total return through long and short investments in European companies while maintaining low market exposure, by investing in such companies directly or through the use of derivatives.\n\nUses a bottom-up stock selection process.\n\nUses the full breadth of the eligible equity investment universe through a combination of fundamental research insights and quantitative analysis.\n\nUses a long",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 635,
+  "isin": "LU0210532015",
+  "nom": "JPM EUROPE DYNAMIC TECHS A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210532015/LU0210532015__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210532015__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "432,1 M EUR",
+    "note": "p.1 « Fund assets 432,1 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.75%",
+    "note": "p.1 « Ongoing charge 1.75% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-31",
+   "devise": "EUR",
+   "type_fonds": "Actions Secteur Technologies",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Jon Ingram, Alex Whyte, Victoria Helvert",
+   "encours": "425.9",
+   "frais_courants": "1.74",
+   "sri": "5",
+   "indice": "MSCI Europe Investable Market Information Technology 10/40 Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Information Technology",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans des sociétés européennes liées aux technologies (technologie, médias et télécommunications notamment).\n\nApproche d'investissement :\n\n- Applique un processus de sélection de titres bottom-up.\n\n- Utilise toute l'étendue de l'univers d'investissement éligible en actions grâce à la reche",
+   "politique_en": "To provide long-term capital growth by investing primarily in technologies (including but not limited to technology, media and telecommunication) related companies in Europe.\n\nUses a bottom-up stock selection process.\n\nUses the full breadth of the eligible equity investment universe through a combination of fundamental research insights and quantitative analysis.\n\nUses a best ideas approach to fin",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 636,
+  "isin": "LU0070177588",
+  "nom": "JPM GBP STANDARD MONEY MARKET VNAV A GBP",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__KID_FR_2026-04-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070177588/LU0070177588__KID_FR_2026-04-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0070177588__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "document": "WAM 146 jours ; WAL 189 jours (au 30/09/26)",
+    "note": "objectif et approche = traduction du texte p.1 ; mais p.2 « Weighted Average Maturity in days As at 30/09/26 146 days », « Weighted Average Life… 189 days » au lieu de 140 / 178 jours au 31/08/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1996-04-15",
+   "devise": "GBP",
+   "type_fonds": "Monétaires GBP Court Terme (Standard MMF - VNAV)",
+   "compartiment": "JPMorgan Liquidity Funds (SICAV luxembourgeoise)",
+   "gerants": "Neil Hutchison, Joseph McConnell, Rustam Muradov",
+   "encours": "1411.6",
+   "frais_courants": "0.45",
+   "sri": "1",
+   "indice": "ICE BofA Sterling 3-Month Government Bill Index",
+   "classification": "Défensif",
+   "categorie": "Money Market Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Le Compartiment cherche à offrir un rendement dans sa Devise de référence supérieur aux taux du marché monétaire en GBP tout en cherchant à préserver un capital en adéquation avec les taux du marché monétaire en vigueur et à maintenir un degré de liquidité élevé.\n\nApproche d'investissement :\n\n- Ce Compartiment de liquidités emploie des Titres de créance, des dépôts aupr",
+   "politique_en": "The Sub-Fund seeks to achieve a return in the Reference Currency in excess of GBP money market rates whilst aiming to preserve capital consistent with prevailing money market rates and to maintain a high degree of liquidity.\n\nThis liquidity Sub-Fund uses high quality short-term Debt Securities, deposits with credit institutions and Reverse Repurchase Agreements to enhance returns.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 638,
+  "isin": "LU0070212591",
+  "nom": "JPM GLOBAL BALANCED A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0070212591/LU0070212591__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0070212591__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "2 458,2 M EUR",
+    "note": "p.1 « Fund assets 2 458,2 M EUR » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1995-07-18",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Modérée - International",
+   "compartiment": "JPMorgan Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Katy Thorneycroft, Jonathan Cummings, Gareth Witcomb",
+   "encours": "2478.8",
+   "frais_courants": "1.64",
+   "sri": "3",
+   "indice": "50% J.P. Morgan Government Bond Index Global (Total Return Gross) Hedged to EUR / 45% MSCI World Index (Total Return Net) Hedged to EUR / 5% MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.81",
+   "qualite": "Poche obligataire : AAA 3,83 %, AA 44,82 %, A 38,67 %, BBB 12,69 % ; rendement à l'échéance 4,21 %",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme et générer des revenus en investissant, à l'échelle mondiale, essentiellement dans des sociétés et des titres de créance émis ou garantis par des gouvernements ou leurs agences et en ayant recours à des instruments dérivés si nécessaire.\n\nApproche d'investissement :\n\n- Approche multi-actifs, qui combine l'allocation d'a",
+   "politique_en": "To provide long-term capital growth and income by investing primarily in companies and debt securities issued or guaranteed by governments or their agencies, globally, using derivatives where appropriate.\n\nMulti-asset approach, combining asset allocation with bottom-up expertise leveraged from specialists from JPMorgan Asset Management’s global investment platform.\n\nActively managed implementation",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 639,
+  "isin": "LU0329203573",
+  "nom": "JPM GLOBAL DIVIDEND FUND D EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0329203573/LU0329203573__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0329203573__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "8 095,7 M USD",
+    "note": "p.1 « Fund assets 8 095,7 M USD » au 30/09/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun frais de gestion annuel dans la factsheet (seulement « Ongoing charge 2.50% », entrée/sortie)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.50%",
+    "note": "p.1 « Ongoing charge 2.50% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-05-22",
+   "devise": "EUR",
+   "type_fonds": "Actions International Rendement",
+   "compartiment": "JPMorgan Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Helge Skibeli, Sam Witherow, Michael Rossi",
+   "encours": "8276.7",
+   "frais_gestion": "0.75",
+   "frais_courants": "2.51",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Income",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant essentiellement dans des actions de sociétés du monde entier qui génèrent des revenus élevés et en hausse.\n\nApproche d'investissement :\n\n- Applique un processus fondamental de sélection de titres bottom-up.\n\n- Processus d'investissement fondé sur l'analyse des actions par une équipe de recherche internat",
+   "politique_en": "To provide long-term capital growth by investing primarily in companies, globally, that generate high and rising income.\n\nUses a fundamental, bottom-up stock selection process.\n\nInvestment process built on stock level analysis by a global research team.\n\nSeeks to identify companies with sustainably high dividends and/or sustainable dividend growth potential.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 640,
+  "isin": "LU0210534227",
+  "nom": "JPM GLOBAL FOCUS A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534227/LU0210534227__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210534227__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "8 535,9 M EUR",
+    "note": "p.1 « Fund assets 8 535,9 M EUR » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-31",
+   "devise": "EUR",
+   "type_fonds": "Actions International Gdes Cap. Mixte",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Helge Skibeli, James Cook, Sam Witherow",
+   "encours": "8689.6",
+   "frais_courants": "1.67",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance supérieure du capital sur le long terme en investissant essentiellement dans un portefeuille géré de manière agressive composé de sociétés à grande, moyenne et petite capitalisation du monde entier dont le Gestionnaire financier estime qu'elles affichent des valorisations attrayantes et un potentiel de forte croissance ou de redressement de leurs r",
+   "politique_en": "To provide superior long-term capital growth by investing primarily in an aggressively managed portfolio of large, medium and small companies globally, that the Investment Manager believes to be attractively valued and to have significant profit growth or earnings recovery potential.\n\nUses a fundamental, bottom-up stock selection process.\n\nInvestment process built on stock level analysis by a glob",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 641,
+  "isin": "LU0740858229",
+  "nom": "JPM GLOBAL INCOME A EUR",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__KID_FR_2026-04-27.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0740858229/LU0740858229__KID_FR_2026-04-27.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0740858229__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "19 363,2 M EUR",
+    "note": "p.1 « Fund assets 19 363,2 M EUR » au 30/09/2026"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1.40%",
+    "note": "p.1 « Ongoing charge 1.40% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-03-01",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Modérée - International",
+   "compartiment": "JPMorgan Investment Funds (SICAV luxembourgeoise)",
+   "gerants": "Michael Schoenhaut, Eric Bernbaum, Gary Herbert",
+   "encours": "19129.6",
+   "frais_courants": "1.39",
+   "sri": "3",
+   "indice": "40% Bloomberg US High Yield 2% Issuer Cap Index (Total Return Gross) Hedged to EUR / 35% MSCI World Index (Total Return Net) Hedged to EUR / 25% Bloomberg Global Credit Index (Total Return Gross) Hedged to EUR",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.48",
+   "qualite": "Poche obligataire : AAA 3,36 %, AA 3,51 %, A 1,80 %, BBB 14,96 %, inférieur à BBB 73,35 %, non noté 3,01 %",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir un revenu régulier en investissant, à l'échelle mondiale, essentiellement dans un portefeuille de titres générateurs de revenus et en ayant recours aux instruments dérivés.\n\nApproche d'investissement :\n\n- Approche multi-actifs, qui repose sur l'expertise des spécialistes de la plateforme d'investissement mondiale de JPMorgan Asset Management et vise à générer des",
+   "politique_en": "Investment objective: To provide regular income by investing primarily in a portfolio of income generating securities, globally, and through the use of derivatives.\n\nMulti-asset approach, leveraging specialists from around JPMorgan Asset Management's global investment platform, with a focus on risk-adjusted income.\n\nFlexible implementation of the managers’ allocation views at asset class and regio",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 644,
+  "isin": "LU0210534813",
+  "nom": "JPM GLOBAL SUSTAINABLE EQUITY A USD",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__KID_FR_2026-10-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0210534813/LU0210534813__KID_FR_2026-10-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0210534813__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "347,5 M USD",
+    "note": "p.1 « Fund assets 347,5 M USD » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-31",
+   "devise": "USD",
+   "type_fonds": "Actions International Gdes Cap. Mixte",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Sophie Wright, Joanna Crompton",
+   "encours": "353.1",
+   "frais_courants": "1.74",
+   "sri": "4",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Offrir une croissance du capital sur le long terme en investissant principalement dans des sociétés mondiales présentant des caractéristiques E/S positives ou dont les caractéristiques E/S s'améliorent. Les sociétés présentant des caractéristiques E/S positives sont des sociétés qui, de l'avis du Gestionnaire financier, disposent de systèmes avancés et efficaces en mati",
+   "politique_en": "To provide long-term capital growth by investing primarily in global companies with positive E/S characteristics or companies that demonstrate improving E/S characteristics. Companies with positive E/S characteristics are those that the Investment Manager believes to have effective governance and superior management of environmental and/or social issues (sustainable characteristics).\n\nUses a funda",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 645,
+  "isin": "LU1041599587",
+  "nom": "JPM INCOME A EUR H",
+  "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__KID_FR_2026-04-27.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU1041599587/LU1041599587__KID_FR_2026-04-27.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1041599587__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "14 141,0 M USD",
+    "note": "p.1 « Fund assets 14 141,0 M USD » au 30/09/2026"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-06-16",
+   "devise": "EUR",
+   "type_fonds": "Obligations Autres",
+   "compartiment": "JPMorgan Funds (SICAV luxembourgeoise)",
+   "gerants": "Andrew Norelli, Andrew Headley, Thomas Hauser",
+   "encours": "14643.9",
+   "frais_courants": "1.18",
+   "sri": "2",
+   "indice": "Bloomberg US Aggregate Bond Index (Total Return Gross) Hedged to EUR",
+   "classification": "Défensif",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "2.59",
+   "qualite": "AAA 41,08 %, AA 2,36 %, A 2,00 %, BBB 11,24 %, inférieur à BBB 33,86 %, liquidités 9,46 % ; rendement à l'échéance (USD) 6,98 %",
+   "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements peut évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+   "politique_fr": "Objectif d'investissement : Générer des revenus en investissant essentiellement dans des titres de créance.\n\nApproche d'investissement :\n\n- Applique un processus d'investissement axé sur la recherche intégrée à l'échelle mondiale en vue d'analyser les facteurs fondamentaux, quantitatifs et techniques de différents pays, secteurs et émetteurs.\n\n- Applique une approche libre de toute contrainte afin",
+   "politique_en": "To provide income by investing primarily in debt securities.\n\nUses a globally integrated research driven investment process that focuses on analysing fundamental, quantitative and technical factors across countries, sectors and issuers.\n\nUses an unconstrained approach to finding the best investment ideas across multiple fixed income sectors and countries with a focus on generating a consistent inc",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]

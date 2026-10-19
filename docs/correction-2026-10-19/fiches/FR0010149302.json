@@ -1,0 +1,305 @@
+{
+ "n": "433",
+ "isin": "FR0010149302",
+ "nom": "CARMIGNAC EMERGENTS A EUR",
+ "maison": "CARMIGNAC GESTION",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149302/FR0010149302__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149302/FR0010149302__KID_FR_2026-04-16.pdf",
+ "date_creation": "1997-02-03",
+ "devise": "EUR",
+ "type_fonds": "Actions émergentes",
+ "compartiment": "Carmignac Emergents est un Fonds Commun de Placement (FCP) de droit français, relevant de la directive européenne 2009/65/CE (OPCVM).",
+ "gerants": "Xavier Hovasse, Naomi Waistell",
+ "encours_millions": "1565",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.80",
+ "sri": "4",
+ "indice": "MSCI EM NR index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Emergents est un fonds actions émergentes (UCITS) combinant une approche fondamentale des pays et une sélection rigoureuse des titres afin d’identifier les opportunités à fort potentiel de croissance sur le long terme au sein des marchés émergents. Le Fonds a pour objectif de surperformer son indicateur de référence, sur une durée supérieure à cinq ans. L'objectif d’investissement durable du Fonds consiste notamment à investir au moins 80% de ses actifs nets dans des actions d'entreprises considérées comme alignées sur les Objectifs de Développement Durable des Nations Unies. En outre, le Fonds vise des émissions carbone (tCO2/mUSD de chiffre d'affaire converti en euros ; agrégées au niveau du portefeuille ; scopes 1 et 2 du protocole sur les GES) de 50% inférieures à celles de son indicateur de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de la 1ère VL » de la part A EUR Acc (03/02/1997) ; « Date de lancement du Fonds : 31/01/1997 » (KID : « Le fonds a été créé le 31/01/1997 »). Encours = « Actifs sous gestion du Fonds : 1565M€ » (encours de la part : 1503M€). Gérants : Xavier Hovasse depuis le 25/02/2015, Naomi Waistell depuis le 07/05/2025. Frais : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,8 % (KID : 1,80 %) ; pas de frais de gestion séparés ; commission liée aux résultats 20 %. Indice : factsheet « MSCI EM NR index. » (KID : objectif de surperformance). SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR article 9 (factsheet et KID) ; « Minimum % d’investissements durables 80% » (engagement minimal, non repris). Classification Agressif : actions des pays émergents (SRI 4, cas limite). Allocations : zones = détail de la ligne « Actions » ; secteurs, capitalisations et pays « Poids rebasés » ; devises « transparisées » ; ligne « Total 51,8 % » du top 10 non reprise. Corrigé (factsheet 30/09/2026) : encours 1500 → 1565 ; frais courants (vide) → 1.80 ; indice MSCI EM NR USD → MSCI EM NR index ; classification (vide) → Agressif ; SFDR (vide) → 9.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "97.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "2.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "97.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "15.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "81.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe de l'Est",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "37.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "17.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "12.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "11.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "7.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication",
+   "pct": "4.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "0.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes (>10000 MEUR)",
+   "pct": "77.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes (2000 - 10000MEUR)",
+   "pct": "20.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites (<2000 MEUR)",
+   "pct": "2.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "24.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won",
+   "pct": "23.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yuan Ren-Min-Bi",
+   "pct": "18.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Réal de Brésil",
+   "pct": "7.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "6.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar des Etats-Unis",
+   "pct": "4.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Péso mexicain",
+   "pct": "3.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Hong Kong",
+   "pct": "3.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EURO",
+   "pct": "2.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Singapour",
+   "pct": "2.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "3.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "25.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "23.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "19.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "7.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "6.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "4.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pérou",
+   "pct": "3.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "2.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Malaisie",
+   "pct": "1.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres pays",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "10.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS CO LTD",
+   "pct": "8.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK SQUARE CO LTD",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXIA ENERGIA SA",
+   "pct": "4.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASIA VITAL COMPONENTS CO LTD",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CONTEMPORARY AMPEREX TECHNOLOGY CO LTD",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TENCENT HOLDINGS LTD",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CREDICORP LTD",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HYUNDAI MOTOR CO",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK HYNIX INC",
+   "pct": "2.8"
+  }
+ ]
+}

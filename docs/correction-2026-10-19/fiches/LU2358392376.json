@@ -1,0 +1,176 @@
+{
+ "n": "849",
+ "isin": "LU2358392376",
+ "nom": "VARENNE UCITS VALEUR A-EUR",
+ "maison": "Varenne Capital Partners",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-24",
+ "date_creation": "2003-01-31",
+ "devise": "EUR",
+ "type_fonds": "Flexible international à dominante actions (long/short, arbitrage)",
+ "compartiment": "Compartiment de la SICAV VARENNE - UCITS",
+ "gerants": "",
+ "encours_millions": "1525.20",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.794",
+ "frais_courants": "1.89",
+ "sri": "3",
+ "indice": "Euro Short Term Rate (€STR) capitalisé (moyenne sur 12 mois glissants)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur de l’investissement ainsi que son rendement peuvent varier.",
+ "politique_fr": "VARENNE VALEUR a pour objectif de rechercher une performance annualisée supérieure à l'Euro Short Term Rate (€STR) capitalisé (moyenne sur 12 mois glissants) sur la période d'investissement recommandée, en s'appuyant sur une gestion discrétionnaire. Le Compartiment est géré activement et se réfère à l'Euro Short Term Rate (€STR) capitalisé en (moyenne sur 12 mois glissants) à des fins de comparaison et de calcul de la Commission de performance. Une stratégie discrétionnaire est déployée en s'appuyant essentiellement sur les actions et les autres titres donnant accès au capital (via des positions acheteuses et vendeuses) mais aussi sur les obligations et tout autre titre de créance négociable, incluant les titres d’état, ainsi que les contrats financiers (ex. : change, taux, actions, indices) négociés sur des marchés réglementés, ou de gré à gré, dans un but de couverture et/ou d’exposition.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « INFORMATION MENSUELLE (A-EUR) - 30 SEPTEMBRE 2026 » (VARENNE VALEUR A-EUR). Date de création = « Date de lancement de la part 31/01/2003 » (historique du FCP français absorbé le 25 avril 2022 par le compartiment luxembourgeois, ratio 1 pour 1). Encours « Actif du compartiment 1525.20 M€ ». Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation 1.89% … dont frais gestion 1.794% » (factsheet, identique au KID) ; commission de performance max. 14,95 %. Indice = indicateur de l'objectif de performance « Euro Short Term Rate (€STR) capitalisé (moyenne sur 12 mois glissants) » (aussi utilisé pour la comparaison et la commission de performance) → retenu ; la factsheet indique aussi « Indice de référence Euro short-term rate (€STR) ». SFDR article 8 (factsheet et KID), aucun % d'investissements durables écrit. Gérants : aucun nom dans les documents. Classification Equilibré : flexible à dominante actions (exposition Long Equity 83,83 % delta adjusted, Short Equity 10,10 %), SRI 3 ; classement maintenu, à confirmer. Allocations : données de la stratégie « Long Equity - Poche Coeur » en « % de l'Actif » (exposition delta adjusted ; totaux ≠ 100 % gardés), 5 principales positions, 10 sous-industries (Secteurs), devises = « Exposition Nette » (CAD sans valeur). Corrigé : encours 1455.44 → 1525.20 (factsheet 30/09/2026) ; compartiment → texte de la factsheet ; frais, SRI et indice inchangés.",
+ "sources": {
+  "date_creation": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ANALOG DEVICES",
+   "pct": "3.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML",
+   "pct": "3.00"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROLLS-ROYCE",
+   "pct": "2.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TSMC",
+   "pct": "2.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICRON",
+   "pct": "2.82"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Plus de 10 milliards €",
+   "pct": "71.45"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 5 milliards à 10 milliards €",
+   "pct": "4.47"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 2 milliards à 5 milliards €",
+   "pct": "3.64"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moins de 2 milliards €",
+   "pct": "0.00"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "50.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "28.80"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0.00"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Semi-conducteurs",
+   "pct": "17.08"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériel et équipements pour semi-conducteurs",
+   "pct": "13.73"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Équipements et instruments électroniques",
+   "pct": "5.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Construction et Ingénierie",
+   "pct": "4.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Composants et équipements électriques",
+   "pct": "4.95"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits Pharmaceutiques",
+   "pct": "4.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Aérospatiale et Défense",
+   "pct": "4.19"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Équipements électriques lourds",
+   "pct": "3.92"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Composants Électroniques",
+   "pct": "2.81"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés Commerciales et Distributeurs Commerciaux",
+   "pct": "2.67"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "0.19"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "32.65"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "0.06"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "-0.01"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/VARENNE_CAPITAL_PARTNERS/LU2358392376/LU2358392376__KID_FR_2026-02-24.pdf"
+}

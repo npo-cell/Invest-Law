@@ -1,0 +1,188 @@
+{
+ "n": "532",
+ "isin": "LU2612532759",
+ "nom": "FFG - BLI GLOBAL IMPACT EQUITIES CLASS R EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-07-11",
+ "date_creation": "2024-03-12",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (impact)",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "",
+ "encours_millions": "118.76",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.8",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le Compartiment FFG – BLI Global Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% de ses actifs nets en actions sans restriction géographique (y inclus les pays émergents), sectorielle et monétaire. Le Compartiment est géré activement sans référence à un indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : date de création 2024-03-25 → 2024-03-12 (« Lancement de la part 12/03/2024 » ; stratégie lancée le 01/01/2022) ; encours 70.4 → 118.76 (« Actifs nets du fonds 118 764 707,00 € » ; la part R : 70 998 670,25 €) ; frais courants 1.79 → 1.8 (KID 11/07/2026 « 1,8% » ; factsheet 1,79 %) ; gérant « Annick Drui » retiré (aucun nom de gérant, seul le gestionnaire BLI) ; indice « n/a » → Aucun (« géré activement sans référence à un indice ») ; % durable 93 retiré (seule la « Répartition des actifs durables : Environnement 38,35% / Social 48,07% » est donnée, sans pourcentage d'investissements durables explicite ; minimum 80 %). SRI : KID 4 retenu ; la factsheet (31/08/2026) affiche la classe 3. Factsheet la plus récente : 31/08/2026 ; PDF avec couches de texte cachées d'autres parts, valeurs vérifiées sur l'image. Allocations (page 2, vérifiées sur l'image) : 10 premières lignes, secteurs des actions, répartition géographique des actions (total 97 % hors arrondis, liquidités 4 % incluses) ; capitalisations non reprises (libellés visibles « < € 5 Md… » différents de ceux de la couche texte). SFDR article 9. Classification Agressif : actions internationales à thème impact.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SAP SE",
+   "pct": "4.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide SA",
+   "pct": "4.06"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intuitive Surgical Inc",
+   "pct": "3.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "3.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "3.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "3.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Adyen BV",
+   "pct": "3.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Arista Networks Inc",
+   "pct": "3.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc A",
+   "pct": "2.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric SE",
+   "pct": "2.95"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "19.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "38.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "32.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "2.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United states of america",
+   "pct": "46"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japan",
+   "pct": "7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Netherlands",
+   "pct": "7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "United kingdom",
+   "pct": "6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Germany",
+   "pct": "4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Switzerland",
+   "pct": "3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Ireland",
+   "pct": "2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Denmark",
+   "pct": "2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités",
+   "pct": "4"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532759/LU2612532759__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532759/LU2612532759__KID_FR_2026-07-11.pdf"
+}

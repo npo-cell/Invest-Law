@@ -1,0 +1,74 @@
+{
+ "n": "593",
+ "isin": "IE00BYRGXY37",
+ "nom": "GAVEKAL CHINA FIXED INCOME UCITS C EUR",
+ "maison": "GaveKal Fund Management (Ireland) Limited",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "",
+ "date_creation": "",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "sub-fund of the Gavekal UCITS Fund, an open-ended umbrella unit trust",
+ "gerants": "Christine Cheung, Hui Lor",
+ "encours_millions": "132",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.02",
+ "frais_courants": "1.23",
+ "sri": "",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.72",
+ "qualite_emetteurs": "A-",
+ "disclaimer": "Past performance is not a reliable indicator of future results. Share class performance is reported net of fees and charges.",
+ "politique_fr": "",
+ "politique_en": "The Gavekal China Fixed Income Fund aims to deliver steady, absolute returns with a low volatility. The fund strives to achieve such returns through investment in onshore and offshore RMB-denominated rates and credits as well as USDdenominated credits. GCFIF runs a diversified strategy which aims to profit from movements in the yield curve and shifts in corporate spreads. The fund is UCITS V compliant and an Article 8 fund under SFDR. No more than 30% of the fund’s assets can be invested in non-investment grade securities. The fund is flexible in its duration positioning. The fund does not use leverage nor hedge foreign exchange risk.",
+ "source_politique": "Factsheet",
+ "remarques": "Aucun KID trouvé (ni dans le dépôt, ni sur fundinfo ; le site du gestionnaire réserve les documents aux investisseurs institutionnels après déclaration) : SRI laissé vide (la factsheet affiche un indicateur 3 « USD A Class, based on Feb 2026 KIID », autre part). Factsheet EN 31/08/2026 = la plus récente disponible ; factsheet multi-parts, la ligne « C EUR » (ISIN IE00BYRGXY37) est explicite. Corrigé : SRI 3 retiré (aucun KID de la part) ; frais courants 1.18 → 1.23 (« Total Expense Ratio (2025) » de la part C EUR, factsheet) ; indice composite retiré (voir ci-dessous) ; classification Equilibré → Défensif (fonds obligataire) ; encours 132 millions USD ajouté ; duration 4.72 et qualité A- ajoutées ; politique : texte anglais de la factsheet (« Product Summary », sans le paragraphe sur le profil d'investisseur), l'ancien texte français était rédigé. Date de création vide : le tableau donne seulement « Inception date Sep-15 » pour C EUR (sans jour) ; fonds lancé le 1 March 2012. Frais : « C EUR Class 1.02% p.a management fee ». Indice vide : « The benchmark is used as a comparator for evaluating performance. The Fund is not managed to track this index and is not constrained by it » (65% Bloomberg Onshore China Treasury 1-10 years (I33620CN) and 35% Markit iBoxx ALBI China Offshore Non-Government IG Total Return Index (IBXXCNNI)). Encours = « Fund Size USD 132m » (devise du fonds USD, part en EUR). Duration = « Weighted Modified Duration 4.72 » ; qualité = « Weighted Average Rating A- ». SFDR article 8 (factsheet). Allocations : 5 principales positions ; la répartition par notation n'est qu'un graphique sans valeurs, non reprise.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "factsheet",
+  "sfdr": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "CHINA GOVERNMENT BOND (CGB)",
+   "pct": "10.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SWIRE PROPERTIES (SWIPRO)",
+   "pct": "9.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KUAISHOU TECHNOLOGY (KUAISH)",
+   "pct": "9.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHINA GOVERNMENT BOND (CGB)",
+   "pct": "7.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHINA GOVERNMENT BOND (CGB)",
+   "pct": "6.88"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/GAVEKAL_FUND_MANAGEMENT_IRELAND_LIMITED/IE00BYRGXY37/IE00BYRGXY37__Factsheet_EN_2026-08-31.pdf",
+ "kid_fichier": ""
+}

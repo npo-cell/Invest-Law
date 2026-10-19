@@ -1,0 +1,150 @@
+{
+ "n": "835",
+ "isin": "LU0757431068",
+ "nom": "THREADNEEDLE (CT) GLOBAL FOCUS CLASS AU EUR",
+ "maison": "Threadneedle Management Luxembourg S.A.",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-23",
+ "date_creation": "2005-12-06",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (portefeuille concentré)",
+ "compartiment": "Columbia Threadneedle (Lux) I est une société d'investissement à capital variable (\" SICAV \") constituée au Luxembourg et gérée par Threadneedle Management Luxembourg S.A..",
+ "gerants": "David Dudding, Alex Lee",
+ "encours_millions": "4206.7",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "1.70",
+ "sri": "4",
+ "indice": "MSCI ACWI",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs. Le rendement de votre investissement peut évoluer en raison des fluctuations de change si votre investissement est effectué dans une devise autre que celle utilisée dans le calcul des performances passées.",
+ "politique_fr": "Objectif et politique du fonds\nLe Fonds vise à accroître la valeur de votre investissement à long terme.\n\nLe Fonds investit au moins deux tiers de ses actifs dans des actions de sociétés du monde entier. Le Fonds peut investir dans des marchés émergents et développés.\n\nL’approche d’investissement « ciblée » du Fonds implique qu’il détiendra normalement un nombre limité d’investissements en comparaison avec d’autres fonds.\n\nLe Fonds peut avoir recours à des dérivés (instruments complexes) à des fins de couverture, et peut également investir dans des catégories d’actifs et des instruments différents de ceux indiqués ci-dessus.\n\nLe Fonds est activement géré par rapport à l’Indice MSCI ACWI. L’indice est représentatif de l’ensemble des sociétés dans lesquelles le Fonds investit et constitue un indice de référence approprié en fonction duquel la performance du Fonds sera calculée et évaluée dans la durée. L’indice n’est pas conçu pour tenir compte spécifiquement de caractéristiques environnementales ou sociales. Le gestionnaire de fonds a le pouvoir de choisir des investissements avec des pondérations différentes de celles de l’indice et des investissements qui ne sont pas dans l’indice, et le Fonds peut différer sensiblement de l’indice.\n\nLe Fonds promeut des caractéristiques environnementales et sociales en intégrant un ensemble de mesures d’investissement responsable dans le processus d’investissement, et s’assure que les sociétés dans lesquelles il investit suivent de bonnes pratiques de gouvernance. Le Fonds vise à se comparer favorablement à l’indice sur des périodes de 12 mois consécutifs lorsqu’il est évalué selon la Notation d’importance des facteurs ESG (environnementaux, sociaux et de gouvernance) de Columbia Threadneedle, qui indique l’exposition d’une société aux risques et aux opportunités ESG importants. Au moins 50 % du Fonds est investi dans des sociétés qui ont une bonne note. Le Fonds s’engage également à investir au moins 20 % de ses actifs dans des fonds durables.\n\nLe Fonds exclut les sociétés qui tirent certains niveaux de revenus de secteurs tels que, sans s’y limiter, le charbon et le tabac. Il exclut également les sociétés qui sont directement impliquées dans des armes nucléaires ou controversées, ainsi que celles qui ont commis des infractions aux normes et aux principes internationaux.\n\nLe gestionnaire de fonds travaille en collaboration avec les sociétés afin de les encourager à adopter de meilleures pratiques en matière d’ESG. Le gestionnaire de fonds s’est engagé à atteindre la neutralité carbone au plus tard en 2050 ou plus tôt pour ce Fonds, en s’engageant de manière proactive auprès des sociétés détenues dans le Fonds pour les accompagner dans ce processus, et se désinvestira de celles qui ne répondent pas aux normes minimales.\n\nLe Fonds est considéré comme relevant de l’Article 8 du SFDR.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Part : l'ISIN LU0757431068 est celui de la catégorie « AE EUR » (Acc, non couverte) selon la factsheet et le KID ; le nom One Life « CLASS AU EUR » est inexact (la catégorie AU est en USD, ISIN LU0061474960). La factsheet utilisée est donc bien celle de la part (contrairement à la note d'authentification). Factsheet française du 31/08/2026 (la plus récente trouvée), fonds « CT (Lux) Global Focus ». Date de création = date de lancement de la catégorie AE « 06/12/05 » (tableau des catégories) ; fonds lancé le 31/03/93. Encours « Actif net: €4.206,7m » (devise du compartiment : USD). Frais courants KID 1,70 % (= OCF de la factsheet) ; pas de frais de gestion séparés. Indice « MSCI ACWI » : indice en fonction duquel la performance est calculée et évaluée → retenu. SFDR article 8 ; minimum de 20 % en « fonds durables » (engagement, pas une part effective) → non repris en %. Classification Dynamique : actions monde diversifiées (portefeuille concentré), SRI 4. Allocations : 10 principales positions et pondérations sectorielles (colonne Fonds ; Immobilier « -- » non repris). Corrigé : frais courants 1.7 → 1.70 ; compartiment → texte de la factsheet ; encours (4206.7) et SRI inchangés ; politique complétée (bloc intégral de la factsheet).",
+ "sources": {
+  "date_creation": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corporation",
+   "pct": "8.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+   "pct": "5.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mastercard Incorporated Class A",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Linde plc",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc. Class A",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Safran SA",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc. Class A",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corporation",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "3.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Applied Materials, Inc.",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "30.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "17.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "13.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma/Santé",
+   "pct": "12.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de base",
+   "pct": "7.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. Cyclique",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Conso. Non Cyclique",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "3.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "1.7"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0757431068/LU0757431068__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/THREADNEEDLE_MANAGEMENT_LUXEMBOURG_S_A/LU0757431068/LU0757431068__KID_FR_2026-02-23.pdf"
+}

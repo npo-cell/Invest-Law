@@ -1,0 +1,279 @@
+{
+ "n": "389",
+ "isin": "LU1319655087",
+ "nom": "AXAWF US SHORT DUR HY BONDS A EUR",
+ "maison": "AXA Funds Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2016-06-10",
+ "devise": "EUR",
+ "type_fonds": "Obligataire haut rendement américain (courte durée)",
+ "compartiment": "Le fonds ou le compartiment fait partie d'AXA World Funds.",
+ "gerants": "Peter VECCHIO, Vernard BOND",
+ "encours_millions": "382.86",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1",
+ "frais_courants": "1.26",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.33",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+ "politique_fr": "L'objectif du Compartiment est d'abord de générer des revenus élevés attractifs, et ensuite de rechercher une croissance du capital en investissant principalement dans des titres de créance américains à haut rendement sur un horizon de moyen terme.\n\nL'objectif de la Classe d'Actions est la couverture du risque de change découlant de l'écart entre la devise de référence du Compartiment et la devise de cette Classe d'Actions via le recours à des instruments dérivés, tout en conservant l'allocation définie au titre de la Politique d'investissement du Compartiment.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR du 30/09/2026 (classe A (H) EUR). Date de création : « Date de la 1ère Valeur Liquidative 10/06/2016 ». Encours « Actif net du fonds (M) USD 382.86 ». Frais : « Frais de gestion financière 1% » (et « Frais de gestion maximum 1% ») ; frais courants 1,26 % (KID ; la factsheet écrit « Frais estimés courants 1.26% »). Indice : « Le fonds n’a pas d’indice de référence. » Duration : « Modified duration to worst 2.33 ». Qualité : aucune notation moyenne écrite (seulement la répartition par rating). SFDR article 8 (KID). Classification Défensif : obligations à haut rendement de courte durée (SRI 2). Politique : bloc « Objectifs du fonds » de la factsheet. Allocations : 10 principaux titres, secteurs, maturités, notations, devises et pays (colonne portefeuille). Corrigé : encours 423.24 → 382.86 USD (factsheet 30/09/2026) ; duration 1.98 → 2.33 ; indice « n/a » → « Aucun » ; classification Défensif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__KID_FR_2026-02-19.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "duration": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "CCO HLDGS LLC/CAP CORP",
+   "pct": "1.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENERGIZER HOLDINGS INC",
+   "pct": "1.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PEBBLEBROOK HOTEL/FINANC",
+   "pct": "1.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ATLAS LUXCO 4 / ALL UNI",
+   "pct": "1.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALLIANT HOLD / CO-ISSUER",
+   "pct": "1.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PRIMO / TRITON WATER HLD",
+   "pct": "1.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MAUSER PACKAGING SOLUT",
+   "pct": "1.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GARDA WORLD SECURITY",
+   "pct": "1.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "STATION CASINOS LLC",
+   "pct": "1.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PARK INTERMED HOLDINGS",
+   "pct": "1.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services",
+   "pct": "14.74"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Loisirs",
+   "pct": "9.81"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de détail",
+   "pct": "8.63"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens d’équip.",
+   "pct": "8.52"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "8.18"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "7.88"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation",
+   "pct": "7.04"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "6.69"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Médias",
+   "pct": "5.79"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Tech. & Elec.",
+   "pct": "5.20"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Financiers",
+   "pct": "4.72"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurances",
+   "pct": "4.32"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Automobile",
+   "pct": "3.61"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sante",
+   "pct": "2.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécom.",
+   "pct": "1.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Transport",
+   "pct": "0.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cash",
+   "pct": "1.17"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Cash",
+   "pct": "1.17"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-1 an",
+   "pct": "5.16"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3 ans",
+   "pct": "59.27"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 ans",
+   "pct": "33.47"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 ans",
+   "pct": "0.93"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "3.04"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "51.40"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "39.23"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "5.17"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Cash",
+   "pct": "1.17"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "98.83"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Cash",
+   "pct": "1.17"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "85.94"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "7.01"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "1.97"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "1.65"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "2.26"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "1.17"
+  }
+ ]
+}

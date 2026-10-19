@@ -1,0 +1,197 @@
+{
+ "n": "764",
+ "isin": "LU0130732364",
+ "nom": "PICTET FAMILY P EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "1991-09-13",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (entreprises familiales)",
+ "compartiment": "Compartiment d'une SICAV",
+ "gerants": "Cyril Benier, Megan Brennan, Luca Di Prinzio",
+ "encours_millions": "129",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.85",
+ "sri": "4",
+ "indice": "MSCI AC World (EURO)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus tirés des titres ou des instruments financiers mentionnés dans le présent document peuvent fluctuer à la hausse ou à la baisse, et il est possible que les investisseurs ne récupèrent pas la totalité du montant initialement investi.",
+ "politique_fr": "Objectifs\nAugmenter la valeur de votre investissement.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit principalement en actions d’entreprises contrôlées par leurs fondateurs ou par les membres de la famille des fondateurs. Le Fonds investit dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nDérivés et produits structurés\nLe Fonds peut utiliser des produits dérivés pour réduire différents risques (couverture) et à des fins d’optimisation de la gestion de portefeuille. Il peut également utiliser des produits structurés pour s’exposer aux actifs en portefeuille.\n\nDevise du Fonds\nUSD\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse des marchés et d’analyse fondamentale des sociétés afin de sélectionner les titres de société dont il estime qu’ils offrent des perspectives de croissance de qualité sur le long terme à un niveau de valorisation raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celle de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : encours 130 → 129 (« Taille du fonds (Mio) EUR 129 », factsheet 30/09/2026) ; indice « MSCI AC World (EUR) » → « MSCI AC World (EURO) » (libellé du tableau de la part ; le KID écrit « MSCI AC World (USD) … Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance » ; indice actuel valable depuis le 29.05.2020, MSCI Europe Small Cap (EUR) auparavant) ; disclaimer remplacé par le texte de la factsheet ; politique prise du KID (la factsheet « Monthly Fund Insights » n’a pas de bloc objectif/politique, seulement un texte commercial « Stratégie du portefeuille ») ; compartiment refait (« Forme juridique : Compartiment d'une SICAV », SICAV Pictet de droit luxembourgeois). Date de création « 13.09.1991 » (tableau de la part ; date de début du calcul des performances selon le glossaire ; la factsheet signale que le fonds avait d’autres caractéristiques avant le 31.12.2019). Devise de la classe EUR (compartiment USD). Frais de gestion non indiqués (seulement « Frais courants (OCR) 1.85 », identique au KID 19/06/2026). SRI 4 (KID). SFDR article 8 ; aucun % durable écrit. Allocations : 10 principales positions, secteur économique (libellé « Biens de consommation… » tronqué tel qu’écrit) et répartition géographique.",
+ "factsheet_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0130732364/LU0130732364__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0130732364/LU0130732364__KID_FR_2026-06-19.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc",
+   "pct": "4.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms Inc",
+   "pct": "3.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Dell Technologies Inc",
+   "pct": "3.61"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'oreal Sa",
+   "pct": "3.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Investor Ab",
+   "pct": "3.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cie Financiere Richemont Sa",
+   "pct": "3.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Keyence Corp",
+   "pct": "3.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industria De Diseno Textil Sa",
+   "pct": "3.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wal-Mart Stores, Inc.",
+   "pct": "3.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Interactive Brokers Group Inc",
+   "pct": "2.88"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "24.01"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "17.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation…",
+   "pct": "15.38"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de consommation courante",
+   "pct": "12.47"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrielles",
+   "pct": "10.56"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "9.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "1.88"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "59.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "9.03"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "5.16"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "4.01"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "3.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "3.22"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "2.63"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.36"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "2.31"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "6.66"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "1.88"
+  }
+ ]
+}

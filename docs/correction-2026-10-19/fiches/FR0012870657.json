@@ -1,0 +1,140 @@
+{
+ "n": "502",
+ "isin": "FR0012870657",
+ "nom": "ECHIQUIER ALLOCATION FLEXIBLE A EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-26",
+ "date_creation": "2015-09-25",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible",
+ "compartiment": "Fonds Commun de Placement, de droit français",
+ "gerants": "Enguerrand Artaz, Alexis Bienvenu, Matthieu Leblanc",
+ "encours_millions": "51",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "2.10",
+ "sri": "3",
+ "indice": "€STER capitalisé+5,5%",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "0,83",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "Echiquier Allocation Flexible est un fonds recherchant à délivrer une performance nette de frais de gestion égale à €STER Capitalisé + 5.5% sur la durée de placement recommandée au travers d'une gestion discrétionnaire et opportuniste notamment sur les marchés de taux, d'actions, de crédit et de devises.\n\nL'indice €STER Capitalisé +5.5% peut être un indicateur représentatif de la gestion d'Echiquier Allocation Flexible. Il est utilisé uniquement à titre indicatif et est calculé en euros, dividendes et coupons réinvestis. L’attention du souscripteur est attirée sur le fait que la composition du portefeuille pourra s’éloigner sensiblement de celle de son indicateur de référence.\n\nL'OPCVM met en œuvre une gestion active et discrétionnaire. Sa gestion s'appuie sur l'utilisation combinée de deux piliers : - l'allocation d'actifs du portefeuille entre les différentes grandes classes d'actifs liquides au niveau mondial (actions, obligations souveraines, crédit, change et monétaire). - une sélection rigoureuse de titres : - sur des actions et des obligations émises par les entreprises (Stock et Bond picking), - sur les obligations émises par les Etats, - sur des fonds indiciels « trackers » ou « ETF » et des instruments dérivés.\n\nL'exposition aux actions pourra être de 80 % maximum de l'actif net. Le fonds peut être exposé au risque de change jusqu'à 100% de l'actif net. Le fonds pourra investir jusqu'à 100% de son actif net d'autres OPCVM français et/ou européens, et en fonds d'investissement à vocation générale, notamment des fonds indiciels de type « Exchange Traded Fund (ETF) ».\n\nLe fonds sera exposé à hauteur de 30% maximum de l'actif net sur des actions de pays émergents et à hauteur de 30% maximum de l'actif net sur les actions de petites capitalisations (<1 milliard d'euros).\n\nL'exposition aux titres obligataires spéculatifs (notation inférieure à BBB- ou considérés comme tels par l'équipe de gestion) et ne faisant pas l'objet de notation par une agence ne pourra dépasser 35% de l'actif net.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : frais courants 2.104 → 2.10 (KID 26/02/2026 « 2.10% ») ; indice « €STR capitalisé + 5.5% » → « €STER capitalisé+5,5% » (libellé de la factsheet « Objectif de gestion », objectif de performance du KID ; le KID le dit aussi « utilisé uniquement à titre indicatif ») ; duration ajoutée ; compartiment précisé (FCP de droit français, KID). Encours 51 (« 51 M€ Actif net », factsheet 30/09/2026). Politique prise du KID : la factsheet n'a qu'une phrase de présentation. Date de création = « Date de 1ère VL 25/09/2015 ». Frais de gestion : factsheet « 1,50% TTC max. » (maximum). Duration : « Duration au 30/09/2026 : 0,83 » (sans unité). SFDR article 6. Classification Equilibré : fonds flexible SRI 3 (actions max. 80 % ; exposition actions 73,6 % au 30/09/2026). Allocations : « Exposition par type d'actif » (en % de l'actif net, total > 100 %) ; positions actions et obligations « en % de l'exposition » ; « Répartition de l'allocation actions » en % de l'actif net ; répartition obligataire (en contribution à la duration) non reprise ; lecture vérifiée sur l'image de la page 2.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "73.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "48.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Perf. Absolue / Mat. 1ère",
+   "pct": "1.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi S&P 500 II Ucits ETF",
+   "pct": "14.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi S&P 500 II ETF € Hed.",
+   "pct": "12.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JPM Eurozone REI Active ETF",
+   "pct": "9.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Nasdaq-100 ETF €",
+   "pct": "7.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Groupama Glb Disruption IC €",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Pareto Nordic Cross Cred. H-I €",
+   "pct": "10.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LBPAM Abs Return Credit I",
+   "pct": "9.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Echiquier Credit SRI Europe IXL",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "45.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "16.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique",
+   "pct": "6.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents ex Asie",
+   "pct": "5.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0012870657/FR0012870657__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0012870657/FR0012870657__KID_FR_2026-02-26.pdf"
+}

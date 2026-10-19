@@ -1,0 +1,78 @@
+{
+ "n": "754",
+ "isin": "FR0011170182",
+ "nom": "OFI PRECIOUS METALS R EUR",
+ "maison": "Ofi Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-23",
+ "date_creation": "2012-03-08",
+ "devise": "EUR",
+ "type_fonds": "Matières premières (métaux précieux)",
+ "compartiment": "compartiment Ofi Invest Precious Metals de la SICAV Global SICAV.",
+ "gerants": "Benjamin Louvet, Olivier Daguin, Marion Balestier",
+ "encours_millions": "1934.76",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.52",
+ "sri": "5",
+ "indice": "Aucun",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur d’un investissement dans l’OPC peut fluctuer à la hausse comme à la baisse.",
+ "politique_fr": "Orientation de gestion\nLe fonds vise à s'exposer de manière synthétique à l’indice Basket Precious Metals Strategy, représentatif d'un panier composé de métaux précieux et de produits sur taux d’intérêt, pour saisir les opportunités offertes par les variations de cours sans passer par des investissements directs dans les actions minières du secteur. Il propose une offre simple, transparente assortie d'une couverture quotidienne contre le risque de change.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : SRI 6 → 5 (KID 23/09/2026 « classe de risque 5 sur 7 » ; case 5 sur la factsheet) ; encours 952.33 → 1934.76 (« Actif net du fonds 1 934,76 M€ », factsheet 30/09/2026 ; l’ancienne valeur était proche de l’actif de la part R : 879,27 M€) ; indice « n/a » → « Aucun » (KID : « Il n’y pas d’indicateur de référence », indice de comparaison cité à titre d’information ; le fonds réplique l’indice de stratégie « Basket Precious Metals Strategy ») ; ajoutés : SFDR article 8, classification Agressif (matières premières), disclaimer ; type et compartiment refaits (KID : compartiment de la SICAV Global SICAV). Le fonds s’appelle « OFI Invest Precious Metals ». Date de création : « Date de création de la part 08/03/2012 ». Frais : factsheet « Frais de gestion maximum TTC 1,50% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,52% » ; KID 1,52 %. Aucun % durable écrit. Allocations : principales lignes de titres de créances négociables (poche de trésorerie) ; l’exposition passe par un swap sur indice (124,9 %, contreparties UBS/SG/BNP/JPM/BofA/GS/Macquarie) ; la « Composition de l'indice » n’est pas reprise car c’est une répartition de l’indice.",
+ "factsheet_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0011170182/FR0011170182__KID_FR_2026-09-23.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 11/11/2026",
+   "pct": "27.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 25/11/2026",
+   "pct": "15.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROPEAN STABILITY MECHANISM 03/12/2026",
+   "pct": "12.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT BELGIUM KINGDOM OF (GOVERNMENT) 12/11/2026",
+   "pct": "11.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 28/10/2026",
+   "pct": "11.5"
+  }
+ ]
+}

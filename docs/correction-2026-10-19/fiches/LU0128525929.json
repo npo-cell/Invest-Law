@@ -1,0 +1,216 @@
+{
+ "n": "830",
+ "isin": "LU0128525929",
+ "nom": "TEMPLETON GLOBAL A USD",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-08",
+ "date_creation": "2001-05-14",
+ "devise": "USD",
+ "type_fonds": "Actions internationales",
+ "compartiment": "SICAV de droit luxembourgeois Franklin Templeton Investment Funds",
+ "gerants": "James A Bristow, Peter Sartori, Warren Pustam, Christopher Peel",
+ "encours_millions": "547.89",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.83",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs. Le cours des actions du Fonds, ainsi que les revenus générés, peuvent fluctuer à la hausse comme à la baisse, et il est possible que les investisseurs ne puissent pas récupérer l'intégralité des montants investis.",
+ "politique_fr": "Objectif d'investissement\nChercher une croissance de l'investissement à long terme par la croissance du capital. Le Fonds investit principalement dans les actions d'entreprises de toute capitalisation boursière situées n'importe où dans le monde, y compris sur les marchés émergents.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting du Fonds au 30 septembre 2026 » (française, la plus récente). Fonds renommé : « À compter du 8 juin 2026, le Templeton Global Fund a changé de nom pour devenir le Templeton Global Focus Fund » (nom One Life « TEMPLETON GLOBAL A USD »). Date de création = « Date de création de la part 14.05.2001 » (fonds : 28.02.1991). Compartiment de Franklin Templeton Investment Funds (« Parapluie légal »). Gérants : équipe de gestion (James A Bristow, CFA ; Peter Sartori ; Warren Pustam, CFA ; Christopher Peel, CFA). Encours « Actif net total » $547,89 Millions (fonds). Frais de gestion non indiqués ; frais courants 1,83 % (KID « Frais de gestion et autres frais administratifs et d’exploitation », identique à la factsheet). Indice vide : « MSCI All Country World Index-NR (et MSCI ACWI Investable Market Index-NR « Comparateur (ESG) ») » marqué « Comparateur », « Utilisé à des fins de comparaison des performances uniquement ». SFDR article 8 (factsheet « Catégorie SFDR Article 8 » et KID), aucun % d'investissements durables écrit. Classification Dynamique : actions monde diversifiées, SRI 4. Allocations : colonne « Fonds » seulement (indice non repris), libellés et valeurs tels qu'écrits. Corrigé : encours 563.36 → 547.89 (factsheet 30/09/2026) ; indice → vide (comparaison uniquement) ; politique du site → objectif de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "6.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "5.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "4.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "4.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "4.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASTRAZENECA PLC",
+   "pct": "4.03"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "3.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "3.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LVMH MOET HENNESSY LOUIS VUITTON SE",
+   "pct": "3.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BP PLC",
+   "pct": "3.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "28.59"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "18.89"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "10.84"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "9.13"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "8.82"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "8.04"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "7.39"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "4.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "3.13"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.87"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "51.85"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "14.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "6.36"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "5.47"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "5.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "4.13"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "3.75"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "1.97"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "6.09"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.87"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5,0-10,0 milliards",
+   "pct": "2.03"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10,0-25,0 milliards",
+   "pct": "8.87"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "25,0-50,0 milliards",
+   "pct": "4.40"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">50,0 milliards",
+   "pct": "84.69"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128525929/LU0128525929__KID_FR_2026-06-08.pdf"
+}

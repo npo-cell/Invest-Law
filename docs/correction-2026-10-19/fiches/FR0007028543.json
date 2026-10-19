@@ -1,0 +1,104 @@
+{
+ "n": "682",
+ "isin": "FR0007028543",
+ "nom": "LAZARD PATRIMOINE OPPORTUNITIES SRI RC EUR",
+ "maison": "Lazard Frères Gestion",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-10-08",
+ "date_creation": "1999-01-08",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible (ISR)",
+ "compartiment": "compartiment de LAZARD MULTI ASSETS",
+ "gerants": "Julien-Pierre Nouen, Colin Faivre",
+ "encours_millions": "480.34",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.58",
+ "frais_courants": "1.83",
+ "sri": "3",
+ "indice": "50% ICE BofAML Euro Broad Market + 50% MSCI World All Countries",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "7.0 (sensibilité globale)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+ "politique_fr": "L’objectif de gestion vise à atteindre, en appliquant une gestion de type Investissement Socialement Responsable (ISR), sur la durée de placement recommandée de 3 ans, une performance nette de frais de gestion supérieure à l’indicateur de référence composite suivant : 50% MSCI World All Countries + 50% ICE BofAML Euro Broad Market Index (Code Bloomberg : EMU0). L’indice est rebalancé mensuellement et ses constituants sont exprimés en euro, ils s’entendent dividendes ou coupons nets réinvestis. L’allocation d’actifs du Compartiment est discrétionnaire et vise à optimiser le couple rendement/risque du portefeuille, via une gestion dynamique de l’allocation du portefeuille, dans le cadre de mouvements tactiques à horizon moyen terme (quelques mois) ou court terme (quelques semaines).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet la plus récente : 31/08/2026 (pas de factsheet de septembre sur fundinfo). Corrigé : encours 441.14 → 480.34 M€ (« Actif net du fonds », 31/08/2026) ; duration 4.2 → 7.0 (« Sensibilité globale 7.0 » ; poche obligataire : sensibilité 5.4) ; indice recopié tel qu'écrit dans le tableau de la factsheet (le texte de l'objectif écrit « 50% MSCI World All Countries + 50% ICE BofAML Euro Broad Market Index (Code Bloomberg : EMU0) ») ; classification Dynamique → Equilibré (actions entre 20 % et 80 %, exposition nette 46.9 %, SRI 3) ; disclaimer ajouté ; catégorie vidée. Gérants écrits avec le nom en majuscules (« Julien-Pierre NOUEN », « Colin FAIVRE ») : recopiés en casse normale (écart du contrôle dû à la casse). Date de création = « Date de 1ère VL de la part 08/01/1999 ». Frais : « Frais de gestion (max) 1.58% max » ; frais courants KID du 08/10/2026 « Frais de gestion et autres coûts administratifs et d’exploitation 1,83% » (factsheet d'août : « Frais courants DIC PRIIPS 1.73% ») ; pas de commission de surperformance. Indice retenu : objectif de performance supérieure à l'indicateur composite. SFDR article 8. Allocations au 31/08/2026, colonne « Fonds » : exposition géographique actions, devises principales, répartition des investissements obligataires (en % de l'actif net ; détail des obligations privées : Corporate Investment Grade 13.2 %, Corporate High Yield 2.2 %, Financières Senior 12.0 %, Financières Subordonnées 1.5 %) ; cash et assimilés 5.3 %.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actions Europe",
+   "pct": "11.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actions Emergentes",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actions US",
+   "pct": "28.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Actions Japon",
+   "pct": "1.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "69.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "14.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "6.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Devises Émergentes",
+   "pct": "5.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "2.2"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations d'Etat et quasi-souveraines",
+   "pct": "19.2"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations privées",
+   "pct": "28.9"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0007028543/FR0007028543__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0007028543/FR0007028543__KID_FR_2026-10-08.pdf"
+}

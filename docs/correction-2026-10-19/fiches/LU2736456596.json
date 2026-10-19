@@ -1,0 +1,198 @@
+{
+ "n": "534",
+ "isin": "LU2736456596",
+ "nom": "FFG GLOBAL EQUITIES LOW CARBON R EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-10",
+ "date_creation": "2024-05-24",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (bas carbone)",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "",
+ "encours_millions": "69.21",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.7",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le compartiment recherchera une appréciation du capital à long terme en investissant principalement dans des actions cotées et échangées sur des marchés réglementés de pays développés, sans restriction sectorielle ou de capitalisation boursière.\n\nL’univers d’investissement initial du Compartiment est l’indice MSCI World NR EUR. Cet indice ne tient pas compte des critères ESG promus par le compartiment. Le gestionnaire construit un univers d’investissement propre au Compartiment au sein de cet indice sur base de critères financiers et ESG. Le Compartiment est géré activement, ce qui signifie que le Gestionnaire prend des décisions d’investissement dans le but d’atteindre l’objectif et la politique de placement du Compartiment sans référence à un indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : indice « MSCI World NR EUR » → Aucun (« géré activement… sans référence à un indice » ; le MSCI World NR EUR n'est que l'univers d'investissement initial) ; gérant « Gunter Van Rossem » retiré (seul le gestionnaire Orcadia Asset Management est nommé) ; % durable 94 retiré (aucun pourcentage dans la factsheet ni le KID) ; classification Agressif → Dynamique (actions internationales de pays développés diversifiées, SRI 4) ; SFDR 9 (« article 9 du SFDR »). Inchangés et confirmés : encours 69.21 (« Actifs nets du fonds € 69 205 046,15 », factsheet 31/08/2026 ; part R : € 1 563 149,59), lancement de la part 24/05/2024, frais de gestion 1,25 % (max.). Frais courants 1.74 → 1.7 (KID 10/02/2026 « 1,7% » ; factsheet « 1,74% »). Factsheet la plus récente : 31/08/2026 ; valeurs vérifiées sur l'image. Politique : texte de la factsheet sans le passage sur le reversement de Funds For Good à Funds For Good Impact. Allocations (page 2) : capitalisations, zones géographiques et secteurs des actions, 10 premières lignes.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "5.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "5.07"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc Reg",
+   "pct": "4.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com Inc",
+   "pct": "4.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc A",
+   "pct": "2.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc Reg",
+   "pct": "2.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc C",
+   "pct": "2.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tokio Marine Holdings Inc",
+   "pct": "1.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JPMorgan Chase & Co",
+   "pct": "1.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eli Lilly & Co",
+   "pct": "1.41"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes capitalisations",
+   "pct": "91.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes capitalisations",
+   "pct": "8.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites capitalisations",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du nord",
+   "pct": "72.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "16.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "7.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie développée",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "35.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "15.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "17.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "9.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "11.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456596/LU2736456596__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456596/LU2736456596__KID_FR_2026-02-10.pdf"
+}

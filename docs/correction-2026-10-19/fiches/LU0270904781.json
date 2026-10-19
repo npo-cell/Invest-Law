@@ -1,0 +1,147 @@
+{
+ "n": "777",
+ "isin": "LU0270904781",
+ "nom": "PICTET-SECURITY P EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-17",
+ "date_creation": "2006-10-31",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (sécurité)",
+ "compartiment": "Compartiment d'une SICAV",
+ "gerants": "Savironi Chet, Alexandre Mouthon",
+ "encours_millions": "5292",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.98",
+ "sri": "5",
+ "indice": "MSCI AC World (EUR)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus tirés des titres ou des instruments financiers mentionnés dans le présent document peuvent fluctuer à la hausse ou à la baisse, et il est possible que les investisseurs ne récupèrent pas la totalité du montant initialement investi.",
+ "politique_fr": "Objectifs\nAugmenter la valeur de votre investissement tout en s’efforçant d’avoir un impact social positif.\n\nIndice de référence\nMSCI AC World (USD), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit principalement en actions d’entreprises qui fournissent des produits de sûreté et de sécurité pour les systèmes, les personnes ou les organisations. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale. Les entreprises ciblées seront actives, principalement mais pas exclusivement, dans les domaines suivants: Services de sécurité dans le monde physique et numérique, sécurité des réseaux informatiques et solutions d'identification, ainsi que solutions et outils de sécurité physique qui contribuent à protéger les personnes, les véhicules et les bâtiments, tant dans le cadre personnel que professionnel.\n\nDérivés et produits structurés\nLe Fonds peut utiliser des produits dérivés pour réduire différents risques (couverture) et à des fins d’optimisation de la gestion de portefeuille. Il peut également utiliser des produits structurés pour s’exposer aux actifs en portefeuille.\n\nDevise du Fonds\nUSD\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et s’efforce d’investir principalement dans des activités économiques qui contribuent à un objectif environnemental et social tout en évitant les activités ayant une incidence négative sur la société ou l’environnement. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : disclaimer remplacé par le texte exact de la factsheet ; politique prise du KID 17/09/2026 ; compartiment refait ; encours 5292 inchangé (« Taille du fonds (Mio) EUR 5 292 », factsheet 30/09/2026). Date de création « 31.10.2006 » (tableau de la part ; date de début du calcul des performances selon le glossaire). Devise de la classe EUR (compartiment USD). Indice : « MSCI AC World (EUR) » dans le tableau de la part ; le KID écrit « MSCI AC World (USD), … Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Frais de gestion non indiqués (seulement « Frais courants (OCR) 1.98 », identique au KID 17/09/2026). SRI 5 (KID). SFDR article 8 ; aucun % durable écrit. Politique prise du KID (la factsheet « Monthly Fund Insights » n’a pas de bloc objectif/politique, seulement des commentaires et un texte commercial). Compartiment : « Forme juridique : Compartiment d'une SICAV » (SICAV Pictet de droit luxembourgeois). Gérants tels qu’écrits dans la factsheet (« Savironi Chet »). Allocations : 10 principales positions, secteur économique et répartition géographique (% des actifs).",
+ "factsheet_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904781/LU0270904781__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0270904781/LU0270904781__KID_FR_2026-09-17.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Broadcom Inc",
+   "pct": "6.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cisco Systems Inc",
+   "pct": "5.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare Inc",
+   "pct": "4.46"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kla Corp",
+   "pct": "4.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Crowdstrike Holdings Inc",
+   "pct": "4.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Palo Alto Networks Inc",
+   "pct": "4.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Okta Inc",
+   "pct": "3.97"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Arista Networks Inc",
+   "pct": "3.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Teradyne Inc",
+   "pct": "3.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Fortinet Inc",
+   "pct": "3.57"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de sécurité informatique",
+   "pct": "58.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de sécurité physique",
+   "pct": "26.77"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de sécurité",
+   "pct": "13.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "1.44"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "93.17"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.19"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "1.69"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "0.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "1.44"
+  }
+ ]
+}

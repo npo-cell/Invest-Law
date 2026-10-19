@@ -1,0 +1,228 @@
+{
+ "n": "425",
+ "isin": "LU0110451209",
+ "nom": "CAPITAL GROUP GLOBAL HIGH INCOME OPP (LUX) B EUR",
+ "maison": "Capital Group",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-01",
+ "factsheet_fichier": "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__KID_FR_2026-07-01.pdf",
+ "date_creation": "2001-01-15",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (haut rendement et émergents)",
+ "compartiment": "Ce Fonds est un compartiment de Capital International Fund, une Société d'investissement à capital variable (SICAV) de droit luxembourgeois, qui peut être qualifiée d'OPCVM.",
+ "gerants": "L.Freitas de Oliveira, K.Spence, D.Daigle, S.Ward",
+ "encours_millions": "2047",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.300",
+ "frais_courants": "1.40",
+ "sri": "3",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.3",
+ "qualite_emetteurs": "BB",
+ "disclaimer": "Les performances passées ne présagent pas des résultats futurs.",
+ "politique_fr": "Objectif:\nCe fonds vise un rendement total élevé à long terme, principalement sous forme de revenu courant, en investissant majoritairement dans des obligations souveraines émergentes et dans des obligations d’entreprise high yield du monde entier, libellées en USD et dans différentes devises locales (y compris celles des pays émergents). L’empreinte carbone de ces investissements, pour lesquels le fonds applique une politique de sélection négative (exclusion) basée sur des filtres « normatifs » et des critères ESG, doit être inférieure à celle de l’indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet luxembourgeoise (EUR, classe B, au 30 septembre 2026). Date de création = « Date de lancement de la catégorie d’actions: 15 janvier 2001 » (fonds lancé le 7 mai 1999). Encours « Taille du fonds: €2.047 millions » (lu 2 047 millions d'EUR, le point servant de séparateur de milliers) ; devise de référence du fonds USD. Frais de gestion = « Frais de gestion p.a. 1,300% » ; frais courants = KID 1,40 % (= « TFE 1,40% » factsheet). Indice laissé vide : « Indice actuel: 50% Bloomberg US Corporate High Yield 2% Issuer Capped Total Return, 20% JPM EMBI Total Return, 20% JPM GBI-EM Global Diversified Total Return et 10% JPM CEMBI Broad Diversified Total Return » affiché, mais « Les informations liées à l’indice sont fournies à des fins d’information et d’illustration uniquement. Ce fonds applique une gestion active. Il n’est pas géré par rapport à un indice de référence. » Gérants : initiales telles qu'écrites. SRI 3 (KID). SFDR « Article 8 » (factsheet). Duration = « Duration effective (années) 4,3 » (colonne Fonds). Qualité = « Note de solvabilité moyenne BB ». Classification Défensif : obligataire (haut rendement et dette émergente, SRI 3) — cas limite. Politique : paragraphe « Objectif » de la factsheet. Allocations (colonne Fonds uniquement) : secteurs tels qu'écrits avec sous-lignes imbriquées (« Dette des pays émergents » 45,4 détaillée en Entreprises / Souverains ; « Oblig. high yield » 42,2 détaillée en non-américaines / américaines), total supérieur à 100 % ; lignes « Total » non reprises. Corrigé (factsheet 30/09/2026) : encours 2127 → 2047 ; indice 50% Bloomberg US Corporate High Yield 2% Issuer Capped TR, 20% JPM EMBI TR, 20% JPM GBI-EM Global Diversified TR, 10% JPM CEMBI Broad Diversified TR → (vide) ; classification (vide) → Défensif ; duration 4.6 → 4.3 ; qualité BBB → BB ; politique remplacée par le texte de la factsheet.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "46.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "7.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "3.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pologne",
+   "pct": "2.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "2.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "34.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "2.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA à BBB",
+   "pct": "41.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "36.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "13.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC et moins",
+   "pct": "4.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Autres actifs",
+   "pct": "1.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités et équivalents",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Dette des pays émergents",
+   "pct": "45.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Entreprises",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Souverains (Devise forte)",
+   "pct": "15.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Souverains (Devise locale)",
+   "pct": "20.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Oblig. high yield",
+   "pct": "42.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations non-américaines",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations américaines",
+   "pct": "38.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Oblig. investment grade US",
+   "pct": "5.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bons du Trésor américain",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement du Mexique",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de la Pologne",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement des Etats-Unis",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement du Brésil",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de l'Indonésie",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de la Malaisie",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de l'Afrique du Sud",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de la Colombie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de la Chine",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Gouvernement de l'Inde",
+   "pct": "1.6"
+  }
+ ]
+}

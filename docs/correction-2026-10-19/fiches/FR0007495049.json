@@ -1,0 +1,321 @@
+{
+ "n": "613",
+ "isin": "FR0007495049",
+ "nom": "HMG RENDEMENT D EUR",
+ "maison": "HMG Finance",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-01",
+ "date_creation": "1995-09-05",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "Compartiment de la SICAV HMG FINANCE (Société d’Investissement à capital variable de droit français)",
+ "gerants": "Marc GIRAULT",
+ "encours_millions": "39.21",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.98",
+ "frais_courants": "1.98",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées indiquées ne préjugent pas des performances futures. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DIC pour plus d’informations",
+ "politique_fr": "L’objectif de gestion du Compartiment consiste à maximiser la performance avec une gestion active et discrétionnaire des classes d’actifs (actions, obligations, instruments monétaires) et des zones géographiques (zone euro, zone hors euro) et dans le même temps à maîtriser la volatilité sur un horizon de placement de 5 ans.\n\nInformations complémentaires: La gestion est opportuniste et privilégie les titres à rendement élevé. Depuis 2008, l’OPC investit en emprunts privés perpétuels et convertibles. L’OPC bénéficie de l’approche value et contrariante de la société de gestion. Depuis 2014, la position en actions de rendement a régulièrement augmenté.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 (« HMG RENDEMENT – Action D », ISIN conforme ; le bloc de gauche indique « Actions de Capitalisation ») ; nouveau KID du 01/06/2026 trouvé sur hmgfinance.com et rangé dans INVESTLAW (remplace celui du 01/01/2025). Corrigé : compartiment « SICAV HMG Finance » → libellé du KID ; indice « n/a » → « Aucun » (KID : le Produit « ne dispose pas d’indicateur de référence », un indice composite STOXX Europe 600 / MSCI EUR IG Corporate Bond n'étant cité que pour comparaison) ; qualité « Obligations non notées : 30,3 % » retirée (pas de notation moyenne ; « Sans notation 30,1 % » dans la répartition) ; classification Equilibré → Dynamique (62,3 % d'actions) ; politique = « Objectif de gestion » de la factsheet. Date de création = « Lancement le 5 septembre 1995 ». Encours = « Actif net du compartiment 39 208 602,07 € ». Frais : factsheet « Frais de Gestion 1,98% TTC » ; KID « 1,98% ». SRI 3 (KID : « classe de risque 3 »). SFDR article 8 (factsheet et KID). Contrôle : le mot « Aucun » n'est pas écrit tel quel (valeur tirée de la phrase du KID). Allocations : libellés complets de la légende ; notations et échéances lues sur le graphique (vérifié sur l'image de la page 1).",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "RENAULT TPA 83-84 PERP.",
+   "pct": "7.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCIALYS",
+   "pct": "6.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOTAL",
+   "pct": "5.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOUAX 7.5% 17-07-31",
+   "pct": "5.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WEST BROMWICH 3% PERP",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SWIRE PACIFIC LIMITED",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SWISS RE NAMEN AKT",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REA HOLDINGS PLC 9%",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CARMILA",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CRCAM BRIE PICARDIE",
+   "pct": "3.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux fixe",
+   "pct": "21.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux variable",
+   "pct": "0.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations convertibles",
+   "pct": "0.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Titres participatifs",
+   "pct": "9.0"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Actions",
+   "pct": "62.3"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "OPCVM monétaire",
+   "pct": "3.7"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "9.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services bancaires et financiers",
+   "pct": "14.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier (SIIC)",
+   "pct": "17.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "6.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "3.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "13.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "17.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "4.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "OPCVM",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "3.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "63.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "23.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Reste du monde",
+   "pct": "9.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités",
+   "pct": "3.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "De AA+ à BBB -",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "De BB+ à CCC",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Sans notation",
+   "pct": "30.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Actions",
+   "pct": "62.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "OPCVM",
+   "pct": "3.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "3.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 3 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "De 3 à 10 ans",
+   "pct": "10.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "De 10 à 40 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Supérieur à 40 ans",
+   "pct": "23.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Actions et liquidités",
+   "pct": "66.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Oblig.ém. < 100 M€",
+   "pct": "10.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Oblig.ém.de 100 à 500 M€",
+   "pct": "19.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Oblig.ém.de 500M€ à 1Md€",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Oblig.ém.> 1Md€",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Actions Capi < 150 M€",
+   "pct": "11.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Actions Capi.150 M€ à 500 M€",
+   "pct": "9.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Actions Capi.500M€ à 1Md€",
+   "pct": "7.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Actions Capi. > 1 Md€",
+   "pct": "32.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "OPCVM",
+   "pct": "3.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "3.9"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__KID_FR_2026-06-01.pdf"
+}

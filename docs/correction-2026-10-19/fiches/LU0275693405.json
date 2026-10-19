@@ -1,0 +1,212 @@
+{
+ "n": "564",
+ "isin": "LU0275693405",
+ "nom": "FIDELITY AMERICAN GROWTH A USD",
+ "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2006-12-04",
+ "devise": "USD",
+ "type_fonds": "Actions américaines",
+ "compartiment": "compartiment de la SICAV Fidelity Funds",
+ "gerants": "Sam Chen-Thomas",
+ "encours_millions": "761",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.9",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l’intégralité des montants investis au départ.",
+ "politique_fr": "Objectif: Le Compartiment cherche à atteindre une croissance du capital sur le long terme.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % (et normalement 75 %) de ses actifs dans des actions de sociétés qui ont leur siège social ou exercent la majeure partie de leur activité aux États-Unis. Le Compartiment peut également investir dans des instruments du marché monétaire à titre accessoire.\n\nApproche de l'investissement: Dans le cadre de sa gestion active du Compartiment, le Gérant de Portefeuille tient compte des paramètres de croissance et de valorisation, des données financières de la société, du rendement du capital, des flux de trésorerie et d’autres mesures, ainsi que de la gestion de la société, du secteur, des conditions économiques, et d’autres facteurs. Le Gérant de Portefeuille tient compte des caractéristiques ESG lorsqu’il évalue les risques et opportunités d’investissement. Le Gérant de Portefeuille prend en compte les notations ESG fournies par Fidelity ou des agences externes pour déterminer les caractéristiques ESG. Le Compartiment cherche à ce que son portefeuille obtienne un score ESG supérieur à celui de sa référence. Le Gérant de Portefeuille veille, par le biais de la procédure de gestion des investissements, à ce que les sociétés détenues dans le portefeuille respectent des pratiques de bonne gouvernance. Pour plus d’informations, consultez « Investissement durable et intégration ESG » ainsi que l’annexe « Durabilité ».\n\nPolitique en matière de dérivés: Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, de gestion efficace du portefeuille et d’investissement.\n\nl’indice de référence: S&P500 Index, un indice de marché général qui ne tient pas compte des caractéristiques ESG. Utilisée pour : la comparaison de performance uniquement. Bien qu’il investisse dans les titres de la référence, la gestion du Compartiment étant libre, ce dernier peut investir dans des titres qui n’y sont pas présents, et sa performance peut s’éloigner fortement ou rester très proche de celle de la référence au cours d’une période.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 753 → 761 (« Encours du compartiment : $ 761m », factsheet 30/09/2026) ; frais de gestion 1.5 retiré (les documents ne donnent que « Frais de gestion et autres frais administratifs et d’exploitation : 1,90% ») ; indice retiré : S&P500 Index « Utilisée pour : la comparaison de performance uniquement » ; politique remplacée par le texte de la factsheet (identique au KID, sans la politique de distribution). Nom actuel sur les documents : « Fidelity Funds - US Equity Fund A-ACC-USD » (le fichier One Life dit « American Growth »). Date de création = date de lancement de la classe 04.12.06 (compartiment : 30.06.97). Gérant nommé depuis le 01.07.25. SRI 4 (KID et factsheet). SFDR article 8 (« Catégorie SFDR 8 »), aucun % durable écrit. Allocations : exposition aux actions (Classes d'actifs), secteurs GICS, capitalisation, exposition géographique (Pays), 10 principales positions (colonne Compartiment).",
+ "sources": {
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "gerants": "factsheet p.2",
+  "compartiment": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "sfdr": "factsheet p.6",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "99.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités non investies",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "40.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "13.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation cyclique",
+   "pct": "11.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "8.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "8.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits financiers",
+   "pct": "7.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services collectifs",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation non-cyclique",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">10 milliard(s)",
+   "pct": "96.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5-10 milliard(s)",
+   "pct": "2.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1-5 milliard(s)",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "0-1 milliard(s)",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "97.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "0.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "0.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "9.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "9.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "7.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "6.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS INC",
+   "pct": "5.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "APPLE INC",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MASTERCARD INC",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "INTEL CORP",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ARISTA NETWORKS INC",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CSX CORP",
+   "pct": "2.7"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__KID_FR_2026-04-30.pdf"
+}

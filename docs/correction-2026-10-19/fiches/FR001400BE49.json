@@ -1,0 +1,144 @@
+{
+ "n": "113",
+ "isin": "FR001400BE49",
+ "nom": "(I/C)ECHIQUIER GLOBAL FLEXIBLE G EUR",
+ "maison": "La Financière de l'Echiquier",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-20",
+ "date_creation": "2022-09-22",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (flexible, dominante actions)",
+ "compartiment": "Compartiment de la SICAV CLUB SOLUTIONS gérée par La Financière de l'Echiquier",
+ "gerants": "Alexis Bienvenu, Enguerrand Artaz",
+ "encours_millions": "19",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.10",
+ "frais_courants": "1.92",
+ "sri": "3",
+ "indice": "65% MSCI WORLD NET TOTAL RETURN (en EUR), 35% BLOOMBERG EURO AGGREGATE TREASURY 1-3 ANS",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+ "politique_fr": "Echiquier Global Flexible est un OPC recherchant à surperformer à moyen terme son objectif de gestion au travers d'une gestion discrétionnaire et opportuniste notamment sur les marchés d'actions, de taux, de crédit et de devises.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_date 2026-08-31 → 2026-09-30. Factsheet au 30/09/2026 (actif net « 19 M€ »). Date de création = « Date de 1ère VL 22/09/2022 » (compartiment créé le 19/09/2022 ; SICAV Club Solutions créée le 04/01/2019). Compartiment : texte du KID (factsheet : « Type Compartiment de Sicav », « Sicav Club Solutions »). Frais de gestion = « Frais de gestion 1,10% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais administratifs et d'exploitation 1.92% » (factsheet « Frais au 26/02/2026 » : 1,916 %) ; pas de commission de surperformance. Indice = « Objectif de gestion » composite de la factsheet (le KID : objectif de surperformer « 65% du MSCI World Index Net Total Return EUR+ 35% du Bloomberg Euro Aggregate Treasury 1-3 years TR Index EUR », tout en précisant qu'« il ne peut être indiqué d'indicateur de référence pertinent » et que l'indice « peut illustrer l'objectif de performance ») ; jusqu'au 19/03/2026 : €STER capitalisé+6%. SFDR « Classification SFDR Article 6 ». Classification Dynamique : flexible à dominante actions (exposition actions 75,2 %, objectif 65 % actions), bien que SRI 3. Politique : texte de présentation de la factsheet (le KID contient une politique plus détaillée). Allocations : « Exposition par type d'actif » (en % d'exposition nette, valeurs lues sur l'image du graphique) ; Zones géographiques = « Répartition de l'allocation actions » (en % de l'actif net) ; Positions = tableau « Composition du portefeuille et score maturité ISR » (colonne Poids, 9 lignes, total « PORTEFEUILLE 32,76% »), libellés = noms des fonds.",
+ "factsheet_fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__KID_FR_2026-03-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "75.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "19.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Performance Absolue / Matière 1ère",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "39.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "28.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents ex-Chine",
+   "pct": "3.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pacifique",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Chine",
+   "pct": "0.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI EURO STOXX BANKS UCITS ETF Acc",
+   "pct": "3.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI MSCI EMERGING EX CHINA UCITS ETF Acc",
+   "pct": "1.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI S&P 500 II UCITS ETF EUR HEDGED Acc",
+   "pct": "1.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI TOPIX HEDGED EUR",
+   "pct": "1.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI TOPIX UCITS ETF",
+   "pct": "1.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ECHIQUIER HYBRID BONDS IXL",
+   "pct": "4.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EDR SICAV FINANCIAL BONDS N",
+   "pct": "4.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ISHARES S&P SMALLCAP 600 UCITS ETF (Dist)",
+   "pct": "2.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PARETO NORDIC CROSS CREDIT H-I EUR",
+   "pct": "11.03"
+  }
+ ]
+}

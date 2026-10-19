@@ -1,0 +1,123 @@
+{
+ "n": "598",
+ "isin": "LU2596602545",
+ "nom": "GOLDMAN SACHS GL FUTURE ECON SECURITY EQ PORTF USD",
+ "maison": "GOLDMAN SACHS AM",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-06-18",
+ "date_creation": "2023-06-13",
+ "devise": "USD",
+ "type_fonds": "Actions internationales thématiques",
+ "compartiment": "un compartiment de Goldman Sachs Funds SICAV",
+ "gerants": "",
+ "encours_millions": "1660",
+ "encours_devise": "USD",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.64",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance does not predict future returns. A loss of capital may occur.",
+ "politique_fr": "",
+ "politique_en": "The Fund seeks to provide capital growth over the longer term. The Fund seeks to achieve its objective by holding shares or similar instruments relating to companies that are domiciled anywhere in the world which, in the view of the Investment Adviser, have the potential to be beneficiaries of evolving trends in international relations and their impact on the economic security of developed markets including, but not limited to, the beneficiaries and drivers of supply chain security, resource security and national security. There is no guarantee that objectives will be met.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet EN 31/08/2026 (aucune factsheet française trouvée) ; ISIN vérifié dans le texte (« ISIN - Base Shares (Acc.) LU2596602545 »), part « Base Shares (Acc.) » en USD. Corrigé : politique : « Fund Objective and Investment Policy » de la factsheet (anglais), l'ancien texte français était rédigé. Date de création = « Inception Date - Base Shares (Acc.) 13-Jun-23 ». Encours = « Total Net Assets (m) USD 1,660 ». Frais : factsheet « Management Fee (%) 1.50 », « Ongoing Charges (%) 1.65 » ; KID « 1.64 % » retenu. Indice vide : le KID indique que le portefeuille « fait référence à MSCI World Index (Total Return Net) (l’« Indice de référence ») afin de fixer des seuils de risque internes discrétionnaires » ; la factsheet le nomme « Reference Benchmark MSCI World Index (Net Total Return, Unhedged, USD) » et précise que le fonds « is not designed to track its reference benchmark ». SRI 4 (KID). SFDR : aucun numéro d'article écrit (le KID dit seulement que le portefeuille promeut des caractéristiques environnementales et/ou sociales, avec une part minimale d'investissements durables non chiffrée). Gérants : aucun nom dans les documents. Classification Agressif : actions thématiques concentrées (sécurité économique). Politique : la ligature « fi » perdue à l'extraction a été rétablie (« beneficiaries »). Allocations : régions (le libellé « Asia/Pacific Ex Japan » a une ligature « fi » illisible dans le PDF, d'où un écart au contrôle automatique) et 10 principales positions ; la répartition par thème (Supply Chain Security 51.3, Resource Security 28.7, National Security 16.8, Other 1.7, Cash 1.5) n'entre pas dans les types prévus.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "disclaimer": "factsheet",
+  "politique_en": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Zones géographiques",
+   "libelle": "North America",
+   "pct": "77.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "16.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asia/Pacific Ex Japan",
+   "pct": "2.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japan",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash and cash equivalents",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "7.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Advanced Micro Devices Inc",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Marvell Technology Inc",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eaton Corp PLC",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cheniere Energy Inc",
+   "pct": "2.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rockwell Automation Inc",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Micron Technology Inc",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cadence Design Systems Inc",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "National Grid PLC",
+   "pct": "2.1"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__Factsheet_EN_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__KID_FR_2026-06-18.pdf"
+}

@@ -1,0 +1,90 @@
+{
+ "n": "679",
+ "isin": "FR0010230490",
+ "nom": "LAZARD CREDIT OPPORTUNITIES RC EUR",
+ "maison": "Lazard Frères Gestion",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-08",
+ "date_creation": "2005-10-28",
+ "devise": "EUR",
+ "type_fonds": "Obligataire crédit flexible",
+ "compartiment": "compartiment de LAZARD FUNDS",
+ "gerants": "Eléonore Bunel, Olivier Vietti, Adrien Lalanne",
+ "encours_millions": "1367.79",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.90",
+ "frais_courants": "1.77",
+ "sri": "3",
+ "indice": "€ster capi +1,25%",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.2 (sensibilité)",
+ "qualite_emetteurs": "BBB",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+ "politique_fr": "L’objectif de gestion vise à obtenir sur la durée de placement recommandée de 3 ans une performance nette de frais supérieure à celle de l'indicateur de référence Ester Capitalisé + marge (de 1,25% à 2.40% en fonction des parts) pour les parts exprimées en Euro, Fed Funds + marge ( 1.25% à 2% en fonction des parts) pour les parts exprimées en USD et SARON + 2.40% pour la part exprimée en CHF.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 1472.05 → 1367.79 M€ (« Actif net du fonds », factsheet 30/09/2026) ; compartiment recopié du KID (« compartiment de LAZARD FUNDS ») ; classification « Sécuritaire » (hors liste) → Défensif (obligataire, SRI 3) ; indice recopié tel qu'écrit pour la période actuelle (« €ster capi +1,25% depuis le 04/11/2019 ; Eonia capi +1,25% du 29/12/2017 au 03/11/2019, auparavant Eonia capi ») ; duration ajoutée : sensibilité taux brute 3.2 (nette 9.8, dérivés compris) ; qualité ajoutée : « Rating Emetteurs BBB » (« Rating Emissions BB+ ») ; disclaimer réduit à la phrase de la factsheet ; catégorie vidée. Gérants écrits avec le nom en majuscules (« Eléonore BUNEL », « Olivier VIETTI », « Adrien LALANNE ») : recopiés en casse normale (écart du contrôle éventuel dû à la casse). Date de création = « Date de 1ère VL de la part 28/10/2005 ». Frais : « Frais de gestion (max) 1.90% » ; frais courants KID « Frais de gestion et autres coûts administratifs et d’exploitation 1,77% » ; pas de commission de surperformance. Indice retenu : objectif de performance supérieure à l'indicateur de référence. Politique : la factsheet ne donne que l'objectif. SFDR article 8. Allocations : positions et devises (poids net) au 30/09/2026 ; autres répartitions non reprises (graphiques sans valeurs dans le texte du PDF).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "GRAND CITY PROP. TV 26-05MY--A",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BCO CDT.SOC.TV(REGS)25-13OC37A",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IBERCAJA BCO TV 23-25JA--T",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PIRAEUS BK. TV(EMTN)24-18SE35A",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PIRAEUS FIN.TV(REGS)25-15OC--S",
+   "pct": "0.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "109.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "-9.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "-0.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0010230490/FR0010230490__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0010230490/FR0010230490__KID_FR_2026-10-08.pdf"
+}

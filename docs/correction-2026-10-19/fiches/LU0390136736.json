@@ -1,0 +1,221 @@
+{
+ "n": "829",
+ "isin": "LU0390136736",
+ "nom": "TEMPLETON FRONTIER MARKETS A USD",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2008-10-14",
+ "devise": "USD",
+ "type_fonds": "Actions marchés frontières",
+ "compartiment": "SICAV de droit luxembourgeois Franklin Templeton Investment Funds",
+ "gerants": "Bassel Khatoun, Ahmed Awny",
+ "encours_millions": "345.58",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.58",
+ "sri": "3",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs. Le cours des actions du Fonds, ainsi que les revenus générés, peuvent fluctuer à la hausse comme à la baisse, et il est possible que les investisseurs ne puissent pas récupérer l'intégralité des montants investis.",
+ "politique_fr": "Objectif d'investissement\nChercher une croissance de l'investissement à long terme par la croissance du capital. Le Fond investit principalement dans les actions d'entreprises de toutes capitalisations boursières situées ou exerçant une activité significative sur les marchés frontières (des marchés émergents moins développés et moins accessibles).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting du Fonds au 30 septembre 2026 » (française, la plus récente). Date de création = « Date de création de la part 14.10.2008 » (fonds : 14.10.2008). Compartiment de Franklin Templeton Investment Funds (« Parapluie légal »). Gérants : équipe de gestion (Bassel Khatoun ; Ahmed Awny, CFA). Encours « Actif net total » $345,58 Millions (fonds). Frais de gestion non indiqués ; frais courants 2,58 % (KID « Frais de gestion et autres frais administratifs et d’exploitation », identique à la factsheet). Indice vide : « Linked MSCI Frontier Emerging Markets Select Countries Capped Index-NR » marqué « Comparateur », « Utilisé à des fins de comparaison des performances uniquement ». SFDR article 6 (factsheet « Catégorie SFDR Article 6 » et KID), aucun % d'investissements durables écrit. Classification Agressif : actions des marchés frontières, malgré un SRI de 3 (One Life : Equilibré). Allocations : colonne « Fonds » seulement (indice non repris), libellés et valeurs tels qu'écrits. Corrigé : encours 351.66 → 345.58 (factsheet 30/09/2026) ; indice → vide (comparateur uniquement) ; classification Equilibré → Agressif ; politique du site → objectif de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "CREDICORP LTD",
+   "pct": "5.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVA LJUBLJANSKA BANKA DD",
+   "pct": "5.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "INTERNATIONAL CONTAINER TERMINAL SERVICES INC",
+   "pct": "5.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HALYK BANK JSC",
+   "pct": "5.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NATIONAL INVESTMENT FUND OF THE REPUBLIC OF UZBEKISTAN JSC",
+   "pct": "4.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCA TRANSILVANIA SA",
+   "pct": "4.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MILITARY COMMERCIAL JOINT STOCK BANK",
+   "pct": "3.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KASPI.KZ JSC",
+   "pct": "3.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HOA PHAT GROUP JSC",
+   "pct": "3.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GRUPO CIBEST SA",
+   "pct": "3.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "52.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "9.20"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "8.12"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "7.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "6.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "5.10"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Secteur Immobilier",
+   "pct": "1.36"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "3.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "2.29"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Vietnam",
+   "pct": "16.19"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Philippines",
+   "pct": "10.86"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Kazakhstan",
+   "pct": "10.42"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pérou",
+   "pct": "6.93"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Slovénie",
+   "pct": "5.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Roumanie",
+   "pct": "4.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Maroc",
+   "pct": "4.23"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Oman",
+   "pct": "4.12"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "35.14"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "2.29"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<1,0 milliards",
+   "pct": "4.33"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1,0-2,0 milliards",
+   "pct": "8.85"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2,0-5,0 milliards",
+   "pct": "21.31"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5,0-10,0 milliards",
+   "pct": "32.85"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">10,0 milliards",
+   "pct": "32.65"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390136736/LU0390136736__KID_FR_2026-02-19.pdf"
+}

@@ -1,0 +1,231 @@
+{
+ "n": "611",
+ "isin": "FR0010601971",
+ "nom": "HMG DÉCOUVERTES C EUR",
+ "maison": "HMG Finance",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-01",
+ "date_creation": "2008-05-07",
+ "devise": "EUR",
+ "type_fonds": "Actions françaises",
+ "compartiment": "Compartiment de la SICAV HMG FINANCE (Société d’Investissement à capital variable de droit français)",
+ "gerants": "Marc GIRAULT, Jean-François DELCAIRE",
+ "encours_millions": "188.99",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.76",
+ "frais_courants": "1.76",
+ "sri": "3",
+ "indice": "CAC Small NR (dividendes nets réinvestis)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées indiquées ne préjugent pas des performances futures. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DICI pour plus d’informations",
+ "politique_fr": "L’objectif de gestion du compartiment est de réaliser une performance nette de frais supérieure à celle de l’indice CAC Small NR (dividendes nets réinvestis), sur la durée de placement recommandée de 5 ans.\n\nInformations complémentaires : Le compartiment dispose d’un indicateur de référence qui est le CAC Small NR (dividendes réinvestis), bien qu’il puisse s’en éloigner dans sa composition comme dans sa performance. En effet, il ne s’agit pas d’un OPC indiciel, le gérant ne cherche pas à répliquer la composition des indices d’actions françaises et investit régulièrement dans des titres qui ne font partie d’aucun indice. Ceci découle du fait que le gérant recherche les valeurs les plus décotées, qui sont souvent les moins connues.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 (identique au « Reporting » publié sur hmgfinance.com) ; nouveau KID du 01/06/2026 trouvé sur hmgfinance.com et rangé dans INVESTLAW (remplace celui du 26/09/2024). Corrigé : compartiment « SICAV HMG Finance » → libellé du KID ; classification Dynamique → Agressif (petites capitalisations d'un seul pays, malgré un SRI 3) ; politique = « Objectif de gestion » de la factsheet ; autres valeurs confirmées. Date de création = « Lancement action C : le 7 mai 2008 » (OPC lancé le 26 octobre 1987). Encours = « Actif Net du compartiment 188 993 759,98 € » (arrondi à 188.99 millions). Frais : factsheet « Frais de Gestion 1,76% TTC » ; KID « 1,76% » ; commission de surperformance 15 % au-delà du CAC Small NR. Indice retenu : objectif de performance supérieure au CAC Small NR. Gérants : « Co-Gérants: Marc GIRAULT », « Jean-François DELCAIRE, CIIA ». SRI 3 (KID). SFDR article 8 (factsheet et KID). Allocations : libellés complets de la légende (le texte des barres est tronqué) ; « Styles » = répartition « Par concept de gestion ».",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Capitalisations",
+   "libelle": "Inférieur à 150M€",
+   "pct": "9.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 150 M€ à 500 M€",
+   "pct": "27.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "De 500M€ à 1Md€",
+   "pct": "24.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Supérieur à 1 Md€",
+   "pct": "32.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Françaises",
+   "pct": "92.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Etrangères",
+   "pct": "1.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Titres Participatifs",
+   "pct": "0.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GROUPE EPC",
+   "pct": "8.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COMPAGNIE DU CAMBODGE",
+   "pct": "7.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AUBAY",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ID LOGISTICS GROUP",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASSYSTEM",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GAUMONT SA",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JCDECAUX SE",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LISI",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MALTERIES FRANCO-BELGES",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NEURONES",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "14.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "19.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "5.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "15.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "14.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "2.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "14.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Non coté",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Retournement",
+   "pct": "23.2"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Croissance méconnue",
+   "pct": "43.4"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Croissance régulière",
+   "pct": "12.4"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Croissance reconnue",
+   "pct": "14.7"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Non coté",
+   "pct": "0.0"
+  },
+  {
+   "type": "Styles",
+   "libelle": "Liquidités",
+   "pct": "6.3"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/HMG_FINANCE/FR0010601971/FR0010601971__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/HMG_FINANCE/FR0010601971/FR0010601971__KID_FR_2026-06-01.pdf"
+}

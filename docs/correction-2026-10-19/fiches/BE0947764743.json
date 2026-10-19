@@ -1,0 +1,278 @@
+{
+ "n": "490",
+ "isin": "BE0947764743",
+ "nom": "DPAM B EQUITIES SUSTAINABLE FOOD TRENDS B EUR",
+ "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-01",
+ "date_creation": "2007-12-17",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques (agroalimentaire)",
+ "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+ "gerants": "",
+ "encours_millions": "28.75",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.60",
+ "frais_courants": "1.94",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+ "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises actives dans le secteur agro-alimentaire au sens large. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportion minimale d'investissements durables au sens du même règlement. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment.\n\nLe fonds investit principalement (sans aucune restriction géographique quelconque) dans des actions et/ou d'autres titres donnant accès au capital d'entreprises directement ou indirectement actives dans la chaîne de production/distribution du secteur agroalimentaire et autres secteurs connexes. La sélection repose sur une méthodologie qui: -exclut les sociétés non en conformité avec certains normes mondiales en ce compris le Pacte des Nations Unies (droits de l'Homme, droit du travail, protection de l'environnement et lutte contre la corruption), -exclut les sociétés impliquées dans des activités controversées (tabac, jeux de hasard, charbon thermique) ou impliquées dans des controverses ESG sévères (incidents, allégations liés à des problèmes environnementaux, sociaux, gouvernance), et-s'appuie sur une analyse et notation du profil ESG de la société investie au moyen de Scorecard ESG (grilles d'analyse des risques ESG les plus pertinents et les plus matériels auxquels sont exposées les sociétés) et – vise une recherche d'impact et thématiques de durabilité en s'assurant que les produits et/ou services de l'entreprise financent – en proportion de son chiffre d'affaires – l'agriculture durable. Vous trouverez plus d'informations sur le site https://www.funds.dpaminvestments.com/funds.html.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 28.98 → 28.75 (« Taille (toutes classes) mn EUR 28.75 », factsheet 30/09/2026) ; compartiment complété ; indice : « Aucun benchmark n'est utilisé dans la gestion du compartiment » (factsheet et KID). Date de création = « Date de la 1ère VNI (classe d'action) 17.12.2007 » ; création du compartiment 13.12.2007. Frais : factsheet « Frais gestion et autres frais d’exploitation 1.94% », « dont frais de gestion 1.60% » ; KID 1,94 %. Gérants : aucun nom. Classification Agressif : actions thématiques sectorielles (agroalimentaire). SFDR article 8, aucun % durable effectif écrit. Allocations : « Sous-secteurs » rangés en Secteurs.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sri": "KID p.2",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Dsm-Firmenich Ltd",
+   "pct": "9.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Darling Ingredients",
+   "pct": "9.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CF Industries Holdings",
+   "pct": "8.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Deere & Company",
+   "pct": "8.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sipef",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "M.p. Evans Group",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lotus Bakeries",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Marine Harvest Asa",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novozymes",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bakkafrost",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'alimentation",
+   "pct": "24.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Huile de palme",
+   "pct": "14.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "B2C Food",
+   "pct": "12.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Production alimentaire",
+   "pct": "10.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Engrais",
+   "pct": "10.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Equipement agricole",
+   "pct": "8.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Poisson",
+   "pct": "8.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agrochimie & semences",
+   "pct": "3.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Packaging",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "B2B Food",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "30.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "13.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Norvège",
+   "pct": "12.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "12.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "6.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "6.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "4.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "3.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Malaisie",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "2.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "1.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Irlande",
+   "pct": "0.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "1.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "2.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "36.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "30.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne norvégienne",
+   "pct": "12.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre sterling",
+   "pct": "6.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne danoise",
+   "pct": "6.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Ringgit malais",
+   "pct": "3.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "2.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar canadien",
+   "pct": "1.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Real brésilien",
+   "pct": "0.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne suédoise",
+   "pct": "0.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__KID_FR_2026-10-01.pdf"
+}

@@ -1,0 +1,226 @@
+{
+ "n": "827",
+ "isin": "LU0128522157",
+ "nom": "TEMPLETON ASIAN GROWTH A USD",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-31",
+ "date_creation": "2001-05-14",
+ "devise": "USD",
+ "type_fonds": "Actions Asie hors Japon",
+ "compartiment": "SICAV de droit luxembourgeois Franklin Templeton Investment Funds",
+ "gerants": "Eric Mok, Sukumar Rajah, Yi Ping Liao, Ferdinand Cheuk",
+ "encours_millions": "2410",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.10",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs. Le cours des actions du Fonds, ainsi que les revenus générés, peuvent fluctuer à la hausse comme à la baisse, et il est possible que les investisseurs ne puissent pas récupérer l'intégralité des montants investis.",
+ "politique_fr": "Objectif d'investissement\nChercher une croissance de l'investissement à long terme par la croissance du capital. Le Fonds investit principalement dans les actions d'entreprises de toutes capitalisations boursières situées, cotées ou exerçant une activité significative en Asie (hors Australie, Nouvelle-Zélande et Japon).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting du Fonds au 30 septembre 2026 » (française, la plus récente). Date de création = « Date de création de la part 14.05.2001 » (fonds : 16.04.1991). Compartiment de Franklin Templeton Investment Funds (« Parapluie légal »). Gérants : équipe de gestion (Eric Mok, CFA ; Sukumar Rajah ; Yi Ping Liao ; Ferdinand Cheuk, CFA). Encours « Actif net total » $2,41 milliard (fonds). Frais de gestion non indiqués ; frais courants 2,10 % (KID « Frais de gestion et autres frais administratifs et d’exploitation », identique à la factsheet). Indice vide : « MSCI AC Asia ex-Japan 10/40 Index-NR - Linked » marqué « Comparateur », « Utilisé à des fins de comparaison des performances uniquement ». SFDR article 8 (factsheet « Catégorie SFDR Article 8 » et KID), aucun % d'investissements durables écrit. Classification Agressif : actions Asie hors Japon (marchés émergents), malgré un SRI de 4 (One Life : Dynamique). Allocations : colonne « Fonds » seulement (indice non repris), libellés et valeurs tels qu'écrits. Corrigé : encours 2460 → 2410 (factsheet 30/09/2026) ; indice → vide (comparateur uniquement) ; classification Dynamique → Agressif ; politique du site → objectif de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "10.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK HYNIX INC",
+   "pct": "8.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS CO LTD",
+   "pct": "8.74"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MEDIATEK INC",
+   "pct": "4.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TENCENT HOLDINGS LTD",
+   "pct": "3.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DBS GROUP HOLDINGS LTD",
+   "pct": "2.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ICICI BANK LTD",
+   "pct": "2.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALIBABA GROUP HOLDING LTD",
+   "pct": "2.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LENOVO GROUP LTD",
+   "pct": "2.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KB FINANCIAL GROUP INC",
+   "pct": "2.09"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "48.05"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "16.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "10.25"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "5.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "5.15"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Secteur Immobilier",
+   "pct": "3.18"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "1.33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "1.18"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "24.75"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "24.74"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "22.69"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "12.66"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong Kong",
+   "pct": "4.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "4.09"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "3.05"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Thailande",
+   "pct": "0.00"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "2.11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "1.18"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<2,0 milliards",
+   "pct": "1.15"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2,0-5,0 milliards",
+   "pct": "1.14"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5,0-10,0 milliards",
+   "pct": "0.93"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10,0-25,0 milliards",
+   "pct": "10.61"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "25,0-50,0 milliards",
+   "pct": "19.22"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">50,0 milliards",
+   "pct": "66.94"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128522157/LU0128522157__KID_FR_2026-07-31.pdf"
+}

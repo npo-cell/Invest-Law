@@ -1,0 +1,190 @@
+{
+ "n": "521",
+ "isin": "LU1920214563",
+ "nom": "ELEVA LEADERS SMALL & MID CAP EUROPE A2 EUR",
+ "maison": "Eleva Capital SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-13",
+ "date_creation": "2019-01-28",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe petites et moyennes capitalisations",
+ "compartiment": "Compartiment d'Eleva UCITS Fund",
+ "gerants": "Diane Bruno, Ingrid Pfyffer-Edelfelt, Quentin Hoareau",
+ "encours_millions": "387.04",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.9",
+ "frais_courants": "2.3",
+ "sri": "4",
+ "indice": "Stoxx Europe Small 200 Net Return",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "55.32",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent en rien des performances futures. L'OPC ne bénéficie d’aucune garantie ni protection, il se peut donc que le capital initialement investi ne soit pas intégralement restitué.",
+ "politique_fr": "Le Compartiment vise à offrir aux investisseurs une croissance du capital à long terme grâce à un portefeuille diversifié composé de valeurs mobilières transférables gérées activement. Le Compartiment investit principalement dans les actions de sociétés de petites et moyennes capitalisations ayant leur siège social en Europe (c'est-à-dire dans l'Espace économique européen, au Royaume-Uni et en Suisse). Le Compartiment peut investir, dans la limite de 15 % de son actif total, dans des actions de sociétés éligibles à la capitalisation boursière élevée. Le Compartiment est éligible au PEA (Plan d'Epargne en Actions) français.\n\nLe Compartiment promeut une combinaison de caractéristiques environnementales, sociales et de gouvernance et, bien qu'il n'ait pas pour objectif un investissement durable, il aura une proportion minimale de 30 % d'investissements durables. Il s'agit d'un produit relevant de l'article 8 du SFDR qui intègre des critères ESG contraignants dans son processus de gestion des investissements.\n\nL'objectif non financier principal du fonds ELEVA Leaders Small & Mid-Cap Europe est d'investir dans des sociétés ayant de bonnes pratiques ESG (c'est-à-dire les meilleures de l'univers) ou des sociétés qui s'améliorent en matière de pratiques ESG (c'est-à-dire celles qui font le maximum d'efforts), tout en excluant les sociétés qui n'auraient pas une note ESG minimale absolue (40/100). Le Compartiment cherche également à aider les entreprises à améliorer leurs pratiques ESG en engageant un dialogue régulier avec elles et en partageant avec elles les domaines à améliorer sur des thèmes ESG spécifiques.\n\nÀ partir de l'univers propriétaire « Leaders », le Compartiment compte 3 étapes (détaillées dans le document précontractuel conformément au SFDR) basées sur une combinaison de critères non financiers et financiers (étape 1 : filtre de liquidité et score ESG, étape 2 : exclusion stricte et étape 3 : analyse fondamentale).\n\nLa méthodologie utilisée pour la sélectivité ESG est la suivante : le score ESG moyen pondéré du Compartiment doit être significativement supérieur (c'est-à-dire meilleur) que le score ESG moyen de son univers d'investissement initial. Cela implique que le score ESG moyen pondéré du Compartiment ne peut en aucun cas être inférieur au score ESG moyen de l'univers d'investissement initial après élimination des 20 % des entreprises les moins performantes.\n\nLe Compartiment peut utiliser des IFD (instruments financiers dérivés) tels que des contrats Futures sur indices ou secteurs, des options sur titres (y compris, mais sans s'y limiter, des options sur actions et obligations) et éventuellement des CFD (y compris, mais sans s'y limiter, des CFD sur actions et titres), à des fins de couverture. Cela ne doit pas avoir pour conséquence de fausser de manière significative ou durable la politique ESG du Compartiment.\n\nLe Compartiment est géré activement en référence à l'indice de référence Stoxx Europe Small 200 Net Return. Les positions du Compartiment et la pondération des titres dans le portefeuille s'écarteront par conséquent de la composition de l'indice de référence pertinent. L'indice de référence pertinent n'est pas conforme aux facteurs ESG pris en considération par le Compartiment.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : encours 481.23 → 387.04 (« Encours du compartiment 387 036 017 € », factsheet 30/09/2026) ; % durable 66 → 55.32 (« Investissements durables (% VNI, conforme à SFDR art. 2.17) 55.32% », factsheet p.3). Politique prise du KID (13/03/2026) : la factsheet n'a que des puces d'objectif. Date de création = « Date de lancement de la part : 28/01/2019 » (compartiment 18/12/2018). Frais : factsheet « Frais de gestion : 1.9% » ; KID « 2,3 % » ; commission de performance 15 % de la surperformance. Indice : KID « géré activement en référence à l'indice de référence Stoxx Europe Small 200 Net Return »  (nom retenu) ; factsheet « STOXX Europe Small 200 Index Net Return - SCXR ». SFDR article 8 ; minimum 30 % d'investissements durables (KID). Classification Dynamique : actions européennes de petites et moyennes capitalisations diversifiées, SRI 4. Allocations : colonne « ELEVA Leaders SMC Europe » (% de la poche actions) lue sur l'image de la page 2 ; capitalisation boursière (graphique, une seule valeur lisible dans le texte) non reprise.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.3",
+  "durable_pct": "factsheet p.3",
+  "compartiment": "KID p.1",
+  "sfdr": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BAWAG Group AG",
+   "pct": "2.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Diploma PLC",
+   "pct": "2.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NKT A/S",
+   "pct": "2.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROBANK SA",
+   "pct": "2.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Knorr-Bremse AG",
+   "pct": "2.77"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Italie",
+   "pct": "12.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "12.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "11.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Belgique",
+   "pct": "9.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "8.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "7.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "7.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "6.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "6.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "5.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "13.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrielles",
+   "pct": "31.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "22.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. Disc.",
+   "pct": "10.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "9.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "8.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "5.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "5.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. de base",
+   "pct": "2.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécoms",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__KID_FR_2026-03-13.pdf"
+}

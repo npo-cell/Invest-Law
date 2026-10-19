@@ -1,0 +1,209 @@
+{
+ "n": "493",
+ "isin": "LU0907927338",
+ "nom": "DPAM L BONDS EMERGING MKT SUS B EUR",
+ "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-31",
+ "date_creation": "2013-03-18",
+ "devise": "EUR",
+ "type_fonds": "Obligataire pays émergents",
+ "compartiment": "Compartiment de DPAM L, SICAV de droit luxembourgeois",
+ "gerants": "",
+ "encours_millions": "5811.22",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.2",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "5.27 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ni le rendement, ni le capital ne sont garantis ou protégés.",
+ "politique_fr": "Objectif(s) Augmenter la valeur de votre investissement sur le moyen à long terme, tout en poursuivant un objectif durable.\n\nIndice(s) de référence Le fonds est géré sans référence à un indice.\n\nPolitique d'investissement Dans des conditions normales de marché, le compartiment investit principalement dans des obligations gouvernementales, y compris des obligations à haut rendement, émises dans les marchés émergents. Le compartiment peut recourir à des instruments dérivés afin de se couvrir contre des fluctuations de marché et de réduire ses coûts, et également dans le but de générer des revenus supplémentaires.\n\nProcessus d'investissement Dans le cadre d'une gestion active du compartiment, le gestionnaire utilise l'analyse macroéconomique, de marché et de crédit afin d'identifier des titres présentant un potentiel de rendement avantageux par rapport au risque encouru.\n\nApproche ESG Dans son processus de décision, le gestionnaire intègre des critères de durabilité tels que la défense des droits fondamentaux, la liberté d'expression, l'éducation, l'environnement et les soins de santé. Le gestionnaire exclut les émetteurs qui font l'objet de controverses sévères par rapport aux normes internationales ou ont un profil de durabilité défavorable. Catégorie SFDR Article 9.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 5727.63 → 5811.22 (« Taille (toutes classes) mn EUR 5'811.22 », factsheet 30/09/2026) ; duration 5.05 → 5.27 ans ; indice « Aucun » (« Le fonds est géré sans référence à un indice ») ; compartiment complété. Date de création = « Date de la 1ère VNI 18.03.2013 » (même date que la création du compartiment ; la factsheet ne précise pas « classe d'action »). Frais : factsheet « Frais gestion et autres frais d’exploitation 1.20% », « dont frais de gestion 1.00% » ; KID 1,2 %. SRI : KID « niveau 3 sur 7 ». SFDR « Catégorie SFDR Article 9 », aucun % durable écrit. Duration : « Duration (ans) 5.27 » ; modified duration 4.88 ; pas de notation moyenne. Gérants : aucun nom. Classification Défensif (obligataire) malgré l'exposition émergente et haut rendement. Allocations : « Monnaies après couv. taux de change » en Devises ; tableau « Modified durations » non repris (type non prévu).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "sri": "KID p.2",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "10.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "9.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Afrique du sud",
+   "pct": "7.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "République tchèque",
+   "pct": "5.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Indonésie",
+   "pct": "5.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Malaisie",
+   "pct": "5.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pologne",
+   "pct": "5.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Roumanie",
+   "pct": "4.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du sud",
+   "pct": "4.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "4.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "34.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Cash",
+   "pct": "4.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autre",
+   "pct": "34.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Peso mexicain",
+   "pct": "9.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "7.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Real brésilien",
+   "pct": "7.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "6.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Rand sud-africain",
+   "pct": "6.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Zloty polonais",
+   "pct": "6.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indonésienne",
+   "pct": "5.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne tchèque",
+   "pct": "5.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Ringgit malais",
+   "pct": "5.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won sud-coréen",
+   "pct": "4.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "3.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "10.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "12.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "34.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "25.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "7.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C-Catégorie",
+   "pct": "2.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "4.3"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__KID_FR_2026-08-31.pdf"
+}

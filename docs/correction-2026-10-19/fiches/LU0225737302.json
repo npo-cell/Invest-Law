@@ -1,0 +1,138 @@
+{
+ "n": "727",
+ "isin": "LU0225737302",
+ "nom": "MORGAN STANLEY US ADVANTAGE A USD",
+ "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-21",
+ "date_creation": "2005-12-01",
+ "devise": "USD",
+ "type_fonds": "Actions américaines",
+ "compartiment": "Un compartiment de Morgan Stanley Investment Funds",
+ "gerants": "Dennis Lynch, Sam Chainani, Jason Yeung, Armistead Nash, Alexander Norton",
+ "encours_millions": "2900",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.40",
+ "frais_courants": "1.63",
+ "sri": "6",
+ "indice": "S&P 500 Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs. La valeur des investissements et les revenus qui en découlent peuvent baisser ou augmenter et un investisseur peut ne pas récupérer le montant investi.",
+ "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nNous recherchons des entreprises de grandes capitalisations, bien établies aux États-Unis, que nous pensons dotées d'une excellente réputation et présentant des avantages concurrentiels durables avec une visibilité économique supérieure à la moyenne, la capacité à déployer le capital pour générer un fort retour sur investissement, des bilans financiers solides, ainsi qu’un profil risque/rendement attrayant.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 3000 → 2900 (« Total de l’actif $ 2,9 milliard(s) », factsheet 30/09/2026) ; disclaimer remplacé par celui de la factsheet (la 2e phrase venait du KID) ; indice « S&P500 » → « S&P 500 Index » (nom de la factsheet) ; gérants sans la mention « (Counterpoint Global) » ; politique complétée (texte entier de la factsheet). Date de création : « Date de lancement 01 Décembre 2005 » (part A). Frais : factsheet « Frais de gestion 1,40 », « Frais courants 1,63 » ; KID 1.63 %. Indice : KID « Le fonds évaluera sa performance par rapport à l'indice S&P 500 » ; la factsheet affiche aussi un « Indice de référence personnalisé » (S&P 500 jusqu’au 31/08/2009, Russell 1000 Growth jusqu’au 31/03/2010, puis S&P 500) utilisé pour l’historique de performance. SFDR article 8, aucun % durable écrit. Classification Agressif conservée (portefeuille concentré de croissance, 29 positions, SRI 6). Allocations : colonne « Fonds » seulement ; secteurs à « -- » pour le fonds non repris.",
+ "factsheet_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0225737302/LU0225737302__KID_FR_2026-07-21.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Royalty Pharma plc",
+   "pct": "9.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare Inc",
+   "pct": "9.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tesla Inc",
+   "pct": "7.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Space Exploration Technologies Corp.",
+   "pct": "5.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Shopify Inc",
+   "pct": "5.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Strategy Inc",
+   "pct": "4.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roivant Sciences Ltd",
+   "pct": "4.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Affirm Holdings Inc",
+   "pct": "4.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Medline Inc",
+   "pct": "4.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AppLovin Corp",
+   "pct": "4.14"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "24.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "22.16"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discretionnaires",
+   "pct": "15.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "13.34"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "13.22"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "8.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "3.24"
+  }
+ ]
+}

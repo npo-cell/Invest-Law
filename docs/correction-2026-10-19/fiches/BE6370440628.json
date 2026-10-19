@@ -1,0 +1,119 @@
+{
+ "n": "204",
+ "isin": "BE6370440628",
+ "nom": "(I/C)LELEUX INVEST DYNAMIC WORLD FOF P I EUR",
+ "maison": "LELEUX FUND MANAGEMENT & PARTNERS S.A.",
+ "factsheet_date": "2026-05-29",
+ "kid_date": "",
+ "date_creation": "2026-03-02",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (fonds de fonds)",
+ "compartiment": "Un compartiment de Leleux Invest, SICAV gérée par la société de gestion d’OPCVM de droit belge Leleux Fund Management & Partners S.A.",
+ "gerants": "",
+ "encours_millions": "3.80",
+ "encours_devise": "EUR",
+ "encours_date": "2026-05-29",
+ "frais_gestion": "",
+ "frais_courants": "1.59",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements cités et l’évolution de la VNI ont trait aux années écoulées. Ils ne sont pas indicatifs de performances futures et peuvent être trompeurs.",
+ "politique_fr": "Objectifs du produit Le fonds a pour objectif de procurer aux investisseurs une croissance du capital sur le long terme en procédant à des placements diversifiés, essentiellement indirects, en particulier via des investissements en autres Organismes de Placements Collectifs (OPC).\n\nApproche de l'investissement Afin de réduire le risque intrinsèque du fonds l’investissement est largement diversifié internationalement et réparti entre différents organismes de placement collectif (OPC, OPCVM) eux-mêmes investis dans différentes classes d’actifs (obligations, obligations convertibles, actions etc.) dans une perspective à moyen ou long terme.\n\nIndice de référence Le fonds est géré de manière active. Le gestionnaire dispose d’une certaine discrétion dans la composition du portefeuille du fonds dans le respect des objectifs et de la politique d’investissement du fonds.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 29/05/2026) : type_fonds Allocation mixte internationale - Fonds de Fonds → Multi-actifs (fonds de fonds) ; compartiment Classe P → Un compartiment de Leleux Invest, SICAV gérée par la soci… ; gerants Carlo Luigi Grabau → vide ; encours_millions 5.65 → 3.80 ; encours_devise vide → EUR ; encours_date vide → 2026-05-29 ; frais_gestion 0.8 → vide ; classification Dynamique → Equilibré ; sfdr 8 → vide ; source_politique invest-law.eu → Factsheet ; politique_fr remplacé ; disclaimer remplacé. Seul document de la part P : « Rapport Mensuel au 29 Mai 2026 » de la « Classe P - Capitalisation - BE6370440628 » (PDF de la fiche invest-law.eu, rangé dans INVESTLAW) ; aucun rapport plus récent ni KID de la part P sur leleux.be (seuls les rapports de septembre 2026 et KID de la part R y sont publiés, non utilisés) ni sur fundinfo. Date de création = « Date de Lancement: 2 Mars 2026 » (rubrique Caractéristiques de la part P CAP ; « Le fonds ayant été lancé le 2 mars 2026 »). Encours = « Encours sous gestion du compartiment en millions € 3,80 » au 29/05/2026. Frais de gestion vide : seuls les « Frais courants estimés : 1,59% » sont donnés (factsheet, pas de KID). SRI 3 lu dans le rapport mensuel (« classe de risque 3 sur 7 »), faute de KID. Gérants : aucun nom (« Gestionnaire: Leleux Fund Management & Partners SA »). Indice vide : la rubrique « Indice de référence » dit seulement que le fonds est géré de manière active, sans nommer d'indice. SFDR : aucune mention. Classification Equilibré : fonds de fonds diversifié (environ 54 % actions, 25,8 % obligations, 20 % monétaire et cash), SRI 3. Politique : rubrique « Objectifs et stratégie d'investissement » du rapport mensuel. Allocations au 29/05/2026 : classes d'actifs et devises (graphiques) ; Positions = 5 premiers fonds en portefeuille désignés par leur gestionnaire (« Noms des Gestionnaires », poids %).",
+ "factsheet_fichier": "INVESTLAW/LELEUX_FUND_MANAGEMENT_PARTNERS_S_A/BE6370440628/BE6370440628__Factsheet_FR_2026-05-29.pdf",
+ "kid_fichier": "",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "date_creation": "factsheet p.3",
+  "devise": "factsheet p.3",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "factsheet p.3",
+  "sri": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "25.77"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Europe",
+   "pct": "20.31"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Amérique du Nord",
+   "pct": "18.61"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Asie et pays émergents",
+   "pct": "8.39"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions Monde",
+   "pct": "6.81"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Instruments du marché monétaire",
+   "pct": "7.22"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash Net",
+   "pct": "12.90"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "86.72"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "13.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DNCA Finance",
+   "pct": "9.46"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Black rock",
+   "pct": "8.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lazard Asset Mngt",
+   "pct": "7.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi Asset Mngt",
+   "pct": "7.22"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oddo BHF AM SAS",
+   "pct": "6.93"
+  }
+ ]
+}

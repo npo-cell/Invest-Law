@@ -1,0 +1,2472 @@
+[
+ {
+  "n": 417,
+  "isin": "IE00B4Z6HC18",
+  "nom": "BNY MELLON GLOBAL REAL RETURN FUND EUR",
+  "maison": "BNY Mellon Fund Management (Lux) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BNY_MELLON_FUND_MANAGEMENT_LUX_S_A/IE00B4Z6HC18/IE00B4Z6HC18__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BNY_MELLON_FUND_MANAGEMENT_LUX_S_A/IE00B4Z6HC18/IE00B4Z6HC18__KID_FR_2026-09-28.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BNY_MELLON_FUND_MANAGEMENT_LUX_S_A/IE00B4Z6HC18/IE00B4Z6HC18__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BNY_MELLON_FUND_MANAGEMENT_LUX_S_A/IE00B4Z6HC18/IE00B4Z6HC18__KID_FR_2026-09-28.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00B4Z6HC18__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-03-08",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible international",
+   "compartiment": "BNY Mellon Global Funds, plc",
+   "gerants": "Aron Pataki / Nick Pope / Trevor Holder (Newton Investment Management)",
+   "encours": "833.82",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.61",
+   "sri": "3",
+   "indice": "EURIBOR 1 mois + 4 % par an",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "5.3",
+   "qualite": "A-",
+   "politique_fr": "Réaliser un rendement total supérieur à l’Indice de référence monétaire sur un horizon de placement de 3 à 5 ans.\n\nLe Fonds mesurera sa performance par rapport à l’EURIBOR à 1 mois +4 % par an (l’« Indice de référence monétaire »). L’Indice de référence monétaire est utilisé comme objectif parrapport auquel la performance du Fonds est mesurée sur 5 ans, avant commissions.\n\nLe Fonds est géré active",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 419,
+  "isin": "LU1502282632",
+  "nom": "CANDRIAM EQS L ROBOTIC & INNOVATIVE TECHNO C EUR",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CANDRIAM/LU1502282632/LU1502282632__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CANDRIAM/LU1502282632/LU1502282632__KID_FR_2026-02-18.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CANDRIAM/LU1502282632/LU1502282632__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/CANDRIAM/LU1502282632/LU1502282632__KID_FR_2026-02-18.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1502282632__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "3 573,45 M USD",
+    "note": "factsheet p.2 (30/09/2026) : « Total net assets (M USD) 3,573.45 »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "résumé rédigé en français ; la factsheet (en anglais) décrit la stratégie autrement ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques technologie",
+   "compartiment": "Candriam Equities L",
+   "gerants": "Johan Van Der Biest, Felix Demaeght, Nathaniel Wejchert",
+   "encours": "3512.58",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.94",
+   "sri": "5",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global Information Technology",
+   "politique_fr": "Le compartiment vise une croissance du capital en investissant dans des actions de sociétés du monde entier considérées comme bien positionnées pour tirer profit des évolutions des innovations technologiques. Fonds de conviction géré de manière discrétionnaire sur base d'analyses économico-financières, il sélectionne un nombre limité d'actions de toutes capitalisations selon deux piliers : une sél",
+   "politique_en": "Candriam Equities L Robotics and Innovative Technology (hereafter \"the fund\") is a sub-fund of the Candriam Equities L SICAV. The assets comprising this sub-fund will be primarily invested in equities and/or similar marketable securities issued by companies around the world, considered as being ideally positioned to benefit from innovations in technology and robotics (e.g. artificial intelligence,",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 420,
+  "isin": "LU0049341216",
+  "nom": "CANDRIAM MONEY MARKET C USD SUSTAINABLE",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0049341216/LU0049341216__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0049341216/LU0049341216__KID_FR_2026-04-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0049341216/LU0049341216__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0049341216/LU0049341216__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0049341216/LU0049341216__KID_FR_2026-04-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0049341216__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1990-07-16",
+   "devise": "USD",
+   "type_fonds": "Monétaire USD",
+   "compartiment": "Candriam Money Market",
+   "gerants": "Pierre Boyer, Elodie Brun, Benjamin Schoofs",
+   "encours": "79.62",
+   "frais_gestion": "0.5",
+   "frais_courants": "0.6",
+   "sri": "1",
+   "indice": "US Effective Federal Funds Rate",
+   "categorie": "Money Market Global",
+   "sfdr": "9",
+   "durable_pct": "55",
+   "qualite": "A+ (rating moyen LT) / A-1 (rating moyen CT)",
+   "politique_fr": "Candriam Money Market USD Sustainable (ci-après «le fonds»), un compartiment de la sicav Candriam Money Market, vise à procurer des rendements comparables à ceux du marché monétaire ou à préserver la valeur de l’investissement. L’objectif du fonds est de bénéficier de la performance du marché monétaire libellés principalement en USD, d’une maturité résiduelle inférieure à 397 jours ou dont le taux",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 421,
+  "isin": "LU0093583077",
+  "nom": "CANDRIAM MONEY MARKET EURO C EUR",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__KID_FR_2026-04-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU0093583077/LU0093583077__KID_FR_2026-04-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0093583077__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1990-07-15",
+   "devise": "EUR",
+   "type_fonds": "Monétaire EUR",
+   "compartiment": "Candriam Money Market",
+   "gerants": "Pierre Boyer, Elodie Brun, Benjamin Schoofs",
+   "encours": "2074.04",
+   "frais_gestion": "0.5",
+   "frais_courants": "0.6",
+   "sri": "1",
+   "indice": "€STER Capitalized index",
+   "categorie": "Money Market Global",
+   "sfdr": "8",
+   "durable_pct": "53",
+   "qualite": "A (rating moyen LT) / A-1 (rating moyen CT)",
+   "politique_fr": "Candriam Money Market Euro (ci-après «le fonds»), un compartiment de la sicav Candriam Money Market, vise à procurer des rendements comparables à ceux du marché monétaire et/ou à préserver la valeur de l’investissement. L’objectif du fonds est de bénéficier de la performance du marché des instruments du marché monétaire libellés principalement en EUR, d’une maturité résiduelle inférieure à 397 jou",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 422,
+  "isin": "LU1434527435",
+  "nom": "CANDRIAM SRI EQUITY WORLD C EUR",
+  "maison": "CANDRIAM LUXEMBOURG S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1434527435/LU1434527435__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1434527435/LU1434527435__KID_FR_2026-02-18.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1434527435/LU1434527435__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CANDRIAM_LUXEMBOURG_S_A/LU1434527435/LU1434527435__KID_FR_2026-02-18.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1434527435__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "2 020,61",
+    "note": "factsheet p.2 (30/09/2026) : « Actifs nets totaux (M EUR) 2 020,61 »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-03-23",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "compartiment": "Candriam Sustainable",
+   "gerants": "Bart Goosens, Dave Benichou, Sébastien Jallet, Erwin De Winter",
+   "encours": "2042.12",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.88",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "9",
+   "durable_pct": "54",
+   "politique_fr": "Candriam Sustainable Equity World (ci-après \"le fonds\"), un compartiment de la sicav Candriam Sustainable, investit dans le monde entier dans des actions de sociétés qui sont, au sein de leur secteur, les meilleures de leur univers en termes d'intégration réussie des préoccupations sociales, environnementales et de gouvernance d'entreprise dans leurs modèles d'entreprise et leur gestion des partie",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 423,
+  "isin": "LU1706177547",
+  "nom": "CAPERTINO SICAV FLEXIBLE ALLOCATION A EUR",
+  "maison": "IFP Investment Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU1706177547/LU1706177547__KID_FR_2025-02-14.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/IFP_INVESTMENT_MANAGEMENT_S_A/LU1706177547/LU1706177547__KID_FR_2025-02-14.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "categorie": "Mixed Asset Global Flexible",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 424,
+  "isin": "LU1006075656",
+  "nom": "CAPITAL GROUP GLOBAL ALLC (LUX) B EUR",
+  "maison": "Capital Group",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__KID_FR_2026-08-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1006075656/LU1006075656__KID_FR_2026-08-21.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1006075656__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2014-01-31",
+   "devise": "EUR",
+   "type_fonds": "Mixte international",
+   "compartiment": "Capital International Fund",
+   "gerants": "H.Applbaum, T.Tani, A.Samsi, A.Cormack, P.Chitty",
+   "encours": "1530",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.54",
+   "sri": "3",
+   "indice": "60% MSCI AC World Index (dividendes nets réinvestis) / 40% Bloomberg Global Aggregate Bond Total Return",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "durable_pct": "60",
+   "politique_fr": "Le fonds cherche à atteindre trois objectifs équilibrés: une croissance du capital à long terme, la conservation du principal et un revenu actuel en investissant en actions et obligations ainsi que dans d'autres titres à revenu fixe du monde entier. Il applique une politique de sélection négative (exclusion) basée sur des filtres « normatifs » et des critères ESG pour ses investissements en obliga",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 425,
+  "isin": "LU0110451209",
+  "nom": "CAPITAL GROUP GLOBAL HIGH INCOME OPP (LUX) B EUR",
+  "maison": "Capital Group",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__KID_FR_2026-07-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU0110451209/LU0110451209__KID_FR_2026-07-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0110451209__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "résumé français (titres en difficulté 10 %, levier 75 %, article 8…) ; la factsheet (en anglais) ne contient que l'objectif ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-01-15",
+   "devise": "EUR",
+   "type_fonds": "Obligations émergentes et haut rendement internationales",
+   "compartiment": "Capital International Fund",
+   "gerants": "L.Freitas de Oliveira, K.Spence, D.Daigle, S.Ward",
+   "encours": "2127",
+   "frais_gestion": "1.3",
+   "frais_courants": "1.4",
+   "sri": "3",
+   "indice": "50% Bloomberg US Corporate High Yield 2% Issuer Capped TR, 20% JPM EMBI TR, 20% JPM GBI-EM Global Diversified TR, 10% JPM CEMBI Broad Diversified TR",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "4.6",
+   "qualite": "BBB",
+   "politique_fr": "Le fonds vise à fournir, sur le long terme, un niveau de rendement total élevé, dont une large composante est le revenu courant. Il investit dans le monde entier essentiellement dans des obligations de marchés émergents et des obligations à haut rendement de sociétés, libellées en USD et dans différentes devises nationales (y compris des devises de marchés émergents), généralement cotées ou négoci",
+   "politique_en": "The fund seeks to provide, over the long term, a high level of total return, of which a large component is current income by investing primarily in emerging market bonds and corporate high yield bonds from around the world, denominated in USD and various national currencies (including emerging markets currencies). The fund also aims to manage a carbon footprint that is lower than its corporate ind",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 426,
+  "isin": "LU1295551144",
+  "nom": "CAPITAL GROUP NEW PERSPECTIVE FUND LUX B EUR",
+  "maison": "Capital Group",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1295551144/LU1295551144__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1295551144/LU1295551144__KID_FR_2026-10-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CAPITAL_GROUP/LU1295551144/LU1295551144__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1295551144/LU1295551144__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1295551144/LU1295551144__KID_FR_2026-10-05.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1295551144__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-10-30",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "compartiment": "Capital International Fund",
+   "gerants": "P.Collette, R.Lovelace, B.Enright, S.Watson, N.Chen, A.Razen, A.Avzaradel, A.Peterson, B.Burtin, K.Higashi",
+   "encours": "17256",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.59",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Ce fonds vise une croissance à long terme du capital, de manière à tirer parti des opportunités d’investissement liées à l’évolution des flux commerciaux internationaux et des relations économiques et politiques, en investissant dans des actions ordinaires de sociétés du monde entier, y compris sur les marchés émergents. L’empreinte carbone de ces investissements, pour lesquels le fonds applique u",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 428,
+  "isin": "LU0336083810",
+  "nom": "CARMIGNAC ASIA DISCOVERY A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0336083810/LU0336083810__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0336083810/LU0336083810__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/LU0336083810/LU0336083810__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/LU0336083810/LU0336083810__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0336083810__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "255",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 255M€ / 289M$ » (part : 152M€)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-12-14",
+   "devise": "EUR",
+   "type_fonds": "Actions Asie émergente (hors Chine)",
+   "compartiment": "Asia Discovery",
+   "gerants": "Naomi Waistell",
+   "encours": "257",
+   "sri": "4",
+   "indice": "MSCI EM Asia Ex-China IMI 10/40 Capped NR",
+   "classification": "Dynamique",
+   "categorie": "Equity Asia ex Japan Emerging Markets",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Portfolio Asia Discovery est un fonds actions investi sur les marchés asiatiques hors Chine (UCITS) ayant un biais sur les petites et moyennes capitalisations. Le Fonds explore les opportunités de ces marchés sous-exploités, en identifiant des entreprises de qualité, capables de générer et de capitaliser leurs revenus sur le long terme. L'objectif du Fonds est de surperformer son indicat",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 429,
+  "isin": "FR0010149161",
+  "nom": "CARMIGNAC COURT TERME A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149161/FR0010149161__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010149161/FR0010149161__Factsheet-hebdo_FR_2026-10-07.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010149161/FR0010149161__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010149161__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1 146,52",
+    "note": "reporting p.1 (valorisation 01/10/2026) : « Encours total 1146516573.6 » EUR ; encours de la part 1 136 166 049,51"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé (€STER, WAM 60 j, WAL 120 j, article 8…) absent du reporting d'une page"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1989-01-26",
+   "devise": "EUR",
+   "type_fonds": "Monétaire euro",
+   "encours": "1156",
+   "sri": "1",
+   "indice": "€STER Capitalized index",
+   "classification": "Défensif",
+   "categorie": "Money Market Europe",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Le MMF n’est pas un placement garanti.",
+   "politique_fr": "Carmignac Court Terme est un fonds monétaire de droit français géré par Carmignac. Il relève de la catégorie des fonds monétaires court terme à valeur liquidative variable au sens du règlement européen sur les fonds monétaires. Il cherche à faire mieux que son indice de référence, l'€STER capitalisé, c'est-à-dire le taux auquel les banques de la zone euro se prêtent de l'argent au jour le jour, ap",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 430,
+  "isin": "FR00140081Y1",
+  "nom": "CARMIGNAC CREDIT 2027 A EUR (FMB)",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR00140081Y1/FR00140081Y1__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR00140081Y1/FR00140081Y1__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR00140081Y1/FR00140081Y1__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR00140081Y1/FR00140081Y1__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR00140081Y1__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2022-05-02",
+   "devise": "EUR",
+   "type_fonds": "Obligations à échéance (crédit)",
+   "gerants": "Pierre Verlé, Alexandre Deneuville, Florian Viros",
+   "encours": "1040",
+   "sri": "2",
+   "classification": "Défensif",
+   "categorie": "Bond Global Target Maturity 2020+",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Credit 2027 est un fonds obligataire à échéance (UCITS) mettant en œuvre une stratégie de portage sur les marchés du crédit. Grâce à une indication de performance cible, une date de maturité préétablie et une sélection rigoureuse et diversifiée des émetteurs, le Fonds offre aux investisseurs de la visibilité sur leur placement.\n\nCarmignac Credit 2027 cherche à offrir une appréciation du ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 431,
+  "isin": "FR001400KAV4",
+  "nom": "CARMIGNAC CREDIT 2029 A EUR (FMB)",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400KAV4/FR001400KAV4__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400KAV4/FR001400KAV4__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR001400KAV4/FR001400KAV4__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR001400KAV4/FR001400KAV4__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400KAV4__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2023-10-20",
+   "devise": "EUR",
+   "type_fonds": "Obligations à échéance (crédit)",
+   "gerants": "Pierre Verlé, Alexandre Deneuville, Florian Viros",
+   "encours": "1780",
+   "sri": "2",
+   "classification": "Défensif",
+   "categorie": "Bond Global Target Maturity 2020+",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Credit 2029 est un Fonds obligataire à échéance (UCITS) mettant en œuvre une stratégie de portage sur les marchés du crédit. Grâce à un objectif de performance cible, une date de maturité préétablie et une sélection rigoureuse et diversifiée des émetteurs, le Fonds offre aux investisseurs de la visibilité sur leur placement.\n\nCarmignac Credit 2029 a un objectif de performance annualisée ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 432,
+  "isin": "FR001400U4S3",
+  "nom": "CARMIGNAC CREDIT 2031 A EUR (FMB)",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400U4S3/FR001400U4S3__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400U4S3/FR001400U4S3__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR001400U4S3/FR001400U4S3__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR001400U4S3/FR001400U4S3__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400U4S3__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1516",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 1516M€ » ; « Encours de la part : 1127M€ »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-12-31",
+   "devise": "EUR",
+   "type_fonds": "Obligations à échéance (crédit)",
+   "gerants": "Pierre Verlé, Florian Viros, Alexandre Deneuville",
+   "encours": "1539",
+   "sri": "2",
+   "classification": "Défensif",
+   "categorie": "Majoritairement obligations",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Credit 2031 est un Fonds obligataire à échéance (UCITS) mettant en œuvre une stratégie de portage sur les marchés du crédit. Grâce à un objectif de performance cible, une date de maturité préétablie et une sélection rigoureuse et diversifiée des émetteurs, le Fonds offre aux investisseurs de la visibilité sur leur placement.\n\nCarmignac Credit 2031 a un objectif de performance annualisée ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 433,
+  "isin": "FR0010149302",
+  "nom": "CARMIGNAC EMERGENTS A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149302/FR0010149302__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149302/FR0010149302__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010149302/FR0010149302__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010149302/FR0010149302__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010149302__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1565",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 1565M€ » ; « Encours de la part : 1503M€ »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1997-02-03",
+   "devise": "EUR",
+   "type_fonds": "Actions Marchés Emergents",
+   "gerants": "Xavier Hovasse, Naomi Waistell",
+   "encours": "1500",
+   "sri": "4",
+   "indice": "MSCI EM NR USD",
+   "categorie": "Equity Global Emerging Markets",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Emergents est un fonds actions émergentes (UCITS) combinant une approche fondamentale des pays et une sélection rigoureuse des titres afin d’identifier les opportunités à fort potentiel de croissance sur le long terme au sein des marchés émergents. Le Fonds a pour objectif de surperformer son indicateur de référence, sur une durée supérieure à cinq ans. L'objectif d’investissement durabl",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 435,
+  "isin": "FR0010148981",
+  "nom": "CARMIGNAC INVESTISSEMENT A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010148981/FR0010148981__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010148981/FR0010148981__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010148981/FR0010148981__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010148981/FR0010148981__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010148981__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "5420",
+    "note": "factsheet p.1 (30/09/2026) : « Actifs sous gestion du Fonds : 5420M€ » ; « Encours de la part : 4395M€ »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1989-01-26",
+   "devise": "EUR",
+   "type_fonds": "Actions international Grandes Capitalisations Croissance",
+   "gerants": "Kristofer Barrett",
+   "encours": "4376",
+   "frais_gestion": "1.8",
+   "frais_courants": "1.8",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Investissement est un fonds actions internationales UCITS, sans contrainte sectorielle, géographique ni de style de gestion. Le Fonds investit dans des entreprises qui créent de la valeur à travers le monde grâce à l'innovation, la technologie et/ou à une offre de produits différenciés, tout en maintenant une approche disciplinée en matière de valorisation. Il vise à surperformer son ind",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 437,
+  "isin": "FR0010149203",
+  "nom": "CARMIGNAC MULTI EXPERTISE A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149203/FR0010149203__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010149203/FR0010149203__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010149203/FR0010149203__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010149203/FR0010149203__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010149203__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "208 M€",
+    "note": "factsheet p.1 : « Encours de la part : 208M€ » ; pas d'encours du fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2002-01-02",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Multi-actifs mondial (fonds de fonds)",
+   "gerants": "Pierre-Edouard Bonenfant",
+   "encours": "211",
+   "sri": "3",
+   "indice": "20 € STR capitalisé Jour TR EUR, 40%, ICE Boga Gbl TR USD, 40% MSCI ACWI NR USD",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Multi Expertise est un fonds UCITS diversifié investi dans une sélection de fonds actions, obligataires et alternatifs de Carmignac. Le Fonds vise à tirer parti de l’expertise de Carmignac à travers les différentes classes d’actifs, tout en maintenant en permanence jusqu’à 65 % de ses actifs exposés à des fonds actions. Il a pour objectif de surperformer son indicateur de référence sur u",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 438,
+  "isin": "FR0010135103",
+  "nom": "CARMIGNAC PATRIMOINE A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010135103/FR0010135103__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/FR0010135103/FR0010135103__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010135103/FR0010135103__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/FR0010135103/FR0010135103__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010135103__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "5938 M€",
+    "note": "factsheet p.1 : « Encours de la part : 5938M€ »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1989-11-07",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Multi-actifs mondial",
+   "gerants": "Eliezer Ben Zimra, Guillaume Rigeade ,Jacques Hirsch, Kristofer Barrett",
+   "encours": "5935",
+   "sri": "3",
+   "indice": "20 € STR capitalisé Jour TR EUR, 40%, ICE Boga Gbl TR USD, 40% MSCI ACWI NR USD",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Flexible",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Patrimoine est un fonds UCITS diversifié international offrant une exposition aux actions (jusqu’à 50 %), aux marchés obligataires et aux devises. Son approche dynamique et flexible vise à optimiser l’allocation d’actifs dans différents environnements de marché, afin de saisir des opportunités d’investissement attractives tout en assurant la résilience du portefeuille en périodes de stre",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 442,
+  "isin": "LU0336083497",
+  "nom": "CARMIGNAC PORTFOLIO GLOBAL BOND A EUR ACC",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0336083497/LU0336083497__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0336083497/LU0336083497__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/LU0336083497/LU0336083497__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/LU0336083497/LU0336083497__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0336083497__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "209 M€",
+    "note": "p.1 : « Encours de la part : 209M€ » ; pas d'encours du fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-12-14",
+   "devise": "EUR",
+   "type_fonds": "Global Flexible Bond",
+   "compartiment": "Global Bond",
+   "gerants": "Guillaume Rigeade",
+   "encours": "519",
+   "sri": "2",
+   "indice": "JPM GBI Global TR EUR",
+   "classification": "Défensif",
+   "categorie": "Bond Global",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Portfolio Global Bond est un fonds obligataire international (UCITS) qui met en œuvre des stratégies de taux, de crédit et de change afin d’exploiter les opportunités offertes par le cycle macroéconomique global. Son approche dynamique et flexible lui permet de déployer une allocation de conviction et « non benchmarkée » pour tirer pleinement parti des multiples moteurs de performance qu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 444,
+  "isin": "LU2715954504",
+  "nom": "CARMIGNAC PORTFOLIO INFLATION SOLUTION A EUR",
+  "maison": "Carmignac Gestion Luxembourg",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954504/LU2715954504__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954504/LU2715954504__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954504/LU2715954504__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION_LUXEMBOURG/LU2715954504/LU2715954504__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2715954504__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-12-15",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Multi-actifs (protection contre l'inflation)",
+   "compartiment": "Inflation Solution",
+   "gerants": "Frédéric Leroux, Pierre-Edouard Bonenfant",
+   "encours": "42",
+   "sri": "3",
+   "indice": "Eurostat Euro HICP hors tabac",
+   "classification": "Equilibré",
+   "categorie": "Mixte",
+   "durable_pct": "6",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Portfolio Inflation Solution est un fonds UCITS multi-actifs exposé à un large éventail de classes d’actifs traditionnelles, intégrant des actifs sensibles à l’inflation tels que les matières premières et des instruments indexés à l’inflation, y compris des swaps d’inflation. La construction du portefeuille vise à maintenir une corrélation positive avec l’inflation tout en mettant en œuv",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 445,
+  "isin": "LU1744628287",
+  "nom": "CARMIGNAC PORTFOLIO PATRIMOINE EUROPE A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU1744628287/LU1744628287__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU1744628287/LU1744628287__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/LU1744628287/LU1744628287__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/LU1744628287/LU1744628287__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1744628287__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-12-29",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Multi-actifs Europe",
+   "compartiment": "Patrimoine Europe",
+   "gerants": "Frédéric Jeanmaire, Jacques Hirsch",
+   "encours": "473",
+   "sri": "3",
+   "indice": "40% MSCI Europe NR index + 40% ICE BofA All Maturity All Euro Government index + 20% €STR capitalisé Index",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Europe Balanced",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Portfolio Patrimoine Europe est un fonds durable et diversifié UCITS investi en obligations, en actions (avec une exposition pouvant aller jusqu’à 50 %) et en devises européennes. Son approche dynamique et flexible vise à optimiser l’allocation d’actifs dans différents environnements de marché, afin de saisir des opportunités d’investissement attractives tout en assurant la résilience du",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 447,
+  "isin": "LU0592698954",
+  "nom": "CARMIGNAC PTF EMERGING PATRIMOINE A EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0592698954/LU0592698954__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0592698954/LU0592698954__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/LU0592698954/LU0592698954__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/LU0592698954/LU0592698954__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0592698954__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "232 M€",
+    "note": "p.1 : « Encours de la part : 232M€ » ; pas d'encours du fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2011-03-31",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Multi-actifs émergents",
+   "compartiment": "Emerging Patrimoine",
+   "gerants": "Xavier Hovasse, Lamine Bougueroua",
+   "encours": "379",
+   "sri": "3",
+   "indice": "40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR capitalisé Index",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Emerging Markets Flexible",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Portfolio Emerging Patrimoine est un fonds durable et diversifié UCITS dédié aux marchés émergents, combinant trois moteurs de performance : les actions, les obligations et les devises. Son approche dynamique et flexible vise à optimiser l’allocation d’actifs dans différents environnements de marché, afin de saisir des opportunités d’investissement attractives tout en assurant la résilie",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 448,
+  "isin": "LU1317704051",
+  "nom": "CARMIGNAC PTF LONG-SHORT EUROPEAN EQ A EUR",
+  "maison": "WHITE CREEK CAPITAL LLP",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WHITE_CREEK_CAPITAL_LLP/LU1317704051/LU1317704051__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WHITE_CREEK_CAPITAL_LLP/LU1317704051/LU1317704051__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WHITE_CREEK_CAPITAL_LLP/LU1317704051/LU1317704051__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/WHITE_CREEK_CAPITAL_LLP/LU1317704051/LU1317704051__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1317704051__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-11-19",
+   "devise": "EUR",
+   "type_fonds": "Performance absolue actions (long/short Europe)",
+   "compartiment": "Long-Short European Equities",
+   "gerants": "Malte Heininger",
+   "encours": "852",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Alternative Europe Equity Long/Short",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Le Fonds présente un risque de perte en capital. Veuillez vous référer au KID/prospectus avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Carmignac Portfolio Long-Short European Equities est un fonds alternatif (UCITS) mettant en œuvre une stratégie actions long/short fondée sur l’analyse fondamentale, dont l’exposition nette aux actions est gérée activement entre –20 % et 50 %. Les positions courtes sont mises en œuvre exclusivement au moyen d’instruments dérivés. Le processus d'investissement repose sur une analyse approfondie des",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 453,
+  "isin": "IE00B65D2871",
+  "nom": "COMGEST GROWTH EMERGING MARKETS R EUR",
+  "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B65D2871/IE00B65D2871__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B65D2871/IE00B65D2871__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B65D2871/IE00B65D2871__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B65D2871/IE00B65D2871__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00B65D2871__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-06-15",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Equity Fund, Emerging Markets",
+   "compartiment": "Comgest Growth Emerging Markets R EUR",
+   "encours": "141.3",
+   "frais_gestion": "2",
+   "frais_courants": "2.07",
+   "sri": "6",
+   "indice": "MSCI Emerging Markets Daily Net TR EUR",
+   "categorie": "Equity Global Emerging Markets",
+   "politique_fr": "L’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés de croissance sur le long terme et de qualité. Le Fonds investira au moins deux tiers de ses actifs dans des titres émis par des sociétés cotées ou négociées sur des marchés réglementés et",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 454,
+  "isin": "IE00B6X8T619",
+  "nom": "COMGEST GROWTH EUROPE R EUR",
+  "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B6X8T619/IE00B6X8T619__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B6X8T619/IE00B6X8T619__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B6X8T619/IE00B6X8T619__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00B6X8T619/IE00B6X8T619__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00B6X8T619__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-04-02",
+   "devise": "EUR",
+   "gerants": "Comgest Asset Management International Limited (CAMIL), Comgest S.A. (CSA)",
+   "encours": "1581.7",
+   "frais_gestion": "2",
+   "frais_courants": "2.09",
+   "indice": "MSCI Europe Net Total Return Index",
+   "categorie": "Equity Europe",
+   "politique_fr": "L’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés de croissance sur le long terme et de qualité. Le Fonds investira au moins deux tiers de ses actifs dans des titres émis par des sociétés ayant leur siège social ou exerçant principalement",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 455,
+  "isin": "IE000CQAZ1P1",
+  "nom": "COMGEST GROWTH GLOBAL COMPOUNDERS R EUR",
+  "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE000CQAZ1P1/IE000CQAZ1P1__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE000CQAZ1P1/IE000CQAZ1P1__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE000CQAZ1P1/IE000CQAZ1P1__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE000CQAZ1P1/IE000CQAZ1P1__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE000CQAZ1P1__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2025-01-31",
+   "devise": "EUR",
+   "encours": "71.6",
+   "frais_gestion": "1.8",
+   "frais_courants": "1.9",
+   "indice": "MSCI ACWI NR EUR",
+   "politique_fr": "Stratégie qualité croissance\n\nAccent mis sur la croissance bénéficiaire à long terme\n\nApproche collégiale\n\nL’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d’investissements dans un portefeuille de sociétés internationales et diversifiées de haute qualité et de croissance sur le long ter",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 456,
+  "isin": "IE00BD5HXK71",
+  "nom": "COMGEST GROWTH GLOBAL R EUR",
+  "maison": "COMGEST ASSET MANAGEMENT INTERNATIONAL LTD",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BD5HXK71/IE00BD5HXK71__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BD5HXK71/IE00BD5HXK71__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BD5HXK71/IE00BD5HXK71__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/COMGEST_ASSET_MANAGEMENT_INTERNATIONAL_LTD/IE00BD5HXK71/IE00BD5HXK71__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BD5HXK71__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2014-01-21",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Equity Fund, Global Growth",
+   "compartiment": "Comgest Growth Global EUR",
+   "encours": "515.3",
+   "frais_gestion": "2",
+   "frais_courants": "2.08",
+   "sri": "6",
+   "indice": "MSCI ACWI NR EUR",
+   "categorie": "Equity Global",
+   "politique_fr": "L’objectif du Compartiment (\"le Fonds\") est d’accroître sa valeur (appréciation du capital) sur le long terme. Le Fonds entend atteindre cet objectif au travers d'investissements dans un portefeuille de sociétés de croissance sur le long terme, internationales et diversifiées. Le Fonds investira dans des actions et des actions privilégiées émises par des sociétés internationales cotées ou négociée",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 457,
+  "isin": "FR0000284689",
+  "nom": "COMGEST MONDE C EUR",
+  "maison": " Pacific Capital Partners Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PACIFIC_CAPITAL_PARTNERS_LIMITED/FR0000284689/FR0000284689__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PACIFIC_CAPITAL_PARTNERS_LIMITED/FR0000284689/FR0000284689__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PACIFIC_CAPITAL_PARTNERS_LIMITED/FR0000284689/FR0000284689__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PACIFIC_CAPITAL_PARTNERS_LIMITED/FR0000284689/FR0000284689__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0000284689__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1991-06-27",
+   "devise": "EUR",
+   "encours": "1928",
+   "frais_gestion": "2",
+   "frais_courants": "2.08",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "categorie": "Equity Global",
+   "politique_fr": "L’objectif de la gestion de la SICAV (\"le Fonds\") est de rechercher une performance sans référence à un indice, dans une optique long terme au travers d’une sélection de titres basée sur des critères liés à l'entreprise et non aux marchés boursiers. La SICAV est à tout moment investie et/ou exposée à hauteur de 60% minimum en actions internationales.\n\nLe Fonds est géré de manière dynamique. L'indi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 458,
+  "isin": "LU1846741905",
+  "nom": "CONVICTION PATRIMOINE ASSET GBL CONVICTION B EUR",
+  "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "categorie": "Mixed Asset Global Balanced",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 459,
+  "isin": "FR0010097667",
+  "nom": "CPR CROISSANCE DÉFENSIVE P EUR",
+  "maison": "CPR Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__KID_FR_2026-03-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/FR0010097667/FR0010097667__KID_FR_2026-03-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010097667__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet (4 p.) : ni « FCP » ni « OPCVM » ; seulement « Classification AMF : Non applicable » ; pas de KID fourni"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche ; pas de « protection contre les aléas » ni « Lire le DIC »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1998-07-10",
+   "devise": "EUR",
+   "type_fonds": "Fonds de fonds diversifié international défensif (majoritairement taux)",
+   "compartiment": "FCP de droit français (OPCVM)",
+   "gerants": "Steve Chan Tat Chuen, Zakaria Darouich",
+   "encours": "143.1",
+   "frais_courants": "1.51",
+   "sri": "2",
+   "indice": "100% ESTR capitalisé (OIS)",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Conservative",
+   "sfdr": "8",
+   "duration": "3.71",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le produit ne prévoit pas de protection contre les aléas de marché : vous pourriez perdre tout ou partie de votre investissement. Lire le DIC avant toute souscription.",
+   "politique_fr": "Fonds diversifié international, son objectif de gestion est d'obtenir sur 2 ans minimum une performance supérieure à son indice de référence avec une volatilité maximale prévisionnelle de 7%.\n\nL'exposition actions du portefeuille oscille entre -10% et 30% et le fonds est limité à une exposition de 40% maximum aux actifs risqués tel que défini dans son prospectus. La sensibilité taux du portefeuill",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 460,
+  "isin": "LU2570611322",
+  "nom": "CPR INVEST EUROPEAN STRATEGIC AUTONOMY A EUR",
+  "maison": "CPR Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__KID_FR_2026-09-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__KID_FR_2026-09-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2570611322__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte recomposé : éléments épars (p.1 « Le capital et/ou le rendement n'est (ne sont) pas garanti(s) », « vous pourriez perdre tout ou partie de votre investissement », « Avant toute souscription, veuillez prendre connaissance du Document d'Informations Clés et du prospectus ») mais pas la formulation du classeur"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-03-28",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes thématiques (autonomie stratégique européenne)",
+   "compartiment": "CPR Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "1132.16",
+   "frais_courants": "1.96",
+   "sri": "4",
+   "indice": "MSCI EMU NR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le capital n'est pas garanti : vous pourriez perdre tout ou partie de votre investissement. Veuillez lire le DIC et le prospectus avant toute souscription.",
+   "politique_fr": "L’objectif d’investissement est de surperformer les marchés d’actions européens sur la période de détention recommandée (au moins cinq ans) en investissant dans des actions impliquées dans des secteurs stratégiques qui contribuent à l’autonomie et à la résilience de l’Europe. À cette fin, le Compartiment vise à sélectionner des titres de sociétés actives dans des secteurs économiques qui ont un li",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 461,
+  "isin": "LU1530899142",
+  "nom": "CPR INVEST GLOBAL DISRUPTIVE OPP A EUR",
+  "maison": "CPR Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1530899142/LU1530899142__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1530899142/LU1530899142__KID_FR_2026-09-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1530899142/LU1530899142__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1530899142/LU1530899142__KID_FR_2026-09-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1530899142__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-12-22",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (disruption)",
+   "compartiment": "CPR Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Guillaume Uettwiller, Alexandre Blein",
+   "encours": "2737.03",
+   "frais_courants": "2.3",
+   "sri": "5",
+   "indice": "MSCI World Growth Net Return",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le capital n'est pas garanti : vous pourriez perdre tout ou partie de votre investissement. Veuillez lire le DIC et le prospectus avant toute souscription.",
+   "politique_fr": "L'objectif de gestion de CPR Invest - Global Disruptive Opportunities consiste à surperformer les marchés actions internationaux sur le long terme, 5 ans minimum, en investissant dans des actions de sociétés qui instaurent ou bénéficient - totalement ou partiellement - de modèles économiques disruptifs.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 462,
+  "isin": "LU2389405163",
+  "nom": "CPR INVEST HYDROGEN A2 EUR",
+  "maison": "CPR Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2389405163/LU2389405163__KID_FR_2026-09-04.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2389405163/LU2389405163__Factsheet_FR_2024-06-30.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2389405163/LU2389405163__KID_FR_2026-09-04.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2389405163__site.pdf",
+  "probleme_document": "factsheet de la part A EUR (LU2389405080)",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; la factsheet ne mentionne ni la catégorie A2 ni cette formulation ; stratégie p.1 : « L'objectif du compartiment consiste à surperformer les marchés d'actions mondiaux... l'économie de l'hydrogène »"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (hydrogène)",
+   "compartiment": "CPR Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Alexandre Cornu, Gaël Des Prez de la Morlais",
+   "encours": "586.76",
+   "frais_courants": "2.15",
+   "sri": "4",
+   "indice": "MSCI ACWI",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Alternative Energy",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le capital n'est pas garanti : vous pourriez perdre tout ou partie de votre investissement. Veuillez lire le DIC et le prospectus avant toute souscription.",
+   "politique_fr": "CPR Invest - Hydrogen est un compartiment de CPR Invest, SICAV de droit luxembourgeois ayant la qualité d'OPCVM, géré par CPR Asset Management, membre du groupe Amundi. La catégorie d'actions A2 EUR Acc est une part de capitalisation libellée en euros.L'objectif est de surperformer les marchés boursiers mondiaux sur la période de détention recommandée (au moins cinq ans) en investissant dans des a",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 463,
+  "isin": "LU1103787690",
+  "nom": "CPR INVEST REACTIVE A EUR",
+  "maison": "CPR Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103787690/LU1103787690__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103787690/LU1103787690__KID_FR_2026-06-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103787690/LU1103787690__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103787690/LU1103787690__KID_FR_2026-06-17.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1103787690__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-08-29",
+   "devise": "EUR",
+   "type_fonds": "Diversifié international flexible (nourricier de CPR Croissance Réactive)",
+   "compartiment": "CPR Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Samir Saadi",
+   "encours": "63.25",
+   "frais_courants": "2.3",
+   "sri": "3",
+   "indice": "100% ESTR capitalisé (OIS)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "2.95",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le capital n'est pas garanti : vous pourriez perdre tout ou partie de votre investissement. Veuillez lire le DIC et le prospectus avant toute souscription.",
+   "politique_fr": "Ce compartiment diversifié international vise à obtenir sur 4 ans minimum, une performance supérieure à son indice de référence avec une volatilité maximale prévisionnelle de 15%. L'exposition actions du portefeuille oscille entre 20% et 80% et sa sensibilité taux entre -2 et +5. Le compartiment est nourricier du FCP de droit français CPR Croissance Réactive.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 464,
+  "isin": "LU1103786700",
+  "nom": "CPR INVEST SILVER AGE A EUR",
+  "maison": "CPR Asset Management",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103786700/LU1103786700__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103786700/LU1103786700__KID_FR_2026-09-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103786700/LU1103786700__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103786700/LU1103786700__KID_FR_2026-09-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1103786700__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet : titre « CPR INVEST - SILVER AGE », « Le compartiment est nourricier du FCP de droit français CPR Silver Age » ; ni SICAV, ni Luxembourg, ni OPCVM"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun gérant nommé dans les 4 pages (vérifié sur images)"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; p.1 « Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures » seule phrase proche ; p.2 « le capital investi n'est pas garanti »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-08-29",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes thématiques (vieillissement de la population)",
+   "compartiment": "CPR Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Eric Labbé, Nicolas Picard",
+   "encours": "113.77",
+   "frais_courants": "2.15",
+   "sri": "4",
+   "indice": "100% MSCI Europe",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Le capital n'est pas garanti : vous pourriez perdre tout ou partie de votre investissement. Veuillez lire le DIC et le prospectus avant toute souscription.",
+   "politique_fr": "L'objectif de gestion du compartiment consiste à obtenir une performance supérieure à celle des marchés actions européens sur le long terme, 5 ans minimum, en tirant parti de la dynamique des valeurs européennes liées au vieillissement de la population. A titre de diversification, le fonds pourra, dans la limite de 25%, investir sur des valeurs d'autres zones géographiques. Le compartiment est nou",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 468,
+  "isin": "LU1694789451",
+  "nom": "DNCA INVEST ALPHA BONDS A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1694789451/LU1694789451__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1694789451/LU1694789451__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1694789451/LU1694789451__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1694789451/LU1694789451__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1694789451/LU1694789451__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1694789451__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-12-14",
+   "devise": "EUR",
+   "type_fonds": "Global Flexible Bond",
+   "compartiment": "DNCA ALPHA BONDS",
+   "gerants": "Pascal Gilbert, François Collet, Fabien Georges, Paul Lentz, Thibault Chrapaty, Guillaume Fradin",
+   "encours": "33099",
+   "sri": "2",
+   "indice": "€STR + 1,40 %",
+   "classification": "Défensif",
+   "categorie": "Bond Global Absolute Return",
+   "durable_pct": "52",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le Compartiment cherche à fournir, tout au long de la période d’investissement recommandée de plus de 3 ans, une performance supérieure, nette de tous frais, à celle de l’indice €STR plus 1,40%. Cet objectif de performance est recherché en l’associant à une volatilité annuelle inférieure à 5 % dans des conditions normales de marché.\n\nPour atteindre son objectif d’investissement, la stratégie d’inv",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 469,
+  "isin": "LU1907594748",
+  "nom": "DNCA INVEST BEYOND ALTEROSA A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1907594748/LU1907594748__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1907594748__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "164 M€",
+    "note": "p.1 « Actif net (m€) 164 »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-12-17",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Multi-actifs (actions + obligataire)",
+   "compartiment": "sous-fonds de la SICAV luxembourgeoise \"DNCA Invest\"",
+   "gerants": "Romain Avice, David Tissandier, Nolwenn Le Roux (CFA) et Florent Eyroulet.",
+   "encours": "162",
+   "sri": "2",
+   "indice": "30% MSCI ACWI NR EUR, 70% Bloomberg Pan-Euro Corp Hdg TR EUR",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Balanced",
+   "durable_pct": "54",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice MSCI World All Countries World Net Return (30 %) + l’indice Bloomberg Barclays Pan European Corporate Euro Hedged (70 %), calculé dividendes réinvestis, sur la période recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvern",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 470,
+  "isin": "LU2254337392",
+  "nom": "DNCA INVEST BEYOND CLIMATE A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU2254337392/LU2254337392__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU2254337392/LU2254337392__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU2254337392/LU2254337392__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU2254337392/LU2254337392__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU2254337392/LU2254337392__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2254337392__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2021-02-09",
+   "devise": "EUR",
+   "type_fonds": "Actions Secteur Ecologie",
+   "gerants": "Romain Avice et Florent Eyroulet",
+   "encours": "465",
+   "sri": "4",
+   "indice": "Euro STOXX NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "durable_pct": "9",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice Euro Stoxx NR (ticker Bloomberg: SXXT Index) libellés en euros et calculé dividendes nets réinvestis, sur la durée d’investissement recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux / sociétaux et de gouvernance (ESG). La stratégie d’investi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 471,
+  "isin": "LU1907595398",
+  "nom": "DNCA INVEST BEYOND SEMPEROSA A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1907595398/LU1907595398__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1907595398/LU1907595398__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1907595398/LU1907595398__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1907595398/LU1907595398__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1907595398/LU1907595398__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1907595398__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "377 M€",
+    "note": "p.1 « Actif net (m€) 377 »"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID (p.5 : seulement alignement taxonomie 15,7%, fonds article 9)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-12-17",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe Grandes Capitalisations Croissance",
+   "compartiment": "sous-fonds de la SICAV luxembourgeoise \"DNCA Invest\"",
+   "gerants": "Romain Avice, Florent Eyroulet",
+   "encours": "372",
+   "sri": "4",
+   "indice": "Euro STOXX NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "durable_pct": "61",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice libellé en euros Euro Stoxx NR (ticker Bloomberg: SXXT Index) libellés en euros et calculé dividendes nets de retenues, sur la durée d’investissement recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG). La phi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 472,
+  "isin": "LU0284393930",
+  "nom": "DNCA INVEST CREDIT CONVICTION A EUR",
+  "maison": "DNCA FINANCE LUXEMBOURG",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393930/LU0284393930__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393930/LU0284393930__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393930/LU0284393930__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393930/LU0284393930__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE_LUXEMBOURG/LU0284393930/LU0284393930__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0284393930__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "2377 M€",
+    "note": "p.1 « Actif net (m€) 2 377 »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-04-14",
+   "devise": "EUR",
+   "type_fonds": "Obligataire Crédit",
+   "compartiment": "sous-fonds de la SICAV luxembourgeoise \"DNCA Invest\"",
+   "gerants": "Ismaël Lecanu, Jean-Marc Frelet (CFA), Nolwenn Le Roux (CFA), Baptiste Planchard (CFA)",
+   "encours": "2360",
+   "sri": "2",
+   "indice": "Bloomberg Euro Agg Corps TR EUR",
+   "classification": "Défensif",
+   "categorie": "Majoritairement obligations",
+   "durable_pct": "46",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "L’objectif d’investissement du Compartiment est de maximiser le rendement total à partir d’une combinaison de croissance du revenu et du capital en investissant dans des titres à revenu fixe. Le Compartiment cherche à surperformer l’indice Bloomberg Euro-Aggregate Corporate (ticker Bloomberg : LECPTREU Index) sur la période d’investissement préconisée. Pour atteindre son objectif d’investissement,",
+   "politique_en": "The Sub-Fund’s investment objective is to maximize the total return from a combination of income and capital growth by investing in fixed income securities. The Sub-Fund seeks to outperform the Bloomberg Euro-Aggregate Corporate Index (Bloomberg ticker: LECPTREU Index) on the recommended investment period. To achieve its investment objective, the investment strategy is based on active discretionar",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 473,
+  "isin": "LU1515062757",
+  "nom": "DNCA INVEST EUROPE GROWTH IG EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1515062757/LU1515062757__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1515062757/LU1515062757__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1515062757/LU1515062757__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1515062757/LU1515062757__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1515062757/LU1515062757__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1515062757__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "674 M€",
+    "note": "p.1 « Net assets (€M) 674 »"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation absente ; le document (anglais) dit « Past performance is not a reliable indicator of future performance » et « risk of loss of capital »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-01-31",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe, Croissance européenne",
+   "compartiment": "sous-fonds de la SICAV luxembourgeoise \"DNCA Invest\"",
+   "gerants": "Carl Auffret (CFA), Alexandre Steenman, Ronan Poupon, Kevin Tran",
+   "encours": "668",
+   "sri": "4",
+   "indice": "STOXX Europe 600 NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "durable_pct": "57",
+   "disclaimer": "Les rendements cités ont trait aux années écoulées et ne constituent pas un indicateur fiable du rendement futur. Ce fonds présente un risque de perte en capital.",
+   "politique_fr": "L’objectif du Compartiment est de surperformer les marchés d’actions paneuropéens sur la période d’investissement recommandée (5 ans). L’indicateur de référence STOXX EUROPE 600 Net Return EUR, calculé dividendes réinvestis, est fourni à des fins de comparaison a posteriori. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères en",
+   "politique_en": "The Sub-Fund’s objective is to outperform Pan-European equity markets over the recommended investment period (5 years). The STOXX EUROPE 600 Net Return EUR reference indicator, calculated with dividends reinvested, is provided for a posteriori comparison purposes. Investors’ attention is drawn to the fact that the management style is discretionary and integrates environmental, social / societal an",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 474,
+  "isin": "LU0284394235",
+  "nom": "DNCA INVEST EUROSE A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU0284394235/LU0284394235__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU0284394235/LU0284394235__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU0284394235/LU0284394235__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU0284394235/LU0284394235__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0284394235__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun pourcentage d'investissements durables dans la factsheet (texte et page ESG vérifiés) ; pas de KID"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation absente ; le document dit « Les performances passées ne sont pas un indicateur fiable des performances futures » et « risque de perte en capital »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-09-28",
+   "devise": "EUR",
+   "type_fonds": "Diversifié / Mixte patrimonial",
+   "compartiment": "Eurose",
+   "gerants": "Romain Grandis (CFA), Damien Lanternier (CFA), Adrien Le Clainche, Nicolas Coulon",
+   "encours": "6001",
+   "sri": "2",
+   "indice": "80% Bloomberg Euro Agg 1-10 Yr TR EUR, 20% EURO STOXX 50 NR EUR",
+   "classification": "Défensif",
+   "categorie": "Mixte",
+   "durable_pct": "49",
+   "disclaimer": "Les rendements cités ont trait aux années écoulées et ne constituent pas un indicateur fiable du rendement futur. Ce fonds présente un risque de perte en capital.",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice composite 20% EURO STOXX 50 + 80% Bloomberg Euro Aggregate 1-10 Year calculé avec dividendes réinvestis, sur la période d’investissement recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\n\nPour atteindre son",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 477,
+  "isin": "LU1490785091",
+  "nom": "DNCA INVEST NORDEN EUROPE A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1490785091__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-11-02",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe du Nord",
+   "compartiment": "DNCA Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Carl Auffret, Alexandre Steenman, Ronan Poupon, Kevin Tran",
+   "encours": "287",
+   "frais_courants": "1.95",
+   "sri": "4",
+   "indice": "35% MSCI Nordic, 25% DAX, 15% SMI, 15% AEX, 10% MSCI UK TR UK Net Local Currency (libellé en euro)",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le compartiment recherche une performance supérieure à l’indice composite libellé en Euro : 35% MSCI Nordic, 25% DAX , 15% SMI, 15% AEX, 10% MSCI UK TR UK Net Local Currency calculé dividendes réinvestis, sur la période d’investissement recommandée. L'attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et qu’il intègre des critères environnementaux, soci",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 478,
+  "isin": "LU1490785505",
+  "nom": "DNCA INVEST SERENITE PLUS B EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__KID_FR_2025-06-23.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__KID_FR_2025-06-23.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1490785505__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-11-03",
+   "devise": "EUR",
+   "type_fonds": "Obligations zone euro court terme",
+   "compartiment": "DNCA Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Baptiste Planchard, Ismaël Lecanu, Jean-Marc Frelet, Nolwenn Le Roux",
+   "encours": "447",
+   "frais_courants": "1.04",
+   "sri": "2",
+   "indice": "Bloomberg Euro Aggregate 1-3 year bond",
+   "classification": "Défensif",
+   "categorie": "Bond Europe Short Term",
+   "sfdr": "8",
+   "duration": "1.82",
+   "qualite": "BBB",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice Bloomberg Euro-Aggregate 1-3 ans calculé avec coupons réinvestis sur la période d’investissement recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG). Pour atteindre son objectif d’investissement, la stratégie ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 479,
+  "isin": "LU0870553020",
+  "nom": "DNCA INVEST SRI EUROPE GROWTH A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU0870553020/LU0870553020__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU0870553020/LU0870553020__KID_FR_2026-10-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU0870553020/LU0870553020__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU0870553020/LU0870553020__KID_FR_2026-10-05.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0870553020__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "formulation « Les rendements cités ont trait aux années écoulées » absente ; le document dit « Les performances passées ne préjugent pas des performances futures » et « risque de perte en capital »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2012-12-28",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe, croissance européenne",
+   "compartiment": "sous-fonds \"Sri Europe Growth\" de la SICAV luxembourgeoise \"DNCA Invest\"",
+   "gerants": "Carl Auffret (CFA), Alexandre Steenman, Ronan Poupon, Kevin Tran",
+   "encours": "629",
+   "frais_gestion": "2.11",
+   "frais_courants": "2.11",
+   "sri": "4",
+   "indice": "STOXX Europe 600 NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "8",
+   "disclaimer": "Les rendements cités ont trait aux années écoulées et ne constituent pas un indicateur fiable du rendement futur. Ce fonds présente un risque de perte en capital.",
+   "politique_fr": "L’objectif du Compartiment est de surperformer les marchés d’actions paneuropéens sur la période d’investissement recommandée (5 ans). L’indicateur de référence STOXX EUROPE 600 Net Return EUR, calculé dividendes réinvestis, est fourni à des fins de comparaison a posteriori. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères en",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 480,
+  "isin": "LU2707622630",
+  "nom": "DNCA INVEST STRATEGIC RESOURCES A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__KID_FR_2026-06-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU2707622630/LU2707622630__KID_FR_2026-06-05.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2707622630__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-05-08",
+   "devise": "EUR",
+   "type_fonds": "Matières premières (métaux, via Total Return Swap)",
+   "compartiment": "DNCA Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Alexandre Carrier, Boris Radondy",
+   "frais_courants": "1.77",
+   "sri": "5",
+   "indice": "Goldman Sachs Metals Index",
+   "classification": "Agressif",
+   "categorie": "Matières premières",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "L'objectif d'investissement du produit est de surperformer son indice de référence, le Goldman Sachs Metals Index, en étant exposé aux matières premières par le biais d'au moins un (des) Total Return Swap(s) (tel(s) que décrit(s) ci-après) sur la période d'investissement minimale recommandée de 5 ans. Parallèlement, le Compartiment met en oeuvre une approche extra-financière par l'intégration de c",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 481,
+  "isin": "LU0284396016",
+  "nom": "DNCA INVEST VALUE EUROPE A EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU0284396016/LU0284396016__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU0284396016/LU0284396016__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU0284396016/LU0284396016__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU0284396016/LU0284396016__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU0284396016/LU0284396016__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0284396016__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1768 M€",
+    "note": "p.1 « Actif net (m€) 1 768 » (VL 377,16)"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-06-26",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe Grandes Capitalisations \"Value\"",
+   "compartiment": "DNCA Invest Value Europe - Part A",
+   "gerants": "Isaac Chebar, Julie Arav, Maxime Genevois, Boris Radondy",
+   "encours": "133.57",
+   "sri": "4",
+   "indice": "STOXX Europe 600 NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Veuillez-vous référer au Prospectus de l’OPC et au Document d’Informations Clés avant de prendre toute décision finale d’investissement.",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice : Stoxx Europe 600 Net Return, sur la durée d’investissement Recommandée (5 ans). L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\n\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie s",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 482,
+  "isin": "LU1515062674",
+  "nom": "DNCA INVEST VALUE EUROPE IG EUR",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1515062674/LU1515062674__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DNCA_FINANCE/LU1515062674/LU1515062674__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DNCA_FINANCE/LU1515062674/LU1515062674__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1515062674/LU1515062674__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DNCA_FINANCE/LU1515062674/LU1515062674__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1515062674__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-01-31",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes (style value)",
+   "compartiment": "DNCA Invest (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Isaac Chebar, Julie Arav, Maxime Genevois, Boris Radondy",
+   "encours": "1768",
+   "frais_courants": "1.59",
+   "sri": "4",
+   "indice": "STOXX Europe 600 NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "disclaimer": "Communication publicitaire. Les performances passées ne sont pas un indicateur fiable des performances futures. L'investissement dans un OPC comporte des risques, notamment un risque de perte en capital (tout ou partie du montant investi).",
+   "politique_fr": "Le Compartiment cherche à surperformer l’indice : Stoxx Europe 600 Net Return, sur la durée d’investissement Recommandée (5 ans). L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG). Pour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie su",
+   "politique_en": "The Sub-Fund seeks to outperform the following index: Stoxx Europe 600 Net Return, over the recommend investment term. Investors’ attention is drawn by the fact that the management style is discretionary and integrates environmental, social / societal and governance (ESG) criteria. To achieve its investment objective, the investment strategy is based on active discretionary management.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 483,
+  "isin": "BE6227496963",
+  "nom": "DPAM B ACTIVE STRATEGY B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227496963/BE6227496963__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227496963/BE6227496963__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227496963/BE6227496963__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227496963/BE6227496963__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227496963/BE6227496963__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE6227496963__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2011-11-02",
+   "devise": "EUR",
+   "type_fonds": "Mixte dynamique à dominante actions (fonds de fonds)",
+   "compartiment": "DPAM B",
+   "encours": "296.81",
+   "frais_gestion": "1.3",
+   "frais_courants": "1.72",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "duration": "5.58",
+   "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value à long terme en investissant dans des titres de capital et/ou des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment.\n\nDes informations quantitatives provenant d'un marché plus large peuvent être utilisées pour la",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 484,
+  "isin": "BE6227494943",
+  "nom": "DPAM B BALANCED STRATEGY B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE6227494943__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2011-11-02",
+   "devise": "EUR",
+   "type_fonds": "Mixte équilibré (fonds de fonds)",
+   "compartiment": "DPAM B",
+   "encours": "881.35",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.59",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "5.44",
+   "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value modérée à moyen et long terme en investissant dans des titres de capital et/ou des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment.\n\nDes informations quantitatives provenant d'un marché plus large peuvent être ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 485,
+  "isin": "BE6227492921",
+  "nom": "DPAM B DEFENSIVE STRATEGY B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227492921/BE6227492921__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227492921/BE6227492921__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227492921/BE6227492921__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227492921/BE6227492921__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227492921/BE6227492921__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE6227492921__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2011-11-02",
+   "devise": "EUR",
+   "type_fonds": "Mixte défensif à dominante obligataire (fonds de fonds)",
+   "compartiment": "DPAM B",
+   "encours": "78.57",
+   "frais_gestion": "0.85",
+   "frais_courants": "1.25",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Conservative",
+   "sfdr": "8",
+   "duration": "5.65",
+   "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value à moyen terme en investissant dans des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment.\n\nDes informations quantitatives provenant d'un marché plus large peuvent être utilisées pour la gestion des risques et l'é",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 486,
+  "isin": "BE0057451271",
+  "nom": "DPAM B EQUITIES EUROPE DIVIDEND B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0057451271/BE0057451271__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0057451271/BE0057451271__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0057451271/BE0057451271__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0057451271/BE0057451271__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0057451271/BE0057451271__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0057451271__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2002-09-16",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe",
+   "compartiment": "DPAM B",
+   "encours": "102.18",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.84",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "categorie": "Equity Europe Income",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises européennes offrant un rendement plus élevé que la moyenne du marché. Il s'agit d'un compartiment géré activement, ce qui signifie que le gestionnaire de portefeuille n'a pas pour objectif de reproduire la performance d'un benchmark. Le compartiment promeut des caractéristiques environnementales et soc",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 487,
+  "isin": "BE0058185829",
+  "nom": "DPAM B EQUITIES EUROPE SC SUSTAINABLE B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058185829/BE0058185829__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058185829/BE0058185829__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058185829/BE0058185829__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058185829/BE0058185829__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058185829/BE0058185829__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0058185829__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1997-12-08",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe petites capitalisations",
+   "compartiment": "DPAM B",
+   "encours": "250.76",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.8",
+   "sri": "4",
+   "indice": "MSCI Europe Small Cap Net Return",
+   "categorie": "Equity Europe Sm&Mid Cap",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises européennes à petite capitalisation boursière ('small -caps') ainsi que tout titre donnant accès au capital de ces sociétés et sélectionnées sur base du respect de critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe compartiment promeut une combinaison de caractéristiques environnementales ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]

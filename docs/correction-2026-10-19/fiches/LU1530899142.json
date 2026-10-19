@@ -1,0 +1,100 @@
+{
+ "n": "461",
+ "isin": "LU1530899142",
+ "nom": "CPR INVEST GLOBAL DISRUPTIVE OPP A EUR",
+ "maison": "CPR Asset Management",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-09-01",
+ "factsheet_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1530899142/LU1530899142__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1530899142/LU1530899142__KID_FR_2026-09-01.pdf",
+ "date_creation": "2016-12-22",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales (thématique disruption)",
+ "compartiment": "Actions d’un Compartiment de CPR Invest, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+ "gerants": "Guillaume Uettwiller, Alexandre Blein",
+ "encours_millions": "2737.03",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "2.30",
+ "sri": "5",
+ "indice": "100% MSCI WORLD GROWTH INDEX",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures. Les investissements sont soumis aux fluctuations de marché et peuvent varier à la hausse comme à la baisse.",
+ "politique_fr": "STRATEGIE D’INVESTISSEMENT\nL'objectif de gestion de CPR Invest - Global Disruptive Opportunities consiste à surperformer les marchés actions internationaux sur le long terme, 5 ans minimum, en investissant dans des actions de sociétés qui instaurent ou bénéficient - totalement ou partiellement - de modèles économiques disruptifs.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet la plus récente trouvée : 31/08/2026 (fundinfo ne propose pas encore celle de fin septembre). Date de création = « Date création : 22/12/2016 » (sans préciser part ou compartiment ; = début des performances « Depuis le 22/12/2016 »). Encours = « Actif géré : 2 737,03 ( millions EUR ) » au 31/08/2026. Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 2,30% » (identique au KID) ; pas de frais de gestion séparés ; commission de surperformance : « Oui ». Indice : factsheet « Indice Reference : 100% MSCI WORLD GROWTH INDEX » ; KID : indice utilisé a posteriori pour évaluer la performance et calculer la commission de performance, sans contrainte sur le portefeuille (retenu car mesure de performance, objectif de surperformance des marchés actions internationaux). SRI 5 (KID). SFDR article 8 (KID). Gérants : « Equipe de gestion » p.3 de la factsheet. Classification Agressif : actions thématiques (modèles disruptifs). Allocations : positions = « Principales lignes en portefeuille » (hors OPC) ; répartitions sectorielle, géographique et par devise non reprises (graphiques : 12 libellés pour 11 valeurs par série en sectoriel, attribution des dernières valeurs incertaine). Corrigé (factsheet 31/08/2026) : indice MSCI World Growth Net Return → 100% MSCI WORLD GROWTH INDEX.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "gerants": "factsheet p.3"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "6.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMAZON.COM INC",
+   "pct": "4.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC CL A",
+   "pct": "4.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR-SP ADR",
+   "pct": "3.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "3.57"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ARISTA NETWORKS INC",
+   "pct": "3.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "2.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES",
+   "pct": "2.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SCHNEIDER ELECT SE",
+   "pct": "2.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HITACHI LTD",
+   "pct": "2.50"
+  }
+ ]
+}

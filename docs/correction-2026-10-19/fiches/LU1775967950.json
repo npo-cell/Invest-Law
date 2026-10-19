@@ -1,0 +1,202 @@
+{
+ "n": "620",
+ "isin": "LU1775967950",
+ "nom": "INVESCO GLOBAL HIGH INCOME A EUR H",
+ "maison": "Invesco Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-19",
+ "date_creation": "2018-10-08",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "un compartiment d’Invesco Funds (le « Fonds à compartiments multiples »)",
+ "gerants": "Asad Bhatti, Edward Craven, Rahim Shad, Thomas Moore",
+ "encours_millions": "118.72",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.28",
+ "sri": "2",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.92",
+ "qualite_emetteurs": "B+",
+ "disclaimer": "Les performances passées ne sauraient présager des performances futures. La valeur des investissements et les revenus vont fluctuer, ce qui peut en partie être le résultat des fluctuations de taux de change et les investisseurs peuvent ne pas récupérer le montant total de leurs investissements initiaux.",
+ "politique_fr": "Le Fonds vise à réaliser un niveau de revenus élevé et une croissance du capital à long terme. Il cherche à atteindre son objectif en investissant principalement dans des titres de créance mondiaux (y compris des marchés émergents) de qualité non-investment grade émis majoritairement par des sociétés.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 : le compartiment s'appelle désormais « Invesco Global High Yield Fund » (part « A (EUR Hgd)-Accumulation Shares », couverte en EUR), ISIN conforme ; le KID utilise aussi ce nom. Corrigé : encours 123.68 → 118.72 (« Actifs nets totaux EUR 118,72 million », 30/09/2026) ; gérants : Asad Bhatti, Edward Craven et Thomas Moore ajoutés (gérants depuis le 30 septembre 2026, avec Rahim Shad) ; duration 3.66 → 3.92 (« Duration moyenne pondérée 3,92 ») ; qualité BB- → B+ (« Notation de crédit moyenne B+ ») ; indice retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus). Date de création = « Date de lancement de la classe d'actions 08 octobre 2018 » (fonds irlandais d'origine lancé le 12 janvier 1994, fusionné le 5 octobre 2018). Frais : factsheet « Frais de gestion annuels 1,00% », « Frais courants 1,28% » ; KID « 1,28 % ». Indice vide : KID « l’indice Bloomberg Global High Yield Corporate Index USD-Hedged (Total Return), qui est utilisé à des fins de comparaison ». SRI 2 (KID). SFDR article 8 (KID). Duration recopiée telle qu'écrite, sans unité. Allocations : « Classes d'actifs » = « Catégories d'investissement » ; « Positions » = 10 principaux émetteurs.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "TransDigm",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CCO Holdings LLC / CCO Holdings Capital",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Carrix",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DISH DBS",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Venture Global LNG",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Airlines Holdings",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "1261229 BC",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "American Axle & Manufacturing",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SoftBank Group",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Starz Capital Holdings 1",
+   "pct": "1.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'entreprises de qualité inférieure à l'investissement",
+   "pct": "86.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Gouvernement/Agence",
+   "pct": "6.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations investment grade",
+   "pct": "4.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie et équivalents de trésorerie et produits dérivés",
+   "pct": "3.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "0.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "5.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "48.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "34.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC et moins",
+   "pct": "9.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "75.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "16.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Obligations souveraines",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agences non américaines",
+   "pct": "1.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20+ ans",
+   "pct": "1.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "11-16 ans",
+   "pct": "1.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-11 ans",
+   "pct": "7.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "4-7 ans",
+   "pct": "9.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-4 ans",
+   "pct": "80.7"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775967950/LU1775967950__KID_FR_2026-05-19.pdf"
+}

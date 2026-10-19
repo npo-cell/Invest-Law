@@ -1,0 +1,178 @@
+{
+ "n": "728",
+ "isin": "LU0119620416",
+ "nom": "MS INVF GLOBAL BRANDS A USD",
+ "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-07-21",
+ "date_creation": "2000-10-30",
+ "devise": "USD",
+ "type_fonds": "Actions internationales",
+ "compartiment": "Un compartiment de Morgan Stanley Investment Funds",
+ "gerants": "William Lock, Bruno Paulson, Alex Gabriele, Richard Perrott, Isabelle Mast, Anton Kryachok",
+ "encours_millions": "9100",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.60",
+ "frais_courants": "1.83",
+ "sri": "4",
+ "indice": "MSCI World Net Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs. La valeur des investissements et les revenus qui en découlent peuvent baisser ou augmenter et un investisseur peut ne pas récupérer le montant investi.",
+ "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nL'équipe de gestion est convaincue que les entreprises de grande qualité, qui ont des positions dominantes sur leur marché et qui ont des immobilisations incorporelles solides, peuvent générer des rendements attrayants à long terme. L'analyse des facteurs ESG et le dialogue actif avec les entreprises, mené par le gérant de portefeuille, jouent un rôle majeur dans le cadre du processus de gestion.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : SRI 6 → 4 (KID 21/07/2026 « classe de risque 4 sur 7 ») ; encours 10300 → 9100 (« Total de l’actif $ 9,1 milliard(s) », factsheet 30/09/2026) ; gérants : Marte Borhaug retirée (absente de la factsheet) ; indice « MSCI World NR USD » → « MSCI World Net Index » ; compartiment, type et politique refaits depuis la factsheet française (l’ancienne politique FR était un texte anglais introuvable dans les documents ; politique EN supprimée) ; classification ajoutée : Dynamique (actions internationales, SRI 4). Date de création : « Date de lancement 30 Octobre 2000 » (part A). Frais : factsheet « Frais de gestion 1,60 », « Frais courants 1,83 » ; KID 1.83 %. Indice : KID « La performance du fonds sera mesurée par rapport à l'indice MSCI World Net ». SFDR article 8, aucun % durable écrit. La factsheet signale le départ de Marcus Watson au 28/02/2026. Allocations : colonne « Fonds » seulement ; secteurs à « -- » pour le fonds non repris.",
+ "factsheet_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0119620416/LU0119620416__KID_FR_2026-07-21.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc",
+   "pct": "6.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Mfg Co. Ltd",
+   "pct": "6.34"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "6.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc",
+   "pct": "5.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Coca-Cola Co.",
+   "pct": "4.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'Oréal S.A.",
+   "pct": "4.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com Inc",
+   "pct": "4.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Thermo Fisher Scientific Inc",
+   "pct": "3.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ferrari NV",
+   "pct": "3.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Netflix Inc",
+   "pct": "2.99"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "67.85"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "10.57"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "6.94"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "6.34"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "3.49"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "2.80"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités",
+   "pct": "2.28"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "18.09"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "16.69"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Valeurs industrielles",
+   "pct": "14.27"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation courants",
+   "pct": "12.94"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "12.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discretionnaires",
+   "pct": "12.18"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "11.41"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.28"
+  }
+ ]
+}

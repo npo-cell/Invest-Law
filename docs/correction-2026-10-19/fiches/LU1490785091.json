@@ -1,0 +1,263 @@
+{
+ "n": "477",
+ "isin": "LU1490785091",
+ "nom": "DNCA INVEST NORDEN EUROPE A EUR",
+ "maison": "DNCA FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DNCA_FINANCE/LU1490785091/LU1490785091__KID_FR_2026-04-16.pdf",
+ "date_creation": "2016-11-02",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe du Nord",
+ "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+ "gerants": "Carl AUFFRET, Alexandre STEENMAN, Ronan POUPON, Kevin TRAN",
+ "encours_millions": "249",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.95",
+ "sri": "4",
+ "indice": "35 % MSCI Nordic, 25 % DAX, 15 % SMI, 15 % AEX, 10 % MSCI UK TR UK Net Local Currency, libellé en Euro",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+ "politique_fr": "Objectif de gestion\nLe compartiment recherche une performance supérieure à l’indice composite libellé en Euro : 35% MSCI Nordic, 25% DAX , 15% SMI, 15% AEX, 10% MSCI UK TR UK Net Local Currency calculé dividendes réinvestis, sur la période d’investissement recommandée. L'attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et qu’il intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création « 02/11/2016 » (factsheet p.5) : date des informations administratives de la part (sous son code ISIN). Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 1,95% » (= frais courants, identique au KID) ; commission de performance 20 % au-delà de l'indice composite (0,63 %). Indice composite recopié tel qu'écrit dans les informations administratives (objectif de surperformance). SFDR article 8, aucun % d'investissements durables écrit. Gérants : « , CFA » retiré après Carl AUFFRET. Classification Dynamique : actions de plusieurs pays d'Europe du Nord (SRI 4). Positions = 10 principales positions (total 41,96 %). Capitalisations lues sur graphique (positions des étiquettes vérifiées). Répartitions sectorielle et géographique : colonne Fonds seulement, secteurs à « - » non repris. Non repris : contributions à la performance, données ESG. Corrigé (factsheet 30/09/2026) : encours 287 → 249 ; indice 35% MSCI Nordic, 25% DAX, 15% SMI, 15% AEX, 10% MSCI UK TR UK Net Local Currency (libellé en euro) → 35 % MSCI Nordic, 25 % DAX, 15 % SMI, 15 % AEX, 10 % MSCI UK TR UK Net Local Currency, libellé en Euro.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.5",
+  "devise": "factsheet p.5",
+  "compartiment": "factsheet p.6",
+  "gerants": "factsheet p.5",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.5",
+  "sfdr": "factsheet p.5",
+  "disclaimer": "factsheet p.6",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "5.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVONESIS (NOVOZYMES) B",
+   "pct": "5.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NKT A/S",
+   "pct": "4.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HARVIA OYJ",
+   "pct": "4.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROLLS-ROYCE HOLDINGS PLC",
+   "pct": "3.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KONGSBERG GRUPPEN ASA",
+   "pct": "3.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NORDEA BANK ABP",
+   "pct": "3.69"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ERSTE GROUP BANK AG",
+   "pct": "3.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GALDERMA GROUP AG",
+   "pct": "3.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CIE FINANCIERE RICHEMO-A REG",
+   "pct": "3.35"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "99.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités et autres",
+   "pct": "0.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "0 - 1 Md €",
+   "pct": "8.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1 - 5 Mds €",
+   "pct": "15.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 - 10 Mds €",
+   "pct": "12.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "+10 Mds €",
+   "pct": "64.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "28.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens et services industriels",
+   "pct": "19.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "14.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits et services de consommation",
+   "pct": "11.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "7.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bâtiment et matériaux de construction",
+   "pct": "6.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Assurance",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agroalimentaire, boisson et tabac",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Distribution",
+   "pct": "0.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et autres",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "18.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "15.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "15.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Finlande",
+   "pct": "9.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "9.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "8.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "6.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Belgique",
+   "pct": "4.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Norvège",
+   "pct": "3.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autriche",
+   "pct": "3.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "2.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Irlande",
+   "pct": "2.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités et autres",
+   "pct": "0.3"
+  }
+ ]
+}

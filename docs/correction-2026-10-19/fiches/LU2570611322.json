@@ -1,0 +1,169 @@
+{
+ "n": "460",
+ "isin": "LU2570611322",
+ "nom": "CPR INVEST EUROPEAN STRATEGIC AUTONOMY A EUR",
+ "maison": "CPR Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-01",
+ "factsheet_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU2570611322/LU2570611322__KID_FR_2026-09-01.pdf",
+ "date_creation": "2023-03-28",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes (thématique autonomie stratégique)",
+ "compartiment": "Actions d’un Compartiment de CPR Invest, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+ "gerants": "",
+ "encours_millions": "1123.58",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.96",
+ "sri": "4",
+ "indice": "MSCI EMU",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements et l’évolution de la valeur nette d’inventaire cités ont trait aux années écoulées et ne constituent pas un indicateur fiable du rendement futur.",
+ "politique_fr": "Objectifs et Politique d'investissement\nL’objectif d’investissement est de surperformer les marchés d’actions européens sur la période de détention recommandée (au moins cinq ans) en investissant dans des actions impliquées dans des secteurs stratégiques qui contribuent à l’autonomie et à la résilience de l’Europe. À cette fin, le Compartiment vise à sélectionner des titres de sociétés actives dans des secteurs économiques qui ont un lien direct ou indirect avec la résilience de l’Europe et/ou qui contribuent à l’autonomie et au développement économiques de l’Europe. Ces sociétés sont regroupées sous les piliers suivants : défense, industrie (englobant la fabrication, l’énergie et le numérique), alimentation, santé et finance. Le Compartiment est éligible au PEA français et, par conséquent, un minimum de 75 % des actifs du Compartiment est investi dans des actions et des titres similaires d’émetteurs ayant leur siège social dans un État membre de l’Union européenne ou dans un autre État membre de l’Espace économique européen (EEE). Les instruments dérivés seront utilisés à des fins de couverture, d’arbitrage, d’exposition et/ou de gestion efficace de portefeuille. Le Compartiment est activement géré. Le Compartiment peut utiliser l’Indice de référence MSCI EMU Net Return en tant qu’indicateur pour évaluer la performance du Compartiment a posteriori et, en ce qui concerne l’indice de référence de la commission de performance utilisé par les catégories d’actions concernées, pour calculer les commissions de performance. Il n’existe aucune contrainte relative à un tel Indice de référence qui limite la construction du portefeuille. Le Compartiment est un produit financier qui promeut les caractéristiques ESG conformément à l’article 8 du Règlement sur la publication d’informations en matière de durabilité dans le secteur des services financiers. Le Compartiment intègre des Facteurs de durabilité dans son processus d’investissement, comme décrit plus en détail à la section 4.9 « Aperçu de la politique d’investissement responsable » du Prospectus.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « non professionnels » (Belgique) de la part A EUR Acc au 30/09/2026. Date de création = « Date de création de la classe : 28/03/2023 » (= création du compartiment et première VNI). Encours = « Actif géré : 1 123,58 ( millions EUR ) » (non précisé s’il s’agit du compartiment ou de la part). Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 1,96% » (identique au KID) ; pas de frais de gestion séparés ; commission de performance 15 % au-delà de l’indice MSCI EMU NR ; frais d’entrée max 5 %. Indice : factsheet « Indice : MSCI EMU » (performances) ; politique : MSCI EMU Net Return utilisé pour évaluer la performance a posteriori et calculer la commission de performance, sans contrainte sur la construction du portefeuille (retenu car mesure de performance). SRI 4 (« classe de risque 4 sur 7 »). SFDR article 8 (politique d'investissement de la factsheet). Gérants : aucun nom dans la factsheet de cette part ni dans le KID. Politique : bloc « Objectifs et Politique d'investissement » (politique du KID reproduite dans la factsheet). Classification Dynamique : thème large sur actions de la zone euro, SRI 4 — cas limite avec Agressif (fonds thématique). Allocations : secteurs et zones lus sur les graphiques (série « Portefeuille », l’indice exclu ; en % de l’actif) ; exposition par devise non reprise (étiquettes « 93,5 % » / « 98,8 % » sans attribution certaine au portefeuille ou à l’indice) ; positions = « Principales lignes en portefeuille ». Corrigé (factsheet 30/09/2026) : encours 1132.16 → 1123.58 ; indice MSCI EMU NR → MSCI EMU.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.3",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "8.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANCO SANTANDER SA MADRID",
+   "pct": "3.82"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SIEMENS AG-REG",
+   "pct": "3.34"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAFRAN SA",
+   "pct": "2.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SCHNEIDER ELECT SE",
+   "pct": "2.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIRBUS SE PARIS",
+   "pct": "2.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COMPAGNIE DE SAINT GOBAIN",
+   "pct": "2.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COMMERZBANK AG",
+   "pct": "2.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNICREDIT SPA",
+   "pct": "2.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALLIANZ SE-REG",
+   "pct": "2.54"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "35.02"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finances",
+   "pct": "19.44"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'info.",
+   "pct": "14.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "6.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.42"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "5.67"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation non Cyclique",
+   "pct": "5.58"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Cyclique",
+   "pct": "4.30"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.06"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "0.80"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Zone Euro",
+   "pct": "86.88"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe ex-EMU",
+   "pct": "7.73"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du nord",
+   "pct": "4.09"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "1.13"
+  }
+ ]
+}

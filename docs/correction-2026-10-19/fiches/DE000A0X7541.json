@@ -1,0 +1,123 @@
+{
+ "n": "352",
+ "isin": "DE000A0X7541",
+ "nom": "ACATIS VALUE EVENT FONDS A EUR",
+ "maison": "ACATIS Investment Kapitalverwaltungsgesellschaft",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-15",
+ "date_creation": "2008-12-15",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible international",
+ "compartiment": "Le produit (ci-après également le \"Fonds\") est un OPCVM établi en Allemagne.",
+ "gerants": "",
+ "encours_millions": "4150.6",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.65",
+ "frais_courants": "1.8",
+ "sri": "3",
+ "indice": "50% ESTR TR (EUR), 50% MSCI World GR (EUR)",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Les performances passées ne garantissent pas les rendements futurs.",
+ "politique_fr": "OBJECTIF ET PHILOSOPHIE D'INVESTISSEMENT Le fonds combine le style d'investissement \"value\" avec la détection d'événements. Le fonds peut aussi investir dans des titres obligataires. Le fonds est investi conformément à l'art. 8 du règlement de l'UE sur la publication d'informations en matière de durabilité dans le secteur des services financiers. ACATIS a défini 54 critères de durabilité qui ont été jugés \"très importants\" par les investisseurs. Des critères d'exclusion ont été définis par la majorité des investisseurs interrogés. Les entreprises qui ne sont pas conformes aux exigences définies ne peuvent rester dans le portefeuille que si leur pondération cumulée ne dépasse pas 10% des actifs du fonds.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création de la part A : 15/12/2008 (tableau des parts). Encours « 4.150,6 millions d'Euros » au 30/09/2026 (fonds). Frais : factsheet « Coût annuel total (au 30/09/2025) 1,80% … Incluant : Frais de gestion 1,65% » (part A) ; frais courants 1.8 % du KID ; commission de performance jusqu'à 20 % au-delà d'un seuil (KID). Indice : nom du KID ; la factsheet écrit « MSCI Monde GDR (EUR) (50%), €STR(50%) depuis de 01.01.2022 ». Gérants : aucun nom de personne (« Gestionnaire ACATIS Investment » = la société). Qualité : « Obligations, notation moyenne BBB+ » (poche obligataire seulement). SFDR article 8 (factsheet et KID). Classification Dynamique : fonds mixte flexible, actions 70,8 % au 30/09/2026 (SRI 3). Politique : bloc « Objectif et philosophie d'investissement » de la factsheet. Corrigé : encours 4412.6 → 4150.6 (factsheet 30/09/2026) ; gérants « Acatis Investment » → vide (société, pas un gérant) ; indice remplacé par le libellé du KID ; politique EN vidée (texte absent des documents) et politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__KID_FR_2026-06-15.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "sfdr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Class A",
+   "pct": "4.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding Partizipationsscheine SF-.001",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ServiceNow",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Salesforce",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Berkshire Hathaway",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Brookfield A",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor Manufacturing",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric",
+   "pct": "2.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "70.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations, notation moyenne BBB+",
+   "pct": "28.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Monétaire",
+   "pct": "0.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "0.2"
+  }
+ ]
+}

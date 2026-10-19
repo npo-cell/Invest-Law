@@ -1,0 +1,288 @@
+{
+ "n": "479",
+ "isin": "LU0870553020",
+ "nom": "DNCA INVEST SRI EUROPE GROWTH A EUR",
+ "maison": "DNCA FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-05",
+ "factsheet_fichier": "INVESTLAW/DNCA_FINANCE/LU0870553020/LU0870553020__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DNCA_FINANCE/LU0870553020/LU0870553020__KID_FR_2026-10-05.pdf",
+ "date_creation": "2012-12-28",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes (croissance)",
+ "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+ "gerants": "Carl AUFFRET, Alexandre STEENMAN, Ronan POUPON, Kevin TRAN",
+ "encours_millions": "629",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.04",
+ "sri": "4",
+ "indice": "STOXX Europe 600 EUR NR",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+ "politique_fr": "Objectif de gestion\nL’objectif du Compartiment est de surperformer les marchés d’actions paneuropéens sur la période d’investissement recommandée (5 ans). L’indicateur de référence STOXX EUROPE 600 Net Return EUR, calculé dividendes réinvestis, est fourni à des fins de comparaison a posteriori. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Renommage : la factsheet et le KID nomment le compartiment « DNCA INVEST SRI EUROPE GROWTH » (Part A-EUR, ISIN LU0870553020) ; nom One Life « EUROPE GROWTH ». Date de création « 28/12/2012 » (factsheet p.6) : date des informations administratives de la part (sous son code ISIN). Frais de gestion : pas de commission de gestion séparée, seulement « Frais de gestion et autres frais administratifs et d’exploitation : 2,11% » dans la factsheet ; frais courants = KID du 05/10/2026, plus récent : 2,04 % ; commission de performance 20 % au-delà du STOXX Europe 600 EUR NR (0,55 %). Indice « STOXX Europe 600 EUR NR » (informations administratives) retenu avec réserve : l'objectif dit qu'il est « fourni à des fins de comparaison a posteriori », mais le KID précise qu'il sert au calcul de la commission de performance et à la comparaison des performances, et qu'au moins 50 % des actifs sont investis dans des actions de l'indice ; à trancher. SFDR article 8, aucun % d'investissements durables écrit. Gérants : « , CFA » retiré après Carl AUFFRET. Positions = 10 principales positions (total 44,58 %). Capitalisations lues sur graphique (positions des étiquettes vérifiées). Répartitions sectorielle et géographique : colonne Fonds seulement, secteurs à « - » pour le fonds non repris. Non repris : contributions à la performance, données ESG. Corrigé (factsheet 30/09/2026) : frais de gestion 2.11 → (vide) ; frais courants 2.11 → 2.04 ; indice STOXX Europe 600 NR EUR → STOXX Europe 600 EUR NR ; SFDR (vide) → 8 ; investissements durables (%) 8 → (vide) ; gérants Carl Auffret (CFA), Alexandre Steenman, Ronan Poupon, Kevin Tran → Carl AUFFRET, Alexandre STEENMAN, Ronan POUPON, Kevin TRAN.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.6",
+  "devise": "factsheet p.6",
+  "compartiment": "factsheet p.7",
+  "gerants": "factsheet p.6",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.6",
+  "sfdr": "factsheet p.6",
+  "disclaimer": "factsheet p.7",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "6.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIR LIQUIDE SA",
+   "pct": "5.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAFRAN SA",
+   "pct": "4.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVONESIS (NOVOZYMES) B",
+   "pct": "4.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EXOSENS SAS",
+   "pct": "4.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SCHNEIDER ELECTRIC SE",
+   "pct": "4.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GALDERMA GROUP AG",
+   "pct": "4.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LOTTOMATICA GROUP SPA",
+   "pct": "3.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GAZTRANSPORT ET TECHNIGA SA",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LONZA GROUP AG-REG",
+   "pct": "3.55"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "98.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "OPCVM",
+   "pct": "0.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités et autres",
+   "pct": "1.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "0 - 1 Md €",
+   "pct": "1.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1 - 5 Mds €",
+   "pct": "11.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 - 10 Mds €",
+   "pct": "9.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "+10 Mds €",
+   "pct": "77.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens et services industriels",
+   "pct": "24.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "23.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "12.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits et services de consommation",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Bâtiment et matériaux de construction",
+   "pct": "5.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Chimie",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "5.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Voyages et loisirs",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Agroalimentaire, boisson et tabac",
+   "pct": "2.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Banques",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Automobiles et équipementiers",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Distribution",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "OPCVM",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et autres",
+   "pct": "1.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "35.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "15.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Italie",
+   "pct": "10.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "8.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "7.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "5.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "5.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Norvège",
+   "pct": "3.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Belgique",
+   "pct": "3.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espagne",
+   "pct": "2.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Irlande",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "1.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "OPCVM",
+   "pct": "0.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités et autres",
+   "pct": "1.6"
+  }
+ ]
+}

@@ -101,6 +101,15 @@ def main(site_json):
         rf_docs[isin] = (j.get('factsheet_fichier') or '', j.get('kid_fichier') or '')
         wb_a[isin] = [['', isin, j['nom'], a['type'], a['libelle'], a['pct'], j.get('factsheet_date') or '']
                       for a in j.get('allocations') or []]
+    # fiches refaites le 19/10 après l'authentification (docs/correction-2026-10-19/fiches) : prioritaires
+    cf, cf_docs, cf_a = {}, {}, {}
+    cdir = os.path.join(RACINE, 'docs', 'correction-2026-10-19', 'fiches')
+    for fj in sorted(os.listdir(cdir)) if os.path.isdir(cdir) else []:
+        j = json.load(open(os.path.join(cdir, fj)))
+        isin = j['isin'].strip().upper()
+        cf[isin] = [str(j.get(k) or '') for k in CLES]
+        cf_docs[isin] = (j.get('factsheet_fichier') or '', j.get('kid_fichier') or '')
+        cf_a[isin] = [[a['type'], a['libelle'], a['pct'], j.get('factsheet_date') or ''] for a in j.get('allocations') or []]
 
     rows = list(openpyxl.load_workbook(os.path.join(ICI, 'FundsRange2026-10-16.xlsx'), read_only=True)
                 .active.iter_rows(values_only=True))
@@ -139,7 +148,14 @@ def main(site_json):
             D.append([n, isin, nom, 'Rapport de gestion (en ligne)', '', date_rapport(x), 'invest-law.eu',
                       x.get('file_url') or ''])
 
-        if f:
+        if isin in cf:
+            c = cf[isin]
+            fs_url, kid_url = [GITHUB + urllib.parse.quote(p) if p else '' for p in cf_docs[isin]]
+            F.append([n, isin, nom, maison, statut, lien_site, c[4], fs_url if c[4] else '', c[5], kid_url if c[5] else '']
+                     + c[6:29] + ['Corrigée le 19/10 (factsheet / KID les plus récents)'])
+            for x in cf_a[isin]:
+                A.append([n, isin, nom] + x + ['Fiche corrigée le 19/10 (factsheet)'])
+        elif f:
             fs_date, fs_url = (date_rapport(rap[0]), rap[0].get('file_url') or '') if rap else (
                 (fs_dep['date'], fs_dep['url']) if fs_dep else ('', ''))
             sfdr = re.search(r'Article\s*(\d)', f.get('ESG_code') or '')

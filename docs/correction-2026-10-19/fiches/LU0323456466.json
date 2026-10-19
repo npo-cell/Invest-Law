@@ -1,0 +1,234 @@
+{
+ "n": "646",
+ "isin": "LU0323456466",
+ "nom": "JPM INCOME OPPORTUNITY A PERF USD",
+ "maison": "JP MORGAN ASSET MANAGEMENT (EUROPE) SARL",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-27",
+ "date_creation": "2008-10-14",
+ "devise": "USD",
+ "type_fonds": "Obligataire flexible",
+ "compartiment": "un compartiment de JPMorgan Investment Funds",
+ "gerants": "William Eigen, Jeffrey Wheeler, Robert Cook, Jarred Sherman",
+ "encours_millions": "832.2",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.2",
+ "sri": "2",
+ "indice": "ICE BofA SOFR Overnight Rate Index Total Return in USD",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "0.52 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne constituent pas une indication des performances actuelles et futures. La valeur de vos investissements et du revenu qui en découle peuvent évoluer à la hausse comme à la baisse, et vous pouvez ne pas récupérer la totalité du montant initialement investi.",
+ "politique_fr": "Objectif d´investissement: Offrir un rendement supérieur à celui de l’indice de référence en exploitant les opportunités d’investissement que recèlent, entre autres, les marchés des changes et obligataires et en utilisant des instruments dérivés si nécessaire.\n\nApproche d’investissement\n\nRecourt à une approche de performance absolue afin d’identifier des sources de rendements décorrélés et peu volatils à moyen terme, quelles que soient les conditions de marché.\n\nApproche flexible permettant d’exploiter des sources de rendement diversifiées à travers trois stratégies distinctes : rotation tactique entre les segments obligataires traditionnels, stratégies alternatives (trading de valeur relative notamment) et stratégies de couverture.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 817 → 832.2 M USD (« Actifs du fonds USD 832,2m », factsheet 30/09/2026) ; disclaimer recopié tel qu'écrit dans la factsheet (ajout de « et du revenu qui en découle ») ; qualité des émetteurs vidée (la factsheet donne une répartition par notation, pas une notation moyenne : reprise dans les allocations « Notations ») ; catégorie vidée. Frais courants 1,20 % (KID « Frais de gestion et autres frais administratifs et d’exploitation » et factsheet) ; pas de frais de gestion séparés ; commission de performance 20 % (factsheet). Indice retenu : l'objectif vise un rendement supérieur à l'indice de référence, utilisé aussi pour la commission de performance (KID). Duration : « Duration moyenne: 0,52 ans ». SFDR article 6 (KID). Allocations (positions, régions, secteurs, notations) datées du 31/08/2026, pas de la date de la factsheet. Le texte extrait de la factsheet double certains caractères (« Etats--Unis », « d d’’ ») : libellés recopiés tels qu'affichés, écarts du contrôle dus à cet artefact.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "sfdr": "KID p.1",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "FNMA (Etats-Unis)",
+   "pct": "8.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Credit Agricole (Etats-Unis)",
+   "pct": "4.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Skandinaviska Enskilda Banken (Etats-Unis)",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DNB Bank (Etats-Unis)",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nordea Bank (Suède)",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mizuho Bank (Etats-Unis)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cooperatieve Rabobank (Pays-Bas)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Oversea-Chinese Banking (Singapour)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Toronto-Dominion Bank (Canada)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Canadian Imperial Bank of Commerce (Canada)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "61.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "14.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "7.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "7.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Singapour",
+   "pct": "4.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Australie",
+   "pct": "2.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "0.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "0.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Iles Caïmans",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Finlande",
+   "pct": "0.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "0.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Titres d'entreprises \"investment grade\"",
+   "pct": "40.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Titres convertibles",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "MBS hors agences",
+   "pct": "2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Credit Relative Value (RV)",
+   "pct": "1.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Titres d’ entreprise haut rendement",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "MBS agences",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "49.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "2.72"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "12.15"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "25.49"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "5.06"
+  },
+  {
+   "type": "Notations",
+   "libelle": "< BBB",
+   "pct": "1.59"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "3.19"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "49.81"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0323456466/LU0323456466__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/JP_MORGAN_ASSET_MANAGEMENT_EUROPE_SARL/LU0323456466/LU0323456466__KID_FR_2026-04-27.pdf"
+}

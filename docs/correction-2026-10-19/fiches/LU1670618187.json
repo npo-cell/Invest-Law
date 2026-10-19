@@ -1,0 +1,287 @@
+{
+ "n": "697",
+ "isin": "LU1670618187",
+ "nom": "M&G (LUX) ASIAN FUND A EUR",
+ "maison": "M&G Luxembourg S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-16",
+ "date_creation": "2018-10-26",
+ "devise": "EUR",
+ "type_fonds": "Actions Asie-Pacifique hors Japon",
+ "compartiment": "un compartiment de la SICAV de M&G (Lux) Investment Funds 1",
+ "gerants": "David Perrett, Carl Vine",
+ "encours_millions": "1133.14",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.74",
+ "sri": "4",
+ "indice": "MSCI AC Asia Pacific ex Japan Net Return Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le fonds cherche à générer des revenus et une croissance du capital supérieurs à ceux du marché d’actions de la région Asie-Pacifique (hors Japon) (tel que mesuré par l’indice MSCI All Country Asia Pacific ex Japan Net Return Index) sur toute période de cinq années consécutives, tout en appliquant les critères environnementaux, sociaux et de gouvernance (ESG). Au moins 80 % du fonds sont investis dans les actions de sociétés domiciliées dans la région Asie-Pacifique (hors Japon) ou y menant la majeure partie de leur activité. Le fonds peut investir en Actions A chinoises via le Shanghai-Hong Kong Stock Connect et le Shenzhen-Hong Kong Stock Connect. La sélection d’actions repose sur une analyse approfondie de chaque société en mettant l’accent sur les bénéfices, la gouvernance d’entreprise et la valorisation. La sélection des actions se fait au profil de rentabilité distinct pour constituer un fonds susceptible de faire face à des conditions de marché diverses. Le fonds investit dans des titres qui répondent aux critères ESG, en appliquant une approche exclusive et une orientation positive ESG, comme prévu dans le prospectus. La période de détention recommandée du fonds est de cinq ans.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : compartiment remplacé (texte des documents) ; gerants « David Perrett (co-gérant : Carl Vine) » → « David Perrett, Carl Vine » ; encours « 1235.97 » → « 1133.14 » ; indice « MSCI AC Asia Pac Ex JPN NR USD » → « MSCI AC Asia Pacific ex Japan Net Return Index » ; classification « Dynamique » → « Agressif » ; categorie « Majoritairement actions » vidé ; qualite « non applicable (fonds actions) ; 77 sociétés en portefeuille » vidé ; disclaimer remplacé (texte des documents) ; politique_fr remplacé (texte des documents) ; politique_en vidé. Politique = « Description du fonds » de la factsheet. Classification Agressif (actions de pays émergents d'Asie). Indice retenu : il sert à mesurer la performance (« L’indice de référence sert uniquement à mesurer la performance du fonds »). Gérant David Perrett ; gérant adjoint Carl Vine. Allocations au 30/09/2026, colonne « Fonds » (sans l'indice ni l'écart) ; sur/sous-expositions non reprises. Encours = « Encours du fonds (millions) € 1.133,14 » ; date de création = « Lancement de la catégorie de part 26 octobre 2018 » (fonds : 26 octobre 2018). Frais courants : KID « Frais de gestion et autres frais administratifs et d’exploitation 1,74% » (factsheet : « Frais de gestion et autres commissions 1,74% ») ; pas de frais de gestion séparés. SRI 4 (KID). SFDR article 8 (factsheet ; KID : 8).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "factsheet (Informations importantes)",
+  "gerants": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor",
+   "pct": "9.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics",
+   "pct": "8.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK Hynix",
+   "pct": "6.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HDFC Bank",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIA",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amcor",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding",
+   "pct": "2.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Overseas Bank",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KE Holdings",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l'information",
+   "pct": "32.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sociétés financières",
+   "pct": "21.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. cycl.",
+   "pct": "13.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "8.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de cons. de base",
+   "pct": "4.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Stratégie",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités",
+   "pct": "2.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "24.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "23.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "17.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Hong-Kong",
+   "pct": "7.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "7.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "6.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Thaïlande",
+   "pct": "3.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "2.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "5.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités",
+   "pct": "2.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Hong-Kong",
+   "pct": "25.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won sud-coréen",
+   "pct": "23.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "17.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "7.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "7.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar australien",
+   "pct": "6.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Singapour",
+   "pct": "4.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Baht thaïlandais",
+   "pct": "3.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indonésienne",
+   "pct": "2.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "2.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Méga-cap. (>50 Md$)",
+   "pct": "52.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes cap. (10-50 Md$)",
+   "pct": "26.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes cap. (2-10 Md$)",
+   "pct": "11.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites cap. (>2 Md$)",
+   "pct": "4.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Autres",
+   "pct": "3.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "2.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670618187/LU1670618187__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU1670618187/LU1670618187__KID_FR_2026-02-16.pdf"
+}

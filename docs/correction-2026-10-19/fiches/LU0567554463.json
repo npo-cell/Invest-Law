@@ -1,0 +1,104 @@
+{
+ "n": "396",
+ "isin": "LU0567554463",
+ "nom": "BGF GLOBAL HIGH YIELD BOND A2 GBP",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-22",
+ "date_creation": "2010-12-14",
+ "devise": "GBP",
+ "type_fonds": "Obligataire haut rendement international",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "David Delbos, Jose Aguilar, Mitchell Garfin, James Turner",
+ "encours_millions": "1958.58",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.46",
+ "sri": "2",
+ "indice": "ICE BofA Global High Yield Constrained (HW0C) 100% USD Hedged Index (USD)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.38 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif dans des titres à revenu fixe. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte). Les titres à revenu fixe peuvent être émis par des États, des organismes d’État, des sociétés et des entités supranationales (par ex. la Banque internationale pour la reconstruction et le développement).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026), part A2 GBP couverte. Date de création : « Date de lancement de la Catégorie d'Actions : 14-déc.-2010 » (fonds : 22-déc.-1998). Encours « Encours sous gestion (M) : 1.958,58 USD ». Frais : « Commission de gestion annuelle : 1,25% » ; frais courants 1,46 % (KID et factsheet). Indice : « Contrainte 1 : ICE BofA Global High Yield Constrained (HW0C) 100% USD Hedged Index (USD) », utilisé pour la construction du portefeuille, la comparaison de performance et la gestion des risques (KID). Duration : « Duration effective : 3,38 ans » (rendement à maturité 7,91 %). SFDR : « Classification SFDR : Article 8 ». Classification Défensif : obligataire haut rendement (SRI 2). Allocations : 10 principales positions seulement (secteurs, échéances et notes de crédit sont des graphiques sans valeurs dans le texte). Corrigé : encours 2011.47 → 1958.58 USD (factsheet 30/09/2026) ; duration 3.09 → 3.38 ; indice libellé selon la factsheet ; classification Défensif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__KID_FR_2026-04-22.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "duration": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "1261229 BC LTD 144A 10 04/15/2032",
+   "pct": "1.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HUB INTERNATIONAL LTD 144A 7.375 01/31/2032",
+   "pct": "0.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALLIED UNIVERSAL HOLDCO LLC 144A 7.875 02/15/2031",
+   "pct": "0.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WHITE CAP SUPPLY HOLDINGS LLC 144A 7.375 11/15/2030",
+   "pct": "0.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MAUSER PACKAGING SOLUTIONS HOLDING 144A 7.875 04/15/2030",
+   "pct": "0.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SOFTBANK GROUP CORP 144A 9.25 04/01/2032",
+   "pct": "0.65"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LEVEL 3 FINANCING INC 144A 8.5 01/15/2036",
+   "pct": "0.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SOPAIPILLA INVESTOR LLC 144A 7.534 11/30/2048",
+   "pct": "0.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "OLYMPUS WATER US HOLDING CORP 144A 7.25 02/15/2033",
+   "pct": "0.54"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DIGICEL INTERNATIONAL FINANCE LTD 144A 8.625 08/01/2032",
+   "pct": "0.53"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "n": "684",
+ "isin": "IE00BFZ4RX34",
+ "nom": "LAZARD RATHMORE ALTERNATIVE FUND BP EUR",
+ "maison": "LAZARD FUND MANAGERS (IRELAND) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-13",
+ "date_creation": "2019-09-20",
+ "devise": "EUR",
+ "type_fonds": "Alternatif (arbitrage de convertibles)",
+ "compartiment": "A sub-fund of Lazard Global Investment Funds, an Irish UCITS investment fund company",
+ "gerants": "Sean H. Reynolds & Team",
+ "encours_millions": "2662.82",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2.50",
+ "frais_courants": "2.60",
+ "sri": "2",
+ "indice": "HFRX Relative Value Fixed Income Convertible Arbitrage Index; S&P 500 Index; Russell 2000 Index; Bloomberg US Aggregate Index; ICE BofA Global 300 Convertible Index; ICE BofA US High Yield Index; and MSCI World Index",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "0.8 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a reliable indicator of future results",
+ "politique_fr": "",
+ "politique_en": "Fund Objective\n\nThe investment objective of the Fund is to seek to achieve absolute returns through a combination of capital appreciation and income over a three year market cycle.\n\nFund Description\n\nLazard Rathmore Alternative Fund is a hedged convertibles portfolio, best described as convertible arbitrage, where typically a long convertible bond position is hedged with a short stock position in the same company. Position-level hedges are actively traded in order to monetize market volatility. In addition to generating returns from credit and volatility (\"betas\"), the team's specialized approach focuses on extracting value from special situations and events (\"alpha\"), which supplements the traditional drivers of return to convertible arbitrage strategies and allows for a strategic, long-term approach to investing in the space.",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 2335.66 → 2662.82 M USD (« Fund AUM … Base Fund Currency $2,662.82m », factsheet 30/09/2026 ; en devise de la part : €2,344.34m) ; indice recopié tel qu'écrit dans le tableau « Benchmark » (le texte de bas de page écrit « Bloomberg US Agg Total Return Value Unhedged USD ») ; gérants → tel qu'écrit « Sean H. Reynolds & Team » ; qualité vidée (répartition par notation reprise dans les allocations ; pas de notation moyenne) ; politique : texte anglais de la factsheet ; disclaimer anglais de la factsheet ; catégorie vidée. Part « BP Acc EUR Hedged » ; date de création = « Share Class Launch Date 20/09/2019 » (fonds : 01/05/2018). Duration = « Portfolio Duration 0.8 years ». Frais : « Annual Management Fee 2.50% », « Ongoing charges 2.60% » = KID « Frais de gestion et autres frais administratifs et d’exploitation 2,60% » ; commission de performance 20 % au-delà d'un hurdle plafonné à 5 % (0.6 % l'an dernier). Indice retenu : « most appropriate Benchmark for measuring performance ». SFDR article 8. Allocations au 30/09/2026 : positions = top 5 en valeur de marché longue (LMV) ; notations, capitalisations, régions et secteurs = valeur de marché nette (NMV, total 37.0 % pour les secteurs) ; composition par stratégie et par type de titre non reprise.",
+ "sources": {
+  "date_creation": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.3",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.3",
+  "sfdr": "factsheet p.3",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_en": "factsheet p.1, p.3",
+  "compartiment": "factsheet p.1",
+  "gerants": "factsheet p.3"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Lumentum Holdings Inc. 0.375%",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "InterDigital Inc. 3.5%",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Snowflake Inc. 0%",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IREN Ltd. 3.5%",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cloudflare Inc. 0%",
+   "pct": "2.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA to BBB",
+   "pct": "2.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB to B",
+   "pct": "0.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC to C",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "97.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Small Cap (<$2bn)",
+   "pct": "13.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mid Cap ($2bn – $10bn)",
+   "pct": "37.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Large Cap ($10bn – $50bn)",
+   "pct": "34.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Mega Cap (> $50bn)",
+   "pct": "15.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "North America",
+   "pct": "79.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Rest of the World",
+   "pct": "20.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Information Technology",
+   "pct": "24.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Health Care",
+   "pct": "4.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrials",
+   "pct": "4.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Discretionary",
+   "pct": "3.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financials",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Materials",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energy",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Real Estate",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication Services",
+   "pct": "0.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consumer Staples",
+   "pct": "0.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "0.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Macro Equity Risk Hedge",
+   "pct": "-1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Treasury Hedge",
+   "pct": "-6.7"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00BFZ4RX34/IE00BFZ4RX34__Factsheet_EN_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00BFZ4RX34/IE00BFZ4RX34__KID_FR_2026-03-13.pdf"
+}

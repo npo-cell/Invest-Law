@@ -1,0 +1,326 @@
+{
+ "n": "730",
+ "isin": "LU2169560799",
+ "nom": "NATIXIS WCM SELECT GLOBAL GROWTH EQUITY R/A USD",
+ "maison": "Natixis Investment Managers International",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-01-05",
+ "date_creation": "2021-04-26",
+ "devise": "USD",
+ "type_fonds": "Actions internationales",
+ "compartiment": "un Compartiment de Natixis International Funds (Lux) I",
+ "gerants": "Michael Hayward, Sanjay Ayer",
+ "encours_millions": "1327.3",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.95",
+ "sri": "5",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "LES PERFORMANCES INDIQUÉES SONT REPRÉSENTATIVES DES PERFORMANCES PASSÉES ET NE SONT PAS UNE GARANTIE DES RÉSULTATS FUTURS. La valeur du capital et les rendements évoluant au fil du temps (notamment du fait des fluctuations de change), le prix de rachat des actions sera supérieur ou inférieur à leur prix initial.",
+ "politique_fr": "Objectif d'investissement\nCroissance du capital sur le long terme\n\nPolitique d'investissement\nInvestit principalement dans des titres de participation d'entreprises aux quatre coins du monde, y compris sur les marchés développés et émergents.\nGestion active par des spécialistes des actions dans le cadre d'une approche à long terme de la détention de titres caractérisée par une faible rotation.\nSélection d'un nombre restreint de titres au sein de l'univers initial.\nIdentifie les entreprises possédant des avantages concurrentiels durables, ce qui démontre une cohérence en matière de résultats et se définit par une croissance organique à long terme des revenus et/ou une croissance du rendement des capitaux investis.\nCe Fonds promeut des critères environnementaux ou sociaux et de gouvernance (ESG) mais il n'a pas pour objectif un investissement durable. Il pourra investir partiellement dans des actifs ayant un objectif durable, par exemple tels que définis par la classification de l'UE.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 1349.3 → 1327.3 (« Actif net USDm 1 327,3 », factsheet 30/09/2026) ; indice « MSCI All Country World Index (Total Return Net) » → vide (KID : « Le Fonds n’est pas géré par rapport à un indice spécifique. Toutefois, à titre indicatif uniquement, la performance du Fonds peut être comparée à celle de l’Indice MSCI All Country World Index Net Total Return » ; la factsheet cite « Indicateur de référence MSCI ACWI NET TR USD INDEX ») ; disclaimer remplacé par celui de la factsheet ; compartiment refait depuis le KID ; gérants sans la mention « (WCM Investment Management) » (gestionnaire financier) ; classification Agressif → Dynamique (actions internationales de croissance, SRI 5). Date de création : « Création de la classe d'actions 26/04/2021 ». Frais : seulement « Frais courants 1,95% » (factsheet) et KID « Frais de gestion et autres frais administratifs et d’exploitation 1,95 % » ; pas de frais de gestion séparés. SFDR article 8 ; proportion minimale d’investissements durables 0 %, aucun % effectif écrit. Politique : la factsheet présente la politique sous forme de puces (puces retirées). Allocations : colonne « Fonds » ; zones et pays de la même table séparés (lignes « Autres pays » à « - » non reprises) ; devises « opérations de change à terme incluses ».",
+ "factsheet_fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_INTERNATIONAL/LU2169560799/LU2169560799__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_INTERNATIONAL/LU2169560799/LU2169560799__KID_FR_2026-01-05.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SIEMENS ENERGY AG",
+   "pct": "7.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROLLS-ROYCE HOLDINGS PLC",
+   "pct": "6.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS CO LTD",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COMFORT SYSTEMS USA INC",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SEA LTD",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SHARKNINJA INC",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "META PLATFORMS INC",
+   "pct": "3.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "95.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "4.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Amérique",
+   "pct": "47.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Europe",
+   "pct": "25.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents - Asie",
+   "pct": "14.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Région Pacifique",
+   "pct": "3.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Moyen Orient",
+   "pct": "3.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents - Amérique",
+   "pct": "0.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Trésorerie",
+   "pct": "4.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Etats-Unis",
+   "pct": "45.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "2.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "11.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "7.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "2.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "2.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Belgique",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "7.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "5.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "1.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "3.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Israël",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "0.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2 à 5 Mrds USD",
+   "pct": "1.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5 à 10 Mrds USD",
+   "pct": "3.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10 à 25 Mrds USD",
+   "pct": "19.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "25 à 50 Mrds USD",
+   "pct": "19.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 50 Mrds USD",
+   "pct": "52.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Trésorerie",
+   "pct": "4.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "28.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "19.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "13.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "11.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits financiers",
+   "pct": "10.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "7.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie",
+   "pct": "4.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar USA",
+   "pct": "59.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "12.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre Sterling",
+   "pct": "11.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won",
+   "pct": "7.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau Dollar de Taiwan",
+   "pct": "5.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Couronne Suédoise",
+   "pct": "2.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "YUAN REN.",
+   "pct": "1.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar Singapour",
+   "pct": "0.0"
+  }
+ ]
+}

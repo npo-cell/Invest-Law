@@ -1,0 +1,183 @@
+{
+ "n": "356",
+ "isin": "LU0572586591",
+ "nom": "ALKEN ABSOLUTE RETURN EUROPE A EUR",
+ "maison": "AFFM S.A.",
+ "factsheet_date": "2026-07-31",
+ "kid_date": "2026-02-20",
+ "date_creation": "2012-06-27",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes long/short (performance absolue)",
+ "compartiment": "Un compartiment de la SICAV Alken Fund (Fonds)",
+ "gerants": "Nicolas Walewski, Marc Festa",
+ "encours_millions": "123",
+ "encours_devise": "EUR",
+ "encours_date": "2026-07-31",
+ "frais_gestion": "2.10",
+ "frais_courants": "2.45",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Performances passées ne sont pas des indicateurs fiables des performances futures",
+ "politique_fr": "Vise une appréciation du capital et une performance absolue sur le long terme au travers d’expositions longues et courtes sur les marchés européens. Le portefeuille du fonds est géré activement sur les marchés actions via des expositions longues et courtes, principalement via des valeurs mobilières, des dérivés financiers linéaires « delta one » (i.e. des contrats de différence (CFD) ou des swaps de portefeuille) et des futures sur indices.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet la plus récente trouvée : 31/07/2026 (FR ; fundinfo n'a rien de plus récent, site affm.lu non exploitable). Date de création : part A « Date de lancement Jun-12 », « Depuis lancement (2) 27 Juin 2012 ». Encours « Actif du fonds: EUR 123m » au 31/07/2026. Frais : « Frais de Gestion (1) Part A : 2.10% » ; frais courants 2,45 % du KID (« Coûts de gestion et autres coûts administratifs et opérationnels ») ; commission de surperformance 20 % au-delà du high water mark. Indice : « Le Compartiment est géré de manière active sans référence à un indice de référence » (KID). Gérants : Nicolas Walewski (CIO) et Marc Festa (Gérant). SFDR article 8. Classification Equilibré : actions européennes long/short à performance absolue, exposition nette 30 % (SRI 3). Allocations : cinq principales positions (libellés anonymisés tels qu'écrits), répartitions nettes par industrie et par pays (valeurs négatives = expositions courtes) ; capitalisations (graphique) non reprises. Corrigé : SRI 3, frais courants 2.45, SFDR 8 et indice « Aucun » renseignés depuis le KID ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__Factsheet_FR_2026-07-31.pdf",
+ "kid_fichier": "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__KID_FR_2026-02-20.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "sfdr": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "C. Services (single stock)",
+   "pct": "9.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IT (single stock)",
+   "pct": "5.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Financials (single stock)",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IT (single stock)",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrials (single stock)",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication",
+   "pct": "11.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies",
+   "pct": "8.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industriel",
+   "pct": "7.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "3.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services Publics",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "-1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de Base",
+   "pct": "-2.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "-4.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "14.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "11.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "10.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Danemark",
+   "pct": "4.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "1.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "1.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "0.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "-0.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Espagne",
+   "pct": "-3.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "-11.3"
+  }
+ ]
+}

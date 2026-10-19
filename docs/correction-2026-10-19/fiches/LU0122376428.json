@@ -1,0 +1,102 @@
+{
+ "n": "401",
+ "isin": "LU0122376428",
+ "nom": "BGF WORLD ENERGY A2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2001-04-06",
+ "devise": "USD",
+ "type_fonds": "Actions secteur énergie",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Alastair Bishop, Mark Hume",
+ "encours_millions": "2408.58",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.75",
+ "frais_courants": "2.06",
+ "sri": "5",
+ "indice": "MSCI World Energy 30% Buffer 10/40 NET Index (USD)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploration, le développement, la production et la distribution d’énergie. Le gestionnaire financier par délégation (GFD) peut utiliser des instruments financiers dérivés (IFD) (c’est-à-dire des investissements dont le prix repose sur un ou plusieurs actifs sous-jacents) à des fins d’investissement afin d’atteindre l’objectif d’investissement du Fonds, et/ou de réduire le risque au sein du portefeuille du Fonds, réduire les coûts d’investissement et générer des revenus supplémentaires. Le Fonds peut, via les IFD, générer différents niveaux d’effet de levier (c’est-à-dire lorsque le Fonds acquiert une exposition au marché supérieure à la valeur de ses actifs).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026), part A2. Date de création : « Date de lancement de la Catégorie d'Actions : 06-avr.-2001 » (fonds : 15-mars-2001). Encours « Encours sous gestion (M) : 2.408,58 USD » (fonds). Frais : « Commission de gestion annuelle : 1,75% » ; frais courants 2,06 % (KID et factsheet). Indice : « Contrainte 1 : MSCI World Energy 30% Buffer 10/40 NET Index (USD) », utilisé pour la construction du portefeuille et la gestion des risques (KID : « MSCI World Energy 30% Buffer 10-40 Index »). SFDR : « Classification SFDR : Autre » : vide. Classification Agressif : actions sectorielles (énergie) (SRI 5). Allocations : 10 principales positions seulement (secteurs, pays et capitalisations sont des graphiques sans valeurs dans le texte). Corrigé : encours 2398.03 → 2408.58 (factsheet 30/09/2026) ; classification Agressif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__KID_FR_2026-04-29.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SHELL PLC",
+   "pct": "9.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHEVRON CORP",
+   "pct": "9.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EXXONMOBIL HOLDINGS CORP",
+   "pct": "9.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOTALENERGIES SE",
+   "pct": "8.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VALERO ENERGY CORPORATION",
+   "pct": "4.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MARATHON PETROLEUM CORP",
+   "pct": "4.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SUNCOR ENERGY INC (CANADA)",
+   "pct": "4.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CANADIAN NATURAL RESOURCES LTD",
+   "pct": "4.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TARGA RESOURCES CORP",
+   "pct": "4.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHENIERE ENERGY INC",
+   "pct": "4.44"
+  }
+ ]
+}

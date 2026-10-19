@@ -1,0 +1,94 @@
+{
+ "n": "840",
+ "isin": "LU2638914734",
+ "nom": "TOBAM GLOBAL BLOCKCHAIN EQUITY FUND B2 EUR",
+ "maison": "TOBAM",
+ "factsheet_date": "2025-11-28",
+ "kid_date": "2026-07-26",
+ "date_creation": "2023-09-21",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (Bitcoin et blockchain)",
+ "compartiment": "un compartiment de Most Diversified Portfolio SICAV",
+ "gerants": "",
+ "encours_millions": "13.04",
+ "encours_devise": "EUR",
+ "encours_date": "2025-11-28",
+ "frais_gestion": "",
+ "frais_courants": "1.95",
+ "sri": "6",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur des participations financières et des revenus qui en sont issus peut diminuer ou augmenter, et les investisseurs peuvent ne pas récupérer l'intégralité du capital investi.",
+ "politique_fr": "Objectifs et politique d'investissement\nL'objectif d'investissement du Produit est de chercher à obtenir un rendement en investissant dans des sociétés internationales en lien avec le Bitcoin et la blockchain. Le Produit n'investit ni directement ni indirectement (en utilisant des instruments financiers dérivés ou des fonds avec un investissement sous-jacent dans des cryptoactifs) dans le Bitcoin et la blockchain.\n\nLes variations de la valeur nette des actifs peuvent être comparées à l'indice Bloomberg Developed Markets Large & Mid Cap Net Return (prix à la clôture). Le Produit n'utilise pas de stratégie de gestion basée sur un indice, il est géré activement. Par conséquent, sa performance peut différer sensiblement de l'indice de référence, qui est utilisé pour déterminer le profil de risque global du Produit.\n\nLa stratégie d'investissement vise à exposer le Produit à des sociétés ayant une exposition économique au Bitcoin. La sélection des titres est pilotée par la Société de gestion qui utilise un filtre quantitatif et une analyse fondamentale ascendante des titres parmi les sociétés ayant une activité commerciale liée au Bitcoin (« mining », courtage, fournisseurs de matériel pour les activités de « mining », etc.) ou les sociétés détenant du Bitcoin au bilan. D'autres sociétés peuvent être incluses afin d'améliorer la corrélation avec le Bitcoin. Il en résulte un portefeuille d'actions qui investit dans des sociétés de grande, moyenne et petite capitalisation correspondant à la vision thématique de la Société de gestion. Compte tenu de sa stratégie d'investissement, le portefeuille peut être concentré. Au moins 90 % des actifs du Produit sont donc constamment exposés aux marchés d'actions mondiaux développés qui sont exposés au Bitcoin et à la blockchain, y compris les marchés de petite et moyenne capitalisation.\n\nLe Produit investit au moins 90 % de ses actifs nets dans des actions et des titres assimilés à des actions. Le Produit peut investir jusqu'à 100 % de ses actifs nets dans des actions d'émetteurs de petite et moyenne taille (moyennes, petites et micro capitalisations) et jusqu'à 90 % de ses actifs nets dans des actions d'émetteurs de grande taille.\n\nLe Produit relève de l'Article 8 du règlement SFDR. La stratégie d'investissement n'a pas d'objectif d'investissement durable mais promeut les caractéristiques environnementales et sociales et comporte une part minimum de 40 % d'investissements durables.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet : aucune factsheet 2026 de la part B2 trouvée (ni sur fundinfo, ni sur tobam.fr, qui ne publie qu'une factsheet de la stratégie « TOBAM Global Blockchain Equity Strategy » de décembre 2025, non propre à la part) ; la plus récente de la part est la factsheet française « Class : B2 » du 28/11/2025 (document du site invest-law, rangé dans INVESTLAW) : encours, positions et politique datent donc de novembre 2025. KID français du 26/07/2026 téléchargé sur tobam.fr (plus récent que celui du 10/06/2025) : SRI 6 (la factsheet de 2025 indiquait encore 4). Date de création = « DATE DE LANCEMENT DE LA PART 2023-09-21 ». Encours « ENCOURS DU FONDS EN MILLIONS 13,04 AU 28/11/2025 ». Frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,95 % (factsheet 2025 : « FRAIS EFFECTIFS 1,90% ») ; pas de frais de gestion séparés. Indice vide : l'indice Bloomberg Developed Markets Large & Mid Cap Net Return sert à la comparaison et au profil de risque (« La stratégie actuelle n'a pas d'indice de référence »). SFDR article 8 ; minimum de 40 % d'investissements durables (engagement, pas une part effective). Gérants : « Gestion en équipe », aucun nom. Classification Agressif : actions thématiques Bitcoin/blockchain, SRI 6. Allocations : top 10 au 28/11/2025 (allocation géographique = graphique non lisible). Corrigé : indice « Bloomberg Developed Markets Large & Mid Cap Net Return » → vide (comparaison et profil de risque seulement) ; compartiment → texte du KID ; politique → texte de la factsheet ; frais courants (1.95), SRI (6) et encours (13.04) inchangés, désormais sourcés par le KID du 26/07/2026 et la factsheet du 28/11/2025.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "MONEX GROUP INC",
+   "pct": "7.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SBI HOLDINGS INC",
+   "pct": "6.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CLEANSPARK INC",
+   "pct": "5.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NORTHERN TRUST CORP",
+   "pct": "5.16"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CHICAGO MERCANTILE EXCHANG-A",
+   "pct": "4.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROBINHOOD MARKETS INC - A",
+   "pct": "4.70"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GMO INTERNET INC",
+   "pct": "4.28"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VISA INC-CLASS A SHARES",
+   "pct": "4.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MASTERCARD INC-CLASS A",
+   "pct": "4.01"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BLACKROCK INC",
+   "pct": "3.98"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/TOBAM/LU2638914734/LU2638914734__Factsheet_FR_2025-11-28.pdf",
+ "kid_fichier": "INVESTLAW/TOBAM/LU2638914734/LU2638914734__KID_FR_2026-07-26.pdf"
+}

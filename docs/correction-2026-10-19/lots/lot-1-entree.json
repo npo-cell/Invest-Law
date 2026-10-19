@@ -1,0 +1,2666 @@
+[
+ {
+  "n": 2,
+  "isin": "LU1437015735",
+  "nom": "(ETF)AMUNDI CORE MSCI EUROPE EUR",
+  "maison": "AMUNDI ASSET MANAGEMENT",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__KID_FR_2026-06-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/LU1437015735/LU1437015735__KID_FR_2026-06-05.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-06-29",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes",
+   "compartiment": "Compartiment de la SICAV luxembourgeoise Amundi Index Solutions",
+   "gerants": "Lionel Brafman, Isabelle Lafargue, Quentin Berrou",
+   "encours": "8470.82",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_courants": "0.12",
+   "sri": "4",
+   "indice": "MSCI Europe",
+   "classification": "Dynamique",
+   "disclaimer": "Les performances passées ne préjugent en rien des résultats actuels et futurs et ne sont pas garantes des rendements à venir.",
+   "politique_fr": "Objectif d'investissement\nCe Compartiment est géré passivement. L’objectif de ce Compartiment est de répliquer la performance de l’Indice MSCI Europe (l’« Indice ») et de minimiser l’écart de suivi entre la valeur nette des actifs du Compartiment et la performance de l’Indice. Le niveau prévu d’écart de suivi dans des conditions normales du marché est indiqué dans le prospectus du Compartiment. L’",
+   "source_politique": "Factsheet",
+   "remarques": "Date de création = « Date de création de la classe 29/06/2016 » ; « Date de la première VL 10/11/2016 ». Encours : « Actif géré 8 470,82 ( millions EUR ) » au 31/08/2026, sans préciser s'il s'agit du compartiment ou de la classe. Frais de gestion : seuls les « Frais de gestion et autres coûts administratifs ou d’exploitation » sont donnés (0,12 % factsheet et KID) → frais courants. ETF à réplicati"
+  }
+ },
+ {
+  "n": 20,
+  "isin": "LU1914336968",
+  "nom": "(I/C)ABRDN LIQUIDITY FUND (LUX) STG FD X-2 GBP",
+  "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_EN_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__KID_EN_2026-05-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_FR_2026-06-30.pdf",
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__KID_EN_2026-05-07.pdf",
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__KID_FR_2026-05-07.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-08-31 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2018-12-06",
+   "devise": "GBP",
+   "type_fonds": "Monétaire (GBP)",
+   "compartiment": "Sterling Fund (le Fonds) est un compartiment libellé en Sterling d’une SICAV (société d’investissement à capital variable), abrdn Liquidity Fund (Lux), immatriculée au Luxembourg.",
+   "gerants": "Liquidity Team",
+   "encours": "14.4",
+   "encours_devise": "GBP",
+   "encours_date": "2026-06-30",
+   "frais_gestion": "0.20",
+   "frais_courants": "0.23",
+   "sri": "1",
+   "indice": "SONIA (GBP)",
+   "classification": "Défensif",
+   "sfdr": "8",
+   "disclaimer": "La performance passée n'est pas une indication des rendements futurs. La valeur des placements et le revenu qui en découle peuvent diminuer et les investisseurs peuvent récupérer une somme inférieure au montant investi.",
+   "politique_fr": "Objectif\nL’objectif du Fonds est de préserver le capital et de fournir de la liquidité, tout en ciblant une performance conforme aux taux en vigueur sur le marché monétaire à court terme, pour lequel le SONIA a été choisi en tant qu'indice de référence.\n\nTitres composant le portefeuille\n- Le Fonds investit dans des instruments du marché monétaire de haute qualité libellés en livre sterling.\n- Les ",
+   "source_politique": "Factsheet",
+   "remarques": "Fonds monétaire à court terme LVNAV (« Ce fonds est un fonds à court terme du marché monétaire à faible valeur liquidative (LVNAV) »). Factsheet FR du 30/06/2026 (Class X-2 Acc GBP) ; KID FR = version suisse. Date de création = « Date de lancement de la catégorie d'actions 06 décembre 2018 » ; lancement du fonds 01 juillet 1985. Encours = « Encours du fonds GBP14,4M » tel qu'écrit (montant faible "
+  }
+ },
+ {
+  "n": 36,
+  "isin": "LU1005243503",
+  "nom": "(I/C)BGF FIXED INCOME GLOBAL OPP D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__KID_FR_2026-08-14.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243503/LU1005243503__KID_FR_2026-08-14.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-12-18",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Rick Rieder, Jose Aguilar, Russell Brownback, Aidan Doyle, Max Huefner",
+   "encours": "9105.92",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.50",
+   "frais_courants": "0.72",
+   "sri": "3",
+   "classification": "Défensif",
+   "categorie": "Bond Global",
+   "duration": "3.43 ans",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres à revenu fixe. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte).\n\nLes titres à revenu fixe sont libellés d",
+   "source_politique": "Factsheet",
+   "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 18-déc.-2013 » (fonds lancé le 31-janv.-2007). Encours « Encours sous gestion (M) : 9.105,92 USD » (fonds) au 31-août-2026. Frais de gestion = « Commission de gestion annuelle : 0,50% » ; frais courants = KID 0,72 % (= « Frais courants : 0,72% » factsheet). Indice laissé vide : la factsheet ne donne qu'un « Comparateur 1 : BBG Glob"
+  }
+ },
+ {
+  "n": 37,
+  "isin": "LU0329592538",
+  "nom": "(I/C)BGF GLOBAL ALLOCATION D2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__KID_FR_2026-09-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0329592538/LU0329592538__KID_FR_2026-09-17.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2007-11-12",
+   "devise": "USD",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Rick Rieder, Russ Koesterich",
+   "encours": "19371.83",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "1.03",
+   "sri": "3",
+   "indice": "S&P 500 (36 %), du FTSE World (ex-US) (24 %), du 5 Yr US Treasury Note (24 %) et du FTSE Non-USD World Government Bond Index (16 %)",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) et des titres à revenu fixe (RF) dans des conditions de marché normales. Les titres RF incluent des obligations et des instruments du marché mon",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet belge (9 pages). Date de création = « Date de lancement : 12-nov.-2007 » (rubrique de la part, sous « Date de lancement du Fonds : 03-janv.-1997 »). Encours « Actif net du Fonds (M) : 19.371,83 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,03 % (identique factsheet). Indi"
+  }
+ },
+ {
+  "n": 38,
+  "isin": "LU0252968424",
+  "nom": "(I/C)BGF WORLD GOLD D2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252968424/LU0252968424__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-05-19",
+   "devise": "USD",
+   "type_fonds": "Actions sectorielles (mines d'or)",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Evy Hambro, Tom Holl",
+   "encours": "11896.07",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.00",
+   "frais_courants": "1.33",
+   "sri": "6",
+   "indice": "FTSE Gold Mines Index",
+   "classification": "Agressif",
+   "categorie": "Equity Global Gold & Precious Metals",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet belge. Date de création = « Date de lancement : 19-mai-2006 » (rubrique de la part ; fonds lancé le 30-déc.-1994). Encours « Actif net du Fonds (M) : 11.896,07 USD ». Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,33 % (identique factsheet). Indice FTSE Gold Mines Index : sert à "
+  }
+ },
+ {
+  "n": 39,
+  "isin": "LU0827889485",
+  "nom": "(I/C)BGF WORLD HEALTHSCIENCE FUND D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0827889485/LU0827889485__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-10-25",
+   "devise": "EUR",
+   "type_fonds": "Actions sectorielles (santé)",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Erin Xie, Xiang Liu",
+   "encours": "13132.90",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "1.06",
+   "sri": "4",
+   "indice": "MSCI World Health Care Index",
+   "classification": "Agressif",
+   "categorie": "Equity Global Healthcare",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociét",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet belge. Date de création = « Date de lancement : 25-oct.-2012 » (rubrique de la part ; fonds lancé le 06-avr.-2001). Encours « Actif net du Fonds (M) : 13.132,90 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,06 % (identique factsheet). Indice : « MSCI World Health Care Ind"
+  }
+ },
+ {
+  "n": 40,
+  "isin": "LU0252963383",
+  "nom": "(I/C)BGF WORLD MINING FUND D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-05-19",
+   "devise": "EUR",
+   "type_fonds": "Actions sectorielles (mines et métaux)",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Evy Hambro, Olivia Markham",
+   "encours": "7908.61",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.00",
+   "frais_courants": "1.32",
+   "sri": "5",
+   "indice": "MSCI ACWI Metals and Mining 30% Buffer 10/40 Index",
+   "classification": "Agressif",
+   "categorie": "Equity Global Materials",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploitation minière et/ou la production de métaux et/ou minéraux de base et précieux.\n\nLe Fonds ",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet belge. Date de création = « Date de lancement : 19-mai-2006 » (rubrique de la part ; fonds lancé le 21-mars-1997). Encours « Actif net du Fonds (M) : 7.908,61 USD ». Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,32 % (identique factsheet). Indice « MSCI ACWI Metals and Mining 30"
+  }
+ },
+ {
+  "n": 41,
+  "isin": "LU0376438312",
+  "nom": "(I/C)BGF WORLD TECHNOLOGY FUND D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0376438312/LU0376438312__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2008-07-22",
+   "devise": "EUR",
+   "type_fonds": "Actions sectorielles (technologie)",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Tony Kim, Reid Menge",
+   "encours": "19749.22",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "1.06",
+   "sri": "5",
+   "indice": "MSCI ACWI Information Technology 10/40 Index EUR",
+   "classification": "Agressif",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociét",
+   "source_politique": "Factsheet",
+   "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 22-juil.-2008 » (fonds lancé le 03-mars-1995). Encours « Encours sous gestion (M) : 19.749,22 USD ». Frais de gestion = « Commission de gestion annuelle : 0,75% » ; frais courants = KID 1,06 % (= « Frais courants : 1,06% » factsheet). Indice : factsheet « Contrainte 1 : MSCI ACWI Information Technology 10/40 Index EUR » ; le KID («"
+  }
+ },
+ {
+  "n": 46,
+  "isin": "LU0473185139",
+  "nom": "(I/C)BLACKROCK ESG MULTI ASSET D2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__KID_FR_2026-04-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0473185139/LU0473185139__KID_FR_2026-04-22.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2009-12-14",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Yasmin Meissner, Adam Ryan, Lucy Parker",
+   "encours": "2907.46",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.65",
+   "frais_courants": "1.00",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds est activement géré et le niveau d’investissement du Fonds dans ces catégories d’actifs peut varier sans limite en fon",
+   "source_politique": "Factsheet",
+   "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 14-déc.-2009 » (fonds lancé le 21-déc.-1998). Encours « Encours sous gestion (M) : 2.907,46 EUR ». Frais de gestion = « Commission de gestion annuelle : 0,65% » ; frais courants = KID « Frais de gestion et autres coûts administratifs ou d’exploitation » 1,00 % (la factsheet indique « Frais courants : 0,99% »). Indice laissé vide : "
+  }
+ },
+ {
+  "n": 47,
+  "isin": "LU0252969075",
+  "nom": "(I/C)BLACKROCK GLOBAL FUNDS WORLD ENERGY D2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252969075/LU0252969075__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-05-19",
+   "devise": "USD",
+   "type_fonds": "Actions sectorielles (énergie)",
+   "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+   "gerants": "Alastair Bishop, Mark Hume",
+   "encours": "2398.03",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.00",
+   "frais_courants": "1.31",
+   "sri": "5",
+   "indice": "MSCI World Energy 30% Buffer 10/40 NET Index (USD)",
+   "classification": "Agressif",
+   "categorie": "Equity Global Energy",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploration, le développement, la production et la distribution d’énergie.\n\nLe gestionnaire finan",
+   "source_politique": "Factsheet",
+   "remarques": "Date de création = « Date de lancement de la Catégorie d'Actions : 19-mai-2006 » (fonds lancé le 15-mars-2001). Encours « Encours sous gestion (M) : 2.398,03 USD ». Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID 1,31 % (= « Frais courants : 1,31% » factsheet). Indice : factsheet « Contrainte 1 : MSCI World Energy 30% Buffer 10/40 NET Index (USD) » ; le KID (« "
+  }
+ },
+ {
+  "n": 57,
+  "isin": "LU1006079997",
+  "nom": "(I/C)CAPITAL GROUP GLOBAL ALLOCATION FUND Z EUR",
+  "maison": "Capital Group",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__KID_FR_2026-08-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1006079997/LU1006079997__KID_FR_2026-08-21.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2014-01-31",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Ce Fonds est un compartiment de Capital International Fund, une Société d'investissement à capital variable (SICAV) de droit luxembourgeois, qui peut être qualifiée d'OPCVM.",
+   "gerants": "H.Applbaum, T.Tani, A.Samsi, A.Cormack, P.Chitty",
+   "encours": "1530",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.700",
+   "frais_courants": "0.85",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne présagent pas des résultats futurs.",
+   "politique_fr": "Objectif:\nLe fonds cherche à atteindre trois objectifs équilibrés: une croissance du capital à long terme, la conservation du principal et un revenu actuel en investissant en actions et obligations ainsi que dans d'autres titres à revenu fixe du monde entier. Il applique une politique de sélection négative (exclusion) basée sur des filtres « normatifs » et des critères ESG pour ses investissements",
+   "source_politique": "Factsheet",
+   "remarques": "Date de création = « Date de lancement de la catégorie d’actions: 31 janvier 2014 » (= date de lancement du fonds). Encours « Taille du fonds: €1.530 millions » (lu 1 530 millions d'EUR, le point servant de séparateur de milliers) ; devise de référence du fonds USD. Frais de gestion = « Frais de gestion p.a. 0,700% » (classe Z) ; frais courants = KID « Frais de gestion et autres frais administrati"
+  }
+ },
+ {
+  "n": 58,
+  "isin": "LU1295554833",
+  "nom": "(I/C)CAPITAL GROUP NEW PERSPECTIVE FUND Z EUR",
+  "maison": "Capital Group",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__KID_FR_2026-10-05.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CAPITAL_GROUP/LU1295554833/LU1295554833__KID_FR_2026-10-05.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-10-30",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "compartiment": "Compartiment de la SICAV Capital International Fund, qui est gérée par Capital International Management Company Sàrl",
+   "gerants": "Aline Avzaradel, Andraz Razen, Anne-Marie Peterson, Barbara Burtin, Brady Enright, Kohei Higashi, Noriko Chen, Patrice Collette, Rob Lovelace, Steven Watson",
+   "encours": "17256",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "0.84",
+   "sri": "4",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne présagent pas des résultats futurs.",
+   "politique_fr": "Objectif\nLe principal objectif d'investissement du fonds consiste à atteindre une croissance à long terme du capital en investissant dans des actions ordinaires de sociétés du monde entier. Dans le cadre de son objectif d'investissement principal, le fonds investit essentiellement dans des actions ordinaires dont le conseiller en investissement estime qu'elles présentent un potentiel de croissance",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet belge (EUR, au 31 août 2026). Date de création = « Date de lancement 30/10/2015 » de la classe Z (Acc) (= « Date de lancement du fonds 30 octobre 2015 »). Encours « Taille du fonds €17.256 millions » (lu 17 256 millions d'EUR, le point servant de séparateur de milliers) ; devise de référence du fonds USD. Frais de gestion = « Frais de gestion p.a. 0,75% » ; frais courants = KID 0.84 % (="
+  }
+ },
+ {
+  "n": 67,
+  "isin": "LU0992631647",
+  "nom": "(I/C)CARMIGNAC PORTFOLIO EMERG PAT F EUR",
+  "maison": "CARMIGNAC GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992631647/LU0992631647__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0992631647/LU0992631647__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CARMIGNAC_GESTION/LU0992631647/LU0992631647__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CARMIGNAC_GESTION/LU0992631647/LU0992631647__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "document": "15/11/2013 (date de la 1ère VL de la part F EUR Acc) ; fonds lancé le 31/03/2011",
+    "note": "factsheet p.1 : « Date de la 1ère VL : 15/11/2013 », « Date de lancement du Fonds : 31/03/2011 » ; 30/12/2013 n'apparaît nulle part"
+   },
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "document": "Carmignac Portfolio Emerging Patrimoine F EUR Acc",
+    "note": "factsheet p.1 : la part de l'ISIN LU0992631647 est F EUR Acc, pas A EUR Acc"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "385 M€ (actifs sous gestion du fonds) ; encours de la part 64 M€",
+    "note": "factsheet p.1 au 30/09/2026 : « Actifs sous gestion du Fonds : 385M€ / 437M$ », « Encours de la part : 64M€ » ; 1 247 M absent"
+   },
+   "sri": {
+    "verdict": "DIFFERENT",
+    "document": "3",
+    "note": "factsheet p.1 : échelle 1 2 3* 4 5 6 7 ; KID : « classe de risque 3 sur 7 »"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR Capitalized Index",
+    "note": "factsheet p.1 « Indicateur de référence » et KID « Objectif » ; S&P500 absent"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "document": "KID : investi principalement en actions et obligations des pays émergents ; exposition actions limitée à 50% de l'actif net ; 40% à 100% d'obligations",
+    "note": "texte anglais du classeur absent des PDF (KID en français) et contredit le KID : « jusqu'à 100% en actions » vs « L'exposition du portefeuille aux actions sera limitée à 50% de l'actif net »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-12-30",
+   "devise": "EUR",
+   "type_fonds": "UCITS, Mixed Asset Fund, Emerging Markets",
+   "compartiment": "Carmignac Portfolio Emerging Patrimoine A EUR Acc",
+   "encours": "1247000000",
+   "sri": "5",
+   "indice": "S&P500",
+   "politique_fr": "The Sub-Fund invests mainly in equities of emerging countries companies and in bonds denominated in emerging countries currencies or issued by emerging countries or by companies established in emerging countries. The Sub-Fund may invest up to 100% of its net assets in equities and up to 100% of its net assets in bonds. The Sub-Fund may invest up to 10% of its net assets in UCITS/UCIs.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Fiche mise à jour sur le site le 2026-06-08."
+  }
+ },
+ {
+  "n": 101,
+  "isin": "BE6309878286",
+  "nom": "(I/C)DPAM B ACTIVE STRATEGY W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309878286/BE6309878286__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2022-02-14",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (fonds de fonds, dominante actions)",
+   "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+   "encours": "296.81",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.65",
+   "frais_courants": "0.97",
+   "sri": "3",
+   "indice": "Aucun",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "duration": "5.58 ans",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value à long terme en investissant dans des titres de capital et/ou des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment. Des informations quantitatives provenant d'un marché plus large peuvent être utilisées pour la ",
+   "source_politique": "Factsheet",
+   "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 14.02.2022 » ; « Création du compartiment 13.10.2011 (1) » (compartiment de DPAM B depuis 01/04/2022, issu de DPAM Horizon B Active Strategy). Encours « Taille (to"
+  }
+ },
+ {
+  "n": 102,
+  "isin": "BE6309882320",
+  "nom": "(I/C)DPAM B BALANCED STRATEGY W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6309882320/BE6309882320__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-11-14",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (fonds de fonds)",
+   "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+   "encours": "881.35",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.60",
+   "frais_courants": "0.90",
+   "sri": "3",
+   "indice": "Aucun",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "5.44 ans",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value modérée à moyen et long terme en investissant dans des titres de capital et/ou des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment. Des informations quantitatives provenant d'un marché plus large peuvent être u",
+   "source_politique": "Factsheet",
+   "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 14.11.2019 » ; « Création du compartiment 13.10.2011 (1) » (compartiment de DPAM B depuis 01/04/2022, issu de DPAM Horizon B Balanced Strategy). Encours « Taille ("
+  }
+ },
+ {
+  "n": 103,
+  "isin": "BE6299350734",
+  "nom": "(I/C)DPAM B DEFENSIVE STRATEGY F EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6299350734/BE6299350734__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2018-04-18",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (fonds de fonds, dominante obligataire)",
+   "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+   "encours": "78.57",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.42",
+   "frais_courants": "0.73",
+   "sri": "3",
+   "indice": "Aucun",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Conservative",
+   "sfdr": "8",
+   "duration": "5.65 ans",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value à moyen terme en investissant dans des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment. Des informations quantitatives provenant d'un marché plus large peuvent être utilisées pour la gestion des risques et l'év",
+   "source_politique": "Factsheet",
+   "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Part F (et non W). Date de création = « Date de la 1ère VNI (classe d'action) 18.04.2018 » ; « Création du compartiment 13.10.2011 (1) » (compartiment de DPAM B depuis 01/04/2022, issu de DPAM Horizon B Defensive Strategy)"
+  }
+ },
+ {
+  "n": 104,
+  "isin": "BE6246078545",
+  "nom": "(I/C)DPAM B EQUITIES EUROPE SUSTAINABLE W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246078545/BE6246078545__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-08-16",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes (durables)",
+   "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+   "encours": "845.98",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.80",
+   "frais_courants": "0.91",
+   "sri": "4",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises européennes. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportion minimale d'invest",
+   "source_politique": "Factsheet",
+   "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 16.08.2013 » ; « Création du compartiment 05.09.2002 ». Encours « Taille (toutes classes) mn EUR 845.98 ». Frais de gestion = « *dont frais de gestion 0.80% » ; fr"
+  }
+ },
+ {
+  "n": 105,
+  "isin": "BE6246061376",
+  "nom": "(I/C)DPAM B EQUITIES NEWGEMS SUSTAINABLE W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__KID_FR_2026-10-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246061376/BE6246061376__KID_FR_2026-10-09.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-08-16",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales (thématiques durables)",
+   "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+   "encours": "1430.31",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.80",
+   "frais_courants": "0.92",
+   "sri": "5",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Objectif: L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises du monde entier sélectionnés sur base de certains tendances et thèmes d'activités. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le se",
+   "source_politique": "Factsheet",
+   "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 16.08.2013 » ; « Création du compartiment 22.09.2006 ». Encours « Taille (toutes classes) mn EUR 1'430.31 ». Frais de gestion = « *dont frais de gestion 0.80% » ; "
+  }
+ },
+ {
+  "n": 106,
+  "isin": "BE6246059354",
+  "nom": "(I/C)DPAM B REAL ESTATE EUROPE SUSTAINABLE W EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6246059354/BE6246059354__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-08-16",
+   "devise": "EUR",
+   "type_fonds": "Actions immobilières européennes",
+   "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+   "encours": "517.34",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.80",
+   "frais_courants": "0.91",
+   "sri": "5",
+   "classification": "Agressif",
+   "categorie": "Equity Europe Real Estate",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Objectif: L'objectif du compartiment est de vous offrir une exposition aux titres représentatifs du secteur immobilier européen. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportio",
+   "source_politique": "Factsheet",
+   "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 16.08.2013 » ; « Création du compartiment 16.12.1999 ». Encours « Taille (toutes classes) mn EUR 517.34 ». Frais de gestion = « *dont frais de gestion 0.80% » ; fr"
+  }
+ },
+ {
+  "n": 108,
+  "isin": "LU3076252967",
+  "nom": "(I/C)DPAM L EQUITIES EUROPE DEFENCE W EUR",
+  "maison": "CA Indosuez Wealth (Europe)",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__KID_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE/LU3076252967/LU3076252967__KID_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2025-07-09",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes sectorielles (défense)",
+   "compartiment": "Compartiment de DPAM L, SICAV de droit luxembourgeois",
+   "encours": "68.19",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.60",
+   "frais_courants": "0.9",
+   "sri": "5",
+   "classification": "Agressif",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures. Les rendements peuvent augmenter ou diminuer en raison des fluctuations monétaires.",
+   "politique_fr": "Objectif(s): Augmenter la valeur de votre investissement à long terme.\n\nIndice de reference: MSCI Europe Aerospace & Defense Net Total Return Index. Utilisation : uniquement à des fins de comparaison de performance.\n\nPolitique d’investissement: Dans des conditions normales de marché, le compartiment investit principalement en actions de sociétés européennes actives dans le secteur de la défense. T",
+   "source_politique": "Factsheet",
+   "remarques": "Maison One Life « CA Indosuez Wealth (Europe) » : la factsheet indique « Société de gestion CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit luxembourgeois » et « Gestion de portefeuille Degroof Petercam Asset Management, SA de droit belge ». Date de création = « Date de la 1ère VNI (classe d'action) 09.07.2025 » (« Création du compartiment 01.07.2025 ») ; historique < 1 an de volatilité n"
+  }
+ },
+ {
+  "n": 113,
+  "isin": "FR001400BE49",
+  "nom": "(I/C)ECHIQUIER GLOBAL FLEXIBLE G EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR001400BE49/FR001400BE49__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2022-09-22",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (flexible, dominante actions)",
+   "compartiment": "Compartiment de la SICAV CLUB SOLUTIONS gérée par La Financière de l'Echiquier",
+   "gerants": "Alexis Bienvenu, Enguerrand Artaz",
+   "encours": "19",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.10",
+   "frais_courants": "1.92",
+   "sri": "3",
+   "indice": "65% MSCI WORLD NET TOTAL RETURN (en EUR), 35% BLOOMBERG EURO AGGREGATE TREASURY 1-3 ANS",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+   "politique_fr": "Echiquier Global Flexible est un OPC recherchant à surperformer à moyen terme son objectif de gestion au travers d'une gestion discrétionnaire et opportuniste notamment sur les marchés d'actions, de taux, de crédit et de devises.",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet la plus récente au 31/08/2026. Date de création = « Date de 1ère VL 22/09/2022 » (compartiment créé le 19/09/2022 ; SICAV Club Solutions créée le 04/01/2019). Compartiment : texte du KID (factsheet : « Type Compartiment de Sicav », « Sicav Club Solutions »). Frais de gestion = « Frais de gestion 1,10% TTC max. » (taux maximum) ; frais courants = KID « Frais de gestion et autres frais adm"
+  }
+ },
+ {
+  "n": 127,
+  "isin": "LU2612531868",
+  "nom": "(I/C)FFG - BLI AMERICAN IMPACT EQUITIES I USD",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531868/LU2612531868__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531868/LU2612531868__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531868/LU2612531868__KID_FR_2026-02-10.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531868/LU2612531868__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2612531868__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments) ni le KID ne nomment de gérant personne physique"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "75 % (actifs durables : Environnement 37,6 % + Social 37,4 % ; 75,0 % des revenus alignés ODD)",
+    "note": "factsheet p.1 (image) « Répartition des actifs durables » ; 86 n'apparaît pas"
+   },
+   "politique_en": {
+    "verdict": "DIFFERENT",
+    "document": "minimum 75% en actions de sociétés cotées sur les marchés réglementés américains (factsheet et KID, en français)",
+    "note": "texte anglais (prospectus) absent des PDF ; il indique « at least 80% » alors que factsheet et KID disent « minimum 75% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-06-15",
+   "devise": "USD",
+   "type_fonds": "US Flex Cap Stocks",
+   "compartiment": "FFG BLI AMERICAN IMPACT EQUITIES I USD",
+   "gerants": "Luc Bauler",
+   "encours": "20.37",
+   "frais_gestion": "0.65",
+   "frais_courants": "1.21",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "86",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment FFG – American Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur les marchés réglementés américains.\n\nLe compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OP",
+   "politique_en": "Investment policy: The Sub-Fund invests at least 80% of its net assets in equities of companies listed on regulated US markets. In order to achieve its objective and for the purpose of investing its cash, and subject to the provisions of chapters 4 and 5 of the Prospectus, the Sub-Fund may invest up to a maximum of 10% of its net assets in UCITS and other UCI.\n\nThe Sub-Fund may also, for the purpo",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 128,
+  "isin": "LU2612531355",
+  "nom": "(I/C)FFG - BLI EUROPEAN IMPACT EQUITIES I EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531355/LU2612531355__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531355/LU2612531355__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531355/LU2612531355__KID_FR_2026-02-10.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531355/LU2612531355__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2612531355__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments) ni le KID ne nomment de gérant personne physique"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "89,3 % (Environnement 42,1 % + Social 47,2 % ; 89,3 % des revenus alignés ODD)",
+    "note": "factsheet p.1 (image) ; 93 n'apparaît pas"
+   },
+   "politique_en": {
+    "verdict": "DIFFERENT",
+    "document": "minimum 75% en actions de sociétés cotées sur un marché réglementé européen (factsheet et KID)",
+    "note": "texte anglais (prospectus) absent des PDF ; « at least 80% » contre « minimum 75% » dans factsheet et KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-06-15",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Europe Mid-Cap Equity",
+   "compartiment": "FFG BLI EUROPEAN IMPACT EQUITIES I EUR",
+   "gerants": "Tom Michels",
+   "encours": "14.17",
+   "frais_gestion": "0.65",
+   "frais_courants": "1.42",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "93",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment FFG – European Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur un marché réglementé européen.\n\nLe compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OPC, en",
+   "politique_en": "Investment policy: The Sub-Fund invests at least 80% in companies listed on a regulated European market. In order to achieve its objective and for the purpose of investing its liquid assets, and subject to the provisions of chapters 4. and 5. of the Prospectus, the Sub-Fund may invest up to a maximum of 10% of its net assets in UCITS and other UCI.\n\nThe Sub-Fund may also, for the purpose of invest",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Code ESG du site : AAA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 129,
+  "isin": "LU2612532833",
+  "nom": "(I/C)FFG - BLI GLOBAL IMPACT EQUITIES CLASS I EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612532833/LU2612532833__KID_FR_2026-07-11.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612532833/LU2612532833__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612532833/LU2612532833__KID_FR_2026-07-11.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532833/LU2612532833__KID_FR_2026-07-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2612532833__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments) ni le KID ne nomment de gérant personne physique"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "86,4 % (Environnement 38,35 % + Social 48,07 % ; 86,4 % des revenus alignés ODD)",
+    "note": "factsheet p.1 (image) ; 93 n'apparaît pas"
+   },
+   "politique_en": {
+    "verdict": "DIFFERENT",
+    "document": "minimum 75% en actions, sans restriction géographique, sectorielle et monétaire (factsheet et KID)",
+    "note": "texte anglais (prospectus) absent des PDF ; « minimum of 80% » contre « minimum 75% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-03-12",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Global Large-Cap Growth Equity",
+   "compartiment": "FFG BLI GLOBAL IMPACT EQUITIES I EUR",
+   "gerants": "Annick Drui",
+   "encours": "33.56",
+   "frais_gestion": "0.65",
+   "frais_courants": "0.9",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "93",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment FFG – BLI Global Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% de ses actifs nets en actions sans restriction géographique (y inclus les pays émergents), sectorielle et monétaire. Le Compartiment est géré activement sans référence",
+   "politique_en": "Investment Policy: The Sub-Fund invests a minimum of 80% of its net assets in equities without geographical (including emerging countries), sector or currency restrictions.\n\nThe Sub-Fund may invest directly in Chinese A-Shares listed on the markets of the People’s Republic of China through China Connect. In pursuing its objective and for the purpose of investing its cash, and subject to the provis",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Code ESG du site : AAA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 130,
+  "isin": "LU0945617289",
+  "nom": "(I/C)FFG GLOBAL DEFENSIVE I EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU0945617289/LU0945617289__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU0945617289/LU0945617289__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU0945617289/LU0945617289__KID_FR_2026-02-10.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945617289/LU0945617289__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0945617289__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : Orcadia Asset Management) ni le KID ne nomment de gérant personne physique"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucune part d'investissements durables chiffrée dans la factsheet ; KID : seulement « un minimum de 10% » ; 87 absent"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-08-01",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund EUR Cautious Allocation - Global",
+   "compartiment": "FFG GLOBAL DEFENSIVE I EUR",
+   "gerants": "Gunter Van Rossem",
+   "encours": "11.62",
+   "frais_gestion": "0.75",
+   "frais_courants": "1.37",
+   "sri": "2",
+   "indice": "n/a",
+   "classification": "Défensif",
+   "categorie": "Mixte",
+   "durable_pct": "87",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif du Compartiment est l’appréciation du capital à long terme au travers d’un portefeuille diversifié, tout en maintenant limité le risque de perte de capital et un niveau de volatilité inférieur à celui des marchés d’actions. La stratégie d’investissement du Compartiment peut être qualifiée de « défensive ».\n\nAfin d’atteindre son objectif, le Compartiment investira principalement directem",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Code ESG du site : AA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 132,
+  "isin": "LU2059537956",
+  "nom": "(I/C)FFG GLOBAL EQUITY CONVICTIONS I EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2059537956/LU2059537956__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2059537956/LU2059537956__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2059537956/LU2059537956__KID_FR_2026-02-10.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537956/LU2059537956__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2059537956__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet p.2 : seulement « un minimum de 5% de ses actifs nets dans des actifs durables » ; 76 absent"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2021-09-01",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Global Large-Cap Blend Equity",
+   "compartiment": "FFG GLOBAL EQUITY CONVICTIONS I EUR",
+   "gerants": "Aaron S. Anderson",
+   "encours": "4.96",
+   "frais_gestion": "0.85",
+   "frais_courants": "1.2",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "76",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif d’investissement de ce compartiment géré activement est de surperformer l’indice MSCI World Net Return en Euro (« l’Indice de référence »).\n\nAfin d’atteindre son objectif d’investissement, le Compartiment investit principalement dans des actions et des titres liés à des actions d’émetteurs établis dans les pays représentés dans l’indice de référence, ou liés à ceux-ci. Le compartiment a",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Code ESG du site : AA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 133,
+  "isin": "LU1697917166",
+  "nom": "(I/C)FFG GLOBAL FLEXIBLE CONVICTIONS I EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU1697917166/LU1697917166__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU1697917166/LU1697917166__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU1697917166/LU1697917166__KID_FR_2026-02-10.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917166/LU1697917166__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1697917166__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "ni la factsheet (rubrique « Gestionnaire » : BLI - Banque de Luxembourg Investments s.a.) ni le KID ne nomment de gérant personne physique"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet : seulement « un minimum de 5% de ses actifs nets dans des actifs durables » ; 79 absent"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-04-25",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund EUR Flexible Allocation - Global",
+   "compartiment": "FFG GLOBAL FLEXIBLE CONVICTIONS I EUR",
+   "gerants": "Guy Wagner",
+   "encours": "34.64",
+   "frais_gestion": "0.65",
+   "frais_courants": "0.98",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Equilibré",
+   "categorie": "Mixed",
+   "durable_pct": "79",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif du compartiment est la recherche d’un rendement sur le moyen terme supérieur à celui d’un placement obligataire en Euro. A cette fin, le Compartiment est investi en actions, obligations, ETCs, instruments du marché monétaire ou en liquidités. Il peut également investir dans des Organismes de Placement Collectifs (OPC) pour un maximum de 10%.\n\nLe poids de ces différentes classes d’actifs",
+   "politique_en": "- Investment approach: The objective of the sub-fund is to seek a medium-term return higher than that of a Euro bond investment. In addition to its financial objective, the sub-fund generates a concrete social impact. The percentage of the sub-fund’s portfolio invested in the different asset classes is variable depending on their potential contribution to the sub-fund’s objective. The sub-fund is ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Code ESG du site : AA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 143,
+  "isin": "LU0366762994",
+  "nom": "(I/C)FRANKLIN TECHNOLOGY I EUR",
+  "maison": "Franklin Templeton International Services S.à r.l.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__KID_FR_2026-09-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_A_R_L/LU0366762994/LU0366762994__KID_FR_2026-09-21.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2008-06-16",
+   "devise": "EUR",
+   "type_fonds": "Actions sectorielles (technologie)",
+   "compartiment": "Un compartiment de Franklin Templeton Investment Funds (OPCVM)",
+   "gerants": "Jonathan T. Curtis, Matthew Cioppa, Dan H. Searle III",
+   "encours": "15430",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_courants": "0.85",
+   "sri": "5",
+   "classification": "Agressif",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs.",
+   "politique_fr": "Chercher une croissance de l'investissement à long terme, principalement par la croissance du capital. Le Fonds investit principalement dans les actions d'entreprises de toutes capitalisations boursières dans les secteurs de la technologie, comme les ordinateurs et les composants électroniques, les technologies de l'information, l'internet, les télécommunications et les services de médias et d'inf",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet la plus récente disponible : 31/08/2026. Date de création = « Date de création de la part 16.06.2008 » (fonds créé le 03.04.2000). Encours « Actif net total (USD) $15,43 milliard » converti en millions. Frais de gestion vide : la factsheet n'indique que les « Frais courants 0,85% » ; frais courants = KID « Frais de gestion et autres frais » 0.85 % (« estimation »). Indice vide : « MSCI W"
+  }
+ },
+ {
+  "n": 166,
+  "isin": "LU2441282626",
+  "nom": "(I/C)JANUS HENDERSON HORIZON BIOTECHNOLOGY IU2 EUR",
+  "maison": "Janus Henderson Investors",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__KID_FR_2026-02-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU2441282626/LU2441282626__KID_FR_2026-02-13.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2022-02-25",
+   "devise": "EUR",
+   "type_fonds": "Actions biotechnologie",
+   "compartiment": "Janus Henderson Horizon Biotechnology Fund est un compartiment de Janus Henderson Fund, une société d'investissement à capital variable constituée en vertu des lois du Grand-Duché de Luxembourg. Janus Henderson Horizon Fund est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+   "gerants": "Andy Acker, Daniel Lyons, Agustin Mohedas",
+   "encours": "2190",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.90",
+   "frais_courants": "1.00",
+   "sri": "5",
+   "indice": "Indice NASDAQ Biotechnology Total Return",
+   "classification": "Agressif",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+   "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice NASDAQ Biotechnology Total Return Index de 2% par an, avant déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit au moins 80% de ses actifs dans des actions (titres de participation) et titres a",
+   "source_politique": "Factsheet",
+   "remarques": "Factsheet FR au 31/08/2026. Politique : « Objectif de gestion » (p.1) + « Politique d'investissement » et « Stratégie d'investissement » (p.3). Date de création = « Informations sur les catégories d'action – Date de création 25 février 2022 » (fonds : 10 décembre 2018). Encours = « Total de l'actif nette 2.19Mds » converti en 2190 millions ; devise non écrite (devise de base du fonds : USD) → lais"
+  }
+ },
+ {
+  "n": 167,
+  "isin": "LU1983261865",
+  "nom": "(I/C)JANUS HENDERSON HZ GLOB SC H2 USD",
+  "maison": "Janus Henderson Investors",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__KID_FR_2026-02-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JANUS_HENDERSON_INVESTORS/LU1983261865/LU1983261865__KID_FR_2026-02-13.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-08-06",
+   "devise": "USD",
+   "type_fonds": "Actions internationales petites capitalisations",
+   "compartiment": "Janus Henderson Horizon Global Smaller Companies Fund est un compartiment de Janus Henderson Fund, une société d'investissement à capital variable constituée en vertu des lois du Grand-Duché de Luxembourg. Janus Henderson Horizon Fund est un organisme de placement collectif en valeurs mobilières (OPCVM).",
+   "gerants": "Nick Sheridan, Jonathan Coleman, Aaron Schaechterle, Ollie Beckett, Yunyoung Lee, Sat Duhra",
+   "encours": "2750",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.60",
+   "frais_courants": "1.09",
+   "sri": "4",
+   "indice": "Indice MSCI World Small Cap",
+   "classification": "Dynamique",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des résultats futurs.",
+   "politique_fr": "Objectif de gestion\nLe Fonds vise à fournir une croissance du capital sur le long terme. Objectif de performance: Surperformer par rapport à l'indice MSCI World Small Cap Index, après déduction des charges, sur une période quelconque de cinq ans.\n\nPolitique d'investissement\nLe Fonds investit au moins 80% de ses actifs dans des actions (titres de participation) et titres assimilés de petites sociét",
+   "source_politique": "Factsheet",
+   "remarques": "Part H2 USD (devise USD). Factsheet FR au 31/08/2026. Politique : « Objectif de gestion » (p.1) + « Politique d'investissement » et « Stratégie d'investissement » (p.3) ; coquille « Gestionnaire d’Iinvestissement » conservée telle qu'écrite ; stratégie modifiée le 24 janvier 2025 selon la factsheet. Date de création = « Informations sur les catégories d'action – Date de création 06 août 2019 » (mê"
+  }
+ },
+ {
+  "n": 181,
+  "isin": "LU2782826866",
+  "nom": "(I/C)JSS COMMODITY TRANSITION ENHANCED C1 USD",
+  "maison": "J. Safra Sarasin Fund Management (Luxembourg) S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__KID_FR_2026-09-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2782826866/LU2782826866__KID_FR_2026-09-03.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2025-05-19",
+   "devise": "USD",
+   "type_fonds": "Matières premières",
+   "compartiment": "un compartiment de JSS Investmentfonds SICAV",
+   "gerants": "George Cotton, Benoît Harger",
+   "encours": "548.21",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.35",
+   "frais_courants": "0.56",
+   "sri": "4",
+   "indice": "Bloomberg Commodity Index Total Return",
+   "classification": "Agressif",
+   "sfdr": "8",
+   "disclaimer": "Les résultats obtenus par le passé n'offrent aucune garantie quant aux rendements futurs. La performance représentée ne tient pas compte de commissions et de coûts éventuels prélevés lors de la souscription et du rachat de parts.",
+   "politique_fr": "Le JSS Commodity – Transition Enhanced vise une croissance des actifs en lien avec les marchés de matières premières. À cette fin, le compartiment investit dans des instruments dérivés (y compris des « total return swaps») de contrats à terme diversifiés sur des matières premières physiques. La sélection des placements en matières premières a pour but d'obtenir une diversification optimale des ris",
+   "source_politique": "Factsheet",
+   "remarques": "Part C1 USD acc. Date de création = « Date de lancement de la classe d’action 19 mai 2025 » (compartiment : 29 octobre 2024). Encours = « Total des actifs en mio. 548.21 » (devise non écrite ; monnaie de compte de la part USD) ; pas de date propre (date de la factsheet). Frais de gestion 0.35% (factsheet) ; frais courants 0.56% (KID et factsheet). Indice : nom du tableau de la factsheet « Bloomber"
+  }
+ },
+ {
+  "n": 182,
+  "isin": "LU2752697867",
+  "nom": "(I/C)JSS SUSTAINABLE EQ STRATEGIC MATERIALS C EUR",
+  "maison": "J. Safra Sarasin Fund Management (Luxembourg) S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__KID_FR_2026-08-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752697867/LU2752697867__KID_FR_2026-08-17.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2024-09-24",
+   "devise": "EUR",
+   "type_fonds": "Actions thématiques (matériaux stratégiques)",
+   "compartiment": "un compartiment de JSS Investmentfonds II",
+   "gerants": "Daniel Lurch, Léna Jacquelin, Asad Farid",
+   "encours": "174.49",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.00",
+   "frais_courants": "1.42",
+   "sri": "4",
+   "indice": "MSCI World NR Index (EUR)",
+   "classification": "Agressif",
+   "sfdr": "8",
+   "disclaimer": "Les résultats obtenus par le passé n'offrent aucune garantie quant aux rendements futurs. La performance représentée ne tient pas compte de commissions et de coûts éventuels prélevés lors de la souscription et du rachat de parts.",
+   "politique_fr": "Le fonds vise une croissance du capital à long terme via des investissements dans les actions mondiales. Le compartiment investit au moins 75% de ses actifs directement dans des actions d'entreprises qui offrent une exposition à la chaîne de valeur des matériaux stratégiques (dont les producteurs et les utilisateurs finaux). La transition écologique nécessite des matériaux essentiels pour les tech",
+   "source_politique": "Factsheet",
+   "remarques": "Part C EUR acc. Date de création = « Date de lancement de la classe d’action 24 septembre 2024 » (identique à celle du compartiment). Encours = « Total des actifs en mio. 174.49 » (devise non écrite ; monnaie de compte de la part EUR) ; pas de date propre (date de la factsheet). Frais de gestion 1.00% (factsheet) ; frais courants 1.42% (KID et factsheet). Indice : tableau de la factsheet « MSCI Wo"
+  }
+ },
+ {
+  "n": 183,
+  "isin": "IE00BYVJRF70",
+  "nom": "(I/C)JUPITER GOLD & SILVER I EUR",
+  "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BYVJRF70/IE00BYVJRF70__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-03-08",
+   "devise": "EUR",
+   "type_fonds": "Actions sectorielles (mines d'or et d'argent)",
+   "compartiment": "Jupiter Gold & Silver Fund (le « Fonds ») est un compartiment de Jupiter Asset Management Series PLC, constitué en Irlande.",
+   "gerants": "NED NAYLOR-LEYLAND, CHRIS MAHONEY, JOE LUNN",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "0.92",
+   "sri": "6",
+   "indice": "50% Gold Spot Rate & 50% FTSE Gold Mines - Net Total Return Index",
+   "classification": "Agressif",
+   "categorie": "Equity Global Gold & Precious Metals",
+   "sfdr": "6",
+   "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. Le rendement peut augmenter ou baisser sous l’effet des fluctuations de taux de change.",
+   "politique_fr": "Objectif et politique d'investissement du fonds\nUn rendement total composé de croissance du capital et de revenu en investissant principalement dans des actions (c'est-à-dire des titres de participation) cotées de sociétés exposées à l'or et à l'argent. Pour atteindre son objectif d'investissement, le fonds vise à générer un rendement, net de frais, supérieur à celui de l'indice de référence compo",
+   "source_politique": "Factsheet",
+   "remarques": "Part I EUR ACC. Date de création = « Date de lancement de la Catégorie d'Actions: 08.03.2016 » (identique au fonds). Encours vide : « Encours: EUR 2,983m » est ambigu (virgule décimale ou séparateur de milliers : 2.983 ou 2983 millions) ; devise EUR et date 31.08.2026 notées. Frais de gestion = « Commission annuelle de gestion (max.) 0,75% » (maximum) ; frais courants = KID 0.92 % (la factsheet in"
+  }
+ },
+ {
+  "n": 185,
+  "isin": "LU0946219416",
+  "nom": "(I/C)JUPITER JAPAN SELECT CLASS D EUR",
+  "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/LU0946219416/LU0946219416__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-03-30",
+   "devise": "EUR",
+   "type_fonds": "Actions japonaises",
+   "compartiment": "Jupiter Japan Select (le « Fonds ») est un compartiment d'une SICAV (société d'investissement à capital variable), The Jupiter Global Fund, constituée au Luxembourg.",
+   "gerants": "DAN CARTER, MITESH PATEL",
+   "encours": "258",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "0.95",
+   "sri": "4",
+   "classification": "Agressif",
+   "sfdr": "8",
+   "disclaimer": "La performance passée ne présage pas des résultats actuels ou futurs. Les données de performance ne tiennent pas compte des commissions et frais sur l’émission et le rachat d’actions.",
+   "politique_fr": "Objectif et politique d'investissement du fonds\nLe Fonds a pour objectif de générer une croissance du capital sur le long terme. Le Fonds investira principalement dans les actions et titres liés à des actions d’entreprises ayant leur siège social ou exerçant une part prépondérante de leurs activités économiques au Japon. Jusqu’à 20 % des actifs du Fonds (hors actifs liquides) peuvent être investis",
+   "source_politique": "Factsheet",
+   "remarques": "Part D EUR ACC. Date de création = « Date de lancement de la Catégorie d'Actions: 30.03.2015 » (fonds : 01.07.2009). Encours « EUR 258m » (date de la factsheet). Frais de gestion = « Commission annuelle de gestion (max.) 0,75% » (maximum) ; frais courants = KID 0.95 % (identique à la factsheet). Indice vide : TOPIX est utilisé « uniquement à des fins de comparaison de la performance » (factsheet e"
+  }
+ },
+ {
+  "n": 186,
+  "isin": "IE00BLP5S791",
+  "nom": "(I/C)JUPITER MERIAN GL EQ ABS RETURN FD HEDGED I",
+  "maison": "JUPITER ASSET MANAGEMENT (EUROPE) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/JUPITER_ASSET_MANAGEMENT_EUROPE_LIMITED/IE00BLP5S791/IE00BLP5S791__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2009-06-30",
+   "devise": "EUR",
+   "type_fonds": "Alternatif (actions long/short, rendement absolu)",
+   "compartiment": "Jupiter Merian Global Equity Absolute Return Fund (le « Fonds ») est un compartiment de Jupiter Asset Management Series PLC, constitué en Irlande.",
+   "gerants": "The Systematic Equities Team",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "0.80",
+   "sri": "2",
+   "indice": "ECB Main Refinancing Operations Rate",
+   "classification": "Défensif",
+   "categorie": "Alternative Global Equity Market Neutral",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. Le rendement peut augmenter ou baisser sous l’effet des fluctuations de taux de change.",
+   "politique_fr": "Objectif et politique d'investissement du fonds\nCroissance du capital, avec un contrôle rigoureux du risque. Le Fonds visera un rendement absolu (performance supérieure à zéro, quelles que soient les conditions de marché) sur des périodes glissantes de 12 mois. Pour atteindre son objectif d'investissement, le fonds vise à générer un rendement, net de frais, au-delà du taux effectif des fonds fédér",
+   "source_politique": "Factsheet",
+   "remarques": "Part I EUR ACC HSC (couverte contre le risque de change ; KID « I EUR Hedged Acc »). Date de création = « Date de lancement de la Catégorie d'Actions: 30.06.2009 » (identique au fonds). Encours vide : « Encours: EUR 10,845m » est ambigu (virgule décimale ou séparateur de milliers) ; devise EUR et date 31.08.2026 notées. Exposition nette -0.8 %, brute 196.5 %. Frais de gestion = « Commission annuel"
+  }
+ },
+ {
+  "n": 198,
+  "isin": "FR0010235507",
+  "nom": "(I/C)LAZARD CREDIT OPPORTUNITIES PC EUR",
+  "maison": "Lazard Frères Gestion",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__KID_FR_2026-10-08.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LAZARD_FRERES_GESTION/FR0010235507/FR0010235507__KID_FR_2026-10-08.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2005-10-28",
+   "devise": "EUR",
+   "type_fonds": "Obligataire (crédit flexible)",
+   "compartiment": "Lazard Credit Opportunities - Action PC EUR, compartiment de LAZARD FUNDS",
+   "gerants": "Eléonore BUNEL, Olivier VIETTI, Adrien LALANNE",
+   "encours": "1472.05",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "1.00",
+   "frais_courants": "1.08",
+   "sri": "3",
+   "indice": "€ster capi + 2%",
+   "classification": "Défensif",
+   "categorie": "Bond Global Absolute Return",
+   "sfdr": "8",
+   "qualite": "BBB",
+   "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+   "politique_fr": "Objectifs :\nL’objectif de gestion vise à obtenir sur la durée de placement recommandée de 3 ans, une performance nette de frais supérieure à celle de l'indicateur de référence suivant : €STR Capitalisé + 2,00%. L’indicateur de référence est exprimé en EUR.\n\nPour réaliser cet objectif de gestion, la stratégie passe par une gestion dynamique du risque de taux, du risque de crédit, et du risque de ch",
+   "source_politique": "KID",
+   "remarques": "Part PC EUR, reporting d'août 2026 (« 08-2026 »). Date de création = « Date de 1ère VL de la part 28/10/2005 » (identique à la date de création). Encours = « Actif net du fonds 1472,05 M€ ». Frais de gestion = « Frais de gestion (max) 1,00% » (maximum) ; frais courants = KID « Frais de gestion et autres coûts administratifs et d’exploitation » 1,08 % (identique à la factsheet) ; pas de commission "
+  }
+ },
+ {
+  "n": 199,
+  "isin": "IE00B51PLJ46",
+  "nom": "(I/C)LAZARD GLOBAL LIST INF EQUITY A EUR",
+  "maison": "LAZARD FUND MANAGERS (IRELAND) LIMITED",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__KID_FR_2026-09-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/LAZARD_FUND_MANAGERS_IRELAND_LIMITED/IE00B51PLJ46/IE00B51PLJ46__KID_FR_2026-09-21.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-07-04",
+   "devise": "EUR",
+   "type_fonds": "Actions sectorielles (infrastructures cotées)",
+   "compartiment": "A sub-fund of Lazard Global Active Funds PLC, an Irish UCITS investment fund company",
+   "gerants": "Bertrand Cliquet & Team",
+   "encours": "2555.73",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.85",
+   "frais_courants": "0.92",
+   "sri": "3",
+   "indice": "MSCI World Core Infrastructure",
+   "classification": "Dynamique",
+   "sfdr": "8",
+   "disclaimer": "Past performance is not a reliable indicator of future results",
+   "politique_en": "Fund Objective\nTo achieve over the long-term total returns comprising income and capital appreciation.\n\nFund Description\nLazard's Global Listed Infrastructure Equity Fund is an actively managed portfolio that typically invests in equity securities of infrastructure companies with a minimum market capitalization of $250 million. The Fund uses a \"Preferred Infrastructure\" philosophy that focuses pri",
+   "source_politique": "Factsheet",
+   "remarques": "Part A Acc EUR Hedged (couverte). Factsheet uniquement en anglais (politique en EN ; le KID FR contient un objectif plus détaillé). Date de création = « Share Class Launch Date 04/07/2012 » (fonds : 27/02/2012). Encours = « Fund AUM Class Currency €2,555.73m » (en devise de base : £2,189.66m) ; pas de date propre (date de la factsheet). Frais de gestion = « Annual Management Fee 0.85% » ; frais co"
+  }
+ },
+ {
+  "n": 204,
+  "isin": "BE6370440628",
+  "nom": "(I/C)LELEUX INVEST DYNAMIC WORLD FOF P I EUR",
+  "maison": "LELEUX FUND MANAGEMENT & PARTNERS S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE6370440628__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "rapport mensuel 29/05/2026 (seul PDF) : aucun nom de gérant ; seulement « Gestionnaire: Leleux Fund Management & Partners SA »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "3,80 M€",
+    "note": "p.2 : « Encours sous gestion du compartiment en millions € 3,80 » au 29/05/2026"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.3 donne seulement « Frais courants estimés : 1,59% » ; pas de frais de gestion"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucune mention SFDR / article 8 dans le rapport mensuel (vérifié sur les images des pages)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2026-03-02",
+   "devise": "EUR",
+   "type_fonds": "Allocation mixte internationale - Fonds de Fonds",
+   "compartiment": "Classe P",
+   "gerants": "Carlo Luigi Grabau",
+   "encours": "5.65",
+   "frais_gestion": "0.8",
+   "frais_courants": "1.59",
+   "sri": "3",
+   "classification": "Dynamique",
+   "categorie": "Mixte",
+   "sfdr": "8",
+   "disclaimer": "Le document des informations clés et le prospectus doivent être lus avant toute décision d'investir ainsi que toutes les caractéristiques et objectifs d’investissement.",
+   "politique_fr": "Le fonds a pour objectif de procurer aux investisseurs une croissance du capital sur le long terme en procédant à des placements diversifiés, essentiellement indirects, en particulier via des investissements en autres Organismes de Placements Collectifs (OPC).\n\nAfin de réduire le risque intrinsèque du fonds l’investissement est largement diversifié internationalement et réparti entre différents or",
+   "source_politique": "invest-law.eu",
+   "remarques": "Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 205,
+  "isin": "BE6288463506",
+  "nom": "(I/C)LELEUX INVEST EQUITIES WORLD FOF P EUR",
+  "maison": "LELEUX ASSOCIATED BROKERS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-10-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales Monde- Fonds de Fonds",
+   "compartiment": "Classe P",
+   "gerants": "Carlo Luigi Grabau",
+   "encours": "84.16",
+   "frais_gestion": "0.6",
+   "frais_courants": "1.6",
+   "sri": "3",
+   "classification": "Agressif",
+   "categorie": "Actions internationales",
+   "sfdr": "8",
+   "disclaimer": "Le document des informations clés et le prospectus doivent être lus avant toute décision d'investir ainsi que toutes les caractéristiques et objectifs d’investissement.",
+   "politique_fr": "Le fonds a pour objectif de procurer aux investisseurs une appréciation du capital dans une perspective à moyen/\nlong terme en procédant à des placements essentiellement indirects, en particulier via des investissements en autres Organismes de Placements Collectifs (OPC), diversifiés en actions. L'investissement est largement diversifié internationalement sans limitation géographique ou sectoriell",
+   "source_politique": "invest-law.eu",
+   "remarques": "Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Fiche mise à jour sur le site le 2026-10-06."
+  }
+ },
+ {
+  "n": 206,
+  "isin": "BE6288478652",
+  "nom": "(I/C)LELEUX INVEST PATRIMONIAL WORLD FOF P EUR",
+  "maison": "LELEUX FUND MANAGEMENT & PARTNERS S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-10-31",
+   "devise": "EUR",
+   "type_fonds": "Allocation mixte internationale - Fonds de Fonds",
+   "compartiment": "Classe P",
+   "gerants": "Carlo Luigi Grabau",
+   "encours": "40.42",
+   "frais_gestion": "0.6",
+   "frais_courants": "1.75",
+   "sri": "2",
+   "classification": "Equilibré",
+   "categorie": "Mixte",
+   "sfdr": "6",
+   "disclaimer": "Le document des informations clés et le prospectus doivent être lus avant toute décision d'investir ainsi que toutes les caractéristiques et objectifs d’investissement.",
+   "politique_fr": "Le fonds a pour objectif de procurer aux investisseurs un rendement à long terme en procédant à des placements diversifiés, essentiellement indirects, en particulier via des investissements en autres Organismes de Placements Collectifs (OPC). L’optimisation de l’objectif est recherchée via une répartition des investissements dans différentes classes d’actifs (actions, obligations, obligations conv",
+   "source_politique": "invest-law.eu",
+   "remarques": "Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Fiche mise à jour sur le site le 2026-10-06."
+  }
+ },
+ {
+  "n": 207,
+  "isin": "BE6304594797",
+  "nom": "(I/C)LELEUX INVEST RESPONSIBLE WORLD FOF P EUR",
+  "maison": "LELEUX FUND MANAGEMENT & PARTNERS S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "sri": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-06-29",
+   "devise": "EUR",
+   "type_fonds": "Allocation mixte internationale - Fonds de Fonds",
+   "compartiment": "Classe P",
+   "gerants": "Carlo Luigi Grabau",
+   "encours": "39.52",
+   "frais_gestion": "0.6",
+   "frais_courants": "1.42",
+   "sri": "3",
+   "classification": "Dynamique",
+   "categorie": "Mixte",
+   "sfdr": "8",
+   "disclaimer": "Le document des informations clés et le prospectus doivent être lus avant toute décision d'investir ainsi que toutes les caractéristiques et objectifs d’investissement.",
+   "politique_fr": "Le fonds a pour objectif de procurer aux investisseurs une croissance du capital sur le long terme en procédant à des placements diversifiés, essentiellement indirects, en particulier via des investissements en autres OPC dont les gestionnaires sont signataires des principes d’investissement responsable sous le parrainage de l’ONU (United Nations Principles for Responsible Investment) et/ou intègr",
+   "source_politique": "invest-law.eu",
+   "remarques": "Une fiche Wealth Belgium a aussi été préparée (classeur Wealth Belgium). Fiche mise à jour sur le site le 2026-10-06."
+  }
+ },
+ {
+  "n": 214,
+  "isin": "LU3149167275",
+  "nom": "(I/C)M&G (LUX) EPISODE MACRO FUND C EUR",
+  "maison": "M&G Luxembourg S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3149167275/LU3149167275__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3149167275/LU3149167275__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3149167275/LU3149167275__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/M_G_LUXEMBOURG_S_A/LU3149167275/LU3149167275__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Aucune factsheet dans le classeur, mais fundinfo en publie une (2026-09-30)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Le Fonds est un compartiment de M&G (Lux) Investment Funds 1, société d’investissement à capital variable (SICAV) constituée sous la forme d’un fonds à compartiments avec séparation du passif entre les compartiments, régi et établi en vertu du droit luxembourgeois en tant qu’Organisme de placement collectif en valeurs mobilières (OPCVM).",
+   "frais_courants": "1.28",
+   "sri": "3",
+   "indice": "SOFR majoré de 4 à 8 %",
+   "classification": "Equilibré",
+   "sfdr": "6",
+   "politique_fr": "Objectifs:\nLe Fonds vise à obtenir une croissance du capital et un revenu de 4 à 8 % par an en plus du taux Secured Overnight Financing Rate (SOFR), sur toute période de cinq ans.\n\nInvestissement principal : le Fonds investit généralement par le biais de dérivés dans une combinaison d’actifs, y compris des actions de sociétés, des obligations, des devises et des liquidités (c’est-à-dire des dépôts",
+   "source_politique": "KID",
+   "remarques": "Aucune factsheet pour la Catégorie C en EUR (seule existe celle d'une autre part, rejetée) : gérants, encours, frais de gestion, disclaimer et allocations vides. Date de création non indiquée dans le KID. Frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,28 %. Indice retenu : « SOFR majoré de 4 à 8 % » est l'objectif de performance du fonds (« sert unique"
+  }
+ },
+ {
+  "n": 216,
+  "isin": "LU2813324576",
+  "nom": "(I/C)M&G (LUX) FIXED MATURITY BD FUND 4 EUR (FMB)",
+  "maison": "M&G Luxembourg S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2813324576/LU2813324576__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2813324576/LU2813324576__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2813324576/LU2813324576__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2813324576/LU2813324576__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Aucune factsheet dans le classeur, mais fundinfo en publie une (2026-09-30)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Obligataire à échéance",
+   "compartiment": "Le Fonds est un compartiment de M&G (Lux) Investment Funds 1, société d’investissement à capital variable (SICAV) constituée sous la forme d’un fonds à compartiments avec séparation du passif entre les compartiments, régi et établi en vertu du droit luxembourgeois en tant qu’Organisme de placement collectif en valeurs mobilières (OPCVM).",
+   "frais_courants": "0.36",
+   "sri": "2",
+   "indice": "Aucun",
+   "classification": "Défensif",
+   "sfdr": "8",
+   "politique_fr": "Objectifs:\nLe Fonds vise à générer une combinaison de croissance du capital et de revenu sur la durée du Fonds, tout en appliquant les Critères ESG.\n\nInvestissement principal : durant la Période d’investissement, telle que définie dans le prospectus du Fonds, au moins 70 % du Fonds est investi dans des obligations de qualité élevée émises ou garanties par des États et des émetteurs publics ainsi q",
+   "source_politique": "KID",
+   "remarques": "Part = Actions de Capitalisation de Catégorie WI en EUR (KID). Aucune factsheet pour cette part (celle trouvée concerne la Catégorie W LU2832213933, rejetée) : gérants, encours, frais de gestion, disclaimer, duration, qualité et allocations vides. Date de création non indiquée ; le KID précise seulement une « durée fixe de trois (3) ans à compter du Premier jour de la Période d’investissement » (d"
+  }
+ },
+ {
+  "n": 221,
+  "isin": "LU2509757758",
+  "nom": "(I/C)M&G (LUX) SUSTAINABLE MACRO FLEXIBLE CREDIT",
+  "maison": "M&G Luxembourg S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2509757758/LU2509757758__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2509757758/LU2509757758__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2509757758/LU2509757758__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/M_G_LUXEMBOURG_S_A/LU2509757758/LU2509757758__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Aucune factsheet dans le classeur, mais fundinfo en publie une (2026-08-31)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "devise": "EUR",
+   "type_fonds": "Obligataire flexible",
+   "compartiment": "Le Fonds est un compartiment de M&G (Lux) Investment Funds 1, société d’investissement à capital variable (SICAV) constituée sous la forme d’un fonds à compartiments avec séparation du passif entre les compartiments, régi et établi en vertu du droit luxembourgeois en tant qu’Organisme de placement collectif en valeurs mobilières (OPCVM).",
+   "frais_courants": "0.56",
+   "sri": "2",
+   "indice": "Euribor à 1 mois, majoré de 3,5 %",
+   "classification": "Défensif",
+   "sfdr": "8",
+   "politique_fr": "Objectifs:\nLe Fonds vise à obtenir un revenu et une croissance du capital composée au moins de liquidités* plus 3,5 % par an, avant que les frais ne soient prélevés, sur toute période de cinq ans, tout en appliquant les Critères ESG. * basées sur l’Euribor à 1 mois, le taux auquel les banques se prêtent entre elles.\n\nInvestissement principal : au moins 70 % du Fonds est investi dans des obligation",
+   "source_politique": "KID",
+   "remarques": "Part = Actions de Capitalisation de Catégorie WI en EUR (M&G (Lux) Sustainable Macro Flexible Credit Fund) ; le nom One Life ne précise pas la catégorie. Aucune factsheet pour cette part (celle trouvée concerne la Catégorie W LU2509757592, rejetée) : gérants, encours, frais de gestion, disclaimer, duration, qualité et allocations vides. Date de création non indiquée dans le KID. Frais courants = K"
+  }
+ },
+ {
+  "n": 231,
+  "isin": "LU0834154790",
+  "nom": "(I/C)MORGAN STANLEY GLOBAL OPPORTUNITY FUND I USD",
+  "maison": "Morgan Stanley Fund Management MSIM (Ire) Lim",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__KID_FR_2026-07-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/MORGAN_STANLEY_FUND_MANAGEMENT_MSIM_IRE_LIM/LU0834154790/LU0834154790__KID_FR_2026-07-21.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-10-01",
+   "devise": "USD",
+   "type_fonds": "Actions internationales",
+   "compartiment": "Un compartiment de Morgan Stanley Investment Funds",
+   "gerants": "Kristian Heugh",
+   "encours": "12200",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.75",
+   "frais_courants": "0.94",
+   "sri": "5",
+   "indice": "MSCI All Country World Net Index",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des résultats futurs.",
+   "politique_fr": "Objectif d’Investissement\nCroissance à long terme de votre investissement.\n\nApproche d’investissement\nLe portefeuille vise l'appréciation du capital sur le long terme en investissant à l'échelle mondiale dans des sociétés établies et émergentes de qualité supérieure que l'équipe d'investissement juge sous-valorisées au moment de leur achat. Pour atteindre son objectif, l'équipe d'investissement pr",
+   "source_politique": "Factsheet",
+   "remarques": "Classe I (actions de capitalisation) en USD ; factsheet FR au 31/08/2026 (« approuvé pour une utilisation en France uniquement »). Date de création = « Date de lancement 01 Octobre 2012 » (tableau de la part ; lancement du fonds 30 novembre 2010). Gérant : « Kristian Heugh, CFA, Head of Global Opportunity » (seul nom de l'équipe affiché). Encours = « Total de l’actif $ 12,2 milliard(s) » converti "
+  }
+ },
+ {
+  "n": 269,
+  "isin": "IE00B1JC0H05",
+  "nom": "(I/C)PIMCO GIS DIVERSIFIED INCOME FUND EUR",
+  "maison": "PIMCO (Ireland) Limited",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B1JC0H05/IE00B1JC0H05__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2007-02-14",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "compartiment": "un compartiment de PIMCO Funds: Global Investors Series plc",
+   "gerants": "Sonali Pier, Alfred Murata, Charles Watford, Regina Borromeo, Daniel J. Ivascyn",
+   "encours": "9300",
+   "encours_devise": "USD",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.69",
+   "frais_courants": "0.69",
+   "sri": "2",
+   "classification": "Défensif",
+   "categorie": "Bond Global",
+   "sfdr": "6",
+   "duration": "5.39 ans",
+   "disclaimer": "Les performances passées ne constituent pas une garantie ou un indicateur fiable des performances futures. Par ailleurs, aucune garantie n'est donnée quant à l'obtention de rendements similaires à l'avenir.",
+   "politique_fr": "Description du Fonds\nLe fonds Diversified Income Fund fournit un accès à l’ensemble du marché du crédit international en investissant essentiellement dans un panier diversifié d’obligations et de marchés émergents de différentes maturités. Le fonds détient à la fois des titres libellés en dollar américain et dans d’autres devises.\n\nAtouts du Fonds\nLe fonds s’efforce de construire un portefeuille d",
+   "source_politique": "Factsheet",
+   "remarques": "Part Institutionnelle Capitalisation EUR (Hedged). Encours : « Actifs du fonds 9,3 (USD en milliards) » converti en 9300 millions ; pas de date propre (date de la factsheet). Frais de gestion = « Frais de gestion totaux 0,69% p.a. » (frais tout compris PIMCO) ; frais courants KID 0,69 % (identiques). Indice laissé vide : la factsheet dit « géré activement par rapport à l’Indice de référence » sans"
+  }
+ },
+ {
+  "n": 270,
+  "isin": "IE00B3V8Y234",
+  "nom": "(I/C)PIMCO GIS EURO INCOME BOND FUND EUR",
+  "maison": "PIMCO (Ireland) Limited",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__KID_FR_2026-09-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/PIMCO_IRELAND_LIMITED/IE00B3V8Y234/IE00B3V8Y234__KID_FR_2026-09-21.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2011-02-28",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "compartiment": "un compartiment de PIMCO Funds: Global Investors Series plc",
+   "gerants": "Alfred Murata, Saurabh Sud, Nidhi Nakra, Regina Borromeo, Charles Watford",
+   "encours": "2700",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_courants": "0.49",
+   "sri": "2",
+   "classification": "Défensif",
+   "sfdr": "8",
+   "duration": "6.77 ans (sensibilité)",
+   "disclaimer": "Les performances passées ne constituent pas une garantie ou un indicateur fiable des performances futures. Par ailleurs, aucune garantie n'est donnée quant à l'obtention de rendements similaires à l'avenir.",
+   "politique_fr": "Description du Fonds\nLe fonds Euro Income Bond Fund vise un taux de distribution annuel régulier grâce à un portefeuille géré activement et composé principalement d'obligations investment grade libellées en euros présentant une sensibilité moyenne de un à huit ans. Le fonds cible les titres à coupon élevé qui génèrent des revenus pour le portefeuille. Le fonds contiendra au moins 50% de titres inv",
+   "source_politique": "Factsheet",
+   "remarques": "Part Institutionnelle Capitalisation EUR. Date de création = « Date de lancement 28/02/2011 » (colonne Capitalisation). Encours : « Actifs du fonds 2,7 (EUR en milliards) » converti en 2700 millions ; pas de date propre (date de la factsheet). Frais de gestion laissés vides : la factsheet ne donne que « Frais de gestion totaux 0,49% p.a. » (frais tout compris) ; frais courants KID « Frais de gesti"
+  }
+ },
+ {
+  "n": 271,
+  "isin": "LU2376225616",
+  "nom": "(I/C)PTAM DEFENSIVE PORTFOLIO I EUR",
+  "maison": "Hauck & Aufhäuser Fund Services S.A.",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__Factsheet_EN_2026-10-15.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__KID_FR_2026-01-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__Factsheet_EN_2026-10-14.pdf",
+   "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__Factsheet_EN_2026-10-15.pdf",
+   "INVESTLAW/HAUCK_AUFHAUSER_FUND_SERVICES_S_A/LU2376225616/LU2376225616__KID_FR_2026-01-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-10-15 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2021-09-16",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "FCP Part I Law of 2010",
+   "encours": "41.40",
+   "encours_devise": "EUR",
+   "encours_date": "2026-10-14",
+   "frais_courants": "1.4960",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "disclaimer": "Past performance is not a reliable indicator of future performance. Investing in investment funds carries with it the risk of price losses and currency losses, so that the future value of units may rise or fall in relation to their value at the time of acquisition.",
+   "politique_en": "Fund Features\nThe objective of the Fund's investment policy is to generate attractive long-term capital growth in EURO by means of defensive investment strategies and the minimisation of risks. By using proven portfolio strategies in combination with modern financial instruments and investment opportunities in all the world's leading markets and currencies, the opportunities for favourable perform",
+   "source_politique": "Factsheet",
+   "remarques": "Nom officiel : PTAM Defensiv Portfolio I. Factsheet en anglais uniquement (« Report Date: 10/14/2026 ») ; KID en français. Date de création = « Date first price calculation 9/16/2021 » (première VNI de la part) ; « Launch Date 8/1/2006 » non retenue (la factsheet ne précise pas à quoi elle se rapporte ; antérieure à la première VNI de la part). Compartiment = forme juridique de la factsheet « FCP "
+  }
+ },
+ {
+  "n": 279,
+  "isin": "FR001400SEE5",
+  "nom": "(I/C)R-CO TARGET 2029 HY P EUR (FMB)",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2024-11-21",
+   "devise": "EUR",
+   "type_fonds": "Obligataire (à échéance 2029, haut rendement)",
+   "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+   "gerants": "Kristell AGAESSE, Michaël LONGEARD",
+   "encours": "438.18",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.70",
+   "frais_courants": "0.81",
+   "sri": "3",
+   "indice": "Aucun",
+   "classification": "Défensif",
+   "sfdr": "8",
+   "duration": "2.65",
+   "qualite": "BB",
+   "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe compartiment a pour objectif de gestion, au moment de la souscription et jusqu’au 31/12/2029, d'obtenir une performance nette de frais liée à l’évolution des marchés de taux en euros en investissant dans des titres à caractère spéculatif (à haut rendement).L’échéance moyenne du portefeuille sera comprise entre janvier et décembre 2029.",
+   "source_politique": "Factsheet",
+   "remarques": "Fonds à échéance (31/12/2029), « SICAV Obligations et autres titres de créance € » ; compartiment R-co Target 2029 HY de la SICAV R-co 3 (KID). Date de création = « Date de création 21/11/2024 » = « Date 1ère VL 21/11/2024 ». Encours « Actifs sous gestion 438,18 M€ ». Frais de gestion = « Frais de gestion financière 0,70% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 0,81 % (fac"
+  }
+ },
+ {
+  "n": 280,
+  "isin": "FR0014011WD9",
+  "nom": "(I/C)R-CO TARGET 2032 IG P2 EUR (FMB)",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__KID_FR_2026-06-12.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0014011WD9/FR0014011WD9__KID_FR_2026-06-12.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2025-10-01",
+   "devise": "EUR",
+   "type_fonds": "Obligataire (à échéance 2032, investment grade)",
+   "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+   "gerants": "Emmanuel PETIT, Philippe LOMNE",
+   "encours": "691.34",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.60",
+   "frais_courants": "0.71",
+   "sri": "2",
+   "indice": "Aucun",
+   "classification": "Défensif",
+   "sfdr": "8",
+   "duration": "5.03",
+   "qualite": "BBB",
+   "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe compartiment a pour objectif de gestion, au moment de la souscription et jusqu’au 31/12/2032, d’obtenir une performance nette de frais liée aux taux de rendements actuels des obligations de maturité 2032, en investissant exclusivement dans des titres à caractère « Investment Grade » (non spéculatifs).L’échéance moyenne du portefeuille est comprise entre janvier et déc",
+   "source_politique": "Factsheet",
+   "remarques": "Fonds à échéance (31/12/2032), « SICAV Obligations et autres titres de créance € » ; compartiment R-co Target 2032 IG de la SICAV R-co 3 (KID). Date de création = « Date de création 01/10/2025 » = « Date 1ère VL 01/10/2025 ». Encours « Actifs sous gestion 691,34 M€ ». Frais de gestion = « Frais de gestion financière 0,60% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 0,71 % (« I"
+  }
+ },
+ {
+  "n": 282,
+  "isin": "FR0013367299",
+  "nom": "(I/C)R-CO VALOR BALANCED P EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0013367299/FR0013367299__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2018-10-24",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+   "gerants": "Yoann IGNATIEW, Emmanuel PETIT, Philippe LOMNE",
+   "encours": "955.63",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.80",
+   "frais_courants": "0.92",
+   "sri": "3",
+   "indice": "Aucun",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "4.45 (sensibilité)",
+   "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nRecherche d'une croissance du capital, sur une durée de placement recommandée comprise entre 3 et 5 ans, en s'exposant aux marchés actions et taux avec un profil équilibré mettant en œuvre une allocation d'actifs discrétionnaire et une sélection de titres financiers fondée sur l'analyse financière des émetteurs.",
+   "source_politique": "Factsheet",
+   "remarques": "« SICAV Mixte » ; compartiment R-co Valor Balanced de la SICAV R-co (KID). Date de création = « Date de création 24/10/2018 » (« Date 1ère VL 26/10/2018 »). Encours « Actifs sous gestion 955,63 M€ ». Frais de gestion = « Frais de gestion financière 0,80% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 0,92 % (factsheet : « Frais courants ex-post 0,886% »). Indice « Aucun » : facts"
+  }
+ },
+ {
+  "n": 283,
+  "isin": "FR0011847409",
+  "nom": "(I/C)R-CO VALOR P EUR",
+  "maison": "Rothschild & Co Asset Management Europe",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__KID_FR_2026-02-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR0011847409/FR0011847409__KID_FR_2026-02-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2014-05-23",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs (à dominante actions)",
+   "compartiment": "OPCVM, constitué sous la forme d’une Société d’Investissement à Capital Variable (SICAV)",
+   "gerants": "Yoann IGNATIEW, Charles-Edouard BILBAULT, Henri CAPTIER",
+   "encours": "10814.68",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_gestion": "0.95",
+   "frais_courants": "1.10",
+   "sri": "4",
+   "indice": "Aucun",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+   "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nL’objectif de R-co Valor est la recherche de performance, en investissant essentiellement sur les marchés actions et de taux mondiaux, par la mise en oeuvre d’une gestion discrétionnaire reposant notamment sur la sélection d’instruments financiers fondée sur l’analyse financière des émetteurs.",
+   "source_politique": "Factsheet",
+   "remarques": "« SICAV Mixte » ; KID : « OPCVM, constitué sous la forme d’une Société d’Investissement à Capital Variable (SICAV) » (pas un compartiment). Factsheet FR d'août 2026 (une version EN de septembre existe, non retenue). Date de création = « Date de création 23/05/2014 » (« Date 1ère VL 13/06/2014 »). Encours « Actifs sous gestion 10 814,68 M€ ». Frais de gestion = « Frais de gestion financière 0,95% T"
+  }
+ },
+ {
+  "n": 314,
+  "isin": "FR0013230042",
+  "nom": "(I/C)TOCQUEVILLE VALUE EURO ISR GP EUR",
+  "maison": "LBPAM Funds",
+  "origine": "Wealth Belgium (factsheet / KID)",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__KID_FR_2026-04-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LBPAM_FUNDS/FR0013230042/FR0013230042__KID_FR_2026-04-22.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-04-03",
+   "devise": "EUR",
+   "type_fonds": "Actions zone euro (Value)",
+   "compartiment": "Compartiment de la SICAV LBPAM FUNDS",
+   "encours": "2015.08",
+   "encours_devise": "EUR",
+   "encours_date": "2026-08-31",
+   "frais_courants": "0.82",
+   "sri": "4",
+   "classification": "Dynamique",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne présagent pas des performances futures. Elles ne sont pas constantes dans le temps.",
+   "politique_fr": "Objectifs : L’objectif de gestion du Compartiment est d’obtenir, sur un horizon d’investissement minimum de 5 ans une performance supérieure au marché actions de la zone euro en investissant dans les actions de sociétés offrant un profil dit « value », tout en sélectionnant des valeurs répondant à des critères d’investissement socialement responsables.\n\nLe Compartiment est géré activement. La stra",
+   "source_politique": "KID",
+   "remarques": "Renommage : nom actuel « TOCQUEVILLE EURO EQUITY VALUE SRI » action GP (nom One Life « TOCQUEVILLE VALUE EURO ISR GP »). Factsheet « Rapport mensuel financier au 31 août 2026 ». Date de création = « Date de 1ère VL de la Part 03/04/2017 » (OPC créé le 14/06/2002). Encours « Actif net global 2 015,08 M€ ». Gérants vides : la factsheet affiche les noms Yann Giordmaina et Pierre Coiffet sans préciser"
+  }
+ }
+]

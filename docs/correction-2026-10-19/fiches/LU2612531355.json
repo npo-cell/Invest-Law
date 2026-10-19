@@ -1,0 +1,178 @@
+{
+ "n": "128",
+ "isin": "LU2612531355",
+ "nom": "(I/C)FFG - BLI EUROPEAN IMPACT EQUITIES I EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-10",
+ "date_creation": "2023-06-15",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes (impact / durable)",
+ "compartiment": "Ce produit est un compartiment du fonds FFG constitué sous la forme d’une Société d’Investissement à Capital Variable à compartiments multiples de droit luxembourgeois soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "",
+ "encours_millions": "14.66909524",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.65",
+ "frais_courants": "1.4",
+ "sri": "4",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Le Compartiment FFG – European Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur un marché réglementé européen. Le compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OPC, en instruments du marché monétaire, en OPC monétaires ou équivalents, ainsi que dans des dépôts à terme et à vue (jusqu’à 20% des actifs nets pour ces derniers). Le Compartiment est géré activement sans référence à un indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : type_fonds EAA Fund Europe Mid-Cap Equity → Actions européennes (impact / durable) ; compartiment FFG BLI EUROPEAN IMPACT EQUITIES I EUR → Ce produit est un compartiment du fonds FFG constitué sou… ; gerants Tom Michels → vide ; encours_millions 14.17 → 14.66909524 ; encours_devise vide → EUR ; encours_date vide → 2026-09-30 ; frais_courants 1.42 → 1.4 ; indice n/a → Aucun ; classification Agressif → Dynamique ; sfdr vide → 9 ; durable_pct 93 → vide ; source_politique invest-law.eu → Factsheet ; politique_en vidé ; disclaimer remplacé. Factsheet FR de la part I Acc (« FFG - BLI EUROPEAN IMPACT EQUITIES (I ACC) EN EUR », « ISIN Part I Acc LU2612531355 ») au 30/09/2026, téléchargée sur fundsforgood.eu (Factsheet_FR_EIE_IAcc.pdf). Attention : le PDF contient des calques masqués d'autres parts et compartiments qui ressortent dans le texte extrait ; toutes les valeurs ont été lues sur l'image des pages. Date de création = « Lancement de la part 15/06/2023 » (= lancement de la stratégie). Encours = « Actifs nets du fonds 14 669 095,24 € » (actifs nets de la part : 13 987 696,11 €). Frais de gestion = « Dont Frais de Gestion 0,65% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,4 % (factsheet 1,42 %). Gérants : aucun nom, seulement « Gestionnaire BLI - Banque de Luxembourg Investments ». Indice « Aucun » : « géré activement sans référence à un indice » (factsheet et KID). SFDR 9 : « Cet OPC répond aux exigences de transparence de l’article 9 du SFDR ». Investissements durables (%) vide : seulement « minimum 80% de ses actifs nets en actifs durables » ; « Répartition des actifs durables » Environnement 42,4 % / Social 46,9 % et « 89,3% des revenus générés par les entreprises du portefeuille sont alignés aux ODD », sans part globale d'investissements durables. Classification Dynamique : actions européennes, SRI 4. Politique : bloc « Objectifs & politique d'investissement » de la factsheet (le bloc « Politique d'investissement responsable » n'est pas repris). Allocations : 10 plus grandes positions, répartition sectorielle des actions, exposition aux capitalisations boursières (lues sur graphiques) ; cash 3 %, 29 participations.",
+ "factsheet_fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531355/LU2612531355__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FUNDS_FOR_GOOD_FFG/LU2612531355/LU2612531355__KID_FR_2026-02-10.pdf",
+ "sources": {
+  "kid_date": "KID p.1",
+  "devise": "KID p.1",
+  "compartiment": "KID p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "factsheet_date": "factsheet p.1",
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Andritz AG",
+   "pct": "7.08"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric SE",
+   "pct": "6.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "6.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Air Liquide SA",
+   "pct": "5.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Prysmian SpA",
+   "pct": "4.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Novonesis AS B",
+   "pct": "4.37"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Technogym SpA",
+   "pct": "4.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sopra Steria Group SA",
+   "pct": "4.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nibe Industrier AB B",
+   "pct": "4.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AstraZeneca Plc",
+   "pct": "3.87"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "46.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "16.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "13.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "12.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "6.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "3.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< € 2.5 Md",
+   "pct": "31.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€ 2.5 - 10 Md",
+   "pct": "27.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "€ 10 - 50 Md",
+   "pct": "26.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">€ 50 Md",
+   "pct": "14.3"
+  }
+ ]
+}

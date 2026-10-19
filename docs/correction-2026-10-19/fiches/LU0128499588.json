@@ -1,0 +1,211 @@
+{
+ "n": "769",
+ "isin": "LU0128499588",
+ "nom": "PICTET SHORT TERM MONEY MARKET CHF R",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2001-12-12",
+ "devise": "CHF",
+ "type_fonds": "Monétaire court terme (CHF)",
+ "compartiment": "Compartiment de la Sicav de droit luxembourgeois Pictet",
+ "gerants": "",
+ "encours_millions": "987",
+ "encours_devise": "CHF",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "0.21",
+ "sri": "1",
+ "indice": "FTSE CHF 1-Month Eurodeposit (CHF)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements passés ainsi que l’évolution de la VNI ne constituent pas un indicateur fiable des rendements futurs. La valeur de votre investissement et les revenus y relatifs sont soumis aux fluctuations du marché : vous pouvez dès lors perdre une partie voire l’intégralité de votre investissement.",
+ "politique_fr": "Objectif\nPréserver la valeur de votre investissement tout en générant un rendement conforme aux taux du marché monétaire.\n\nIndice de référence\nFTSE CHF 1-Month Eurodeposit (CHF), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la mesure du rendement.\n\nActifs en portefeuille\nLe Fonds investit principalement dans des instruments du marché monétaire à court terme émis par des émetteurs possédant une notation élevée et qui sont libellés en CHF ou couverts systématiquement par rapport à cette devise (de sorte que les investissements n’ont qu’une exposition limitée ou nulle au risque de change).\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse des émetteurs afin d’identifier les titres offrant les meilleures performances à la lumière des tendances des taux d’intérêt. L'approche de gestion du Fonds utilise des contrôles stricts du risque. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : factsheet française du 30/09/2026 (au lieu de l’anglaise d’août) ; SRI 2 → 1 (KID 19/06/2026 « classe de risque 1 sur 7 ») ; encours 979 → 987 (« Taille du fonds (Mio) CHF 987 ») ; gérants vidés (aucun nom dans la factsheet ni le KID) ; politique remplacée par le bloc « Objectifs d'investissement » de la factsheet (issu du DIC ; l’ancien texte était rédigé) ; compartiment et disclaimer refaits depuis la factsheet. Date de création « 12.12.2001 » (tableau de la part). Devise de la classe et du compartiment CHF. Indice : « FTSE CHF 1-Month Eurodeposit (CHF) … Utilisé pour la mesure du rendement » (bloc Objectifs) ; tableau de la part identique. Frais : seulement « Frais courants (OCR) 0.21 » (identique au KID). SFDR article 8 ; aucun % durable écrit. Aucune duration ni notation moyenne écrite. Allocations : 10 principales positions, maturités, répartition géographique et notations (% des actifs ; lignes de notation à 0.00 non reprises).",
+ "factsheet_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0128499588/LU0128499588__KID_FR_2026-06-19.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Pfandbriefzent 0% 27.01.2027 Sec",
+   "pct": "2.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Pfand Schwz Hypo 0% 06.04.2027 Sec",
+   "pct": "2.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Pfandbriefzent 0% 02.10.2026 Sec",
+   "pct": "1.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cp Deutsche Bank Ag Zero % 22.12.2026",
+   "pct": "1.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank Nova Scotia 0.278% 01.04.2027 'Emtn' Sec",
+   "pct": "1.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cp Barclays Bk Plc Zero % 16.03.2027",
+   "pct": "1.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cp Indus Bk Korea Zero % 09.11.2026",
+   "pct": "1.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cd Mitsub Ufj Tr Lo Zero % 10.12.2026",
+   "pct": "1.23"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cd Royal Bk Canada Zero % 17.11.2026",
+   "pct": "1.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Cd Bank Of Montreal Zero % 24.06.2027",
+   "pct": "1.19"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0 à 48 heures",
+   "pct": "15.36"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "48 heures à 30 jours",
+   "pct": "14.30"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "30 à 90 jours",
+   "pct": "30.88"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "90 à 120 jours",
+   "pct": "6.01"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "120 à 150 jours",
+   "pct": "4.93"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "150 jours et plus",
+   "pct": "28.53"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Canada",
+   "pct": "15.80"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "9.25"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "8.92"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "8.27"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "6.96"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suède",
+   "pct": "5.61"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "5.05"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Australie",
+   "pct": "4.08"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.50"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "19.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et autres",
+   "pct": "12.82"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "8.64"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "20.82"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "56.97"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "0.75"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités et équivalents",
+   "pct": "12.82"
+  }
+ ]
+}

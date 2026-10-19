@@ -1,0 +1,170 @@
+{
+ "n": "622",
+ "isin": "LU1775964932",
+ "nom": "INVESCO PRC EQUITY A EUR H",
+ "maison": "Invesco Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-19",
+ "date_creation": "2018-09-10",
+ "devise": "EUR",
+ "type_fonds": "Actions chinoises",
+ "compartiment": "un compartiment d’Invesco Funds (le « Fonds à compartiments multiples »)",
+ "gerants": "Elton Cheung, Ronney Cheung",
+ "encours_millions": "172.90",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.75",
+ "frais_courants": "2.23",
+ "sri": "5",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sauraient présager des performances futures. La valeur des investissements et les revenus vont fluctuer, ce qui peut en partie être le résultat des fluctuations de taux de change et les investisseurs peuvent ne pas récupérer le montant total de leurs investissements initiaux.",
+ "politique_fr": "Le Fonds vise à générer une croissance du capital à long terme en investissant dans des actions de sociétés avec une exposition substantielle à la Chine continentale.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 : le compartiment s'appelle désormais « Invesco China New Perspective Equity Fund » (part « A (EUR Hgd)-Accumulation Shares », couverte en EUR), ISIN conforme ; le KID utilise aussi ce nom. Corrigé : encours 180.61 → 172.90 (« Actifs nets totaux EUR 172,90 million », 30/09/2026) ; indice « MSCI China 10/40 Index (Net TR) » retiré (voir ci-dessous) ; classification Dynamique → Agressif (actions d'un seul pays émergent, SRI 5) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus). Date de création = « Date de lancement de la classe d'actions 10 septembre 2018 » (fonds irlandais d'origine lancé le 01 avril 1992). Frais : factsheet « Frais de gestion annuels 1,75% », « Frais courants 2,23% » ; KID « 2,23 % ». Indice vide : KID « l’indice MSCI China 10/40 Index (Net Total Return), qui est utilisé à des fins de comparaison » (factsheet : « MSCI China 10/40 Index (USD) »). Gérants : Elton Cheung depuis le 27 février 2026, Ronney Cheung depuis le 31 août 2026. SRI 5 (KID). SFDR article 8 (KID). Allocations : colonne « Fonds » seulement ; la répartition par pays n'est qu'un graphique sans valeurs.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings",
+   "pct": "8.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding",
+   "pct": "8.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "China Construction Bank",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Industrial & Commercial Bank of China",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank of China",
+   "pct": "3.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meituan",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NetEase",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BYD",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WuXi AppTec",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JD.com",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "22.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "19.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "18.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "14.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "8.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "4.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "1.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grande capitalisation",
+   "pct": "87.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyenne capitalisation",
+   "pct": "9.6"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Liquidités",
+   "pct": "3.1"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1775964932/LU1775964932__KID_FR_2026-05-19.pdf"
+}

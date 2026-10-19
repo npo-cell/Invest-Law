@@ -1,0 +1,217 @@
+{
+ "n": "729",
+ "isin": "LU1951204046",
+ "nom": "NATIXIS THEMATICS META FUND RA EUR",
+ "maison": "Natixis Investment Managers S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-13",
+ "date_creation": "2019-02-28",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques",
+ "compartiment": "un Compartiment de Natixis International Funds (Lux) I",
+ "gerants": "Paul Bethell, Walid Azar Atallah",
+ "encours_millions": "605.5",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.05",
+ "sri": "4",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "94.2",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "LES PERFORMANCES INDIQUÉES SONT REPRÉSENTATIVES DES PERFORMANCES PASSÉES ET NE SONT PAS UNE GARANTIE DES RÉSULTATS FUTURS. La valeur du capital et les rendements évoluant au fil du temps (notamment du fait des fluctuations de change), le prix de rachat des actions sera supérieur ou inférieur à leur prix initial.",
+ "politique_fr": "Objectif d'investissement\nL'objectif d'investissement est la croissance à long terme du capital par le biais d'un processus d'investissement comprenant systématiquement des considérations environnementales, sociales et de gouvernance (« ESG »).\n\nPolitique d'investissement\nUne combinaison de toutes les stratégies de l'expertise Thematics en un fonds unique.\nUn investissement en direct dans les actions des sociétés, et non au travers d'une structure de fonds de fonds.\nUn portefeuille sans contraintes, avec une part active (active share) élevée par rapport aux principaux indices actions globaux.\nIdentifie les sociétés ayant un profil rendement/risque jugé attractif, portées par des tendances séculaires.\nInclut les principes Environnementaux, Sociaux et de Gouvernance tant dans le processus de sélection que d'allocation du capital.\nCe Fonds promeut des critères environnementaux ou sociaux et de gouvernance (ESG) mais il n'a pas pour objectif un investissement durable. Il pourra investir partiellement dans des actifs ayant un objectif durable, par exemple tels que définis par la classification de l'UE.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 630.8 → 605.5 USD (« Actif net USDm 605,5 », factsheet 30/09/2026 ; encours du fonds en USD, la part est en EUR) ; indice « MSCI All Country World Index (Total Return Net) » → vide (KID : « Le Produit n’est pas géré par rapport à un indice spécifique. Toutefois, à titre indicatif uniquement, la performance du Produit peut être comparée à celle de l’Indice … MSCI ACWI » ; la factsheet cite « Indicateur de référence MSCI ACWI NET TR USD INDEX ») ; disclaimer remplacé par celui de la factsheet ; compartiment refait depuis le KID ; % durable ajouté. Le fonds s’appelle désormais « Mirova Thematic Meta » (factsheet et KID ; gestionnaire financier Mirova). Date de création : « Création de la classe d'actions 28/02/2019 ». Frais : seulement « Frais courants 2,05% » (factsheet) et KID « Frais de gestion et autres frais administratifs et d’exploitation 2,05 % » ; pas de frais de gestion séparés. Gérants : factsheet « Paul BETHELL » (écrit en majuscules : seul écart du contrôle automatique, dû à la casse) et « Walid Azar Atallah ». SFDR article 8 ; investissements durables : exposition actuelle 94,2 % (engagement minimum 30 %), alignement taxonomie 3,9 % (minimum 3 %). Classification Dynamique conservée (thématiques multiples, portefeuille mondial diversifié de 97 émetteurs, SRI 4). Politique : la factsheet présente la politique sous forme de puces (puces retirées).",
+ "factsheet_fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951204046/LU1951204046__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/NATIXIS_INVESTMENT_MANAGERS_S_A/LU1951204046/LU1951204046__KID_FR_2026-04-13.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "durable_pct": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "7.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "5.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "4.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BROADCOM INC",
+   "pct": "3.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VERIZON COMMUNICATIONS INC",
+   "pct": "2.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MERCK & CO INC",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SINGAPORE TELECOMMUNICATIONS LTD",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ADVANCED MICRO DEVICES INC",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABBVIE INC",
+   "pct": "2.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "99.9"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "0.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "36.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "13.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits financiers",
+   "pct": "12.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "11.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "10.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services collectifs",
+   "pct": "4.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de première nécessité",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie",
+   "pct": "0.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Amérique",
+   "pct": "68.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Europe",
+   "pct": "13.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Développés - Région Pacifique",
+   "pct": "9.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents - Amérique",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Emergents - Asie",
+   "pct": "7.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Trésorerie",
+   "pct": "0.1"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "< 10 Mrds USD",
+   "pct": "4.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10 à 50 Mrds USD",
+   "pct": "25.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "50 à 200 Mrds USD",
+   "pct": "26.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "> 200 Mrds USD",
+   "pct": "43.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Trésorerie",
+   "pct": "0.1"
+  }
+ ]
+}

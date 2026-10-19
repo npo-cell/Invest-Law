@@ -1,0 +1,115 @@
+{
+ "n": "852",
+ "isin": "LU1496475119",
+ "nom": "WATERLOO GLOBAL FLEXIBLE R EUR",
+ "maison": "Altum Management Company (Luxembourg) S.A.",
+ "factsheet_date": "2026-10-15",
+ "kid_date": "2026-02-06",
+ "date_creation": "2016-10-25",
+ "devise": "EUR",
+ "type_fonds": "Allocation flexible internationale (à dominante actions)",
+ "compartiment": "a sub-fund of WATERLOO SICAV",
+ "gerants": "",
+ "encours_millions": "283.94",
+ "encours_devise": "EUR",
+ "encours_date": "2026-10-15",
+ "frais_gestion": "1.5",
+ "frais_courants": "1.9",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Past performance is not a guarantee of future results.",
+ "politique_fr": "",
+ "politique_en": "Investment Objective\nThe objective of the sub-fund is to seek medium-term and long-term capital appreciation for the investor through a flexible allocation of assets in accordance with the analyses and opinions of the Investment Manager. The sub-fund will invest its assets in a portfolio composed of equity assets, fixed income, money market instruments and/or cash, with no geographical, sectoral or monetary restriction. The weighting of a particular asset class in the sub-fund will depend on the conditions on the financial markets at the time of investment and/or the outlook of these markets. The sub-fund may invest up to 50% of its net assets into investment funds and/or other investment funds, including investment funds traded stock exchanges. The sub-fund may also invest up to 10% of its net assets in exchange traded commodities involving precious metals in without physical delivery of the underlying metal.",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet anglaise « Global Flexible – Class R EUR » datée du 15 October 2026, téléchargée depuis le lien publié sur sicav.waterloo-am.com (documents.anevis-solutions.com) et rangée dans INVESTLAW ; attention : le document porte la mention « Internal use only! » (destiné aux actionnaires et employés). Aucune factsheet française ; le site publie aussi un rapport trimestriel français au 30/06/2026 (non utilisé : ce n'est pas une factsheet et il est plus ancien). KID anglais du 06/02/2026 (le KID français du site date du 01/02/2025). Date de création = « Launch Date 25th October 2016 » (sans préciser part ou fonds). Encours « TNA 283.94 Mln. € ». Frais de gestion = « Management Fee Class R-EUR: 1.5% » ; frais courants = KID « Management fees and other administrative or operating costs 1.9% » ; commission de performance 10 % (high watermark). Indice « Aucun » : KID « actively managed on a discretionary basis without reference to a benchmark » ; « Aucun » est la valeur conventionnelle de la consigne, absente du texte anglais : seul écart du contrôle verif_fiche (le rapport trimestriel évoque un « benchmark composite » non nommé). SFDR vide : aucun article écrit. Gérants : aucun nom (gestionnaire Waterloo Asset Management, S.A.). Classification Dynamique : allocation flexible à dominante actions (actions 68,13 %), malgré un SRI 3. Politique : « Investment Objective » de la factsheet, dernière phrase tronquée dans le document non reprise. Allocations : classes d'actifs, zones géographiques et 5 principales lignes (« Portfolio Single Holdings »). Corrigé : devise « E » → EUR ; ajout des autres champs (le classeur était presque vide).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "KID p.1",
+  "disclaimer": "factsheet p.2",
+  "politique_en": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "3.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ge Vernova Inc",
+   "pct": "2.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ostrum SRI Cred Ultra Short Plus SI Cap",
+   "pct": "2.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "abrdn SICAV I ShDat Enh Inc Fd I Cap",
+   "pct": "2.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Samsung Electronics Co Ltd GDR",
+   "pct": "2.71"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Equity",
+   "pct": "68.13"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Funds",
+   "pct": "14.35"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bonds",
+   "pct": "3.01"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "14.51"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "North America",
+   "pct": "39.07"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "21.68"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Worldwide",
+   "pct": "13.08"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asia",
+   "pct": "11.67"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Cash",
+   "pct": "14.51"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ALTUM_MANAGEMENT_COMPANY_LUXEMBOURG_S_A/LU1496475119/LU1496475119__Factsheet_EN_2026-10-15.pdf",
+ "kid_fichier": "INVESTLAW/ALTUM_MANAGEMENT_COMPANY_LUXEMBOURG_S_A/LU1496475119/LU1496475119__KID_EN_2026-02-06.pdf"
+}

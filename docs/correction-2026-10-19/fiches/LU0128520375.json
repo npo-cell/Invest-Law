@@ -1,0 +1,226 @@
+{
+ "n": "831",
+ "isin": "LU0128520375",
+ "nom": "TEMPLETON GLOBAL CLIMATE CHANGE A EUR",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2001-05-14",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales thématiques (climat)",
+ "compartiment": "SICAV de droit luxembourgeois Franklin Templeton Investment Funds",
+ "gerants": "Craig Cameron, Tina Sadler",
+ "encours_millions": "1290",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.82",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs. Le cours des actions du Fonds, ainsi que les revenus générés, peuvent fluctuer à la hausse comme à la baisse, et il est possible que les investisseurs ne puissent pas récupérer l'intégralité des montants investis.",
+ "politique_fr": "Objectif d'investissement\nChercher une croissance de l'investissement à long terme, principalement par la croissance du capital, tout en contribuant à l'atténuation du changement climatique et à l'adaptation au changement climatique. Le Fonds vise à contribuer à l'objectif de limitation du réchauffement climatique à 1,5 °C fixé par l'Accord de Paris, principalement par des investissements dans des solutions de réduction des émissions de gaz à effet de serre (GES), et secondairement par des investissements dans des entreprises qui alignent leurs activités sur ce scénario bas carbone. Le Fonds investit principalement dans des actions de sociétés qui fournissent des solutions pour atténuer le changement climatique et s'y adapter ou qui sont en train de rendre leurs modèles économiques plus résistants aux risques à long terme présentés par le changement climatique et l'épuisement des ressources.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting du Fonds au 30 septembre 2026 » (française, la plus récente). SFDR article 9 (factsheet « Catégorie SFDR Article 9 » et KID), aucun % d'investissements durables écrit. Date de création = « Date de création de la part 14.05.2001 » (fonds : 26.04.1991). Compartiment de Franklin Templeton Investment Funds (« Parapluie légal »). Gérants : équipe de gestion (Craig Cameron, CFA ; Tina Sadler, CFA). Encours « Actif net total » €1,29 milliard (fonds). Frais de gestion non indiqués ; frais courants 1,82 % (KID « Frais de gestion et autres frais administratifs et d’exploitation », identique à la factsheet). Indice vide : « MSCI All Country World Index-NR (et MSCI ACWI Investable Market Index-NR « Comparateur (ESG) ») » marqué « Comparateur », « Utilisé à des fins de comparaison des performances uniquement ». Classification Agressif : actions thématiques (changement climatique), malgré un SRI de 4 (One Life : Dynamique). Allocations : colonne « Fonds » seulement (indice non repris), libellés et valeurs tels qu'écrits. Corrigé : encours 1320 → 1290 (factsheet 30/09/2026) ; indice → vide (comparaison uniquement) ; classification Dynamique → Agressif ; politique du site → objectif de la factsheet.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "MICROSOFT CORP",
+   "pct": "6.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "4.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALPHABET INC",
+   "pct": "4.09"
+  },
+  {
+   "type": "Positions",
+   "libelle": "THERMO FISHER SCIENTIFIC INC",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ING GROEP NV",
+   "pct": "3.75"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SSE PLC",
+   "pct": "3.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "3.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CROWN HOLDINGS INC",
+   "pct": "3.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SMURFIT WESTROCK PLC",
+   "pct": "3.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CNH INDUSTRIAL NV",
+   "pct": "2.96"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "28.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "23.79"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "13.68"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "9.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "5.99"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "5.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "4.10"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "3.78"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "3.94"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.99"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "47.21"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "8.73"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "8.52"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "5.60"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "4.77"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "4.68"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "2.24"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "1.79"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "15.47"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "0.99"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<2,0 milliards",
+   "pct": "0.81"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2,0-5,0 milliards",
+   "pct": "5.02"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5,0-10,0 milliards",
+   "pct": "7.48"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "10,0-25,0 milliards",
+   "pct": "26.57"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "25,0-50,0 milliards",
+   "pct": "18.51"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">50,0 milliards",
+   "pct": "41.61"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0128520375/LU0128520375__KID_FR_2026-02-19.pdf"
+}

@@ -1,0 +1,77 @@
+{
+ "n": "353",
+ "isin": "FR0011829159",
+ "nom": "ADN DYNAMIC C EUR",
+ "maison": "SAPIENTA GESTION",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-20",
+ "date_creation": "2014-05-23",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible",
+ "compartiment": "FCP de droit français",
+ "gerants": "Michel Dinet, Cyrille Pichot de Cayeux, Cyprien Serizier",
+ "encours_millions": "77.19970134",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.80",
+ "frais_courants": "2.75",
+ "sri": "3",
+ "indice": "",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "6",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "ADN Dynamic est un fonds discrétionnaire dont l’objectif est de réaliser une performance nette de frais de 6,5% minimum par an, sur un horizon de 5 ans.\n\nPour parvenir à son objectif de gestion, le gérant expose le portefeuille au marché des actions et des obligations internationales, principalement par le biais d’OPC, et également de valeurs mobilières en direct.\n\nLe processus d’investissement est le fruit d’une analyse des facteurs macroéconomiques (approche top-down) et d’une sélection des sous-jacents par le biais d’un processus d’analyse combinant quantitatif et qualitatif (approche bottom-up).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Nouveau KID rangé dans INVESTLAW (DIC part C du 20/05/2026, site sapientagestion.com ; identique au PDF du site) ; factsheet = rapport mensuel septembre 2026 (identique à celui publié par Sapienta). Date de création : « Création du fonds 23 mai 2014 » (factsheet) / « créé le 23/05/2014 » (KID), date du fonds ; gestion reprise par Sapienta Gestion le 27/01/2025. Encours « 77 199 701,34 EUR ». Frais : « Frais de gestion 1,80% de l’actif net » (factsheet) ; frais courants 2,75 % (KID) ; commission de surperformance 15 % au-delà de 6,5 % par an. Indice : aucun indice de référence (objectif de performance absolue de 6,5 % par an) ; le MSCI World Euro n'est cité que pour le bêta et « à des fins de comparaison ». SFDR : « Classification SFDR Article 6 » (factsheet). Classification Dynamique : fonds flexible pouvant aller jusqu'à 115 % en actions, majoritairement en actions (SRI 3). Allocations : seules les 5 principales positions ; les répartitions par classes d'actifs, zones et devises sont des graphiques dont les libellés ne sont pas reliés aux pourcentages dans le texte : non reprises. Corrigé : encours 76.18 → 77.19970134 (factsheet 30/09/2026) ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/SAPIENTA_GESTION/FR0011829159/FR0011829159__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/SAPIENTA_GESTION/FR0011829159/FR0011829159__KID_FR_2026-05-20.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Futur Flexible Actions",
+   "pct": "4.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sunny North America",
+   "pct": "4.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Global Evolution Frontier Markets",
+   "pct": "4.31"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amundi MSCI Eastern Europe Ex Russia",
+   "pct": "3.91"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Xtrackers S&P Frontier Makets",
+   "pct": "3.36"
+  }
+ ]
+}

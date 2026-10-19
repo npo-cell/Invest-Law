@@ -1,0 +1,2633 @@
+[
+ {
+  "n": 488,
+  "isin": "BE0940002729",
+  "nom": "DPAM B EQUITIES EUROPE SUSTAINABLE B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0940002729/BE0940002729__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0940002729/BE0940002729__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0940002729/BE0940002729__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0940002729/BE0940002729__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0940002729/BE0940002729__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0940002729__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2002-12-31",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe",
+   "compartiment": "DPAM B",
+   "encours": "845.98",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.76",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises européennes.\n\nIl s'agit d'un compartiment géré activement, ce qui signifie que le gestionnaire de portefeuille n'a pas pour objectif de reproduire la performance d'un benchmark. Le compartiment investit principalement dans des actions et/ou d'autres titres donnant accès au capital d'entreprises dont le",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 489,
+  "isin": "BE0946564383",
+  "nom": "DPAM B EQUITIES NEWGEMS SUSTAINABLE B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0946564383/BE0946564383__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0946564383/BE0946564383__KID_FR_2026-10-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0946564383/BE0946564383__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0946564383/BE0946564383__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0946564383/BE0946564383__KID_FR_2026-10-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0946564383__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-10-02",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques",
+   "compartiment": "DPAM B",
+   "encours": "1430.31",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.73",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Objectif: L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises du monde entier sélectionnés sur base de certains tendances et thèmes d'activités. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le se",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 490,
+  "isin": "BE0947764743",
+  "nom": "DPAM B EQUITIES SUSTAINABLE FOOD TRENDS B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0947764743/BE0947764743__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0947764743__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2007-12-17",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques (agroalimentaire)",
+   "compartiment": "DPAM B",
+   "encours": "28.98",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.94",
+   "sri": "4",
+   "categorie": "Equity Global Agribusiness",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du compartiment est de vous offrir une exposition aux titres de capital d'entreprises actives dans le secteur agro-alimentaire au sens large. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 491,
+  "isin": "BE0058187841",
+  "nom": "DPAM B REAL ESTATE EUROPE SUSTAINABLE B EUR",
+  "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058187841/BE0058187841__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058187841/BE0058187841__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058187841/BE0058187841__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058187841/BE0058187841__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE0058187841/BE0058187841__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0058187841__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1999-12-28",
+   "devise": "EUR",
+   "type_fonds": "Actions immobilier Europe",
+   "compartiment": "DPAM B",
+   "encours": "517.34",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.8",
+   "sri": "5",
+   "indice": "GPR Europe UK 25% Capped Net Return",
+   "categorie": "Equity Europe Real Estate",
+   "sfdr": "8",
+   "politique_fr": "Objectif: L'objectif du compartiment est de vous offrir une exposition aux titres représentatifs du secteur immobilier européen. Le compartiment promeut une combinaison de caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers, et doit contenir une proportio",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 492,
+  "isin": "LU0215993790",
+  "nom": "DPAM L BALANCED CONSERVATIVE SUST B EUR",
+  "maison": "CA Indosuez Wealth ( Europe) S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__KID_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/CA_INDOSUEZ_WEALTH_EUROPE_S_A/LU0215993790/LU0215993790__KID_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0215993790__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-04-13",
+   "devise": "EUR",
+   "type_fonds": "Mixte défensif durable",
+   "compartiment": "DPAM L",
+   "encours": "116.42",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.6",
+   "sri": "3",
+   "categorie": "Multi-actifs - Actions Low (mixte défensif)",
+   "sfdr": "8",
+   "duration": "4.6",
+   "politique_fr": "Augmenter la valeur de votre investissement sur le moyen terme. Le fonds est géré sans référence à un indice.\n\nDans des conditions normales de marché, le compartiment investit principalement dans des obligations et, dans une moinde proportion, des actions d'e´metteurs s'engageant à respecter des principes fondamentaux en matière de droits humains, de droit du travail, d'environnement et de lutte c",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 493,
+  "isin": "LU0907927338",
+  "nom": "DPAM L BONDS EMERGING MKT SUS B EUR",
+  "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__KID_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0907927338/LU0907927338__KID_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0907927338__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-03-18",
+   "devise": "EUR",
+   "type_fonds": "Obligations marchés émergents",
+   "compartiment": "DPAM L",
+   "encours": "5727.63",
+   "frais_gestion": "1",
+   "frais_courants": "1.2",
+   "sri": "3",
+   "categorie": "Obligations d'Etat marchés émergents (durable)",
+   "sfdr": "9",
+   "duration": "5.05",
+   "politique_fr": "Augmenter la valeur de votre investissement sur le moyen à long terme, tout en poursuivant un objectif durable.\n\nLe fonds est géré sans référence à un indice.\n\nDans des conditions normales de marché, le compartiment investit principalement dans des obligations gouvernementales, y compris des obligations à haut rendement, émises dans les marchés émergents. Le compartiment peut recourir à des instru",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 494,
+  "isin": "LU0138645519",
+  "nom": "DPAM L BONDS HIGHER YIELD B EUR",
+  "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__KID_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138645519/LU0138645519__KID_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0138645519__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2000-11-06",
+   "devise": "EUR",
+   "type_fonds": "Obligations haut rendement internationales",
+   "compartiment": "DPAM L",
+   "encours": "40.95",
+   "frais_gestion": "0.9",
+   "frais_courants": "1.23",
+   "sri": "2",
+   "categorie": "Bond Global High Yield",
+   "sfdr": "8",
+   "duration": "3.38",
+   "politique_fr": "Augmenter la valeur de votre investissement sur le moyen à long terme.\n\nLe fonds est géré sans référence à un indice.\n\nDans des conditions normales de marché, le compartiment investit principalement dans des obligations à haut rendement du monde entier et libellées en toute devise. Le compartiment peut recourir à des instruments dérivés afin de se couvrir contre des fluctuations de marché et de ré",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 495,
+  "isin": "LU0138643068",
+  "nom": "DPAM L BONDS UNIVERSALIS UNCONSTRAINED B EUR",
+  "maison": "DEGROOF PETERCAM ASSET SERVICES S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__KID_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/DEGROOF_PETERCAM_ASSET_SERVICES_S_A/LU0138643068/LU0138643068__KID_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0138643068__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1985-01-01",
+   "devise": "EUR",
+   "type_fonds": "Obligations internationales",
+   "compartiment": "DPAM L",
+   "encours": "736.24",
+   "frais_gestion": "0.8",
+   "frais_courants": "1.01",
+   "sri": "2",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "4.94",
+   "politique_fr": "Augmenter la valeur de votre investissement sur le moyen à long terme.\n\nLe fonds est géré sans référence à un indice.\n\nDans des conditions normales de marché, le compartiment investit principalement dans des obligations de niveau « investment grade » du monde entier et libellées en toute devise. Le fonds peut également investir significativement dans des obligations chinoises et obligations conver",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 496,
+  "isin": "IE00BH3ZB850",
+  "nom": "DRIEHAUS US SMALL CAP EQUITY FUND B USD",
+  "maison": "Heptagon Capital Limited",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/HEPTAGON_CAPITAL_LIMITED/IE00BH3ZB850/IE00BH3ZB850__KID_FR_2026-04-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/HEPTAGON_CAPITAL_LIMITED/IE00BH3ZB850/IE00BH3ZB850__KID_FR_2026-04-10.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "categorie": "Equity US Sm&Mid Cap",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 500,
+  "isin": "FR0010321810",
+  "nom": "ECHIQUIER AGENOR MID CAP EUROPE A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321810/FR0010321810__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321810/FR0010321810__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321810/FR0010321810__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321810/FR0010321810__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010321810__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1183 M€",
+    "note": "p.1 « 1 183 M€ Actif net »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2004-02-27",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe, Small & Mid Cap",
+   "compartiment": "Compartiment de Sicav",
+   "gerants": "Stéphanie Bobtcheff, José Berros, Philbert Veissières",
+   "encours": "1185",
+   "frais_courants": "2.35",
+   "sri": "4",
+   "indice": "MSCI Europe Mid Cap NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Sm&Mid Cap",
+   "durable_pct": "71",
+   "politique_fr": "Echiquier Agenor Mid Cap Europe est un OPC de sélection de titres (\"stock-picking\"). Il investit dans des petites et moyennes valeurs européennes de croissance, sélectionnées en particulier pour la qualité de leur management.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 501,
+  "isin": "FR0010321802",
+  "nom": "ECHIQUIER AGRESSOR A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321802/FR0010321802__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321802/FR0010321802__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321802/FR0010321802__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321802/FR0010321802__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010321802__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "356 M€",
+    "note": "p.1 « 356 M€ Actif net »"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de type prospectus (approche, 60-100% actions, 25% taux, dérivés...) absent de la factsheet ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1991-11-29",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe Flex Cap",
+   "compartiment": "Compartiment de Sicav",
+   "gerants": "Yann Giordmaina, Benjamin Bellaïche",
+   "encours": "362.4",
+   "frais_courants": "2.09",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "politique_fr": "Echiquier Agressor investit, par le biais de la sélection de titres (\"stock-picking\"), dans l’univers des actions européennes. La caractéristique \"carte blanche au gérant\" lui permet de choisir des valeurs sans contrainte de style ou de taille.",
+   "politique_en": "- Investment approach: The UCITS implements active and discretionary management based on rigorous stock selection (“stock picking”) obtained through a process that includes direct meetings with the companies in which the UCITS invests, as well as short-term trading operations depending on market opportunities. Echiquier Agressor is exposed to equity risk between 60% and 100% of its net assets. The",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 502,
+  "isin": "FR0012870657",
+  "nom": "ECHIQUIER ALLOCATION FLEXIBLE A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0012870657/FR0012870657__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0012870657/FR0012870657__KID_FR_2026-02-26.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0012870657/FR0012870657__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0012870657/FR0012870657__KID_FR_2026-02-26.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0012870657__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2015-09-25",
+   "devise": "EUR",
+   "type_fonds": "Allocation EUR Flexible - International",
+   "gerants": "Matthieu Leblanc, Enguerrand Artaz, Alexis Bienvenu",
+   "encours": "51",
+   "frais_gestion": "1.5",
+   "frais_courants": "2.104",
+   "sri": "3",
+   "indice": "€STR capitalisé + 5.5%",
+   "classification": "Equilibré",
+   "categorie": "Mixte",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures. Les rendements indiqués sont nets de frais de gestion mais bruts d'impôts pour l'investisseur.",
+   "politique_fr": "Echiquier Allocation Flexible est un OPC recherchant à surperformer à moyen terme son objectif de gestion au travers d'une gestion discrétionnaire et opportuniste notamment sur les marchés d'actions, de taux, de crédit et de devises.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 503,
+  "isin": "LU1819480192",
+  "nom": "ECHIQUIER ARTIFICIAL INTELLIGENCE B EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__KID_FR_2026-05-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU1819480192/LU1819480192__KID_FR_2026-05-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1819480192__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "1re phrase = traduction de « Past performance is not an indication of future performance » ; 2e phrase (« investi sur les marchés actions... importante volatilité ») absente"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; la factsheet dit seulement « a SICAV compartment that invests in major international companies which benefit from or develop artificial intelligence »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-06-20",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales — thématique Intelligence Artificielle",
+   "compartiment": "Echiquier Fund - Artificial Intelligence (Sicav luxembourgeoise)",
+   "gerants": "Christophe Pouchoy, Stéphane Nières Tavernier",
+   "encours": "1255",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.75",
+   "sri": "6",
+   "indice": "MSCI World NR EUR",
+   "classification": "Agressif",
+   "categorie": "Equity Global Information Technology",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures. Le fonds est investi sur les marchés actions et peut connaître une importante volatilité.",
+   "politique_fr": "Echiquier Artificial Intelligence est un fonds actions thématique de droit luxembourgeois, géré par La Financière de l'Échiquier (LFDE) sous la responsabilité de Christophe Pouchoy et Stéphane Nières Tavernier. Son principe est de rechercher la performance à long terme en investissant dans des valeurs de croissance des marchés internationaux qui développent l'intelligence artificielle ou qui en bé",
+   "politique_en": "Echiquier Artificial Intelligence is a SICAV compartment that invests in major international companies which benefit from or develop artificial intelligence.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 504,
+  "isin": "FR0010611293",
+  "nom": "ECHIQUIER ARTY A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010611293/FR0010611293__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010611293/FR0010611293__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010611293/FR0010611293__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010611293/FR0010611293__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010611293__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "72,5%",
+    "note": "p.4 « Pourcentage d'investissement durable : Portefeuille 72,5% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-05-30",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs flexible, labellisé ISR",
+   "compartiment": "Compartiment de la Sicav Echiquier",
+   "gerants": "Uriel Saragusti, Benjamin Bellaïche",
+   "encours": "633",
+   "frais_gestion": "1.41",
+   "frais_courants": "1.51",
+   "sri": "2",
+   "indice": "25% €STR capitalisé Jour TR EUR, 50% Markit iBoxx EUR Corp 3-5 TR, 25% MSCI Europe NR EUR",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Europe Balanced",
+   "durable_pct": "78",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+   "politique_fr": "Echiquier Arty SRI est un OPC diversifié investi dans des actions et des obligations d’entreprises européennes. Le gérant recherche le meilleur couple rendement/risque émis par les entreprises.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 505,
+  "isin": "FR001400BE31",
+  "nom": "ECHIQUIER GLOBAL FLEXIBLE A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__KID_FR_2026-03-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__Factsheet_FR_2025-10-31.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR001400BE31/FR001400BE31__KID_FR_2026-03-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400BE31__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "phrase absente des 3 pages"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-09-19",
+   "devise": "EUR",
+   "type_fonds": "Allocation d'actifs flexible mondial",
+   "compartiment": "Compartiment de la Sicav « Club Solutions »",
+   "gerants": "Alexis Bienvenu, Enguerrand Artaz",
+   "encours": "19.2",
+   "frais_gestion": "1.6",
+   "frais_courants": "2.417",
+   "sri": "3",
+   "indice": "65% MSCI World Net Total Return EUR + 35% Bloomberg Euro Aggregate Treasury 1-3 Years EUR",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "La valeur d'un investissement peut fluctuer en fonction des conditions de marché ; les investisseurs peuvent perdre tout ou partie du capital investi.",
+   "politique_fr": "Echiquier Global Flexible est un OPC recherchant à surperformer à moyen terme son objectif de gestion au travers d'une gestion discrétionnaire et opportuniste notamment sur les marchés d'actions, de taux, de crédit et de devises.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 506,
+  "isin": "FR0013277571",
+  "nom": "ECHIQUIER HYBRID BONDS A EUR",
+  "maison": "LA FINANCIERE DE L'ECHIQUIER",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013277571/FR0013277571__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013277571/FR0013277571__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013277571/FR0013277571__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCIERE_DE_L_ECHIQUIER/FR0013277571/FR0013277571__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013277571__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-09-12",
+   "devise": "EUR",
+   "type_fonds": "Obligataire — obligations subordonnées hybrides d'entreprises",
+   "compartiment": "Compartiment de Sicav",
+   "gerants": "Uriel Saragusti, Matthieu Durandeau",
+   "encours": "197",
+   "frais_gestion": "1.21",
+   "frais_courants": "1.29",
+   "sri": "2",
+   "indice": "Markit iBoxx € Non-Fincls Subd TR EUR",
+   "classification": "Défensif",
+   "categorie": "Majoritairement obligations",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures. Les rendements indiqués sont nets de frais de gestion mais bruts d'impôts pour l'investisseur.",
+   "politique_fr": "Un OPC d’obligations subordonnées, perpétuelles ou de longue maturité, émises par des entreprises privées non financières évaluées comme étant de bonne qualité de signature, par les agences de notation et la société de gestion.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 507,
+  "isin": "FR0010321828",
+  "nom": "ECHIQUIER MAJOR SRI GROWTH EUROPE A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321828/FR0010321828__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321828/FR0010321828__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321828/FR0010321828__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010321828/FR0010321828__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010321828__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1226 M€",
+    "note": "p.1 « 1 226 M€ Actif net »"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "81,9%",
+    "note": "« Pourcentage d'investissement durable : Portefeuille 81,9% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-03-11",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe Grandes Capitalisations Croissance",
+   "compartiment": "Compartiment de Sicav Echiquier",
+   "gerants": "Adrien Bommelaer, Paul Merle, Marion Cohet Boucheron",
+   "encours": "1243.4",
+   "frais_gestion": "2.2",
+   "frais_courants": "2.23",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "durable_pct": "79",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures. Les rendements indiqués sont nets de frais de gestion mais bruts d'impôts pour l'investisseur.",
+   "politique_fr": "Echiquier Major SRI Growth Europe est un OPC de sélection de titres (\"stock-picking\"). Son univers d’investissement est celui des grandes valeurs européennes de croissance, présentant des positions affirmées de leadership dans leur secteur.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 508,
+  "isin": "FR0010863688",
+  "nom": "ECHIQUIER POSITIVE IMPACT A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010863688/FR0010863688__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010863688/FR0010863688__KID_FR_2026-04-14.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010863688/FR0010863688__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010863688/FR0010863688__KID_FR_2026-04-14.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010863688__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "92,3%",
+    "note": "« Pourcentage d'investissement durable : Portefeuille 92,3% »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-03-19",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe — impact / développement durable, Label ISR",
+   "compartiment": "Compartiment de la Sicav Echiquier Impact",
+   "gerants": "Adrien Bommelaer, Paul Merle (CIIA), Luc Olivier (CFA)",
+   "encours": "422",
+   "frais_gestion": "1.71",
+   "frais_courants": "1.8",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "durable_pct": "57",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures. Le label ISR de l'État français est valable pour une durée limitée et sujet à réévaluation.",
+   "politique_fr": "Echiquier Positive Impact Europe est un fonds de sélection de titres (\"stock picking\"). Il investit dans des entreprises de l'univers des actions européennes qui se distinguent par leur bonne gouvernance ainsi que la qualité de leur politique sociale et environnementale et dont l'activité apporte des solutions aux enjeux du développement durable.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 509,
+  "isin": "LU2466448532",
+  "nom": "ECHIQUIER SPACE B EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU2466448532/LU2466448532__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU2466448532/LU2466448532__KID_FR_2026-05-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU2466448532/LU2466448532__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU2466448532/LU2466448532__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/LU2466448532/LU2466448532__KID_FR_2026-05-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2466448532__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "544 M€",
+    "note": "p.1 « 544 M€ Net assets »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte rédigé ; la factsheet dit seulement « A fund invested in international equities on the theme of space »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2021-05-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales — thématique espace",
+   "compartiment": "Echiquier Fund (Sicav luxembourgeoise)",
+   "gerants": "Stéphane Nières Tavernier, Christophe Pouchoy, Alicia Daurignac",
+   "encours": "542.1",
+   "frais_courants": "1.84",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Agressif",
+   "categorie": "Equity Global",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures.",
+   "politique_fr": "Echiquier Space est un fonds actions thématique de droit luxembourgeois, géré par La Financière de l'Échiquier (LFDE) sous la responsabilité de Stéphane Nières Tavernier, Christophe Pouchoy et Alicia Daurignac. Son principe est de rechercher la performance en investissant sur les marchés actions internationaux, plus précisément dans les sociétés de l'univers spatial, à travers une gestion active e",
+   "politique_en": "A fund invested in international equities on the theme of space.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 510,
+  "isin": "FR0010547067",
+  "nom": "ECHIQUIER VALUE EUROPE P EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010547067/FR0010547067__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010547067/FR0010547067__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010547067/FR0010547067__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010547067/FR0010547067__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010547067__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "ni « élément contractuel / conseil en investissement » ni « importante volatilité » dans la factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1997-01-03",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe Gdes Cap. Value",
+   "gerants": "Yann Giordmaïna, Maxime Lefebvre (CFA), Romain Ruffenach",
+   "encours": "831",
+   "frais_gestion": "2",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "classification": "Equilibré",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les informations présentées ci-dessus ne constituent ni un élément contractuel, ni un conseil en investissement. Le fonds est investi sur les marchés actions et peut connaître une importante volatilité.",
+   "politique_fr": "L’objectif du fonds est d’investir sur les marchés d’actions européens, en sélectionnant des valeurs répondant à des critères d’investissement socialement responsable (selon l’analyse de la société de gestion) et dont la valorisation est jugée décotée par la société de gestion (« Value »), tout en recherchant à limiter les risques de forte variation du portefeuille.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 511,
+  "isin": "FR0010859769",
+  "nom": "ECHIQUIER WORLD EQUITY GROWTH A EUR",
+  "maison": "La Financière de l'Echiquier",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010859769/FR0010859769__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010859769/FR0010859769__KID_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010859769/FR0010859769__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LA_FINANCI_RE_DE_L_ECHIQUIER/FR0010859769/FR0010859769__KID_FR_2026-07-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010859769__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "1240",
+    "note": "factsheet p.1 : « 1 240 M€ Actif net » (au 30/09/2026)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-04-16",
+   "devise": "EUR",
+   "type_fonds": "Actions Internationales Gdes Cap. Croissance",
+   "compartiment": "Echiquier World Equity Growth",
+   "gerants": "David Ross, Louis Bersin, Emilie Deslogis",
+   "encours": "1230.7",
+   "frais_gestion": "2.2",
+   "frais_courants": "2.29",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "disclaimer": "Les performances passées ne sont pas indicatives des performances futures. Les rendements indiqués sont nets de frais de gestion mais bruts d'impôts.",
+   "politique_fr": "Echiquier World Equity Growth est un OPC de sélection de titres (\"stock-picking\"). Il est investi dans des grandes valeurs internationales fortement exposées à la croissance mondiale, présentant des positions affirmées de leadership global dans leur secteur.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 512,
+  "isin": "LU1244893696",
+  "nom": "EDMOND DE ROTHSCHILD FUND BIG DATA A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT LUXEMBOURG",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__KID_FR_2026-07-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__KID_FR_2026-07-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1244893696__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-08-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales technologie",
+   "compartiment": "Edmond de Rothschild Fund",
+   "gerants": "Xiadong BAO, Alexis BOSSARD",
+   "encours": "2837.22",
+   "frais_gestion": "1.6",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "durable_pct": "60.21",
+   "politique_fr": "L'objectif du Produit consiste à dégager une performance supérieure à celle de son indice sur un horizon de placement de 5 ans, en investissant sur les marchés de capitaux internationaux et par la sélection, entre autres, de sociétés du secteur technologique ou liées aux technologies d'analyse de pointe – Big Data.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 513,
+  "isin": "FR00140120M2",
+  "nom": "EDR MILLESIMA 2032 A EUR (FMB)",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__KID_FR_2026-04-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__KID_FR_2026-04-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR00140120M2__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2025-12-02",
+   "devise": "EUR",
+   "type_fonds": "Obligations à échéance haut rendement",
+   "compartiment": "Edmond de Rothschild SICAV (EdR SICAV)",
+   "gerants": "Victoire DUBRUJEAUD, Alexis SEBAH, Alexis FORET",
+   "encours": "432.07",
+   "frais_gestion": "1",
+   "frais_courants": "1.1",
+   "sri": "2",
+   "categorie": "Obligations à échéance haut rendement (High Yield)",
+   "sfdr": "8",
+   "durable_pct": "54.9",
+   "duration": "3.34",
+   "qualite": "BB-",
+   "politique_fr": "Millesima 2032 a pour objectif, sur un horizon de placement débutant au lancement du Produit jusqu’au 31 décembre 2032, d'obtenir une performance nette positive liée à l'évolution des marchés obligataires internationaux notamment par une exposition sur de titres spéculatifs et de maturité maximale décembre 2032.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 514,
+  "isin": "FR001400RZ04",
+  "nom": "EDR SICAV GLOBAL RESILIENCE A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__KID_FR_2026-04-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__KID_FR_2026-04-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400RZ04__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-10-09",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques",
+   "compartiment": "Edmond de Rothschild SICAV (EdR SICAV)",
+   "gerants": "Aymeric GASTALDI, Christophe FOLIOT",
+   "encours": "191.93",
+   "frais_gestion": "1.8",
+   "frais_courants": "2.04",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Actions Monde – gestion thématique",
+   "sfdr": "8",
+   "durable_pct": "62.19",
+   "politique_fr": "Le Produit a pour objectif, sur un horizon de placement recommandé supérieur à 5 ans, de rechercher une performance nette de frais de gestion supérieure à celle de son indicateur de référence, le MSCI WORLD (NR) EUR, en investissant sur les marchés actions internationaux à travers la sélection d’entreprises dont l’activité contribue à assurer le bon fonctionnement et la sécurité de la Société, au ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 515,
+  "isin": "FR0010588343",
+  "nom": "EDR SICAV TRICOLORE RENDEMENT A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010588343__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1998-12-04",
+   "devise": "EUR",
+   "type_fonds": "Actions France",
+   "compartiment": "Edmond de Rothschild SICAV (EdR SICAV)",
+   "gerants": "Guillaume LACONI, Ariane HAYATE",
+   "encours": "658.15",
+   "frais_gestion": "1.95",
+   "frais_courants": "2.19",
+   "sri": "4",
+   "indice": "SBF 120 NR (dividendes nets réinvestis)",
+   "categorie": "Equity France",
+   "sfdr": "8",
+   "durable_pct": "60.09",
+   "politique_fr": "L’objectif du Produit est de rechercher, sur un horizon de placement recommandé supérieur à 5 ans, une performance supérieure à celle de son indicateur de référence, le SBF 120 NR (Net Return soit Dividendes nets réinvestis), par des placements dans des sociétés majoritairement françaises dont les caractéristiques financières et de valorisation laissent penser qu’elles sont susceptibles d’afficher",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 517,
+  "isin": "LU1160356009",
+  "nom": "EDRF HEALTHCARE A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT LUXEMBOURG",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__KID_FR_2026-07-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__KID_FR_2026-07-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1160356009__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1985-04-30",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales santé",
+   "compartiment": "Edmond de Rothschild Fund",
+   "gerants": "Adeline SALAT-BAROUX, Sébastien MALAFOSSE",
+   "encours": "337.4",
+   "frais_gestion": "1.7",
+   "frais_courants": "2.2",
+   "sri": "4",
+   "indice": "MSCI AC World Health Care (NR) (EUR)",
+   "categorie": "Equity Global Healthcare",
+   "sfdr": "8",
+   "durable_pct": "60.36",
+   "politique_fr": "L'objectif du Produit consiste à surperformer son indice de référence en investissant dans des sociétés actives dans le secteur de la santé et répondant à des critères environnementaux, sociaux et de gouvernance.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 518,
+  "isin": "FR001400S0Q9",
+  "nom": "EIFFEL RENDEMENT 2030 R EUR",
+  "maison": "Eiffel Investment Group",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/EIFFEL_INVESTMENT_GROUP/FR001400S0Q9/FR001400S0Q9__KID_FR_2025-02-15.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EIFFEL_INVESTMENT_GROUP/FR001400S0Q9/FR001400S0Q9__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EIFFEL_INVESTMENT_GROUP/FR001400S0Q9/FR001400S0Q9__KID_FR_2025-02-15.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400S0Q9__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2024-11-29",
+   "devise": "EUR",
+   "gerants": "Emmanuel Weyd, Guillaume Truttmann",
+   "encours": "198.6",
+   "frais_gestion": "1.1",
+   "politique_fr": "Eiffel Rendement 2030 est un fonds obligataire à échéance fixe mettant en œuvre une stratégie de portage. Le fonds est investi dans un portefeuille diversifié d’obligations d’entreprises libellées en euro ayant une échéance d’au plus 2 ans après le 31 décembre 2030. Le processus de sélection repose sur une analyse fondamentale du risque de crédit (« bond picking ») et des convictions de l’équipe d",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 519,
+  "isin": "LU1331971769",
+  "nom": "ELEVA ABSOLUTE RETURN EUROPE A1 EUR",
+  "maison": "Eleva Capital SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__KID_FR_2026-03-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__KID_FR_2026-03-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1331971769__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-03-08",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe long/short (rendement absolu)",
+   "compartiment": "Eleva UCITS Fund",
+   "gerants": "Eric Bendahan",
+   "encours": "4979.88",
+   "frais_gestion": "2",
+   "frais_courants": "2.1",
+   "sri": "2",
+   "categorie": "Alternative Europe Equity Long/Short",
+   "sfdr": "8",
+   "durable_pct": "65",
+   "politique_fr": "Le compartiment cherche à générer un rendement absolu positif à moyen terme par une appréciation du capital en investissant principalement en actions et en titres apparentés aux actions de sociétés cotées en Europe, en position acheteur comme en position vendeur.\n\nPhilosophie d’investissement bottom-up différenciée et disciplinée, complétée par une vision macroéconomique visant à conforter le posi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 520,
+  "isin": "LU1111642820",
+  "nom": "ELEVA EUROPEAN SELECTION A2 EUR",
+  "maison": "Eleva Capital SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__KID_FR_2026-03-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__KID_FR_2026-03-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1111642820__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-06-16",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe",
+   "compartiment": "Eleva UCITS Fund",
+   "gerants": "Eric Bendahan",
+   "encours": "9563.33",
+   "frais_gestion": "2",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "STOXX Europe 600 NR EUR",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "durable_pct": "65",
+   "politique_fr": "Obtenir les meilleures performances ajustées du risque à long terme.\n\nInvestissements principalement en actions et en instruments apparentés aux actions au niveau européen.\n\nUtilisation d’une vision macroéconomique pour orienter le positionnement du portefeuille.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 521,
+  "isin": "LU1920214563",
+  "nom": "ELEVA LEADERS SMALL & MID CAP EUROPE A2 EUR",
+  "maison": "Eleva Capital SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__KID_FR_2026-03-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1920214563/LU1920214563__KID_FR_2026-03-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1920214563__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-01-28",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe petites et moyennes capitalisations",
+   "compartiment": "Eleva UCITS Fund",
+   "gerants": "Diane Bruno, Ingrid Pfyffer-Edelfelt, Quentin Hoareau",
+   "encours": "481.23",
+   "frais_gestion": "1.9",
+   "frais_courants": "2.3",
+   "sri": "4",
+   "indice": "Stoxx Europe Small 200 Net Return",
+   "categorie": "Equity Europe Sm&Mid Cap",
+   "sfdr": "8",
+   "durable_pct": "66",
+   "politique_fr": "Obtenir les meilleures performances ajustées du risque à long terme.\n\nInvestir principalement dans des sociétés européennes de petites et moyennes capitalisations générant une croissance rentable à long terme.\n\nGestion de conviction utilisant une approche bottom-up pour la sélection des titres avec un poids actif élevé.\n\nApproche dynamique et pragmatique, avec un biais croissance.\n\nUtilisation d’u",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 525,
+  "isin": "LU0431139764",
+  "nom": "ETHNA AKTIV T EUR",
+  "maison": "ETHENEA Independent Investors S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0431139764__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "duration": {
+    "verdict": "DIFFERENT",
+    "document": "9.43",
+    "note": "p.2 « Modified duration 9.43 (9.43) »"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "document": "BBB+ to A-",
+    "note": "p.2 « Average rating BBB+ to A- »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet en anglais (pas de KID) : la stratégie décrite p.1 est différente ; seules les exclusions (tabac, pornographie, charbon, Pacte mondial, Freedom House), l'article 8 et les limites 49 %/20 % se retrouvent p.1 et p.3 ; « plus-value raisonnable », « certificats et dépôts à terme », « autres fonds limité à 10 % », « OCDE » absents"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2009-07-17",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible",
+   "gerants": "Jörg Held, Luca Pesarini",
+   "encours": "2040",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "9.93",
+   "qualite": "A à A+",
+   "politique_fr": "Ethna-AKTIV vise à réaliser une plus-value raisonnable dans la monnaie du fonds ou de la classe d'actions, en tenant compte des critères de durabilité, de stabilité de la valeur, de sécurité du capital et de liquidité des actifs. Le fonds est géré activement et n'est pas géré en utilisant un indice comme référence. Il investit dans des titres de toutes sortes : actions, obligations, instruments du",
+   "politique_en": "The Ethna-AKTIV is a multi-asset fund that is actively managed on a flexible basis, independent of benchmarks. The Portfolio Management team’s focus is on asset allocation. Investments are concentrated in bonds and equities, as well as currencies and commodities.\n\nThrough a top-down analysis of financial markets and macroeconomic developments, the expert Portfolio Management team decides in which ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 528,
+  "isin": "XFCS00OL1456",
+  "nom": "FAF GLOBAL BALANCED PORTFOLIO EUR C",
+  "maison": "Fiducenter S.A. ",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-23."
+  }
+ },
+ {
+  "n": 530,
+  "isin": "LU2612531785",
+  "nom": "FFG - BLI AMERICAN IMPACT EQUITIES R USD",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531785/LU2612531785__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531785/LU2612531785__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531785/LU2612531785__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612531785/LU2612531785__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2612531785__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "75",
+    "note": "p.1 « Répartition des actifs durables : Environnement 37,6% / Social 37,4% » (= 75,0 %) ; minimum 80 %"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé différent p.1"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-06-15",
+   "devise": "USD",
+   "type_fonds": "US Flex Cap Stocks",
+   "compartiment": "BLI AMERICAN IMPACT EQUITIES",
+   "gerants": "Luc Bauler",
+   "encours": "0.41",
+   "frais_gestion": "1.5",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "86",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment FFG – American Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur les marchés réglementés américains.\n\nLe compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OP",
+   "politique_en": "Investment policy: The Sub-Fund is invested at least 80% of its net assets in shares of companies listed on regulated US markets. In order to achieve its objective and for the purpose of investing its cash, and subject to the provisions of chapters 4 and 5 of the Prospectus, the Sub-Fund may invest up to a maximum of 10% of its net assets in UCITS and other UCI.\n\nThe Sub-Fund may also, for the pur",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 531,
+  "isin": "LU2612530977",
+  "nom": "FFG - BLI EUROPEAN IMPACT EQUITIES R EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612530977/LU2612530977__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612530977/LU2612530977__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612530977/LU2612530977__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612530977/LU2612530977__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2612530977__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "14.86",
+    "note": "p.1 « Actifs nets du fonds 14 863 708,73 € », « Actifs nets de la part 615 836,85 € » ; aucune valeur 611,5"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "89.3",
+    "note": "p.1 « Environnement 42,1% / Social 47,2% » (= 89,3 %)"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé différent p.1"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-06-15",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Europe Mid-Cap Equity",
+   "compartiment": "FFG BLI EUROPEAN IMPACT EQUITIES R EUR",
+   "gerants": "Tom Michels",
+   "encours": "611.5",
+   "frais_gestion": "1.5",
+   "frais_courants": "2.3",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "93",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment FFG – European Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable. Le Compartiment est investi à concurrence de minimum 75% dans des actions de sociétés cotées sur un marché réglementé européen.\n\nLe compartiment pourra investir jusqu’à maximum 10% de ses actifs nets en OPCVM et autres OPC, en",
+   "politique_en": "Investment policy: The Sub-Fund invests at least 80% in companies listed on a regulated European market. In order to achieve its objective and for the purpose of investing its liquid assets, and subject to the provisions of chapters 4. and 5. of the Prospectus, the Sub-Fund may invest up to a maximum of 10% of its net assets in UCITS and other UCI.\n\nThe Sub-Fund may also, for the purpose of invest",
+   "source_politique": "invest-law.eu",
+   "remarques": "Code ESG du site : AAA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 532,
+  "isin": "LU2612532759",
+  "nom": "FFG - BLI GLOBAL IMPACT EQUITIES CLASS R EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532759/LU2612532759__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532759/LU2612532759__KID_FR_2026-07-11.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532759/LU2612532759__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2612532759/LU2612532759__KID_FR_2026-07-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2612532759__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "DIFFERENT",
+    "document": "2024-03-12",
+    "note": "p.1 « Lancement de la part 12/03/2024 » (stratégie 01/01/2022)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments »"
+   },
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "71.0",
+    "note": "p.1 « Actifs nets de la part 70 998 670,25 € », « Actifs nets du fonds 118 764 707,00 € »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "DIFFERENT",
+    "document": "86.4",
+    "note": "p.1 « Environnement 38,35% / Social 48,07% » (= 86,42 %)"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé différent p.1"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-03-25",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Global Large-Cap Growth Equity",
+   "compartiment": "FFG BLI GLOBAL IMPACT EQUITIES R EUR",
+   "gerants": "Annick Drui",
+   "encours": "70.4",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.79",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "93",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le Compartiment FFG – BLI Global Impact Equities recherchera une plus-value sur le capital sur le long terme au travers de la poursuite d’un objectif d’investissement durable.\n\nLe Compartiment est investi à concurrence de minimum 75% de ses actifs nets en actions sans restriction géographique (y inclus les pays émergents), sectorielle et monétaire. Le Compartiment est géré activement sans référenc",
+   "politique_en": "Investment Policy: The Sub-Fund is invested up to a minimum of 80% of its net assets in equities without geographical (including emerging countries), sector or currency restrictions.\n\nThe Sub-Fund may invest directly in Chinese A Shares listed on the markets of the People’s Republic of China through China Connect. In order to achieve its objective and for the purpose of investing its cash, and sub",
+   "source_politique": "invest-law.eu",
+   "remarques": "Code ESG du site : AAA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 533,
+  "isin": "LU0945616984",
+  "nom": "FFG GLOBAL DEFENSIVE R EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945616984/LU0945616984__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945616984/LU0945616984__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945616984/LU0945616984__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU0945616984/LU0945616984__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0945616984__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "27.18",
+    "note": "p.1 « Actifs nets du fonds 27 176 717,68 € » ; part R : 15 555 034,09 €"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (approche, classification ESG) absent ; la factsheet en français a un texte différent p.1"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-08-01",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund EUR Cautious Allocation - Global",
+   "compartiment": "FFG - Global Defensive",
+   "gerants": "Orcadia Asset Management",
+   "encours": "27.31",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.9",
+   "sri": "2",
+   "indice": "n/a",
+   "classification": "Défensif",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif du Compartiment est l’appréciation du capital à long terme au travers d’un portefeuille diversifié, tout en maintenant limité le risque de perte de capital et un niveau de volatilité inférieur à celui des marchés d’actions. La stratégie d’investissement du Compartiment peut être qualifiée de « défensive ».\n\nAfin d’atteindre son objectif, le Compartiment investira principalement directem",
+   "politique_en": "- Investment approach:  The assets of the sub-fund mainly provide exposure to debt securities of any type (including money market instruments), equities and equity-related securities. In addition to its financial objective, the sub-fund generates a concrete social impact through the Distribution Coordinator (Funds For Good) of the SICAV.  In order to achieve its objective, the sub-fund will mainly",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 534,
+  "isin": "LU2736456596",
+  "nom": "FFG GLOBAL EQUITIES LOW CARBON R EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456596/LU2736456596__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456596/LU2736456596__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456596/LU2736456596__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2736456596/LU2736456596__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2736456596__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : Orcadia Asset Management »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun pourcentage d'investissements durables ; p.1 seulement « objectif d'investissement durable … article 9 du SFDR »"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un texte différent p.1"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-05-24",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Global Large-Cap Blend Equity",
+   "compartiment": "FFG - Global Equities Low Carbon",
+   "gerants": "Gunter Van Rossem",
+   "encours": "69.21",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.74",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "classification": "Agressif",
+   "categorie": "Majoritairement actions",
+   "durable_pct": "94",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "Le compartiment recherchera une appréciation du capital à long terme en investissant principalement dans des actions cotées et échangées sur des marchés réglementés de pays développés, sans restriction sectorielle ou de capitalisation boursière.\n\nA côté de son objectif financier, le compartiment génère un impact social concret, par l’intermédiaire du Coordinateur de Distribution (Funds For Good) d",
+   "politique_en": "Investment policy: The Sub-Fund will seek long-term capital appreciation by investing primarily in equities listed and traded on regulated markets in developed countries (as defined by the benchmark index set out below), without sector or market capitalisation restrictions. Equity investments will comply with the environmental, social and governance principles described below. In order to achieve ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Code ESG du site : AAA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 535,
+  "isin": "LU2059537873",
+  "nom": "FFG GLOBAL EQUITY CONVICTIONS R EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537873/LU2059537873__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537873/LU2059537873__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537873/LU2059537873__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537873/LU2059537873__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2059537873__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "54.39",
+    "note": "p.1 « Actifs nets du fonds 54 393 940,66 € » ; part R : 49 217 931,90 €"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.2 seulement « minimum de 5% de ses actifs nets dans des actifs durables » ; aucune proportion actuelle"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "pas de version anglaise ; la factsheet donne p.1 un texte français de même contenu (indice MSCI World NR EUR, 20 %, 10 % non cotées, 20 à 50 actions, art. 8 min. 5 %)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2021-08-31",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund Global Large-Cap Blend Equity",
+   "compartiment": "FFG - Global Equity Convictions",
+   "gerants": "Aaron S. Anderson, Kenneth L. Fisher, William J. Glaser",
+   "encours": "52.18",
+   "frais_gestion": "1.7",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "classification": "Agressif",
+   "categorie": "Equity Global Alternative Energy",
+   "durable_pct": "76",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif d’investissement de ce compartiment géré activement est de surperformer l’indice MSCI World Net Return en Euro (« l’Indice de référence »).\n\nAfin d’atteindre son objectif d’investissement, le Compartiment investit principalement dans des actions et des titres liés à des actions d’émetteurs établis dans les pays représentés dans l’indice de référence, ou liés à ceux-ci. Le compartiment a",
+   "politique_en": "- Investment approach: the investment objective of this actively managed sub-fund is to outperform the MSCI World Net Return in Euro Index (“the Benchmark Index”). There is no guarantee that the investment objective will be achieved. In addition to its financial objective, the sub-fund generates a concrete social impact. In order to achieve its investment objective, the sub-fund invests: • Primari",
+   "source_politique": "invest-law.eu",
+   "remarques": "Code ESG du site : AA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 536,
+  "isin": "LU1697917083",
+  "nom": "FFG GLOBAL FLEXIBLE CONVICTIONS R EUR",
+  "maison": "Waystone Management Company (LUX) S.A",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917083/LU1697917083__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917083/LU1697917083__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917083/LU1697917083__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917083/LU1697917083__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1697917083__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun gérant nommé ; p.1 seulement « Gestionnaire : BLI - Banque de Luxembourg Investments s.a. »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "durable_pct": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 seulement « minimum de 5% de ses actifs nets dans des actifs durables » ; aucune proportion actuelle"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte du prospectus en anglais ; la factsheet (en français) contient un résumé plus court p.1"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2018-02-28",
+   "devise": "EUR",
+   "type_fonds": "EAA Fund EUR Flexible Allocation - Global",
+   "compartiment": "FFG - Global Flexible Convictions",
+   "gerants": "Guy Wagner",
+   "encours": "166.87",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.62",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "durable_pct": "79",
+   "disclaimer": "Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.",
+   "politique_fr": "L’objectif du compartiment est la recherche d’un rendement sur le moyen terme supérieur à celui d’un placement obligataire en Euro. A cette fin, le Compartiment est investi en actions, obligations, ETCs, instruments du marché monétaire ou en liquidités. Il peut également investir dans des Organismes de Placement Collectifs (OPC) pour un maximum de 10%.\n\nLe poids de ces différentes classes d’actifs",
+   "politique_en": "- Investment approach: The objective of the sub-fund is to seek a medium-term return higher than that of a Euro bond investment. In addition to its financial objective, the sub-fund generates a concrete social impact. The percentage of the sub-fund’s portfolio invested in the different asset classes is variable depending on their potential contribution to the sub-fund’s objective. The sub-fund is ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Code ESG du site : AA. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 543,
+  "isin": "XFCS00OL1561",
+  "nom": "FIC DNCA INFLATION TREND",
+  "maison": "DNCA FINANCE",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche mise à jour sur le site le 2026-06-12."
+  }
+ },
+ {
+  "n": 564,
+  "isin": "LU0275693405",
+  "nom": "FIDELITY AMERICAN GROWTH A USD",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0275693405/LU0275693405__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0275693405__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "761",
+    "note": "p.1 « Fund size: $ 761m » (au 30.09.26 ; fonds renommé « US Equity Fund »)"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : dépositaire, ESG, dérivés) ; la factsheet est en anglais et ne contient que « Strategy / Objective / Investment Policy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-12-04",
+   "devise": "USD",
+   "type_fonds": "Actions américaines",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Sam Chen-Thomas",
+   "encours": "753",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "4",
+   "indice": "S&P 500 Index (Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity US",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Fidelity Funds US Equity Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois agréée en tant qu'OPCVM. Sa société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et son dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La part A-ACC-USD est libellée en dollar américain, devise de référence du compartiment.Le compartiment cherche à atteindre une croissance ",
+   "politique_en": "The Portfolio Manager follows a disciplined, fundamentally-driven bottom-up security selection approach to generate long-term capital growth. The PM seeks companies with durable competitive advantages, operating in growing end markets with compelling barriers to entry. The philosophy focuses on owning quality stocks with high incremental returns on investment that can compound earnings growth fast",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 565,
+  "isin": "LU0594300096",
+  "nom": "FIDELITY CHINA CONSUMER A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0594300096/LU0594300096__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0594300096/LU0594300096__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0594300096/LU0594300096__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0594300096/LU0594300096__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0594300096/LU0594300096__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0594300096__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2011-02-23",
+   "devise": "EUR",
+   "type_fonds": "Actions Chine (thème consommation)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Tina Tian",
+   "encours": "1819",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "5",
+   "indice": "MSCI China Index (Net)",
+   "classification": "Agressif",
+   "categorie": "Equity China",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Fidelity Funds China Consumer Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois agréée en tant qu'OPCVM. Sa société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et son dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La part A-ACC-EURO est libellée en euro, alors que la devise de référence du compartiment est le dollar américain.Le compartiment cher",
+   "politique_en": "The manager aims to run a benchmark-aware, but concentrated portfolio with growth and quality-oriented style, focusing on stocks that can deliver higher return versus the market. Her investment approach is to break down the market into value chains and identify areas of pricing power and profit potential with strong fundamentals.\n\nThe portfolio is likely to offer a stable cash flow and quality ear",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 566,
+  "isin": "LU0261950470",
+  "nom": "FIDELITY EMERGING MARKETS A USD",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950470/LU0261950470__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950470/LU0261950470__KID_FR_2026-08-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950470/LU0261950470__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950470/LU0261950470__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950470/LU0261950470__KID_FR_2026-08-21.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0261950470__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-09-25",
+   "devise": "USD",
+   "type_fonds": "Actions marchés émergents",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Nick Price, Chris Tennant",
+   "encours": "3913",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "5",
+   "indice": "MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Agressif",
+   "categorie": "Equity Global Emerging Markets",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Fidelity Funds Emerging Markets Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois agréée en tant qu'OPCVM. Sa société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et son dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La part A-ACC-USD est libellée en dollar américain, devise de référence du compartiment.Le compartiment cherche à atteindre une croi",
+   "politique_en": "Strategy: The portfolio managers look to invest in high quality, attractively priced companies that are capable of delivering sustainable returns. They favour companies with strong market positions and competitive advantages, as these are typically able to deliver attractive earnings throughout the economic cycle.\n\nThey also favour companies that deliver superior returns on their assets and have w",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 567,
+  "isin": "LU0296857971",
+  "nom": "FIDELITY EUROPEAN GROWTH A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0296857971/LU0296857971__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0296857971/LU0296857971__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0296857971/LU0296857971__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0296857971/LU0296857971__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0296857971/LU0296857971__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0296857971__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-05-02",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Fred Sykes",
+   "encours": "7343",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "4",
+   "indice": "MSCI Europe Net Total Return Index",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Fidelity Funds European Growth Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois agréée en tant qu'OPCVM. Sa société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et son dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La part A-ACC-EURO est libellée en euro, devise de référence du compartiment.Le compartiment cherche à atteindre une croissance du ca",
+   "politique_en": "Strategy: The fund aims to achieve long-term capital growth from an actively managed portfolio consisting of pan-European equities. The Portfolio Manager’s investment philosophy is anchored on the belief that companies with quality characteristics such as stable earnings growth, attractive/ improving returns on capital, and high free cash flow are rewarded by the stock market over time.\n\nOver the ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 568,
+  "isin": "LU0261950553",
+  "nom": "FIDELITY EUROPEAN MULTI ASSET INC FUND A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950553/LU0261950553__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950553/LU0261950553__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950553/LU0261950553__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950553/LU0261950553__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261950553/LU0261950553__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0261950553__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-09-25",
+   "devise": "EUR",
+   "type_fonds": "Mixte Europe orienté revenu",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Becky Qin, Franca Pileri, Mario Baronci",
+   "encours": "368",
+   "frais_gestion": "1",
+   "frais_courants": "1.5",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Europe Balanced",
+   "sfdr": "8",
+   "duration": "1.5",
+   "qualite": "BB+",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Stratégie: Le Compartiment cherche à générer un revenu intéressant ainsi qu’une certaine croissance du capital (au cours d’un cycle de marché) en étant investi à au moins 70 % dans des actifs cotés, ayant leur siège social ou exerçant la majeure partie de leur activité en Europe, et dans des titres des gouvernements européens. Le Compartiment adopte une approche concertée, les gestionnaires de por",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 569,
+  "isin": "LU0261951528",
+  "nom": "FIDELITY EUROPEAN SMALLER COMPANIES A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951528/LU0261951528__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951528/LU0261951528__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951528/LU0261951528__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951528/LU0261951528__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951528/LU0261951528__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0261951528__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-09-25",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe petites et moyennes capitalisations",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Jim Maun, Joseph Edwards",
+   "encours": "893",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.9",
+   "sri": "4",
+   "indice": "MSCI Europe Small Cap Index (Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Europe Sm&Mid Cap",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Fidelity Funds European Smaller Companies Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois agréée en tant qu'OPCVM. Sa société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et son dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La part A-ACC-EURO est libellée en euro, devise de référence du compartiment.Le compartiment cherche à atteindre une crois",
+   "politique_en": "The portfolio managers adopt a fundamental bottom-up research approach with an aim to provide long-term capital growth from an actively managed portfolio consisting of smaller and medium-sized European companies. They use Fidelity’s extensive global research expertise to uncover opportunities that they believe are being mispriced or unrecognized by the market. The portfolio has historically exhibi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 570,
+  "isin": "LU0688698975",
+  "nom": "FIDELITY FAST EMERGING MARKETS A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0688698975/LU0688698975__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0688698975/LU0688698975__KID_FR_2026-10-02.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0688698975/LU0688698975__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0688698975/LU0688698975__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0688698975/LU0688698975__KID_FR_2026-10-02.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0688698975__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2011-10-31",
+   "devise": "EUR",
+   "type_fonds": "Actions marchés émergents long/short (part couverte en EUR)",
+   "compartiment": "Fidelity Active STrategy (FAST), SICAV de droit luxembourgeois, OPCVM",
+   "gerants": "Nick Price, Chris Tennant",
+   "encours": "726",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.95",
+   "sri": "4",
+   "indice": "MSCI Emerging Markets Index (Net) Hedged to EUR",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "FAST Emerging Markets Fund est un compartiment de Fidelity Active STrategy (FAST), SICAV de droit luxembourgeois agréée en tant qu'OPCVM. Sa société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et son dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La part A-PF-ACC-EURO (hedged) est libellée en euro et couverte contre le risque de change, la devise de référence du compart",
+   "politique_en": "The managers seek to differentiate between structural winners and losers. The long positions of the fund are focused on dominant franchises with under-levered balance sheets, positioned to take advantage of structural growth opportunities. The team also makes use of additional investment techniques such as shorting to capitalise on the weakest companies most exposed to competitive threats and fina",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 571,
+  "isin": "LU1048657123",
+  "nom": "FIDELITY FAST GLOBAL FUND A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1048657123/LU1048657123__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1048657123/LU1048657123__KID_FR_2026-10-02.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1048657123/LU1048657123__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1048657123/LU1048657123__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1048657123/LU1048657123__KID_FR_2026-10-02.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1048657123__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-04-02",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales long/short (approche a contrario/valeur)",
+   "compartiment": "Fidelity Active STrategy (FAST), SICAV de droit luxembourgeois, OPCVM",
+   "gerants": "Dmitry Solomakhin",
+   "encours": "1002",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.92",
+   "sri": "4",
+   "indice": "MSCI ACWI",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "FAST Global Fund est un compartiment de Fidelity Active STrategy (FAST), SICAV de droit luxembourgeois ayant le statut d'OPCVM. La société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et le dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La devise de référence du compartiment est le dollar américain ; la part A-PF-ACC-EUR est libellée en euro.Le compartiment cherche à att",
+   "politique_en": "Strategy: The Portfolio Manager has a disciplined, bottom-up contrarian value approach, looking for out of favour stocks which are significantly mispriced due to structural and/or cyclical concerns. The Portfolio Manager seeks to exploit the broadest opportunity set by taking both long and short positions.The fund is run in an unconstrained, high conviction manner. New positions in the long book w",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 572,
+  "isin": "LU0251130554",
+  "nom": "FIDELITY FUNDS - MULTI ASSET DYNAMIC INFL A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251130554/LU0251130554__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251130554/LU0251130554__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251130554/LU0251130554__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251130554/LU0251130554__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0251130554/LU0251130554__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0251130554__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2006-07-03",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs flexible orienté inflation",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Ian Samson, Sarah Jane Cawthray",
+   "encours": "130",
+   "frais_gestion": "1",
+   "frais_courants": "1.5",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Le Compartiment est une stratégie multi-actifs orientée sur l’inflation. Il vise à générer une croissance du capital à long terme, quel que soit le cycle de marché, à l’aide d’une approche guidée par l’inflation. Le Compartiment cherche à générer une croissance et exploite différentes catégories d’actifs et stratégies d’investissement.\n\nIl investit dans des actions, des titres à revenu fixe et des",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 573,
+  "isin": "LU2834349156",
+  "nom": "FIDELITY FUNDS ABS RETURN GLOBAL EQUITY A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2834349156/LU2834349156__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2834349156/LU2834349156__KID_FR_2026-08-21.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2834349156/LU2834349156__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2834349156/LU2834349156__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU2834349156/LU2834349156__KID_FR_2026-08-21.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2834349156__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-06-12",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales long/short neutre au marché (rendement absolu)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Matt Jones, Daniel Swift, Hiten Savani",
+   "encours": "1367",
+   "frais_gestion": "1.8",
+   "frais_courants": "2.21",
+   "sri": "3",
+   "indice": "€ STR",
+   "classification": "Equilibré",
+   "categorie": "Alternatif",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Stratégie: Ce portefeuille offre aux investisseurs une source diversifiée en rendements absolus. Il permet d’accéder à l’ensemble des ressources en recherche fondamentale de Fidelity en adoptant une exposition longue aux sociétés les plus convaincantes notées « à acheter » et une exposition courte aux sociétés les plus convaincantes notées « à vendre » dans un portefeuille d’environ 150 à 200 acti",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 574,
+  "isin": "LU1116430247",
+  "nom": "FIDELITY FUNDS GLOBAL MULTI ASSET INCOME A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1116430247/LU1116430247__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1116430247/LU1116430247__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1116430247/LU1116430247__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1116430247/LU1116430247__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1116430247/LU1116430247__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1116430247__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2014-10-08",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs international orienté revenu",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Becky Qin, Franca Pileri, Mario Baronci",
+   "encours": "3083",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.69",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "2",
+   "qualite": "BB+",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Stratégie: Le Compartiment cherche à générer un revenu intéressant ainsi qu’une certaine croissance du capital (au cours d’un cycle de marché) en combinant divers actifs et en gérant le risque pour atténuer les pertes. Le Compartiment adopte une approche concertée, les gestionnaires de portefeuille tirant parti de l’expertise de la vaste équipe Multi Asset et des capacités de recherche de Fidelity",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 575,
+  "isin": "LU1213836080",
+  "nom": "FIDELITY FUNDS GLOBAL TECHNOLOGY FUND A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1213836080/LU1213836080__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1213836080/LU1213836080__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1213836080/LU1213836080__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1213836080/LU1213836080__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU1213836080/LU1213836080__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1213836080__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse mêlant KID : dépositaire, dérivés, ESG, détention) ; la factsheet est en anglais et ne contient qu'« Objective / Investment Policy / Strategy » plus court"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2015-04-16",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales sectorielles (technologie)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Hyunho Sohn",
+   "encours": "33754",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.89",
+   "sri": "4",
+   "indice": "MSCI AC World Information Technology Index",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Ce compartiment vise des secteurs particuliers et peut être plus volatil. Vous êtes susceptible de ne pas récupérer l'intégralité des montants investis.",
+   "politique_fr": "Global Technology Fund est un compartiment de Fidelity Funds, SICAV de droit luxembourgeois ayant le statut d'OPCVM. La société de gestion est FIL Investment Management (Luxembourg) S.à r.l. et le dépositaire Brown Brothers Harriman (Luxembourg) S.C.A. La devise de référence du compartiment est l'euro, comme celle de la part A-ACC-EUR.Le compartiment cherche à atteindre une croissance du capital s",
+   "politique_en": "Strategy: The portfolio manager employs a fundamental, bottom-up approach, focusing on identifying quality companies with sustainable growth prospects trading at attractive valuations. He believes that understanding technology trends, innovations and new technologies are key to identifying long-terms leaders in the industry. Investment opportunities he favours tend to fall into three categories – ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 576,
+  "isin": "LU0987487336",
+  "nom": "FIDELITY GLOBAL MULTI ASSET INCOME A EUR",
+  "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0987487336/LU0987487336__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0987487336/LU0987487336__KID_FR_2026-04-30.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0987487336/LU0987487336__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0987487336/LU0987487336__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0987487336/LU0987487336__KID_FR_2026-04-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0987487336__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-11-11",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs international orienté revenu (part couverte en EUR)",
+   "compartiment": "Fidelity Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "gerants": "Becky Qin, Franca Pileri, Mario Baronci",
+   "encours": "3083",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.69",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "2",
+   "qualite": "BB+",
+   "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. La valeur de votre investissement peut évoluer à la baisse comme à la hausse et vous êtes susceptible de ne pas récupérer l'intégralité des montants investis au départ.",
+   "politique_fr": "Stratégie: Le Compartiment cherche à générer un revenu intéressant ainsi qu’une certaine croissance du capital (au cours d’un cycle de marché) en combinant divers actifs et en gérant le risque pour atténuer les pertes. Le Compartiment adopte une approche concertée, les gestionnaires de portefeuille tirant parti de l’expertise de la vaste équipe Multi Asset et des capacités de recherche de Fidelity",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]

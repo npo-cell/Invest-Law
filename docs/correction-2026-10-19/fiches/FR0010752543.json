@@ -1,0 +1,94 @@
+{
+ "n": "678",
+ "isin": "FR0010752543",
+ "nom": "LAZARD CREDIT FI RVC EUR",
+ "maison": "Lazard Frères Gestion",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-06",
+ "date_creation": "2009-07-03",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (dettes subordonnées financières, ISR)",
+ "compartiment": "",
+ "gerants": "François Lavier, Alexis Lautrette, Charles Marcoux",
+ "encours_millions": "3251.67",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.96",
+ "frais_courants": "1.03",
+ "sri": "2",
+ "indice": "40% ICE BofA Euro Subordinated Financial Index ; 40% ICE BofA Euro Financial High Yield Index ; 20% ICE BofA Contingent Capital Index",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "4.0 (sensibilité)",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+ "politique_fr": "L’objectif de gestion vise à obtenir, en appliquant une gestion de type Investissement Socialement Responsable (ISR) sur la durée de placement recommandée de 3 ans, une performance nette de frais supérieure à celle du benchmark composite suivant dont les composantes sont hedgées dans la devise de référence de la part, dividendes nets réinvestis et rebalancées mensuellement : 40% ICE BofA Euro Subordinated Financial Index ; 40% ICE BofA Euro Financial High Yield Index ; 20% ICE BofA Contingent Capital Index. La stratégie repose sur une gestion active du portefeuille investi essentiellement sur des dettes subordonnées (ce type de dette est plus risqué que la dette senior ou sécurisée), ou tout titre, non considéré comme des actions ordinaires, émis par des institutions financières. Le processus de gestion combine une approche Top-down (approche d’allocation stratégique et géographique tenant compte de l’environnement macroéconomique et sectoriel) et Bottom-up (approche de sélection des supports d’investissement sur une base fondamentale après analyse de la qualité de crédit des émetteurs et des caractéristiques des titres).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : duration 3.9 → 4.0 (« Sensibilité taux 4.0 », sensibilité crédit 4.1) ; qualité : notation moyenne des émetteurs « BBB+ » (« Rating Emetteurs BBB+ » ; « Rating Emissions BBB- ») au lieu de « émetteurs A- » ; indice recopié tel qu'écrit dans la factsheet (sans « Hedged EUR » pour la 3e composante ; la factsheet précise que les composantes sont hedgées dans la devise de la part) ; investissements durables 57 vidé (aucun pourcentage dans la factsheet ni le KID) ; disclaimer réduit à la phrase de la factsheet ; catégorie vidée. Encours = « Actif net du fonds 3251.67 M€ ». Date de création = « Date de 1ère VL de la part 03/07/2009 ». Frais : « Frais de gestion (max) 0.96% » ; frais courants KID « Frais de gestion et autres coûts administratifs et d’exploitation 1,03% » ; commission de surperformance 30 % de la performance supérieure à l'indice. Indice retenu : objectif de performance supérieure au benchmark composite. Compartiment vide : FCP. SFDR article 8. Allocations : positions et devises (poids net) au 30/09/2026 ; répartitions par subordination, pays, secteur, maturité et notation non reprises (graphiques sans valeurs dans le texte du PDF).",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "gerants": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BCO CDT.SOC.TV(REGS)25-13OC37A",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ATHORA HOLD. 57/8% 24-10SE34A",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MBH BANK TV (EMTN) 25-29JA30A",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CAIXABANK SA TV CV. 25-24JA--T",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "OTP BANK TV(EMTN)26-24DE36A",
+   "pct": "1.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "100.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "-0.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Others",
+   "pct": "0.1"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0010752543/FR0010752543__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0010752543/FR0010752543__KID_FR_2026-10-06.pdf"
+}

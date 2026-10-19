@@ -1,0 +1,191 @@
+{
+ "n": "581",
+ "isin": "LU0261951288",
+ "nom": "FIDELITY SWITZERLAND A CHF",
+ "maison": "Fidelity (FIL Inv Mgmt (Lux) S.A.)",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-30",
+ "date_creation": "2006-09-25",
+ "devise": "CHF",
+ "type_fonds": "Actions suisses",
+ "compartiment": "Compartiment de la SICAV Fidelity Funds",
+ "gerants": "Andrea Fornoni, Alberto Chiandetti",
+ "encours_millions": "259",
+ "encours_devise": "CHF",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.5",
+ "frais_courants": "1.9",
+ "sri": "4",
+ "indice": "MSCI Switzerland Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas une indication de rendements futurs. Les rendements du Compartiment peuvent varier à la hausse ou à la baisse selon les fluctuations des taux de change.",
+ "politique_fr": "Stratégie: Les gestionnaires de portefeuille adoptent une approche d’investissement qui s’appuie sur les fondamentaux et ne suit aucun style spécifique. Ils s’orientent sur une recherche « bottom-up » afin de découvrir les changements qui échappent aux autres investisseurs et les situations que nous percevons différemment du marché dans son ensemble. Ils cherchent à identifier des entreprises dont la croissance est durable, dont le potentiel de gains s’améliore grâce à un changement en profondeur et dont les pratiques en matière de durabilité sont exemplaires. Ils sont convaincus que les prix de leurs actions finiront par refléter à la fois les bénéfices et les performances ESG. La stratégie s’appuie sur trois piliers complémentaires : les capitalisateurs de qualité à long terme, les principales sociétés défensives et les opérations de valeur relative tactiques qui couvrent les risques associés à la référence et captent les opportunités mal évaluées par le marché.\n\nObjectif: Le Compartiment cherche à atteindre une croissance du capital au fil du temps.\n\nPolitique d'investissement: Le Compartiment investit au moins 70 % (et normalement 75 %) de ses actifs dans des actions de sociétés qui sont cotées, qui ont leur siège social ou qui exercent la majeure partie de leur activité en Suisse. Le Compartiment peut également investir dans des instruments du marché monétaire à titre accessoire.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : frais courants 1.92 → 1.9 (KID) ; indice « MSCI Switzerland Index (Net) » → « MSCI Switzerland Index » (libellé du KID) ; classification Dynamique → Agressif (actions d'un seul pays) ; politique remplacée par le texte de la factsheet (Stratégie, Objectif, Politique d'investissement), l'ancien texte était rédigé. Part « A-ACC-CHF », ISIN conforme. Encours = « Encours du fonds : 259m CHF ». Date de création = lancement de la catégorie d'actions (25.09.06) ; fonds lancé le 13.02.95. Frais : factsheet « Frais de gestion annuels : 1,50% » et « Frais courants annuels : 1,92% (30.04.26) » ; KID « 1.9% ». Indice : KID « Utilisée pour : la comparaison de la performance » (même traitement que les autres fiches Fidelity) ; la factsheet le nomme « Indicateur de comparaison » « MSCI Switzerland Index (Net) ». SRI 4 (KID). SFDR article 8 (KID et factsheet). Allocations : colonne « Fonds » seulement, sans les lignes de total ni l'indice.",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "indice": "KID",
+  "sfdr": "KID",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "100.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités non investies",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">10 milliard(s)",
+   "pct": "67.2"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5-10 milliard(s)",
+   "pct": "9.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1-5 milliard(s)",
+   "pct": "22.4"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "0-1 milliard(s)",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "100.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "37.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "18.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industries",
+   "pct": "12.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie de l’information",
+   "pct": "10.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation non-cyclique",
+   "pct": "7.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "6.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation cyclique",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "1.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "0.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services collectifs",
+   "pct": "0.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROCHE HOLDING AG",
+   "pct": "8.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVARTIS AG",
+   "pct": "8.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NESTLE SA",
+   "pct": "6.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UBS GROUP AG",
+   "pct": "6.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SANDOZ GROUP AG",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LONZA GRP AG",
+   "pct": "4.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TECAN GROUP AG",
+   "pct": "4.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABB LTD",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COMPAGNIE FIN RICHEM AG SWITZ",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SWISS RE AG",
+   "pct": "3.5"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FIDELITY_FIL_INV_MGMT_LUX_S_A/LU0261951288/LU0261951288__KID_FR_2026-04-30.pdf"
+}

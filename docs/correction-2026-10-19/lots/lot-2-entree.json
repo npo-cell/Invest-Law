@@ -1,0 +1,3184 @@
+[
+ {
+  "n": 348,
+  "isin": "LU0231459107",
+  "nom": "ABERDEEN ASIAN SMALLER COMPANIES FUND A USD",
+  "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231459107/LU0231459107__Factsheet_FR_2026-06-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231459107/LU0231459107__KID_FR_2026-08-07.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231459107/LU0231459107__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231459107/LU0231459107__Factsheet_FR_2026-06-30.pdf",
+   "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU0231459107/LU0231459107__KID_FR_2026-08-07.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0231459107__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = factsheet EN 31/08/2026 ; le texte du classeur est une présentation rédigée en français (« est un fonds d'actions géré par Aberdeen Investments… », part A Acc, risque de change pour l'investisseur en euro) qui résume l'objectif EN sans en reprendre les phrases"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2004-05-14",
+   "devise": "USD",
+   "type_fonds": "Actions Asie",
+   "gerants": "Asia Pacific Equity Team",
+   "encours": "491.1",
+   "frais_gestion": "1.75",
+   "frais_courants": "1.93",
+   "sri": "4",
+   "indice": "MSCI AC Asia Pacific ex Japan Small Cap Index (USD)",
+   "classification": "Dynamique",
+   "categorie": "Equity Asia Pacific ex Japan Sm&Mid Cap",
+   "politique_fr": "abrdn SICAV I – Asian Smaller Companies Fund est un fonds d'actions géré par Aberdeen Investments, via sa société de gestion luxembourgeoise. Il investit dans de petites entreprises d'Asie-Pacifique, hors Japon, et vise à combiner croissance du capital et revenus. Son objectif est de faire mieux que son indice de référence, le MSCI AC Asia Pacific ex Japan Small Cap.\n\nLe fonds investit très majori",
+   "politique_en": "The Fund aims to achieve a combination of growth and income by investing in smaller capitalisation companies in Asia Pacific countries (excluding Japan), which adhere to the Fund's ESG criteria. The Fund aims to outperform the MSCI AC Asia Pacific ex Japan Small Cap Index (USD) benchmark before charges.\n\nThe Fund invests at least 70% in equities and equity related securities of companies listed, i",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 352,
+  "isin": "DE000A0X7541",
+  "nom": "ACATIS VALUE EVENT FONDS A EUR",
+  "maison": "ACATIS Investment Kapitalverwaltungsgesellschaft",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__KID_FR_2026-06-15.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ACATIS_INVESTMENT_KAPITALVERWALTUNGSGESELLSCHAFT/DE000A0X7541/DE000A0X7541__KID_FR_2026-06-15.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/DE000A0X7541__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "le seul PDF (DE000A0X7541__site.pdf) est le KID FR du 15/06/2026 (pas de factsheet) ; aucune date de lancement"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul : aucun encours"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d’exploitation 1,8% » (total), pas de frais de gestion isolés à 1,65"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul : aucune notation moyenne"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (54 critères de durabilité, seuil de 10 % à mi-2022) absent ; le KID FR décrit seulement l'approche « Value Investing » / « Event driven Value »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-12-15",
+   "devise": "EUR",
+   "type_fonds": "Mixtes Euro",
+   "gerants": "Acatis Investment",
+   "encours": "4412.6",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.8",
+   "sri": "3",
+   "indice": "50 % sur le MSCI World(r)1 GDR et à 50 % sur le taux du marché monétaire Euro Short-Term Rate (STR)2 (ISIN EU000A2X2A25)",
+   "classification": "Dynamique",
+   "categorie": "Fonds diversifié international, flexible",
+   "sfdr": "8",
+   "qualite": "BBB+",
+   "politique_en": "The fund combines the philosophy of value investing with an \"event-driven value\" approach. The aim is to reduce fundamental risks in the selection of the fund's positions by focusing on companies with strong business quality.\n\nACATIS has defined 54 sustainability criteria that investors have rated as \"very important\". Exclusion criteria were defined by the majority of those surveyed.\n\nCompanies th",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 353,
+  "isin": "FR0011829159",
+  "nom": "ADN DYNAMIC C EUR",
+  "maison": "SAPIENTA GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [
+   "INVESTLAW/SAPIENTA_GESTION/FR0011829159/FR0011829159__Factsheet_FR_2026-09-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0011829159__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "le seul PDF (FR0011829159__site.pdf) est le KID du 20/05/2026 : aucun nom de gérant (seulement SAPIENTA GESTION)"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul : aucun encours"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d’exploitation 2,75 % » (total), pas de 1,8"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucune mention SFDR / article 6 dans le KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-05-23",
+   "devise": "EUR",
+   "type_fonds": "Mixtes international",
+   "gerants": "Michel Dinet, Cyrille Pichot de Cayeux, Cyprien Serizier",
+   "encours": "76.18",
+   "frais_gestion": "1.8",
+   "frais_courants": "2.75",
+   "sri": "3",
+   "classification": "Dynamique",
+   "sfdr": "6",
+   "politique_fr": "ADN Dynamic est un fonds discrétionnaire dont l’objectif est de réaliser une performance nette de frais de 6,5% minimum par an, sur un horizon de 5 ans.\n\nPour parvenir à son objectif de gestion, le gérant expose le portefeuille au marché des actions et des obligations internationales, principalement par le biais d’OPC, et également de valeurs mobilières en direct.\n\nLe processus d’investissement es",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 355,
+  "isin": "FR00140144O8",
+  "nom": "ALIENOR HIGH DIVIDENDS EUROPE C EUR",
+  "maison": "ALIENOR CAPITAL",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALIENOR_CAPITAL/FR00140144O8/FR00140144O8__Factsheet_FR_2026-08-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR00140144O8__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "frais_courants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "rapport 31/08/2026 p.1 ne donne pas de frais courants : « Frais de gestion max : 2% TTC (Parts C & D) » et « Frais de fonctionnement : 0,15% TTC » ; 2,15 = somme calculée, non écrite"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2025-12-31",
+   "devise": "EUR",
+   "type_fonds": "Actions européennes à dividendes élevés",
+   "gerants": "Sébastien Hénin, Arnaud Raimon",
+   "encours": "3.4",
+   "frais_gestion": "2",
+   "frais_courants": "2.15",
+   "sri": "5",
+   "classification": "Dynamique",
+   "categorie": "Actions Europe Rendement",
+   "sfdr": "8",
+   "politique_fr": "Alienor High Dividends Europe cherche à profiter des actions européennes à haut dividende en assemblant un portefeuille d’actions de sociétés de pays de l’Union Européenne (et membres de la zone Euro) privilégiant les dividendes élevés en rendement et considérés par la société de gestion comme étant récurrents ou en progression. Les gérants sont attentifs à détenir des titres considérés comme mode",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 356,
+  "isin": "LU0572586591",
+  "nom": "ALKEN ABSOLUTE RETURN EUROPE A EUR",
+  "maison": "AFFM S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__Factsheet_FR_2026-07-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__KID_FR_2026-02-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__Factsheet_EN_2026-07-31.pdf",
+   "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__Factsheet_FR_2026-07-31.pdf",
+   "INVESTLAW/AFFM_S_A/LU0572586591/LU0572586591__KID_FR_2026-02-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0572586591__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2012-06-27",
+   "devise": "EUR",
+   "gerants": "Nicolas Walewski, Marc Festa",
+   "encours": "123",
+   "frais_gestion": "2.1",
+   "categorie": "Alternative Europe Absolute Return",
+   "politique_en": "Provide capital growth and a positive absolute return over the long-term through long and short market exposure in European markets.\n\nThe fund will have flexible net exposure to equity markets by taking long and short exposures on European equities through the use of transferable securities, derivatives and index futures.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 357,
+  "isin": "LU1997245177",
+  "nom": "ALLIANZ CHINA A-SHARES AT USD",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__KID_FR_2026-09-22.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__KID_FR_2026-09-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1997245177__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-10-23",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Shao Ping Guan",
+   "encours": "3161.79",
+   "frais_gestion": "2.25",
+   "frais_courants": "2.3",
+   "sri": "5",
+   "indice": "MSCI China A Onshore Total Return Net (USD)",
+   "classification": "Dynamique",
+   "categorie": "Equity China",
+   "sfdr": "8",
+   "politique_fr": "Le fonds se concentre sur les actions de sociétés domiciliées en Chine qui sont cotées en actions A sur les bourses de Shanghai ou de Shenzhen. Les aspects liés à la durabilité sont pris en compte par les gérants du fonds.\n\nLe fonds peut investir jusqu’à 20 % de ses actifs dans d’autres actions de sociétés qui sont domiciliées en Chine ou qui y génèrent une part prédominante de leurs bénéfices. L’",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 358,
+  "isin": "LU1594335520",
+  "nom": "ALLIANZ DYN MULTI ASSET STRAT 75 AT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__KID_FR_2026-08-10.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1594335520/LU1594335520__KID_FR_2026-08-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1594335520__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-05-02",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Allianz Dynamic Multi Asset Strategy SRI 75 AT EUR",
+   "gerants": "Marcus Stahlhacke",
+   "encours": "6233.18",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.83",
+   "sri": "4",
+   "indice": "n/a",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "duration": "3.69",
+   "qualite": "AA- (notation moyenne des obligations)",
+   "politique_fr": "Le fonds investit dans une vaste gamme de catégories d'actifs, en se concentrant en particulier sur les actions et les obligations mondiales. L'équipe de gestion du fonds poursuit une stratégie d'investissement durable et responsable (« stratégie ISR »), qui tient compte de critères environnementaux, sociaux et de gouvernance. L'objectif du fonds est d'atteindre à moyen terme un rendement semblabl",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 359,
+  "isin": "LU1093406186",
+  "nom": "ALLIANZ DYNAMIC MULTI ASSET STRAT SRI 50 AT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__KID_FR_2026-04-16.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1093406186/LU1093406186__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1093406186__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "document": "Allianz Dynamic Multi Asset Strategy SRI 50 AT (EUR)",
+    "note": "factsheet p.1 : « Allianz Dynamic Multi Asset Strategy SRI 50 », classe AT (EUR) ; « Allianz Strategy 50 NT » n'apparaît pas"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-09-03",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Allianz Strategy 50 NT EUR",
+   "gerants": "Marcus Stahlhacke",
+   "encours": "994.55",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.82",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "6.62",
+   "qualite": "A (notation moyenne des obligations)",
+   "politique_fr": "Le fonds investit dans une vaste gamme de catégories d'actifs, en se concentrant en particulier sur les actions et les obligations mondiales. L'équipe de gestion du fonds poursuit une stratégie d'investissement durable et responsable (« stratégie ISR »), qui tient compte de critères environnementaux, sociaux et de gouvernance. L'objectif du fonds est d'atteindre à moyen terme un rendement semblabl",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 360,
+  "isin": "LU1981791327",
+  "nom": "ALLIANZ GLOBAL INVESTORS THEMATICA AT EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__KID_FR_2026-05-11.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1981791327/LU1981791327__KID_FR_2026-05-11.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1981791327__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2019-05-02",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Andreas Fruschki",
+   "encours": "2637.5",
+   "frais_gestion": "1.9",
+   "frais_courants": "1.95",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Le fonds investit principalement sur les marchés d’actions mondiaux pour construire un portefeuille diversifié avec une orientation sur la sélection de thèmes, de secteurs et de titres. L’exposition aux marchés émergents est limitée à 50 %, tandis que les obligations convertibles ne peuvent dépasser 15 % des actifs du fonds. Son objectif d’investissement consiste à générer une appréciation du capi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 361,
+  "isin": "LU1481687926",
+  "nom": "ALLIANZ MULTI ASSET L/S AT H2 EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__KID_FR_2026-04-16.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1481687926/LU1481687926__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1481687926__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (EN)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2016-11-15",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Claudio Marsala",
+   "encours": "125.34",
+   "frais_gestion": "1.75",
+   "frais_courants": "1.8",
+   "sri": "3",
+   "indice": "SOFR (couvert en EUR)",
+   "classification": "Dynamique",
+   "categorie": "Alternative Global Multi Strategies",
+   "duration": "-5.36",
+   "qualite": "AAA (notation moyenne des obligations)",
+   "politique_en": "The fund aims at generating capital growth over the long term and superior risk-adjusted returns throughout the market cycle. To this end it follows a long/short strategy in a variety of asset classes including, equities, bonds, commodities and currencies. Exposure to asset classes may be gained through derivatives as well as direct investments and other instruments.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 362,
+  "isin": "FR0010785865",
+  "nom": "ALLIANZ SECURICASH SRI RC EUR",
+  "maison": "Allianz Global Investors GmbH",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__KID_FR_2026-04-16.pdf",
+    "isin_verifie": false
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/FR0010785865/FR0010785865__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010785865__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "duration": {
+    "verdict": "DIFFERENT",
+    "document": "0,12",
+    "note": "factsheet p.2 : « Duration eff. incl. liquid. & dériv. 0,12 »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2003-06-09",
+   "devise": "EUR",
+   "type_fonds": "Taux",
+   "gerants": "Ali Ozenici, Guillaume Zilliox",
+   "encours": "106.42",
+   "frais_gestion": "0.15",
+   "frais_courants": "0.15",
+   "sri": "1",
+   "indice": "€ STR",
+   "classification": "Dynamique",
+   "categorie": "Money Market Europe",
+   "sfdr": "8",
+   "duration": "0.14",
+   "qualite": "A+ (notation moyenne)",
+   "politique_fr": "L’objectif du fonds commun de placement est de fournir une performance nette équivalente ou supérieure à l’indice €STR (indice du marché monétaire européen) sur la période d’investissement recommandée en utilisant des critères financiers et extra-financiers (critères socialement responsables).",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 363,
+  "isin": "FR0010188383",
+  "nom": "AMUNDI ACTIONS EMERGENTS P C EUR",
+  "maison": "AMUNDI ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010188383/FR0010188383__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010188383/FR0010188383__KID_FR_2026-02-10.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010188383/FR0010188383__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010188383/FR0010188383__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010188383/FR0010188383__KID_FR_2026-02-10.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010188383__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF disponible = KID (10/02/2026), sans date de création"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, pas d'encours"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte (« Au moyen d'une gestion active fondamentale… Top down / Bottom up ») absent du KID, qui décrit une stratégie nourricière d'AMUNDI FUNDS EMERGING WORLD EQUITY ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-06-15",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "encours": "796.62",
+   "frais_courants": "2.07",
+   "sri": "4",
+   "indice": "MSCI Emerging Markets Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Equity Global Emerging Markets",
+   "sfdr": "8",
+   "politique_fr": "Au moyen d'une gestion active fondamentale l'équipe de gestion vise à surperformer l'indice représentatif des marchés émergents mondiaux. Les trois sources de performance - l’allocation géographique (choix des pays), l’allocation sectorielle au sein de chaque pays et la sélection de titres - sont combinées grâce à un processus de gestion éprouvé associant approches “Top down” et “Bottom up”. L’all",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 364,
+  "isin": "LU1956955550",
+  "nom": "AMUNDI FUNDS POLEN CAPITAL GLOBAL GROWTH A2 EUR",
+  "maison": "Amundi Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__KID_FR_2026-08-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__Factsheet_DE_2025-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1956955550/LU1956955550__KID_FR_2026-08-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1956955550__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID (pas de factsheet) ; aucune date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : Polen Capital n'est cité que dans le nom du compartiment, pas comme gestionnaire délégué"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, pas d'encours"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "document": "Atteindre une croissance du capital à long terme. […] Le Compartiment est géré activement et utilise l'Indice MSCI ACWI (Net dividend) a posteriori comme indicateur […] Il n'existe aucune contrainte relative à un tel Indice de référence qui limite la construction du portefeuille.",
+    "note": "KID p.1 : autre version ; le classeur dit au contraire que le compartiment est géré par rapport à l'indice, qu'il cherche à surperformer, et principalement exposé à ses émetteurs"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-03-29",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Polen Capital Management LLC (gestion déléguée)",
+   "encours": "262.07",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Le Compartiment est un produit financier qui promeut les caractéristiques ESG conformément à l’Article 8 du Règlement « Disclosure ». Réaliser une croissance du capital à long terme. Le Compartiment investit au moins 51 % de son actif net dans des actions de sociétés dont la capitalisation boursière est très diversifiée et atteint au moins 10 milliards USD.\n\nLe Compartiment peut investir jusqu’à 3",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 365,
+  "isin": "LU1883849603",
+  "nom": "AMUNDI FUNDS US BOND A2 USD",
+  "maison": "Amundi Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__KID_FR_2026-08-20.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1883849603/LU1883849603__KID_FR_2026-08-20.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1883849603__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, pas de date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais d'une autre version (Bloomberg Barclays, 25 % convertibles, 20 % HY, 10 % actions) ; le KID FR p.1 (indice Bloomberg US Aggregate) ne reprend pas ces phrases"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-06-07",
+   "devise": "USD",
+   "type_fonds": "Obligataire",
+   "gerants": "Kenneth J. Taubes, Bradley Komenda, Timothy D. Rowe, Jonathan Scott",
+   "encours": "1895.19",
+   "frais_courants": "1.33",
+   "sri": "3",
+   "indice": "Bloomberg US Aggregate",
+   "classification": "Dynamique",
+   "categorie": "Bond US",
+   "sfdr": "8",
+   "politique_en": "Seeks to increase the value of your investment and to provide income over the recommended holding period. The Sub-Fund invests mainly in a broad range of U.S. dollar denominated investment grade bonds. The Sub-Fund may also invest up to 25% of its assets in convertible securities, up to 20% in below-investment grade bonds and up to 10% in equities.\n\nThe Sub-Fund makes use of derivatives to reduce ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 366,
+  "isin": "LU0272941971",
+  "nom": "AMUNDI FUNDS VOLATILITY EURO A EUR C",
+  "maison": "Amundi Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0272941971/LU0272941971__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0272941971/LU0272941971__KID_FR_2026-05-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0272941971/LU0272941971__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0272941971/LU0272941971__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU0272941971/LU0272941971__KID_FR_2026-05-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0272941971__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul (22/05/2026), pas de date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2006-11-13",
+   "devise": "EUR",
+   "type_fonds": "Performance absolue",
+   "compartiment": "Amundi Funds Volatility Euro",
+   "gerants": "Hassan Malongo, Sofiane Ayache",
+   "encours": "105.88",
+   "frais_courants": "1.54",
+   "sri": "5",
+   "indice": "100% ESTR capitalisé (OIS) + 3% p.a.",
+   "classification": "Dynamique",
+   "categorie": "Alternative Europe Absolute Return",
+   "politique_fr": "Obtenir un rendement positif dans n’importe quelle condition de marché (stratégie de rendement absolu).\n\nLe Compartiment investit dans des options sur l’indice Euro Stoxx 50, négociées en bourse et caractérisées par une échéance moyenne à un an. Tout actif non placé quand le Compartiment atteint l’exposition à la volatilité voulue est investi dans des instruments du marché monétaire. Le Compartime",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 367,
+  "isin": "LU1894680757",
+  "nom": "AMUNDI INCOME OPPORTUNITIES A2 EUR",
+  "maison": "Amundi Luxembourg S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__KID_FR_2026-05-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__Factsheet_ES_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_LUXEMBOURG_S_A/LU1894680757/LU1894680757__KID_FR_2026-05-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1894680757__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "disclaimer": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "valeur « gsgs » (saisie parasite), absente du KID"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte détaillé (20 % ABS/MBS, 10 % CoCo, 30 % émergents) absent du KID du 22/05/2026, rédigé autrement"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-06-07",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "Amundi Funds Income Opportunities",
+   "gerants": "Marco Pirondini, Howard Weiss, Fergal Jackson",
+   "encours": "7416.6",
+   "frais_courants": "1.79",
+   "sri": "3",
+   "indice": "ICE BofA US 3-Month Treasury Bill Index",
+   "classification": "Dynamique",
+   "categorie": "Allocation USD modérée",
+   "sfdr": "8",
+   "duration": "1.49",
+   "disclaimer": "gsgs",
+   "politique_fr": "Viser des revenus et, à titre d’objectif secondaire, une plus-value du capital au cours de la période de détention recommandée. Le Compartiment dispose de la flexibilité nécessaire pour investir dans une large gamme de titres générateurs de revenus émis dans le monde entier, y compris sur les marchés émergents. Cela comprend notamment des actions, des obligations d’État et d’entreprises, ainsi que",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 368,
+  "isin": "IE00B61N8946",
+  "nom": "AMUNDI METORI EPSILON GLOBAL TRENDS A EUR",
+  "maison": "AMUNDI ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/IE00B61N8946/IE00B61N8946__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/IE00B61N8946/IE00B61N8946__KID_FR_2026-05-26.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/IE00B61N8946/IE00B61N8946__Factsheet_EN_2022-02-28.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/IE00B61N8946/IE00B61N8946__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/IE00B61N8946/IE00B61N8946__KID_FR_2026-05-26.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00B61N8946__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, pas de date de lancement"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID ne donne que « Frais de gestion et autres frais administratifs et d'exploitation 1,92 % » (frais courants), pas la commission de gestion"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2013-07-31",
+   "devise": "EUR",
+   "type_fonds": "Alternatif",
+   "compartiment": "Amundi Metori Epsilon Global Trends",
+   "gerants": "Metori Capital Management (gestion déléguée)",
+   "encours": "253.54",
+   "frais_gestion": "1.75",
+   "frais_courants": "1.92",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Dynamique",
+   "sfdr": "6",
+   "politique_fr": "Le Compartiment est un OPCVM actif et son portefeuille n’est limité par aucun indice, même si les investisseurs doivent noter que les commissions liées aux résultats sont calculées par rapport au Taux de référence, comme indiqué plus en détail dans la section « Commissions liées aux résultats des Catégories » du supplément. Le Gestionnaire, Amundi Asset Management, a nommé Metori Capital Managemen",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 369,
+  "isin": "FR0010156604",
+  "nom": "AMUNDI OBLIG INTERNATIONALES EUR-P-C",
+  "maison": "AMUNDI ASSET MANAGEMENT",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010156604/FR0010156604__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010156604/FR0010156604__KID_FR_2026-10-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010156604/FR0010156604__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AMUNDI_ASSET_MANAGEMENT/FR0010156604/FR0010156604__KID_FR_2026-10-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010156604__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul (18/08/2026)"
+   },
+   "compartiment": {
+    "verdict": "DIFFERENT",
+    "document": "AMUNDI OBLIG INTERNATIONALES FLEXIBLE EUR - P (C)",
+    "note": "KID p.1, nom du produit"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul (fourchette de sensibilité 0 à +9,5 seulement)"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "politique_fr": {
+    "verdict": "DIFFERENT",
+    "document": "La SICAV a pour objectif d'obtenir, sur la période de placement recommandée de minimum 3 ans, […] une performance supérieure de 1,65 % à celle du taux du marché monétaire au jour le jour, €STER capitalisé OIS.",
+    "note": "KID p.1 ; le classeur cite l'ancien objectif (JP Morgan GBI Broad, tracking-error 7 %)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-04-25",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "compartiment": "Amundi Obligations Internationales EUR-P-C",
+   "gerants": "Anne Beaudu, Nicolas Dahan",
+   "encours": "703.54",
+   "frais_courants": "1.1",
+   "sri": "3",
+   "indice": "ESTER capitalised EUR",
+   "classification": "Dynamique",
+   "categorie": "Bond Global",
+   "sfdr": "8",
+   "duration": "3.73",
+   "qualite": "A- (notation moyenne)",
+   "politique_fr": "L'objectif d'investissement de la SICAV consiste à réaliser une performance supérieure à celle de l'indice JP Morgan Government Bond Index Broad sur un horizon recommandé de placement de minimum trois ans, par le biais d'une gestion active sur les marchés de taux et de changes. Afin de surperformer l'indice de référence, l'équipe de gestion met en place des positions stratégiques et tactiques ains",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 370,
+  "isin": "BE0058285850",
+  "nom": "APHILION Q2 SICAV EQUITIES A EUR",
+  "maison": "APHILION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/APHILION/BE0058285850/BE0058285850__KID_FR_2026-03-31.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/APHILION/BE0058285850/BE0058285850__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/APHILION/BE0058285850/BE0058285850__KID_FR_2026-03-31.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/BE0058285850__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet sans encours (776.43 = VNI) ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-12-05",
+   "devise": "EUR",
+   "type_fonds": "SICAV, UCITS",
+   "compartiment": "Aphilion QA SICAV",
+   "encours": "1000000",
+   "frais_gestion": "1.5",
+   "sri": "6",
+   "indice": "Bloomberg Developed Markets Large & Mid Cap Net Return",
+   "categorie": "Equity Global",
+   "politique_fr": "Aphilion Q² est un fonds d’investissement en actions pur (Sicav de droit belge, OPCVM) investi dans le monde entier.\n\nLa méthode de gestion est unique et très disciplinée. Elle est basée sur des modèles quantitatifs développés pendant 8 ans et qui suit plus de 4000 actions internationales.\n\nLe fonds contient ±100 actions, distribuées entre les régions et entre les secteurs économiques majeurs (fin",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 371,
+  "isin": "FR0012534840",
+  "nom": "APICIL TRESORERIE GAC EUR",
+  "maison": "Groupama asset mgt",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/GROUPAMA_ASSET_MGT/FR0012534840/FR0012534840__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GROUPAMA_ASSET_MGT/FR0012534840/FR0012534840__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-22."
+  }
+ },
+ {
+  "n": 372,
+  "isin": "LU2944871073",
+  "nom": "ARCIPELAGOS SICAV - SERENITY FUND A EUR",
+  "maison": "LEMANIK ASSET MANAGEMENT S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-09-22."
+  }
+ },
+ {
+  "n": 373,
+  "isin": "FR001400R6D5",
+  "nom": "ARKANS WM ACTIONS INTERNATIONALES EUR",
+  "maison": "Lazard Frères Gestion",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR001400R6D5/FR001400R6D5__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR001400R6D5/FR001400R6D5__KID_FR_2026-04-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/LAZARD_FR_RES_GESTION/FR001400R6D5/FR001400R6D5__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/LAZARD_FR_RES_GESTION/FR001400R6D5/FR001400R6D5__KID_FR_2026-04-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400R6D5__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "DIFFERENT",
+    "document": "23.06",
+    "note": "factsheet p.1 : « Actif net du fonds 23.06 M€ » (09-2026)"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-08-28",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "gerants": "François Roudet",
+   "encours": "22.78",
+   "frais_gestion": "1.6",
+   "frais_courants": "1.78",
+   "sri": "4",
+   "indice": "MSCI World All Countries en Euro (MDWD)",
+   "categorie": "Actions internationales",
+   "sfdr": "8",
+   "politique_fr": "L’objectif de gestion vise à obtenir, sur la durée de placement recommandée de 5 ans, une performance nette de frais supérieure à celle de l'indicateur de référence simple suivant : MSCI World All Countries. L’indicateur de référence est exprimé en EUR. Les dividendes ou coupons nets sont réinvestis.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 375,
+  "isin": "FR0013261765",
+  "nom": "ATHYMIS BETTER LIFE EUR",
+  "maison": "ATHYMIS GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ATHYMIS_GESTION/FR0013261765/FR0013261765__Factsheet_FR_2026-09-30.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013261765__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet (2 p., vérifiée sur image) sans actif net ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2017-07-28",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "encours": "4.65",
+   "frais_gestion": "2",
+   "frais_courants": "2",
+   "sri": "4",
+   "indice": "75% MSCI ACWI NR EUR, 25% €STR capitalisé Jour TR EUR",
+   "classification": "Dynamique",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "politique_fr": "Un fonds qui sélectionne les entreprises qui contribuent selon nous à bâtir un monde meilleur.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 376,
+  "isin": "FR0013358793",
+  "nom": "ATHYMIS INDUSTRIE 4.0 P EUR",
+  "maison": "ATHYMIS GESTION",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/ATHYMIS_GESTION/FR0013358793/FR0013358793__KID_FR_2025-12-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ATHYMIS_GESTION/FR0013358793/FR0013358793__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ATHYMIS_GESTION/FR0013358793/FR0013358793__KID_FR_2025-12-17.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0013358793__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "factsheet sans actif net ; pas de KID"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-01-22",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales",
+   "encours": "6.03",
+   "frais_gestion": "2",
+   "frais_courants": "2",
+   "sri": "4",
+   "indice": "MSCI ACWI NR EUR",
+   "classification": "Dynamique",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Un fonds investit dans les entreprises tirant partie de la croissance générée par les mutations majeures des processus de productions amorcées par la nouvelle révolution industrielle.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 384,
+  "isin": "LU2429106052",
+  "nom": "AXA WF ARTIFICIAL INTELLIGENCE A USD",
+  "maison": "AXA Funds Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2429106052/LU2429106052__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2429106052/LU2429106052__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2429106052/LU2429106052__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2429106052/LU2429106052__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2429106052/LU2429106052__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2429106052__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.77% » (frais courants), pas la commission de gestion"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-04-07",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Pauline Llandric, James Dowey (co-gérant)",
+   "encours": "38.99",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.77",
+   "sri": "5",
+   "indice": "MSCI All Country World Index (Total Return Net)",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "politique_fr": "Le Compartiment vise à générer une croissance à long terme, en USD, à partir d'un portefeuille d'actions cotées et de titres assimilables géré de manière active.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 385,
+  "isin": "LU0179866438",
+  "nom": "AXA WF OPTIMAL INCOME A CAP EUR",
+  "maison": "AXA Funds Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0179866438/LU0179866438__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0179866438/LU0179866438__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0179866438/LU0179866438__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0179866438/LU0179866438__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0179866438/LU0179866438__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0179866438__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.45% » (frais courants), pas la commission de gestion"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet) (fourchette de sensibilité -4 à 8 seulement)"
+   },
+   "qualite": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2003-11-19",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Laurent Clavel, Laurent Ramsamy (co-gérant)",
+   "encours": "428.04",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.45",
+   "sri": "4",
+   "indice": "100% (€STR + 8,5 bps) capitalisé + 200 bps",
+   "categorie": "Mixed Asset Europe Flexible",
+   "sfdr": "8",
+   "duration": "0.94",
+   "qualite": "BBB+ (notation moyenne des obligations)",
+   "politique_fr": "Le fonds est géré de manière active avec une déviation qui pourra être importante en termes de constitution et performance comparée à l’indice de référence.\n\nLe Compartiment vise à générer des revenus stables et une croissance du capital mesurée en euro en investissant à long terme dans des actions et des instruments de taux européens, et à appliquer une approche ESG.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 386,
+  "isin": "LU2485150747",
+  "nom": "AXA WF SUSTAINABLE EQUITY QI BX CAPITALISATION EUR",
+  "maison": "AXA Funds Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2485150747/LU2485150747__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2485150747/LU2485150747__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2485150747/LU2485150747__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU2485150747/LU2485150747__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2485150747__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), « Equity QI Team » non cité"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.52% » (frais courants), pas la commission de gestion"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2022-10-25",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Equity QI Team",
+   "encours": "1787.28",
+   "frais_gestion": "1.35",
+   "frais_courants": "1.52",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "sfdr": "8",
+   "politique_fr": "Vise à générer une performance à long terme supérieure à celle de l'indice MSCI World Total Return Net (l' Indice de référence »), avec une volatilité plus faible, et à appliquer une approche ESG.\n\nLe Compartiment est géré de manière active par rapport à l'Indice de Référence et cherche à atteindre son objectif financier en investissant principalement dans un panier bien diversifié de titres de ca",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 387,
+  "isin": "LU0087657150",
+  "nom": "AXA WF- SWITZERLAND EQUITY A CHF",
+  "maison": "AXA Funds Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU0087657150/LU0087657150__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0087657150__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.76% » (frais courants), pas la commission de gestion"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1992-12-31",
+   "devise": "CHF",
+   "type_fonds": "Actions",
+   "gerants": "Hervé Mangin, Benoit Labeyrie (co-gérant)",
+   "encours": "243.11",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.76",
+   "sri": "4",
+   "indice": "60% SPI Middle Caps Total Return Gross + 40% SPI Large Caps Total Return Gross",
+   "categorie": "Equity Switzerland",
+   "sfdr": "8",
+   "politique_fr": "Le fonds est géré de manière active avec une déviation qui pourra être importante en termes de constitution et performance comparée à l’indice de référence.\n\nL'objectif du Compartiment est de générer une croissance à long terme du capital, mesurée en CHF, en investissant dans des sociétés de toutes capitalisations cotées ou domiciliées en Suisse.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 388,
+  "isin": "LU1157401305",
+  "nom": "AXAWF GLOBAL FLEXIBLE PROPERTY A EUR H",
+  "maison": "AXA Funds Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1157401305/LU1157401305__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1157401305/LU1157401305__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1157401305/LU1157401305__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1157401305/LU1157401305__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1157401305/LU1157401305__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1157401305__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.68% » (frais courants), pas la commission de gestion"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-12-18",
+   "devise": "EUR",
+   "type_fonds": "Immobilier",
+   "gerants": "François-Xavier Aubry, Frédéric Tempel (co-gérant)",
+   "encours": "82.2",
+   "frais_gestion": "1.4",
+   "frais_courants": "1.68",
+   "sri": "3",
+   "indice": "n/a",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du Compartiment est de réaliser des performances, mesurées en USD, en investissant principalement dans des actions cotées et des titres de créance émis par des sociétés opérant sur le marché immobilier mondial.\n\nL'objectif de la Classe d'Actions est la couverture du risque de change découlant de l'écart entre la devise de référence du Compartiment et la devise de cette Classe d'Actions ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 389,
+  "isin": "LU1319655087",
+  "nom": "AXAWF US SHORT DUR HY BONDS A EUR",
+  "maison": "AXA Funds Management S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__KID_FR_2026-02-19.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/AXA_FUNDS_MANAGEMENT_S_A/LU1319655087/LU1319655087__KID_FR_2026-02-19.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1319655087__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID AXA (pas de factsheet)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-06-10",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "gerants": "Peter Vecchio, Vernard Bond (co-gérant)",
+   "encours": "423.24",
+   "frais_gestion": "1",
+   "frais_courants": "1.26",
+   "sri": "2",
+   "indice": "n/a",
+   "categorie": "Bond US High Yield",
+   "sfdr": "8",
+   "duration": "1.98",
+   "politique_fr": "Le fonds est géré de manière active, sans référence à un indice de référence.\n\nL'objectif du Compartiment est d'abord de générer des revenus élevés attractifs, et ensuite de rechercher une croissance du capital en investissant principalement dans des titres de créance américains à haut rendement sur un horizon de moyen terme.\n\nL'objectif de la Classe d'Actions est la couverture du risque de change",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 391,
+  "isin": "IE00BK5TWD80",
+  "nom": "BG WORLDWIDE US EQUITY GROWTH FUND A EUR",
+  "maison": "Baillie Gifford IM (Europe)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BAILLIE_GIFFORD_IM_EUROPE/IE00BK5TWD80/IE00BK5TWD80__Factsheet_EN_2026-09-30.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BAILLIE_GIFFORD_IM_EUROPE/IE00BK5TWD80/IE00BK5TWD80__KID_FR_2026-06-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BAILLIE_GIFFORD_IM_EUROPE/IE00BK5TWD80/IE00BK5TWD80__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/BAILLIE_GIFFORD_IM_EUROPE/IE00BK5TWD80/IE00BK5TWD80__KID_FR_2026-06-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BK5TWD80__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID, sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : aucun nom de gérant (seulement Baillie Gifford Investment Management (Europe) Limited, le Gestionnaire)"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1.65 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (« We are bottom-up, growth investors… ») absent du KID FR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2019-09-30",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Dave Bujnowski, Tom Slater, Gary Robinson, Kirsty Gibson, Lillian Li",
+   "encours": "300",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.65",
+   "sri": "6",
+   "indice": "S&P500",
+   "categorie": "Equity US",
+   "sfdr": "8",
+   "politique_en": "We are bottom-up, growth investors with a long-term horizon. We back our judgement, running a concentrated portfolio (usually between 30-50 stocks) with low turnover.\n\nThe team aims to outperform by harnessing the asymmetry of returns inherent in equity markets. We believe we will maximise our chances of achieving this aim by identifying the exceptional growth businesses in America and owning them",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 392,
+  "isin": "LU0093503497",
+  "nom": "BGF ESG MULTI-ASSET A2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0093503497/LU0093503497__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0093503497/LU0093503497__KID_FR_2026-04-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0093503497/LU0093503497__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0093503497/LU0093503497__Factsheet_IT_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0093503497/LU0093503497__KID_FR_2026-04-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0093503497__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID (22/04/2026), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,55 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1,55",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 1,55 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1999-01-04",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "BGF ESG Multi-Asset A2 EUR",
+   "gerants": "Yasmin Meissner, Adam Ryan, Lucy Parker",
+   "encours": "2907.46",
+   "frais_gestion": "1.2",
+   "frais_courants": "1.54",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.53",
+   "politique_fr": "Le Fonds vise un rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds est activement géré et le niveau d’investissement du Fonds dans ces catégories d’actifs peut varier sans limite en fon",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 393,
+  "isin": "LU1005243255",
+  "nom": "BGF FIXED INCOME GLOBAL OPPS A2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__KID_FR_2026-08-14.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU1005243255/LU1005243255__KID_FR_2026-08-14.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1005243255__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2013-12-18",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "compartiment": "BGF Fixed Income Global Opportunities A2 EUR",
+   "gerants": "Rick Rieder, Jose Aguilar, Russell Brownback, Aidan Doyle, Max Huefner",
+   "encours": "9105.92",
+   "frais_gestion": "1",
+   "frais_courants": "1.22",
+   "sri": "3",
+   "indice": "Bloomberg Global Aggregate Index (USD Hedged)",
+   "categorie": "Bond Global",
+   "duration": "3.43",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres à revenu fixe. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de créance à échéance courte).\n\nLes titres à revenu fixe sont libellés d",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 394,
+  "isin": "LU0212925753",
+  "nom": "BGF GLOBAL ALLOCATION A2 EUR HEDGED",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__KID_FR_2026-09-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0212925753/LU0212925753__KID_FR_2026-09-17.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0212925753__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID (17/09/2026), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,78 % »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-04-22",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Rick Rieder, Russ Koesterich",
+   "encours": "19371.83",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.78",
+   "sri": "3",
+   "indice": "36% S&P 500, 24% FTSE World ex-US, 24% 5 Yr US Treasury Note, 16% FTSE Non-USD World Government Bond Index",
+   "categorie": "Mixed Asset Global Balanced",
+   "duration": "1.42",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds. Le Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) et des titres à revenu fixe (RF) dans des conditions de marché normales. Les titres RF incluent des obligations et des instruments du marché moné",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 395,
+  "isin": "LU0072462426",
+  "nom": "BGF GLOBAL ALLOCATION A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072462426/LU0072462426__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072462426/LU0072462426__KID_FR_2026-09-17.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072462426/LU0072462426__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072462426/LU0072462426__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072462426/LU0072462426__KID_FR_2026-09-17.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0072462426__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1997-01-03",
+   "devise": "USD",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "BGF Global Allocation A2 USD",
+   "gerants": "Rick Rieder, Russ Koesterich",
+   "encours": "19371.83",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.78",
+   "sri": "3",
+   "indice": "36% S&P 500, 24% FTSE World ex-US, 24% 5 Yr US Treasury Note, 16% FTSE Non-USD World Government Bond Index",
+   "categorie": "Mixed Asset Global Balanced",
+   "duration": "1.42",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) et des titres à revenu fixe (RF) dans des conditions de marché normales. Les titres RF incluent des obligations et des instruments du marché mon",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 396,
+  "isin": "LU0567554463",
+  "nom": "BGF GLOBAL HIGH YIELD BOND A2 GBP",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__KID_FR_2026-04-22.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0567554463/LU0567554463__KID_FR_2026-04-22.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0567554463__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1.46 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2010-12-14",
+   "devise": "GBP",
+   "type_fonds": "Obligataire",
+   "gerants": "David Delbos, Jose Aguilar, Mitchell Garfin, James Turner",
+   "encours": "2011.47",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.46",
+   "sri": "2",
+   "indice": "ICE BofA Global High Yield Constrained (HW0C) 100% USD Hedged Index",
+   "categorie": "Bond Global High Yield",
+   "sfdr": "8",
+   "duration": "3.09",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant de manière cohérente avec les principes de l’investissement centré sur les critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif dans des titres à revenu fixe. Il s’agit",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 397,
+  "isin": "LU0425308169",
+  "nom": "BGF GLOBAL INFLATION LINKED BD A2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0425308169/LU0425308169__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0425308169/LU0425308169__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0425308169/LU0425308169__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0425308169/LU0425308169__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0425308169/LU0425308169__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0425308169__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 0,99 % »"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2009-07-23",
+   "devise": "EUR",
+   "type_fonds": "Obligataire",
+   "gerants": "Harrison Segall, Russell Brownback, Johan Sjogren",
+   "encours": "127.14",
+   "frais_gestion": "0.75",
+   "frais_courants": "0.99",
+   "sri": "2",
+   "indice": "BBG WGILB All Markets 1-20 Yrs 100% Hedged to USD Index (USD)",
+   "categorie": "Bond Global Inflation Linked",
+   "duration": "6.5",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, corrigé en fonction de l’inflation, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif dans des titres à revenu fixe indexés sur l’inflation. Il s’agit notamment d’obligations et d’instruments du marché monétaire (c’est-à-dire des titres de cré",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 398,
+  "isin": "LU0072463663",
+  "nom": "BGF LATIN AMERICAN A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0072463663__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.08 % »"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "MSCI Emerging Markets Latin America Index",
+    "note": "KID p.1 : « le GFD se référera au MSCI Emerging Markets Latin America Index » (pas de version 10/40)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1997-01-09",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Samuel Vecht, Gordon Fraser",
+   "encours": "617.69",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.08",
+   "sri": "5",
+   "indice": "MSCI EM Latin America 10/40 Index (USD)",
+   "categorie": "Equity Latin America Emerging Markets",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds. Le Fonds investit au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés domiciliées, ou exerçant la majeure partie de leurs activités, en Amérique latine. Le terme « Amérique latine » désigne le Mexique, l’Amérique centrale, l",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 399,
+  "isin": "LU0124384867",
+  "nom": "BGF SUSTAINABLE ENERGY A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__KID_FR_2026-06-24.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0124384867/LU0124384867__KID_FR_2026-06-24.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0124384867__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,97 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-04-06",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Alastair Bishop, Lindsay Sinclair",
+   "encours": "5122.91",
+   "frais_gestion": "1.65",
+   "frais_courants": "1.97",
+   "sri": "5",
+   "categorie": "Equity Global Alternative Energy",
+   "sfdr": "9",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds. Le Fonds investit à l’échelle mondiale au moins 70 % de ses actifs dans des titres de participation (c’est-à-dire des actions) de sociétés dont l'activité est liée aux énergies durables. Les sociétés d’énergie durable sont actives dans les énergies alternatives et les ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 401,
+  "isin": "LU0122376428",
+  "nom": "BGF WORLD ENERGY A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0122376428/LU0122376428__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0122376428__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2,06 % »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-04-06",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Alastair Bishop, Mark Hume",
+   "encours": "2398.03",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.06",
+   "sri": "5",
+   "indice": "MSCI World Energy 30% Buffer 10/40 NET Index (USD)",
+   "categorie": "Equity Global Energy",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploration, le développement, la production et la distribution d’énergie.\n\nLe gestionnaire finan",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 402,
+  "isin": "LU0326422689",
+  "nom": "BGF WORLD GOLD A2 HEDGED EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__Factsheet_ES_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326422689/LU0326422689__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0326422689__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.07",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-11-30",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Evy Hambro, Tom Holl",
+   "encours": "11896.07",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.05",
+   "sri": "6",
+   "indice": "FTSE Gold Mines Index (Price Return) (USD)",
+   "categorie": "Equity Global Gold & Precious Metals",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds. Le Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 403,
+  "isin": "LU0055631609",
+  "nom": "BGF WORLD GOLD A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0055631609/LU0055631609__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0055631609/LU0055631609__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0055631609/LU0055631609__Factsheet_DE_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0055631609/LU0055631609__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0055631609/LU0055631609__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0055631609__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.08 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.08",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.08 % »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1994-12-30",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Evy Hambro, Tom Holl",
+   "encours": "11896.07",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.07",
+   "sri": "6",
+   "indice": "FTSE Gold Mines Index (Price Return) (USD)",
+   "categorie": "Equity Global Gold & Precious Metals",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’extraction de l’or. Le Fonds peut également investir dans des titres de participation de sociétés",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 405,
+  "isin": "LU0171307068",
+  "nom": "BGF WORLD HEALTHSCIENCE FUND A2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171307068/LU0171307068__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171307068/LU0171307068__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171307068/LU0171307068__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171307068/LU0171307068__Factsheet_NL_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171307068/LU0171307068__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0171307068__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,81 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2001-04-06",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "compartiment": "BGF World Healthscience A2 EUR",
+   "gerants": "Erin Xie, Xiang Liu",
+   "encours": "13132.9",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.81",
+   "sri": "4",
+   "indice": "MSCI World Health Care Index Net Return (EUR)",
+   "categorie": "Equity Global Healthcare",
+   "sfdr": "8",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG). Le Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de société",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 406,
+  "isin": "LU0326424115",
+  "nom": "BGF WORLD MINING A2 EUR HEDGED EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326424115/LU0326424115__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326424115/LU0326424115__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326424115/LU0326424115__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326424115/LU0326424115__Factsheet_IT_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0326424115/LU0326424115__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0326424115__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.07",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-10-31",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Evy Hambro, Olivia Markham",
+   "encours": "7908.61",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.06",
+   "sri": "5",
+   "indice": "MSCI ACWI Metals & Mining 30% Buffer 10/40 (1994) (USD)",
+   "categorie": "Equity Global Materials",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploitation minière et/ou la production de métaux et/ou minéraux de base et précieux. Le Fonds n",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 407,
+  "isin": "LU0075056555",
+  "nom": "BGF WORLD MINING A2 USD",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0075056555/LU0075056555__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0075056555/LU0075056555__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0075056555/LU0075056555__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0075056555/LU0075056555__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0075056555/LU0075056555__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0075056555__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "2.07",
+    "note": "KID p.2 : « Frais de gestion et autres coûts administratifs ou d'exploitation 2.07 % »"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1997-03-24",
+   "devise": "USD",
+   "type_fonds": "Actions",
+   "gerants": "Evy Hambro, Olivia Markham",
+   "encours": "7908.61",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.06",
+   "sri": "5",
+   "indice": "MSCI ACWI Metals & Mining 30% Buffer 10/40 (1994) (USD)",
+   "categorie": "Equity Global Materials",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploitation minière et/ou la production de métaux et/ou minéraux de base et précieux.\n\nLe Fonds ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 408,
+  "isin": "LU0171310443",
+  "nom": "BGF WORLD TECHNOLOGY FUND A2 EUR",
+  "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171310443/LU0171310443__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171310443/LU0171310443__KID_FR_2026-04-29.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171310443/LU0171310443__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171310443/LU0171310443__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0171310443/LU0171310443__KID_FR_2026-04-29.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0171310443__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet), aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BlackRock (pas de factsheet)"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres coûts administratifs ou d'exploitation 1,81 % »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1995-03-03",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Tony Kim, Reid Menge",
+   "encours": "19749.22",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.8",
+   "sri": "5",
+   "indice": "MSCI ACWI Information Technology 10/40 Index (EUR)",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds et en investissant conformément aux principes d’investissement basé sur des critères environnementaux, sociaux et de gouvernance (ESG).\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociét",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 409,
+  "isin": "LU0309191657",
+  "nom": "BL-EQUITIES DIVIDEND B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0309191657/LU0309191657__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0309191657__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (145 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1,5 (145 EUR pour 10 000 EUR, soit 1,45 %)",
+    "note": "KID p.2 : « Frais de gestion et autres frais administratifs et d'exploitation 1,5% », 145 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2007-10-30",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Jérémie Fastnacht, Guy Wagner",
+   "encours": "507.06",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.44",
+   "sri": "3",
+   "indice": "MSCI ACWI NR EUR",
+   "categorie": "Equity Global Income",
+   "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des sociétés de qualité cotées sur les marchés boursiers mondiaux. Les sociétés sélectionnées bénéficient d’avantages compétitifs pérennes et offrent des dividendes attrayants, soutenables et en croissance. Le fonds vise à générer des rendements ajustés au risque supérieurs à ceux de son univers de référ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 410,
+  "isin": "LU1305479153",
+  "nom": "BL-EUROPEAN FAMILY BUSINESSES B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU1305479153/LU1305479153__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU1305479153/LU1305479153__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU1305479153/LU1305479153__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU1305479153/LU1305479153__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU1305479153/LU1305479153__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1305479153__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,6% » (160 EUR pour 10 000 EUR)"
+   },
+   "frais_courants": {
+    "verdict": "DIFFERENT",
+    "document": "1,6 (160 EUR pour 10 000 EUR)",
+    "note": "KID p.2 : « Frais de gestion et autres frais administratifs et d'exploitation 1,6% », 160 EUR pour 10 000 EUR"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2016-12-07",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Tom Michels, Amélie Morel, Joël Reuland, Guy Wagner",
+   "encours": "70.65",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.53",
+   "sri": "4",
+   "indice": "MSCI Europe NR EUR",
+   "categorie": "Equity Europe",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des entreprises européennes de qualité dotées d’un avantage compétitif pérenne et contrôlées partiellement par une famille, un ou plusieurs entrepreneurs ou une fondation, lesquels sont représentés au conseil d’administration. Il vise à vise à générer des rendements ajustés au risque supérieurs à ceux de",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 411,
+  "isin": "LU0048292394",
+  "nom": "BL-GLOBAL 30 B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0048292394__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (155 EUR pour 10 000 EUR)"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (« The objective of this mixed … fund … ») absent du KID FR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1993-10-28",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Joël Reuland",
+   "encours": "104.1",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.55",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Balanced",
+   "duration": "3.34",
+   "politique_en": "The objective of this mixed defensive fund is to generate a positive return with reduced volatility. The fund has a global investment universe of equities, bonds and money market instruments; exposure to precious metals is also possible through ETCs (Exchange Traded Commodities). The allocation to equities varies between 15% and 45% with a neutral allocation set at 30%.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 412,
+  "isin": "LU0048292808",
+  "nom": "BL-GLOBAL 50 B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0048292808__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,4% » (144 EUR pour 10 000 EUR)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (« The objective of this mixed … fund … ») absent du KID FR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1993-10-28",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Joël Reuland, Maxime Hoss (suppléant)",
+   "encours": "356.37",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.44",
+   "sri": "3",
+   "indice": "Lipper Global Mixed Asset EUR Balanced - Global",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.5",
+   "politique_en": "The objective of this mixed fund is to generate a positive return over the medium term with moderate volatility. The fund has a global investment universe of equities, bonds and money market instruments; exposure to precious metals is also possible through ETCs (Exchange Traded Commodities). The allocation to equities varies between 30% and 70% with a neutral allocation set at 50%.\n\nFrom an ESG pe",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 413,
+  "isin": "LU0117287580",
+  "nom": "BL-GLOBAL EQUITIES B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0117287580__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (145 EUR pour 10 000 EUR)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-11-06",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Marc Erpelding, Joël Reuland (suppléant)",
+   "encours": "246.89",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.45",
+   "sri": "3",
+   "indice": "MSCI ACWI NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des sociétés de grande qualité cotées sur les marchés boursiers mondiaux et dotées d’un avantage compétitif solide et pérenne. Il vise à générer des rendements ajustés au risque supérieurs à ceux de son univers de référence sur un cycle de marché complet.\n\nLe fonds s’engage à investir minimum 30% de ses ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 414,
+  "isin": "LU0211340665",
+  "nom": "BL-GLOBAL FLEXIBLE EUR B",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0211340665__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,4% » (142 EUR pour 10 000 EUR)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-04-06",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "BL-Global Flexible",
+   "gerants": "Guy Wagner, Fabrice Kremer (suppléant)",
+   "encours": "1211.79",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.42",
+   "sri": "3",
+   "indice": "Lipper Global Mixed Asset EUR Flexible - Global",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "5.6",
+   "politique_fr": "L’objectif du fonds est de générer un rendement réel (ajusté de l’inflation) en euro positif sur le moyen terme au travers d’une stratégie d’allocation d’actifs flexible et globale. La stratégie mise en œuvre combine différentes classes d’actifs traditionnellement négativement corrélées, en premier lieu les actions, les obligations et instruments monétaires, les métaux précieux et les liquidités. ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 416,
+  "isin": "IE00BLF9YH30",
+  "nom": "BLACKROCK GLOBAL UNCONS EQ A EUR",
+  "maison": "BLACKROCK ASSET MANAGEMENT IRELAND LTD",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__KID_FR_2026-04-15.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__KID_FR_2026-04-15.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BLF9YH30__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID (15/04/2026), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2020-07-13",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Alister Hibbert, Michael Constantis",
+   "encours": "4656.32",
+   "frais_courants": "1.7",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Le Fonds vise un rendement sur votre investissement (généré par une augmentation de la valeur des actifs détenus par le Fonds) à long terme (5 ans ou plus).\n\nLe Fonds investit au moins 80 % de son actif en titres de participation (par ex. des actions) et des titres apparentés à des actions de sociétés domiciliées, ou exerçant la majeure partie de leurs activités, dans des marchés développés mondia",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]

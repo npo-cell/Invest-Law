@@ -1,0 +1,274 @@
+{
+ "n": "525",
+ "isin": "LU0431139764",
+ "nom": "ETHNA AKTIV T EUR",
+ "maison": "ETHENEA Independent Investors S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "date_creation": "2009-07-17",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible",
+ "compartiment": "Organisme de placement collectif en valeurs mobilières (OPCVM) de droit luxembourgeois",
+ "gerants": "",
+ "encours_millions": "2040",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.90",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "9,43 (duration modifiée)",
+ "qualite_emetteurs": "BBB+ à A-",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Les prix, valeurs et revenus peuvent augmenter ou diminuer et conduire à une perte totale du capital investi.",
+ "politique_fr": "Stratégie d’investissement Le fonds investit son actif dans des titres de toutes sortes, parmi lesquels figurent des actions, des obligations, des instruments du marché monétaire, des certificats et des dépôts à terme. La proportion d'actions, de fonds en actions et de titres assimilables à des actions ne doit pas dépasser au total 49 % de l'actif net du fonds. Jusqu'à 20 % de l'actif net du fonds peuvent être investis indirectement dans des métaux précieux et matières premières. L'investissement dans d'autres fonds ne doit pas dépasser 10 % de l'actif du fonds. L'acquisition est principalement axée sur des actifs d'émetteurs ayant leur siège dans un État membre de l'OCDE. Le fonds peut avoir recours à des instruments financiers dont la valeur dépend des cours futurs d'autres éléments d'actifs (« produits dérivés »), afin de couvrir ou d'accroître son actif. Dans son processus décisionnel, le fonds prend en compte non seulement les aspects financiers mais aussi écologiques, sociaux et de bonne gouvernance (stratégie ESG). Des informations détaillées relatives aux possibilités de placement ainsi qu'aux principes d'investissement responsable (ESG) sont disponibles dans le prospectus de vente.\n\nObjectif d’investissement L'objectif principal d'Ethna-AKTIV consiste à réaliser une plus-value intéressante en euros, en tenant compte des critères de durabilité, stabilité de la valeur, de sécurité du capital et de liquidité de l'actif du fonds. Le fonds bénéficie d'une gestion active. Son portefeuille est constitué selon les critères définis dans la politique d'investissement. Sa composition est contrôlée régulièrement et ajustée au besoin. Le fonds ne suit aucun indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : frais de gestion 1.5 retiré (les documents ne donnent que « Frais de gestion et autres frais administratifs et d'exploitation 1,90 % », retenu en frais courants) ; gérants « Jörg Held, Luca Pesarini » retirés (aucun nom dans la factsheet ni le KID) ; duration 9.93 → 9,43 (« Duration modifiée 9,43 (9,43) », factsheet 30/09/2026) ; notation moyenne « BBB+ à A- » ajoutée ; indice « Aucun » (« Le fonds ne suit aucun indice de référence »). Inchangés et confirmés : encours 2040 (« Volume du fonds 2,04 mrd. EUR »), SRI 3 (KID 16/04/2026 et texte de la factsheet « classe de risque 3 sur 7 »). Date de création = « Date de lancement 17.07.2009 » (factsheet de la part T). SFDR article 8, aucun % durable écrit. Classification Equilibré : actions limitées à 49 % (41,9 % au 30/09/2026), SRI 3. Politique : blocs « Stratégie d’investissement » et « Objectif d’investissement » de la factsheet française. Allocations (lues aussi sur l'image p.2) : classes d'actifs (« Allocation actuelle des actifs ») ; Secteurs = total obligations + actions (% de la VNI) ; Notations = obligations d'entreprises (seule série non nulle, % de la VNI) ; Devises = exposition nette ; Maturités = durée résiduelle des obligations (% de la VNI) ; exposition par région (deux séries obligations / actions nettes, sans total) non reprise.",
+ "sources": {
+  "compartiment": "factsheet p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.5",
+  "sri": "KID p.1",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres",
+   "pct": "-0.9"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidité",
+   "pct": "17.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds d'investissement",
+   "pct": "1.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Matières premières",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "40.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "41.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corporation",
+   "pct": "4.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Meta Platforms Inc.",
+   "pct": "4.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc.",
+   "pct": "4.19"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com Inc.",
+   "pct": "3.20"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JAB Holdings BV (2035)",
+   "pct": "2.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Electricité de France S.A. Green Bond (2045)",
+   "pct": "2.21"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Accenture Plc.",
+   "pct": "2.02"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amazon.com Inc (2045)",
+   "pct": "1.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Vonovia SE (2040)",
+   "pct": "1.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "OMV AG (2040)",
+   "pct": "1.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alphabet Inc (2044)",
+   "pct": "1.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rocket Lab Corp.",
+   "pct": "1.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Deutsche Bank AG",
+   "pct": "1.56"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Caterpillar Inc.",
+   "pct": "1.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Murata Manufacturing Co. Ltd.",
+   "pct": "1.46"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Communication",
+   "pct": "23.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "14.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux collectivités",
+   "pct": "10.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "9.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "8.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "6.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation",
+   "pct": "5.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharma et santé",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matières premières",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "3.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "16.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "19.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "92.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "JPY",
+   "pct": "5.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "2.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "0.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-3 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 ans",
+   "pct": "0.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 ans",
+   "pct": "1.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-10 ans",
+   "pct": "11.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": ">10 ans",
+   "pct": "27.3"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ETHENEA_INDEPENDENT_INVESTORS_S_A/LU0431139764/LU0431139764__KID_FR_2026-04-16.pdf"
+}

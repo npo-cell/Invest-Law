@@ -1,0 +1,207 @@
+{
+ "n": "431",
+ "isin": "FR001400KAV4",
+ "nom": "CARMIGNAC CREDIT 2029 A EUR (FMB)",
+ "maison": "CARMIGNAC GESTION",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400KAV4/FR001400KAV4__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CARMIGNAC_GESTION/FR001400KAV4/FR001400KAV4__KID_FR_2026-04-16.pdf",
+ "date_creation": "2023-10-20",
+ "devise": "EUR",
+ "type_fonds": "Obligataire",
+ "compartiment": "Carmignac Credit 2029 est un Fonds Commun de Placement (FCP) de droit français, relevant de la directive européenne 2009/65/CE (OPCVM).",
+ "gerants": "Pierre Verlé, Alexandre Deneuville, Florian Viros",
+ "encours_millions": "1780",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.14",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.0 (sensibilité)",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Credit 2029 est un Fonds obligataire à échéance (UCITS) mettant en œuvre une stratégie de portage sur les marchés du crédit. Grâce à un objectif de performance cible, une date de maturité préétablie et une sélection rigoureuse et diversifiée des émetteurs, le Fonds offre aux investisseurs de la visibilité sur leur placement. Carmignac Credit 2029 a un objectif de performance annualisée cible entre sa date de création, le 20 octobre 2023, et sa date d’échéance, le 28 février 2029, tel que défini dans le prospectus pour chaque catégorie de parts. L’objectif du Fonds ne constitue en aucun cas une promesse de rendement ou de performance du Fonds, la performance n’est pas garantie.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Fonds obligataire à échéance (28/02/2029). Date de création = « Date de la 1ère VL » de la part A EUR Acc (20/10/2023, identique au lancement du fonds ; KID : « Le fonds a été créé le 20/10/2023 »). Encours = « Actifs sous gestion du Fonds : 1780M€ » (encours de la part : 1306M€). Frais : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 1,14 % (identique au KID) ; pas de frais de gestion séparés ; commission liée aux résultats 20 % au-delà d'un objectif annualisé de 4,22 %. Indice « Aucun » : KID « Le fonds n'a pas d'indicateur de référence ». SRI 2 (KID : « classe de risque 2 sur 7 »). SFDR article 8 (factsheet) ; aucun % durable effectif écrit. Duration = « Sensibilité taux 3,0 » ; qualité = « Notation moyenne BBB+ ». Allocations : notations et zones « Poids rebasés » ; ventilation sectorielle à l’intérieur des sous-classes non reprise (libellés répétés) ; sous-classes détaillant « Obligations » (total supérieur à 100 %) ; liquidités négatives gardées. Corrigé (factsheet 30/09/2026) : frais courants (vide) → 1.14 ; indice (vide) → Aucun ; SFDR (vide) → 8 ; investissements durables (%) 8 → (vide) ; duration (vide) → 3.0 (sensibilité) ; qualité (vide) → BBB+. Écart restant du contrôle : « Aucun » (valeur conventionnelle, pas un texte du document).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "100.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts privés pays développés",
+   "pct": "73.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts privés pays émergents",
+   "pct": "10.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts Supranationaux",
+   "pct": "0.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Collateralized Loan Obligation (CLO)",
+   "pct": "16.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "-0.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "7.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "3.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "26.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "40.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "16.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "5.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "C",
+   "pct": "0.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "82.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "6.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe de l'Est",
+   "pct": "5.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "2.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie Pacifique",
+   "pct": "1.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Afrique",
+   "pct": "0.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "0.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TENNET GMBH & CO KG 4.25% 03/09/2031",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ERSTE BANK HUNGARY ZRT 3.38% 29/01/2030",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANQUE FEDERATIVE DU CREDIT MUTUEL 4.75% 10/11/2031",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TOTALENERGIES 3.79% 26/02/2031",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BANQUE FEDERATIVE DU CREDIT MUTUEL 4.5% 01/09/2032",
+   "pct": "1.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMHALLSBYGGNADSBOLAGET I NORDEN HOLDING 1.12% 26/07/2029",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KBC GROUP 4.13% 20/08/2032",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UNICREDIT 5.63% 03/12/2032",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BNP PARIBAS 3.94% 18/02/2032",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ENI 4.88% 21/01/2034",
+   "pct": "0.7"
+  }
+ ]
+}

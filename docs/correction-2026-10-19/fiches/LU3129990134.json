@@ -1,0 +1,90 @@
+{
+ "n": "747",
+ "isin": "LU3129990134",
+ "nom": "ODDO BHF Global Target 2031 CR EUR (FMB)",
+ "maison": "Oddo BHF Asset Management SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-11",
+ "date_creation": "2025-08-04",
+ "devise": "EUR",
+ "type_fonds": "Obligataire à échéance (haut rendement, 2031)",
+ "compartiment": "Un compartiment de la SICAV ODDO BHF",
+ "gerants": "Alexis Renault, Janis Heck, Haiyan Ding, Daniel Hagemann",
+ "encours_millions": "129",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1",
+ "frais_courants": "1.30",
+ "sri": "2",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.52",
+ "qualite_emetteurs": "BB-",
+ "disclaimer": "Les performances passées ne présagent pas des performances futures et ne sont pas constantes dans le temps. La valeur de l’investissement peut évoluer tant à la hausse qu’à la baisse et peut ne pas lui être intégralement restituée.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLa stratégie d'investissement du Compartiment consiste à gérer, de manière discrétionnaire, un portefeuille diversifié de titres de créance composé, dans la limite de 100% des actifs nets du Compartiment, d'obligations traditionnelles à haut rendement notées entre BB+ et CCC, dont au moins 60% sont émises par des sociétés ayant leur siège social dans un pays membre de l'OCDE et dont l'échéance est au maximum de neuf mois et un jour après le 31 décembre 2031 (échéance finale du produit ou options de remboursement anticipé à la discrétion de la Société).\n\nL’objectif de gestion est d’obtenir une performance nette de frais annualisée supérieure à 2,80 %",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 113 → 129 (« Actif net du fonds 129 M€ », factsheet 30/09/2026) ; frais courants 1.299 → 1.30 (KID 11/06/2026 « 1,30 % » ; factsheet « 1.299 % ») ; ajoutés : compartiment, SRI 2 (KID), indice « Aucun » (factsheet « Indicateur de référence : Néant » ; KID « Le Compartiment n’a pas d’indice de référence »), SFDR article 8 (KID), duration, qualité, type, classification Défensif (obligataire à échéance 2031, SRI 2), disclaimer. Date de création : « Date de création de la part (1ère VL) 04/08/2025 » (identique au fonds). Frais de gestion : « Taux annuel de 1% maximum » (factsheet ; « les frais de gestion de la part CR-EUR - Eur sont de 1 % »). Duration : « Duration modifiée au pire 2,52 » ; qualité « Rating moyen BB- » ; rendement actuariel à échéance 5,57 %. Aucun % durable écrit. Allocations : 5 principaux émetteurs (seuls donnés) et classes d’actifs (« % investis » / « % Liquidités ») ; les répartitions sectorielle, géographique, par notation et par maturité sont des graphiques sans valeurs extractibles.",
+ "factsheet_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ODDO_BHF_ASSET_MANAGEMENT_SAS/LU3129990134/LU3129990134__KID_FR_2026-06-11.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "FAURECIA SA",
+   "pct": "3.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CIRSA FINANCE INTERNATIONAL SA",
+   "pct": "3.24"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ZF EUROPE FINANCE BV",
+   "pct": "2.84"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TEVA PHARMACEUTICAL FINANCE NE",
+   "pct": "2.39"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GRIFOLS ESCROW ISSUER",
+   "pct": "2.19"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "% investis",
+   "pct": "100.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "% Liquidités",
+   "pct": "0.0"
+  }
+ ]
+}

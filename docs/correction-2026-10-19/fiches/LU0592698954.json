@@ -1,0 +1,347 @@
+{
+ "n": "447",
+ "isin": "LU0592698954",
+ "nom": "CARMIGNAC PTF EMERGING PATRIMOINE A EUR",
+ "maison": "CARMIGNAC GESTION",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0592698954/LU0592698954__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0592698954/LU0592698954__KID_FR_2026-04-16.pdf",
+ "date_creation": "2011-03-31",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (marchés émergents)",
+ "compartiment": "Carmignac Portfolio Emerging Patrimoine est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+ "gerants": "Xavier Hovasse, Lamine Bougueroua",
+ "encours_millions": "385",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.83",
+ "sri": "3",
+ "indice": "40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR Capitalized Index",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "0.3 (sensibilité)",
+ "qualite_emetteurs": "BBB-",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Emerging Patrimoine est un fonds durable et diversifié UCITS dédié aux marchés émergents, combinant trois moteurs de performance : les actions, les obligations et les devises. Son approche dynamique et flexible vise à optimiser l’allocation d’actifs dans différents environnements de marché, afin de saisir des opportunités d’investissement attractives tout en assurant la résilience du portefeuille en périodes de stress de marché. Il a pour objectif de surperformer son indicateur de référence sur un horizon d’investissement minimum de cinq ans. Le Fonds promeut des caractéristiques environnementales et sociales et s'engage à investir au moins 10 % de ses actifs nets dans des actions d'entreprises considérées comme alignées sur les Objectifs de développement durable (ODD) des Nations Unies.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de la 1ère VL » de la part A EUR Acc (31/03/2011, identique au lancement du compartiment). Encours = « Actifs sous gestion du Fonds : 385M€ » (encours de la part : 232M€). Gérants : Xavier Hovasse depuis le 25/02/2015, Lamine Bougueroua depuis le 01/05/2026. Frais : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » (KID : 1,83 %) ; pas de frais de gestion séparés ; commission liée aux résultats 20 %. Indice : factsheet « 40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR Capitalized Index. » (KID : même composition ; objectif de surperformance). SRI 3 (KID : « classe de risque 3 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 10% » (engagement minimal, non repris). Duration = « Sensibilité taux 0,3 » ; qualité = « Notation moyenne BBB- ». Classification Equilibré : mixte émergents, actions limitées à 50 %, SRI 3 — cas limite (pays émergents). Allocations : zones = détail de la ligne « Actions » ; pays et secteurs = « Poche actions », notations = « Poche taux » (poids rebasés) ; devises = « Exposition nette par devise » ; positions = « Top 10 des positions (actions et obligations) » ; sous-classes obligataires sous « Obligations » (total supérieur à 100 %), Credit Default Swap négatif gardé. Corrigé (factsheet 30/09/2026) : encours 379 → 385 ; frais courants (vide) → 1.83 ; indice 40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR capitalisé Index → 40% MSCI EM NR index + 40% JPM GBI-EM Global Diversified Composite index + 20% €STR Capitalized Index ; SFDR (vide) → 8 ; investissements durables (%) 8 → (vide) ; duration (vide) → 0.3 (sensibilité) ; qualité (vide) → BBB-.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.1",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "47.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "45.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts d'Etat pays développés",
+   "pct": "1.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts d'Etat pays émergents",
+   "pct": "31.1"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts privés pays développés",
+   "pct": "1.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Emprunts privés pays émergents",
+   "pct": "12.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Credit Default Swap",
+   "pct": "-25.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "7.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique Latine",
+   "pct": "9.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "37.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "0.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "32.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "20.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "12.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Brésil",
+   "pct": "11.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "8.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pérou",
+   "pct": "6.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Indonésie",
+   "pct": "2.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Argentine",
+   "pct": "2.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Turquie",
+   "pct": "1.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "1.0"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres pays",
+   "pct": "1.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "30.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "25.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "14.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "10.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services aux Collectivités",
+   "pct": "8.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "4.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "3.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "1.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "1.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "1.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "8.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "43.3"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "29.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "14.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "2.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CC",
+   "pct": "0.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EURO",
+   "pct": "19.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yuan Ren-Min-Bi",
+   "pct": "11.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "8.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won",
+   "pct": "7.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Péso mexicain",
+   "pct": "6.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Péso colombien",
+   "pct": "6.1"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau Sol",
+   "pct": "5.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Réal de Brésil",
+   "pct": "4.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Tenge",
+   "pct": "4.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Péso chilien",
+   "pct": "3.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "22.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "9.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK SQUARE CO LTD",
+   "pct": "8.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "POLAND 2.00% 25/08/2036",
+   "pct": "4.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS CO LTD",
+   "pct": "3.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AXIA ENERGIA SA",
+   "pct": "3.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CREDICORP LTD",
+   "pct": "3.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "IVORY COAST 6.88% 17/10/2040",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RAIFFEISEN BANK 4.63% 25/01/2032",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PETROLEOS MEXICANOS 4.75% 26/02/2029",
+   "pct": "2.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "STATE OIL CO OF THE AZERBAIJAN REPUBLIC 6.57% 07/07/2056",
+   "pct": "2.4"
+  }
+ ]
+}

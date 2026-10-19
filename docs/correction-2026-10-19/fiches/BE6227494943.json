@@ -1,0 +1,204 @@
+{
+ "n": "484",
+ "isin": "BE6227494943",
+ "nom": "DPAM B BALANCED STRATEGY B EUR",
+ "maison": "DEGROOF PETERCAM ASSET MANAGEMENT S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-10-01",
+ "factsheet_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DEGROOF_PETERCAM_ASSET_MANAGEMENT_S_A/BE6227494943/BE6227494943__KID_FR_2026-10-01.pdf",
+ "date_creation": "2011-11-02",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (fonds de fonds)",
+ "compartiment": "Compartiment de DPAM B, SICAV de droit belge",
+ "gerants": "",
+ "encours_millions": "864.58",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.20",
+ "frais_courants": "1.59",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "5.77 ans",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Ce produit ne prévoyant pas de protection contre les aléas du marché, vous pourriez perdre tout ou partie de votre investissement.",
+ "politique_fr": "Objectif: L'objectif du compartiment est d'offrir aux investisseurs une plus- value modérée à moyen et long terme en investissant dans des titres de capital et/ou des titres de créance d'émetteurs du monde entier. Il s'agit d'un compartiment géré activement. Aucun benchmark n'est utilisé dans la gestion du compartiment. Des informations quantitatives provenant d'un marché plus large peuvent être utilisées pour la gestion des risques et l'évaluation par le gestionnaire. Le compartiment promeut des caractéristiques environnementales et sociales au sens de l'article 8 du Règlement (UE) 2019/2088 sur la publication d'informations en matière de durabilité dans le secteur des services financiers. Il n'a pas un objectif d'investissement durable.\n\nPolitique d'investissement: Le compartiment investit principalement (sans aucune restriction sectorielle ou géographique quelconque) dans des fonds d'investissement d'obligations et d'actions (OPCVM et/ou autres OPC) et accessoirement dans d'autres fonds d'investissement (OPCVM et/ou autres OPC). Le compartiment peut également investir directement en actions, obligations, ou autres titres de créances (à concurrence de maximum 20% de son actif net). Le compartiment vise à limiter ses investissements (directs ou indirects) en actions ou autres titres de capital à environ 65% de ses actifs nets. Le compartiment investit au moins 75% de ses actifs nets dans (i) des fonds qui promeuvent, entre autres, des caractéristiques environnementales ou sociales et/ou ont un objectif d'investissement durable au sens du Règlement 2019/2088 (investissements indirects) et/ou (ii) des titres satisfaisant aux caractéristiques environnementales et sociales dont il fait la promotion (investissements directs). Le compartiment applique des restrictions d'investissement contraignantes (a) aux sociétés non-conformes aux normes mondiales (Global Standards), (b) aux sociétés impliquées dans des activités controversées, et (c) aux sociétés impliquées dans des controverses de sévérité maximale. Vous trouverez plus d'informations sur le site https://www.funds.dpaminvestments.com/funds.html. Le gestionnaire du compartiment utilisera des fonds de DPAM et des fonds de tiers dont la sélection est basée sur une analyse qualitative qui se concentre sur cinq points : philosophie et processus d'investissement, performance, risques, transparence et coûts. Cette sélection tient compte des aspects environnementaux, sociaux et de gouvernance (ESG).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Société de gestion : la factsheet indique « Géré par CA Indosuez Fund Solutions SA (\"CAI FS SA\"), SA de droit belge » (maison One Life : DEGROOF PETERCAM ASSET MANAGEMENT S.A.). Date de création = « Date de la 1ère VNI (classe d'action) 02.11.2011 » ; « Création du compartiment 13.10.2011 (1) » (compartiment de DPAM B depuis 01/04/2022, issu de DPAM Horizon B). Encours « Taille (toutes classes) mn EUR 864.58 ». Frais de gestion = « *dont frais de gestion 1.20% » ; frais courants = KID « Frais de gestion et autres frais d'exploitation » 1,59 % (identique à la factsheet) ; pas de commission de performance. Indice « Aucun » : « Aucun benchmark n'est utilisé dans la gestion du compartiment ». Aucun gérant nommé. SFDR article 8 (texte de la politique), aucun % d'investissements durables écrit. Duration = « Duration (ans) 5.77 » de la partie obligataire (modified duration 5.46 %). Classification Equilibré : fonds de fonds mixte (59,3 % actions), SRI 3. Politique : bloc « Politique d'investissement du compartiment » de la factsheet (issu du KID), sans la phrase finale « Ni le rendement, ni le capital ne sont garantis ou protégés. » Allocations : pas de principales positions publiées ; « Régions » et « Secteurs » = partie actions ; « Ratings » = partie obligataire ; liquidités négatives gardées telles quelles. Corrigé (factsheet 30/09/2026) : encours 881.35 → 864.58 ; indice (vide) → Aucun ; classification (vide) → Equilibré ; duration 5.44 → 5.77 ans.",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "duration": "factsheet p.3",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "59.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'Etats et assimilées en EUR",
+   "pct": "8.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Autres risques obligataires",
+   "pct": "32.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Placements alternatifs",
+   "pct": "2.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "-2.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Euro",
+   "pct": "48.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar US",
+   "pct": "29.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autre",
+   "pct": "14.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen japonais",
+   "pct": "3.4"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Livre sterling",
+   "pct": "2.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Taïwan",
+   "pct": "1.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "EMU",
+   "pct": "14.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe Ex-EMU",
+   "pct": "7.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "57.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "5.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Reste du monde",
+   "pct": "0.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Marchés émergents",
+   "pct": "14.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autre",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "3.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux & Industrie",
+   "pct": "13.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "35.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécommunications",
+   "pct": "8.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "17.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "8.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de consommation",
+   "pct": "12.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "15.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "10.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "18.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "27.1"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Autre",
+   "pct": "28.1"
+  }
+ ]
+}

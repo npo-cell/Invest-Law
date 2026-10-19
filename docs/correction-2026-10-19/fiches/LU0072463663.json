@@ -1,0 +1,102 @@
+{
+ "n": "398",
+ "isin": "LU0072463663",
+ "nom": "BGF LATIN AMERICAN A2 USD",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "1997-01-09",
+ "devise": "USD",
+ "type_fonds": "Actions Amérique latine",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg",
+ "gerants": "Samuel Vecht, Gordon Fraser",
+ "encours_millions": "618.97",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.75",
+ "frais_courants": "2.08",
+ "sri": "5",
+ "indice": "MSCI EM Latin America 10/40 Index (USD)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés domiciliées, ou exerçant la majeure partie de leurs activités, en Amérique latine. Le terme « Amérique latine » désigne le Mexique, l’Amérique centrale, l’Amérique du Sud et les îles des Caraïbes, y compris Porto Rico.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR de septembre 2026 (données au 30/09/2026). Date de création : « Date de lancement de la Catégorie d'Actions : 09-janv.-1997 » (fonds : 08-janv.-1997). Encours « Encours sous gestion (M) : 618,97 USD ». Frais : « Commission de gestion annuelle : 1,75% » ; frais courants 2,08 % (KID ; la factsheet écrit « Frais courants : 2,09% »). Indice : « Contrainte 1 : MSCI EM Latin America 10/40 Index (USD) » (factsheet) ; le KID nomme « MSCI Emerging Markets Latin America Index » (construction du portefeuille et gestion des risques) : libellé de la factsheet retenu, divergence signalée. SFDR : « Classification SFDR : Autre » : vide. Classification Agressif : actions des marchés émergents d'Amérique latine (SRI 5). Allocations : 10 principales positions seulement (secteurs, pays et capitalisations sont des graphiques sans valeurs dans le texte). Corrigé : encours 617.69 → 618.97 (factsheet 30/09/2026) ; classification Agressif ajoutée ; politique FR prise de la factsheet ; catégorie vidée.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0072463663/LU0072463663__KID_FR_2026-04-29.pdf",
+ "sources": {
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet",
+  "compartiment": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "factsheet_date": "factsheet",
+  "kid_date": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SOUTHERN COPPER CORP",
+   "pct": "6.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GRUPO FINANCIERO BANORTE SAB DE CV",
+   "pct": "6.55"
+  },
+  {
+   "type": "Positions",
+   "libelle": "PETROLEO BRASILEIRO SA PETROBRAS",
+   "pct": "6.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VALE SA",
+   "pct": "5.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "XP INC",
+   "pct": "5.50"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NU HOLDINGS LTD",
+   "pct": "4.79"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ITAU UNIBANCO HOLDING SA",
+   "pct": "4.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WAL MART DE MEXICO SAB DE CV",
+   "pct": "4.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KLABIN SA",
+   "pct": "4.13"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CYRELA BRAZIL REALTY S.A.",
+   "pct": "3.78"
+  }
+ ]
+}

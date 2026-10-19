@@ -1,0 +1,104 @@
+{
+ "n": "735",
+ "isin": "LU0078812822",
+ "nom": "NORDEA 1 - NORWEGIAN SHRT-TERM BD BP NOK",
+ "maison": "Nordea Investment Funds S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-20",
+ "date_creation": "1997-07-11",
+ "devise": "NOK",
+ "type_fonds": "Obligataire court terme (NOK)",
+ "compartiment": "Ce produit est un fonds de Nordea 1, SICAV, une société d'investissement à capital variable (SICAV) à fonds multiples et régie par la loi luxembourgeoise du 17 décembre 2010 concernant les organismes de placement collectif.",
+ "gerants": "Norwegian Fixed Income Team",
+ "encours_millions": "2027.94",
+ "encours_devise": "NOK",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.13",
+ "frais_courants": "0.38",
+ "sri": "1",
+ "indice": "",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "0.14",
+ "qualite_emetteurs": "BBB+",
+ "disclaimer": "Les performances passées ne préjugent aucunement des résultats futurs et les investisseurs peuvent ne pas récupérer l’intégralité du capital investi. La valeur de votre investissement peut évoluer à la hausse comme à la baisse, et vous pourriez perdre une partie ou la totalité du capital que vous avez investi.",
+ "politique_fr": "Objectif d'investissement\nLe fonds est investi pour au moins deux tiers de leurs actifs nets respectifs en titres de créance à revenu fixe ou à taux variable, émis par des emprunteurs privés ou des autorités publiques, et libellés en NOK. Le fonds est composé d'obligations à court terme et de titres de créance négociables à court terme et admis à la bourse d'Oslo ou négociés sur un autre marché réglementé dun pays membre de l'OCDE. Géré activement. Indice de référence aux fins de comparaison des performances uniquement. Les caractéristiques de risque du portefeuille du fonds présenteront des similitudes avec celles de l'indice.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 1991.8 → 2027.94 (« Encours sous gestion (Million NOK) 2 027,94 », fonds, factsheet 30/09/2026 ; part BP-NOK : 1 144,01) ; duration 0.13 → 0.14 (« Duration effective 0,14 » ; duration de spread 1,91) ; indice → vide (KID : « L'indice de référence est utilisé uniquement à des fins de comparaison des performances » ; indice cité : 50% Norwegian Regular Market, sector 1, 2 and 3, Floating Rate Securities et 50% NIBOR 3M ; factsheet « 50% NIBOR 3M and 50% Norway FI - RM123FRN ») ; compartiment et disclaimer refaits depuis le KID et la factsheet ; politique complétée. Date de création : « Date de lancement 11/07/1997 » (part et fonds). Frais : factsheet « Frais de gestion 0,13 % », « Frais courants (2025) 0,38% » ; KID 0.38%. SRI : KID « SRI=1 ». Qualité : « Notation moyenne BBB+ ». SFDR article 8, aucun % durable écrit. Allocations : seules les 10 principales positions sont reprises ; les répartitions sectorielle, géographique, par devise, par notation et l’allocation d’actifs sont des graphiques sans texte extractible.",
+ "factsheet_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/NORDEA_INVESTMENT_FUNDS_S_A/LU0078812822/LU0078812822__KID_FR_2026-05-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Ziklo Bank AB 24/29 FRN",
+   "pct": "3.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kredittforeningen for Spb 26/29 FRN",
+   "pct": "3.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spb 1 SMN 23/29 FRN C",
+   "pct": "3.11"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Olav Thon Eiendom AS 24/29 FRN",
+   "pct": "2.67"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bane NOR Eiendom AS 22/27 FRN",
+   "pct": "2.48"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eiendomskreditt AS 26/29 FRN",
+   "pct": "2.47"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Entra ASA 20/27 FRN",
+   "pct": "2.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eiendomskreditt AS 22/28 FRN COVD",
+   "pct": "2.34"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Realkredit Danmark A/S 25/28 FRN COVD",
+   "pct": "1.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spb Møre 24/29 FRN",
+   "pct": "1.74"
+  }
+ ]
+}

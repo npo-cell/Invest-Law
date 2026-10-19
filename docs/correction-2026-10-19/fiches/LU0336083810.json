@@ -1,0 +1,305 @@
+{
+ "n": "428",
+ "isin": "LU0336083810",
+ "nom": "CARMIGNAC ASIA DISCOVERY A EUR",
+ "maison": "CARMIGNAC GESTION",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-16",
+ "factsheet_fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0336083810/LU0336083810__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CARMIGNAC_GESTION/LU0336083810/LU0336083810__KID_FR_2026-04-16.pdf",
+ "date_creation": "2007-12-14",
+ "devise": "EUR",
+ "type_fonds": "Actions Asie (hors Chine)",
+ "compartiment": "Carmignac Portfolio Asia Discovery est un compartiment distinct de Carmignac Portfolio, une société d'investissement à capital variable (SICAV) de droit luxembourgeois conforme à la Directive 2009/65/CE sur les OPCVM.",
+ "gerants": "Naomi Waistell",
+ "encours_millions": "255",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.33",
+ "sri": "4",
+ "indice": "MSCI EM Asia Ex-China IMI 10/40 Capped NR index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. Elles sont nettes de frais (hors éventuels frais d’entrée appliqués par le distributeur). Le Fonds présente un risque de perte en capital.",
+ "politique_fr": "OBJECTIF D’INVESTISSEMENT\nCarmignac Portfolio Asia Discovery est un fonds actions investi sur les marchés asiatiques hors Chine (UCITS) ayant un biais sur les petites et moyennes capitalisations. Le Fonds explore les opportunités de ces marchés sous-exploités, en identifiant des entreprises de qualité, capables de générer et de capitaliser leurs revenus sur le long terme. L'objectif du Fonds est de surperformer son indicateur de référence.La durée de placement recommandée est supérieure à five ans. Le Fonds promeut des caractéristiques environnementales et sociales et s'engage à investir au moins 50% de ses actifs nets dans des actions d'entreprises considérées comme alignées sur les Objectifs de Développement Durable des Nations Unies.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création = « Date de la 1ère VL » de la part A EUR Acc (14/12/2007 ; KID : « Le compartiment a été lancé le 14/12/2007 »). Encours = « Actifs sous gestion du Fonds : 255M€ / 289M$ » (encours de la part : 152M€). Gérante : Naomi Waistell depuis le 03/11/2025. Frais : la factsheet ne donne que « Frais de gestion et autres frais administratifs et d’exploitation » 2,33 % (identique au KID) ; pas de frais de gestion séparés ; commission liée aux résultats 20 %. Indice : factsheet « MSCI EM Asia Ex-China IMI 10/40 Capped NR index. » (KID : objectif de surperformance). Le 22/11/2024 le fonds a changé de nom (ex-Carmignac Portfolio Emerging Discovery), de stratégie et d'indice. SRI 4 (KID : « classe de risque 4 sur 7 »). SFDR article 8 ; « Minimum % d’investissements durables 50% » (engagement minimal, non repris). Classification Agressif : actions asiatiques émergentes à biais petites et moyennes capitalisations (SRI 4, cas limite). Politique copiée telle quelle (dont « supérieure à five ans » et l'absence d'espace après « référence. »). Allocations : zones = détail de la ligne « Actions » ; secteurs, capitalisations et pays « Poids rebasés » ; devises transparisées ; ligne « Total 44,5 % » du top 10 non reprise. Corrigé (factsheet 30/09/2026) : encours 257 → 255 ; frais courants (vide) → 2.33 ; indice MSCI EM Asia Ex-China IMI 10/40 Capped NR → MSCI EM Asia Ex-China IMI 10/40 Capped NR index ; classification Dynamique → Agressif ; SFDR (vide) → 8 ; investissements durables (%) 8 → (vide).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "98.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités, emplois de trésorerie et opérations sur dérivés",
+   "pct": "1.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays développés",
+   "pct": "3.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie Pacifique",
+   "pct": "3.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "94.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie",
+   "pct": "91.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe de l'Est",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Moyen-Orient",
+   "pct": "0.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'Information",
+   "pct": "49.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "18.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "9.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "5.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation Discrétionnaire",
+   "pct": "5.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.5"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de Consommation de Base",
+   "pct": "1.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "1.8"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Grandes (>10000 MEUR)",
+   "pct": "66.5"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes (2000 - 10000MEUR)",
+   "pct": "24.9"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites (<2000 MEUR)",
+   "pct": "8.6"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Nouveau dollar de Taïwan",
+   "pct": "34.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Won",
+   "pct": "30.5"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Roupie indienne",
+   "pct": "22.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Yen",
+   "pct": "3.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dong",
+   "pct": "2.2"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Tenge",
+   "pct": "1.8"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EURO",
+   "pct": "1.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar de Singapour",
+   "pct": "1.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Riyal saoudien",
+   "pct": "0.9"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Dollar des Etats-Unis",
+   "pct": "0.7"
+  },
+  {
+   "type": "Devises",
+   "libelle": "Autres",
+   "pct": "0.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taiwan",
+   "pct": "35.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "31.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "22.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "3.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Viet Nam",
+   "pct": "2.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Kazakhstan",
+   "pct": "1.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "1.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Arabie Saoudite",
+   "pct": "0.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Indonésie",
+   "pct": "0.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Mexique",
+   "pct": "0.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "pct": "9.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAMSUNG ELECTRONICS CO LTD",
+   "pct": "9.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK HYNIX INC",
+   "pct": "5.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SK SQUARE CO LTD",
+   "pct": "4.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ICICI BANK LTD",
+   "pct": "3.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASIA VITAL COMPONENTS CO LTD",
+   "pct": "2.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BIZLINK HOLDING INC",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "DELTA ELECTRONICS INC",
+   "pct": "2.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HDFC BANK LTD",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GRAND PROCESS TECHNOLOGY CORP",
+   "pct": "2.2"
+  }
+ ]
+}

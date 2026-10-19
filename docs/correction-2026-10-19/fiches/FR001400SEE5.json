@@ -1,0 +1,151 @@
+{
+ "n": "279",
+ "isin": "FR001400SEE5",
+ "nom": "(I/C)R-CO TARGET 2029 HY P EUR (FMB)",
+ "maison": "Rothschild & Co Asset Management Europe",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-20",
+ "date_creation": "2024-11-21",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (à échéance 2029, haut rendement)",
+ "compartiment": "OPCVM, constitué sous la forme d’un compartiment de Société d’Investissement à Capital Variable (SICAV)",
+ "gerants": "Kristell AGAESSE, Michaël LONGEARD",
+ "encours_millions": "434.54",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "0.70",
+ "frais_courants": "0.81",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3.17",
+ "qualite_emetteurs": "BB",
+ "disclaimer": "Le rendement et la valeur des parts du fonds peuvent diminuer ou augmenter et le capital peut ne pas être intégralement restitué. Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "STRATÉGIE D'INVESTISSEMENT\nLe compartiment a pour objectif de gestion, au moment de la souscription et jusqu’au 31/12/2029, d'obtenir une performance nette de frais liée à l’évolution des marchés de taux en euros en investissant dans des titres à caractère spéculatif (à haut rendement).L’échéance moyenne du portefeuille sera comprise entre janvier et décembre 2029.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 438.18 → 434.54 ; encours_date 2026-08-31 → 2026-09-30 ; duration 2.65 → 3.17. Fonds à échéance (31/12/2029), « SICAV Obligations et autres titres de créance € » ; compartiment R-co Target 2029 HY de la SICAV R-co 3 (KID). Date de création = « Date de création 21/11/2024 » = « Date 1ère VL 21/11/2024 ». Encours « Actifs sous gestion 434,54 M€ » (30/09/2026). Frais de gestion = « Frais de gestion financière 0,70% TTC maximum de l'actif net » (taux maximum) ; frais courants KID 0,81 % (factsheet : « Frais courants ex-post 0,811% »). Indice « Aucun » : factsheet « Indice de référence - » et KID « le compartiment n’a pas d’indicateur de référence ». Duration = « Duration 3,17 » au 09/26 (« Sensibilité 3,06 ») ; « Rating moyen* BB » (hors liquidités, fonds et dérivés de taux). SFDR article 8 (KID p.3), aucun % d'investissements durables écrit. Classification Défensif : fonds obligataire à échéance (titres à haut rendement), SRI 3. Politique : « STRATÉGIE D'INVESTISSEMENT » de la factsheet (le KID p.1 détaille la politique). Allocations : répartitions par instrument, notation, secteur et zone géographique = graphiques en image non lisibles dans le texte du PDF → non reprises ; reprises : principales positions, Maturités = « % Actif » de la « Décomposition de la sensibilité par maturité » (tranches 7-10 ans et > 10 ans sans valeur ; dates de call non prises en compte), Devises = « Exposition par devise » (Poids). Tableau poids moyens/contributions par type de dette non repris.",
+ "factsheet_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ROTHSCHILD_CO_ASSET_MANAGEMENT_EUROPE/FR001400SEE5/FR001400SEE5__KID_FR_2026-02-20.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.4",
+  "devise": "factsheet p.4",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.4",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.4",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "KID p.1",
+  "sfdr": "KID p.3",
+  "duration": "factsheet p.2",
+  "qualite_emetteurs": "factsheet p.2",
+  "disclaimer": "factsheet p.5",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Air France-klm 3 7/8 01/14/31",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banijay Gaming Sas 5 1/8 12/10/31",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Essendi Sa 5 1/2 11/15/31",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Kapla Holding Sas 5 04/30/31",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eroski S Coop 5 3/4 05/15/31",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Afflelou Sas 6 07/25/29",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Egis Sa 5 1/8 05/15/31",
+   "pct": "1.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Nexans Sa 4 1/4 09/09/31",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Neoen Finco Plc 5 1/2 06/15/31",
+   "pct": "1.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Viridien 8 1/2 10/15/30",
+   "pct": "1.1"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "1.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1-3 ans",
+   "pct": "9.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3-5 ans",
+   "pct": "77.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "5-7 ans",
+   "pct": "11.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Cash",
+   "pct": "0.3"
+  },
+  {
+   "type": "Devises",
+   "libelle": "EUR",
+   "pct": "100.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "USD",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "CHF",
+   "pct": "0.0"
+  },
+  {
+   "type": "Devises",
+   "libelle": "GBP",
+   "pct": "0.0"
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "n": "828",
+ "isin": "LU0390135332",
+ "nom": "TEMPLETON ASIAN SMALLER COMPANIES A USD",
+ "maison": "Franklin Templeton International Services S.à r.l.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-02-19",
+ "date_creation": "2008-10-14",
+ "devise": "USD",
+ "type_fonds": "Actions Asie hors Japon (petites capitalisations)",
+ "compartiment": "SICAV de droit luxembourgeois Franklin Templeton Investment Funds",
+ "gerants": "Vikas Chiranewal, Chetan Sehgal",
+ "encours_millions": "750.65",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.15",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne permet pas de prédire les rendements futurs. Le cours des actions du Fonds, ainsi que les revenus générés, peuvent fluctuer à la hausse comme à la baisse, et il est possible que les investisseurs ne puissent pas récupérer l'intégralité des montants investis.",
+ "politique_fr": "Objectif d'investissement\nChercher une croissance de l'investissement à long terme par la croissance du capital. Le Fonds investit principalement dans les actions d'entreprises de petite capitalisation boursière situées ou exerçant une activité significative en Asie (hors Japon).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet « Reporting du Fonds au 30 septembre 2026 » (française, la plus récente). Date de création = « Date de création de la part 14.10.2008 » (fonds : 14.10.2008). Compartiment de Franklin Templeton Investment Funds (« Parapluie légal »). Gérants : équipe de gestion (Vikas Chiranewal, CFA ; Chetan Sehgal, CFA). Encours « Actif net total » $750,65 Millions (fonds). Frais de gestion non indiqués ; frais courants 2,15 % (KID « Frais de gestion et autres frais administratifs et d’exploitation », identique à la factsheet). Indice vide : « MSCI AC Asia ex-Japan Small Cap Index-NR » marqué « Comparateur », « Utilisé à des fins de comparaison des performances uniquement ». SFDR article 8 (factsheet « Catégorie SFDR Article 8 » et KID), aucun % d'investissements durables écrit. Classification Agressif : petites capitalisations asiatiques (marchés émergents), malgré un SRI de 4 (One Life : Dynamique). Allocations : colonne « Fonds » seulement (indice non repris), libellés et valeurs tels qu'écrits. Corrigé : indice → vide (comparateur uniquement) ; classification Dynamique → Agressif ; politique du site → objectif de la factsheet ; encours (750.65) et frais (2.15) inchangés.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "factsheet p.3",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "BAJAJ HOLDINGS & INVESTMENT LTD",
+   "pct": "4.30"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SYNNEX TECHNOLOGY INTERNATIONAL CORP",
+   "pct": "3.36"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ISC CO LTD",
+   "pct": "3.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "LITE-ON TECHNOLOGY CORP",
+   "pct": "3.18"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REDINGTON LTD",
+   "pct": "3.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVATEK MICROELECTRONICS CORP",
+   "pct": "2.96"
+  },
+  {
+   "type": "Positions",
+   "libelle": "JB FINANCIAL GROUP CO LTD",
+   "pct": "2.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VISUAL PHOTONICS EPITAXY CO LTD",
+   "pct": "2.80"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SANIL ELECTRIC CO LTD",
+   "pct": "2.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KING YUAN ELECTRONICS CO LTD",
+   "pct": "2.39"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "40.26"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "15.61"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "11.71"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "7.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "5.55"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "4.77"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "4.33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Secteur Immobilier",
+   "pct": "3.08"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autre",
+   "pct": "3.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Liquidités et équivalents",
+   "pct": "3.42"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Taïwan",
+   "pct": "27.88"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Inde",
+   "pct": "26.80"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "18.20"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "9.45"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Vietnam",
+   "pct": "7.20"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Philippines",
+   "pct": "3.37"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Singapour",
+   "pct": "1.30"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Thailande",
+   "pct": "0.99"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autre",
+   "pct": "1.40"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Liquidités et équivalents",
+   "pct": "3.42"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "<1,0 milliards",
+   "pct": "5.91"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "1,0-2,0 milliards",
+   "pct": "15.11"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "2,0-5,0 milliards",
+   "pct": "47.04"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "5,0-10,0 milliards",
+   "pct": "9.02"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": ">10,0 milliards",
+   "pct": "22.91"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/FRANKLIN_TEMPLETON_INTERNATIONAL_SERVICES_S_R_L/LU0390135332/LU0390135332__KID_FR_2026-02-19.pdf"
+}

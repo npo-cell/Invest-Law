@@ -1,0 +1,216 @@
+{
+ "n": "518",
+ "isin": "FR001400S0Q9",
+ "nom": "EIFFEL RENDEMENT 2030 R EUR",
+ "maison": "Eiffel Investment Group",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-02-15",
+ "date_creation": "2024-11-29",
+ "devise": "EUR",
+ "type_fonds": "Obligataire à échéance (haut rendement)",
+ "compartiment": "Fonds Commun de Placement de droit français",
+ "gerants": "Emmanuel Weyd, Guillaume Truttmann",
+ "encours_millions": "198.6",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.10",
+ "frais_courants": "1.30",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "3,1 (sensibilité)",
+ "qualite_emetteurs": "B+",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "Eiffel Rendement 2030 est un fonds obligataire à échéance fixe mettant en œuvre une stratégie de portage. Le fonds est investi dans un portefeuille diversifié d’obligations d’entreprises libellées en euro ayant une échéance d’au plus 2 ans après le 31 décembre 2030. Le processus de sélection repose sur une analyse fondamentale du risque de crédit (« bond picking ») et des convictions de l’équipe de gestion.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : champs complétés d’après la factsheet et le KID (frais courants 1.30, SRI 3, indice Aucun, SFDR 8, sensibilité 3,1, notation B+, compartiment) ; politique = texte « Stratégie d’investissement » de la factsheet. Factsheet du 30/09/2026 trouvée dans le dépôt (non listée dans documents_recents) : rapport mensuel commun aux parts R, I et SI, avec les chiffres de la part R explicitement donnés (VL, performances, frais). KID le plus récent : 15/02/2025 (part R). Inchangés et confirmés : encours 198.6 (« Actif net du fonds 198,6 millions € »), frais de gestion 1,10 % (part R), gérants. Date de création : seule la « Création du fonds 29/11/2024 » est donnée (pas de date propre à la part R). Frais courants : KID « 1.30% » ; factsheet frais de fonctionnement 0,20 % max TTC. Indice : factsheet « Indicateur de référence - » → Aucun. Duration : « Sensibilité taux 3,1 » ; maturité moyenne 4,3 années. Qualité : « Notation interne moyenne B+ » (notation interne de la société de gestion). SFDR article 8 (KID). Échéance : 31/12/2030 ; objectif part R : performance nette annualisée supérieure à 3,70 % (KID). Allocations : notations internes (exposition nette), maturités et pays (camembert) lus aussi sur l'image de la page 5.",
+ "sources": {
+  "politique_fr": "factsheet p.2",
+  "source_politique": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.2",
+  "disclaimer": "factsheet p.3",
+  "duration": "factsheet p.5",
+  "qualite_emetteurs": "factsheet p.5",
+  "date_creation": "factsheet p.8",
+  "devise": "factsheet p.8",
+  "gerants": "factsheet p.8",
+  "compartiment": "factsheet p.8",
+  "frais_gestion": "factsheet p.8",
+  "indice": "factsheet p.8",
+  "sri": "KID p.1",
+  "sfdr": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Neoen 5.5 2031",
+   "pct": "2.0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Verisure 5.625 2031",
+   "pct": "1.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "United Group 6.5 2031",
+   "pct": "1.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Canal+ 4.625 2030",
+   "pct": "1.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Doc Pharma 5.625 2032",
+   "pct": "1.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A-",
+   "pct": "3.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB+",
+   "pct": "1.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "1.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB-",
+   "pct": "1.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB+",
+   "pct": "8.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "2.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB-",
+   "pct": "9.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B+",
+   "pct": "21.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "33.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B-",
+   "pct": "10.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC+",
+   "pct": "1.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC",
+   "pct": "1.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "NR",
+   "pct": "1.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Liquidités",
+   "pct": "2.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "< 1 an",
+   "pct": "3.0"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Entre 1 an et 3 ans",
+   "pct": "10.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Entre 3 ans et 5 ans",
+   "pct": "80.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Entre 5 ans et 7 ans",
+   "pct": "3.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "Liquidités",
+   "pct": "2.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Pays-Bas",
+   "pct": "11.8"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "10.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "5.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "12.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "18.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "16.7"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "12.6"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Luxembourg",
+   "pct": "12.5"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/EIFFEL_INVESTMENT_GROUP/FR001400S0Q9/FR001400S0Q9__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/EIFFEL_INVESTMENT_GROUP/FR001400S0Q9/FR001400S0Q9__KID_FR_2025-02-15.pdf"
+}

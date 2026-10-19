@@ -1,0 +1,191 @@
+{
+ "n": "20",
+ "isin": "LU1914336968",
+ "nom": "(I/C)ABRDN LIQUIDITY FUND (LUX) STG FD X-2 GBP",
+ "maison": "Aberdeen Standard Investments Luxembourg S.A.",
+ "factsheet_date": "2026-06-30",
+ "kid_date": "2026-05-07",
+ "date_creation": "2018-12-06",
+ "devise": "GBP",
+ "type_fonds": "Monétaire (GBP)",
+ "compartiment": "Sterling Fund (le Fonds) est un compartiment libellé en Sterling d’une SICAV (société d’investissement à capital variable), abrdn Liquidity Fund (Lux), immatriculée au Luxembourg.",
+ "gerants": "Liquidity Team",
+ "encours_millions": "",
+ "encours_devise": "",
+ "encours_date": "",
+ "frais_gestion": "0.20",
+ "frais_courants": "0.23",
+ "sri": "1",
+ "indice": "SONIA (GBP)",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée n'est pas une indication des rendements futurs. La valeur des placements et le revenu qui en découle peuvent diminuer et les investisseurs peuvent récupérer une somme inférieure au montant investi.",
+ "politique_fr": "Objectif\nL’objectif du Fonds est de préserver le capital et de fournir de la liquidité, tout en ciblant une performance conforme aux taux en vigueur sur le marché monétaire à court terme, pour lequel le SONIA a été choisi en tant qu'indice de référence.\n\nTitres composant le portefeuille\n- Le Fonds investit dans des instruments du marché monétaire de haute qualité libellés en livre sterling.\n- Les exigences minimum de liquidités à l'échéance sont les suivantes : 10 % au jour le jour et 30 % arrivant à échéance en une semaine.\n- Le Fonds investit dans des titres dont l'échéance ne dépasse pas 397 jours. L’ensemble du Fonds doit avoir une échéance moyenne pondérée maximale de 60 jours et une durée moyenne pondérée maximale de 120 jours.\n- Le Fonds peut être exposé à des actifs dont le rendement est nul ou négatif dans des conditions de marché défavorables.\n- Les investissements suivront l’approche d’investissement Liquidity Sterling Fund Investment d’abrdn (l’Approche d’investissement).\n- Cette approche utilise le processus d’investissement dans les titres à revenu fixe d’Aberdeen Investments, qui permet aux gérants de portefeuilles d’évaluer qualitativement la manière dont les facteurs ESG sont susceptibles d’avoir un impact sur la capacité de l’entreprise à rembourser sa dette, aujourd’hui et à l’avenir. Pour compléter cette recherche, le score MSCI ESG est utilisé pour identifier quantitativement et exclure les entreprises exposées aux risques ESG les plus élevés. De plus, un ensemble d’exclusions d’entreprises est appliqué, en lien avec le Pacte mondial des Nations Unies, les armes controversées, la fabrication de tabac et le charbon thermique.\n- De plus amples détails sur l’ensemble de ce processus sont présentés dans l’approche d’investissement, qui est publiée à l’adresse www.aberdeeninvestments.com dans la rubrique Fund Centre.\n\nProcessus de gestion\n- Le Fonds fait l'objet d'une gestion active. Notre équipe d’investissement s’efforcera d’obtenir et de maintenir une notation de crédit AAA ou équivalente attribuée par au moins une agence de notation.\n- Grâce à l’application de l’Approche d’investissement, le Fonds visera une notation MSCI ESG d’au moins AA.\n- Le dialogue avec les équipes dirigeantes des sociétés permet d’évaluer les structures de propriété, la gouvernance et la qualité de la gestion de ces sociétés, afin d’éclairer la construction du portefeuille.\n- Ce Fonds est un fonds monétaire à valeur liquidative à faible volatilité (« Low Volatility Net Asset Value ») au sens du règlement (UE) 2017/1131 relatif aux fonds monétaires (règlement MMF).",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/06/2026) : encours_millions 14.4 → vide ; encours_devise GBP → vide ; encours_date 2026-06-30 → vide. Factsheet retenue : FR du 30/06/2026 (règle « français d'abord » : la factsheet EN du 31/08/2026 de la même part, plus récente, n'est pas utilisée) ; KID FR du 07/05/2026 retenu plutôt que le KID EN de même date. Fonds monétaire à court terme LVNAV (« Ce fonds est un fonds à court terme du marché monétaire à faible valeur liquidative (LVNAV) »). Factsheet FR du 30/06/2026 (Class X-2 Acc GBP) ; KID FR = version suisse. Date de création = « Date de lancement de la catégorie d'actions 06 décembre 2018 » ; lancement du fonds 01 juillet 1985. Encours laissé vide : la factsheet FR du 30/06/2026 écrit « Encours du fonds GBP14,4M », montant incohérent (la factsheet EN du 31/08/2026, non retenue, écrit « Fund size GBP 13.7 bn ») ; probable erreur d'unité, non reprise. Gérant : « Liquidity Team » (équipe). Frais de gestion = « Commission de gestion annuelle » 0,20 % ; frais courants 0,23 % (KID et factsheet). Indice : SONIA choisi comme indice de référence de l'objectif → retenu (avant le 01/06/2021 : LIBID GBP 1 semaine). Duration non écrite (WAMA 58 days = échéance moyenne pondérée, WALA 78 days) ; qualité moyenne des émetteurs non écrite (objectif de notation AAA du fonds, profil de crédit S&P ci-dessous). SFDR article 8 (factsheet et KID). Allocations : Maturités = « Profil d'échéance en jours » (libellés en jours) ; Notations = « Profil de crédit » (notations long terme S&P uniquement) ; Instruments = « Type d'instrument ».",
+ "factsheet_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_FR_2026-06-30.pdf",
+ "kid_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__KID_FR_2026-05-07.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1-2",
+  "politique_fr": "factsheet p.1-2",
+  "source_politique": "factsheet p.1-2"
+ },
+ "allocations": [
+  {
+   "type": "Pays",
+   "libelle": "CANADA",
+   "pct": "17.4"
+  },
+  {
+   "type": "Pays",
+   "libelle": "FRANCE",
+   "pct": "15.5"
+  },
+  {
+   "type": "Pays",
+   "libelle": "JAPON",
+   "pct": "13.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "CHINE",
+   "pct": "8.3"
+  },
+  {
+   "type": "Pays",
+   "libelle": "ROYAUME-UNI",
+   "pct": "8.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "SINGAPOUR",
+   "pct": "7.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "SUÈDE",
+   "pct": "6.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "AUSTRALIE",
+   "pct": "6.9"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Autres",
+   "pct": "16.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1",
+   "pct": "27.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2 - 7",
+   "pct": "12.6"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "8 - 30",
+   "pct": "4.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "31 - 60",
+   "pct": "7.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "61 - 90",
+   "pct": "18.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "91 - 180",
+   "pct": "13.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "181 - 365",
+   "pct": "15.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA+",
+   "pct": "0.7"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "5.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA-",
+   "pct": "32.0"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A+",
+   "pct": "36.5"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "24.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Certificat de dépôt",
+   "pct": "50.4"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Dépôt à terme",
+   "pct": "20.4"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Effets de commerce",
+   "pct": "11.8"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligation à taux variable",
+   "pct": "7.1"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Effets de commerce adossés à des actifs (ABCP)",
+   "pct": "5.4"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Prise en pension",
+   "pct": "4.9"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Liquidités",
+   "pct": "0.0"
+  }
+ ]
+}

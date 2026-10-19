@@ -1,0 +1,314 @@
+{
+ "n": "478",
+ "isin": "LU1490785505",
+ "nom": "DNCA INVEST SERENITE PLUS B EUR",
+ "maison": "DNCA FINANCE",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2025-06-23",
+ "factsheet_fichier": "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/DNCA_FINANCE/LU1490785505/LU1490785505__KID_FR_2025-06-23.pdf",
+ "date_creation": "2016-11-03",
+ "devise": "EUR",
+ "type_fonds": "Obligataire (zone euro court terme)",
+ "compartiment": "Compartiment de DNCA INVEST Société d'investissement à capital variable (SICAV) de droit luxembourgeois ayant la forme d’une Société Anonyme",
+ "gerants": "Baptiste PLANCHARD, Ismaël LECANU, Jean-Marc FRELET, Nolwenn LE ROUX",
+ "encours_millions": "499",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.08",
+ "sri": "2",
+ "indice": "Bloomberg Euro Aggregate 1-3 year bond",
+ "classification": "Défensif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "BBB",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. Les investissements dans des OPC comportent des risques, notamment le risque de perte en capital ayant pour conséquence la perte de tout ou partie du montant initialement investi.",
+ "politique_fr": "Objectif de gestion\nLe Compartiment cherche à surperformer l’indice Bloomberg Euro-Aggregate 1-3 ans calculé avec coupons réinvestis sur la période d’investissement recommandée. L’attention des investisseurs est attirée sur le fait que le style de gestion est discrétionnaire et intègre des critères environnementaux, sociaux/sociétaux et de gouvernance (ESG).\nPour atteindre son objectif d’investissement, la stratégie d’investissement s’appuie sur une gestion discrétionnaire active.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Date de création « 03/11/2016 » (informations administratives de la part B, sous son code ISIN). Encours = « Actif net (m€) 499 ». Frais : pas de commission de gestion séparée ; frais courants = KID (23/06/2025, le plus récent trouvé) « Frais de gestion et autres frais administratifs et d'exploitation » 1,08 % ; la factsheet du 30/09/2026 indique 1,04 % ; commission liée aux résultats 0,18 %. Indice : objectif de surperformer le Bloomberg Euro-Aggregate 1-3 ans ; nom des informations administratives retenu. Duration laissée vide : deux valeurs, « Sensibilité brute 1,96 » et « Sensibilité nette 2,22 » (maturité moyenne 2,36 ans). Qualité = « Note moyenne BBB ». Gérants : « , CFA » retiré après Baptiste PLANCHARD, Jean-Marc FRELET et Nolwenn LE ROUX. SFDR article 8, aucun % d'investissements durables écrit. Positions = 10 principales positions (total 20,54 %). Zones : colonne Fonds seulement ; « Autres pays » à « - » non repris ; total 97,2 % tel qu'écrit. Classes d'actifs telles qu'écrites (75,200 % etc.). Instruments = « Composition et indicateurs du portefeuille obligataire » (colonne Poids). Maturités = « Poche obligataire (base 100) ». Répartition par notation non reprise (graphique sans étiquettes exploitables). Non repris : contributions à la performance, données ESG. Corrigé (factsheet 30/09/2026) : encours 447 → 499 ; frais courants 1.04 → 1.08 ; duration 1.82 → (vide).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.6",
+  "devise": "factsheet p.6",
+  "compartiment": "factsheet p.7",
+  "gerants": "factsheet p.6",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.6",
+  "sfdr": "factsheet p.6",
+  "qualite_emetteurs": "factsheet p.1",
+  "disclaimer": "factsheet p.7",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Italy Buoni Poliennali Del Tesoro 2.8% 2029",
+   "pct": "2.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "European Union 3.13% 2030",
+   "pct": "2.66"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spain Government Bond 1.25% 2030",
+   "pct": "2.64"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spain Government Bond 2.4% 2028",
+   "pct": "2.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spain I/L 2030",
+   "pct": "2.17"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Italy Buoni Poliennali Del Tesoro 2.2% 2028",
+   "pct": "1.76"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intesa Sanpaolo SpA PERP",
+   "pct": "1.62"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Italy Buoni Poliennali Del Tesoro 3.85% 2029",
+   "pct": "1.51"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banca Monte dei Paschi di Siena SpA 3.38% 2030",
+   "pct": "1.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banca Monte dei Paschi di Siena SpA 7.71% 2028",
+   "pct": "1.41"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Italie",
+   "pct": "22.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espagne",
+   "pct": "19.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "13.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "7.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Etats-Unis",
+   "pct": "6.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "3.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "2.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "2.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "2.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Belgique",
+   "pct": "1.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Norvège",
+   "pct": "1.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "1.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "1.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Hongrie",
+   "pct": "1.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pologne",
+   "pct": "1.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "République Tchèque",
+   "pct": "1.2"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Israël",
+   "pct": "1.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Irlande",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Luxembourg",
+   "pct": "0.5"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Slovénie",
+   "pct": "0.4"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autriche",
+   "pct": "0.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Portugal",
+   "pct": "0.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Finlande",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "OPCVM",
+   "pct": "2.1"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Liquidités et autres",
+   "pct": "1.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations crédit",
+   "pct": "75.200"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'état",
+   "pct": "21.200"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "OPCVM",
+   "pct": "2.100"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités et autres",
+   "pct": "1.500"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux fixe",
+   "pct": "75.60"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations hybrides",
+   "pct": "10.73"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations taux variable",
+   "pct": "5.62"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations indexées sur l'inflation",
+   "pct": "2.57"
+  },
+  {
+   "type": "Instruments",
+   "libelle": "Obligations convertibles",
+   "pct": "1.90"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0 - 6 mois",
+   "pct": "8.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "6 - 12 mois",
+   "pct": "7.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "1 - 2 ans",
+   "pct": "27.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "2 - 3 ans",
+   "pct": "23.9"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "3 - 4 ans",
+   "pct": "16.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "4 - 5 ans",
+   "pct": "14.5"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "> 5 ans",
+   "pct": "1.1"
+  }
+ ]
+}

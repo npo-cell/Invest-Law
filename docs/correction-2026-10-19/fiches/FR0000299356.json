@@ -1,0 +1,103 @@
+{
+ "n": "739",
+ "isin": "FR0000299356",
+ "nom": "NORDEN EUR",
+ "maison": "Lazard Frères Gestion",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-26",
+ "date_creation": "1995-01-02",
+ "devise": "EUR",
+ "type_fonds": "Actions pays nordiques",
+ "compartiment": "Organisme de Placement Collectif en Valeurs Mobilières (OPCVM), Société d'Investissement à Capital Variable (SICAV)",
+ "gerants": "Thomas Brenier",
+ "encours_millions": "282.73",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.98",
+ "frais_courants": "2.15",
+ "sri": "4",
+ "indice": "MSCI Nordic 10/40 Index",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures et s'apprécient à l'issue de la durée de placement recommandée.",
+ "politique_fr": "OBJECTIF DE GESTION ET STRATÉGIE D'INVESTISSEMENT\nL’objectif de gestion vise à obtenir sur la durée de placement recommandée de 5 ans, une performance nette de frais supérieure à celle de l'indicateur de référence simple suivant : MSCI Nordic 10/40 Index. L’indicateur de référence est exprimé en EUR.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : factsheet 30/09/2026 en français (au lieu de l’anglaise d’août) ; encours 282.57 → 282.73 (« Actif net du fonds 282.73 M€ ») ; disclaimer remplacé par celui de la factsheet (aucune phrase sur l’absence de protection) ; politique FR remplacée par le bloc « Objectif de gestion et stratégie d'investissement » de la factsheet (l’ancien texte venait du prospectus) ; politique EN supprimée ; gérant ajouté ; compartiment refait depuis le KID (SICAV autonome, pas un compartiment). Date de création : « Date de création 02/01/1995 » (1re VL de la part le même jour). Frais : factsheet « Frais de gestion (max) 1.98% » (taux maximum) et « Frais courants DIC PRIIPS 2.15% » ; KID « Frais de gestion et autres coûts administratifs et d’exploitation 2,15% ». Indice : objectif de performance (KID et factsheet) ; la factsheet indique « MSCI NORDIC COUNTRIES NR EUR jusqu'au 30 mars 24 puis MSCI Nordic 10-40 NR EUR ». Gérant : « Thomas BRENIER » (nom en majuscules dans la factsheet : écart du contrôle automatique dû à la casse). SFDR article 8, aucun % durable écrit. Le KID nomme la part « Norden - Action RC EUR ». Allocations : 10 principaux titres (colonne « Poids » du fonds) ; les répartitions géographique, sectorielle, par capitalisation et par devise sont des graphiques sans valeurs extractibles.",
+ "factsheet_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/LAZARD_FR_RES_GESTION/FR0000299356/FR0000299356__KID_FR_2026-06-26.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NOVO-NORDISK A/S -B-",
+   "pct": "6.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SPOTIFY TECHNOLOGY SA (NOMI.)",
+   "pct": "5.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ATLAS COPCO AB -B-",
+   "pct": "5.5"
+  },
+  {
+   "type": "Positions",
+   "libelle": "VOLVO AB -B-",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOKIA OYJ",
+   "pct": "4.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NORDEA BANK ABP",
+   "pct": "4.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EPIROC AB -B-",
+   "pct": "3.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SKANDINAVISK.ENSKILD.BANKEN-A-",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HEXAGON AB -B-",
+   "pct": "3.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVONESIS AS -B-",
+   "pct": "3.6"
+  }
+ ]
+}

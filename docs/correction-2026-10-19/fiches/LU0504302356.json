@@ -1,0 +1,114 @@
+{
+ "n": "843",
+ "isin": "LU0504302356",
+ "nom": "TRIODOS IMPACT MIXED NEUTRAL EUR R",
+ "maison": "Triodos Investment Management B.V.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-08",
+ "date_creation": "2010-10-06",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (mixte neutre, impact)",
+ "compartiment": "Compartiment de Triodos SICAV I, sicav de droit luxembourgeois",
+ "gerants": "Rob van Boeijen",
+ "encours_millions": "507.46424",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.50",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "9",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les rendements indiqués ci-dessus concernent les années précédentes et ne constituent pas une indication fiable des performances futures.",
+ "politique_fr": "Le fonds vise à accroître la valeur de votre investissement à moyen et long terme, tout en cherchant à maximiser l'impact positif sur la société et l'environnement. Le fonds a pour objectif l'investissement durable, comme le stipule l'article 9 du SFDR. Le fonds investit dans une combinaison équilibrée d'obligations (y compris des obligations à impact et d'autres obligations d'entreprises et d'État) et d'actions de sociétés de pays développés. Ces entreprises et le produit des obligations d'impact et d'entreprise doivent contribuer à, ou financer des projets dans au moins une des transitions suivantes (telles que définies par Triodos) : transition des ressources, transition énergétique, transition alimentaire, transition sociétale ou transition du bien-être.\n\nLes émetteurs qui ne respectent pas les normes de durabilité de Triodos sont exclus des investissements. Les obligations peuvent être émises par des sociétés ou des gouvernements. Toutes les obligations doivent être de qualité \"investment grade\" et libellées en EUR. Le rendement du fonds est déterminé d'une part par les revenus des intérêts et des dividendes provenant des investissements, diminués des coûts de gestion du fonds, et d'autre part par les variations de cours des investissements, y compris les effets de change pour les actions. Le rendement du fonds dépend dans une large mesure de l'évolution des taux d'intérêt et des devises ainsi que des mouvements du marché. Le fonds est géré activement. Il compare ses rendements à ceux des indices de référence MSCI World Index (50%), iBoxx Euro Corporates Overall Total Return (30%) et iBoxx Euro Eurozone Sovereign 1-10 Total Return (20%), qu’il n’a pas pour objectif de reproduire ni de surperformer. Le fonds peut s’écarter de l’indice de référence car il n’investit que dans des sociétés et des obligations répondant à des critères de durabilité stricts.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet française « R-cap | Fiche d’information septembre 2026 ». Date de création = « Date d’introduction 6/10/2010 ». Encours « Actif du compartiment, situation fin septembre 2026 EUR 507 464 240 » (converti en millions). Frais : factsheet et KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,50 % → frais courants ; pas de frais de gestion séparés. Indice vide : le fonds « compare ses rendements » à « MSCI World Index (50%), iBoxx Euro Corporates Overall Total Return (30%) et iBoxx Euro Eurozone Sovereign 1-10 Total Return (20%) », « qu’il n’a pas pour objectif de reproduire ni de surperformer ». Gérant : la factsheet française ne cite que « Fund Manager Rob van Boeijen ». Pas de duration ni de notation moyenne dans la factsheet française. SFDR article 9 (factsheet et KID), aucun % d'investissements durables écrit. Classification Equilibré : mixte actions 47,9 % / obligations 47,7 %, SRI 3. Corrigé : encours 516.79 → 507.46424 (factsheet 30/09/2026) ; frais de gestion 1.25 → vide (non écrit dans la factsheet française ni le KID) ; gérants « Rob van Boeijen, Arjan Palthe, Jeroen van Herwaarden » → « Rob van Boeijen » (seul nom de la factsheet française) ; indice → vide (comparaison seulement) ; politique du site (rédigée) → texte de la factsheet ; politique EN supprimée.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "PALO ALTO NETWOR",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "TAIWAN SEMIC-ADR",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA CORP",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "KLA CORP",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASML HOLDING NV",
+   "pct": "1.6"
+  },
+  {
+   "type": "Positions",
+   "libelle": "EUROPEAN UNION 0% 2028-06-02",
+   "pct": "0.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HAMBURGER HOCHBA 0.125% 2031-02-24",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "REP OF AUSTRIA 2.9% 2029-05-23",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NETHERLANDS GOVT 0.5% 2040-01-15",
+   "pct": "0.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "COLOPLAST FINANC 2.75% 2030-05-19",
+   "pct": "0.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "47.9"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "47.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Fonds d' investissement",
+   "pct": "4.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Liquidités",
+   "pct": "0.4"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/TRIODOS_INVESTMENT_MANAGEMENT_B_V/LU0504302356/LU0504302356__KID_FR_2026-04-08.pdf"
+}

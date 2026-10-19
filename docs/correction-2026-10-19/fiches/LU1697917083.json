@@ -1,0 +1,203 @@
+{
+ "n": "536",
+ "isin": "LU1697917083",
+ "nom": "FFG GLOBAL FLEXIBLE CONVICTIONS R EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-10",
+ "date_creation": "2018-02-28",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs flexible",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "",
+ "encours_millions": "166.87",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.6",
+ "sri": "3",
+ "indice": "Aucun",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures.",
+ "politique_fr": "L’objectif du compartiment est la recherche d’un rendement sur le moyen terme supérieur à celui d’un placement obligataire en Euro. A cette fin, le Compartiment est investi en actions, obligations, ETCs, instruments du marché monétaire ou en liquidités. Il peut également investir dans des Organismes de Placement Collectifs (OPC) pour un maximum de 10%. Le poids de ces différentes classes d’actifs peut varier significativement à travers le temps. Le fonds est investi sans restriction géographique, sectorielle et monétaire. Le fonds est géré de manière active sans considération d’un indice de référence.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : frais courants 1.62 → 1.6 (KID 10/02/2026 « 1,6% » ; factsheet 1,62 %) ; gérant « Guy Wagner » retiré (seul le gestionnaire BLI - Banque de Luxembourg Investments s.a. est nommé) ; indice « n/a » → Aucun (« géré de manière active sans considération d’un indice de référence ») ; % durable 79 retiré (minimum de 5 % d’actifs durables seulement, aucune part effective). Inchangés et confirmés : encours 166.87 (« Actifs nets du fonds € 166 870 460,20 », factsheet 31/08/2026 ; part R € 118 128 065,93), lancement de la part 28/02/2018, frais de gestion 1,25 % (max.), SRI 3. SFDR article 8. Classification Equilibré conservée : fonds flexible SRI 3, mais 83,5 % d’actions au 31/08/2026. Factsheet la plus récente : 31/08/2026 ; valeurs vérifiées sur l’image. Allocations (page 2) : allocation d’actifs, répartition géographique et sectorielle des actions (valeurs entières écrites « 09% », « 04% »…), 10 premières lignes.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "83.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations",
+   "pct": "3.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Or",
+   "pct": "12.5"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Cash",
+   "pct": "0.7"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "44"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "24"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du nord",
+   "pct": "9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie développée",
+   "pct": "11"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "11"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "11"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "11"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services publics",
+   "pct": "0"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SAP SE",
+   "pct": "3.89"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sumitomo Metal Mining Co Ltd",
+   "pct": "3.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconduct Mfg Co Ltd",
+   "pct": "3.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Roche Holding Ltd Partizsch",
+   "pct": "3.04"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Relx Plc",
+   "pct": "2.99"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Tencent Holdings Ltd",
+   "pct": "2.53"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wheaton Precious Metals Corp Reg",
+   "pct": "2.49"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Canadian National Railway Co",
+   "pct": "2.45"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Larrainvial Asset Mgt Scv Gavekal Latam Loc Ccy",
+   "pct": "2.26"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Alibaba Group Holding Ltd Reg",
+   "pct": "2.25"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917083/LU1697917083__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU1697917083/LU1697917083__KID_FR_2026-02-10.pdf"
+}

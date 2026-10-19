@@ -1,0 +1,172 @@
+{
+ "n": "649",
+ "isin": "LU2752693106",
+ "nom": "JSS SUSTAINABLE EQ STRATEGIC MATERIALS P USD",
+ "maison": "J. Safra Sarasin Fund Management (Luxembourg) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-08-17",
+ "date_creation": "2024-09-24",
+ "devise": "USD",
+ "type_fonds": "Actions thématiques (matériaux stratégiques)",
+ "compartiment": "a sub-fund of JSS Investmentfonds II",
+ "gerants": "Daniel Lurch, Léna Jacquelin, Asad Farid",
+ "encours_millions": "197.06",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.50",
+ "frais_courants": "1.91",
+ "sri": "4",
+ "indice": "MSCI World NR Index (USD)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les résultats obtenus par le passé n'offrent aucune garantie quant aux rendements futurs. La performance représentée ne tient pas compte de commissions et de coûts éventuels prélevés lors de la souscription et du rachat de parts.",
+ "politique_fr": "Le JSS Sustainable Equity - Strategic Materials vise une croissance du capital à long terme via des actions mondiales. Le compartiment investit au moins 75% directement dans des actions d'entreprises de la chaîne de valeur des matériaux stratégiques (dont producteurs et utilisateurs finaux). La transition écologique nécessite des matériaux essentiels pour les technologies bas carbone et impose une réduction de l'intensité des émissions. Les investissements infrastructurels, technologiques et agricoles alimenteront la demande de matériaux critiques. Ce produit intègre les critères ESG tout au long du processus d’investissement obligataire afin de réduire les expositions controversées, d’aligner le portefeuille sur les normes internationales, d’atténuer les risques de durabilité et d’exploiter les opportunités liées aux tendances ESG. Le compartiment est géré activement sans réplication d'un indice de référence. Toutefois, le compartiment est géré en référence à MSCI World NR Index (l'\" Indice de référence\").",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 202.69 → 197.06 M (« Total des actifs en mio. 197.06 », factsheet 30/09/2026 ; devise non écrite à côté, monnaie de compte USD ; fonds ou part non précisé) ; classification Dynamique → Agressif (actions thématiques/sectorielles, matériaux) ; catégorie vidée. Frais de gestion 1,50 % (factsheet) ; frais courants 1,91 % (KID anglais « Management fees and other administrative or operating costs », identique à la factsheet). Indice : compartiment « géré en référence à » l'indice (factsheet et KID) ; nom du tableau de la factsheet, avec la mention « Nouveau depuis 01.04.2026 ». SFDR article 8 (factsheet et KID). KID disponible en anglais seulement ; compartiment repris du KID anglais (« a sub-fund of JSS Investmentfonds II ») ; confirmé par les mentions légales de la factsheet (« JSS Investmentfonds II SICAV (le «Fonds») »). Positions, répartition géographique et sectorielle : factsheet 30/09/2026.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "compartiment": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "Newmont Mining",
+   "pct": "5.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Wheaton Precious Metals Corp",
+   "pct": "4.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rio Tinto",
+   "pct": "4.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Agnico Eagle Mines Ltd",
+   "pct": "3.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Freeport McMor Copp & Gold -B-",
+   "pct": "3.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Anglo American Plc",
+   "pct": "3.72"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Norsk Hydro ASA",
+   "pct": "2.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Lundin Mining Corp",
+   "pct": "2.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Infineon Technologies N",
+   "pct": "2.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Sandvik",
+   "pct": "2.17"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "États-Unis",
+   "pct": "35.52"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Canada",
+   "pct": "11.84"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "10.00"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "7.99"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "4.98"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Australie",
+   "pct": "3.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Danemark",
+   "pct": "3.76"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "22.15"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériels",
+   "pct": "65.66"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "20.66"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Informatique",
+   "pct": "3.29"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "3.18"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Approvisionnement",
+   "pct": "2.40"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation",
+   "pct": "1.48"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "3.34"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752693106/LU2752693106__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/J_SAFRA_SARASIN_FUND_MANAGEMENT_LUXEMBOURG_S_A/LU2752693106/LU2752693106__KID_EN_2026-08-17.pdf"
+}

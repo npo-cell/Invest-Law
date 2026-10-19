@@ -1,0 +1,103 @@
+{
+ "n": "40",
+ "isin": "LU0252963383",
+ "nom": "(I/C)BGF WORLD MINING FUND D2 EUR",
+ "maison": "BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-04-29",
+ "date_creation": "2006-05-19",
+ "devise": "EUR",
+ "type_fonds": "Actions sectorielles (mines et métaux)",
+ "compartiment": "Le Fonds est un compartiment de BlackRock Global Funds, une société à compartiments constituée au Luxembourg, agréée par la Commission de Surveillance du Secteur Financier en tant qu’Organisme de Placement Collectif en Valeurs Mobilières (« OPCVM »).",
+ "gerants": "Evy Hambro, Olivia Markham",
+ "encours_millions": "7160.98",
+ "encours_devise": "USD",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.00",
+ "frais_courants": "1.32",
+ "sri": "5",
+ "indice": "MSCI ACWI Metals and Mining 30% Buffer 10/40 Index",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures.",
+ "politique_fr": "Le Fonds vise à maximiser le rendement sur votre investissement, en combinant croissance du capital et revenu des actifs du Fonds.\n\nLe Fonds investit à l’échelle mondiale au moins 70 % du total de son actif en titres de participation (par ex. des actions) de sociétés qui ont pour activité principale l’exploitation minière et/ou la production de métaux et/ou minéraux de base et précieux.\n\nLe Fonds ne détient pas d’or ou de métal physique.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé (factsheet 30/09/2026) : encours_millions 7908.61 → 7160.98 ; encours_date 2026-08-31 → 2026-09-30. Date de création = « Date de lancement de la Catégorie d'Actions : 19-mai-2006 » (fonds lancé le 21-mars-1997). Encours « Encours sous gestion (M) : 7.160,98 USD » au 30-sept.-2026. Frais de gestion = « Commission de gestion annuelle : 1,00% » ; frais courants = KID « Frais de gestion et autres frais administratifs et d’exploitation » 1,32 % (identique factsheet). Indice « MSCI ACWI Metals and Mining 30% Buffer 10/40 Index » (KID : construction du portefeuille, gestion des risques, comparaison de performance) ; la factsheet écrit « Contrainte 1 : MSCI ACWI Metals & Mining 30% Buffer 10/40 (1994) EUR Net TR Currency (EUR) ». SFDR : « Classification SFDR : Autre » → vide. Politique : « Aperçu du fonds » de la factsheet du 30/09/2026 (plus court que celui de la factsheet précédente ; texte complet dans la section « Objectifs » du KID). Allocations : seules les 10 principales positions ; les graphiques « Répartition géographique », « Répartition des secteurs » et « Capitalisation boursière » n'ont pas d'étiquettes extractibles en texte et ne sont pas repris.",
+ "factsheet_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/BLACKROCK_INVESTMENT_MANAGEMENT_UK_LIMITED/LU0252963383/LU0252963383__KID_FR_2026-04-29.pdf",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.2",
+  "devise": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.2",
+  "encours_devise": "factsheet p.2",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.2",
+  "frais_courants": "KID p.3",
+  "sri": "KID p.2",
+  "indice": "factsheet p.1",
+  "disclaimer": "factsheet p.3",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "GLENCORE PLC",
+   "pct": "7.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "RIO TINTO PLC",
+   "pct": "6.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AGNICO EAGLE MINES LTD (ONTARIO)",
+   "pct": "5.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ANGLO AMERICAN PLC",
+   "pct": "5.52"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NEWMONT CORPORATION",
+   "pct": "5.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BARRICK MINING CORP",
+   "pct": "4.95"
+  },
+  {
+   "type": "Positions",
+   "libelle": "BHP GROUP LTD",
+   "pct": "4.88"
+  },
+  {
+   "type": "Positions",
+   "libelle": "FREEPORT-MCMORAN INC",
+   "pct": "4.77"
+  },
+  {
+   "type": "Positions",
+   "libelle": "WHEATON PRECIOUS METALS CORP",
+   "pct": "4.42"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NUCOR CORPORATION",
+   "pct": "4.04"
+  }
+ ]
+}

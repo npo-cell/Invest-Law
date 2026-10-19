@@ -1,0 +1,185 @@
+{
+ "n": "520",
+ "isin": "LU1111642820",
+ "nom": "ELEVA EUROPEAN SELECTION A2 EUR",
+ "maison": "Eleva Capital SAS",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-03-13",
+ "date_creation": "2015-06-16",
+ "devise": "EUR",
+ "type_fonds": "Actions Europe",
+ "compartiment": "Compartiment d'Eleva UCITS Fund",
+ "gerants": "Eric Bendahan",
+ "encours_millions": "9422.13",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "2",
+ "frais_courants": "2.1",
+ "sri": "4",
+ "indice": "STOXX Europe 600 Net Return",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "63.65",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent en rien des performances futures. L'OPC ne bénéficie d’aucune garantie ni protection, il se peut donc que le capital initialement investi ne soit pas intégralement restitué.",
+ "politique_fr": "Le compartiment vise à obtenir des rendements ajustés au risque supérieurs à long terme et une croissance du capital en investissant principalement dans des actions et des titres liés à des actions européens.\n\nLe compartiment promeut une combinaison de caractéristiques environnementales, sociales et de gouvernance et, bien qu'il n'ait pas pour objectif un investissement durable, il aura une proportion minimale de 30 % d'investissements durables. Il s'agit d'un produit relevant de l'article 8 du SFDR qui intègre des critères ESG contraignants dans son processus de gestion des investissements.\n\nL'objectif non financier principal du Compartiment est d'investir dans des sociétés ayant de bonnes pratiques ESG (c'est-à-dire les meilleures de l'univers) ou des sociétés qui s'améliorent en matière de pratiques ESG (c'est-à-dire qui font de leur mieux), tout en excluant les sociétés qui n'auraient pas une note ESG minimale absolue (40/100). Le Compartiment cherche également à aider les entreprises à améliorer leurs pratiques ESG en engageant un dialogue régulier avec elles et en partageant avec elles les domaines à améliorer sur des thèmes ESG spécifiques. La note ESG moyenne pondérée du Compartiment doit être supérieure (c'est-à-dire meilleure) à la note ESG moyenne de son univers d'investissement initial.\n\nÀ partir d'un univers large composé principalement de toutes les sociétés (toutes capitalisations boursières, tous secteurs) ayant leur siège social en Europe (c'est-à-dire dans l'Espace économique européen, au Royaume-Uni et en Suisse), le Compartiment se concentre sur les sociétés répondant aux critères financiers suivants : (i) liquidité, mesurée par la liquidité quotidienne de chaque société ; et (ii) capitalisation boursière minimale fixée à 5 milliards d'euros, sauf si la société présente un bilan solide et une croissance suffisante de son chiffre d'affaires.\n\nLa Société de gestion cherchera à investir dans des entreprises qu'elle considère comme ayant des perspectives de croissance attractives sur une période de trois à cinq ans qui ne se reflètent pas dans leur cours actuel ou qui ont des multiples de valorisation faibles susceptibles de revenir à la moyenne au fil du temps. Elle cherchera à se concentrer sur quatre types particuliers d'entreprises pour investir les actifs du Compartiment : (i) les entreprises familiales ou appartenant à des fondations, gérées selon une approche patrimoniale ; (ii) les entreprises issues de secteurs matures que la Société de gestion considère comme ayant des modèles économiques différenciés ou innovants ; (iii) les entreprises pour lesquelles la société de gestion estime qu'il existe un décalage entre la perception des fondamentaux de l'entreprise par le marché du crédit et celle du marché des actions ; et (iv) les entreprises qui, selon la société de gestion, connaissent des changements importants, notamment par le biais d'une restructuration, d'une consolidation, de la nomination d'une nouvelle direction ou de la restructuration du bilan. Au moins 85 % du portefeuille sera investi dans des entreprises répondant à l'une des quatre catégories ci-dessus.\n\nLe Compartiment peut utiliser des IFD (instruments financiers dérivés) à titre accessoire, tels que des contrats Futures sur indices ou sur secteurs, des options sur titres et éventuellement des CFD, à des fins de couverture ou de gestion efficace du portefeuille. Cela ne doit pas avoir pour conséquence de fausser de manière significative ou durable la politique ESG du Compartiment.\n\nLe Compartiment est géré activement en référence à l'indice de référence Stoxx Europe 600 Net Return. Les positions du Compartiment et les pondérations des titres dans le portefeuille s'écarteront donc de la composition de l'indice de référence pertinent. L'indice de référence pertinent n'est pas conforme aux facteurs ESG pris en considération par le Compartiment.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : encours 9563.33 → 9422.13 (« Encours du compartiment 9 422 126 017 € », factsheet 30/09/2026) ; % durable 65 → 63.65 (« Investissements durables (% VNI, conforme à SFDR art. 2.17) 63.65% », factsheet p.3) ; indice « STOXX Europe 600 NR EUR » → libellé de la factsheet. Politique prise du KID (13/03/2026) : la factsheet n'a que trois puces d'objectif. Date de création = « Date de lancement de la part : 16/06/2015 » (compartiment 26/01/2015). Frais : factsheet frais de gestion 2 % ; KID « 2,1 % ». Indice : KID « géré activement en référence à l'indice de référence Stoxx Europe 600 Net Return » (et commission de performance par rapport à cet indice) ; factsheet « Indice de référence : STOXX Europe 600 Net Return - SXXR ». SFDR article 8 ; proportion minimale de 30 % d'investissements durables (KID). Allocations : colonne « ELEVA European Selection » (% de la poche actions) lue sur l'image de la page 2 ; capitalisation boursière (graphique : 10,9 % / 89,1 %, tranches non attribuables avec certitude) non reprise.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "disclaimer": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "durable_pct": "factsheet p.3",
+  "compartiment": "KID p.1",
+  "sfdr": "KID p.1",
+  "sri": "KID p.1",
+  "politique_fr": "KID p.1",
+  "source_politique": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "ASML Holding NV",
+   "pct": "5.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "UniCredit SpA",
+   "pct": "3.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Banco Santander SA",
+   "pct": "3.35"
+  },
+  {
+   "type": "Positions",
+   "libelle": "HSBC Holdings PLC",
+   "pct": "3.32"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Rolls-Royce Holdings PLC",
+   "pct": "3.17"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Royaume-Uni",
+   "pct": "22.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "France",
+   "pct": "19.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suisse",
+   "pct": "11.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays-Bas",
+   "pct": "10.6"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Italie",
+   "pct": "8.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Allemagne",
+   "pct": "7.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Espagne",
+   "pct": "6.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Grèce",
+   "pct": "3.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Suède",
+   "pct": "2.9"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Autres",
+   "pct": "9.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Financières",
+   "pct": "26.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrielles",
+   "pct": "22.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "12.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologie",
+   "pct": "10.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "7.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Utilities",
+   "pct": "6.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "5.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. de base",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cons. Disc.",
+   "pct": "2.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Télécoms",
+   "pct": "1.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1111642820/LU1111642820__KID_FR_2026-03-13.pdf"
+}

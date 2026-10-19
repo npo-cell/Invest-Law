@@ -1,0 +1,143 @@
+{
+ "n": "464",
+ "isin": "LU1103786700",
+ "nom": "CPR INVEST SILVER AGE A EUR",
+ "maison": "CPR Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-01",
+ "factsheet_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103786700/LU1103786700__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103786700/LU1103786700__KID_FR_2026-09-01.pdf",
+ "date_creation": "2014-08-29",
+ "devise": "EUR",
+ "type_fonds": "Actions européennes (thématique vieillissement)",
+ "compartiment": "Actions d’un Compartiment de CPR Invest, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+ "gerants": "",
+ "encours_millions": "113.77",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "2.15",
+ "sri": "4",
+ "indice": "",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures. Les investissements sont soumis aux fluctuations de marché et peuvent varier à la hausse comme à la baisse.",
+ "politique_fr": "STRATEGIE D’INVESTISSEMENT\nL'objectif de gestion du compartiment consiste à obtenir une performance supérieure à celle des marchés actions européens sur le long terme, 5 ans minimum, en tirant parti de la dynamique des valeurs européennes liées au vieillissement de la population. A titre de diversification, le fonds pourra, dans la limite de 25%, investir sur des valeurs d'autres zones géographiques. Le compartiment est nourricier du FCP de droit français CPR Silver Age.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Compartiment nourricier du FCP français CPR Silver Age (fonds maître). Date de création = « Date création : 29/08/2014 » (factsheet de la part A EUR Acc, sans préciser part ou compartiment ; performances antérieures simulées sur le fonds maître). Encours = « Actif géré : 113,77 ( millions EUR ) ». Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 2,15% » (identique au KID) ; pas de frais de gestion séparés ; commission de surperformance : « Oui ». Indice laissé vide : factsheet « Indice Reference : 100% MSCI EUROPE », mais le KID précise qu’« aucun indice de référence pertinent ne peut être défini pour ce Fonds » et que l’indice ne sert qu’a posteriori (évaluation de la performance, commission de performance). SRI 4 (KID). SFDR article 8 (KID). Gérants : aucun nom dans les documents. Classification Agressif : actions thématiques (vieillissement de la population), SRI 4 — cas limite avec Dynamique. Allocations (composition du fonds maître) : positions = « Principales lignes en portefeuille » (hors OPC) ; secteurs = répartition thématique telle qu’écrite (total 89,0 %) ; répartition géographique non reprise (deux séries de chiffres, dont l’une ne totalise pas 100 %, sans attribution certaine au portefeuille). Corrigé (factsheet 30/09/2026) : indice 100% MSCI Europe → (vide) ; classification Dynamique → Agressif ; gérants Eric Labbé, Nicolas Picard → (vide).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "sfdr": "KID p.1",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "SIEMENS AG-REG",
+   "pct": "4.05"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SCHNEIDER ELECT SE",
+   "pct": "3.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ROCHE HLDG AG-GENUSS CHF",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ASTRAZENECA GBP",
+   "pct": "3.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ING GROEP NV",
+   "pct": "3.43"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ALLIANZ SE-REG",
+   "pct": "3.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIR LIQUIDE SA",
+   "pct": "2.81"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CIE FINANCIERE RICHEMO-A REG",
+   "pct": "2.71"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ABB LTD-REG",
+   "pct": "2.60"
+  },
+  {
+   "type": "Positions",
+   "libelle": "NOVARTIS AG-REG",
+   "pct": "2.35"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Epargne financière",
+   "pct": "25.59"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Pharmacie",
+   "pct": "20.83"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Robotique",
+   "pct": "12.01"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Autres",
+   "pct": "9.92"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Loisirs",
+   "pct": "9.57"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Equipements de santé",
+   "pct": "5.43"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Produits de soin",
+   "pct": "3.15"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Dépendance",
+   "pct": "1.33"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sécurité",
+   "pct": "1.17"
+  }
+ ]
+}

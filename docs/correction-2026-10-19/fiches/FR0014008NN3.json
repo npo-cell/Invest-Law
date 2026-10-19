@@ -1,0 +1,78 @@
+{
+ "n": "753",
+ "isin": "FR0014008NN3",
+ "nom": "OFI ENERGY STRATEGIC METALS R EUR",
+ "maison": "Ofi Asset Management",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-09-23",
+ "date_creation": "2022-06-08",
+ "devise": "EUR",
+ "type_fonds": "Matières premières (métaux)",
+ "compartiment": "compartiment Ofi Invest Energy Strategic Metals de la SICAV Global SICAV.",
+ "gerants": "Benjamin Louvet, Olivier Daguin, Marion Balestier",
+ "encours_millions": "781.49",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.81",
+ "frais_courants": "1.83",
+ "sri": "5",
+ "indice": "Aucun",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne préjugent pas des performances futures. La valeur d’un investissement dans l’OPC peut fluctuer à la hausse comme à la baisse.",
+ "politique_fr": "Orientation de gestion\nLe fonds vise à bénéficier du potentiel d'appréciation d'une sélection de métaux (aluminium, plomb, palladium, platine, argent, nickel, zinc, cuivre) par une exposition synthétique à l’indice « Basket Energy Strategic Metals Index», sans passer par des investissements directs dans des actions minières du secteur. Il propose une offre simple et transparente, assortie d'une couverture quotidienne contre le risque de change.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : SRI 6 → 5 (KID 23/09/2026 « classe de risque 5 sur 7 » ; case 5 sur la factsheet) ; encours 835.16 → 781.49 (« Actif net du fonds 781,49 M€ », factsheet 30/09/2026 ; part R : 129,24 M€) ; ajoutés : indice « Aucun » (KID : « Il n’y a pas d’indicateur de référence », le S&P GSCI Industrial Metals TR n’est cité qu’à titre d’information ; le fonds réplique l’indice de stratégie « Basket Energy Strategic Metals Index »), SFDR article 8, classification Agressif (matières premières), disclaimer ; type et compartiment refaits (KID : compartiment de la SICAV Global SICAV). Le fonds s’appelle « OFI Invest Energy Strategic Metals ». Date de création : « Date de création de la part 08/06/2022 ». Frais : factsheet « Frais de gestion maximum TTC 1,81% » et « Frais de gestion et autres frais administratifs et d'exploitation 1,83% » ; KID 1,83 %. Aucun % durable écrit. Allocations : principales lignes de titres de créances négociables (poche de trésorerie) ; l’exposition passe par un swap sur indice à 100,0 % (contreparties JPM/SG/GS/Citi) ; la « Composition de l'indice » (poids des métaux) n’est pas reprise car c’est une répartition de l’indice.",
+ "factsheet_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/OFI_ASSET_MANAGEMENT/FR0014008NN3/FR0014008NN3__KID_FR_2026-09-23.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "frais_gestion": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "Factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 28/10/2026",
+   "pct": "22.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 11/11/2026",
+   "pct": "21.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT BELGIUM KINGDOM OF (GOVERNMENT) 12/11/2026",
+   "pct": "14.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 25/11/2026",
+   "pct": "12.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "GOVT FRANCE (REPUBLIC OF) 09/12/2026",
+   "pct": "8.9"
+  }
+ ]
+}

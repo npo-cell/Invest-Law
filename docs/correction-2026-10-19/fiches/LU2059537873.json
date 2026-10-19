@@ -1,0 +1,193 @@
+{
+ "n": "535",
+ "isin": "LU2059537873",
+ "nom": "FFG GLOBAL EQUITY CONVICTIONS R EUR",
+ "maison": "Waystone Management Company (LUX) S.A",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-02-10",
+ "date_creation": "2021-09-01",
+ "devise": "EUR",
+ "type_fonds": "Actions internationales",
+ "compartiment": "un compartiment de FFG",
+ "gerants": "Ken Fisher, Jeffery Silk, William Glaser, Michael Hanson, Aaron Anderson",
+ "encours_millions": "54.39",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "1.70",
+ "frais_courants": "2.1",
+ "sri": "4",
+ "indice": "MSCI World Net Return en Euro",
+ "classification": "Dynamique",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "",
+ "politique_fr": "L’objectif d’investissement de ce compartiment géré activement est de surperformer l’indice MSCI World Net Return en Euro (« l’Indice de référence »).\n\nAfin d’atteindre son objectif d’investissement, le Compartiment investit principalement dans des actions et des titres liés à des actions d’émetteurs établis dans les pays représentés dans l’indice de référence, ou liés à ceux-ci. Le compartiment adopte une stratégie « concentrée », ce qui implique qu’il investit généralement dans un portefeuille de 20 à 50 actions à l’échelle mondiale. Le fonds pourra en outre investir jusqu’à 20 % de son actif total dans des actions et des titres liés à des actions d’émetteurs établis dans des pays non représentés dans l’indice de référence, et jusqu’à 10 % de son actif total dans des actions non cotées. Il peut enfin investir dans des OPC et OPCVM (y compris des ETF) et dans des espèces, des équivalents de trésorerie, des instruments du marché monétaire ou des obligations d’État ou d’entreprises, sous certaines conditions spécifiées dans le prospectus du Compartiment.\n\nL’indice de référence est utilisé à des fins de comparaison de performances, et l’univers d’investissement du Compartiment est principalement déterminé par l’indice de référence. Le Compartiment est géré de manière active, ce qui signifie que les décisions d’investissement sont prises de manière entièrement discrétionnaire. Par conséquent, les titres détenus en portefeuille peuvent s’écarter de l’indice de référence. Cet écart peut être important.\n\nSTRATÉGIE D’INVESTISSEMENT Le Compartiment adopte une approche « top-down », fondée sur une analyse fondamentale visant à identifier les pays et secteurs économiques les plus susceptibles d’offrir les meilleurs rendements attendus. Cette approche permet d’exploiter les inefficiences de marché repérées à partir d’analyses approfondies d’informations économiques, politiques et de marché.\n\nLa stratégie repose sur trois axes principaux : Exposition par pays : sélection des pays susceptibles de surperformer les autres au sein de l’indice de référence ; Exposition sectorielle : identification des secteurs ou industries les plus prometteurs ; Sélection des titres : choix d’actions et de titres liés aux actions offrant le potentiel de performance le plus élevé dans les pays et secteurs retenus.\n\nLe gestionnaire d’investissement utilise une multitude d’indicateurs ou de « facteurs déterminants » pour déterminer quels pays ou secteurs économiques doivent être sous-pondérés ou sur-pondérés par rapport à l’indice de référence. Le gestionnaire d’investissement effectue également une recherche fondamentale afin de déterminer quelles actions et quels titres liés aux actions sont les plus susceptibles de générer des rendements améliorés au sein d’une catégorie donnée.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Corrigé : encours 52.18 → 54.39 (« Actifs nets du fonds 54 393 940,66 € », factsheet 31/08/2026 ; part R : 49 217 931,90 €) ; date de création 2021-08-31 → 2021-09-01 (« Lancement de la part 01/09/2021 » ; stratégie 31/08/2021) ; indice « MSCI World NR EUR » → « MSCI World Net Return en Euro » (objectif : le surperformer ; aussi utilisé pour la comparaison des performances) ; gérants = membres du « Comité de politique d’investissement » de Fisher Asset Management (Ken Fisher, Jeffery Silk, William Glaser, Michael Hanson, Aaron Anderson) ; % durable 76 retiré (minimum de 5 % d’investissements durables seulement, aucune part effective) ; classification Agressif → Dynamique (actions internationales diversifiées, SRI 4). Frais : factsheet « 2,05% », « Dont Frais de Gestion (max.) 1,70% » ; KID 10/02/2026 « 2,1% ». SFDR article 8. Disclaimer : la factsheet ne contient pas d’avertissement sur les performances passées (seulement « Ce produit ne prévoyant pas de protection… » dans le texte du risque) → vide. Factsheet la plus récente : 31/08/2026 ; valeurs vérifiées sur l’image. Allocations (page 2, colonne du fonds en vert) : secteurs, zones géographiques et capitalisations des actions, 10 premières lignes.",
+ "sources": {
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
+  "frais_gestion": "factsheet p.1",
+  "politique_fr": "factsheet p.1",
+  "source_politique": "factsheet p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "factsheet p.2",
+  "compartiment": "KID p.1",
+  "sri": "KID p.1",
+  "frais_courants": "KID p.2",
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "NVIDIA Corp",
+   "pct": "5.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc Reg",
+   "pct": "4.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft Corp",
+   "pct": "3.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Morgan Stanley",
+   "pct": "3.33"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Citigroup Inc",
+   "pct": "3.25"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Mitsubishi UFJ Fin Group Inc",
+   "pct": "3.14"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bank of America Corp",
+   "pct": "2.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Merck & Co Inc",
+   "pct": "2.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Schneider Electric SE",
+   "pct": "2.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Goldman Sachs Group Inc",
+   "pct": "2.80"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "16.4"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Soins de santé",
+   "pct": "12.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l’information",
+   "pct": "27.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation discrétionnaire",
+   "pct": "5.9"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Consommation de base",
+   "pct": "4.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "5.2"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Finance",
+   "pct": "24.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Energie",
+   "pct": "0.0"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Amérique du Nord",
+   "pct": "65.8"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Europe",
+   "pct": "26.3"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Japon",
+   "pct": "8.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Asie développée hors Japon",
+   "pct": "0.0"
+  },
+  {
+   "type": "Zones géographiques",
+   "libelle": "Pays émergents",
+   "pct": "0.0"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Larges caps",
+   "pct": "93.7"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Moyennes caps",
+   "pct": "6.3"
+  },
+  {
+   "type": "Capitalisations",
+   "libelle": "Petites caps",
+   "pct": "0.0"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537873/LU2059537873__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/WAYSTONE_MANAGEMENT_COMPANY_LUX_S_A/LU2059537873/LU2059537873__KID_FR_2026-02-10.pdf"
+}

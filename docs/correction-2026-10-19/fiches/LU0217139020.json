@@ -1,0 +1,187 @@
+{
+ "n": "767",
+ "isin": "LU0217139020",
+ "nom": "PICTET PREMIUM BRANDS P EUR",
+ "maison": "Pictet Asset Management (Europe) S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-06-19",
+ "date_creation": "2005-05-31",
+ "devise": "EUR",
+ "type_fonds": "Actions thématiques (marques haut de gamme)",
+ "compartiment": "Compartiment d'une SICAV",
+ "gerants": "Caroline Reyl, Stéphane Destraz, Aline Reichenbach, David Barros",
+ "encours_millions": "1099",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "",
+ "frais_courants": "1.99",
+ "sri": "4",
+ "indice": "MSCI AC World (EUR)",
+ "classification": "Agressif",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "",
+ "qualite_emetteurs": "",
+ "disclaimer": "La performance passée ne saurait préjuger ou constituer une garantie des résultats futurs. La valeur et les revenus tirés des titres ou des instruments financiers mentionnés dans le présent document peuvent fluctuer à la hausse ou à la baisse, et il est possible que les investisseurs ne récupèrent pas la totalité du montant initialement investi.",
+ "politique_fr": "Objectifs\nAugmenter la valeur de votre investissement.\n\nIndice de référence\nMSCI AC World (EUR), un indice qui ne prend pas en considération les facteurs environnementaux, sociaux et de gouvernance (ESG). Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance.\n\nActifs en portefeuille\nLe Fonds investit au moins deux tiers de son actif net dans des actions d’entreprises spécialisées dans les produits et services haut de gamme. Les sociétés visées bénéficient d'une forte reconnaissance de marché, car elles ont la capacité de créer ou de contrôler les tendances de consommation. Elles ont également une certaine capacité de fixation des prix. Ces sociétés sont particulièrement spécialisées dans les produits et services haut de gamme ou dans le financement de ce type d’activité. Le Fonds peut investir dans le monde entier, y compris sur les marchés émergents et en Chine continentale.\n\nDérivés et produits structurés\nLe Fonds peut utiliser des produits dérivés pour réduire différents risques (couverture) et à des fins d’optimisation de la gestion de portefeuille. Il peut également utiliser des produits structurés pour s’exposer aux actifs en portefeuille.\n\nDevise du Fonds\nEUR\n\nProcessus d'investissement\nDans le cadre de la gestion active du Fonds, le Gestionnaire d’Investissement utilise une combinaison d’analyse de marché et d’analyse fondamentale des sociétés afin de sélectionner les titres dont il estime qu’ils offrent des perspectives de croissance favorables à un prix raisonnable. Le Gestionnaire d’Investissement considère les facteurs ESG comme un élément fondamental de sa stratégie et adopte une approche orientée qui vise à augmenter la pondération des titres présentant de faibles risques en matière de durabilité et/ou à réduire la pondération des titres qui présentent des risques élevés en matière de durabilité, dans le respect des pratiques de bonne gouvernance. Les activités ayant des incidences négatives sur la société ou l’environnement sont également évitées. Les droits de vote sont exercés de manière méthodique, et un engagement avec les sociétés est possible en vue d’exercer une influence positive sur leurs pratiques en matière d’ESG. Pour de plus amples informations, voir le cadre d’exclusion intégré à notre Politique d’Investissement Responsable*, catégorie de produits relevant de l’article 8 du SFDR. La composition du portefeuille n'est pas limitée par rapport à l'indice de référence, de sorte que la similitude des performances du Fonds avec celles de l'indice de référence peut varier.",
+ "politique_en": "",
+ "source_politique": "KID",
+ "remarques": "Corrigé : classification Dynamique → Agressif (actions thématiques marques haut de gamme/luxe, règle de classification, bien que SRI 4) ; disclaimer remplacé par le texte exact de la factsheet ; politique prise du KID ; compartiment refait ; encours 1099 inchangé (« Taille du fonds (Mio) EUR 1 099 », factsheet 30/09/2026). Date de création « 31.05.2005 » (tableau de la part ; date de début du calcul des performances selon le glossaire). Devise de la classe EUR (compartiment USD). Indice : « MSCI AC World (EUR) » dans le tableau de la part ; le KID écrit « MSCI AC World (EUR), … Utilisé pour la surveillance des risques, l'objectif de performance et la mesure de la performance ». Frais de gestion non indiqués (seulement « Frais courants (OCR) 1.99 », identique au KID 19/06/2026). SRI 4 (KID). SFDR article 8 ; aucun % durable écrit. Politique prise du KID (la factsheet « Monthly Fund Insights » n’a pas de bloc objectif/politique, seulement des commentaires et un texte commercial). Compartiment : « Forme juridique : Compartiment d'une SICAV » (SICAV Pictet de droit luxembourgeois). Allocations : 10 principales positions, secteur économique et répartition géographique (% des actifs).",
+ "factsheet_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217139020/LU0217139020__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/PICTET_ASSET_MANAGEMENT_EUROPE_S_A/LU0217139020/LU0217139020__KID_FR_2026-06-19.pdf",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "factsheet",
+  "encours_millions": "factsheet",
+  "encours_devise": "factsheet",
+  "encours_date": "factsheet",
+  "indice": "factsheet",
+  "sfdr": "factsheet",
+  "disclaimer": "factsheet",
+  "gerants": "factsheet",
+  "kid_date": "KID",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "politique": "KID"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "American Express Co",
+   "pct": "4.87"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Visa Inc",
+   "pct": "4.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Galderma Group Ag",
+   "pct": "4.15"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Moncler Spa",
+   "pct": "3.94"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Ralph Lauren Corp",
+   "pct": "3.92"
+  },
+  {
+   "type": "Positions",
+   "libelle": "L'oreal Sa",
+   "pct": "3.86"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Hilton Worldwide Holdings Inc",
+   "pct": "3.83"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Apple Inc",
+   "pct": "3.78"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Marriott International Inc/Md",
+   "pct": "3.73"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Intercontinental Hotels Group Plc",
+   "pct": "3.65"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Luxe",
+   "pct": "32.98"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Cosmétiques",
+   "pct": "17.87"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Voyages",
+   "pct": "16.07"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Sport",
+   "pct": "13.97"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Loisirs",
+   "pct": "12.45"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Nourriture et boissons",
+   "pct": "5.23"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "1.45"
+  },
+  {
+   "type": "Pays",
+   "libelle": "États-Unis",
+   "pct": "47.40"
+  },
+  {
+   "type": "Pays",
+   "libelle": "France",
+   "pct": "17.11"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Suisse",
+   "pct": "10.28"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Italie",
+   "pct": "8.70"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Royaume-Uni",
+   "pct": "6.35"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Japon",
+   "pct": "3.57"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Allemagne",
+   "pct": "3.03"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Corée du Sud",
+   "pct": "1.23"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Chine",
+   "pct": "0.89"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Trésorerie et équivalents",
+   "pct": "1.45"
+  }
+ ]
+}

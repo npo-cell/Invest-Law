@@ -1,0 +1,101 @@
+{
+ "n": "463",
+ "isin": "LU1103787690",
+ "nom": "CPR INVEST REACTIVE A EUR",
+ "maison": "CPR Asset Management",
+ "factsheet_date": "2026-08-31",
+ "kid_date": "2026-06-17",
+ "factsheet_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103787690/LU1103787690__Factsheet_FR_2026-08-31.pdf",
+ "kid_fichier": "INVESTLAW/CPR_ASSET_MANAGEMENT/LU1103787690/LU1103787690__KID_FR_2026-06-17.pdf",
+ "date_creation": "2014-08-29",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs (flexible, nourricier)",
+ "compartiment": "Actions d’un Compartiment de CPR Invest, un organisme de placement collectif en valeurs mobilières (OPCVM), constitué en tant que SICAV.",
+ "gerants": "Samir Saadi",
+ "encours_millions": "63.25",
+ "encours_devise": "EUR",
+ "encours_date": "2026-08-31",
+ "frais_gestion": "",
+ "frais_courants": "2.30",
+ "sri": "3",
+ "indice": "100% ESTR CAPITALISE (OIS)",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.95 (sensibilité)",
+ "qualite_emetteurs": "",
+ "disclaimer": "Les performances passées ne sont pas constantes dans le temps et ne sont pas un indicateur fiable des performances futures. Les investissements sont soumis aux fluctuations de marché et peuvent varier à la hausse comme à la baisse.",
+ "politique_fr": "STRATEGIE D’INVESTISSEMENT\nCe compartiment diversifié international vise à obtenir sur 4 ans minimum, une performance supérieure à son indice de référence avec une volatilité maximale prévisionnelle de 15%. L'exposition actions du portefeuille oscille entre 20% et 80% et sa sensibilité taux entre -2 et +5. Le compartiment est nourricier du FCP de droit français CPR Croissance Réactive.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet la plus récente trouvée : 31/08/2026 (fundinfo ne propose pas encore celle de fin septembre). Compartiment nourricier du FCP français CPR Croissance Réactive (fonds maître). Date de création = « Date création : 29/08/2014 » (sans préciser part ou compartiment ; performances « Depuis le 18/04/1997 » reprises du fonds maître). Encours = « Actif géré : 63,25 ( millions EUR ) » au 31/08/2026. Frais : « Frais de gestion et autres coûts administratifs ou d’exploitation : 2,30% » (identique au KID) ; pas de frais de gestion séparés ; commission de surperformance 20 % au-delà de l’indice 100% ESTR CAPITALISE (OIS) (KID). Indice : factsheet « Indice Reference : 100% ESTR CAPITALISE (OIS) » ; objectif du fonds maître (KID) : performance supérieure à €STR capitalisé +4,70 % ; indice utilisé a posteriori et pour la commission de performance (retenu car mesure de performance). Duration = « Sensibilité Taux 2,95 » (portefeuille du fonds maître). SRI 3 (KID). SFDR article 8 (KID). Classification Equilibré : diversifié flexible (actions 20 % à 80 %, exposition 56,66 %), SRI 3. Allocations : positions = « Principales lignes en portefeuille » du fonds maître (hors produits dérivés) ; « Exposition Actions 56,66% » non reprise (exposition, pas une répartition). Corrigé (factsheet 31/08/2026) : indice 100% ESTR capitalisé (OIS) → 100% ESTR CAPITALISE (OIS).",
+ "sources": {
+  "factsheet_date": "factsheet p.1",
+  "kid_date": "KID p.1",
+  "date_creation": "factsheet p.1",
+  "devise": "factsheet p.1",
+  "compartiment": "KID p.1",
+  "gerants": "factsheet p.2",
+  "encours_millions": "factsheet p.1",
+  "frais_courants": "KID p.2",
+  "sri": "KID p.1",
+  "indice": "factsheet p.1",
+  "sfdr": "KID p.1",
+  "duration": "factsheet p.2",
+  "disclaimer": "factsheet p.1",
+  "politique_fr": "factsheet p.1"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "AM EURO LIQUIDITY S-T RESP - Z (C)",
+   "pct": "8.59"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CPR INVEST - CLIMATE BONDS EURO - Z EUR",
+   "pct": "6.38"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AM MSCI WRLD SCREENED UCITS ETF (PAR)",
+   "pct": "5.68"
+  },
+  {
+   "type": "Positions",
+   "libelle": "abrdn Em Mkt Lcl Ccy Dbt K Acc EUR",
+   "pct": "5.41"
+  },
+  {
+   "type": "Positions",
+   "libelle": "ARI - EUROPEAN CREDIT- I2 - C",
+   "pct": "4.93"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AMUNDI EURO LIQUIDITY SELECT - Z (C)",
+   "pct": "4.84"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CPR INVEST - CREDIXX GLOB HI YIELD",
+   "pct": "4.58"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AM EURO LIQUIDITY-RATED RESP - Z (C)",
+   "pct": "4.44"
+  },
+  {
+   "type": "Positions",
+   "libelle": "CPR ABSOLUTE RETURN BONDS - Z (C)",
+   "pct": "4.29"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Amu S&P Eql Wt ESG Ldrs ETFDRAcc USD (DE",
+   "pct": "4.17"
+  }
+ ]
+}

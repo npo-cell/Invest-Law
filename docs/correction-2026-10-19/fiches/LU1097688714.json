@@ -1,0 +1,257 @@
+{
+ "n": "621",
+ "isin": "LU1097688714",
+ "nom": "INVESCO GLOBAL INCOME A EUR",
+ "maison": "Invesco Management S.A.",
+ "factsheet_date": "2026-09-30",
+ "kid_date": "2026-05-19",
+ "date_creation": "2014-11-12",
+ "devise": "EUR",
+ "type_fonds": "Multi-actifs",
+ "compartiment": "un compartiment d’Invesco Funds (le « Fonds à compartiments multiples »)",
+ "gerants": "Alexandra Ivanova, Asad Bhatti, Stephen Anness, Stuart Edwards",
+ "encours_millions": "2355.98",
+ "encours_devise": "EUR",
+ "encours_date": "2026-09-30",
+ "frais_gestion": "1.25",
+ "frais_courants": "1.62",
+ "sri": "3",
+ "indice": "",
+ "classification": "Equilibré",
+ "categorie": "",
+ "sfdr": "8",
+ "durable_pct": "",
+ "duration": "2.87",
+ "qualite_emetteurs": "BB+",
+ "disclaimer": "Les performances passées ne sauraient présager des performances futures. La valeur des investissements et les revenus vont fluctuer, ce qui peut en partie être le résultat des fluctuations de taux de change et les investisseurs peuvent ne pas récupérer le montant total de leurs investissements initiaux.",
+ "politique_fr": "Le Fonds vise à générer des revenus et une appréciation du capital sur le moyen à long terme, en investissant principalement dans une allocation flexible de titres de créance et d'actions mondiales.",
+ "politique_en": "",
+ "source_politique": "Factsheet",
+ "remarques": "Factsheet FR 30/09/2026 (part « A-Accumulation Shares », ISIN conforme). Corrigé : encours 2426.07 → 2355.98 (« Actifs nets totaux EUR 2 355,98 million », 30/09/2026) ; indice composite retiré (voir ci-dessous) ; compartiment → libellé du KID ; politique remplacée par l'« Objectif du fonds » de la factsheet (sans le renvoi au prospectus) ; duration et qualité reprises de la factsheet. Date de création = « Date de lancement de la classe d'actions 12 novembre 2014 ». Frais : factsheet « Frais de gestion annuels 1,25% », « Frais courants 1,62% » ; KID « 1,62 % ». Indice vide : « L'indice de référence est présenté uniquement à des fins de comparaison des performances » (40% MSCI World Index (EUR hedged) (Net Total Return), 10% ICE BofA Global Corporate Index (EUR hedged) (Total Return), 40% ICE BofA Global High Yield Index (EUR hedged) (Total Return) et 10% J.P. Morgan EMBI Global Diversified Composite Index (Total Return)). Duration = « Duration moyenne pondérée 2,87 » (sans unité) ; qualité = « Notation de crédit moyenne BB+ ». SRI 3 (KID). SFDR article 8 (KID). Classification Equilibré : 35 à 65 % d'actions (51,2 %). Allocations : « Positions » = 5 principales participations obligataires puis 5 en actions ; « Classes d'actifs » = « Catégories d'investissement » ; secteurs de la poche actions (colonne « Fonds »).",
+ "sources": {
+  "factsheet_date": "factsheet",
+  "kid_date": "KID",
+  "date_creation": "factsheet",
+  "devise": "factsheet",
+  "compartiment": "KID",
+  "gerants": "factsheet",
+  "encours_millions": "factsheet",
+  "frais_gestion": "factsheet",
+  "frais_courants": "KID",
+  "sri": "KID",
+  "sfdr": "KID",
+  "duration": "factsheet",
+  "qualite_emetteurs": "factsheet",
+  "disclaimer": "factsheet",
+  "politique_fr": "factsheet"
+ },
+ "allocations": [
+  {
+   "type": "Positions",
+   "libelle": "United States Treasury Note/Bond",
+   "pct": "3.8"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Brazil Notas do Tesouro Nacional Serie F",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Republic of South Africa Government Bond",
+   "pct": "2.4"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Bundesrepublik Deutschland Bundesanleihe",
+   "pct": "1.9"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Spain Government Bond",
+   "pct": "1.3"
+  },
+  {
+   "type": "Positions",
+   "libelle": "3i",
+   "pct": "2.2"
+  },
+  {
+   "type": "Positions",
+   "libelle": "AIA",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Taiwan Semiconductor",
+   "pct": "2.1"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Canadian Pacific Kansas City",
+   "pct": "1.7"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Microsoft",
+   "pct": "1.6"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actions",
+   "pct": "51.2"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations d'entreprises de qualité inférieure à l'investissement",
+   "pct": "22.3"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Gouvernement/Agence",
+   "pct": "13.0"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Obligations investment grade",
+   "pct": "6.7"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Bons du Trésor américain",
+   "pct": "3.8"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Trésorerie et équivalents de trésorerie et produits dérivés",
+   "pct": "2.4"
+  },
+  {
+   "type": "Classes d'actifs",
+   "libelle": "Actifs garantis",
+   "pct": "0.4"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AAA",
+   "pct": "5.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "AA",
+   "pct": "9.2"
+  },
+  {
+   "type": "Notations",
+   "libelle": "A",
+   "pct": "5.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BBB",
+   "pct": "16.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "BB",
+   "pct": "29.9"
+  },
+  {
+   "type": "Notations",
+   "libelle": "B",
+   "pct": "20.6"
+  },
+  {
+   "type": "Notations",
+   "libelle": "CCC et moins",
+   "pct": "6.8"
+  },
+  {
+   "type": "Notations",
+   "libelle": "Non noté",
+   "pct": "5.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services financiers",
+   "pct": "12.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Industrie",
+   "pct": "12.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Technologies de l'information",
+   "pct": "9.3"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation discrétionnaire",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Santé",
+   "pct": "3.8"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Biens de consommation de base",
+   "pct": "2.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Matériaux",
+   "pct": "2.6"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Services de communication",
+   "pct": "1.7"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Énergie",
+   "pct": "1.1"
+  },
+  {
+   "type": "Secteurs",
+   "libelle": "Immobilier",
+   "pct": "0.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "20+ ans",
+   "pct": "4.4"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "16-20 ans",
+   "pct": "1.7"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "11-16 ans",
+   "pct": "4.2"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "7-11 ans",
+   "pct": "15.8"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "4-7 ans",
+   "pct": "19.3"
+  },
+  {
+   "type": "Maturités",
+   "libelle": "0-4 ans",
+   "pct": "54.6"
+  }
+ ],
+ "factsheet_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__Factsheet_FR_2026-09-30.pdf",
+ "kid_fichier": "INVESTLAW/INVESCO_MANAGEMENT_S_A/LU1097688714/LU1097688714__KID_FR_2026-05-19.pdf"
+}
