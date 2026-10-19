@@ -1,0 +1,264 @@
+[
+ {
+  "isin": "LU0333810850",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net (m) USD 4,013 », rapport mensuel « 0826 » (août 2026), cohérent avec la date de la factsheet 31/08/2026"
+   },
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Objectif et politique d’investissement du Fonds » : texte repris mot pour mot (ligatures fi/ff perdues à l’extraction)"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 Allocation sectorielle « 29.6% Valeurs nancières » (ligature « fi » perdue)"
+  }
+ },
+ {
+  "isin": "FR0010241240",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net du compartiment Au 30/09/2026 162 368 789,44 € » = 162,37 M€"
+   }
+  }
+ },
+ {
+  "isin": "LU0854762894",
+  "cases": {
+   "politique_en": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 (texte de présentation repris intégralement, césures « non-cyclical » en fin de ligne)"
+   }
+  }
+ },
+ {
+  "isin": "LU0210528500",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date de création de la catégorie de parts 1 Avr. 2005 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0117867159",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date de création de la catégorie de parts 13 Oct. 2000 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0862449690",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date de création de la catégorie de parts 11 Déc. 2012 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1001747408",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date de création de la catégorie de parts 19 Déc. 2013 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0070177588",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Lancement de la classe 15 Avr. 1996 » (lancement du fonds 3 Déc. 2018)"
+   }
+  }
+ },
+ {
+  "isin": "LU0329203573",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 : « Technologie – Semi-conducteurs et matériel informatique 20,8 » et « Europe et Moyen-Orient hors R.-U. 14,3 » (libellés coupés par césure à l’extraction)"
+  },
+  "cases": {}
+ },
+ {
+  "isin": "LU0210534227",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 : « Technologie – Semi-conducteurs et matériel informatique 25,4 » et « Europe et Moyen-Orient hors R.-U. 11,9 » (césures à l’extraction)"
+  },
+  "cases": {}
+ },
+ {
+  "isin": "LU0210534813",
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1 : « Technologie – Semi-conducteurs et matériel informatique 27,0 » et « Europe et Moyen-Orient hors R.-U. 12,5 » (césures à l’extraction)"
+  },
+  "cases": {}
+ },
+ {
+  "isin": "LU0323456466",
+  "cases": {
+   "date_creation": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Date de création de la catégorie de parts 14 Oct. 2008 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1-2 : « Skandinaviska Enskilda Banken (Etats-Unis) 3,9 », « Oversea-Chinese Banking (Singapour) 3,8 » (Positions au 31 août 2026), « Titres d’ entreprise haut rendement 0,6 » (SECTEURS au 31 août 2026) ; données datées du 31/08 dans la factsheet du 30/09"
+  }
+ },
+ {
+  "isin": "LU0740858229",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Objectifs, processus et politiques » et factsheet p.2 : texte repris, y compris la phrase « Si les sociétés/émetteurs sous-jacents sont considérés comme présentant des caractéristiques environnementales et/ou sociales positives… réputée remplir les conditions requises pour atteindre les minima fixés » (KID p.1, coupée par césure « sous-/jacents »)"
+   }
+  }
+ },
+ {
+  "isin": "LU0210527361",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 et KID p.1 : « Applique un processus fondamental de sélection de titres bottom-up couplé à des opinions top-down sur les pays » (césures à l’extraction)"
+   }
+  }
+ },
+ {
+  "isin": "LU0262307480",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 Allocation régionale « Marchés émergents Europe, Moyen-Orient et Afrique 13,3 » (libellé sur deux lignes)"
+  }
+ },
+ {
+  "isin": "IE00BLP5S460",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 Allocation régionale « Marchés émergents Europe, Moyen-Orient et Afrique » Court -1,5 / Longue 2,0 ; 2,0 = exposition longue"
+  }
+ },
+ {
+  "isin": "IE00BLP5S353",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.2 Allocation régionale « Marchés émergents Europe, Moyen-Orient et Afrique » Court -1,5 / Longue 2,0 ; 2,0 = exposition longue"
+  }
+ },
+ {
+  "isin": "FR001400J5O4",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « AuM: 110.06 mEUR », rapport mensuel « SEPTEMBRE 2026 » (date de la factsheet 30/09/2026)"
+   }
+  }
+ },
+ {
+  "isin": "FR0014013NN3",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « AuM: 65.91 mEUR », rapport mensuel « SEPTEMBRE 2026 »"
+   }
+  }
+ },
+ {
+  "isin": "FR0010697532",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « AuM: 408.28 mEUR », rapport mensuel « SEPTEMBRE 2026 »"
+   }
+  }
+ },
+ {
+  "isin": "FR0014000W38",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « AuM: 31.69 mEUR », rapport mensuel « SEPTEMBRE 2026 »"
+   }
+  }
+ },
+ {
+  "isin": "FR0011271550",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « AuM: 22.26 mEUR », rapport mensuel « SEPTEMBRE 2026 »"
+   }
+  }
+ },
+ {
+  "isin": "FR0000980427",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « AuM: 317.77 mEUR », rapport mensuel « SEPTEMBRE 2026 »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet « Caractéristiques de la poche taux du fonds » : « NOTATION MOYENNE BB- »"
+   }
+  }
+ },
+ {
+  "isin": "LU0864714000",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 « Le compartiment n'est pas géré en utilisant un indice comme base de référence » ; factsheet p.1 « benchmark-agnostic » (elle affiche un objectif « Benchmark 5% », pas un indice)"
+   }
+  }
+ },
+ {
+  "isin": "FR0010858498",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net du fonds 1949.31 M€ », rapport mensuel « 09-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "FR0010230490",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net du fonds 1367.79 M€ », rapport mensuel « 09-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "FR0000292302",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net du fonds 651,00 M€ », rapport mensuel « 08-2026 » (date factsheet 31/08/2026)"
+   }
+  }
+ },
+ {
+  "isin": "FR0007028543",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 « Actif net du fonds 480.34 M€ », rapport mensuel « 08-2026 » (date factsheet 31/08/2026)"
+   }
+  }
+ }
+]

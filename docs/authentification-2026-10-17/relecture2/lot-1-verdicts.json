@@ -1,0 +1,459 @@
+[
+ {
+  "isin": "LU1005243503",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0329592538",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0252968424",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0827889485",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0252963383",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0376438312",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0473185139",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0252969075",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531868",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs nets du fonds 19 396 874,86 $ »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Le Compartiment est géré activement sans référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612531355",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs nets du fonds 14 669 095,24 € » (vérifié sur l'image)"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « géré activement sans référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU2612532833",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs nets du fonds 119 079 815,62 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « géré activement sans référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU0945617289",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs nets du fonds 26 757 117,43 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « ... politique de placement du Compartiment sans référence à un indice »"
+   }
+  }
+ },
+ {
+  "isin": "LU2059537956",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs nets du fonds 55 097 475,29 € »"
+   }
+  }
+ },
+ {
+  "isin": "LU1697917166",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Actifs nets du fonds 158 995 807,88 € »"
+   },
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « géré de manière active sans considération d'un indice de référence »"
+   }
+  }
+ },
+ {
+  "isin": "IE00BLP5S791",
+  "cases": {},
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "factsheet p.1, zones géographiques : « Marchés émergents Europe, Moyen-Orient et Afrique » -1,5 / 2,0 (libellé coupé sur 3 lignes)"
+  }
+ },
+ {
+  "isin": "FR0010235507",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet mensuelle datée « 09-2026 », actif net 1367.79 M€"
+   }
+  }
+ },
+ {
+  "isin": "FR0011829159",
+  "cases": {
+   "encours": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Encours 77 199 701,34 EUR »"
+   }
+  }
+ },
+ {
+  "isin": "LU0572586591",
+  "cases": {
+   "indice": {
+    "verdict": "CONFORME",
+    "note": "KID : « Le Compartiment est géré de manière active sans référence à un indice de référence » (la ligne « Indice » de la factsheet est une contribution des futures sur indices)"
+   }
+  }
+ },
+ {
+  "isin": "LU1997245177",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 (texte extrait avec pypdf, pdftotext vide) : phrase identique"
+   }
+  }
+ },
+ {
+  "isin": "LU1594335520",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 (pypdf) : phrase identique"
+   },
+   "sri": {
+    "verdict": "CONFORME",
+    "note": "KID : « classe de risque 4 sur 7 »"
+   },
+   "qualite": {
+    "verdict": "CONFORME",
+    "note": "factsheet : « Notation moyenne AA- »"
+   }
+  }
+ },
+ {
+  "isin": "LU1093406186",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 (pypdf) : phrase identique"
+   }
+  }
+ },
+ {
+  "isin": "LU1981791327",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 (pypdf) : phrase identique"
+   }
+  }
+ },
+ {
+  "isin": "LU1481687926",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 (pypdf) : phrase identique"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "KID : « intégrés dans le processus d'investissement (article 6 du SFDR) »"
+   }
+  }
+ },
+ {
+  "isin": "FR0010785865",
+  "cases": {
+   "compartiment": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 rubrique TYPE (pypdf) : phrase identique"
+   }
+  }
+ },
+ {
+  "isin": "FR0012534840",
+  "cases": {
+   "politique_fr": {
+    "verdict": "CONFORME",
+    "note": "KID p.1 : texte repris mot pour mot ; la phrase « Le produit s'attache à sélectionner... dirigeants » y figure, coupée par la mise en colonnes"
+   }
+  }
+ },
+ {
+  "isin": "FR001400R6D5",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet mensuelle datée « 09-2026 », « Actif net du fonds 23.06 M€ »"
+   }
+  }
+ },
+ {
+  "isin": "LU0093503497",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU1005243255",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0212925753",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0072462426",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0567554463",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0425308169",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0072463663",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0124384867",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0122376428",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0326422689",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0055631609",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0171307068",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0326424115",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0075056555",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0171310443",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « les informations relatives à l'actif net sont en date du : 30-sept.-2026 »"
+   }
+  }
+ },
+ {
+  "isin": "LU0309191657",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "rapport mensuel « Septembre 2026 », « Actifs nets € 472,35 mio »"
+   },
+   "sfdr": {
+    "verdict": "CONFORME",
+    "note": "factsheet p.1 : « Classification SFDR 8 »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "lus sur les graphiques p.2 : Capitalisation 5 - 20 mrd 16,9 % ; pays États-Unis 33,4 %, Royaume-Uni 7,8 %"
+  }
+ },
+ {
+  "isin": "LU1305479153",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "rapport mensuel « Septembre 2026 », « Actifs nets € 67,13 mio »"
+   }
+  }
+ },
+ {
+  "isin": "LU0048292394",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "rapport mensuel « Septembre 2026 », « Actifs nets € 146,31 mio »"
+   }
+  }
+ },
+ {
+  "isin": "LU0048292808",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "rapport mensuel « Septembre 2026 », « Actifs nets € 584,54 mio »"
+   }
+  }
+ },
+ {
+  "isin": "LU0117287580",
+  "cases": {
+   "encours_date": {
+    "verdict": "CONFORME",
+    "note": "rapport mensuel « Septembre 2026 », « Actifs nets € 245,05 mio »"
+   }
+  },
+  "allocations": {
+   "verdict": "CONFORME",
+   "note": "lus sur le graphique p.2 : 5 - 25 mrd 14,4 % ; 25 - 200 mrd 40,6 %"
+  }
+ }
+]
