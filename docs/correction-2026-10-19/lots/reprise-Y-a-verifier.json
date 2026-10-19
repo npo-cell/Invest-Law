@@ -1,0 +1,496 @@
+[
+ {
+  "n": 598,
+  "isin": "LU2596602545",
+  "nom": "GOLDMAN SACHS GL FUTURE ECON SECURITY EQ PORTF USD",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__Factsheet_EN_2026-08-31.pdf",
+    "isin_verifie": false
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__KID_FR_2026-06-18.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU2596602545/LU2596602545__KID_FR_2026-06-18.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU2596602545__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, ADR/EDR/GDR, seuils de risque internes) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2023-06-13",
+   "devise": "USD",
+   "type_fonds": "Actions internationales thématiques (sécurité économique)",
+   "compartiment": "Goldman Sachs Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "1660",
+   "frais_gestion": "1.5",
+   "frais_courants": "1.65",
+   "sri": "4",
+   "indice": "MSCI World Index (Total Return Net)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. La valeur des investissements et des revenus qui en découlent peut fluctuer à la hausse comme à la baisse. Une perte en capital peut survenir.",
+   "politique_fr": "Goldman Sachs Global Future Economic Security Equity Portfolio est un compartiment (Portefeuille) de Goldman Sachs Funds, SICAV de droit luxembourgeois à compartiments relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), avec séparation du passif entre les portefeuilles. L'initiateur est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas. Le dépositaire est S",
+   "politique_en": "The fund is designed for investors seeking exposure to a concentrated global portfolio with a focus on developed markets that invests in companies that benefit from evolving trends in international relations and their impact on the economic security of such markets.\n\nThe key investment themes may include but are not limited to supply chain security, resource security and national security.\n\nThe Fu",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 613,
+  "isin": "FR0007495049",
+  "nom": "HMG RENDEMENT D EUR",
+  "maison": "HMG Finance",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "KID": {
+    "fichier": "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__KID_FR_2025-01-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/HMG_FINANCE/FR0007495049/FR0007495049__KID_FR_2025-01-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0007495049__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "compartiment": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "p.1 « Compartiment de SICAV française », nom de SICAV non cité"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "qualite": {
+    "verdict": "DIFFERENT",
+    "document": "Sans notation : 30,1 %",
+    "note": "p.1 Par notation financière : Sans notation 30,1 % (image)"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1995-09-05",
+   "devise": "EUR",
+   "type_fonds": "Fonds mixtes",
+   "compartiment": "SICAV HMG Finance",
+   "gerants": "Marc Girault",
+   "encours": "39.21",
+   "frais_gestion": "1.98",
+   "frais_courants": "1.98",
+   "sri": "3",
+   "indice": "n/a",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "qualite": "Obligations non notées : 30,3 % de l’actif",
+   "disclaimer": "Document à caractère commercial. OPCVM (UCITS) présentant un risque élevé de perte en capital, nous vous recommandons de consulter le Prospectus et le DIC pour plus d’informations. Les performances passées ne préjugent pas des performances futures.",
+   "politique_fr": "L’objectif de gestion du Compartiment consiste à maximiser la performance avec une gestion active et discrétionnaire des classes d’actifs (actions, obligations, instruments monétaires) et des zones géographiques (zone euro, zone hors euro) et dans le même temps à maîtriser la volatilité sur un horizon de placement de 5 ans.\n\nLa gestion est opportuniste et privilégie les titres à rendement élevé. D",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 591,
+  "isin": "LU1038809395",
+  "nom": "FVS MULTIPLE OPPORTUNITIES II RT EUR",
+  "maison": "FLOSSBACH VON STORCH INVEST S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__KID_FR_2026-04-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_DE_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_EN_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/FLOSSBACH_VON_STORCH_INVEST_S_A/LU1038809395/LU1038809395__KID_FR_2026-04-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1038809395__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, CSSF, certificats Delta-1, détention 4 ans) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2014-04-03",
+   "devise": "EUR",
+   "type_fonds": "Mixte flexible international (à dominante actions)",
+   "compartiment": "Flossbach von Storch (fonds commun de placement de droit luxembourgeois, OPCVM)",
+   "gerants": "Dr. Bert Flossbach, Simon Jäger, Dr. Kai Lehmann, Jonas Nahry, Dr. Tobias Schafföner",
+   "encours": "7040",
+   "frais_gestion": "1.47",
+   "frais_courants": "1.62",
+   "sri": "3",
+   "classification": "Equilibré",
+   "categorie": "Mixed Asset Global Aggressive",
+   "sfdr": "8",
+   "disclaimer": "Les performances passées ne sont pas un indicateur fiable des performances futures. La valeur de tout placement peut augmenter ou baisser et vous pourriez récupérer moins que le montant investi.",
+   "politique_fr": "Flossbach von Storch - Multiple Opportunities II est un compartiment de Flossbach von Storch, fonds commun de placement (FCP) de droit luxembourgeois soumis à la Partie I de la loi luxembourgeoise du 17 décembre 2010 (OPCVM). L'initiateur et société de gestion est Flossbach von Storch Invest S.A., filiale de Flossbach von Storch SE, réglementée par la CSSF.\n\nL'objectif de la politique d'investisse",
+   "politique_en": "The Fund pursues an active investment approach. The Fund Manager can invest flexibly in the asset classes that appear attractive from his/her point of view in the respective capital market environment; the equity component is at least 25 per cent.\n\nThe basis for asset allocation is the Fund's own independent investment world view. The Fund deliberately does not follow any benchmark index. The prim",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche mise à jour sur le site le 2026-10-14."
+  }
+ },
+ {
+  "n": 600,
+  "isin": "LU0333810850",
+  "nom": "GOLDMAN SACHS INDIA EQUITY PORTFOLIO E EUR",
+  "maison": "GOLDMAN SACHS AM",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__Factsheet_FR_2026-08-31.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__KID_FR_2026-08-03.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/GOLDMAN_SACHS_AM/LU0333810850/LU0333810850__KID_FR_2026-08-03.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0333810850__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte français rédigé (synthèse avec éléments du KID : Partie I, dérivés, seuils de risque internes, ESG) ; la factsheet est en anglais"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2008-03-26",
+   "devise": "EUR",
+   "type_fonds": "Actions Inde",
+   "compartiment": "Goldman Sachs Funds (SICAV de droit luxembourgeois, OPCVM)",
+   "encours": "4013",
+   "frais_gestion": "1.75",
+   "frais_courants": "2.43",
+   "sri": "4",
+   "indice": "MSCI India IMI Index (Net TR) (EUR)",
+   "classification": "Dynamique",
+   "categorie": "Majoritairement actions",
+   "disclaimer": "Les performances passées ne préjugent pas des rendements futurs. La valeur des investissements et des revenus qui en découlent peut fluctuer à la hausse comme à la baisse. Une perte en capital peut survenir.",
+   "politique_fr": "Goldman Sachs India Equity Portfolio est un compartiment (Portefeuille) de Goldman Sachs Funds, SICAV de droit luxembourgeois à compartiments relevant de la Partie I de la loi du 17 décembre 2010 (OPCVM), avec séparation du passif entre les portefeuilles. L'initiateur est Goldman Sachs Asset Management B.V. (groupe Goldman Sachs), agréée aux Pays-Bas. Le dépositaire est State Street Bank Internati",
+   "politique_en": "The Fund seeks to provide capital growth over the longer term.The Fund seeks to achieve its objective by holding shares or similar instruments relating to Indian companies. Such companies are either based in or earn most of their profits or revenues from India. The Fund may also invest in companies which are based anywhere in the world.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 513,
+  "isin": "FR00140120M2",
+  "nom": "EDR MILLESIMA 2032 A EUR (FMB)",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__KID_FR_2026-04-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR00140120M2/FR00140120M2__KID_FR_2026-04-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR00140120M2__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2025-12-02",
+   "devise": "EUR",
+   "type_fonds": "Obligations à échéance haut rendement",
+   "compartiment": "Edmond de Rothschild SICAV (EdR SICAV)",
+   "gerants": "Victoire DUBRUJEAUD, Alexis SEBAH, Alexis FORET",
+   "encours": "432.07",
+   "frais_gestion": "1",
+   "frais_courants": "1.1",
+   "sri": "2",
+   "categorie": "Obligations à échéance haut rendement (High Yield)",
+   "sfdr": "8",
+   "durable_pct": "54.9",
+   "duration": "3.34",
+   "qualite": "BB-",
+   "politique_fr": "Millesima 2032 a pour objectif, sur un horizon de placement débutant au lancement du Produit jusqu’au 31 décembre 2032, d'obtenir une performance nette positive liée à l'évolution des marchés obligataires internationaux notamment par une exposition sur de titres spéculatifs et de maturité maximale décembre 2032.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 512,
+  "isin": "LU1244893696",
+  "nom": "EDMOND DE ROTHSCHILD FUND BIG DATA A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT LUXEMBOURG",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__KID_FR_2026-07-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1244893696/LU1244893696__KID_FR_2026-07-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1244893696__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2015-08-31",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales technologie",
+   "compartiment": "Edmond de Rothschild Fund",
+   "gerants": "Xiadong BAO, Alexis BOSSARD",
+   "encours": "2837.22",
+   "frais_gestion": "1.6",
+   "frais_courants": "2.1",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global Information Technology",
+   "sfdr": "8",
+   "durable_pct": "60.21",
+   "politique_fr": "L'objectif du Produit consiste à dégager une performance supérieure à celle de son indice sur un horizon de placement de 5 ans, en investissant sur les marchés de capitaux internationaux et par la sélection, entre autres, de sociétés du secteur technologique ou liées aux technologies d'analyse de pointe – Big Data.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 514,
+  "isin": "FR001400RZ04",
+  "nom": "EDR SICAV GLOBAL RESILIENCE A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__KID_FR_2026-04-09.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR001400RZ04/FR001400RZ04__KID_FR_2026-04-09.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR001400RZ04__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2024-10-09",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales thématiques",
+   "compartiment": "Edmond de Rothschild SICAV (EdR SICAV)",
+   "gerants": "Aymeric GASTALDI, Christophe FOLIOT",
+   "encours": "191.93",
+   "frais_gestion": "1.8",
+   "frais_courants": "2.04",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Actions Monde – gestion thématique",
+   "sfdr": "8",
+   "durable_pct": "62.19",
+   "politique_fr": "Le Produit a pour objectif, sur un horizon de placement recommandé supérieur à 5 ans, de rechercher une performance nette de frais de gestion supérieure à celle de son indicateur de référence, le MSCI WORLD (NR) EUR, en investissant sur les marchés actions internationaux à travers la sélection d’entreprises dont l’activité contribue à assurer le bon fonctionnement et la sécurité de la Société, au ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 517,
+  "isin": "LU1160356009",
+  "nom": "EDRF HEALTHCARE A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT LUXEMBOURG",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__KID_FR_2026-07-01.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_LUXEMBOURG/LU1160356009/LU1160356009__KID_FR_2026-07-01.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1160356009__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1985-04-30",
+   "devise": "EUR",
+   "type_fonds": "Actions internationales santé",
+   "compartiment": "Edmond de Rothschild Fund",
+   "gerants": "Adeline SALAT-BAROUX, Sébastien MALAFOSSE",
+   "encours": "337.4",
+   "frais_gestion": "1.7",
+   "frais_courants": "2.2",
+   "sri": "4",
+   "indice": "MSCI AC World Health Care (NR) (EUR)",
+   "categorie": "Equity Global Healthcare",
+   "sfdr": "8",
+   "durable_pct": "60.36",
+   "politique_fr": "L'objectif du Produit consiste à surperformer son indice de référence en investissant dans des sociétés actives dans le secteur de la santé et répondant à des critères environnementaux, sociaux et de gouvernance.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 519,
+  "isin": "LU1331971769",
+  "nom": "ELEVA ABSOLUTE RETURN EUROPE A1 EUR",
+  "maison": "Eleva Capital SAS",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__KID_FR_2026-03-13.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/ELEVA_CAPITAL_SAS/LU1331971769/LU1331971769__KID_FR_2026-03-13.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU1331971769__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "2017-03-08",
+   "devise": "EUR",
+   "type_fonds": "Actions Europe long/short (rendement absolu)",
+   "compartiment": "Eleva UCITS Fund",
+   "gerants": "Eric Bendahan",
+   "encours": "4979.88",
+   "frais_gestion": "2",
+   "frais_courants": "2.1",
+   "sri": "2",
+   "categorie": "Alternative Europe Equity Long/Short",
+   "sfdr": "8",
+   "durable_pct": "65",
+   "politique_fr": "Le compartiment cherche à générer un rendement absolu positif à moyen terme par une appréciation du capital en investissant principalement en actions et en titres apparentés aux actions de sociétés cotées en Europe, en position acheteur comme en position vendeur.\n\nPhilosophie d’investissement bottom-up différenciée et disciplinée, complétée par une vision macroéconomique visant à conforter le posi",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 515,
+  "isin": "FR0010588343",
+  "nom": "EDR SICAV TRICOLORE RENDEMENT A EUR",
+  "maison": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE)",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__KID_FR_2026-04-16.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/EDMOND_DE_ROTHSCHILD_ASSET_MANAGEMENT_FRANCE/FR0010588343/FR0010588343__KID_FR_2026-04-16.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/FR0010588343__site.pdf",
+  "probleme_document": "",
+  "fraicheur": "Factsheet plus récente sur fundinfo : 2026-09-30 (FR)",
+  "ecarts_constates": {},
+  "valeurs_actuelles": {
+   "date_creation": "1998-12-04",
+   "devise": "EUR",
+   "type_fonds": "Actions France",
+   "compartiment": "Edmond de Rothschild SICAV (EdR SICAV)",
+   "gerants": "Guillaume LACONI, Ariane HAYATE",
+   "encours": "658.15",
+   "frais_gestion": "1.95",
+   "frais_courants": "2.19",
+   "sri": "4",
+   "indice": "SBF 120 NR (dividendes nets réinvestis)",
+   "categorie": "Equity France",
+   "sfdr": "8",
+   "durable_pct": "60.09",
+   "politique_fr": "L’objectif du Produit est de rechercher, sur un horizon de placement recommandé supérieur à 5 ans, une performance supérieure à celle de son indicateur de référence, le SBF 120 NR (Net Return soit Dividendes nets réinvestis), par des placements dans des sociétés majoritairement françaises dont les caractéristiques financières et de valorisation laissent penser qu’elles sont susceptibles d’afficher",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]

@@ -1,0 +1,392 @@
+[
+ {
+  "n": 411,
+  "isin": "LU0048292394",
+  "nom": "BL-GLOBAL 30 B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292394/LU0048292394__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0048292394__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (155 EUR pour 10 000 EUR)"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (« The objective of this mixed … fund … ») absent du KID FR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1993-10-28",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Joël Reuland",
+   "encours": "104.1",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.55",
+   "sri": "3",
+   "categorie": "Mixed Asset Global Balanced",
+   "duration": "3.34",
+   "politique_en": "The objective of this mixed defensive fund is to generate a positive return with reduced volatility. The fund has a global investment universe of equities, bonds and money market instruments; exposure to precious metals is also possible through ETCs (Exchange Traded Commodities). The allocation to equities varies between 15% and 45% with a neutral allocation set at 30%.",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 412,
+  "isin": "LU0048292808",
+  "nom": "BL-GLOBAL 50 B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0048292808/LU0048292808__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0048292808__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,4% » (144 EUR pour 10 000 EUR)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_en": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte anglais (« The objective of this mixed … fund … ») absent du KID FR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "1993-10-28",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "gerants": "Joël Reuland, Maxime Hoss (suppléant)",
+   "encours": "356.37",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.44",
+   "sri": "3",
+   "indice": "Lipper Global Mixed Asset EUR Balanced - Global",
+   "categorie": "Mixed Asset Global Balanced",
+   "sfdr": "8",
+   "duration": "2.5",
+   "politique_en": "The objective of this mixed fund is to generate a positive return over the medium term with moderate volatility. The fund has a global investment universe of equities, bonds and money market instruments; exposure to precious metals is also possible through ETCs (Exchange Traded Commodities). The allocation to equities varies between 30% and 70% with a neutral allocation set at 50%.\n\nFrom an ESG pe",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 413,
+  "isin": "LU0117287580",
+  "nom": "BL-GLOBAL EQUITIES B EUR",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0117287580/LU0117287580__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0117287580__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,5% » (145 EUR pour 10 000 EUR)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2000-11-06",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Marc Erpelding, Joël Reuland (suppléant)",
+   "encours": "246.89",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.45",
+   "sri": "3",
+   "indice": "MSCI ACWI NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "L'objectif du fonds est de générer des gains en capital sur le long terme en investissant dans des sociétés de grande qualité cotées sur les marchés boursiers mondiaux et dotées d’un avantage compétitif solide et pérenne. Il vise à générer des rendements ajustés au risque supérieurs à ceux de son univers de référence sur un cycle de marché complet.\n\nLe fonds s’engage à investir minimum 30% de ses ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 414,
+  "isin": "LU0211340665",
+  "nom": "BL-GLOBAL FLEXIBLE EUR B",
+  "maison": "BLI - Banque de Luxembourg Investments S.A.",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__KID_FR_2026-02-06.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-08-31.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLI_BANQUE_DE_LUXEMBOURG_INVESTMENTS_S_A/LU0211340665/LU0211340665__KID_FR_2026-02-06.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/LU0211340665__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "frais_gestion": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID : seulement « Frais de gestion et autres frais administratifs et d'exploitation 1,4% » (142 EUR pour 10 000 EUR)"
+   },
+   "indice": {
+    "verdict": "DIFFERENT",
+    "document": "aucun indice (géré sans valeur de référence)",
+    "note": "KID p.1 : « Le portefeuille est géré activement d'une manière discrétionnaire sans utiliser une valeur de référence (benchmark) »"
+   },
+   "categorie": {
+    "verdict": "AUTRE_SOURCE",
+    "document": "",
+    "note": "catégorie du site, absente du fichier OneLife Fund Classification"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   },
+   "duration": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID BL (06/02/2026), pas de factsheet"
+   },
+   "politique_fr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "texte de présentation (objectif, approche, « minimum 30 % d'actifs durables »…) absent du KID, qui décrit autrement l'objectif ; pas de factsheet"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2005-04-06",
+   "devise": "EUR",
+   "type_fonds": "Multi-actifs",
+   "compartiment": "BL-Global Flexible",
+   "gerants": "Guy Wagner, Fabrice Kremer (suppléant)",
+   "encours": "1211.79",
+   "frais_gestion": "1.25",
+   "frais_courants": "1.42",
+   "sri": "3",
+   "indice": "Lipper Global Mixed Asset EUR Flexible - Global",
+   "categorie": "Mixed Asset Global Flexible",
+   "sfdr": "8",
+   "duration": "5.6",
+   "politique_fr": "L’objectif du fonds est de générer un rendement réel (ajusté de l’inflation) en euro positif sur le moyen terme au travers d’une stratégie d’allocation d’actifs flexible et globale. La stratégie mise en œuvre combine différentes classes d’actifs traditionnellement négativement corrélées, en premier lieu les actions, les obligations et instruments monétaires, les métaux précieux et les liquidités. ",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 416,
+  "isin": "IE00BLF9YH30",
+  "nom": "BLACKROCK GLOBAL UNCONS EQ A EUR",
+  "maison": "BLACKROCK ASSET MANAGEMENT IRELAND LTD",
+  "origine": "invest-law.eu",
+  "documents_recents": {
+   "Factsheet": {
+    "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__Factsheet_FR_2026-09-30.pdf",
+    "isin_verifie": true
+   },
+   "KID": {
+    "fichier": "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__KID_FR_2026-04-15.pdf",
+    "isin_verifie": true
+   }
+  },
+  "autres_pdf_du_depot": [
+   "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__Factsheet_EN_2026-08-31.pdf",
+   "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__Factsheet_FR_2026-09-30.pdf",
+   "INVESTLAW/BLACKROCK_ASSET_MANAGEMENT_IRELAND_LTD/IE00BLF9YH30/IE00BLF9YH30__KID_FR_2026-04-15.pdf"
+  ],
+  "pdf_du_site": "/tmp/claude-0/-home-user-Invest-Law/656312d7-7b56-55b9-9fe4-e15cf6759c78/scratchpad/auth/pdf/IE00BLF9YH30__site.pdf",
+  "probleme_document": "dernier document du site = KID",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "date_creation": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "seul PDF = KID (15/04/2026), sans date de lancement"
+   },
+   "gerants": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul, aucun nom de gérant"
+   },
+   "encours": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID seul"
+   },
+   "sfdr": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "KID sans mention d'article SFDR"
+   }
+  },
+  "valeurs_actuelles": {
+   "date_creation": "2020-07-13",
+   "devise": "EUR",
+   "type_fonds": "Actions",
+   "gerants": "Alister Hibbert, Michael Constantis",
+   "encours": "4656.32",
+   "frais_courants": "1.7",
+   "sri": "4",
+   "indice": "MSCI World NR EUR",
+   "categorie": "Equity Global",
+   "sfdr": "8",
+   "politique_fr": "Le Fonds vise un rendement sur votre investissement (généré par une augmentation de la valeur des actifs détenus par le Fonds) à long terme (5 ans ou plus).\n\nLe Fonds investit au moins 80 % de son actif en titres de participation (par ex. des actions) et des titres apparentés à des actions de sociétés domiciliées, ou exerçant la majeure partie de leurs activités, dans des marchés développés mondia",
+   "source_politique": "invest-law.eu",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ },
+ {
+  "n": 825,
+  "isin": "IE00BF2F6B09",
+  "nom": "TC NEW HORIZON GLOBAL BALANCED FUND C EUR",
+  "maison": "Treasury Capital Fund Solutions",
+  "origine": "invest-law.eu",
+  "documents_recents": {},
+  "autres_pdf_du_depot": [],
+  "pdf_du_site": "",
+  "probleme_document": "",
+  "fraicheur": "",
+  "ecarts_constates": {
+   "devise": {
+    "verdict": "ABSENT",
+    "document": "",
+    "note": "aucun document pour ce fonds"
+   }
+  },
+  "valeurs_actuelles": {
+   "devise": "E",
+   "categorie": "Mixed Asset Global Flexible",
+   "remarques": "Fiche inactive sur invest-law.eu. Fiche mise à jour sur le site le 2026-10-13."
+  }
+ }
+]
