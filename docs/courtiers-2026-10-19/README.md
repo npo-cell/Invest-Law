@@ -1,6 +1,6 @@
 # Courtiers Bruxelles-Wallonie et compagnies partenaires (19/10/2026)
 
-Résultat : Google Sheet « Courtiers Bruxelles-Wallonie – compagnies partenaires (prospection One Life) » sur le Drive « Invest-Law Noa et Louis » :
+Résultat : Google Sheet « Courtiers Bruxelles-Wallonie – compagnies partenaires (prospection One Life) » dans le Drive personnel de npo (retiré du Drive partagé Invest-Law le 19/10, à sa demande ; accès privé) :
 https://docs.google.com/spreadsheets/d/1Tddg0OVJRDBajif7ynzEt-03wPeaieAnx2e4oUuHN7A/edit
 
 Les données (noms, contacts) ne sont **pas** versionnées ici : le dépôt est public.
