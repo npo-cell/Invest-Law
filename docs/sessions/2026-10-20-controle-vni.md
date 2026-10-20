@@ -8,3 +8,4 @@
 - **Fichiers** : `docs/2026-10-20-controle-vni.md` (rapport), `docs/controle-vni/controle-vni-2026-10-20.json` (données), `tools/controle_vni.py` (script).
 - **Connexion** : les identifiants de l'environnement de cette session étaient périmés (401). Le nouveau mot de passe a été fourni dans le chat et passé à la commande, sans être écrit dans le dépôt. Code de connexion mis à la corbeille.
 - **Pour reprendre (ex. Noa)** : tout est résumé dans `docs/controle-vni/README.md` (règles, bilan, anomalies, pistes, mise à jour du tableau de bord), lien ajouté dans le skill invest-law et dans `docs/zimbra-vni/CONSIGNE.md`. `tools/controle_vni.py` lit désormais le site lui-même : vérifié, il redonne exactement le JSON du 20/10.
+- **Mise à jour** : tableau de bord complété (ISIN invalides 16, séries en double 2, devises mal saisies 19, 178 VNI vérifiées à la source sur 23 fonds, encadré « ce que le contrôle prouve ») ; `tools/controle_vni.py` calcule ces colonnes.

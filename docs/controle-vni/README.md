@@ -3,7 +3,7 @@
 À lire avant de corriger ou d'importer des VNI à la main. Import quotidien automatique : `docs/zimbra-vni/CONSIGNE.md`.
 
 ## Ce qui existe
-- **Tableau de bord** : https://claude.ai/artifact/E3kwtSBzrF4KKKR5XSu8R6 (artéfact de Louis, type Dashboard). Statuts cliquables, liste filtrable, colonne Remarques. Pour y accéder, demander à Louis de le partager. Sans accès en modification, publier une copie (cf. `AGENTS.md`).
+- **Tableau de bord** : https://claude.ai/artifact/E3kwtSBzrF4KKKR5XSu8R6 (artéfact de Louis, type Dashboard ; données : `controle-vni-2026-10-20.json`, y compris ISIN invalides, doublons, devises, VNI vérifiées à la source). Statuts cliquables, liste filtrable, colonne Remarques. Pour y accéder, demander à Louis de le partager. Sans accès en modification, publier une copie (cf. `AGENTS.md`).
 - **Script** : `python3 tools/controle_vni.py` (après login/verify). Il lit tout le site en lecture seule et écrit `docs/controle-vni/controle-vni-AAAA-MM-JJ.json`, une ligne par fonds, avec les colonnes du tableau de bord. Il affiche ensuite le bilan.
 - **Contrôles** : `controle-vni-2026-10-20.json`, et le rapport lisible `docs/2026-10-20-controle-vni.md`, qui liste les fonds par statut.
 
@@ -47,7 +47,7 @@ Le contrôle vérifie la cohérence des séries de VNI. Il ne compare **pas** le
   - fiche 10 « Keren Patrimoine » (`KER---`, inactive), dont la série est **identique** à celle de la fiche 115 « KEREN PATRIMOINE C EUR » (FR0000980427) : c'est un doublon.
 - **Autres fiches à revoir** :
   - fiche 373 : le nom et l'ISIN sont inversés (nom « LU0128499588 », ISIN « LU373 ») ;
-  - devise « E » au lieu de « EUR » sur 21 fiches ;
+  - devise « E » au lieu de « EUR » sur 19 fiches ;
   - « DRIEHAUS US SMALL CAP EQUITY FUND B USD » a la devise « E ».
 - **Pas vérifié** :
   - les VNI anciennes (avant la routine), dont on ne connaît pas la source ;
