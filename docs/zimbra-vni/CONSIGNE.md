@@ -1,5 +1,7 @@
 # Routine quotidienne : VNI Zimbra → invest-law.eu
 
+État des lieux des VNI du site (fonds sans VNI, VNI fausses, dates décalées, fonds plus mis à jour) : `docs/controle-vni/README.md`.
+
 Décidée le 19/10/2026 : du lundi au vendredi vers 17h (Bruxelles), une session cloud lit la boîte Zimbra « data » et importe les nouvelles VNI sur invest-law.eu.
 
 ## Règles (choix de l'équipe)
