@@ -12,3 +12,4 @@
 ## Origine des articles (demande du 20/10/2026)
 - Chaque article porte une étiquette d'origine sur la page de gestion, avec un filtre : **Recherche Claude** (rédigé à partir de recherches de Claude, sources listées sur l'article), **Document fourni** (à partir d'un document donné par l'équipe), **Veille mails** (mails relevés par la routine).
 - Champ `"origine"` ajouté aux 33 articles existants (`"veille"`) ; règles et nommage des fichiers dans `docs/nouvelles/CONSIGNE.md`.
+- Mise à jour : l'origine devient un sélecteur en tête de page (Veille mails / Document fourni / Recherche Claude, avec le nombre d'articles et une explication) ; les compteurs de statut et l'aperçu suivent l'origine choisie ; les articles « Document fourni » affichent « Demandée par … le … » (champs `demande_par`, `demande_le`).
