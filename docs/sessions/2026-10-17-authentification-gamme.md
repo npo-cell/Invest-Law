@@ -35,3 +35,4 @@
 ### Fiches du site hors gamme One Life (19/10/2026)
 - 25 fiches d'invest-law.eu ne sont pas dans la gamme One Life (relevé du 16/10) : 11 mandats / profils FID (DNCA, Keren, Leleux, Rothschild), 3 fonds actifs (137 ODDO BHF ProActif Europe, 139 PTAM Global Equity R, 165 Carmignac Grandchildren — ISIN du site incomplet « LU196663100 »), 11 fonds inactifs (dont fiches 70 et 373 mal saisies).
 - **Décision de l'utilisatrice : on les garde, on n'y touche pas** (ni suppression, ni ajout au classeur, ni contrôle).
+- **20/10/2026** : le Google Sheet « Gamme One Life complète » (même lien) a été déplacé de la racine du Drive de npo vers le dossier partagé « Invest-Law Noa et Louis » (Louis : modification). Remarque : le fichier est aussi en « tout le monde avec le lien : modification ».
