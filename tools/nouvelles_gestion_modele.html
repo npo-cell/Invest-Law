@@ -1,0 +1,341 @@
+<title>Nouvelles invest-law</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Outil de suivi : compteurs par statut en tête, puis trois vues (gestion, aperçu fidèle à la page Actualités du site, mails non retenus).
+   Couleurs et police reprises d'invest-law.eu (bleu ardoise, cyan, police Avenir). */
+:root{
+  --bg:#f3f6f8;--surface:#ffffff;--ink:#2c3e50;--ink-2:#566b7b;--ink-3:#7c8c98;--line:#dfe6ea;--line-2:#e9eef1;
+  --brand:#3d5263;--accent:#47a2c1;--accent-soft:rgba(71,162,193,.10);--accent-hover:rgba(71,162,193,.06);--btn:#1a88d4;--btn-ink:#ffffff;
+  --st-attente:#b26a00;--st-attente-bg:#fff4e0;--st-corriger:#c0392b;--st-corriger-bg:#fdecea;--st-validee:#1a6fb3;--st-validee-bg:#e7f1fb;
+  --st-publiee:#2e8a50;--st-publiee-bg:#e6f5ec;--st-refusee:#6b7782;--st-refusee-bg:#eef1f3;
+  --note-bg:#fff6e0;--note:#7a5200;--flag-bg:#eaf3fb;--o-recherche:#7a4fb5;--o-document:#0f7f86;--o-veille:#566b7b;--shadow:0 10px 30px rgba(30,45,60,.08);--logo-bg:#ffffff;
+  --f:"Avenir Next",Avenir,"Nunito Sans","Trebuchet MS",system-ui,sans-serif;--f-m:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12181d;--surface:#1a2228;--ink:#e6ecf0;--ink-2:#b2bfc8;--ink-3:#8796a1;--line:#2b363e;--line-2:#253037;
+  --brand:#cfdde7;--accent:#6cc0dc;--accent-soft:rgba(108,192,220,.14);--accent-hover:rgba(108,192,220,.08);--btn:#3d9be0;--btn-ink:#0b1620;
+  --st-attente:#f0b24a;--st-attente-bg:#33270f;--st-corriger:#f08070;--st-corriger-bg:#3a1d1a;--st-validee:#7db8ee;--st-validee-bg:#16293b;
+  --st-publiee:#6fd197;--st-publiee-bg:#173024;--st-refusee:#a3afb9;--st-refusee-bg:#262e34;
+  --note-bg:#2b2412;--note:#e8c97a;--flag-bg:#20303d;--o-recherche:#b99ae6;--o-document:#5cc8cf;--o-veille:#a3b2bd;--shadow:0 10px 30px rgba(0,0,0,.35);--logo-bg:#f4f7f9;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12181d;--surface:#1a2228;--ink:#e6ecf0;--ink-2:#b2bfc8;--ink-3:#8796a1;--line:#2b363e;--line-2:#253037;
+  --brand:#cfdde7;--accent:#6cc0dc;--accent-soft:rgba(108,192,220,.14);--accent-hover:rgba(108,192,220,.08);--btn:#3d9be0;--btn-ink:#0b1620;
+  --st-attente:#f0b24a;--st-attente-bg:#33270f;--st-corriger:#f08070;--st-corriger-bg:#3a1d1a;--st-validee:#7db8ee;--st-validee-bg:#16293b;
+  --st-publiee:#6fd197;--st-publiee-bg:#173024;--st-refusee:#a3afb9;--st-refusee-bg:#262e34;
+  --note-bg:#2b2412;--note:#e8c97a;--flag-bg:#20303d;--o-recherche:#b99ae6;--o-document:#5cc8cf;--o-veille:#a3b2bd;--shadow:0 10px 30px rgba(0,0,0,.35);--logo-bg:#f4f7f9;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--f)}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1200px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px;display:grid;gap:20px}
+header.top{display:grid;gap:6px}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{margin:0;font-size:clamp(24px,4vw,30px);color:var(--brand);line-height:1.2;text-wrap:balance}
+.sub{margin:0;color:var(--ink-2);max-width:75ch}
+.sync{font-size:13px;color:var(--ink-3)} .sync b{font-weight:600}
+/* compteurs */
+.counters{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
+.counter{display:grid;gap:2px;text-align:left;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);cursor:pointer}
+.counter:hover{border-color:var(--accent)}
+.counter[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent-soft)}
+.counter .n{font-size:26px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1.1}
+.counter .l{font-size:13px;color:var(--ink-2);display:flex;align-items:center;gap:6px}
+.dot{width:9px;height:9px;border-radius:999px;flex:0 0 9px;background:currentColor}
+@media (max-width:760px){.counters{grid-template-columns:repeat(3,minmax(0,1fr))}}
+/* onglets */
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);overflow-x:auto}
+.tab{padding:10px 14px;border:0;border-bottom:2px solid transparent;background:none;color:var(--ink-2);font-weight:600;cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--brand);border-bottom-color:var(--accent)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.field{height:34px;padding:6px 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface);min-width:0}
+.tools .field[type="search"]{flex:1 1 240px}
+/* statut */
+.pill{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:999px;font-size:12px;font-weight:700;white-space:nowrap}
+.s-attente{color:var(--st-attente)} .s-corriger{color:var(--st-corriger)} .s-validee{color:var(--st-validee)} .s-publiee{color:var(--st-publiee)} .s-refusee{color:var(--st-refusee)}
+.pill.s-attente{background:var(--st-attente-bg)} .pill.s-corriger{background:var(--st-corriger-bg)} .pill.s-validee{background:var(--st-validee-bg)} .pill.s-publiee{background:var(--st-publiee-bg)} .pill.s-refusee{background:var(--st-refusee-bg)}
+/* gestion */
+.rows{display:grid;gap:10px}
+.row{background:var(--surface);border:1px solid var(--line);border-radius:10px;min-width:0}
+.row-head{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:12px;align-items:center;width:100%;padding:12px 14px;border:0;background:none;text-align:left;cursor:pointer;border-radius:10px}
+.row-head:hover{background:var(--accent-hover)}
+.row-title{font-weight:600;color:var(--brand);line-height:1.35}
+.row-meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:13px;color:var(--ink-3);margin-top:2px}
+.row-meta .warn{color:var(--st-corriger)}
+.orig{display:inline-flex;align-items:center;padding:1px 8px;border-radius:4px;border:1px solid currentColor;font-size:11.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase}
+.o-recherche{color:var(--o-recherche)} .o-document{color:var(--o-document)} .o-veille{color:var(--o-veille)}
+.sources{margin:0 0 12px;padding:10px 12px;border:1px solid var(--line);border-radius:6px;font-size:13px} .sources b{display:block;margin-bottom:4px} .sources ul{margin:0;padding-left:18px} .sources a{color:var(--accent);overflow-wrap:anywhere}
+.chev{color:var(--ink-3);transition:transform .15s} .row.open .chev{transform:rotate(90deg)}
+.row-body{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:20px;padding:4px 14px 16px;border-top:1px solid var(--line-2)}
+@media (max-width:860px){.row-body{grid-template-columns:1fr}.row-head{grid-template-columns:minmax(0,1fr) auto}.row-head .pill{grid-column:1/-1;justify-self:start}}
+.article{font-size:14px;line-height:1.65;overflow-wrap:anywhere;padding-top:12px}
+.article p{margin:0 0 12px} .article ul{margin:0 0 12px;padding-left:22px}
+.note{margin:0 0 12px;font-size:13.5px;background:var(--note-bg);color:var(--note);padding:8px 12px;border-radius:6px}
+.panel{display:grid;gap:12px;align-content:start;padding-top:12px}
+.panel h3{margin:0;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.choices{display:flex;flex-wrap:wrap;gap:6px}
+.choice{display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--surface);font-size:13px;font-weight:600;cursor:pointer}
+.choice[aria-pressed="true"]{border-color:currentColor;box-shadow:inset 0 0 0 1px currentColor}
+.choice:disabled{cursor:not-allowed;opacity:.55}
+textarea.field{height:auto;min-height:70px;width:100%;resize:vertical}
+.btn{background:var(--btn);color:var(--btn-ink);border:0;border-radius:6px;padding:8px 16px;font-weight:600;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn-sec{background:none;color:var(--accent);border:1px solid var(--line);border-radius:6px;padding:7px 12px;font-weight:600;cursor:pointer}
+.actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.msg{font-size:13px;color:var(--ink-3)}
+.hist{margin:0;padding:0;list-style:none;display:grid;gap:6px;font-size:13px;color:var(--ink-2)}
+.hist li{display:grid;gap:1px} .hist .when{color:var(--ink-3);font-size:12px}
+.empty{padding:28px;text-align:center;color:var(--ink-3);background:var(--surface);border:1px dashed var(--line);border-radius:10px}
+/* aperçu du site */
+.mock{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--bg);box-shadow:var(--shadow)}
+.mock-bar{display:flex;align-items:center;gap:10px;padding:8px 12px;background:var(--surface);border-bottom:1px solid var(--line);font-size:12.5px;color:var(--ink-3)}
+.mock-bar .url{flex:1;min-width:0;padding:4px 10px;border-radius:999px;background:var(--bg);font-family:var(--f-m);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mock-in{padding:24px 24px 28px;display:grid;gap:16px}
+.mock-in h1.site{font-size:28px;color:var(--brand);margin:0}
+.doc-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:20px;align-items:start}
+.doc-list{display:flex;flex-direction:column;gap:12px;min-width:0}
+.doc-filter{flex:1;min-width:0;height:30px;padding:6px 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface);font-size:14px}
+.doc-cards{display:flex;flex-direction:column;border-top:1px solid var(--line);max-height:720px;overflow-y:auto}
+.dcard{border-bottom:1px solid var(--line)}
+.dcard.is-active{background:var(--accent-soft)} .dcard:hover{background:var(--accent-hover)} .dcard.is-active:hover{background:var(--accent-soft)}
+.dcard button{display:block;width:100%;padding:14px 10px;border:0;background:none;text-align:left;cursor:pointer}
+.dcard-head{display:flex;align-items:flex-start;gap:10px;margin-bottom:8px;min-width:0}
+.logo{width:34px;height:34px;flex:0 0 34px;border:1px solid var(--line);border-radius:8px;background:var(--logo-bg);display:grid;place-items:center;font-size:11px;font-weight:700;color:#3d5263;letter-spacing:.02em}
+.sdot{width:9px;height:9px;flex:0 0 9px;margin-top:6px;border-radius:999px;background:#c0392b;box-shadow:0 0 0 2px rgba(192,57,43,.12)} .sdot.on{background:#2e9b57;box-shadow:0 0 0 2px rgba(46,155,87,.14)}
+.dcard h2{margin:0;min-width:0;font-size:16px;line-height:1.35;color:var(--brand)}
+.dcard-meta{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.dcard-meta p{margin:0;color:var(--accent);font-size:13px;font-weight:600} .dcard-meta .d{color:var(--ink-3)}
+.flag{padding:3px 8px;border-radius:999px;background:var(--flag-bg);color:var(--brand);font-size:11px;font-weight:700;line-height:1}
+.ncard{background:var(--surface);border-radius:12px;box-shadow:var(--shadow);min-width:0}
+.ncontent{padding:24px 28px 30px;display:grid;gap:24px}
+.ncontent header{padding-bottom:20px;border-bottom:1px solid var(--line-2)}
+.ncontent h2{margin:0 0 6px;color:var(--brand);font-size:22px;line-height:1.3}
+.ncontent header p{margin:0;color:var(--ink-2);font-size:14px}
+.nbody{color:var(--ink);font-size:14px;line-height:1.65;overflow-wrap:anywhere}
+.nbody p{margin:0 0 14px} .nbody p:last-child{margin:0} .nbody ul{margin:0 0 14px;padding-left:22px}
+.mock-note{font-size:13px;color:var(--ink-3);margin:0}
+@media (max-width:900px){.doc-layout{grid-template-columns:1fr}.mock-in{padding:16px}.ncontent{padding:16px}}
+/* mails non retenus */
+.tbl-wrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line-2);vertical-align:top}
+th{font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-3);font-weight:700}
+td.sujet{min-width:240px;font-weight:600;color:var(--brand)} td.raison{min-width:260px;color:var(--ink-2)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <span class="eyebrow">invest-law.eu · Actualités</span>
+    <h1>Gestion des nouvelles</h1>
+    <p class="sub" id="sub"></p>
+    <span class="sync" id="sync">Chargement des statuts partagés…</span>
+  </header>
+
+  <div class="counters" id="counters" role="group" aria-label="Filtrer par statut"></div>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tab-gestion" data-view="gestion" aria-selected="true">Gestion</button>
+    <button class="tab" role="tab" id="tab-apercu" data-view="apercu" aria-selected="false">Aperçu sur le site</button>
+    <button class="tab" role="tab" id="tab-ecartes" data-view="ecartes" aria-selected="false">Mails non retenus</button>
+  </div>
+
+  <section id="view-gestion" class="rows-view" style="display:grid;gap:12px">
+    <div class="tools">
+      <input class="field" id="q" type="search" placeholder="Rechercher un titre, une maison…" autocomplete="off">
+      <select class="field" id="f-type" aria-label="Type"><option value="">Tous les types</option></select>
+      <select class="field" id="f-maison" aria-label="Maison"><option value="">Toutes les maisons</option></select>
+      <select class="field" id="f-origine" aria-label="Origine"><option value="">Toutes les origines</option></select>
+    </div>
+    <div class="rows" id="rows"></div>
+  </section>
+
+  <section id="view-apercu" hidden style="display:grid;gap:12px">
+    <div class="tools">
+      <label class="msg" for="f-apercu">Afficher</label>
+      <select class="field" id="f-apercu">
+        <option value="ok">Validées et publiées (ce que verraient les visiteurs)</option>
+        <option value="all">Toutes sauf refusées</option>
+      </select>
+    </div>
+    <div class="mock">
+      <div class="mock-bar"><span class="url">invest-law.eu/documentation.html</span><span>Aperçu</span></div>
+      <div class="mock-in">
+        <h1 class="site">Les actualités récentes de vos partenaires de gestion</h1>
+        <div class="doc-layout">
+          <aside class="doc-list" aria-label="Liste des nouvelles">
+            <input class="doc-filter" id="site-q" type="search" placeholder="Filtrer par titre, auteur ou maison" autocomplete="off">
+            <div class="doc-cards" id="site-cards"></div>
+          </aside>
+          <div class="ncard"><article class="ncontent">
+            <header><h2 id="site-title">Sélectionnez une nouvelle</h2><p id="site-meta"></p></header>
+            <div class="nbody" id="site-body"><p>Aucune nouvelle sélectionnée.</p></div>
+          </article></div>
+        </div>
+      </div>
+    </div>
+    <p class="mock-note">Mise en page reprise de la page Actualités d'invest-law.eu (vue d'un responsable : point vert = visible, rouge = invisible). Les logos des maisons sont remplacés par leurs initiales. La date affichée est celle du mail source.</p>
+  </section>
+
+  <section id="view-ecartes" hidden style="display:grid;gap:12px">
+    <p class="sub">Mails relevés par la veille et volontairement non transformés en article (confidentiel, interne, événement passé, doublon, contenu illisible…).</p>
+    <div class="tbl-wrap"><table><thead><tr><th>Sujet du mail</th><th>Raison</th></tr></thead><tbody id="ecartes"></tbody></table></div>
+  </section>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const D = JSON.parse(document.getElementById('data').textContent);
+const ST = [
+  {k:'attente', l:'À valider'}, {k:'corriger', l:'À corriger'}, {k:'validee', l:'Validée'},
+  {k:'publiee', l:'Publiée sur le site'}, {k:'refusee', l:'Refusée'}
+];
+const LBL = Object.fromEntries(ST.map(s => [s.k, s.l]));
+// Origine d'un article : recherche = rédigé par Claude à partir de ses propres recherches (sources vérifiées) ; document = à partir d'un document fourni par l'équipe ; veille = mail reçu dans la boîte (routine quotidienne).
+const ORIG = {recherche:'Recherche Claude', document:'Document fourni', veille:'Veille mails'};
+const origine = a => ORIG[a.origine] ? a.origine : 'veille';
+const state = {view:'gestion', filtre:'', open:new Set(), siteId:null, statuts:{}, db:null, user:null, canWrite:false, noms:{}};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = d => d ? d.slice(8,10)+'/'+d.slice(5,7)+'/'+d.slice(0,4) : '';
+const fmtTs = t => { try { const d = new Date(t); return d.toLocaleDateString('fr-BE') + ' à ' + d.toLocaleTimeString('fr-BE',{hour:'2-digit',minute:'2-digit'}); } catch(e) { return ''; } };
+const statut = a => (state.statuts[a.thread] && LBL[state.statuts[a.thread].statut]) ? state.statuts[a.thread].statut : 'attente';
+const initiales = m => String(m||'?').replace(/\(.*?\)/g,'').split(/[\s&.'-]+/).filter(w => w && /^[A-Za-zÀ-ÿ]/.test(w) && !/^(de|la|le|du|des|et|and|co|s\.?a\.?)$/i.test(w)).slice(0,3).map(w => w[0].toUpperCase()).join('') || '?';
+const nom = id => state.noms[id] || 'Quelqu’un';
+
+document.getElementById('sub').textContent = D.articles.length + ' articles : veille des mails des maisons de gestion, documents fournis par l’équipe et recherches de Claude (voir l’étiquette d’origine de chaque article) ; boîte mail vérifiée pour la dernière fois le ' + D.maj + '. Chacun peut changer le statut d’un article et laisser un commentaire : tout le monde voit la même chose.';
+
+// filtres
+[...new Set(D.articles.map(a => a.type))].sort().forEach(t => $('f-type').insertAdjacentHTML('beforeend', `<option>${esc(t)}</option>`));
+[...new Set(D.articles.map(a => a.maison))].sort((a,b) => a.localeCompare(b,'fr')).forEach(m => $('f-maison').insertAdjacentHTML('beforeend', `<option>${esc(m)}</option>`));
+Object.entries(ORIG).forEach(([k,l]) => $('f-origine').insertAdjacentHTML('beforeend', `<option value="${k}">${l} (${D.articles.filter(a => origine(a) === k).length})</option>`));
+['q','f-type','f-maison','f-origine'].forEach(id => $(id).addEventListener('input', renderRows));
+$('f-apercu').addEventListener('change', renderSite);
+$('site-q').addEventListener('input', renderSite);
+document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => setView(b.dataset.view)));
+
+function setView(v) {
+  state.view = v;
+  document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-selected', b.dataset.view === v));
+  ['gestion','apercu','ecartes'].forEach(x => $('view-'+x).hidden = x !== v);
+  if (v === 'apercu') renderSite();
+}
+
+function renderCounters() {
+  const c = Object.fromEntries(ST.map(s => [s.k, 0]));
+  D.articles.forEach(a => c[statut(a)]++);
+  $('counters').innerHTML = `<button class="counter" type="button" data-f="" aria-pressed="${state.filtre===''}"><span class="n">${D.articles.length}</span><span class="l">Toutes</span></button>` +
+    ST.map(s => `<button class="counter" type="button" data-f="${s.k}" aria-pressed="${state.filtre===s.k}"><span class="n s-${s.k}">${c[s.k]}</span><span class="l"><span class="dot s-${s.k}"></span>${s.l}</span></button>`).join('');
+  $('counters').querySelectorAll('.counter').forEach(b => b.onclick = () => { state.filtre = b.dataset.f; if (state.view !== 'gestion') setView('gestion'); renderAll(); });
+}
+
+function renderRows() {
+  const q = $('q').value.trim().toLowerCase(), t = $('f-type').value, m = $('f-maison').value, o = $('f-origine').value;
+  const list = D.articles.filter(a => (!state.filtre || statut(a) === state.filtre) && (!t || a.type === t) && (!m || a.maison === m) && (!o || origine(a) === o) &&
+    (!q || (a.titre + ' ' + a.maison).toLowerCase().includes(q)));
+  if (!list.length) { $('rows').innerHTML = '<div class="empty">Aucun article ne correspond à ces filtres.</div>'; return; }
+  $('rows').innerHTML = list.map(a => {
+    const s = statut(a), r = state.statuts[a.thread] || {}, open = state.open.has(a.thread);
+    const hist = (r.historique || []).slice().reverse();
+    return `<article class="row${open ? ' open' : ''}" data-t="${esc(a.thread)}">
+      <button class="row-head" type="button" aria-expanded="${open}" data-toggle>
+        <span class="pill s-${s}"><span class="dot"></span>${LBL[s]}</span>
+        <span style="min-width:0"><span class="row-title">${esc(a.titre)}</span>
+          <span class="row-meta"><span class="orig o-${origine(a)}">${ORIG[origine(a)]}</span><span>${esc(a.maison)}</span><span>${esc(a.type)}</span><span>${fmt(a.date_source)}</span>
+          ${a.maison_id == null ? '<span class="warn">Maison absente du site</span>' : ''}${a.notes ? '<span>À vérifier</span>' : ''}
+          ${r.par ? `<span>Modifié par ${esc(nom(r.par))}, ${esc(fmtTs(r.le))}</span>` : ''}</span></span>
+        <span class="chev" aria-hidden="true">›</span>
+      </button>
+      ${open ? `<div class="row-body">
+        <div class="article">${a.notes ? `<p class="note"><b>À vérifier :</b> ${esc(a.notes)}</p>` : ''}${(a.sources || []).length ? `<div class="sources"><b>Sources consultées</b><ul>${a.sources.map(x => `<li>${/^https?:\/\//.test(x.url || '') ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titre || x.url)}</a>` : esc(x.titre || x.url)}</li>`).join('')}</ul></div>` : ''}${a.html}</div>
+        <div class="panel">
+          <h3>Statut</h3>
+          <div class="choices">${ST.map(x => `<button type="button" class="choice s-${x.k}" data-st="${x.k}" aria-pressed="${s===x.k}" ${state.canWrite ? '' : 'disabled'}><span class="dot"></span>${x.l}</button>`).join('')}</div>
+          <h3><label for="c-${esc(a.thread)}">Commentaire</label></h3>
+          <textarea class="field" id="c-${esc(a.thread)}" placeholder="Ex. : corriger le chiffre du 2e paragraphe" ${state.canWrite ? '' : 'disabled'}></textarea>
+          <div class="actions"><button class="btn" type="button" data-save ${state.canWrite ? '' : 'disabled'}>Enregistrer</button>
+            <button class="btn-sec" type="button" data-voir>Voir l’aperçu sur le site</button><span class="msg" data-msg></span></div>
+          ${state.canWrite ? '' : '<span class="msg">Modification impossible depuis cette vue (non connecté ou accès en lecture seule).</span>'}
+          <h3>Historique</h3>
+          ${hist.length ? `<ul class="hist">${hist.map(h => `<li><span><b>${esc(LBL[h.statut] || h.statut)}</b> · ${esc(nom(h.par))}${h.note ? ' : ' + esc(h.note) : ''}</span><span class="when">${esc(fmtTs(h.le))}</span></li>`).join('')}</ul>` : '<span class="msg">Aucun changement pour l’instant.</span>'}
+        </div></div>` : ''}
+    </article>`;
+  }).join('');
+}
+
+$('rows').addEventListener('click', e => {
+  const row = e.target.closest('.row'); if (!row) return;
+  const t = row.dataset.t;
+  if (e.target.closest('[data-toggle]')) { state.open.has(t) ? state.open.delete(t) : state.open.add(t); renderRows(); return; }
+  const ch = e.target.closest('[data-st]');
+  if (ch && !ch.disabled) { row.querySelectorAll('[data-st]').forEach(b => b.setAttribute('aria-pressed', b === ch)); return; }
+  if (e.target.closest('[data-voir]')) { state.siteId = t; $('f-apercu').value = 'all'; setView('apercu'); return; }
+  if (e.target.closest('[data-save]')) save(row, t);
+});
+
+async function save(row, t) {
+  const sel = row.querySelector('[data-st][aria-pressed="true"]');
+  const note = row.querySelector('textarea').value.trim();
+  const msg = row.querySelector('[data-msg]');
+  const s = sel ? sel.dataset.st : 'attente';
+  const prev = state.statuts[t] || {};
+  if (s === (prev.statut || 'attente') && !note) { msg.textContent = 'Rien à enregistrer : changez le statut ou écrivez un commentaire.'; return; }
+  const le = new Date().toISOString(), par = state.me || '';
+  const entry = {statut:s, note, par, le};
+  const doc = {statut:s, note, par, le, historique:[...(prev.historique || []), entry].slice(-20)};
+  msg.textContent = 'Enregistrement…';
+  try { await state.db.collection('statuts').doc(t).set(doc); state.statuts[t] = doc; msg.textContent = 'Enregistré.'; renderAll(); }
+  catch (err) { msg.textContent = 'Échec de l’enregistrement (' + (err && err.code || 'erreur') + '). Rechargez la page et réessayez.'; }
+}
+
+function renderSite() {
+  const mode = $('f-apercu').value, q = $('site-q').value.trim().toLowerCase();
+  const list = D.articles.filter(a => { const s = statut(a); return (mode === 'ok' ? (s === 'validee' || s === 'publiee') : s !== 'refusee') && (!q || (a.titre+' '+a.maison+' FR').toLowerCase().includes(q)); });
+  if (!list.some(a => a.thread === state.siteId)) state.siteId = list[0] ? list[0].thread : null;
+  $('site-cards').innerHTML = list.length ? list.map(a => {
+    const on = statut(a) === 'publiee' || statut(a) === 'validee', act = a.thread === state.siteId;
+    return `<article class="dcard${act ? ' is-active' : ''}"><button type="button" data-site="${esc(a.thread)}" aria-pressed="${act}">
+      <div class="dcard-head"><span class="logo" aria-hidden="true">${esc(initiales(a.maison))}</span><span class="sdot${on ? ' on' : ''}" title="${on ? 'Visible' : 'Invisible'}"></span><h2>${esc(a.titre)}</h2></div>
+      <div class="dcard-meta"><p><span>${esc(a.maison)}</span> <span class="d">· ${fmt(a.date_source)}</span></p><span class="flag">FR</span></div>
+    </button></article>`;
+  }).join('') : `<p class="msg" style="padding:14px 10px">${mode === 'ok' ? 'Aucune nouvelle validée ou publiée pour l’instant. Choisissez « Toutes sauf refusées » pour voir les brouillons.' : 'Aucune nouvelle disponible.'}</p>`;
+  const a = D.articles.find(x => x.thread === state.siteId);
+  $('site-title').textContent = a ? a.titre : 'Sélectionnez une nouvelle';
+  $('site-meta').textContent = a ? [a.maison, 'FR', fmt(a.date_source)].join(' · ') : '';
+  $('site-body').innerHTML = a ? a.html : '<p>Aucune nouvelle sélectionnée.</p>';
+}
+$('site-cards').addEventListener('click', e => { const b = e.target.closest('[data-site]'); if (b) { state.siteId = b.dataset.site; renderSite(); } });
+
+$('ecartes').innerHTML = D.ecartes.map(e => `<tr><td class="sujet">${esc(e.sujet)}</td><td class="raison">${esc(e.raison)}</td></tr>`).join('');
+$('tab-ecartes').textContent = 'Mails non retenus (' + D.ecartes.length + ')';
+
+function renderAll() { renderCounters(); renderRows(); if (state.view === 'apercu') renderSite(); }
+renderAll();
+
+async function resolveNoms() {
+  if (!state.user) return;
+  const ids = new Set();
+  Object.values(state.statuts).forEach(r => { if (r.par) ids.add(r.par); (r.historique || []).forEach(h => h.par && ids.add(h.par)); });
+  if (!ids.size) return;
+  try { const ps = await state.user.profiles([...ids]); let ch = false;
+    for (const id of ids) { const n = ps[id] && ps[id].name; if (n && state.noms[id] !== n) { state.noms[id] = n; ch = true; } }
+    if (ch) renderAll(); } catch (e) {}
+}
+
+(async () => {
+  const c = window.claude;
+  const db = c && c.use ? await c.use('db') : null;
+  const user = c && c.use ? await c.use('user') : null;
+  state.user = user;
+  if (!db) { $('sync').textContent = 'Statuts partagés indisponibles dans cette vue : tous les articles apparaissent « À valider ». Ouvrez la page sur claude.ai en étant connecté.'; return; }
+  state.db = db;
+  try { state.me = user ? await user.id() : ''; } catch (e) { state.me = ''; }
+  let can = null; try { can = user ? await user.can('data.write') : null; } catch (e) {}
+  state.canWrite = can !== false;
+  db.collection('statuts').onSnapshot(snap => {
+    const m = {}; snap.docs.forEach(d => { m[d.id] = d.data() || {}; });
+    state.statuts = m;
+    $('sync').innerHTML = '<b>Statuts partagés à jour</b> · ' + (state.canWrite ? 'vous pouvez modifier' : 'lecture seule');
+    renderAll(); resolveNoms();
+  }, err => { $('sync').textContent = 'Impossible de lire les statuts partagés (' + (err && err.code || 'erreur') + ').'; });
+})();
+</script>
