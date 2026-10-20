@@ -39,6 +39,23 @@ La tolérance de 7 jours vient du décalage d'un jour décrit plus bas. Sans ell
 2. **Plus mises à jour (61 fonds)** : dernière VNI le 7 ou le 8/06/2026 pour la plupart. Le flux qui les alimentait s'est arrêté, et la plupart de ces fonds ne viennent ni de CACEIS ni de DNCA.
 3. **Historique en francs (7 fonds : Carmignac, ODDO BHF Avenir, Lazard…)** : chute de 85 % (÷ 6,55957) entre fin 1998 et début 1999. Les performances longues de ces fonds sont donc faussées.
 
+## Ce que le contrôle ne prouve pas (question de Louis, 20/10)
+Le contrôle vérifie la cohérence des séries de VNI. Il ne compare **pas** les valeurs à une source officielle : une VNI plausible peut être fausse.
+- **Vérifié** : les 178 VNI importées par la routine Zimbra (`docs/zimbra-vni/journal.csv`) sont identiques sur le site à celles des fichiers CACEIS et DNCA.
+- **ISIN** : pas de doublon. 16 fiches ont un ISIN invalide, dont 2 avec des VNI :
+  - fiche 172 « DNCA Mandat Patrimoniale » (ISIN `FID DNCA Equil`) ;
+  - fiche 10 « Keren Patrimoine » (`KER---`, inactive), dont la série est **identique** à celle de la fiche 115 « KEREN PATRIMOINE C EUR » (FR0000980427) : c'est un doublon.
+- **Autres fiches à revoir** :
+  - fiche 373 : le nom et l'ISIN sont inversés (nom « LU0128499588 », ISIN « LU373 ») ;
+  - devise « E » au lieu de « EUR » sur 21 fiches ;
+  - « DRIEHAUS US SMALL CAP EQUITY FUND B USD » a la devise « E ».
+- **Pas vérifié** :
+  - les VNI anciennes (avant la routine), dont on ne connaît pas la source ;
+  - la devise des VNI (EUR ou USD) ;
+  - le fait que chaque série corresponde bien à la classe de part de l'ISIN.
+
+  Pour les vérifier : comparer par échantillon avec les factsheets officielles (VNI de fin de mois) ou les fichiers des maisons.
+
 ## Pistes pour la suite (aucune n'est décidée)
 - Fonds aux VNI fausses : retrouver la bonne série auprès de la maison de gestion, puis remplacer l'historique. Montrer ancien → nouveau d'abord.
 - Dates décalées : décider avec l'équipe s'il faut recaler les dates (`PUT /api/funds/{id}/vl?month=`).
