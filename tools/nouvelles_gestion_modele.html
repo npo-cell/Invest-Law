@@ -8,7 +8,7 @@
   --brand:#3d5263;--accent:#47a2c1;--accent-soft:rgba(71,162,193,.10);--accent-hover:rgba(71,162,193,.06);--btn:#1a88d4;--btn-ink:#ffffff;
   --st-attente:#b26a00;--st-attente-bg:#fff4e0;--st-corriger:#c0392b;--st-corriger-bg:#fdecea;--st-validee:#1a6fb3;--st-validee-bg:#e7f1fb;
   --st-publiee:#2e8a50;--st-publiee-bg:#e6f5ec;--st-refusee:#6b7782;--st-refusee-bg:#eef1f3;
-  --note-bg:#fff6e0;--note:#7a5200;--flag-bg:#eaf3fb;--shadow:0 10px 30px rgba(30,45,60,.08);--logo-bg:#ffffff;
+  --note-bg:#fff6e0;--note:#7a5200;--flag-bg:#eaf3fb;--o-recherche:#7a4fb5;--o-document:#0f7f86;--o-veille:#566b7b;--shadow:0 10px 30px rgba(30,45,60,.08);--logo-bg:#ffffff;
   --f:"Avenir Next",Avenir,"Nunito Sans","Trebuchet MS",system-ui,sans-serif;--f-m:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
@@ -16,13 +16,13 @@
   --brand:#cfdde7;--accent:#6cc0dc;--accent-soft:rgba(108,192,220,.14);--accent-hover:rgba(108,192,220,.08);--btn:#3d9be0;--btn-ink:#0b1620;
   --st-attente:#f0b24a;--st-attente-bg:#33270f;--st-corriger:#f08070;--st-corriger-bg:#3a1d1a;--st-validee:#7db8ee;--st-validee-bg:#16293b;
   --st-publiee:#6fd197;--st-publiee-bg:#173024;--st-refusee:#a3afb9;--st-refusee-bg:#262e34;
-  --note-bg:#2b2412;--note:#e8c97a;--flag-bg:#20303d;--shadow:0 10px 30px rgba(0,0,0,.35);--logo-bg:#f4f7f9;color-scheme:dark}}
+  --note-bg:#2b2412;--note:#e8c97a;--flag-bg:#20303d;--o-recherche:#b99ae6;--o-document:#5cc8cf;--o-veille:#a3b2bd;--shadow:0 10px 30px rgba(0,0,0,.35);--logo-bg:#f4f7f9;color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#12181d;--surface:#1a2228;--ink:#e6ecf0;--ink-2:#b2bfc8;--ink-3:#8796a1;--line:#2b363e;--line-2:#253037;
   --brand:#cfdde7;--accent:#6cc0dc;--accent-soft:rgba(108,192,220,.14);--accent-hover:rgba(108,192,220,.08);--btn:#3d9be0;--btn-ink:#0b1620;
   --st-attente:#f0b24a;--st-attente-bg:#33270f;--st-corriger:#f08070;--st-corriger-bg:#3a1d1a;--st-validee:#7db8ee;--st-validee-bg:#16293b;
   --st-publiee:#6fd197;--st-publiee-bg:#173024;--st-refusee:#a3afb9;--st-refusee-bg:#262e34;
-  --note-bg:#2b2412;--note:#e8c97a;--flag-bg:#20303d;--shadow:0 10px 30px rgba(0,0,0,.35);--logo-bg:#f4f7f9;color-scheme:dark}
+  --note-bg:#2b2412;--note:#e8c97a;--flag-bg:#20303d;--o-recherche:#b99ae6;--o-document:#5cc8cf;--o-veille:#a3b2bd;--shadow:0 10px 30px rgba(0,0,0,.35);--logo-bg:#f4f7f9;color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--f)}
 button,input,select,textarea{font:inherit;color:inherit}
@@ -61,6 +61,9 @@ h1{margin:0;font-size:clamp(24px,4vw,30px);color:var(--brand);line-height:1.2;te
 .row-title{font-weight:600;color:var(--brand);line-height:1.35}
 .row-meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:13px;color:var(--ink-3);margin-top:2px}
 .row-meta .warn{color:var(--st-corriger)}
+.orig{display:inline-flex;align-items:center;padding:1px 8px;border-radius:4px;border:1px solid currentColor;font-size:11.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase}
+.o-recherche{color:var(--o-recherche)} .o-document{color:var(--o-document)} .o-veille{color:var(--o-veille)}
+.sources{margin:0 0 12px;padding:10px 12px;border:1px solid var(--line);border-radius:6px;font-size:13px} .sources b{display:block;margin-bottom:4px} .sources ul{margin:0;padding-left:18px} .sources a{color:var(--accent);overflow-wrap:anywhere}
 .chev{color:var(--ink-3);transition:transform .15s} .row.open .chev{transform:rotate(90deg)}
 .row-body{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:20px;padding:4px 14px 16px;border-top:1px solid var(--line-2)}
 @media (max-width:860px){.row-body{grid-template-columns:1fr}.row-head{grid-template-columns:minmax(0,1fr) auto}.row-head .pill{grid-column:1/-1;justify-self:start}}
@@ -141,6 +144,7 @@ td.sujet{min-width:240px;font-weight:600;color:var(--brand)} td.raison{min-width
       <input class="field" id="q" type="search" placeholder="Rechercher un titre, une maison…" autocomplete="off">
       <select class="field" id="f-type" aria-label="Type"><option value="">Tous les types</option></select>
       <select class="field" id="f-maison" aria-label="Maison"><option value="">Toutes les maisons</option></select>
+      <select class="field" id="f-origine" aria-label="Origine"><option value="">Toutes les origines</option></select>
     </div>
     <div class="rows" id="rows"></div>
   </section>
@@ -186,6 +190,9 @@ const ST = [
   {k:'publiee', l:'Publiée sur le site'}, {k:'refusee', l:'Refusée'}
 ];
 const LBL = Object.fromEntries(ST.map(s => [s.k, s.l]));
+// Origine d'un article : recherche = rédigé par Claude à partir de ses propres recherches (sources vérifiées) ; document = à partir d'un document fourni par l'équipe ; veille = mail reçu dans la boîte (routine quotidienne).
+const ORIG = {recherche:'Recherche Claude', document:'Document fourni', veille:'Veille mails'};
+const origine = a => ORIG[a.origine] ? a.origine : 'veille';
 const state = {view:'gestion', filtre:'', open:new Set(), siteId:null, statuts:{}, db:null, user:null, canWrite:false, noms:{}};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -195,12 +202,13 @@ const statut = a => (state.statuts[a.thread] && LBL[state.statuts[a.thread].stat
 const initiales = m => String(m||'?').replace(/\(.*?\)/g,'').split(/[\s&.'-]+/).filter(w => w && /^[A-Za-zÀ-ÿ]/.test(w) && !/^(de|la|le|du|des|et|and|co|s\.?a\.?)$/i.test(w)).slice(0,3).map(w => w[0].toUpperCase()).join('') || '?';
 const nom = id => state.noms[id] || 'Quelqu’un';
 
-document.getElementById('sub').textContent = D.articles.length + ' articles rédigés à partir des mails des maisons de gestion ; boîte mail vérifiée pour la dernière fois le ' + D.maj + '. Chacun peut changer le statut d’un article et laisser un commentaire : tout le monde voit la même chose.';
+document.getElementById('sub').textContent = D.articles.length + ' articles : veille des mails des maisons de gestion, documents fournis par l’équipe et recherches de Claude (voir l’étiquette d’origine de chaque article) ; boîte mail vérifiée pour la dernière fois le ' + D.maj + '. Chacun peut changer le statut d’un article et laisser un commentaire : tout le monde voit la même chose.';
 
 // filtres
 [...new Set(D.articles.map(a => a.type))].sort().forEach(t => $('f-type').insertAdjacentHTML('beforeend', `<option>${esc(t)}</option>`));
 [...new Set(D.articles.map(a => a.maison))].sort((a,b) => a.localeCompare(b,'fr')).forEach(m => $('f-maison').insertAdjacentHTML('beforeend', `<option>${esc(m)}</option>`));
-['q','f-type','f-maison'].forEach(id => $(id).addEventListener('input', renderRows));
+Object.entries(ORIG).forEach(([k,l]) => $('f-origine').insertAdjacentHTML('beforeend', `<option value="${k}">${l} (${D.articles.filter(a => origine(a) === k).length})</option>`));
+['q','f-type','f-maison','f-origine'].forEach(id => $(id).addEventListener('input', renderRows));
 $('f-apercu').addEventListener('change', renderSite);
 $('site-q').addEventListener('input', renderSite);
 document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => setView(b.dataset.view)));
@@ -221,8 +229,8 @@ function renderCounters() {
 }
 
 function renderRows() {
-  const q = $('q').value.trim().toLowerCase(), t = $('f-type').value, m = $('f-maison').value;
-  const list = D.articles.filter(a => (!state.filtre || statut(a) === state.filtre) && (!t || a.type === t) && (!m || a.maison === m) &&
+  const q = $('q').value.trim().toLowerCase(), t = $('f-type').value, m = $('f-maison').value, o = $('f-origine').value;
+  const list = D.articles.filter(a => (!state.filtre || statut(a) === state.filtre) && (!t || a.type === t) && (!m || a.maison === m) && (!o || origine(a) === o) &&
     (!q || (a.titre + ' ' + a.maison).toLowerCase().includes(q)));
   if (!list.length) { $('rows').innerHTML = '<div class="empty">Aucun article ne correspond à ces filtres.</div>'; return; }
   $('rows').innerHTML = list.map(a => {
@@ -232,13 +240,13 @@ function renderRows() {
       <button class="row-head" type="button" aria-expanded="${open}" data-toggle>
         <span class="pill s-${s}"><span class="dot"></span>${LBL[s]}</span>
         <span style="min-width:0"><span class="row-title">${esc(a.titre)}</span>
-          <span class="row-meta"><span>${esc(a.maison)}</span><span>${esc(a.type)}</span><span>${fmt(a.date_source)}</span>
+          <span class="row-meta"><span class="orig o-${origine(a)}">${ORIG[origine(a)]}</span><span>${esc(a.maison)}</span><span>${esc(a.type)}</span><span>${fmt(a.date_source)}</span>
           ${a.maison_id == null ? '<span class="warn">Maison absente du site</span>' : ''}${a.notes ? '<span>À vérifier</span>' : ''}
           ${r.par ? `<span>Modifié par ${esc(nom(r.par))}, ${esc(fmtTs(r.le))}</span>` : ''}</span></span>
         <span class="chev" aria-hidden="true">›</span>
       </button>
       ${open ? `<div class="row-body">
-        <div class="article">${a.notes ? `<p class="note"><b>À vérifier :</b> ${esc(a.notes)}</p>` : ''}${a.html}</div>
+        <div class="article">${a.notes ? `<p class="note"><b>À vérifier :</b> ${esc(a.notes)}</p>` : ''}${(a.sources || []).length ? `<div class="sources"><b>Sources consultées</b><ul>${a.sources.map(x => `<li>${/^https?:\/\//.test(x.url || '') ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titre || x.url)}</a>` : esc(x.titre || x.url)}</li>`).join('')}</ul></div>` : ''}${a.html}</div>
         <div class="panel">
           <h3>Statut</h3>
           <div class="choices">${ST.map(x => `<button type="button" class="choice s-${x.k}" data-st="${x.k}" aria-pressed="${s===x.k}" ${state.canWrite ? '' : 'disabled'}><span class="dot"></span>${x.l}</button>`).join('')}</div>

@@ -6,7 +6,11 @@ https://claude.ai/artifact/VvpoPNQ86DzBFLrqiXjP1b
 **Rien n'est publié sur invest-law.eu** (la publication des nouvelles attend un réglage côté développeur, voir `docs/sessions/2026-10-14-nouvelles.md`). Aucun mail n'est envoyé, déplacé ni supprimé (sauf le mail du code de connexion invest-law si une connexion a été nécessaire).
 
 ## Fichiers
-- `articles/<thread_id>.json` : un article par fil retenu — `{"thread", "date_source" (AAAA-MM-JJ), "maison_id" (id invest-law ou null), "maison", "type" ("Marchés"|"Fonds"|"Événement"|"Étude"), "titre", "html", "notes"}`.
+- `articles/<thread_id>.json` : un article par fil retenu — `{"thread", "date_source" (AAAA-MM-JJ), "maison_id" (id invest-law ou null), "maison", "type" ("Marchés"|"Fonds"|"Événement"|"Étude"), "titre", "html", "notes"}`, "origine"}`.
+- `"origine"` (consigne du 20/10/2026, la page de gestion affiche une étiquette différente pour chacune) :
+  - `"veille"` : mail reçu dans la boîte, relevé par la routine ;
+  - `"document"` : rédigé à partir d'un document donné par un membre de l'équipe dans une conversation (PDF, texte, lien, mail désigné) ; fichier `articles/d-AAAAMMJJ-<sujet>.json`, `"thread"` = ce même identifiant (ou l'id du fil Gmail si le document est un mail), `"date_source"` = date du document ;
+  - `"recherche"` : rédigé par Claude à partir de ses propres recherches ; uniquement des informations exactes et vérifiables auprès de sources fiables (site de la maison, communiqué officiel, presse financière reconnue), recoupées si possible ; fichier `articles/r-AAAAMMJJ-<sujet>.json` ; ajouter `"sources": [{"titre", "url"}]` (obligatoire) ; dernière ligne « Source : … » avec ces sources.
 - `ecartes.txt` : une ligne par fil écarté — `thread | sujet | raison`.
 - `etat.json` : `derniere_verification` (date) et `fils_traites` (tous les thread id déjà examinés, retenus ou écartés).
 - `apercu.html` : généré par `python3 tools/nouvelles_apercu.py` (ne pas l'éditer à la main ; le modèle est `tools/nouvelles_apercu_modele.html`).

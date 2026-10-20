@@ -8,3 +8,7 @@
   - Onglet Mails non retenus : contenu de `ecartes.txt`.
 - **Fichiers** : `tools/nouvelles_gestion.py`, `tools/nouvelles_gestion_modele.html`, `docs/nouvelles/gestion.html` ; consigne de veille mise à jour (`docs/nouvelles/CONSIGNE.md` : régénérer et republier aussi cette page, sans `capabilities` ; tenir compte des statuts).
 - **Limites** : l'ancienne page « Nouvelles à valider » (VvpoPNQ86DzBFLrqiXjP1b) n'est pas accessible depuis ce compte, d'où une nouvelle page. Connexion à invest-law.eu refusée (401, identifiants de l'environnement) : nouvelles déjà en ligne non vérifiées ; logos des maisons inaccessibles (réseau), remplacés par les initiales. Tous les articles démarrent « À valider ».
+
+## Origine des articles (demande du 20/10/2026)
+- Chaque article porte une étiquette d'origine sur la page de gestion, avec un filtre : **Recherche Claude** (rédigé à partir de recherches de Claude, sources listées sur l'article), **Document fourni** (à partir d'un document donné par l'équipe), **Veille mails** (mails relevés par la routine).
+- Champ `"origine"` ajouté aux 33 articles existants (`"veille"`) ; règles et nommage des fichiers dans `docs/nouvelles/CONSIGNE.md`.
