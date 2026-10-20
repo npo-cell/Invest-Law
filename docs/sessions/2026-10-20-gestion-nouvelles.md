@@ -14,8 +14,7 @@
 - Champ `"origine"` ajouté aux 33 articles existants (`"veille"`) ; règles et nommage des fichiers dans `docs/nouvelles/CONSIGNE.md`.
 - Mise à jour : l'origine devient un sélecteur en tête de page (Veille mails / Document fourni / Recherche Claude, avec le nombre d'articles et une explication) ; les compteurs de statut et l'aperçu suivent l'origine choisie ; les articles « Document fourni » affichent « Demandée par … le … » (champs `demande_par`, `demande_le`).
 
-## Source des mails : data@invest-law.eu uniquement (demande du 20/10/2026)
-- La page de gestion ne reprend plus que les mails de la boîte data@invest-law.eu (Zimbra) ; la boîte Gmail npo@lifeb2b.com n'est plus utilisée. Les 33 articles Gmail restent dans le dépôt (`"boite": "npo@lifeb2b.com"`) mais ne sont plus affichés.
-- Boîte data@ lue (71 mails depuis le 05/10/2026, surtout des VNI DNCA / CACEIS) : 4 articles rédigés (CMF Hebdo 12–16/10, DNCA Invest Alpha Bonds hebdo, J.P. Morgan AM vues d'allocation 4T 2026, Probus Pleion Billet du Jour n° 169 d'après le PDF complet) ; écartés : échange confidentiel OneLife / Rothschild sur la division de la VNI de R-co Valor F, pub Elite News, mail de test, envois de VNI.
-- Points à vérifier : semaine couverte par l'hebdo DNCA (objet « 05–09/10 », contenu 12–16/10) ; mention « professionnels uniquement » de J.P. Morgan ; CMF et Probus absents du site.
-- Nouveaux fichiers : `ecartes-data.txt`, `etat-data.json` ; consigne et guide mis à jour (étapes Zimbra) ; page partagée « toute personne ayant le lien ».
+## Branchement sur la routine de Noa (demande du 20/10/2026, remplace la section précédente annulée)
+- Annulé : la page n'a pas sa propre veille sur data@. Mes 4 articles data@, `ecartes-data.txt` et `etat-data.json` sont supprimés (la routine de Noa traitera ces mails : pas de doublons) ; la consigne de la routine de Noa (`CONSIGNE.md`) est remise exactement comme Noa l'a laissée (#90), sans mes ajouts ; champs ajoutés aux articles retirés ; guide remis.
+- La page affiche en lecture seule tout ce que produit la routine de Noa (33 articles, 46 mails non retenus), avec la boîte d'origine (Gmail ou data@) sur chaque article.
+- Fonctionnement de la page : `docs/nouvelles/GESTION.md` ; mise à jour quotidienne par une tâche planifiée du compte de Louis (9h46, après la veille de 7h59).
