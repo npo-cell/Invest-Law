@@ -1,5 +1,7 @@
 # Veille « Nouvelles » : consigne de la routine quotidienne
 
+~~Deux boîtes à relever (demande du 20/10/2026)~~ (consigne d'une autre session du 20/10/2026, remplacée par la suivante)
+
 > **Changement du 20/10/2026 (demande de Louis)** : la veille lit **uniquement la boîte data@invest-law.eu** (Zimbra, `tools/zimbra_mail.py`, lecture seule ; réglage : `docs/2026-10-19-guide-zimbra.md`). La boîte Gmail npo@lifeb2b.com n'est plus utilisée. Les articles Gmail déjà rédigés restent dans `articles/` (`"boite": "npo@lifeb2b.com"`) mais ne sont plus affichés ; l'ancienne page « Nouvelles à valider » (VvpoPNQ86DzBFLrqiXjP1b), ainsi que `ecartes.txt`, `etat.json` et `tools/nouvelles_apercu.py`, ne sont plus mis à jour. La page de suivi est désormais la page « Gestion des nouvelles » : https://claude.ai/artifact/E3iZyR26aZ5UxhvSoqVn6c
 
 Demande de l'utilisatrice (14/10/2026) : chaque jour, relever dans sa boîte Gmail (npo@lifeb2b.com) les nouvelles newsletters et communications des maisons de gestion (point sur un fonds, vue macro / marchés, étude, événement à venir), en faire de petits articles, et garder à jour la page « Nouvelles à valider » :
@@ -13,7 +15,7 @@ https://claude.ai/artifact/VvpoPNQ86DzBFLrqiXjP1b
   - `"veille"` : mail reçu dans la boîte, relevé par la routine ;
   - `"document"` : rédigé à partir d'un document donné par un membre de l'équipe dans une conversation (PDF, texte, lien, mail désigné) ; fichier `articles/d-AAAAMMJJ-<sujet>.json`, `"thread"` = ce même identifiant (ou l'id du fil Gmail si le document est un mail), `"date_source"` = date du document ; ajouter `"demande_par"` (prénom de la personne qui a donné le document) et `"demande_le"` (AAAA-MM-JJ, date de la demande), affichés sur la page pour distinguer ces articles de ceux de la veille ;
   - `"recherche"` : rédigé par Claude à partir de ses propres recherches ; uniquement des informations exactes et vérifiables auprès de sources fiables (site de la maison, communiqué officiel, presse financière reconnue), recoupées si possible ; fichier `articles/r-AAAAMMJJ-<sujet>.json` ; ajouter `"sources": [{"titre", "url"}]` (obligatoire) ; dernière ligne « Source : … » avec ces sources.
-- Champ `"boite"` : `"data@invest-law.eu"` pour la veille (obligatoire, sinon l'article n'est pas affiché) ; `"thread"` = `zimbra-<id du message>` ; fichier `articles/zimbra-<id>.json`.
+- Champ `"boite"` : `"data@invest-law.eu"` pour la veille (obligatoire, sinon l'article n'est pas affiché) ; `"thread"` = `z-<id du message>` ; fichier `articles/z-<id>.json`.
 - `ecartes-data.txt` : une ligne par mail écarté — `thread | sujet | raison`.
 - `etat-data.json` : `derniere_verification` (date) et `fils_traites` (ids Zimbra déjà examinés, retenus ou écartés).
 - Anciens fichiers de la veille Gmail (plus mis à jour) : `ecartes.txt`, `etat.json`.
