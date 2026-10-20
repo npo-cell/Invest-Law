@@ -4,3 +4,8 @@
 - 4 mails à traiter à la main (lla@lifeb2b.com) : CMF Hebdo 12-16/10, Elite News, DNCA Alpha Bonds Hebdo 05-09/10, Global Asset Allocation Views 4Q 2026.
 - Fil de codes de connexion Gmail non mis à la corbeille (action refusée).
 - Mémoire : `docs/zimbra-vni/journal.csv`, `mails.csv`.
+
+## Passage de 17h (cloud)
+- 16 VNI importées (4 Leleux au 15/10 : Equities World FOF R/P, Patrimonial World FOF P/PA ; 12 DNCA au 19/10), 1 ignorée (déjà présente). Aucune écartée, `ecarts_relecture` vide.
+- 2 mails à traiter à la main (lla@lifeb2b.com) : « Fwd: Point hebdomadaire sur les marchés », « Fwd: R-co Valor F - NIW split ».
+- Fil de codes de connexion Gmail non mis à la corbeille (action refusée).
