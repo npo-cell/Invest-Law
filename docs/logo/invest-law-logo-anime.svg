@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 196" role="img" aria-labelledby="il-t">
+  <title id="il-t">Invest Law</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&amp;display=swap");
+    svg { --k: 1; }
+    .il-txt { font-family: Montserrat, "Helvetica Neue", Arial, sans-serif; font-size: 60px; fill: #425262; }
+    .il-blue, .il-dark, .il-word, .il-sweep { animation-fill-mode: both; animation-timing-function: cubic-bezier(.2,.8,.2,1); }
+    .il-blue  { animation-name: il-in-top; animation-duration: calc(.75s * var(--k)); }
+    .il-dark  { animation-name: il-in-bot; animation-duration: calc(.75s * var(--k)); animation-delay: calc(.22s * var(--k)); }
+    .il-mark  { transform-origin: 64px 90px; animation: il-settle calc(.5s * var(--k)) calc(.85s * var(--k)) ease-out both; }
+    .il-w1    { animation-name: il-rise; animation-duration: calc(.8s * var(--k)); animation-delay: calc(.8s * var(--k)); }
+    .il-w2    { animation-name: il-rise; animation-duration: calc(.8s * var(--k)); animation-delay: calc(1.02s * var(--k)); }
+    .il-s1    { animation-name: il-sweep; animation-duration: calc(.9s * var(--k)); animation-delay: calc(.8s * var(--k)); }
+    .il-s2    { animation-name: il-sweep; animation-duration: calc(.9s * var(--k)); animation-delay: calc(1.02s * var(--k)); }
+    @keyframes il-in-top { from { opacity: 0; transform: translate(30px,-30px); } to { opacity: 1; transform: none; } }
+    @keyframes il-in-bot { from { opacity: 0; transform: translate(30px,30px); } to { opacity: 1; transform: none; } }
+    @keyframes il-settle { 0% { transform: scale(1); } 40% { transform: scale(.965); } 100% { transform: scale(1); } }
+    @keyframes il-rise { from { transform: translateX(-10px); } to { transform: none; } }
+    @keyframes il-sweep { from { transform: translateX(-300px); } to { transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="il-g" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff"/><stop offset=".8" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="il-m1" maskUnits="userSpaceOnUse" x="0" y="0" width="370" height="196"><rect class="il-sweep il-s1" x="100" y="20" width="300" height="70" fill="url(#il-g)"/></mask>
+    <mask id="il-m2" maskUnits="userSpaceOnUse" x="0" y="0" width="370" height="196"><rect class="il-sweep il-s2" x="100" y="96" width="300" height="70" fill="url(#il-g)"/></mask>
+  </defs>
+  <g class="il-mark">
+    <path class="il-blue" fill="#60A0BE" d="M38 106V73L80.5 30.5Q83.5 27.5 86.5 30.5Q89.5 33.5 89.5 40V54.5Z"/>
+    <path class="il-dark" fill="#425262" d="M54.5 89.5L89.5 124.5V141Q89.5 147.5 86 151Q82.5 154 79.5 150.5L37.5 106.5Z"/>
+  </g>
+  <g mask="url(#il-m1)"><text class="il-txt il-word il-w1" x="111" y="81.5" textLength="236" lengthAdjust="spacingAndGlyphs">INVEST</text></g>
+  <g mask="url(#il-m2)"><text class="il-txt il-word il-w2" x="111" y="152.5" textLength="145" lengthAdjust="spacingAndGlyphs">LAW</text></g>
+</svg>
