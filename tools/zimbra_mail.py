@@ -9,7 +9,7 @@ Identifiants lus dans l'environnement : ZIMBRA_USER, ZIMBRA_PASSWORD
   python3 tools/zimbra_mail.py list [N] [--query "from:leleux after:10/15/2026"]
   python3 tools/zimbra_mail.py get <id> [--save DIR]    # texte + pièces jointes
 """
-import base64, email, json, os, sys, urllib.parse, urllib.request
+import base64, email, html, json, os, re, sys, urllib.parse, urllib.request
 from datetime import datetime
 from email.header import decode_header, make_header
 
@@ -53,6 +53,7 @@ def cmd_get(args):
     for k in ('From', 'To', 'Date', 'Subject'):
         print(f"{k}: {h(msg[k])}")
     out = opt(args, '--save')
+    has_plain = any(p.get_content_type() == 'text/plain' and not p.get_filename() for p in msg.walk())
     for part in msg.walk():
         name = part.get_filename()
         if name:
@@ -64,6 +65,12 @@ def cmd_get(args):
             print(f"[pièce jointe] {name}" + (f" -> {out}/{name}" if out else ''))
         elif part.get_content_type() == 'text/plain':
             print('\n' + part.get_payload(decode=True).decode(part.get_content_charset() or 'utf-8', 'replace'))
+        elif part.get_content_type() == 'text/html' and not has_plain:  # newsletter sans partie texte
+            t = part.get_payload(decode=True).decode(part.get_content_charset() or 'utf-8', 'replace')
+            t = re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>', '', t)
+            t = re.sub(r'(?i)<br\s*/?>|</(p|div|tr|li|h\d)>', '\n', t)
+            t = html.unescape(re.sub(r'<[^>]+>', '', t))
+            print('\n' + re.sub(r'\n\s*\n+', '\n\n', re.sub(r'[ \t\xa0]+', ' ', t)).strip())
 
 
 if __name__ == '__main__':
