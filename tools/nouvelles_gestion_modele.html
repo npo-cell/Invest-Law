@@ -184,7 +184,7 @@ td.sujet{min-width:240px;font-weight:600;color:var(--brand)} td.raison{min-width
   </section>
 
   <section id="view-ecartes" hidden style="display:grid;gap:12px">
-    <p class="sub">Mails relevés par la veille et volontairement non transformés en article (confidentiel, interne, événement passé, doublon, contenu illisible…).</p>
+    <p class="sub">Mails de la boîte data@invest-law.eu relevés par la veille et volontairement non transformés en article (confidentiel, interne, événement passé, doublon, contenu illisible…).</p>
     <div class="tbl-wrap"><table><thead><tr><th>Sujet du mail</th><th>Raison</th></tr></thead><tbody id="ecartes"></tbody></table></div>
   </section>
 </div>
@@ -199,7 +199,7 @@ const ST = [
 const LBL = Object.fromEntries(ST.map(s => [s.k, s.l]));
 // Origine d'un article : recherche = rédigé par Claude à partir de ses propres recherches (sources vérifiées) ; document = à partir d'un document fourni par l'équipe ; veille = mail reçu dans la boîte (routine quotidienne).
 const ORIG = {veille:'Veille mails', document:'Document fourni', recherche:'Recherche Claude'};
-const ORIG_D = {veille:'Rédigées par Claude à partir des mails reçus dans la boîte (routine quotidienne)', document:'Rédigées à la demande de l’équipe, à partir d’un document fourni', recherche:'Rédigées par Claude à partir de ses propres recherches, sources citées'};
+const ORIG_D = {veille:'Rédigées par Claude à partir des mails reçus sur data@invest-law.eu', document:'Rédigées à la demande de l’équipe, à partir d’un document fourni', recherche:'Rédigées par Claude à partir de ses propres recherches, sources citées'};
 const origine = a => ORIG[a.origine] ? a.origine : 'veille';
 const state = {view:'gestion', filtre:'', origine:'', open:new Set(), siteId:null, statuts:{}, db:null, user:null, canWrite:false, noms:{}};
 const $ = id => document.getElementById(id);
@@ -210,7 +210,7 @@ const statut = a => (state.statuts[a.thread] && LBL[state.statuts[a.thread].stat
 const initiales = m => String(m||'?').replace(/\(.*?\)/g,'').split(/[\s&.'-]+/).filter(w => w && /^[A-Za-zÀ-ÿ]/.test(w) && !/^(de|la|le|du|des|et|and|co|s\.?a\.?)$/i.test(w)).slice(0,3).map(w => w[0].toUpperCase()).join('') || '?';
 const nom = id => state.noms[id] || 'Quelqu’un';
 
-document.getElementById('sub').textContent = D.articles.length + ' articles : veille des mails des maisons de gestion, documents fournis par l’équipe et recherches de Claude (voir l’étiquette d’origine de chaque article) ; boîte mail vérifiée pour la dernière fois le ' + D.maj + '. Chacun peut changer le statut d’un article et laisser un commentaire : tout le monde voit la même chose.';
+document.getElementById('sub').textContent = D.articles.length + ' articles : veille des mails reçus sur ' + D.boite + ', documents fournis par l’équipe et recherches de Claude ; boîte ' + D.boite + ' vérifiée pour la dernière fois le ' + D.maj + '. Chacun peut changer le statut d’un article et laisser un commentaire : tout le monde voit la même chose.';
 
 // filtres
 [...new Set(D.articles.map(a => a.type))].sort().forEach(t => $('f-type').insertAdjacentHTML('beforeend', `<option>${esc(t)}</option>`));
