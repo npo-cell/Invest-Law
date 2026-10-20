@@ -18,3 +18,4 @@
 - Annulé : la page n'a pas sa propre veille sur data@. Mes 4 articles data@, `ecartes-data.txt` et `etat-data.json` sont supprimés (la routine de Noa traitera ces mails : pas de doublons) ; la consigne de la routine de Noa (`CONSIGNE.md`) est remise exactement comme Noa l'a laissée (#90), sans mes ajouts ; champs ajoutés aux articles retirés ; guide remis.
 - La page affiche en lecture seule tout ce que produit la routine de Noa (33 articles, 46 mails non retenus), avec la boîte d'origine (Gmail ou data@) sur chaque article.
 - Fonctionnement de la page : `docs/nouvelles/GESTION.md` ; mise à jour quotidienne par une tâche planifiée du compte de Louis (9h46, après la veille de 7h59).
+- Tâche planifiée créée : `trig_01JGrkFC4zUFrzrqK5BLbyn3` (9h46 Paris, nouvelle session à chaque passage, premier passage le 21/10). Elle n'a pas de connecteur GitHub : si la fusion échoue, elle pousse la branche et le note.
