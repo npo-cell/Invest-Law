@@ -1,0 +1,9 @@
+# Page « Gestion des nouvelles »
+
+Page de suivi des nouvelles pour l'équipe (demande de Louis, 20/10/2026) : https://claude.ai/artifact/E3iZyR26aZ5UxhvSoqVn6c
+
+- **Lecture seule du travail de la routine de veille de Noa** (`docs/nouvelles/CONSIGNE.md`, tâche planifiée sur le compte de Noa) : la page reprend `articles/*.json`, `ecartes.txt` et `etat.json`. On ne modifie ni la consigne ni la routine de Noa, et on ne rédige pas d'articles de veille en parallèle (pas de doublons).
+- **Statuts** (À valider, À corriger, Validée, Publiée sur le site, Refusée), commentaires et historique : réglés par l'équipe sur la page, enregistrés dans la base de l'artéfact (collection `statuts`, une fiche par `thread`), pas dans le dépôt.
+- **Origine** affichée sur chaque article : champ `"origine"` absent ou `"veille"` = routine de veille (boîte : `z-<id>` = data@invest-law.eu, sinon Gmail) ; `"document"` = rédigé à partir d'un document donné par l'équipe dans une conversation (fichier `articles/d-AAAAMMJJ-<sujet>.json`, `"thread"` = même identifiant, champs `"demande_par"` et `"demande_le"`) ; `"recherche"` = rédigé par Claude à partir de ses propres recherches, informations exactes et vérifiables uniquement, `"sources": [{"titre", "url"}]` obligatoire (fichier `articles/r-AAAAMMJJ-<sujet>.json`).
+- **Génération** : `python3 tools/nouvelles_gestion.py` (modèle `tools/nouvelles_gestion_modele.html`) → `docs/nouvelles/gestion.html`.
+- **Mise à jour quotidienne** (tâche planifiée du compte de Louis, chaque jour à 9h46, après la veille de Noa de 7h59) : intégrer la branche par défaut, régénérer, republier `docs/nouvelles/gestion.html` au lien ci-dessus (outil Artifact avec `url`, **sans** paramètre `capabilities` pour garder la base des statuts), commit + fusion. Elle ne lit aucune boîte mail et ne touche à aucun autre fichier.
