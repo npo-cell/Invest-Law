@@ -13,3 +13,7 @@
 
 **Liens**
 - Artéfact : https://claude.ai/artifact/5iVMPkqiapFZ4ZCbiDz8Ai (privé, à partager depuis le menu Partager)
+
+## Mise à jour — version « spectaculaire »
+- `docs/logo/invest-law-logo-anime-v2.svg` (3,2 s) : tracé au trait des deux pièces, emboîtement avec impact et deux ondes, remplissage, lettres une à une avec rebond, reflet final. Classes préfixées `il2-` pour coexister avec la v1 dans une même page. Positions des lettres relevées sur Montserrat (étirement horizontal ×1,083 pour INVEST, comme le logo).
+- La page de démo propose les deux versions (Spectaculaire par défaut / Sobre) ; même lien d'artéfact, version 2.
