@@ -6,3 +6,4 @@
 - **Décisions** : données de contact non versionnées (dépôt public) ; segmentations internes AXA/Allianz non utilisées ; KBC/Belfius/Ethias/Federale sans courtiers.
 - **Contrôle** : Sheet ↔ CSV cellule par cellule, 0 écart.
 - Aussi ce jour : PDF « Comprendre les fonds de la gamme One Life » sur le Drive (voir `2026-10-19-fiche-comprendre-fonds.md`).
+- **20/10 : classement par taille** : comptes annuels BNB (Centrale des bilans) ajoutés au Sheet, tri par revenus (CA, sinon marge brute) ; détails dans le README. 0 écart au contrôle.

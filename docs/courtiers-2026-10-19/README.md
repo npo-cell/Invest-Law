@@ -23,3 +23,9 @@ Les données (noms, contacts) ne sont **pas** versionnées ici : le dépôt est 
 - KBC, Belfius, Ethias, Federale : pas de courtiers (réseau propre). Athora, Vivium, Cardif : pas d'annuaire exploitable. Assureurs luxembourgeois : aucune liste publique de courtiers partenaires.
 - « Compagnies identifiées » est un minimum. Rattachements par nom à vérifier avant contact.
 - Contrôle Sheet ↔ CSV cellule par cellule : 0 écart (les « + » des téléphones ont été réécrits en texte).
+
+## Taille (ajout du 20/10/2026)
+- `nbb_collect.py <scratchpad>` : pour chaque n° BCE, dernier dépôt de comptes à la Centrale des bilans (`consult.cbso.nbb.be/api/rs-consult/published-deposits?enterpriseNumber=…`, puis CSV du dépôt `…/api/external/broker/public/deposits/consult/csv/<id>`). Codes repris : 70 (chiffre d'affaires), 9900 (marge brute), 10/49 (total du bilan), 9087 / 1003 (ETP), 9905 (résultat).
+- Comptes trouvés pour 1 456 courtiers (surtout exercice 2025) ; chiffre d'affaires publié par 114 seulement (modèles abrégé/micro), marge brute par 1 428.
+- Sheet : colonnes T à AA (exercice, CA, marge brute, bilan, ETP, résultat, « Revenus = CA sinon marge brute », taille), tri par revenus décroissants. Seuils de taille modifiables dans Lisez-moi (Grand ≥ 1 M€, Moyen ≥ 250 k€, Petit ≥ 100 k€) : 107 grands, 436 moyens, 357 petits, 543 très petits, 73 sans comptes.
+- Contrôle Sheet ↔ données BNB cellule par cellule après tri : 0 écart.
