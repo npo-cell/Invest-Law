@@ -41,6 +41,12 @@ h1{margin:0;font-size:clamp(24px,4vw,30px);color:var(--brand);line-height:1.2;te
 .counter .n{font-size:26px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1.1}
 .counter .l{font-size:13px;color:var(--ink-2);display:flex;align-items:center;gap:6px}
 .dot{width:9px;height:9px;border-radius:999px;flex:0 0 9px;background:currentColor}
+.origins{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.ori{display:grid;gap:4px;text-align:left;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);cursor:pointer;min-width:0}
+.ori:hover{border-color:var(--accent)} .ori[aria-pressed="true"]{border-color:currentColor;box-shadow:inset 0 0 0 1px currentColor}
+.ori .t{display:flex;justify-content:space-between;gap:8px;font-weight:700;font-size:14.5px} .ori .t span:last-child{font-variant-numeric:tabular-nums}
+.ori .d{font-size:12.5px;color:var(--ink-2);line-height:1.4} .ori.o-tous{color:var(--brand)}
+@media (max-width:860px){.origins{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:760px){.counters{grid-template-columns:repeat(3,minmax(0,1fr))}}
 /* onglets */
 .tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);overflow-x:auto}
@@ -131,6 +137,8 @@ td.sujet{min-width:240px;font-weight:600;color:var(--brand)} td.raison{min-width
     <span class="sync" id="sync">Chargement des statuts partagés…</span>
   </header>
 
+  <div class="origins" id="origins" role="group" aria-label="Filtrer par origine"></div>
+
   <div class="counters" id="counters" role="group" aria-label="Filtrer par statut"></div>
 
   <div class="tabs" role="tablist">
@@ -144,7 +152,6 @@ td.sujet{min-width:240px;font-weight:600;color:var(--brand)} td.raison{min-width
       <input class="field" id="q" type="search" placeholder="Rechercher un titre, une maison…" autocomplete="off">
       <select class="field" id="f-type" aria-label="Type"><option value="">Tous les types</option></select>
       <select class="field" id="f-maison" aria-label="Maison"><option value="">Toutes les maisons</option></select>
-      <select class="field" id="f-origine" aria-label="Origine"><option value="">Toutes les origines</option></select>
     </div>
     <div class="rows" id="rows"></div>
   </section>
@@ -191,9 +198,10 @@ const ST = [
 ];
 const LBL = Object.fromEntries(ST.map(s => [s.k, s.l]));
 // Origine d'un article : recherche = rédigé par Claude à partir de ses propres recherches (sources vérifiées) ; document = à partir d'un document fourni par l'équipe ; veille = mail reçu dans la boîte (routine quotidienne).
-const ORIG = {recherche:'Recherche Claude', document:'Document fourni', veille:'Veille mails'};
+const ORIG = {veille:'Veille mails', document:'Document fourni', recherche:'Recherche Claude'};
+const ORIG_D = {veille:'Rédigées par Claude à partir des mails reçus dans la boîte (routine quotidienne)', document:'Rédigées à la demande de l’équipe, à partir d’un document fourni', recherche:'Rédigées par Claude à partir de ses propres recherches, sources citées'};
 const origine = a => ORIG[a.origine] ? a.origine : 'veille';
-const state = {view:'gestion', filtre:'', open:new Set(), siteId:null, statuts:{}, db:null, user:null, canWrite:false, noms:{}};
+const state = {view:'gestion', filtre:'', origine:'', open:new Set(), siteId:null, statuts:{}, db:null, user:null, canWrite:false, noms:{}};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmt = d => d ? d.slice(8,10)+'/'+d.slice(5,7)+'/'+d.slice(0,4) : '';
@@ -207,8 +215,7 @@ document.getElementById('sub').textContent = D.articles.length + ' articles : ve
 // filtres
 [...new Set(D.articles.map(a => a.type))].sort().forEach(t => $('f-type').insertAdjacentHTML('beforeend', `<option>${esc(t)}</option>`));
 [...new Set(D.articles.map(a => a.maison))].sort((a,b) => a.localeCompare(b,'fr')).forEach(m => $('f-maison').insertAdjacentHTML('beforeend', `<option>${esc(m)}</option>`));
-Object.entries(ORIG).forEach(([k,l]) => $('f-origine').insertAdjacentHTML('beforeend', `<option value="${k}">${l} (${D.articles.filter(a => origine(a) === k).length})</option>`));
-['q','f-type','f-maison','f-origine'].forEach(id => $(id).addEventListener('input', renderRows));
+['q','f-type','f-maison'].forEach(id => $(id).addEventListener('input', renderRows));
 $('f-apercu').addEventListener('change', renderSite);
 $('site-q').addEventListener('input', renderSite);
 document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => setView(b.dataset.view)));
@@ -220,19 +227,28 @@ function setView(v) {
   if (v === 'apercu') renderSite();
 }
 
+function renderOrigins() {
+  const n = k => D.articles.filter(a => origine(a) === k).length;
+  $('origins').innerHTML = `<button class="ori o-tous" type="button" data-o="" aria-pressed="${state.origine===''}"><span class="t"><span>Toutes les origines</span><span>${D.articles.length}</span></span><span class="d">Veille, documents fournis et recherches</span></button>` +
+    Object.keys(ORIG).map(k => `<button class="ori o-${k}" type="button" data-o="${k}" aria-pressed="${state.origine===k}"><span class="t"><span>${ORIG[k]}</span><span>${n(k)}</span></span><span class="d">${ORIG_D[k]}</span></button>`).join('');
+  $('origins').querySelectorAll('.ori').forEach(b => b.onclick = () => { state.origine = b.dataset.o; if (state.view === 'ecartes') setView('gestion'); renderAll(); });
+}
+const parOrigine = a => !state.origine || origine(a) === state.origine;
+
 function renderCounters() {
   const c = Object.fromEntries(ST.map(s => [s.k, 0]));
-  D.articles.forEach(a => c[statut(a)]++);
-  $('counters').innerHTML = `<button class="counter" type="button" data-f="" aria-pressed="${state.filtre===''}"><span class="n">${D.articles.length}</span><span class="l">Toutes</span></button>` +
+  const base = D.articles.filter(parOrigine);
+  base.forEach(a => c[statut(a)]++);
+  $('counters').innerHTML = `<button class="counter" type="button" data-f="" aria-pressed="${state.filtre===''}"><span class="n">${base.length}</span><span class="l">Toutes</span></button>` +
     ST.map(s => `<button class="counter" type="button" data-f="${s.k}" aria-pressed="${state.filtre===s.k}"><span class="n s-${s.k}">${c[s.k]}</span><span class="l"><span class="dot s-${s.k}"></span>${s.l}</span></button>`).join('');
   $('counters').querySelectorAll('.counter').forEach(b => b.onclick = () => { state.filtre = b.dataset.f; if (state.view !== 'gestion') setView('gestion'); renderAll(); });
 }
 
 function renderRows() {
-  const q = $('q').value.trim().toLowerCase(), t = $('f-type').value, m = $('f-maison').value, o = $('f-origine').value;
-  const list = D.articles.filter(a => (!state.filtre || statut(a) === state.filtre) && (!t || a.type === t) && (!m || a.maison === m) && (!o || origine(a) === o) &&
+  const q = $('q').value.trim().toLowerCase(), t = $('f-type').value, m = $('f-maison').value;
+  const list = D.articles.filter(a => (!state.filtre || statut(a) === state.filtre) && (!t || a.type === t) && (!m || a.maison === m) && parOrigine(a) &&
     (!q || (a.titre + ' ' + a.maison).toLowerCase().includes(q)));
-  if (!list.length) { $('rows').innerHTML = '<div class="empty">Aucun article ne correspond à ces filtres.</div>'; return; }
+  if (!list.length) { $('rows').innerHTML = `<div class="empty">${state.origine === 'document' && !D.articles.some(a => origine(a) === 'document') ? 'Aucune nouvelle rédigée à partir d’un document fourni pour l’instant. Donnez un document à Claude dans une conversation : l’article apparaîtra ici.' : state.origine === 'recherche' && !D.articles.some(a => origine(a) === 'recherche') ? 'Aucune nouvelle issue des recherches de Claude pour l’instant.' : 'Aucun article ne correspond à ces filtres.'}</div>`; return; }
   $('rows').innerHTML = list.map(a => {
     const s = statut(a), r = state.statuts[a.thread] || {}, open = state.open.has(a.thread);
     const hist = (r.historique || []).slice().reverse();
@@ -240,7 +256,7 @@ function renderRows() {
       <button class="row-head" type="button" aria-expanded="${open}" data-toggle>
         <span class="pill s-${s}"><span class="dot"></span>${LBL[s]}</span>
         <span style="min-width:0"><span class="row-title">${esc(a.titre)}</span>
-          <span class="row-meta"><span class="orig o-${origine(a)}">${ORIG[origine(a)]}</span><span>${esc(a.maison)}</span><span>${esc(a.type)}</span><span>${fmt(a.date_source)}</span>
+          <span class="row-meta"><span class="orig o-${origine(a)}">${ORIG[origine(a)]}</span>${a.demande_par ? `<span>Demandée par ${esc(a.demande_par)}${a.demande_le ? ' le ' + fmt(a.demande_le) : ''}</span>` : ''}<span>${esc(a.maison)}</span><span>${esc(a.type)}</span><span>${fmt(a.date_source)}</span>
           ${a.maison_id == null ? '<span class="warn">Maison absente du site</span>' : ''}${a.notes ? '<span>À vérifier</span>' : ''}
           ${r.par ? `<span>Modifié par ${esc(nom(r.par))}, ${esc(fmtTs(r.le))}</span>` : ''}</span></span>
         <span class="chev" aria-hidden="true">›</span>
@@ -289,7 +305,7 @@ async function save(row, t) {
 
 function renderSite() {
   const mode = $('f-apercu').value, q = $('site-q').value.trim().toLowerCase();
-  const list = D.articles.filter(a => { const s = statut(a); return (mode === 'ok' ? (s === 'validee' || s === 'publiee') : s !== 'refusee') && (!q || (a.titre+' '+a.maison+' FR').toLowerCase().includes(q)); });
+  const list = D.articles.filter(a => { const s = statut(a); return parOrigine(a) && (mode === 'ok' ? (s === 'validee' || s === 'publiee') : s !== 'refusee') && (!q || (a.titre+' '+a.maison+' FR').toLowerCase().includes(q)); });
   if (!list.some(a => a.thread === state.siteId)) state.siteId = list[0] ? list[0].thread : null;
   $('site-cards').innerHTML = list.length ? list.map(a => {
     const on = statut(a) === 'publiee' || statut(a) === 'validee', act = a.thread === state.siteId;
@@ -308,7 +324,7 @@ $('site-cards').addEventListener('click', e => { const b = e.target.closest('[da
 $('ecartes').innerHTML = D.ecartes.map(e => `<tr><td class="sujet">${esc(e.sujet)}</td><td class="raison">${esc(e.raison)}</td></tr>`).join('');
 $('tab-ecartes').textContent = 'Mails non retenus (' + D.ecartes.length + ')';
 
-function renderAll() { renderCounters(); renderRows(); if (state.view === 'apercu') renderSite(); }
+function renderAll() { renderOrigins(); renderCounters(); renderRows(); if (state.view === 'apercu') renderSite(); }
 renderAll();
 
 async function resolveNoms() {
