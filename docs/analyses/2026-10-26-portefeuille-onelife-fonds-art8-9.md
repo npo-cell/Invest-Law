@@ -100,3 +100,22 @@ Prudence :
 - Robeco Smart Energy est en risque 5 : à limiter à 5 %, ou à remplacer par Templeton Global Climate Change A (LU0128520375, art. 9, risque 4).
 - Variante plus prudente : passer DNCA Alpha Bonds à 20 % et Candriam à 15 %.
 - Mêmes vérifications que la section 4 (profil client, volatilité, KID, frais d'arbitrage, SFDR à jour).
+
+## 6. Version retenue : portefeuille simple, 7 fonds (ajout du 26/10)
+
+Demande : rester simple, 7 fonds maximum. Version resserrée de la section 5 : sortent Jupiter Japan (poche trop petite) et FFG Global Flexible Convictions (5 ans faible, rôle repris par les actions monde et émergentes).
+
+| Brique | Fonds | ISIN | SFDR | Risque | Poids | 1 an | 3 ans | 5 ans |
+|---|---|---|---|---|---|---|---|---|
+| Mixte de cœur (conservé) | Allianz DMAS SRI 50 AT | LU1093406186 | 8 | 3 | 25 % | 12,5 % | 38,8 % | 31,0 % |
+| Actions monde | Candriam SRI Equity World C | LU1434527435 | **9** | 4 | 20 % | 18,4 % | 57,0 % | 56,8 % |
+| Actions Europe value | M&G (Lux) European Strategic Value A EUR | LU1670707527 | 8 | 4 | 12 % | 18,6 % | 73,2 % | 99,0 % |
+| Actions émergentes | JPM Emerging Markets Dividend A EUR | LU0862449690 | 8 | 4 | 10 % | 37,8 % | 73,6 % | 65,3 % |
+| Obligations flexibles | DNCA Invest Alpha Bonds A EUR | LU1694789451 | 8 | 2 | 18 % | 2,1 % | 12,6 % | 24,4 % |
+| Obligations émergentes | DPAM L Bonds Emerging Markets Sustainable B | LU0907927338 | **9** | 3 | 10 % | 8,2 % | 20,9 % | 28,6 % |
+| Satellite thématique | Robeco Smart Energy D EUR | LU2145461757 | **9** | 5 | 5 % | 35,4 % | 92,4 % | 79,5 % |
+| **Total (a posteriori)** | 100 % art. 8/9, dont 35 % art. 9 | | | | 100 % | **15,8 %** | **46,2 %** | **48,7 %** |
+
+YTD 12,0 %. Part actions estimée environ 65 % (proche de l'actuel), obligations environ 35 %.
+Comparaison : actuel 9,5 % / 26,9 % / 17,0 %.
+Mêmes réserves que les sections 4 et 5.

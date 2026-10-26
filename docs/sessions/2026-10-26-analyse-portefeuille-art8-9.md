@@ -7,3 +7,4 @@
 - Rien n'a été modifié sur invest-law.eu.
 - Aussi : relance manuelle des routines « Veille nouvelles » et « VNI Zimbra » (revue de tous les mails Zimbra).
 - Ajout d'une variante « diversification maximale » (section 5 de l'analyse) : 9 fonds, 100 % art. 8/9 dont 32 % art. 9 ; a posteriori 5 ans +46,1 %.
+- Version retenue (section 6) : 7 fonds, 100 % art. 8/9 dont 35 % art. 9 ; a posteriori 5 ans +48,7 %.
