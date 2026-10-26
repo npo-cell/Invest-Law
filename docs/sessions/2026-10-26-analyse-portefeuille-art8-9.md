@@ -6,3 +6,4 @@
 - Résultat : lignes faibles = Leleux Responsible World PA, R-co Opal 4Change, Lazard Patrimoine Opp. SRI. Arbitrage proposé : Candriam SRI Equity World (art. 9), BL-Global 50, Carmignac Investissement Latitude. Rétrospectivement, 5 ans +32,4 % contre +17,0 %.
 - Rien n'a été modifié sur invest-law.eu.
 - Aussi : relance manuelle des routines « Veille nouvelles » et « VNI Zimbra » (revue de tous les mails Zimbra).
+- Ajout d'une variante « diversification maximale » (section 5 de l'analyse) : 9 fonds, 100 % art. 8/9 dont 32 % art. 9 ; a posteriori 5 ans +46,1 %.
