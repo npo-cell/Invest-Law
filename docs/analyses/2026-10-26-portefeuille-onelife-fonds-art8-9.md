@@ -72,3 +72,31 @@ Rétrospectivement, avec les mêmes poids, le portefeuille aurait fait : YTD 8,9
 - Frais d'arbitrage du contrat OneLife et éventuelles limites d'investissement par fonds.
 - Données exclues car douteuses : WCM Select Global Growth Equity (+176 % sur 3 ans dans la source), à contrôler avant tout usage.
 - Les classes (I/C), institutionnelles, sont exclues : vérifier leur accessibilité si le montant le permet (frais plus bas).
+
+## 5. Variante « diversification maximale » (ajout du 26/10)
+
+Constat : Allianz DMAS SRI 50, BGF ESG Multi-Asset, Lazard Patrimoine Opp. SRI et Leleux Responsible World sont quatre fonds mixtes monde au profil proche (69 % du portefeuille ; Allianz et BGF ont les mêmes premières positions : Nvidia, Apple, Microsoft). D'où une version qui garde un seul fonds mixte de cœur et ajoute des briques décorrélées (zones, styles, obligations).
+
+| Brique | Fonds | ISIN | SFDR | Risque | MS | Poids | 1 an | 3 ans | 5 ans |
+|---|---|---|---|---|---|---|---|---|---|
+| Mixte de cœur (conservé) | Allianz DMAS SRI 50 AT | LU1093406186 | 8 | 3 | 5★ | 20 % | 12,5 % | 38,8 % | 31,0 % |
+| Flexible atypique (conservé) | FFG Global Flexible Convictions R | LU1697917083 | 8 | 3 | 2★ | 10 % | 13,0 % | 28,7 % | 14,1 % |
+| Actions monde | Candriam SRI Equity World C | LU1434527435 | **9** | 4 | 3★ | 20 % | 18,4 % | 57,0 % | 56,8 % |
+| Actions Europe, style value | M&G (Lux) European Strategic Value A EUR | LU1670707527 | 8 | 4 | 5★ | 10 % | 18,6 % | 73,2 % | 99,0 % |
+| Actions émergentes | JPM Emerging Markets Dividend A EUR | LU0862449690 | 8 | 4 | 5★ | 8 % | 37,8 % | 73,6 % | 65,3 % |
+| Actions Japon | Jupiter Japan Select L EUR | LU0425092995 | 8 | 4 | 3★ | 5 % | 31,0 % | 62,8 % | 48,3 % |
+| Obligations flexibles | DNCA Invest Alpha Bonds A EUR | LU1694789451 | 8 | 2 | 4★ | 15 % | 2,1 % | 12,6 % | 24,4 % |
+| Obligations émergentes | DPAM L Bonds Emerging Markets Sustainable B | LU0907927338 | **9** | 3 | 4★ | 7 % | 8,2 % | 20,9 % | 28,6 % |
+| Satellite thématique | Robeco Smart Energy D EUR | LU2145461757 | **9** | 5 | 5★ | 5 % | 35,4 % | 92,4 % | 79,5 % |
+| **Total (pondéré, a posteriori)** | | | 100 % art. 8/9 (32 % art. 9) | | | 100 % | **16,6 %** | **46,4 %** | **46,1 %** |
+
+Comparaison : portefeuille actuel 9,5 % / 26,9 % / 17,0 % ; arbitrage simple (section 3) 11,5 % / 38,9 % / 32,4 %. YTD : 12,9 % contre 7,5 %.
+
+Sortent : R-co Opal 4Change, BGF ESG Multi-Asset (doublon d'Allianz), Lazard Patrimoine Opp. SRI, Leleux Responsible World PA.
+Part actions estimée : environ 70 % (contre environ 65-70 % aujourd'hui) ; part obligataire assurée par DNCA Alpha Bonds et DPAM EM Bonds au lieu des poches obligataires des fonds mixtes.
+
+Prudence :
+- Les performances de M&G European Value, JPM EM Dividend et Robeco Smart Energy sont portées par des cycles favorables (value européenne, émergents, énergie) : ne pas surpondérer sur la seule base du passé.
+- Robeco Smart Energy est en risque 5 : à limiter à 5 %, ou à remplacer par Templeton Global Climate Change A (LU0128520375, art. 9, risque 4).
+- Variante plus prudente : passer DNCA Alpha Bonds à 20 % et Candriam à 15 %.
+- Mêmes vérifications que la section 4 (profil client, volatilité, KID, frais d'arbitrage, SFDR à jour).
