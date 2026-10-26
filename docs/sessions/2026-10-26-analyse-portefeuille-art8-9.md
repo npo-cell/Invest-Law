@@ -9,3 +9,4 @@
 - Ajout d'une variante « diversification maximale » (section 5 de l'analyse) : 9 fonds, 100 % art. 8/9 dont 32 % art. 9 ; a posteriori 5 ans +46,1 %.
 - Version retenue (section 6) : 7 fonds, 100 % art. 8/9 dont 35 % art. 9 ; a posteriori 5 ans +48,7 %.
 - Tableau de bord « Portefeuille 7 fonds article 8 et 9 » (perf actuel/proposé, répartition art. 8/9, fonds proposés et vendus) : https://claude.ai/artifact/VZxM4kmFNY6TYafW53dw4N (privé, à partager depuis la page).
+- Tableau de bord simplifié au même lien : seulement les 7 fonds proposés, avec la raison de chaque choix, l'article SFDR, le poids et la perf 5 ans.
