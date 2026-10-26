@@ -11,3 +11,4 @@
 - Tableau de bord « Portefeuille 7 fonds article 8 et 9 » (perf actuel/proposé, répartition art. 8/9, fonds proposés et vendus) : https://claude.ai/artifact/VZxM4kmFNY6TYafW53dw4N (privé, à partager depuis la page).
 - Tableau de bord simplifié au même lien : seulement les 7 fonds proposés, avec la raison de chaque choix, l'article SFDR, le poids et la perf 5 ans.
 - Tableau de bord réduit à 3 fonds (même lien) : Candriam SRI Equity World C (art. 9, remplace R-co Opal), M&G European Strategic Value A EUR (remplace Leleux), JPM Emerging Markets Dividend A EUR (remplace BGF ESG Multi-Asset). Description, apport, perf 1/3/5 ans.
+- PDF d'une page des 3 fonds et de leur apport : `docs/analyses/2026-10-26-trois-fonds-art8-9.pdf`.
