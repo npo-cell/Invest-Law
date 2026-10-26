@@ -1,0 +1,10 @@
+{
+ "thread": "z-408",
+ "date_source": "2026-10-26",
+ "maison_id": null,
+ "maison": "BNP Paribas Asset Management",
+ "type": "Marchés",
+ "titre": "BNP Paribas AM : le PIB chinois à 4,5 % au T3, les OAT françaises au-dessus de 5 %",
+ "html": "<p>Dans son <em>Weekly Market Update</em> du 26 octobre 2026, BNP Paribas Asset Management revient sur une semaine de volatilité : les inquiétudes sur les dépenses d'IA des entreprises et la hausse du pétrole ont pesé sur les actions. Au cours de la semaine précédant la clôture de jeudi 22 octobre, le MSCI World NR et le S&P 500 ont cédé 1 %, le Nasdaq 3 %, le Dow Jones a gagné 1 % et le Stoxx 600 est resté stable (en dollars US, source FactSet).</p>\n<ul><li>Le rendement des obligations d'État françaises a franchi 5 % pour la première fois depuis 2002, sur fond d'incertitudes sur les finances publiques.</li>\n<li>La croissance chinoise a été plus forte que prévu au T3 : <strong>4,5 %</strong> en rythme annualisé après 4,3 % au T2, portée par les exportations liées à l'IA malgré une demande intérieure atone.</li>\n<li>Les technologies de l'information représentent près de 60 % de la croissance mondiale des bénéfices au T3, l'énergie 20 %.</li></ul>\n<p>Au programme de la semaine : Fed et Banque du Canada mercredi, BCE jeudi, Banque du Japon vendredi, budget britannique mercredi, PIB américain du T3 jeudi et PIB de la zone euro vendredi.</p>\n<p>Source : BNP Paribas Asset Management, Weekly Market Update, 26/10/2026</p>",
+ "notes": "Zimbra, transmis par lla. Chiffres de performance du 15 au 22/10/2026 repris du mail. BNP Paribas AM absente de la liste des maisons → maison_id null (comme les articles existants)."
+}
