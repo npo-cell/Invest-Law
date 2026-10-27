@@ -3,16 +3,16 @@
  "isin": "LU0260464168",
  "nom": "PTAM DEFENSIV PORTFOLIO P EUR",
  "maison": "PT Asset Management GmbH",
- "factsheet_date": "2026-09-30",
+ "factsheet_date": "2026-10-26",
  "kid_date": "2025-07-11",
  "date_creation": "2006-08-01",
  "devise": "EUR",
  "type_fonds": "Multi-actifs",
  "compartiment": "FCP Partie I de la loi de 2010",
  "gerants": "",
- "encours_millions": "41.53",
+ "encours_millions": "40.66",
  "encours_devise": "EUR",
- "encours_date": "2026-09-30",
+ "encours_date": "2026-10-26",
  "frais_gestion": "",
  "frais_courants": "2.0805",
  "sri": "3",
@@ -27,8 +27,8 @@
  "politique_fr": "Axe d'investissement\n\nLa politique de placement du fonds vise à générer une plus-value en EURO attrayante sur le long terme en recourant à des stratégies d’investissement défensives et en minimisant les risques. La mise en œuvre de stratégies de portefeuille gagnante, conjuguées à des instruments financiers modernes et à la possibilité d’investir sur tous les principaux marchés mondiaux et dans toutes les principales devises, offre un large éventail d’opportunités de rendement. Afin d’atteindre cet objectif d’investissement, les actifs du fonds sont investis conformément au principe de répartition des risques. Cependant, rien ne garantit que les objectifs précités seront atteints dans le cadre de la politique de placement.",
  "politique_en": "",
  "source_politique": "Factsheet",
- "remarques": "Factsheet française du 30/09/2026 retenue (règle « français d’abord » : il existe aussi une factsheet anglaise du 15/10/2026 pour la même part). KID du 11/07/2025 (le plus récent trouvé). Corrigé : encours 41.39 → 41.53 (« Volume du fonds 41,53 Mio. EUR » ; classe P : 38,37) ; frais courants 1.83 → 2.0805 (KID « Frais de gestion et autres frais administratifs et d’exploitation 2,0805 % » ; factsheet « Frais courants/TER 2.12 % », « TER excl. Performance Fee 1.89 % ») ; frais de gestion 1.4 vidé (la factsheet distingue « Commission de gestion jusqu'à 0.30 % p.a. » et « Commission des gestionnaires de fonds jusqu'à 1,40 % p.a. » : taux maximums, sans frais de gestion unique de la part) ; indice vidé (aucun indice dans la factsheet ni dans le KID) ; SFDR 8 vidé (non écrit dans les documents) ; gérant vidé (seule la société « PT Asset Management GmbH » est citée comme gestionnaire) ; classification Défensif → Equilibré (48,5 % actions, 35,7 % obligations, SRI 3) ; disclaimer et politique remplacés par les textes de la factsheet française (politique EN supprimée) ; compartiment ajouté. Date de création : « Date de lancement (Fonds) 01.08.2006 » (date du fonds ; premier prix le 02.08.2006). SRI 3 (KID ; le KID ne contient pas d’objectifs d’investissement). Allocations : top 10 des positions, allocation d’actifs, pays et devises (lecture des deux colonnes de la page 2). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN). Politique FR nettoyée le 19/10 (tableaux de caractéristiques, de performances et notes de calcul copiés par erreur retirés).",
- "factsheet_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__Factsheet_FR_2026-09-30.pdf",
+ "remarques": "Mis à jour le 27/10/2026 : factsheet FR du 26/10/2026 (la plus récente ; consigne du 27/10 : anglais accepté si la version récente n'existe pas en français). Corrigé : factsheet 2026-09-30 → 2026-10-26 ; encours 41.53 → 40.66 ; date de l'encours 2026-09-30 → 2026-10-26 ; allocations remplacées par celles de la factsheet du 26/10/2026 (28 lignes). Factsheet FR quotidienne (« Statut: 26.10.2026 », fs_retail_daily) téléchargée le 27/10/2026 sur ptam.de (page « Ptam Defensiv ») ; une version EN de même date existe (FR prioritaire à date égale) ; la factsheet mensuelle FR du site est celle du 30/09/2026. KID FR du 11/07/2025 conservé : le seul KID plus récent trouvé sur ptam.de est en allemand (Basisinformationsblatt du 16/04/2026, SRI 3, « Verwaltungsgebühren und sonstige … 1,9547 % »), langue non admise ; aucun KID FR/EN plus récent trouvé. Encours : « Volume du fonds 40,66 Mio. EUR » (classe P : « Valeur de la classe d'actions 37,54 Mio. EUR »). Frais courants 2,0805 % (KID « Frais de gestion et autres frais administratifs et d’exploitation » ; factsheet « Frais courants/TER 2.12 % », « TER excl. Performance Fee 1.89 % »). Frais de gestion vide : la factsheet distingue « Commission de gestion jusqu'à 0.30 % p.a. » et « Commission des gestionnaires de fonds jusqu'à 1,40 % p.a. » (taux maximums). Indice vide (aucun indice dans la factsheet ni dans le KID). SFDR vide (non écrit). Gérant vide (seule la société « PT Asset Management GmbH » est citée comme gestionnaire du fonds). Classification Equilibré (48,2 % actions, 36,8 % obligations, SRI 3). Date de création : « Date de lancement (Fonds) 01.08.2006 » (date du fonds ; premier prix le 02.08.2006). SRI 3 (KID ; le KID ne contient pas d’objectifs d’investissement). Allocations : top 10 des positions, allocation d’actifs, pays et devises (lecture des deux colonnes de la page 2) ; la répartition par pays totalise 94,5 % telle qu'écrite. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
+ "factsheet_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__Factsheet_FR_2026-10-26.pdf",
  "kid_fichier": "INVESTLAW/PT_ASSET_MANAGEMENT_GMBH/LU0260464168/LU0260464168__KID_FR_2025-07-11.pdf",
  "sources": {
   "factsheet_date": "factsheet",
@@ -48,92 +48,87 @@
   {
    "type": "Positions",
    "libelle": "Spanien EO-Bonos 2019(35)",
-   "pct": "11.19"
+   "pct": "11.55"
   },
   {
    "type": "Positions",
    "libelle": "Italien, Republik EO-B.T.P. 2024(34)",
-   "pct": "8.35"
+   "pct": "8.56"
   },
   {
    "type": "Positions",
    "libelle": "Italien, Republik EO-B.T.P. 2002(33)",
-   "pct": "8.31"
+   "pct": "8.52"
   },
   {
    "type": "Positions",
    "libelle": "PTAM Global Allocation Inhaber-Anteile",
-   "pct": "8.25"
-  },
-  {
-   "type": "Positions",
-   "libelle": "Cash Position EUR",
-   "pct": "6.32"
+   "pct": "8.05"
   },
   {
    "type": "Positions",
    "libelle": "Apple Inc. Registered Shares o.N.",
-   "pct": "5.16"
+   "pct": "5.63"
   },
   {
    "type": "Positions",
-   "libelle": "NVIDIA Corp. Registered Shares DL-,",
-   "pct": "5.10"
+   "libelle": "Cash Position EUR",
+   "pct": "5.55"
   },
   {
    "type": "Positions",
    "libelle": "Spanien EO-Obl. 2001(32)",
-   "pct": "5.10"
+   "pct": "5.25"
   },
   {
    "type": "Positions",
-   "libelle": "Agnico Eagle Mines Ltd. Registered",
-   "pct": "4.16"
+   "libelle": "NVIDIA Corp. Registered Shares DL-,",
+   "pct": "4.90"
+  },
+  {
+   "type": "Positions",
+   "libelle": "Eli Lilly and Company Registered",
+   "pct": "4.25"
   },
   {
    "type": "Positions",
    "libelle": "Microsoft Corp. Registered Shares DL-,",
-   "pct": "3.97"
+   "pct": "4.23"
   },
   {
    "type": "Classes d'actifs",
    "libelle": "Actions",
-   "pct": "48.5"
+   "pct": "48.2"
   },
   {
    "type": "Classes d'actifs",
    "libelle": "Obligations",
-   "pct": "35.7"
+   "pct": "36.8"
   },
   {
    "type": "Classes d'actifs",
    "libelle": "Fonds",
-   "pct": "9.6"
+   "pct": "9.5"
   },
   {
    "type": "Classes d'actifs",
    "libelle": "Liquidités",
-   "pct": "6.8"
-  },
-  {
-   "type": "Classes d'actifs",
-   "libelle": "Contr. d. change à terme",
-   "pct": "-0.6"
+   "pct": "5.5"
   },
   {
    "type": "Pays",
    "libelle": "États-Unis",
-   "pct": "29.5"
+   "pct": "29.1"
   },
   {
    "type": "Pays",
    "libelle": "Espagne",
-   "pct": "18.4"
+   "pct": "18.7"
   },
   {
    "type": "Pays",
    "libelle": "Italie",
-   "pct": "17.4"
+   "pct": "17.8"
   },
   {
    "type": "Pays",
@@ -143,12 +138,12 @@
   {
    "type": "Pays",
    "libelle": "Canada",
-   "pct": "4.9"
+   "pct": "4.8"
   },
   {
    "type": "Pays",
    "libelle": "Suisse",
-   "pct": "2.4"
+   "pct": "2.8"
   },
   {
    "type": "Pays",
@@ -163,22 +158,22 @@
   {
    "type": "Devises",
    "libelle": "USD",
-   "pct": "29.9"
+   "pct": "29.5"
   },
   {
    "type": "Devises",
    "libelle": "CAD",
-   "pct": "4.9"
+   "pct": "4.8"
   },
   {
    "type": "Devises",
    "libelle": "CHF",
-   "pct": "2.4"
+   "pct": "2.8"
   },
   {
    "type": "Devises",
    "libelle": "NZD",
-   "pct": "1.1"
+   "pct": "1.2"
   },
   {
    "type": "Devises",
