@@ -3,32 +3,32 @@
  "isin": "LU1914336968",
  "nom": "(I/C)ABRDN LIQUIDITY FUND (LUX) STG FD X-2 GBP",
  "maison": "Aberdeen Standard Investments Luxembourg S.A.",
- "factsheet_date": "2026-06-30",
+ "factsheet_date": "2026-08-31",
  "kid_date": "2026-05-07",
  "date_creation": "2018-12-06",
  "devise": "GBP",
  "type_fonds": "Monétaire (GBP)",
  "compartiment": "Sterling Fund (le Fonds) est un compartiment libellé en Sterling d’une SICAV (société d’investissement à capital variable), abrdn Liquidity Fund (Lux), immatriculée au Luxembourg.",
- "gerants": "Liquidity Team",
- "encours_millions": "",
- "encours_devise": "",
- "encours_date": "",
+ "gerants": "",
+ "encours_millions": "13700",
+ "encours_devise": "GBP",
+ "encours_date": "2026-08-31",
  "frais_gestion": "0.20",
  "frais_courants": "0.23",
  "sri": "1",
- "indice": "SONIA (GBP)",
+ "indice": "SONIA GBP",
  "classification": "Défensif",
  "categorie": "",
  "sfdr": "8",
  "durable_pct": "",
  "duration": "",
  "qualite_emetteurs": "",
- "disclaimer": "La performance passée n'est pas une indication des rendements futurs. La valeur des placements et le revenu qui en découle peuvent diminuer et les investisseurs peuvent récupérer une somme inférieure au montant investi.",
- "politique_fr": "Objectif\nL’objectif du Fonds est de préserver le capital et de fournir de la liquidité, tout en ciblant une performance conforme aux taux en vigueur sur le marché monétaire à court terme, pour lequel le SONIA a été choisi en tant qu'indice de référence.\n\nTitres composant le portefeuille\n- Le Fonds investit dans des instruments du marché monétaire de haute qualité libellés en livre sterling.\n- Les exigences minimum de liquidités à l'échéance sont les suivantes : 10 % au jour le jour et 30 % arrivant à échéance en une semaine.\n- Le Fonds investit dans des titres dont l'échéance ne dépasse pas 397 jours. L’ensemble du Fonds doit avoir une échéance moyenne pondérée maximale de 60 jours et une durée moyenne pondérée maximale de 120 jours.\n- Le Fonds peut être exposé à des actifs dont le rendement est nul ou négatif dans des conditions de marché défavorables.\n- Les investissements suivront l’approche d’investissement Liquidity Sterling Fund Investment d’abrdn (l’Approche d’investissement).\n- Cette approche utilise le processus d’investissement dans les titres à revenu fixe d’Aberdeen Investments, qui permet aux gérants de portefeuilles d’évaluer qualitativement la manière dont les facteurs ESG sont susceptibles d’avoir un impact sur la capacité de l’entreprise à rembourser sa dette, aujourd’hui et à l’avenir. Pour compléter cette recherche, le score MSCI ESG est utilisé pour identifier quantitativement et exclure les entreprises exposées aux risques ESG les plus élevés. De plus, un ensemble d’exclusions d’entreprises est appliqué, en lien avec le Pacte mondial des Nations Unies, les armes controversées, la fabrication de tabac et le charbon thermique.\n- De plus amples détails sur l’ensemble de ce processus sont présentés dans l’approche d’investissement, qui est publiée à l’adresse www.aberdeeninvestments.com dans la rubrique Fund Centre.\n\nProcessus de gestion\n- Le Fonds fait l'objet d'une gestion active. Notre équipe d’investissement s’efforcera d’obtenir et de maintenir une notation de crédit AAA ou équivalente attribuée par au moins une agence de notation.\n- Grâce à l’application de l’Approche d’investissement, le Fonds visera une notation MSCI ESG d’au moins AA.\n- Le dialogue avec les équipes dirigeantes des sociétés permet d’évaluer les structures de propriété, la gouvernance et la qualité de la gestion de ces sociétés, afin d’éclairer la construction du portefeuille.\n- Ce Fonds est un fonds monétaire à valeur liquidative à faible volatilité (« Low Volatility Net Asset Value ») au sens du règlement (UE) 2017/1131 relatif aux fonds monétaires (règlement MMF).",
- "politique_en": "",
+ "disclaimer": "Past performance does not predict future returns. The value of investments and the income from them can fall and investors may get back less than the amount invested.",
+ "politique_fr": "",
+ "politique_en": "Objective\nThe Funds objective is to preserve capital and provide liquidity whilst aiming to provide a return in line with prevailing short term money market rates for which SONIA has been chosen as a benchmark.\n\nPortfolio securities\n• The Fund invests in high quality Sterling denominated money market instruments.\n• Minimum liquidity maturity requirements are 10% overnight and 30% maturing in one week.\n• The Fund invests in securities with an outstanding term to maturity of no more than 397 days. The entire Fund must have a weighted average maturity of no more than 60 days and a weighted average life (WAL) of no more than 120 days.\n• The Fund may have exposure to assets which have zero or negative yields in adverse market conditions.\n• Investments will follow the \"abrdn Liquidity Sterling Fund Investment Approach\" (the \"Investment Approach\").\n• This approach utilises Aberdeen Investments' fixed income investment process, which enables portfolio managers to qualitatively assess how ESG factors are likely to impact on the company's ability to repay its debt, both now and in the future. To complement this research, MSCI ESG Scoring is used to quantitatively identify and exclude those companies exposed to the highest ESG risks. In addition, a set of company exclusions are applied, which are related to the UN Global Compact, Controversial Weapons, Tobacco Manufacturing and Thermal Coal.\n• Further detail of this overall process is captured within the Investment Approach, which is published at www.aberdeeninvestments.com under \"Fund Centre\".\n\nManagement process\n• The Fund is actively managed. Our investment team will seek to obtain and maintain an AAA or equivalent credit rating assigned by at least one ratings agency.\n• Through the application of the Investment Approach, the Fund will target an MSCI ESG Fund rating of at least AA.\n• Engagement with external company management teams is used to evaluate the ownership structures, governance and management quality of those companies, in order to inform portfolio construction.\n• This Fund is a Low Volatility Net Asset Value Money Market Fund under the Money Market Funds Regulation (EU) 2017/1131 (MMF Regulation).",
  "source_politique": "Factsheet",
- "remarques": "Corrigé (factsheet 30/06/2026) : encours_millions 14.4 → vide ; encours_devise GBP → vide ; encours_date 2026-06-30 → vide. Factsheet retenue : FR du 30/06/2026 (règle « français d'abord » : la factsheet EN du 31/08/2026 de la même part, plus récente, n'est pas utilisée) ; KID FR du 07/05/2026 retenu plutôt que le KID EN de même date. Fonds monétaire à court terme LVNAV (« Ce fonds est un fonds à court terme du marché monétaire à faible valeur liquidative (LVNAV) »). Factsheet FR du 30/06/2026 (Class X-2 Acc GBP) ; KID FR = version suisse. Date de création = « Date de lancement de la catégorie d'actions 06 décembre 2018 » ; lancement du fonds 01 juillet 1985. Encours laissé vide : la factsheet FR du 30/06/2026 écrit « Encours du fonds GBP14,4M », montant incohérent (la factsheet EN du 31/08/2026, non retenue, écrit « Fund size GBP 13.7 bn ») ; probable erreur d'unité, non reprise. Gérant : « Liquidity Team » (équipe). Frais de gestion = « Commission de gestion annuelle » 0,20 % ; frais courants 0,23 % (KID et factsheet). Indice : SONIA choisi comme indice de référence de l'objectif → retenu (avant le 01/06/2021 : LIBID GBP 1 semaine). Duration non écrite (WAMA 58 days = échéance moyenne pondérée, WALA 78 days) ; qualité moyenne des émetteurs non écrite (objectif de notation AAA du fonds, profil de crédit S&P ci-dessous). SFDR article 8 (factsheet et KID). Allocations : Maturités = « Profil d'échéance en jours » (libellés en jours) ; Notations = « Profil de crédit » (notations long terme S&P uniquement) ; Instruments = « Type d'instrument ».",
- "factsheet_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_FR_2026-06-30.pdf",
+ "remarques": "Mis à jour le 27/10/2026 : factsheet EN du 31/08/2026 (la plus récente ; consigne du 27/10 : anglais accepté si la version récente n'existe pas en français). Corrigé : factsheet 2026-06-30 → 2026-08-31 ; gérant Liquidity Team → vide ; encours vide → 13700 ; devise de l'encours vide → GBP ; date de l'encours vide → 2026-08-31 ; indice SONIA (GBP) → SONIA GBP ; disclaimer remplacé ; politique FR vidé ; politique EN ajouté ; allocations remplacées par celles de la factsheet du 31/08/2026 (28 lignes). Recherche du 27/10/2026 sur aberdeeninvestments.com : page de la part X-2 Acc GBP trouvée, mais les documents (factsheet, KID) y sont chargés dynamiquement et n'ont pas pu être téléchargés ; aucune factsheet plus récente que l'EN du 31/08/2026 (déjà au dépôt) ni aucun KID plus récent que celui du 07/05/2026 trouvés. KID FR du 07/05/2026 retenu (KID EN de même date). Fonds monétaire à court terme LVNAV (« This Fund is a Short Term Money Market Low Volatity Net Asset Value Fund (LVNAV) »). Encours : « Fund size GBP 13.7 bn » (encours du fonds), converti en millions ; date = date de la factsheet. Gérant vidé : la factsheet EN ne cite aucun gérant ni équipe (« Liquidity Team » ne figurait que dans la factsheet FR du 30/06/2026). Date de création = « Share class launch date 06 December 2018 » ; lancement du fonds 01 July 1985. Frais de gestion = « Annual management charge 0.20% » ; frais courants 0,23 % (KID ; factsheet « Ongoing charge figure 0.23% »). Indice : SONIA choisi comme indice de référence de l'objectif → retenu, libellé « SONIA GBP » tel qu'écrit dans « Benchmark » (avant le 01/06/2021 : 1 Week GBP LIBID). Duration non écrite (WAM 52 days = échéance moyenne pondérée, WAL 69 days) ; qualité moyenne des émetteurs non écrite (notations du fonds AAAmmf / AAAm / Aaa/mf, profil de crédit S&P ci-dessous). SFDR article 8 (factsheet et KID). Politique en anglais (factsheet EN), politique FR vidée ; disclaimer EN : « Past performance does not predict future returns. » + risque clé a. Allocations : Pays = « Country (%) » ; Maturités = « Maturity profile in days (%) » ; Notations = « Credit profile (%) » (S&P Long Term Ratings Only) ; Instruments = « Instrument type (%) » ; totaux 99.9 à 100.1 tels qu'écrits (« Figures may not always sum to 100 due to rounding. »).",
+ "factsheet_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__Factsheet_EN_2026-08-31.pdf",
  "kid_fichier": "INVESTLAW/ABERDEEN_STANDARD_INVESTMENTS_LUXEMBOURG_S_A/LU1914336968/LU1914336968__KID_FR_2026-05-07.pdf",
  "sources": {
   "factsheet_date": "factsheet p.1",
@@ -36,156 +36,158 @@
   "date_creation": "factsheet p.1",
   "devise": "factsheet p.1",
   "compartiment": "KID p.1",
-  "gerants": "factsheet p.1",
+  "encours_millions": "factsheet p.1",
+  "encours_devise": "factsheet p.1",
+  "encours_date": "factsheet p.1",
   "frais_gestion": "factsheet p.1",
   "frais_courants": "KID p.2",
   "sri": "KID p.1",
   "indice": "factsheet p.1",
   "sfdr": "factsheet p.1",
   "disclaimer": "factsheet p.1-2",
-  "politique_fr": "factsheet p.1-2",
+  "politique_en": "factsheet p.1-2",
   "source_politique": "factsheet p.1-2"
  },
  "allocations": [
   {
    "type": "Pays",
-   "libelle": "CANADA",
-   "pct": "17.4"
-  },
-  {
-   "type": "Pays",
    "libelle": "FRANCE",
-   "pct": "15.5"
+   "pct": "19.0"
   },
   {
    "type": "Pays",
-   "libelle": "JAPON",
-   "pct": "13.1"
+   "libelle": "CANADA",
+   "pct": "15.0"
   },
   {
    "type": "Pays",
-   "libelle": "CHINE",
-   "pct": "8.3"
+   "libelle": "JAPAN",
+   "pct": "14.7"
   },
   {
    "type": "Pays",
-   "libelle": "ROYAUME-UNI",
-   "pct": "8.2"
+   "libelle": "UNITED KINGDOM",
+   "pct": "10.4"
   },
   {
    "type": "Pays",
-   "libelle": "SINGAPOUR",
-   "pct": "7.1"
+   "libelle": "CHINA",
+   "pct": "7.6"
   },
   {
    "type": "Pays",
-   "libelle": "SUÈDE",
-   "pct": "6.9"
+   "libelle": "AUSTRALIA",
+   "pct": "6.1"
   },
   {
    "type": "Pays",
-   "libelle": "AUSTRALIE",
-   "pct": "6.9"
+   "libelle": "SWEDEN",
+   "pct": "6.0"
   },
   {
    "type": "Pays",
-   "libelle": "Autres",
-   "pct": "16.7"
+   "libelle": "SINGAPORE",
+   "pct": "5.2"
+  },
+  {
+   "type": "Pays",
+   "libelle": "NETHERLANDS",
+   "pct": "4.1"
+  },
+  {
+   "type": "Pays",
+   "libelle": "Other",
+   "pct": "11.8"
   },
   {
    "type": "Maturités",
-   "libelle": "1",
-   "pct": "27.4"
+   "libelle": "1 Day",
+   "pct": "27.7"
   },
   {
    "type": "Maturités",
-   "libelle": "2 - 7",
-   "pct": "12.6"
+   "libelle": "2 - 7 Days",
+   "pct": "8.6"
   },
   {
    "type": "Maturités",
-   "libelle": "8 - 30",
-   "pct": "4.4"
+   "libelle": "8 - 30 Days",
+   "pct": "15.2"
   },
   {
    "type": "Maturités",
-   "libelle": "31 - 60",
-   "pct": "7.7"
+   "libelle": "31 - 60 Days",
+   "pct": "9.5"
   },
   {
    "type": "Maturités",
-   "libelle": "61 - 90",
-   "pct": "18.9"
+   "libelle": "61 - 90 Days",
+   "pct": "11.8"
   },
   {
    "type": "Maturités",
-   "libelle": "91 - 180",
-   "pct": "13.3"
+   "libelle": "91 - 180 Days",
+   "pct": "11.9"
   },
   {
    "type": "Maturités",
-   "libelle": "181 - 365",
-   "pct": "15.7"
-  },
-  {
-   "type": "Notations",
-   "libelle": "AA+",
-   "pct": "0.7"
+   "libelle": "181 - 365 Days",
+   "pct": "15.2"
   },
   {
    "type": "Notations",
    "libelle": "AA",
-   "pct": "5.9"
+   "pct": "7.3"
   },
   {
    "type": "Notations",
    "libelle": "AA-",
-   "pct": "32.0"
+   "pct": "29.9"
   },
   {
    "type": "Notations",
    "libelle": "A+",
-   "pct": "36.5"
+   "pct": "37.6"
   },
   {
    "type": "Notations",
    "libelle": "A",
-   "pct": "24.9"
+   "pct": "25.1"
   },
   {
    "type": "Instruments",
-   "libelle": "Certificat de dépôt",
-   "pct": "50.4"
+   "libelle": "Certificate of Deposit",
+   "pct": "54.8"
   },
   {
    "type": "Instruments",
-   "libelle": "Dépôt à terme",
-   "pct": "20.4"
+   "libelle": "Time Deposit",
+   "pct": "21.7"
   },
   {
    "type": "Instruments",
-   "libelle": "Effets de commerce",
-   "pct": "11.8"
+   "libelle": "Commercial Paper",
+   "pct": "9.5"
   },
   {
    "type": "Instruments",
-   "libelle": "Obligation à taux variable",
-   "pct": "7.1"
+   "libelle": "Floating Rate Note",
+   "pct": "6.0"
   },
   {
    "type": "Instruments",
-   "libelle": "Effets de commerce adossés à des actifs (ABCP)",
-   "pct": "5.4"
+   "libelle": "ABCP",
+   "pct": "4.7"
   },
   {
    "type": "Instruments",
-   "libelle": "Prise en pension",
-   "pct": "4.9"
+   "libelle": "Call Account",
+   "pct": "1.9"
   },
   {
    "type": "Instruments",
-   "libelle": "Liquidités",
-   "pct": "0.0"
+   "libelle": "Rev Repo",
+   "pct": "1.5"
   }
  ]
 }

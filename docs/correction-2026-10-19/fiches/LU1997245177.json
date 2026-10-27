@@ -3,16 +3,16 @@
  "isin": "LU1997245177",
  "nom": "ALLIANZ CHINA A-SHARES AT USD",
  "maison": "Allianz Global Investors GmbH",
- "factsheet_date": "2026-08-31",
+ "factsheet_date": "2026-09-30",
  "kid_date": "2026-09-22",
  "date_creation": "2019-10-23",
  "devise": "USD",
  "type_fonds": "Actions Chine (actions A)",
  "compartiment": "Allianz China A-Shares (Le « Compartiment ») est un compartiment de Allianz Global Investors Fund qui est établi en tant que SICAV domiciliée au Luxembourg",
  "gerants": "Shao Ping Guan",
- "encours_millions": "3161.79",
+ "encours_millions": "2930.80",
  "encours_devise": "USD",
- "encours_date": "2026-08-31",
+ "encours_date": "2026-09-30",
  "frais_gestion": "",
  "frais_courants": "2.30",
  "sri": "5",
@@ -20,15 +20,15 @@
  "classification": "Agressif",
  "categorie": "Equity China",
  "sfdr": "8",
- "durable_pct": "48.22",
+ "durable_pct": "47.40",
  "duration": "",
  "qualite_emetteurs": "",
- "disclaimer": "Les performances passées ne permettent pas de prédire les rendements futurs.",
- "politique_fr": "Objectif d’investissement Le fonds se concentre sur les actions de sociétés domiciliées en Chine qui sont cotées en actions A sur les bourses de Shanghai ou de Shenzhen. Les aspects liés à la durabilité sont pris en compte par les gérants du fonds. Pour plus d’informations sur la stratégie d’investissement, les catégories d’actifs autorisées et l’approche axée sur la durabilité, veuillez-vous reporter au prospectus de vente. Le fonds peut investir jusqu’à 20 % de ses actifs dans d’autres actions de sociétés qui sont domiciliées en Chine ou qui y génèrent une part prédominante de leurs bénéfices. L’objectif d’investissement du fonds consiste à générer une appréciation du capital sur le long terme.",
- "politique_en": "",
+ "disclaimer": "Past performance does not predict future returns.",
+ "politique_fr": "",
+ "politique_en": "Investment objective\nThe fund concentrates on the stocks of companies that are incorporated in China and that are listed as A-shares on the stock exchanges of Shanghai or Shenzhen. Sustainability aspects are taken into account by the fund management. For more information on the investment strategy, the permissible asset classes and the sustainability approach, please refer to the sales prospectus. A maximum of 20 % of the fund's assets may be invested in other stocks of companies that are incorporated in China or that generate a predominant portion of their profits there. The fund's investment objective is to attain capital growth over the long term.",
  "source_politique": "Factsheet",
- "remarques": "Factsheet FR du 31/08/2026 retenue (règle « français d'abord » : la factsheet du 30/09/2026 n'existe qu'en anglais). Date de création : « Lancement catégorie d’actions 23/10/2019 ». Encours « Taille du fonds 3 161,79 M USD » (part : 1 062,79 M USD). Frais : la factsheet donne une « Commission forfaitaire (%) 2,25 p.a. » (commission tout compris, non retenue comme frais de gestion) et « TFE (%) 2,30 » ; frais courants 2,30 % du KID (« Frais de gestion et autres frais administratifs et d’exploitation »). SRI 5 (KID du 22/09/2026). SFDR : « Ce fonds a été classé en tant qu'article 8 » (factsheet) et KID. Investissements durables : « Proportion d’investissements durables Portefeuille 48,22% ». Compartiment : texte du KID ; le KID Allianz est un PDF dont pdftotext n'extrait aucun texte (police non standard), lu via pypdf : le contrôle automatique ne peut pas retrouver cette phrase (artefact d'extraction). Classification Agressif : actions d'un seul pays émergent (Chine). Allocations : 10 principales positions, secteurs GICS et pays (colonne « % poids du fonds »), capitalisations. Corrigé : frais de gestion 2.25 → vide (commission forfaitaire, pas des frais de gestion) ; indice précisé « (in USD) » comme écrit ; classification Dynamique → Agressif ; investissements durables 48.22 ajoutés ; politique FR prise de la factsheet ; catégorie vidée. Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
- "factsheet_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_FR_2026-08-31.pdf",
+ "remarques": "Mis à jour le 27/10/2026 : factsheet EN du 30/09/2026 (la plus récente ; consigne du 27/10 : anglais accepté si la version récente n'existe pas en français). Corrigé : factsheet 2026-08-31 → 2026-09-30 ; encours 3161.79 → 2930.80 ; date de l'encours 2026-08-31 → 2026-09-30 ; investissements durables 48.22 → 47.40 ; disclaimer remplacé ; politique FR vidé ; politique EN ajouté ; allocations remplacées par celles de la factsheet du 30/09/2026 (26 lignes). Recherche du 27/10/2026 sur regulatory.allianzgi.com : page de la part AT (USD) trouvée, mais les documents y sont chargés dynamiquement et n'ont pas pu être téléchargés ; aucune factsheet plus récente que l'EN du 30/09/2026 (déjà au dépôt ; aucune version FR du 30/09/2026 au dépôt) ni KID plus récent que le KID FR du 22/09/2026 trouvés. Date de création : « Share class launch date 23/10/2019 » (« Fund launch date 23/10/2019 »). Encours « Fund size 2,930.80 M USD » (part : « Share class size 985.95 M USD »). Frais : la factsheet donne « All-in fee (%) p.a. 2.25 » (commission tout compris, non retenue comme frais de gestion) et « TER (%) 2.30 » ; frais courants 2,30 % du KID (« Frais de gestion et autres frais administratifs et d’exploitation »). SRI 5 (KID du 22/09/2026). SFDR : « This fund has been classified as an Article 8 under SFDR » (factsheet) et KID. Investissements durables : « Proportion of sustainable investments Fund 47.40% ». Gérant : « Investment team Shao Ping Guan (since 01/07/2023) ». Politique en anglais (factsheet EN), politique FR vidée ; disclaimer EN. Compartiment : texte du KID FR ; le KID Allianz est un PDF dont pdftotext n'extrait aucun texte (police non standard), lu via pypdf : le contrôle automatique ne peut pas retrouver cette phrase (artefact d'extraction). Classification Agressif : actions d'un seul pays émergent (Chine). Allocations : 10 principales positions, secteurs GICS et pays (colonne « % Fund weight »), capitalisations (« Market cap (%) in USD »). Catégorie : « Asset Type (Level 2) » du fichier OneLife Fund Classification (même ISIN).",
+ "factsheet_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__Factsheet_EN_2026-09-30.pdf",
  "kid_fichier": "INVESTLAW/ALLIANZ_GLOBAL_INVESTORS_GMBH/LU1997245177/LU1997245177__KID_FR_2026-09-22.pdf",
  "sources": {
   "date_creation": "factsheet",
@@ -41,7 +41,7 @@
   "sfdr": "factsheet",
   "durable_pct": "factsheet",
   "disclaimer": "factsheet",
-  "politique_fr": "factsheet",
+  "politique_en": "factsheet",
   "compartiment": "KID",
   "frais_courants": "KID",
   "sri": "KID",
@@ -51,133 +51,133 @@
  "allocations": [
   {
    "type": "Positions",
-   "libelle": "CONTEMPORARY AMPEREX TECHN-A",
-   "pct": "5.36"
+   "libelle": "ZIJIN MINING GROUP CO LTD-A",
+   "pct": "4.78"
   },
   {
    "type": "Positions",
-   "libelle": "ZIJIN MINING GROUP CO LTD-A",
-   "pct": "5.01"
+   "libelle": "CONTEMPORARY AMPEREX TECHN-A",
+   "pct": "4.45"
   },
   {
    "type": "Positions",
    "libelle": "ZHONGJI INNOLIGHT CO LTD-A",
-   "pct": "4.18"
+   "pct": "4.28"
   },
   {
    "type": "Positions",
    "libelle": "CITIC SECURITIES CO-A",
-   "pct": "4.01"
+   "pct": "4.27"
   },
   {
    "type": "Positions",
    "libelle": "KWEICHOW MOUTAI CO LTD-A",
-   "pct": "3.52"
-  },
-  {
-   "type": "Positions",
-   "libelle": "SHENGYI TECHNOLOGY CO LTD -A",
-   "pct": "3.16"
-  },
-  {
-   "type": "Positions",
-   "libelle": "MIDEA GROUP CO A MC97672",
-   "pct": "3.08"
+   "pct": "3.67"
   },
   {
    "type": "Positions",
    "libelle": "WUXI APPTEC CO LTD-A",
-   "pct": "2.84"
+   "pct": "3.40"
+  },
+  {
+   "type": "Positions",
+   "libelle": "MIDEA GROUP CO A MC97672",
+   "pct": "3.03"
   },
   {
    "type": "Positions",
    "libelle": "CHINA MERCHANTS BANK-A",
-   "pct": "2.69"
+   "pct": "2.98"
+  },
+  {
+   "type": "Positions",
+   "libelle": "SHENGYI TECHNOLOGY CO LTD -A",
+   "pct": "2.89"
   },
   {
    "type": "Positions",
    "libelle": "PING AN INSURANCE GROUP CO-A",
-   "pct": "2.59"
+   "pct": "2.67"
   },
   {
    "type": "Secteurs",
-   "libelle": "Technologies de l’information",
-   "pct": "31.91"
+   "libelle": "Information technology",
+   "pct": "31.94"
   },
   {
    "type": "Secteurs",
-   "libelle": "Industrie",
-   "pct": "16.80"
+   "libelle": "Financials",
+   "pct": "17.95"
   },
   {
    "type": "Secteurs",
-   "libelle": "Finance",
-   "pct": "16.75"
+   "libelle": "Industrials",
+   "pct": "14.99"
   },
   {
    "type": "Secteurs",
-   "libelle": "Matériaux",
-   "pct": "10.37"
+   "libelle": "Materials",
+   "pct": "9.74"
   },
   {
    "type": "Secteurs",
-   "libelle": "Biens de consommation discrétionnaire",
-   "pct": "7.62"
+   "libelle": "Consumer discretionary",
+   "pct": "8.21"
   },
   {
    "type": "Secteurs",
-   "libelle": "Santé",
-   "pct": "6.23"
+   "libelle": "Health care",
+   "pct": "6.45"
   },
   {
    "type": "Secteurs",
-   "libelle": "Biens de consommation de base",
-   "pct": "5.39"
+   "libelle": "Consumer staples",
+   "pct": "5.75"
   },
   {
    "type": "Secteurs",
-   "libelle": "Énergie",
-   "pct": "3.06"
+   "libelle": "Energy",
+   "pct": "2.82"
   },
   {
    "type": "Secteurs",
-   "libelle": "Services aux collectivités",
-   "pct": "1.42"
+   "libelle": "Utilities",
+   "pct": "1.57"
   },
   {
    "type": "Secteurs",
-   "libelle": "Immobilier",
-   "pct": "0.45"
+   "libelle": "Real estate",
+   "pct": "0.58"
   },
   {
    "type": "Secteurs",
-   "libelle": "Services de communication",
+   "libelle": "Communication services",
    "pct": "0.00"
   },
   {
    "type": "Pays",
-   "libelle": "République populaire de Chine",
-   "pct": "99.43"
+   "libelle": "China",
+   "pct": "100.00"
   },
   {
    "type": "Pays",
-   "libelle": "Autres",
-   "pct": "0.57"
+   "libelle": "Others",
+   "pct": "0.00"
   },
   {
    "type": "Capitalisations",
-   "libelle": "> 10 Md",
-   "pct": "90"
+   "libelle": "> 10 bn",
+   "pct": "88"
   },
   {
    "type": "Capitalisations",
-   "libelle": "5 Md <> 10 Md",
+   "libelle": "5 bn <> 10 bn",
    "pct": "7"
   },
   {
    "type": "Capitalisations",
-   "libelle": "< 5 Md",
-   "pct": "3"
+   "libelle": "< 5 bn",
+   "pct": "5"
   }
  ]
 }
