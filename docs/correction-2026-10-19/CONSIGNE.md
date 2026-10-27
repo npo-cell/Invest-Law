@@ -16,7 +16,8 @@ Chaque entrée du lot donne :
 - `autres_pdf_du_depot` et `pdf_du_site` : les documents déjà connus.
 
 Règles :
-- Prendre la factsheet la plus récente **de la part exacte** : français d'abord, sinon anglais, jamais une autre langue (règle « français d'abord », même plus ancien, seulement entre documents de la même part). Une factsheet multi-parts est admise si elle donne explicitement les chiffres de notre part.
+- Prendre la factsheet la plus récente **de la part exacte** : français d'abord, sinon anglais, jamais une autre langue.
+  - **Consigne de l'utilisatrice du 27/10/2026** (remplace la règle « français d'abord, même plus ancien ») : on prend la factsheet **la plus récente** ; si cette version récente n'existe pas en français, l'anglais est accepté. À date égale, le français reste prioritaire. Une factsheet multi-parts est admise si elle donne explicitement les chiffres de notre part.
 - Si `documents_recents` ne contient pas de factsheet conforme, chercher sur le site du gestionnaire. Ranger tout nouveau PDF dans `INVESTLAW/<MAISON>/<ISIN>/<ISIN>__Factsheet_<FR|EN>_<date>.pdf`, ou `__KID_…`, avec son `.txt` (`pdftotext -layout`).
 - Ne jamais utiliser le document d'une autre part. S'il n'existe rien pour la part, laisser les champs propres à la part vides et l'expliquer dans `remarques`. Les champs propres à la part sont : frais, date de création, devise, SRI, encours de la part.
 
