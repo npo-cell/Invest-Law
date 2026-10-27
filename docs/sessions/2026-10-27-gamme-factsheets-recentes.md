@@ -11,4 +11,4 @@
 - **Google Sheet** « Gamme One Life complète » (même lien) : lignes Fiches 20, 357, 781 réécrites, remarques des 4 M&G, Allocations des 3 fonds remplacées (PTAM 29 → 28 lignes), 1 ligne Documents ajoutée (PTAM FR 26/10), Lisez-moi daté du 27/10. CSV `docs/gamme-complete-2026-10-16/sheet/` mis à jour à l'identique (seules ces lignes changent).
 - **Authentification** : `authentifier.py` relancé, les 3 fiches sont entièrement conformes (Allianz : compartiment et SRI repris de la relecture, KID illisible par pdftotext) ; plus aucun fonds signalé « factsheet plus récente ». Page republiée au même lien : https://claude.ai/artifact/7GsXisc2YK4wPHHni72WLx
 - Rien modifié sur invest-law.eu.
-- À décider : PTAM sur factsheet quotidienne (la mensuelle FR reste celle du 30/09).
+- Décision de l'utilisatrice (27/10) : PTAM reste sur la factsheet quotidienne du 26/10 (plutôt que la mensuelle FR du 30/09).
