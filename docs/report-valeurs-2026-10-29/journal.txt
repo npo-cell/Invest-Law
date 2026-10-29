@@ -1,0 +1,39 @@
+== fiche 1
+classification_id : None -> 1
+total_assets : '78.57' -> '76.93'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 3
+classification_id : 4 -> 2
+PUT 200 OK | écarts après relecture : aucun
+== fiche 4
+total_assets : '1321.00' -> '1283.00'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 5
+issuer_quality : None -> 'BBB'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 6
+classification_id : None -> 1
+total_assets : '72.54' -> '69.03'
+issuer_quality : None -> 'BB-'
+risque : 4 -> 3
+PUT 200 OK | écarts après relecture : aucun
+== fiche 11
+total_assets : '1530.00' -> '1526.00'
+ter : '1.54' -> '1.55'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 12
+classification_id : None -> 4
+total_assets : '1211.79' -> '1175.21'
+ter : '1.42' -> '1.40'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 13
+classification_id : None -> 2
+total_assets : '2907.46' -> '2852.10'
+ter : '1.54' -> '1.55'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 14
+total_assets : '2478.80' -> '2458.20'
+PUT 200 OK | écarts après relecture : aucun
+== fiche 15
+ter : '1.62' -> '1.60'
+PUT 200 OK | écarts après relecture : aucun
