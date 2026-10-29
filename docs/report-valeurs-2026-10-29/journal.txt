@@ -37,3 +37,12 @@ PUT 200 OK | écarts après relecture : aucun
 == fiche 15
 ter : '1.62' -> '1.60'
 PUT 200 OK | écarts après relecture : aucun
+== fiche 16
+classification_id : 2 -> 4
+PUT 200 OK | écarts après relecture : aucun
+== fiche 18
+classification_id : None -> 2
+ter : None -> '1.40'
+risque : 4 -> 3
+PUT 200 OK | écarts après relecture : aucun
+== fiche 19
