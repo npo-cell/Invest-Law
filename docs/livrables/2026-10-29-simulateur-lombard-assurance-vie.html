@@ -4,430 +4,370 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-/* Outil de conseil : panneau d'hypothèses à gauche (collant), résultats à droite ; une colonne sur mobile */
+/* Une seule colonne de lecture : 5 questions simples, puis l'histoire du montage en 4 étapes, puis le bilan. Le détail est replié. */
 :root{
-  --bg:#f3f5f7; --card:#ffffff; --ink:#16202a; --muted:#5b6774; --rule:#d9dfe5;
-  --accent:#0e6655;   /* contrat d'assurance vie */
-  --loan:#3a5a8a;     /* crédit lombard */
-  --tax:#b0502a;      /* fiscalité */
-  --accent-soft:#e2f0ec; --tax-soft:#f7e6dd; --loan-soft:#e3e9f3;
+  --bg:#f3f5f7; --card:#ffffff; --ink:#16202a; --muted:#5b6774; --rule:#dbe1e7;
+  --contrat:#0e6655; --credit:#3a5a8a; --impot:#b0502a;
+  --contrat-soft:#e2f0ec; --credit-soft:#e4eaf4; --impot-soft:#f7e6dd;
   --f-display:"Newsreader",Georgia,"Times New Roman",serif;
   --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --f-num:"IBM Plex Mono",ui-monospace,Menlo,monospace;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#11161b; --card:#182028; --ink:#e3e8ee; --muted:#9aa6b2; --rule:#2a343f;
-  --accent:#4fbfa6; --loan:#86a7dc; --tax:#ec9a73;
-  --accent-soft:#163029; --tax-soft:#352219; --loan-soft:#1c2738; color-scheme:dark}}
+  --contrat:#4fbfa6; --credit:#8fb0e3; --impot:#ec9a73;
+  --contrat-soft:#163029; --credit-soft:#1c2738; --impot-soft:#352219; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#11161b; --card:#182028; --ink:#e3e8ee; --muted:#9aa6b2; --rule:#2a343f;
-  --accent:#4fbfa6; --loan:#86a7dc; --tax:#ec9a73;
-  --accent-soft:#163029; --tax-soft:#352219; --loan-soft:#1c2738; color-scheme:dark}
+  --contrat:#4fbfa6; --credit:#8fb0e3; --impot:#ec9a73;
+  --contrat-soft:#163029; --credit-soft:#1c2738; --impot-soft:#352219; color-scheme:dark}
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body)}
-.wrap{max-width:1240px;margin:0 auto;padding-block:32px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:28px}
-header{display:grid;gap:10px;max-width:80ch}
-.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
-h1{font-family:var(--f-display);font-weight:600;font-size:clamp(28px,4vw,40px);line-height:1.15;margin:0;text-wrap:balance}
-h2{font-family:var(--f-display);font-weight:600;font-size:22px;margin:0;text-wrap:balance}
-h3{font-size:13px;margin:0;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+body{background:var(--bg);color:var(--ink);font:16px/1.55 var(--f-body)}
+.wrap{max-width:860px;margin:0 auto;padding-block:36px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:30px}
+h1{font-family:var(--f-display);font-weight:600;font-size:clamp(30px,5vw,42px);line-height:1.12;margin:0;text-wrap:balance}
+h2{font-family:var(--f-display);font-weight:600;font-size:24px;margin:0;text-wrap:balance}
 p{margin:0}
-.lead{color:var(--muted);max-width:75ch}
-.num{font-family:var(--f-num);font-variant-numeric:tabular-nums}
-.layout{display:grid;grid-template-columns:minmax(290px,350px) 1fr;gap:24px;align-items:start}
-@media (max-width:900px){.layout{grid-template-columns:1fr}}
-/* panneau */
-.panel{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:18px;display:grid;gap:18px;position:sticky;top:max(12px,env(safe-area-inset-top,0px))}
-@media (max-width:900px){.panel{position:static}}
-.group{display:grid;gap:12px;padding-top:14px;border-top:1px solid var(--rule)}
-.group:first-child{border-top:0;padding-top:0}
-.field{display:grid;gap:4px}
-.field .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
-.field label{font-size:14px;font-weight:500}
-.field .val{font-family:var(--f-num);font-size:14px;color:var(--accent);white-space:nowrap}
-.field .hint{font-size:12px;color:var(--muted)}
-input[type=range]{width:100%;accent-color:var(--accent)}
-input[type=number],select{font:inherit;font-family:var(--f-num);font-size:14px;color:var(--ink);background:var(--bg);border:1px solid var(--rule);border-radius:6px;padding:6px 8px;width:100%;min-width:0}
-.check{display:flex;gap:8px;align-items:flex-start;font-size:14px}
-.check input{margin-top:3px;accent-color:var(--accent)}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-/* résultats */
-.results{display:grid;gap:22px;min-width:0}
-.verdict{background:var(--card);border:1px solid var(--rule);border-left:4px solid var(--accent);border-radius:10px;padding:16px 18px;font-size:16px;max-width:none}
-.verdict.has-tax{border-left-color:var(--tax)}
-.verdict b{font-weight:600}
-.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:10px;overflow:hidden}
-.tile{background:var(--card);padding:14px 16px;display:grid;gap:4px;align-content:start}
-.tile .k{font-size:12.5px;color:var(--muted)}
-.tile .v{font-family:var(--f-num);font-size:21px;font-weight:500;font-variant-numeric:tabular-nums}
-.tile .s{font-size:12.5px;color:var(--muted)}
-.c-acc{color:var(--accent)} .c-loan{color:var(--loan)} .c-tax{color:var(--tax)}
-.card{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:18px;display:grid;gap:12px;min-width:0}
-.card .note{font-size:13px;color:var(--muted)}
-.charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:22px}
-.chart{position:relative;width:100%}
-.chart svg{display:block;width:100%;height:auto;overflow:visible}
-.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12.5px;color:var(--muted)}
+.lead{font-size:17px;color:var(--muted);max-width:62ch}
+.n{font-family:var(--f-num);font-variant-numeric:tabular-nums;white-space:nowrap}
+b.n{font-weight:500}
+.c-contrat{color:var(--contrat)} .c-credit{color:var(--credit)} .c-impot{color:var(--impot)}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:22px;display:grid;gap:18px;min-width:0}
+/* questions */
+.q{display:grid;gap:8px}
+.q .top{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.q label{font-weight:500}
+.q .val{font-family:var(--f-num);font-size:18px;font-weight:500;color:var(--ink)}
+.q .help{font-size:13.5px;color:var(--muted)}
+input[type=range]{width:100%;accent-color:var(--contrat);height:22px}
+input[type=number],select{font:inherit;font-family:var(--f-num);font-size:17px;color:var(--ink);background:var(--bg);border:1px solid var(--rule);border-radius:8px;padding:8px 10px;width:100%;min-width:0}
+.money{position:relative} .money input{padding-right:34px} .money::after{content:"€";position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:520px){.duo{grid-template-columns:1fr}}
+.choice{display:flex;flex-wrap:wrap;gap:8px}
+.choice label{display:flex;align-items:center;gap:8px;border:1px solid var(--rule);border-radius:999px;padding:7px 14px;cursor:pointer;font-size:14.5px;font-weight:400}
+.choice input{accent-color:var(--contrat)}
+.choice label:has(input:checked){border-color:var(--contrat);background:var(--contrat-soft)}
+:focus-visible{outline:2px solid var(--contrat);outline-offset:2px}
+details{border-top:1px solid var(--rule);padding-top:14px}
+summary{cursor:pointer;color:var(--credit);font-weight:500}
+details .inner{display:grid;gap:16px;padding-top:16px}
+.check{display:flex;gap:10px;align-items:flex-start;font-size:15px}
+.check input{margin-top:5px;accent-color:var(--contrat)}
+/* réponse */
+.answer{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:22px;display:grid;gap:14px}
+.answer .big{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+@media (max-width:620px){.answer .big{grid-template-columns:1fr}}
+.answer .big div{border-radius:10px;padding:14px 16px;display:grid;gap:2px}
+.answer .big span{font-size:13.5px;color:var(--muted)}
+.answer .big strong{font-family:var(--f-num);font-size:26px;font-weight:500;font-variant-numeric:tabular-nums}
+.b-credit{background:var(--credit-soft)} .b-cout{background:var(--bg)} .b-impot{background:var(--impot-soft)}
+.alert{border-left:4px solid var(--impot);background:var(--impot-soft);padding:10px 14px;border-radius:6px;font-size:15px}
+/* étapes */
+.steps{display:grid;gap:0;counter-reset:s}
+.step{display:grid;grid-template-columns:40px 1fr;gap:14px;padding:18px 0;border-top:1px solid var(--rule)}
+.step:first-child{border-top:0;padding-top:4px}
+.step .dot{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;font-family:var(--f-num);font-weight:500;color:var(--card);background:var(--credit)}
+.step.s-impot .dot{background:var(--impot)} .step.s-contrat .dot{background:var(--contrat)}
+.step h3{margin:0 0 4px;font-size:17px;font-weight:600}
+.step p{color:var(--ink);max-width:64ch}
+.step .sub{color:var(--muted);font-size:14.5px;margin-top:6px}
+/* barre d'un retrait */
+.split{margin-top:12px;display:grid;gap:6px;max-width:520px}
+.split .bar{display:flex;height:26px;border-radius:6px;overflow:hidden;font-size:12.5px;font-family:var(--f-num)}
+.split .bar span{display:flex;align-items:center;padding:0 8px;white-space:nowrap;overflow:hidden;color:var(--card)}
+.split .cap{background:var(--muted)} .split .gain{background:var(--contrat)}
+.split .lg{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
 .sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
-.tip{position:absolute;pointer-events:none;background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:6px 9px;font-size:12.5px;box-shadow:0 4px 14px rgba(0,0,0,.12);white-space:nowrap}
-.tip .t{color:var(--muted)}
-/* tableau */
+/* bilan */
+.versus{display:grid;gap:12px}
+.vrow{display:grid;grid-template-columns:minmax(150px,220px) 1fr;gap:12px;align-items:center}
+@media (max-width:520px){.vrow{grid-template-columns:1fr}}
+.vrow .lab{font-size:14.5px}
+.vbar{height:30px;border-radius:6px;display:flex;align-items:center;padding:0 10px;font-family:var(--f-num);font-size:14px;color:var(--card);min-width:fit-content}
+.cost{display:grid;grid-template-columns:1fr auto;gap:6px 16px;max-width:460px;font-size:15px}
+.cost dt{color:var(--muted)} .cost dd{margin:0;text-align:right;font-family:var(--f-num)}
+.cost .tot{font-weight:600;color:var(--ink);border-top:1px solid var(--rule);padding-top:6px}
 .tablebox{overflow-x:auto;border:1px solid var(--rule);border-radius:8px}
-table{border-collapse:collapse;width:100%;font-size:13.5px;min-width:900px}
-th{text-align:right;font-size:11.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600;padding:9px 10px;border-bottom:1px solid var(--rule);background:var(--card);vertical-align:bottom}
+table{border-collapse:collapse;width:100%;font-size:13.5px;min-width:720px}
+th{text-align:right;font-size:12px;color:var(--muted);font-weight:600;padding:9px 10px;border-bottom:1px solid var(--rule);vertical-align:bottom}
 th:first-child,td:first-child{text-align:left}
 td{padding:8px 10px;border-bottom:1px solid var(--rule);text-align:right;font-family:var(--f-num);font-variant-numeric:tabular-nums;white-space:nowrap}
-tr.final td{background:var(--loan-soft)}
-tr.total td{font-weight:600;border-top:2px solid var(--ink);border-bottom:0}
-td.taxed{color:var(--tax);font-weight:500}
-.pill{display:inline-block;font-family:var(--f-body);font-size:11.5px;font-weight:600;padding:1px 7px;border-radius:999px}
-.p-ok{background:var(--accent-soft);color:var(--accent)} .p-tax{background:var(--tax-soft);color:var(--tax)}
-.compare{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:14px}
-.compare .box{border:1px solid var(--rule);border-radius:8px;padding:14px;display:grid;gap:6px}
-.compare dl{margin:0;display:grid;grid-template-columns:1fr auto;gap:4px 12px;font-size:14px}
-.compare dt{color:var(--muted)} .compare dd{margin:0;font-family:var(--f-num);text-align:right}
-ul.notes{margin:0;padding-left:18px;display:grid;gap:6px;font-size:14px;max-width:85ch}
-.src a{color:var(--loan)}
-@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+tr.fin td{background:var(--credit-soft)}
+td.t{color:var(--impot);font-weight:500}
+ul.notes{margin:0;padding-left:18px;display:grid;gap:6px;font-size:14.5px;color:var(--muted)}
+.src a{color:var(--credit)}
+.small{font-size:13.5px;color:var(--muted)}
 </style>
 
 <div class="wrap">
-  <header>
-    <div class="eyebrow">Assurance vie branche 23 · crédit lombard · taxe belge sur les plus-values (2026)</div>
-    <h1>Assurance vie et crédit lombard : quel impact fiscal ?</h1>
-    <p class="lead">Le client place une prime en assurance vie, emprunte entre 50 et 80 % de ce montant en crédit lombard, et rachète chaque trimestre juste ce qu'il faut dans le contrat pour payer les intérêts. Chaque rachat contient une part de plus-value, taxée à 10 % au-delà de l'exonération annuelle. Modifiez les hypothèses à gauche : tout se recalcule.</p>
+  <header style="display:grid;gap:12px">
+    <h1>Crédit lombard sur assurance vie&nbsp;: combien ça coûte vraiment&nbsp;?</h1>
+    <p class="lead">Vous placez une somme en assurance vie et vous empruntez une partie de ce montant à la banque, en donnant le contrat en garantie. Les intérêts sont payés par de petits retraits sur le contrat. Répondez aux questions ci-dessous : la page calcule le coût et l'impôt.</p>
   </header>
 
-  <div class="layout">
-    <form class="panel" id="f" autocomplete="off">
-      <div class="group">
-        <h3>Placement</h3>
-        <div class="field"><div class="row"><label for="prime">Prime versée</label></div>
-          <input type="number" id="prime" min="10000" step="10000" value="500000"></div>
-        <div class="field"><div class="row"><label for="taxeprime">Taxe sur la prime</label><span class="val" id="o-taxeprime"></span></div>
-          <input type="range" id="taxeprime" min="0" max="4.4" step="0.1" value="2">
-          <span class="hint">2 % pour une personne physique en Belgique.</span></div>
-        <div class="field"><div class="row"><label for="rend">Rendement annuel du contrat (net de frais)</label><span class="val" id="o-rend"></span></div>
-          <input type="range" id="rend" min="-5" max="12" step="0.25" value="5"></div>
-      </div>
-      <div class="group">
-        <h3>Crédit lombard</h3>
-        <div class="field"><div class="row"><label for="ltv">Montant emprunté (% de la prime)</label><span class="val" id="o-ltv"></span></div>
-          <input type="range" id="ltv" min="50" max="80" step="1" value="60"></div>
-        <div class="field"><div class="row"><label for="eur">Euribor 3 mois</label><span class="val" id="o-eur"></span></div>
-          <input type="range" id="eur" min="-0.5" max="5" step="0.05" value="2.00">
-          <span class="hint">Supposé constant sur toute la durée. À ajuster au niveau du jour.</span></div>
-        <div class="field"><div class="row"><label for="marge">Marge de la banque</label><span class="val" id="o-marge"></span></div>
-          <input type="range" id="marge" min="0" max="3" step="0.05" value="1.00"></div>
-        <div class="field"><div class="row"><label for="duree">Durée</label><span class="val" id="o-duree"></span></div>
-          <input type="range" id="duree" min="1" max="20" step="1" value="10"></div>
-        <label class="check"><input type="checkbox" id="rembours" checked> Rembourser le crédit à l'échéance par un rachat dans le contrat</label>
-      </div>
-      <div class="group">
-        <h3>Fiscalité</h3>
-        <div class="field"><div class="row"><label for="taux">Taxe sur les plus-values</label><span class="val" id="o-taux"></span></div>
-          <input type="range" id="taux" min="0" max="20" step="0.5" value="10"></div>
-        <div class="field"><div class="row"><label for="exo">Exonération annuelle par personne</label></div>
-          <input type="number" id="exo" min="0" step="500" value="10000"></div>
-        <div class="field"><div class="row"><label for="pers">Nombre de bénéficiaires de l'exonération</label></div>
-          <select id="pers"><option value="1" selected>1 personne</option><option value="2">2 personnes (contrat au nom d'un couple)</option></select></div>
-        <div class="field"><div class="row"><label for="autres">Autres plus-values réalisées chaque année</label></div>
-          <input type="number" id="autres" min="0" step="1000" value="0">
-          <span class="hint">Actions, fonds… elles consomment la même exonération.</span></div>
-        <label class="check"><input type="checkbox" id="report"> Reporter l'exonération non utilisée (1 000 € par an, plafond 15 000 €)</label>
-      </div>
-    </form>
+  <form class="card" id="f" autocomplete="off">
+    <h2>Votre situation</h2>
+    <div class="q"><div class="top"><label for="prime">1. Combien placez-vous en assurance vie ?</label></div>
+      <div class="money"><input type="number" id="prime" min="10000" step="10000" value="500000" inputmode="numeric"></div></div>
 
-    <div class="results">
-      <p class="verdict" id="verdict"></p>
-      <div class="tiles" id="tiles"></div>
+    <div class="q"><div class="top"><label for="rend">2. Combien le placement rapporte-t-il par an ?</label><span class="val" id="o-rend"></span></div>
+      <input type="range" id="rend" min="-3" max="10" step="0.25" value="5">
+      <span class="help">Rendement net des frais du contrat.</span></div>
 
-      <section class="card">
-        <h2>Plus-value réalisée chaque année</h2>
-        <p class="note">Part de plus-value contenue dans les rachats, comparée à l'exonération. Ce qui dépasse la ligne est taxé.</p>
-        <div class="legend"><span><i class="sw" style="background:var(--accent)"></i>Exonérée</span><span><i class="sw" style="background:var(--tax)"></i>Taxée</span><span><i class="sw" style="background:var(--muted)"></i>Exonération disponible</span></div>
-        <div class="charts">
-          <div class="chart" id="ch-pv"></div>
+    <div class="q"><div class="top"><label for="ltv">3. Quelle part empruntez-vous ?</label><span class="val" id="o-ltv"></span></div>
+      <input type="range" id="ltv" min="50" max="80" step="5" value="60">
+      <span class="help">La banque prête en général entre 50 et 80 % du montant placé.</span></div>
+
+    <div class="q"><div class="top"><label>4. À quel taux ?</label><span class="val" id="o-taux"></span></div>
+      <div class="duo">
+        <div class="q"><label for="eur" class="help">Euribor 3 mois (%)</label><input type="number" id="eur" step="0.05" value="2.00"></div>
+        <div class="q"><label for="marge" class="help">+ marge de la banque (%)</label><input type="number" id="marge" step="0.05" value="1.00"></div>
+      </div></div>
+
+    <div class="q"><div class="top"><label for="duree">5. Pendant combien d'années ?</label><span class="val" id="o-duree"></span></div>
+      <input type="range" id="duree" min="1" max="20" step="1" value="10"></div>
+
+    <div class="q"><label>6. À la fin, comment remboursez-vous le crédit ?</label>
+      <div class="choice">
+        <label><input type="radio" name="remb" value="rachat" checked> En retirant l'argent de l'assurance vie</label>
+        <label><input type="radio" name="remb" value="autre"> Avec d'autres fonds</label>
+      </div></div>
+
+    <details>
+      <summary>Réglages fiscaux (facultatif)</summary>
+      <div class="inner">
+        <div class="duo">
+          <div class="q"><label for="exo" class="help">Montant de gain exonéré par an et par personne (€)</label><input type="number" id="exo" min="0" step="500" value="10000"></div>
+          <div class="q"><label for="taux" class="help">Taxe sur les gains au-delà (%)</label><input type="number" id="taux" min="0" step="0.5" value="10"></div>
         </div>
-      </section>
+        <div class="duo">
+          <div class="q"><label for="pers" class="help">Personnes qui profitent de l'exonération</label>
+            <select id="pers"><option value="1" selected>1 personne</option><option value="2">2 personnes (contrat d'un couple)</option></select></div>
+          <div class="q"><label for="autres" class="help">Autres gains réalisés chaque année ailleurs (€)</label><input type="number" id="autres" min="0" step="1000" value="0"></div>
+        </div>
+        <div class="q"><label for="taxeprime" class="help">Taxe sur la prime à l'entrée (%)</label><input type="number" id="taxeprime" min="0" step="0.1" value="2"></div>
+        <label class="check"><input type="checkbox" id="report"> Reporter l'exonération non utilisée (1 000 € par an, jusqu'à 15 000 €)</label>
+      </div>
+    </details>
+  </form>
 
-      <section class="card">
-        <h2>Valeur du contrat face au crédit</h2>
-        <p class="note">Valeur du contrat en fin d'année, avec et sans le montage, et montant du crédit en cours.</p>
-        <div class="legend"><span><i class="sw" style="background:var(--accent)"></i>Contrat avec crédit lombard</span><span><i class="sw" style="background:var(--muted)"></i>Contrat sans crédit (aucun rachat)</span><span><i class="sw" style="background:var(--loan)"></i>Crédit en cours</span></div>
-        <div class="chart" id="ch-val"></div>
-      </section>
+  <section class="answer" aria-live="polite">
+    <h2>En résumé</h2>
+    <div class="big">
+      <div class="b-credit"><span>Vous recevez</span><strong class="c-credit" id="r-credit"></strong><span id="r-credit-s"></span></div>
+      <div class="b-cout"><span>Les intérêts vous coûtent</span><strong id="r-int"></strong><span id="r-int-s"></span></div>
+      <div class="b-impot"><span>Impôt total sur les gains</span><strong class="c-impot" id="r-impot"></strong><span id="r-impot-s"></span></div>
+    </div>
+    <p id="r-phrase"></p>
+    <p class="alert" id="r-alert" hidden></p>
+  </section>
 
-      <section class="card">
-        <h2>Tableau année par année</h2>
-        <p class="note">Rachats trimestriels égaux aux intérêts du trimestre. La plus-value de chaque rachat est calculée au prorata : rachat × (valeur − montant investi restant) ÷ valeur.</p>
+  <section class="card">
+    <h2>Ce qui se passe, étape par étape</h2>
+    <div class="steps">
+      <div class="step"><div class="dot">1</div><div>
+        <h3>Vous placez et vous empruntez</h3>
+        <p id="s1"></p></div></div>
+      <div class="step s-contrat"><div class="dot">2</div><div>
+        <h3>Chaque trimestre, les intérêts sont payés par un retrait</h3>
+        <p id="s2"></p>
+        <div class="split" id="split"></div></div></div>
+      <div class="step s-impot"><div class="dot">3</div><div>
+        <h3>L'impôt sur ces retraits</h3>
+        <p id="s3"></p>
+        <p class="sub" id="s3b"></p></div></div>
+      <div class="step s-impot"><div class="dot">4</div><div>
+        <h3 id="s4t">À la fin, vous remboursez le crédit</h3>
+        <p id="s4"></p></div></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Le bilan après <span id="b-ans"></span></h2>
+    <p class="small">Votre patrimoine à la fin, comparé au même placement sans crédit ni retrait.</p>
+    <div class="versus" id="versus"></div>
+    <dl class="cost" id="cost"></dl>
+    <p class="small" id="b-note"></p>
+  </section>
+
+  <section class="card">
+    <details>
+      <summary>Voir le détail année par année</summary>
+      <div class="inner">
         <div class="tablebox"><table>
-          <thead><tr><th>Année</th><th>Valeur début</th><th>Rendement</th><th>Intérêts payés<br>(= rachats)</th><th>Plus-value<br>réalisée</th><th>Exonération<br>disponible</th><th>Plus-value<br>taxable</th><th>Taxe</th><th>Valeur fin</th><th>Plus-value<br>latente fin</th></tr></thead>
+          <thead><tr><th>Année</th><th>Valeur du contrat<br>en début d'année</th><th>Gain de l'année</th><th>Retraits<br>(intérêts)</th><th>Part de gain<br>dans les retraits</th><th>Exonération</th><th>Impôt</th><th>Valeur du contrat<br>en fin d'année</th></tr></thead>
           <tbody id="rows"></tbody>
         </table></div>
-      </section>
-
-      <section class="card">
-        <h2>Avec ou sans le montage</h2>
-        <div class="compare" id="compare"></div>
-      </section>
-
-      <section class="card">
-        <h2>Hypothèses et limites</h2>
+      </div>
+    </details>
+    <details>
+      <summary>Comment c'est calculé, et les limites</summary>
+      <div class="inner">
         <ul class="notes">
-          <li>Contrat de <b>branche 23</b> (fonds). En branche 21, un rachat avant 8 ans peut aussi supporter un précompte mobilier de 30 % : non modélisé.</li>
-          <li>Seules les plus-values réalisées à partir du 1<sup>er</sup> janvier 2026 sont taxées ; le placement simulé est nouveau, donc toute la plus-value est concernée.</li>
-          <li>Montant investi de référence = prime versée, taxe sur la prime comprise. La plus-value d'un rachat est calculée au prorata de la valeur du contrat.</li>
-          <li>Les intérêts du crédit lombard ne sont pas déductibles pour un particulier. L'Euribor et le rendement sont supposés constants ; le rendement est lissé trimestre par trimestre.</li>
-          <li>La taxe est payée hors du contrat, l'année suivante, via la déclaration (l'exonération doit y être demandée). Une moins-value réalisée n'est pas compensée ici.</li>
-          <li>L'exonération (10 000 € pour 2026, indexée ensuite) vaut par contribuable et par an, tous actifs financiers confondus. Le partage pour un contrat souscrit par un couple est à confirmer.</li>
-          <li>La quotité réellement accordée par la banque dépend des actifs du contrat (souvent plus basse pour les fonds actions) et peut imposer un remboursement si la valeur baisse.</li>
-          <li>Simulation indicative : elle ne constitue pas un conseil fiscal.</li>
+          <li>Depuis le 1<sup>er</sup> janvier 2026, la Belgique taxe à 10 % les gains réalisés sur les placements financiers, dont l'assurance vie branche 23. Les 10 000 premiers euros de gain par an et par personne sont exonérés (montant de 2026, indexé ensuite), tous placements confondus.</li>
+          <li>Un retrait n'est pas taxé en entier : seule la part de gain qu'il contient compte. Elle est proportionnelle au gain total du contrat au moment du retrait.</li>
+          <li>Le montant placé sert de référence, taxe de 2 % sur la prime comprise. Le rendement et l'Euribor sont supposés constants.</li>
+          <li>Les intérêts d'un crédit lombard ne sont pas déductibles pour un particulier. L'impôt est payé l'année suivante via la déclaration, hors du contrat.</li>
+          <li>Contrat de branche 23 seulement : en branche 21, un retrait avant 8 ans peut aussi supporter un précompte de 30 %, non calculé ici.</li>
+          <li>La banque peut réduire le montant prêté selon les fonds du contrat, et demander un remboursement si la valeur baisse. Le partage de l'exonération pour un couple est à confirmer.</li>
+          <li>Ce que vous faites de la somme empruntée n'est pas pris en compte. Simulation indicative, pas un conseil fiscal.</li>
         </ul>
-        <p class="note src">Sources : <a href="https://www.belfius.be/corporate/FR/notre-offre/investir/taxe-plus-values/index.aspx">Belfius, taxe sur les plus-values</a> · <a href="https://www.test-achats.be/argent/impots/news/taxe-plus-values">Test-Achats</a> · <a href="https://www.claeysengels.be/sites/default/files/2026-04/Newsletter%20-%20Analysis%20de%20la%20nouvelle%20taxe%20sur%20les%20plus-values_0.pdf">Claeys &amp; Engels (avril 2026)</a> · <a href="https://www.securex.be/fr/independants/assurances/taxe-sur-les-plus-values">Securex</a></p>
-      </section>
-    </div>
-  </div>
+        <p class="small src">Sources : <a href="https://www.belfius.be/corporate/FR/notre-offre/investir/taxe-plus-values/index.aspx">Belfius</a> · <a href="https://www.test-achats.be/argent/impots/news/taxe-plus-values">Test-Achats</a> · <a href="https://www.claeysengels.be/sites/default/files/2026-04/Newsletter%20-%20Analysis%20de%20la%20nouvelle%20taxe%20sur%20les%20plus-values_0.pdf">Claeys &amp; Engels (avril 2026)</a> · <a href="https://www.securex.be/fr/independants/assurances/taxe-sur-les-plus-values">Securex</a></p>
+      </div>
+    </details>
+  </section>
 </div>
 
 <script>
 const $ = (id) => document.getElementById(id);
-const eur = new Intl.NumberFormat('fr-BE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
-const eurC = new Intl.NumberFormat('fr-BE', { notation: 'compact', maximumFractionDigits: 1 });
-const pct = (v, d = 2) => (v).toLocaleString('fr-BE', { minimumFractionDigits: d, maximumFractionDigits: d }) + ' %';
-const E = (v) => eur.format(Math.round(v));
+const fmt = new Intl.NumberFormat('fr-BE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
+const E = (v) => fmt.format(Math.round(v));
+const P = (v, d = 2) => v.toLocaleString('fr-BE', { minimumFractionDigits: d, maximumFractionDigits: d }) + ' %';
+const N = (v) => `<b class="n">${E(v)}</b>`;
 
 function lire() {
-  const n = (id) => Number($(id).value) || 0;
+  const n = (id) => Number(String($(id).value).replace(',', '.')) || 0;
   return {
-    prime: Math.max(0, n('prime')), taxePrime: n('taxeprime') / 100, rend: n('rend') / 100,
-    ltv: n('ltv') / 100, euribor: n('eur') / 100, marge: n('marge') / 100, duree: Math.round(n('duree')),
-    rembours: $('rembours').checked, taux: n('taux') / 100, exo: Math.max(0, n('exo')), pers: n('pers') || 1,
-    autres: Math.max(0, n('autres')), report: $('report').checked,
+    prime: Math.max(0, n('prime')), rend: n('rend') / 100, ltv: n('ltv') / 100,
+    euribor: n('eur') / 100, marge: n('marge') / 100, duree: Math.max(1, Math.round(n('duree'))),
+    rembours: document.querySelector('input[name=remb]:checked').value === 'rachat',
+    exo: Math.max(0, n('exo')), taux: n('taux') / 100, pers: n('pers') || 1, autres: Math.max(0, n('autres')),
+    taxePrime: n('taxeprime') / 100, report: $('report').checked,
   };
 }
 
-// Simulation trimestrielle. Retourne les lignes annuelles et les totaux.
+// Simulation trimestrielle (voir « Comment c'est calculé »)
 function simuler(p, montantCredit) {
   const credit = montantCredit ?? p.prime * p.ltv;
   const tauxCredit = Math.max(0, p.euribor + p.marge);
   const gq = Math.pow(1 + p.rend, 0.25) - 1;
-  let V = p.prime * (1 - p.taxePrime), B = p.prime, report = 0;
-  let sansV = V;
-  const lignes = [];
-  const tot = { interets: 0, pv: 0, taxable: 0, taxe: 0, rachats: 0 };
-  const rachat = (R, ann) => {
-    if (R <= 0 || V <= 0) return;
+  let V = p.prime * (1 - p.taxePrime), B = p.prime, report = 0, sansV = V, Vavant = V;
+  const lignes = [], tot = { interets: 0, pv: 0, taxe: 0, gain: 0 };
+  const retrait = (R, ann, cle) => {
+    if (R <= 0 || V <= 0) return 0;
     R = Math.min(R, V);
-    const part = R / V;
-    const gain = Math.max(0, V - B) * part;
+    const part = R / V, gain = Math.max(0, V - B) * part;
     B -= B * part; V -= R;
-    ann.pv += gain; ann.rachats += R;
+    ann.pv += gain; ann[cle] = (ann[cle] || 0) + gain;
+    return gain;
   };
   for (let a = 1; a <= p.duree; a++) {
-    const ann = { annee: a, debut: V, rendement: 0, interets: 0, rachats: 0, pv: 0, final: false };
+    const ann = { annee: a, debut: V, gain: 0, interets: 0, pv: 0, final: false };
     for (let q = 0; q < 4; q++) {
-      const g = V * gq; V += g; ann.rendement += g;
-      const i = credit * tauxCredit / 4;
-      ann.interets += i;
-      rachat(i, ann);
+      const g = V * gq; V += g; ann.gain += g;
+      const i = credit * tauxCredit / 4; ann.interets += i;
+      retrait(i, ann, 'pvInt');
     }
     sansV *= 1 + p.rend;
-    if (a === p.duree && p.rembours) { ann.remb = credit; ann.manque = Math.max(0, credit - V); rachat(credit, ann); ann.final = true; }
-    // exonération de l'année, par personne : base + report éventuel (report de 1 000 €/an non utilisés, total plafonné à 15 000 €)
-    const k = p.exo / 10000;
-    const exoPers = p.exo + (p.report ? report : 0);
-    const exoTot = exoPers * p.pers;
-    // les autres plus-values consomment l'exonération en premier
-    const exoRestant = Math.max(0, exoTot - p.autres);
-    ann.exoDispo = exoRestant;
-    ann.taxable = Math.max(0, ann.pv - exoRestant);
-    ann.taxe = ann.taxable * p.taux;
+    Vavant = V;
+    if (a === p.duree && p.rembours) { ann.final = true; ann.manque = Math.max(0, credit - V); retrait(credit, ann, 'pvRemb'); }
+    const k = p.exo / 10000, exoPers = p.exo + (p.report ? report : 0);
+    ann.exo = Math.max(0, exoPers * p.pers - p.autres);
+    ann.taxe = Math.max(0, ann.pv - ann.exo) * p.taux;
     if (p.report) {
       const utilise = Math.min((ann.pv + p.autres) / p.pers, exoPers);
-      report = utilise < p.exo ? Math.min(report + Math.min(1000 * k, p.exo - utilise), 5000 * k)
-                               : Math.max(0, report - (utilise - p.exo));
+      report = utilise < p.exo ? Math.min(report + Math.min(1000 * k, p.exo - utilise), 5000 * k) : Math.max(0, report - (utilise - p.exo));
     }
-    ann.fin = V; ann.latente = Math.max(0, V - B); ann.sans = sansV;
-    ann.creditFin = (ann.final ? 0 : credit);
-    tot.interets += ann.interets; tot.pv += ann.pv; tot.taxable += ann.taxable; tot.taxe += ann.taxe; tot.rachats += ann.rachats;
+    ann.fin = V;
+    tot.interets += ann.interets; tot.pv += ann.pv; tot.taxe += ann.taxe; tot.gain += ann.gain;
     lignes.push(ann);
   }
-  const manque = lignes.length ? (lignes[lignes.length - 1].manque || 0) : 0;
-  const quotiteMax = Math.max(...lignes.map((x) => (x.final ? 0 : credit / Math.max(1, x.fin))));
-  return { credit, tauxCredit, lignes, tot, V, B, sansV, sansB: p.prime, manque, quotiteMax };
+  const last = lignes[lignes.length - 1];
+  const tension = Math.max(0, ...lignes.map((x) => (x.final ? 0 : credit / Math.max(1, x.fin))));
+  return { credit, tauxCredit, lignes, tot, V, B, sansV, Vavant, manque: last.manque || 0, tension };
 }
 
-// Plus grand crédit sans aucune taxe sur les rachats d'intérêts (hors remboursement final)
-function creditSansTaxe(p) {
+function creditSansImpot(p) {
   const q = { ...p, rembours: false };
-  if (simuler(q, p.prime * 0.8).tot.taxe <= 0.5) return p.prime * 0.8;
+  const ok = (m) => simuler(q, m).tot.taxe <= 0.5;
+  if (ok(p.prime * 0.8)) return p.prime * 0.8;
   let lo = 0, hi = p.prime * 0.8;
-  for (let k = 0; k < 40; k++) {
-    const m = (lo + hi) / 2;
-    if (simuler(q, m).tot.taxe <= 0.5) lo = m; else hi = m;
-  }
+  for (let k = 0; k < 40; k++) { const m = (lo + hi) / 2; if (ok(m)) lo = m; else hi = m; }
   return lo;
-}
-
-function tuile(k, v, s, cls = '') {
-  return `<div class="tile"><span class="k">${k}</span><span class="v ${cls}">${v}</span>${s ? `<span class="s">${s}</span>` : ''}</div>`;
 }
 
 function rendre() {
   const p = lire();
-  $('o-taxeprime').textContent = pct(p.taxePrime * 100, 1);
-  $('o-rend').textContent = pct(p.rend * 100);
-  $('o-ltv').textContent = Math.round(p.ltv * 100) + ' % · ' + E(p.prime * p.ltv);
-  $('o-eur').textContent = pct(p.euribor * 100);
-  $('o-marge').textContent = pct(p.marge * 100);
-  $('o-duree').textContent = p.duree + (p.duree > 1 ? ' ans' : ' an');
-  $('o-taux').textContent = pct(p.taux * 100, 1);
+  const r = simuler(p), L = r.lignes, last = L[L.length - 1];
+  const ans = p.duree + (p.duree > 1 ? ' ans' : ' an');
+  $('o-rend').textContent = P(p.rend * 100);
+  $('o-ltv').textContent = Math.round(p.ltv * 100) + ' %';
+  $('o-taux').textContent = P(r.tauxCredit * 100) + ' par an';
+  $('o-duree').textContent = ans;
 
-  const r = simuler(p);
-  const L = r.lignes, last = L[L.length - 1];
-  // taxe due aux seuls rachats d'intérêts vs taxe de l'année du remboursement
-  const sansRemb = simuler({ ...p, rembours: false });
-  const taxeInterets = sansRemb.tot.taxe;
-  const taxeRemb = r.tot.taxe - taxeInterets;
-  const maxCredit = creditSansTaxe(p);
-  const coutAnnuel = r.credit > 0 ? (r.tot.interets + r.tot.taxe) / r.credit / p.duree : 0;
-  const netAvec = r.V - (p.rembours ? r.manque : r.credit) - r.tot.taxe;
-  const latenteSans = Math.max(0, r.sansV - r.sansB);
-
-  // verdict
-  const v = $('verdict');
-  v.classList.toggle('has-tax', r.tot.taxe > 0.5);
   const iq = r.credit * r.tauxCredit / 4;
-  let txt = `Emprunter <b>${E(r.credit)}</b> à <b>${pct(r.tauxCredit * 100)}</b> coûte <b>${E(iq)}</b> par trimestre, soit <b>${E(iq * 4)}</b> par an, payés par des rachats. `;
-  txt += taxeInterets < 0.5
-    ? `Ces rachats ne génèrent <b>aucune taxe</b> : la plus-value qu'ils contiennent reste sous l'exonération chaque année. `
-    : `Ces rachats génèrent <b>${E(taxeInterets)}</b> de taxe sur ${p.duree} ans, car la plus-value réalisée dépasse l'exonération certaines années. `;
-  if (p.rembours) txt += `Le remboursement final par rachat réalise une grosse plus-value d'un coup : <b>${E(taxeRemb)}</b> de taxe l'année ${p.duree}.`;
-  else txt += `Le crédit reste dû à l'échéance (${E(r.credit)}).`;
-  if (r.manque > 0.5) txt += ` <b class="c-tax">Attention : le contrat ne suffit pas à rembourser le crédit, il manque ${E(r.manque)}.</b>`;
-  if (r.quotiteMax > 0.8) txt += ` <b class="c-tax">Le crédit dépasse ${Math.round(r.quotiteMax * 100)} % de la valeur du contrat en cours de route : la banque demanderait un remboursement partiel ou des garanties.</b>`;
-  v.innerHTML = txt;
+  const impotInterets = L.reduce((s, x) => s + (x.final ? Math.max(0, (x.pvInt || 0) - x.exo) * p.taux : x.taxe), 0);
+  const impotFin = r.tot.taxe - impotInterets;
+  const pvFin = last.pvRemb || 0;
 
-  $('tiles').innerHTML =
-    tuile('Crédit lombard', E(r.credit), `${Math.round(p.ltv * 100)} % de la prime, taux ${pct(r.tauxCredit * 100)}`, 'c-loan') +
-    tuile('Intérêts payés par rachats', E(r.tot.interets), `${E(r.tot.interets / p.duree)} par an`) +
-    tuile('Plus-value réalisée', E(r.tot.pv), p.rembours ? 'remboursement final compris' : 'rachats d\'intérêts') +
-    tuile('Taxe sur les plus-values', E(r.tot.taxe), p.rembours ? `dont ${E(taxeRemb)} au remboursement` : 'sur la durée', 'c-tax') +
-    tuile('Crédit maximal sans taxe', E(maxCredit), `${Math.round(maxCredit / p.prime * 100)} % de la prime, rachats d'intérêts seuls`, 'c-acc') +
-    tuile('Coût annuel de la liquidité', pct(coutAnnuel * 100), 'intérêts + taxes, en % du crédit');
+  // En résumé
+  $('r-credit').textContent = E(r.credit);
+  $('r-credit-s').textContent = `${Math.round(p.ltv * 100)} % de ${E(p.prime)}`;
+  $('r-int').textContent = E(r.tot.interets);
+  $('r-int-s').textContent = `${E(iq * 4)} par an pendant ${ans}`;
+  $('r-impot').textContent = E(r.tot.taxe);
+  $('r-impot-s').textContent = p.rembours ? `dont ${E(impotFin)} au remboursement final` : 'sur toute la durée';
+  let phrase = `Vous disposez de ${N(r.credit)} sans vendre votre placement. `;
+  phrase += impotInterets < 0.5 ? `Payer les intérêts par des retraits ne coûte <b>aucun impôt</b>. ` : `Payer les intérêts par des retraits coûte ${N(impotInterets)} d'impôt. `;
+  phrase += p.rembours && impotFin > 0.5 ? `L'impôt arrive surtout <b>à la fin</b>, si vous remboursez le crédit en retirant l'argent du contrat.` : '';
+  $('r-phrase').innerHTML = phrase;
+  const al = [];
+  if (r.manque > 0.5) al.push(`Le contrat ne suffit pas à rembourser le crédit : il manque ${E(r.manque)}.`);
+  if (r.tension > 0.8) al.push(`À un moment, le crédit dépasse ${Math.round(r.tension * 100)} % de la valeur du contrat : la banque demanderait un remboursement partiel ou plus de garanties.`);
+  $('r-alert').hidden = !al.length; $('r-alert').textContent = al.join(' ');
 
-  // tableau
-  const ex = (x) => x.exoDispo;
-  let html = '';
-  for (const x of L) {
-    html += `<tr class="${x.final ? 'final' : ''}"><td>${x.annee}${x.final ? ' <span class="pill p-tax">remboursement ' + eurC.format(x.remb) + ' €</span>' : ''}</td>
-      <td>${E(x.debut)}</td><td>${E(x.rendement)}</td><td>${E(x.interets)}</td><td>${E(x.pv)}</td><td>${E(ex(x))}</td>
-      <td class="${x.taxable > 0.5 ? 'taxed' : ''}">${E(x.taxable)}</td>
-      <td class="${x.taxe > 0.5 ? 'taxed' : ''}">${x.taxe > 0.5 ? E(x.taxe) : '<span class="pill p-ok">0 €</span>'}</td>
-      <td>${E(x.fin)}</td><td>${E(x.latente)}</td></tr>`;
+  // Étapes
+  const V0 = p.prime * (1 - p.taxePrime);
+  $('s1').innerHTML = `Vous placez ${N(p.prime)}${p.taxePrime ? ` (${N(V0)} investis après la taxe de ${P(p.taxePrime * 100, 1)} sur la prime)` : ''}. La banque vous prête ${N(r.credit)}, avec le contrat en garantie. Votre placement reste investi et continue de rapporter ${P(p.rend * 100)} par an.`;
+  $('s2').innerHTML = `Les intérêts sont de ${N(iq)} par trimestre (${P(r.tauxCredit * 100)} × ${E(r.credit)} ÷ 4). Pour les payer, vous retirez ${N(iq)} du contrat. Seule une petite partie de ce retrait est du <b>gain</b> : le reste est votre propre argent qui vous revient.`;
+  const y1 = L[0], yN = L[L.length - 1];
+  const part = (x) => (x.interets > 0 ? (x.pvInt || 0) / x.interets : 0);
+  const pf = part(yN);
+  $('split').innerHTML = `<div class="small">Un retrait de ${E(iq)} en année ${yN.annee} :</div>
+    <div class="bar"><span class="cap" style="width:${Math.max(0, (1 - pf) * 100)}%">${pf < 0.85 ? 'votre argent ' + E(iq * (1 - pf)) : ''}</span><span class="gain" style="width:${Math.max(0, pf * 100)}%">${pf > 0.15 ? 'gain ' + E(iq * pf) : ''}</span></div>
+    <div class="lg"><span><i class="sw" style="background:var(--muted)"></i>Votre argent : ${E(iq * (1 - pf))}</span><span><i class="sw" style="background:var(--contrat)"></i>Gain : ${E(iq * pf)} (${Math.round(pf * 100)} %)</span></div>`;
+  const pvMin = Math.min(...L.map((x) => x.pvInt || 0)), pvMax = Math.max(...L.map((x) => x.pvInt || 0));
+  const exoTxt = p.pers > 1 ? `${E(p.exo)} par personne` : E(p.exo);
+  $('s3').innerHTML = impotInterets < 0.5
+    ? `<b>Aucun impôt.</b> Sur un an, la part de gain de vos retraits va de ${N(pvMin)} à ${N(pvMax)}. C'est sous l'exonération de ${exoTxt} par an : pas de taxe de ${P(p.taux * 100, 0)}.`
+    : `La part de gain de vos retraits atteint jusqu'à ${N(pvMax)} par an, au-dessus de l'exonération de ${exoTxt}. La partie qui dépasse est taxée à ${P(p.taux * 100, 0)} : ${N(impotInterets)} d'impôt au total.`;
+  const maxSans = creditSansImpot(p);
+  $('s3b').textContent = maxSans >= p.prime * 0.8 - 1
+    ? `Même en empruntant 80 % (${E(p.prime * 0.8)}), les retraits pour les intérêts resteraient exonérés.`
+    : `Pour ne payer aucun impôt sur ces retraits, il faudrait emprunter au maximum ${E(maxSans)} (${Math.round(maxSans / p.prime * 100)} % du placement).`;
+  if (p.rembours) {
+    $('s4t').textContent = 'À la fin, vous remboursez le crédit avec le contrat';
+    $('s4').innerHTML = `Vous retirez ${N(r.credit)} du contrat pour rembourser la banque. Ce gros retrait contient ${N(pvFin)} de gain d'un coup, bien au-delà de l'exonération : environ ${N(impotFin)} d'impôt, payable l'année suivante.`;
+  } else {
+    $('s4t').textContent = 'À la fin, vous remboursez le crédit avec d\'autres fonds';
+    $('s4').innerHTML = `Vous remboursez ${N(r.credit)} avec d'autres moyens : aucun retrait, donc aucun impôt à ce moment. Le gain reste dans le contrat (${N(Math.max(0, r.V - r.B))}) ; il sera taxé quand vous retirerez l'argent, au-delà de l'exonération de l'année.`;
   }
-  html += `<tr class="total"><td>Total</td><td></td><td>${E(L.reduce((s, x) => s + x.rendement, 0))}</td><td>${E(r.tot.interets)}</td><td>${E(r.tot.pv)}</td><td></td><td>${E(r.tot.taxable)}</td><td>${E(r.tot.taxe)}</td><td>${E(last.fin)}</td><td>${E(last.latente)}</td></tr>`;
-  $('rows').innerHTML = html;
 
-  // comparaison
-  $('compare').innerHTML = `
-    <div class="box"><h3>Avec crédit lombard</h3><dl>
-      <dt>Liquidité obtenue</dt><dd>${E(r.credit)}</dd>
-      <dt>Valeur du contrat en fin</dt><dd>${E(r.V)}</dd>
-      <dt>Crédit restant dû</dt><dd>${E(p.rembours ? r.manque : r.credit)}</dd>
-      <dt>Taxes payées</dt><dd class="c-tax">${E(r.tot.taxe)}</dd>
-      <dt>Intérêts payés</dt><dd>${E(r.tot.interets)}</dd>
-      <dt>Patrimoine net</dt><dd><b>${E(netAvec)}</b></dd>
-      <dt>Plus-value latente restante</dt><dd>${E(Math.max(0, r.V - r.B))}</dd></dl></div>
-    <div class="box"><h3>Sans crédit, sans rachat</h3><dl>
-      <dt>Liquidité obtenue</dt><dd>${E(0)}</dd>
-      <dt>Valeur du contrat en fin</dt><dd>${E(r.sansV)}</dd>
-      <dt>Crédit restant dû</dt><dd>${E(0)}</dd>
-      <dt>Taxes payées</dt><dd>${E(0)}</dd>
-      <dt>Intérêts payés</dt><dd>${E(0)}</dd>
-      <dt>Patrimoine net</dt><dd><b>${E(r.sansV)}</b></dd>
-      <dt>Plus-value latente (taxée au rachat)</dt><dd>${E(latenteSans)}</dd></dl></div>
-    <div class="box"><h3>Différence</h3><dl>
-      <dt>Coût total du montage</dt><dd><b>${E(r.sansV - netAvec)}</b></dd>
-      <dt>dont intérêts</dt><dd>${E(r.tot.interets)}</dd>
-      <dt>dont taxes</dt><dd class="c-tax">${E(r.tot.taxe)}</dd>
-      <dt>dont rendement perdu sur les rachats</dt><dd>${E(r.sansV - netAvec - r.tot.interets - r.tot.taxe)}</dd></dl>
-      <p class="note">Le montage donne ${E(r.credit)} de liquidité pendant ${p.duree} ans. Ce qui est fait de cette somme (autre placement, immobilier…) n'est pas pris en compte.</p></div>`;
+  // Bilan
+  $('b-ans').textContent = ans;
+  // Patrimoine comparable : avec le montage, le client a le contrat, la somme empruntée (gardée telle quelle) et la dette ;
+  // somme empruntée et dette s'annulent, il reste la valeur du contrat avant remboursement, moins l'impôt payé.
+  const avec = r.Vavant - r.tot.taxe;
+  const sans = r.sansV;
+  const max = Math.max(avec, sans, 1);
+  const bar = (lab, v, col) => `<div class="vrow"><span class="lab">${lab}</span><div class="vbar" style="width:${Math.max(18, v / max * 100)}%;background:${col}">${E(v)}</div></div>`;
+  $('versus').innerHTML = bar('Sans crédit lombard', sans, 'var(--muted)') + bar('Avec crédit lombard', avec, 'var(--contrat)');
+  const perdu = Math.max(0, sans - avec - r.tot.interets - r.tot.taxe);
+  const cout = sans - avec;
+  $('cost').innerHTML = `<dt>Intérêts payés à la banque</dt><dd>${E(r.tot.interets)}</dd>
+    <dt>Impôt sur les gains</dt><dd class="c-impot">${E(r.tot.taxe)}</dd>
+    <dt>Rendement perdu sur l'argent retiré pour les intérêts</dt><dd>${E(perdu)}</dd>
+    <dt class="tot">Coût total du crédit lombard</dt><dd class="tot">${E(cout)}</dd>
+    <dt>Soit, par an, en % de la somme empruntée</dt><dd>${P(cout / Math.max(1, r.credit) / p.duree * 100)}</dd>`;
+  $('b-note').textContent = `Pour comparer à patrimoine égal, on suppose que vous gardez les ${E(r.credit)} empruntés sans les placer : ils servent à rembourser la banque à la fin. Ce que vous en faites entre-temps (immobilier, autre placement…) vient en plus et n'est pas compté. Dans les deux cas, le gain encore dans le contrat sera taxé au retrait, au-delà de l'exonération de l'année.`;
 
-  dessinerPV(L, p);
-  dessinerValeur(L, r);
-}
-
-// ---------- graphiques (SVG à la main) ----------
-const NS = 'http://www.w3.org/2000/svg';
-function svgEl(tag, attrs, parent) { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; }
-function niceMax(v) { if (v <= 0) return 1; const p = Math.pow(10, Math.floor(Math.log10(v))); const m = v / p; return (m <= 1 ? 1 : m <= 2 ? 2 : m <= 2.5 ? 2.5 : m <= 5 ? 5 : 10) * p; }
-function axe(svg, W, H, m, max, n) {
-  for (let k = 0; k <= n; k++) {
-    const v = max * k / n, y = m.t + (H - m.t - m.b) * (1 - k / n);
-    svgEl('line', { x1: m.l, x2: W - m.r, y1: y, y2: y, stroke: 'var(--rule)', 'stroke-width': 1 }, svg);
-    const t = svgEl('text', { x: m.l - 6, y: y + 4, 'text-anchor': 'end', fill: 'var(--muted)', 'font-size': 11, 'font-family': 'var(--f-num)' }, svg);
-    t.textContent = eurC.format(v);
-  }
-}
-function tip(box) { let t = box.querySelector('.tip'); if (!t) { t = document.createElement('div'); t.className = 'tip'; t.hidden = true; box.appendChild(t); } return t; }
-function montrer(t, box, x, y, html) { t.innerHTML = html; t.hidden = false; const w = t.offsetWidth; t.style.left = Math.max(0, Math.min(box.clientWidth - w, x - w / 2)) + 'px'; t.style.top = Math.max(0, y - t.offsetHeight - 10) + 'px'; }
-
-function dessinerPV(L, p) {
-  const box = $('ch-pv'); box.querySelectorAll('svg').forEach((s) => s.remove());
-  const W = Math.max(320, box.clientWidth || 600), H = 250, m = { t: 14, r: 10, b: 28, l: 54 };
-  const svg = svgEl('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Plus-value réalisée par année et exonération' }); box.prepend(svg);
-  // Avec remboursement final, la dernière barre écrase les autres : on la plafonne visuellement et on l'annote.
-  const exoMax = Math.max(...L.map((x) => x.exoDispo));
-  const courants = L.filter((x) => !x.final).map((x) => x.pv);
-  const ref = Math.max(exoMax * 1.25, ...courants, 1);
-  const finalHors = L.some((x) => x.final && x.pv > ref * 1.6);
-  const max = niceMax(finalHors ? ref : Math.max(ref, ...L.map((x) => x.pv)));
-  axe(svg, W, H, m, max, 4);
-  const iw = (W - m.l - m.r) / L.length, bw = Math.min(30, iw * 0.62);
-  const y = (v) => m.t + (H - m.t - m.b) * (1 - Math.min(v, max) / max);
-  const t = tip(box);
-  L.forEach((x, k) => {
-    const cx = m.l + iw * (k + 0.5), x0 = cx - bw / 2;
-    const exo = Math.min(x.pv, x.exoDispo), tax = Math.max(0, x.pv - x.exoDispo);
-    svgEl('rect', { x: x0, y: y(exo), width: bw, height: Math.max(0, y(0) - y(exo)), rx: 3, fill: 'var(--accent)' }, svg);
-    if (tax > 0) svgEl('rect', { x: x0, y: y(exo + tax), width: bw, height: Math.max(0, y(exo) - y(exo + tax)), rx: 3, fill: 'var(--tax)' }, svg);
-    // ligne d'exonération par année
-    svgEl('line', { x1: cx - iw / 2 + 2, x2: cx + iw / 2 - 2, y1: y(x.exoDispo), y2: y(x.exoDispo), stroke: 'var(--muted)', 'stroke-width': 1.5, 'stroke-dasharray': '4 3' }, svg);
-    if (x.final && x.pv > max) { const lab = svgEl('text', { x: cx, y: m.t - 2, 'text-anchor': 'middle', fill: 'var(--tax)', 'font-size': 11, 'font-family': 'var(--f-num)' }, svg); lab.textContent = '↑ ' + eurC.format(x.pv) + ' €'; }
-    const lt = svgEl('text', { x: cx, y: H - 9, 'text-anchor': 'middle', fill: 'var(--muted)', 'font-size': 11, 'font-family': 'var(--f-num)' }, svg);
-    lt.textContent = (L.length > 12 && k % 2) ? '' : x.annee;
-    const hit = svgEl('rect', { x: cx - iw / 2, y: m.t, width: iw, height: H - m.t - m.b, fill: 'transparent' }, svg);
-    hit.addEventListener('mousemove', (ev) => { const b = box.getBoundingClientRect(); montrer(t, box, ev.clientX - b.left, ev.clientY - b.top,
-      `<div class="t">Année ${x.annee}${x.final ? ' · remboursement' : ''}</div>Plus-value réalisée : ${E(x.pv)}<br>Exonération : ${E(x.exoDispo)}<br>Taxe : ${E(x.taxe)}`); });
-    hit.addEventListener('mouseleave', () => { t.hidden = true; });
-  });
-}
-
-function dessinerValeur(L, r) {
-  const box = $('ch-val'); box.querySelectorAll('svg').forEach((s) => s.remove());
-  const W = Math.max(320, box.clientWidth || 600), H = 260, m = { t: 14, r: 12, b: 28, l: 54 };
-  const svg = svgEl('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Valeur du contrat et crédit en cours' }); box.prepend(svg);
-  const pts = [{ a: 0, v: L[0].debut, s: L[0].debut, c: r.credit }].concat(L.map((x) => ({ a: x.annee, v: x.fin, s: x.sans, c: x.creditFin })));
-  const max = niceMax(Math.max(...pts.map((d) => Math.max(d.v, d.s, d.c))));
-  axe(svg, W, H, m, max, 4);
-  const n = pts.length - 1, X = (a) => m.l + (W - m.l - m.r) * a / n, Y = (v) => m.t + (H - m.t - m.b) * (1 - v / max);
-  const path = (key, color, dash) => svgEl('path', { d: pts.map((d, k) => (k ? 'L' : 'M') + X(d.a) + ' ' + Y(d[key])).join(' '), fill: 'none', stroke: color, 'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-linecap': 'round', ...(dash ? { 'stroke-dasharray': dash } : {}) }, svg);
-  path('s', 'var(--muted)', '5 4'); path('c', 'var(--loan)'); path('v', 'var(--accent)');
-  pts.forEach((d) => { if (n <= 12 || d.a % 2 === 0) { const t = svgEl('text', { x: X(d.a), y: H - 9, 'text-anchor': 'middle', fill: 'var(--muted)', 'font-size': 11, 'font-family': 'var(--f-num)' }, svg); t.textContent = d.a; } });
-  const last = pts[n];
-  svgEl('circle', { cx: X(last.a), cy: Y(last.v), r: 4, fill: 'var(--accent)' }, svg);
-  const t = tip(box);
-  const hit = svgEl('rect', { x: m.l, y: m.t, width: W - m.l - m.r, height: H - m.t - m.b, fill: 'transparent' }, svg);
-  hit.addEventListener('mousemove', (ev) => { const b = box.getBoundingClientRect(), sx = (ev.clientX - b.left) * W / b.width;
-    const a = Math.max(0, Math.min(n, Math.round((sx - m.l) / (W - m.l - m.r) * n))), d = pts[a];
-    montrer(t, box, ev.clientX - b.left, ev.clientY - b.top, `<div class="t">${a ? 'Fin de l\'année ' + a : 'Départ'}</div>Avec crédit : ${E(d.v)}<br>Sans crédit : ${E(d.s)}<br>Crédit en cours : ${E(d.c)}`); });
-  hit.addEventListener('mouseleave', () => { t.hidden = true; });
+  // Détail
+  $('rows').innerHTML = L.map((x) => `<tr class="${x.final ? 'fin' : ''}"><td>${x.annee}${x.final ? ' (remboursement)' : ''}</td><td>${E(x.debut)}</td><td>${E(x.gain)}</td>
+    <td>${E(x.interets)}${x.final ? ' + ' + E(r.credit) : ''}</td><td>${E(x.pv)}</td><td>${E(x.exo)}</td><td class="${x.taxe > 0.5 ? 't' : ''}">${E(x.taxe)}</td><td>${E(x.fin)}</td></tr>`).join('');
 }
 
 $('f').addEventListener('input', rendre);
+$('f').addEventListener('change', rendre);
 $('f').addEventListener('submit', (e) => e.preventDefault());
-window.addEventListener('resize', () => { clearTimeout(window.__rz); window.__rz = setTimeout(rendre, 120); });
 rendre();
 </script>
