@@ -1,0 +1,8 @@
+# 2026-10-29 — Simulateur assurance vie + crédit lombard (impact fiscal)
+
+- **Demande** : artefact dynamique pour montrer à la direction l'impact fiscal d'un montage : placement en assurance vie, crédit lombard de 50 à 80 % de la prime (Euribor 3 mois + 1 %), rachats trimestriels pour payer les intérêts, taxe belge de 10 % sur les plus-values avec exonération de 10 000 €.
+- **Livrable** : https://claude.ai/artifact/PxsYmKYiYkyUohKB9iKXZW (privé, à partager depuis le menu Partager) ; source `docs/livrables/2026-10-29-simulateur-lombard-assurance-vie.html`.
+- **Modèle** : simulation trimestrielle ; plus-value d'un rachat au prorata (rachat × (valeur − montant investi restant) ÷ valeur) ; montant investi de référence = prime versée (taxe sur prime comprise) ; exonération par personne et par an, consommée d'abord par les autres plus-values ; report de l'exonération en option (1 000 €/an, plafond 15 000 €) ; remboursement du crédit à l'échéance par rachat en option ; taxe payée hors contrat ; crédit maximal sans taxe calculé par dichotomie ; alerte si le contrat ne couvre plus le crédit.
+- **Hypothèses par défaut** : prime 500 000 €, taxe sur prime 2 %, rendement 5 %, crédit 60 %, Euribor 2 % (à mettre à jour), marge 1 %, 10 ans. Résultat : 9 000 € d'intérêts par an, aucune taxe sur les rachats d'intérêts ; le remboursement final par rachat coûte environ 10 500 € de taxe.
+- **Limites** : branche 23 seulement (branche 21 : précompte 30 % avant 8 ans non modélisé) ; Euribor et rendement constants ; partage de l'exonération pour un couple à confirmer ; pas un conseil fiscal.
+- Sources : Belfius, Test-Achats, Claeys & Engels (avril 2026), Securex (liens dans la page).
