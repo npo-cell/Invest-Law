@@ -6,3 +6,7 @@
 - **Hypothèses par défaut** : prime 500 000 €, taxe sur prime 2 %, rendement 5 %, crédit 60 %, Euribor 2 % (à mettre à jour), marge 1 %, 10 ans. Résultat : 9 000 € d'intérêts par an, aucune taxe sur les rachats d'intérêts ; le remboursement final par rachat coûte environ 10 500 € de taxe.
 - **Limites** : branche 23 seulement (branche 21 : précompte 30 % avant 8 ans non modélisé) ; Euribor et rendement constants ; partage de l'exonération pour un couple à confirmer ; pas un conseil fiscal.
 - Sources : Belfius, Test-Achats, Claeys & Engels (avril 2026), Securex (liens dans la page).
+
+## Version 2 (simplifiée), même lien
+- Retour de l'utilisatrice : trop compliqué. Page refaite en une colonne : 6 questions simples (montant, rendement, part empruntée, Euribor + marge, durée, mode de remboursement), réglages fiscaux repliés ; « En résumé » en 3 chiffres (somme reçue, intérêts, impôt) ; l'histoire du montage en 4 étapes avec la décomposition d'un retrait (votre argent / gain) ; bilan à patrimoine égal (la somme empruntée est supposée gardée) avec le coût total décomposé (intérêts, impôt, rendement perdu) ; tableau et hypothèses repliés.
+- Correction : la première version comparait la valeur finale sans tenir compte de la somme empruntée, ce qui surestimait le coût. Valeurs par défaut : coût total 125 834 € sur 10 ans pour 300 000 € empruntés (4,19 % par an), dont 90 000 € d'intérêts, 10 532 € d'impôt et 25 302 € de rendement perdu.
